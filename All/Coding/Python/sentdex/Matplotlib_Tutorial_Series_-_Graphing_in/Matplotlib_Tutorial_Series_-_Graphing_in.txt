@@ -1,7 +1,7 @@
 
-
+Videos 1-25
 /All/Coding/Python/sentdex/Matplotlib_Tutorial_Series_-_Graphing_in/Videos_1-25/Videos_1-25.txt
 
-
+Videos 26-32
 /All/Coding/Python/sentdex/Matplotlib_Tutorial_Series_-_Graphing_in/Videos_26-32/Videos_26-32.txt
 Matplotlib Tutorial Series - Graphing in Python

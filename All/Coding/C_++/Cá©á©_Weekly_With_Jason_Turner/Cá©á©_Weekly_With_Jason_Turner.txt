@@ -1,55 +1,55 @@
 
-
+## All Videos
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+An RPG in C++20
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/An_RPG_in_C++20/An_RPG_in_C++20.txt
 
-
+Ask C++ Weekly
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/Ask_C++_Weekly/Ask_C++_Weekly.txt
 
-
+C++ Code Reviews
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Code_Reviews/C++_Code_Reviews.txt
 
-
+C++ Homework
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Homework/C++_Homework.txt
 
-
+C++ i2c Development Live Streams
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_i2c_Development_Live_Streams/C++_i2c_Development_Live_Streams.txt
 
-
+C++ Lambdas
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Lambdas/C++_Lambdas.txt
 
-
+C++ Weekly
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Weekly/C++_Weekly.txt
 
-
+C++ Weekly C++17
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Weekly_C++17/C++_Weekly_C++17.txt
 
-
+C++ Weekly C++20
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Weekly_C++20/C++_Weekly_C++20.txt
 
-
+C++ Weekly C++23
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Weekly_C++23/C++_Weekly_C++23.txt
 
-
+C++ Weekly Special Edition
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/C++_Weekly_Special_Edition/C++_Weekly_Special_Edition.txt
 
-
+Christmas 2019 Class - Understanding C++ Through Lambdas
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/Christmas_2019_Class_-_Understanding_C++/Christmas_2019_Class_-_Understanding_C++.txt
 
-
+constexpr
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/constexpr/constexpr.txt
 
-
+Intro To C++ Tools
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/Intro_To_C++_Tools/Intro_To_C++_Tools.txt
 
-
+My Presentations
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/My_Presentations/My_Presentations.txt
 
-
+PMR And Allocators
 /All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/PMR_And_Allocators/PMR_And_Allocators.txt
 Cᐩᐩ Weekly With Jason Turner

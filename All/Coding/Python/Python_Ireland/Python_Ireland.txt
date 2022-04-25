@@ -1,49 +1,49 @@
 
-
+## All Videos
 /All/Coding/Python/Python_Ireland/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Python_Ireland/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Lightning talks
 /All/Coding/Python/Python_Ireland/Lightning_talks/Lightning_talks.txt
 
-
+Pycon Ireland 2015
 /All/Coding/Python/Python_Ireland/Pycon_Ireland_2015/Pycon_Ireland_2015.txt
 
-
+Pycon Ireland 2016
 /All/Coding/Python/Python_Ireland/Pycon_Ireland_2016/Pycon_Ireland_2016.txt
 
-
+Pycon Ireland 2017
 /All/Coding/Python/Python_Ireland/Pycon_Ireland_2017/Pycon_Ireland_2017.txt
 
-
+Pycon Ireland 2017 Talk Track 1
 /All/Coding/Python/Python_Ireland/Pycon_Ireland_2017_Talk_Track_1/Pycon_Ireland_2017_Talk_Track_1.txt
 
-
+Pycon Ireland 2017 Talk Track 2
 /All/Coding/Python/Python_Ireland/Pycon_Ireland_2017_Talk_Track_2/Pycon_Ireland_2017_Talk_Track_2.txt
 
-
+PyCon Ireland 2018
 /All/Coding/Python/Python_Ireland/PyCon_Ireland_2018/PyCon_Ireland_2018.txt
 
-
+PyCon Ireland 2018 - Talk Track 1
 /All/Coding/Python/Python_Ireland/PyCon_Ireland_2018_-_Talk_Track_1/PyCon_Ireland_2018_-_Talk_Track_1.txt
 
-
+PyCon Ireland 2018 - Talk Track 2
 /All/Coding/Python/Python_Ireland/PyCon_Ireland_2018_-_Talk_Track_2/PyCon_Ireland_2018_-_Talk_Track_2.txt
 
-
+PyCon Ireland 2019 - Track 1
 /All/Coding/Python/Python_Ireland/PyCon_Ireland_2019_-_Track_1/PyCon_Ireland_2019_-_Track_1.txt
 
-
+PyCon Ireland 2019 - Track 3
 /All/Coding/Python/Python_Ireland/PyCon_Ireland_2019_-_Track_3/PyCon_Ireland_2019_-_Track_3.txt
 
-
+PyCon Ireland 2019 Track 2
 /All/Coding/Python/Python_Ireland/PyCon_Ireland_2019_Track_2/PyCon_Ireland_2019_Track_2.txt
 
-
+PyData Summer Season
 /All/Coding/Python/Python_Ireland/PyData_Summer_Season/PyData_Summer_Season.txt
 
-
+Remote MeetUp events
 /All/Coding/Python/Python_Ireland/Remote_MeetUp_events/Remote_MeetUp_events.txt
 Python Ireland

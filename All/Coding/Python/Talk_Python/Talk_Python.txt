@@ -1,13 +1,13 @@
 
-
+## All Videos
 /All/Coding/Python/Talk_Python/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Talk_Python/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Course Trailers
 /All/Coding/Python/Talk_Python/Course_Trailers/Course_Trailers.txt
 
-
+Episodes
 /All/Coding/Python/Talk_Python/Episodes/Episodes.txt
 Talk Python

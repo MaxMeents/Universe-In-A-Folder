@@ -1,10 +1,10 @@
 
-
+Videos 1-25
 /All/Operating_Systems/iOS/Jared_Davidson/Swift_Tutorials/Videos_1-25/Videos_1-25.txt
 
-
+Videos 26-50
 /All/Operating_Systems/iOS/Jared_Davidson/Swift_Tutorials/Videos_26-50/Videos_26-50.txt
 
-
+Videos 51-72
 /All/Operating_Systems/iOS/Jared_Davidson/Swift_Tutorials/Videos_51-72/Videos_51-72.txt
 Swift Tutorials

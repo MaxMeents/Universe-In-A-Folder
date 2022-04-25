@@ -1,286 +1,286 @@
 
-
+Videos 1-25
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1-25/Videos_1-25.txt
 
-
+Videos 1001-1025
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1001-1025/Videos_1001-1025.txt
 
-
+Videos 101-125
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_101-125/Videos_101-125.txt
 
-
+Videos 1026-1050
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1026-1050/Videos_1026-1050.txt
 
-
+Videos 1051-1075
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1051-1075/Videos_1051-1075.txt
 
-
+Videos 1076-1100
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1076-1100/Videos_1076-1100.txt
 
-
+Videos 1101-1125
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1101-1125/Videos_1101-1125.txt
 
-
+Videos 1126-1150
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1126-1150/Videos_1126-1150.txt
 
-
+Videos 1151-1175
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1151-1175/Videos_1151-1175.txt
 
-
+Videos 1176-1200
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1176-1200/Videos_1176-1200.txt
 
-
+Videos 1201-1225
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1201-1225/Videos_1201-1225.txt
 
-
+Videos 1226-1250
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1226-1250/Videos_1226-1250.txt
 
-
+Videos 1251-1275
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1251-1275/Videos_1251-1275.txt
 
-
+Videos 126-150
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_126-150/Videos_126-150.txt
 
-
+Videos 1276-1300
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1276-1300/Videos_1276-1300.txt
 
-
+Videos 1301-1325
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1301-1325/Videos_1301-1325.txt
 
-
+Videos 1326-1350
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1326-1350/Videos_1326-1350.txt
 
-
+Videos 1351-1375
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1351-1375/Videos_1351-1375.txt
 
-
+Videos 1376-1400
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1376-1400/Videos_1376-1400.txt
 
-
+Videos 1401-1425
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1401-1425/Videos_1401-1425.txt
 
-
+Videos 1426-1450
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1426-1450/Videos_1426-1450.txt
 
-
+Videos 1451-1475
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1451-1475/Videos_1451-1475.txt
 
-
+Videos 1476-1500
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1476-1500/Videos_1476-1500.txt
 
-
+Videos 1501-1525
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1501-1525/Videos_1501-1525.txt
 
-
+Videos 151-175
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_151-175/Videos_151-175.txt
 
-
+Videos 1526-1550
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1526-1550/Videos_1526-1550.txt
 
-
+Videos 1551-1575
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1551-1575/Videos_1551-1575.txt
 
-
+Videos 1576-1600
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1576-1600/Videos_1576-1600.txt
 
-
+Videos 1601-1625
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1601-1625/Videos_1601-1625.txt
 
-
+Videos 1626-1650
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1626-1650/Videos_1626-1650.txt
 
-
+Videos 1651-1675
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1651-1675/Videos_1651-1675.txt
 
-
+Videos 1676-1700
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1676-1700/Videos_1676-1700.txt
 
-
+Videos 1701-1725
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1701-1725/Videos_1701-1725.txt
 
-
+Videos 1726-1750
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1726-1750/Videos_1726-1750.txt
 
-
+Videos 1751-1775
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1751-1775/Videos_1751-1775.txt
 
-
+Videos 176-200
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_176-200/Videos_176-200.txt
 
-
+Videos 1776-1800
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1776-1800/Videos_1776-1800.txt
 
-
+Videos 1801-1825
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1801-1825/Videos_1801-1825.txt
 
-
+Videos 1826-1850
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1826-1850/Videos_1826-1850.txt
 
-
+Videos 1851-1875
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1851-1875/Videos_1851-1875.txt
 
-
+Videos 1876-1900
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1876-1900/Videos_1876-1900.txt
 
-
+Videos 1901-1925
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1901-1925/Videos_1901-1925.txt
 
-
+Videos 1926-1950
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1926-1950/Videos_1926-1950.txt
 
-
+Videos 1951-1975
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1951-1975/Videos_1951-1975.txt
 
-
+Videos 1976-2000
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_1976-2000/Videos_1976-2000.txt
 
-
+Videos 2001-2025
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2001-2025/Videos_2001-2025.txt
 
-
+Videos 201-225
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_201-225/Videos_201-225.txt
 
-
+Videos 2026-2050
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2026-2050/Videos_2026-2050.txt
 
-
+Videos 2051-2075
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2051-2075/Videos_2051-2075.txt
 
-
+Videos 2076-2100
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2076-2100/Videos_2076-2100.txt
 
-
+Videos 2101-2125
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2101-2125/Videos_2101-2125.txt
 
-
+Videos 2126-2150
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2126-2150/Videos_2126-2150.txt
 
-
+Videos 2151-2175
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2151-2175/Videos_2151-2175.txt
 
-
+Videos 2176-2200
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2176-2200/Videos_2176-2200.txt
 
-
+Videos 2201-2225
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2201-2225/Videos_2201-2225.txt
 
-
+Videos 2226-2250
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2226-2250/Videos_2226-2250.txt
 
-
+Videos 2251-2275
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2251-2275/Videos_2251-2275.txt
 
-
+Videos 226-250
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_226-250/Videos_226-250.txt
 
-
+Videos 2276-2300
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2276-2300/Videos_2276-2300.txt
 
-
+Videos 2301-2325
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2301-2325/Videos_2301-2325.txt
 
-
+Videos 2326-2350
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2326-2350/Videos_2326-2350.txt
 
-
+Videos 2351-2371
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_2351-2371/Videos_2351-2371.txt
 
-
+Videos 251-275
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_251-275/Videos_251-275.txt
 
-
+Videos 26-50
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_26-50/Videos_26-50.txt
 
-
+Videos 276-300
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_276-300/Videos_276-300.txt
 
-
+Videos 301-325
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_301-325/Videos_301-325.txt
 
-
+Videos 326-350
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_326-350/Videos_326-350.txt
 
-
+Videos 351-375
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_351-375/Videos_351-375.txt
 
-
+Videos 376-400
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_376-400/Videos_376-400.txt
 
-
+Videos 401-425
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_401-425/Videos_401-425.txt
 
-
+Videos 426-450
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_426-450/Videos_426-450.txt
 
-
+Videos 451-475
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_451-475/Videos_451-475.txt
 
-
+Videos 476-500
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_476-500/Videos_476-500.txt
 
-
+Videos 501-525
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_501-525/Videos_501-525.txt
 
-
+Videos 51-75
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_51-75/Videos_51-75.txt
 
-
+Videos 526-550
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_526-550/Videos_526-550.txt
 
-
+Videos 551-575
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_551-575/Videos_551-575.txt
 
-
+Videos 576-600
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_576-600/Videos_576-600.txt
 
-
+Videos 601-625
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_601-625/Videos_601-625.txt
 
-
+Videos 626-650
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_626-650/Videos_626-650.txt
 
-
+Videos 651-675
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_651-675/Videos_651-675.txt
 
-
+Videos 676-700
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_676-700/Videos_676-700.txt
 
-
+Videos 701-725
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_701-725/Videos_701-725.txt
 
-
+Videos 726-750
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_726-750/Videos_726-750.txt
 
-
+Videos 751-775
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_751-775/Videos_751-775.txt
 
-
+Videos 76-100
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_76-100/Videos_76-100.txt
 
-
+Videos 776-800
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_776-800/Videos_776-800.txt
 
-
+Videos 801-825
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_801-825/Videos_801-825.txt
 
-
+Videos 826-850
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_826-850/Videos_826-850.txt
 
-
+Videos 851-875
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_851-875/Videos_851-875.txt
 
-
+Videos 876-900
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_876-900/Videos_876-900.txt
 
-
+Videos 901-925
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_901-925/Videos_901-925.txt
 
-
+Videos 926-950
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_926-950/Videos_926-950.txt
 
-
+Videos 951-975
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_951-975/Videos_951-975.txt
 
-
+Videos 976-1000
 /All/Coding/MATLAB/MATLAB/##_All_Videos/Videos_976-1000/Videos_976-1000.txt
 ## All Videos

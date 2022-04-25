@@ -1,19 +1,19 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Godot/Goodgis/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Godot/Goodgis/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Dewdrop Dynasty Devlog
 /All/Game_Development_Engines/Godot/Goodgis/Dewdrop_Dynasty_Devlog/Dewdrop_Dynasty_Devlog.txt
 
-
+Indie Game Development with Goodgis
 /All/Game_Development_Engines/Godot/Goodgis/Indie_Game_Development_with_Goodgis/Indie_Game_Development_with_Goodgis.txt
 
-
+Past Streams
 /All/Game_Development_Engines/Godot/Goodgis/Past_Streams/Past_Streams.txt
 
-
+Thoughts on Game Engines & Software
 /All/Game_Development_Engines/Godot/Goodgis/Thoughts_on_Game_Engines_&_Software/Thoughts_on_Game_Engines_&_Software.txt
 Goodgis

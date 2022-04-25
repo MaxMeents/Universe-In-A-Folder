@@ -1,13 +1,13 @@
 
-
+## All Videos
 /All/Coding/JavaScript/Northwest_Chicago_Javascript/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/JavaScript/Northwest_Chicago_Javascript/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Developer Tools
 /All/Coding/JavaScript/Northwest_Chicago_Javascript/Developer_Tools/Developer_Tools.txt
 
-
+Fundamentals
 /All/Coding/JavaScript/Northwest_Chicago_Javascript/Fundamentals/Fundamentals.txt
 Northwest Chicago Javascript

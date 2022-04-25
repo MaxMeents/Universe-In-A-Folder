@@ -1,115 +1,115 @@
 
-
+## All Videos
 /All/Coding/Ruby_on_Rails/GoRails/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Ruby_on_Rails/GoRails/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+ActionText
 /All/Coding/Ruby_on_Rails/GoRails/ActionText/ActionText.txt
 
-
+ActiveRecord
 /All/Coding/Ruby_on_Rails/GoRails/ActiveRecord/ActiveRecord.txt
 
-
+Advanced Rails
 /All/Coding/Ruby_on_Rails/GoRails/Advanced_Rails/Advanced_Rails.txt
 
-
+Advanced Ruby
 /All/Coding/Ruby_on_Rails/GoRails/Advanced_Ruby/Advanced_Ruby.txt
 
-
+Background Jobs in Rails
 /All/Coding/Ruby_on_Rails/GoRails/Background_Jobs_in_Rails/Background_Jobs_in_Rails.txt
 
-
+Building a Forum with Ruby on Rails
 /All/Coding/Ruby_on_Rails/GoRails/Building_a_Forum_with_Ruby_on_Rails/Building_a_Forum_with_Ruby_on_Rails.txt
 
-
+Common Rails App Features
 /All/Coding/Ruby_on_Rails/GoRails/Common_Rails_App_Features/Common_Rails_App_Features.txt
 
-
+Deploying Ruby on Rails
 /All/Coding/Ruby_on_Rails/GoRails/Deploying_Ruby_on_Rails/Deploying_Ruby_on_Rails.txt
 
-
+Design Patterns
 /All/Coding/Ruby_on_Rails/GoRails/Design_Patterns/Design_Patterns.txt
 
-
+DevOps
 /All/Coding/Ruby_on_Rails/GoRails/DevOps/DevOps.txt
 
-
+Embeddable Javascript Widget w Rails Backend
 /All/Coding/Ruby_on_Rails/GoRails/Embeddable_Javascript_Widget_w_Rails_Bac/Embeddable_Javascript_Widget_w_Rails_Bac.txt
 
-
+Ember with Rails Introduction
 /All/Coding/Ruby_on_Rails/GoRails/Ember_with_Rails_Introduction/Ember_with_Rails_Introduction.txt
 
-
+Frontend Javascript with Ruby on Rails
 /All/Coding/Ruby_on_Rails/GoRails/Frontend_Javascript_with_Ruby_on_Rails/Frontend_Javascript_with_Ruby_on_Rails.txt
 
-
+Group Chat with ActionCable
 /All/Coding/Ruby_on_Rails/GoRails/Group_Chat_with_ActionCable/Group_Chat_with_ActionCable.txt
 
-
+Hotwire for Rails
 /All/Coding/Ruby_on_Rails/GoRails/Hotwire_for_Rails/Hotwire_for_Rails.txt
 
-
+How To Build Ruby on Rails APIs
 /All/Coding/Ruby_on_Rails/GoRails/How_To_Build_Ruby_on_Rails_APIs/How_To_Build_Ruby_on_Rails_APIs.txt
 
-
+How to Contribute to Rails & Open Source
 /All/Coding/Ruby_on_Rails/GoRails/How_to_Contribute_to_Rails_&_Open_Source/How_to_Contribute_to_Rails_&_Open_Source.txt
 
-
+Jumpstart Pro
 /All/Coding/Ruby_on_Rails/GoRails/Jumpstart_Pro/Jumpstart_Pro.txt
 
-
+Live Coding Streams
 /All/Coding/Ruby_on_Rails/GoRails/Live_Coding_Streams/Live_Coding_Streams.txt
 
-
+Most Used Rails Gems
 /All/Coding/Ruby_on_Rails/GoRails/Most_Used_Rails_Gems/Most_Used_Rails_Gems.txt
 
-
+Multi-user Spreadsheets with ActionCable
 /All/Coding/Ruby_on_Rails/GoRails/Multi-user_Spreadsheets_with_ActionCable/Multi-user_Spreadsheets_with_ActionCable.txt
 
-
+Nested Comment Threads
 /All/Coding/Ruby_on_Rails/GoRails/Nested_Comment_Threads/Nested_Comment_Threads.txt
 
-
+Open Source Vlog
 /All/Coding/Ruby_on_Rails/GoRails/Open_Source_Vlog/Open_Source_Vlog.txt
 
-
+Pay gem for Rails
 /All/Coding/Ruby_on_Rails/GoRails/Pay_gem_for_Rails/Pay_gem_for_Rails.txt
 
-
+Payments with Stripe
 /All/Coding/Ruby_on_Rails/GoRails/Payments_with_Stripe/Payments_with_Stripe.txt
 
-
+Rails 7
 /All/Coding/Ruby_on_Rails/GoRails/Rails_7/Rails_7.txt
 
-
+Rails Explained
 /All/Coding/Ruby_on_Rails/GoRails/Rails_Explained/Rails_Explained.txt
 
-
+Rails Performance
 /All/Coding/Ruby_on_Rails/GoRails/Rails_Performance/Rails_Performance.txt
 
-
+Realtime Rails Apps with Hotwire & ActionMailbox
 /All/Coding/Ruby_on_Rails/GoRails/Realtime_Rails_Apps_with_Hotwire_&_Actio/Realtime_Rails_Apps_with_Hotwire_&_Actio.txt
 
-
+Refactoring Ruby & Rails apps
 /All/Coding/Ruby_on_Rails/GoRails/Refactoring_Ruby_&_Rails_apps/Refactoring_Ruby_&_Rails_apps.txt
 
-
+Ruby Basics
 /All/Coding/Ruby_on_Rails/GoRails/Ruby_Basics/Ruby_Basics.txt
 
-
+Ruby on Rails for Beginners
 /All/Coding/Ruby_on_Rails/GoRails/Ruby_on_Rails_for_Beginners/Ruby_on_Rails_for_Beginners.txt
 
-
+SOLID Design Principles
 /All/Coding/Ruby_on_Rails/GoRails/SOLID_Design_Principles/SOLID_Design_Principles.txt
 
-
+Stimulus JS
 /All/Coding/Ruby_on_Rails/GoRails/Stimulus_JS/Stimulus_JS.txt
 
-
+Testing
 /All/Coding/Ruby_on_Rails/GoRails/Testing/Testing.txt
 
-
+Upgrading Rails
 /All/Coding/Ruby_on_Rails/GoRails/Upgrading_Rails/Upgrading_Rails.txt
 GoRails

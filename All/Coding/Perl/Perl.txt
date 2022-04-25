@@ -1,19 +1,19 @@
 
-
+Conference in the Cloud! A Perl and Raku Conf
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/Conference_in_the_Cloud!_A_Perl_and_Raku.txt
 
-
+Perl Programming
 /All/Coding/Perl/Perl_Programming/Perl_Programming.txt
 
-
+PerlKiwi
 /All/Coding/Perl/PerlKiwi/PerlKiwi.txt
 
-
+PhoenixPerlMongers
 /All/Coding/Perl/PhoenixPerlMongers/PhoenixPerlMongers.txt
 
-
+PitbullVEVO
 /All/Coding/Perl/PitbullVEVO/PitbullVEVO.txt
 
-
+The Perl Conference
 /All/Coding/Perl/The_Perl_Conference/The_Perl_Conference.txt
 Perl

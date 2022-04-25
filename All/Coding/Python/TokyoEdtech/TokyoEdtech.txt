@@ -1,112 +1,112 @@
 
-
+## All Videos
 /All/Coding/Python/TokyoEdtech/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/TokyoEdtech/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+A Simple Python Turtle Graphics Game
 /All/Coding/Python/TokyoEdtech/A_Simple_Python_Turtle_Graphics_Game/A_Simple_Python_Turtle_Graphics_Game.txt
 
-
+Basic Animation in Python 3
 /All/Coding/Python/TokyoEdtech/Basic_Animation_in_Python_3/Basic_Animation_in_Python_3.txt
 
-
+Basic Java for Beginners
 /All/Coding/Python/TokyoEdtech/Basic_Java_for_Beginners/Basic_Java_for_Beginners.txt
 
-
+Basic Python for Beginners
 /All/Coding/Python/TokyoEdtech/Basic_Python_for_Beginners/Basic_Python_for_Beginners.txt
 
-
+Bouncing Ball Simulator
 /All/Coding/Python/TokyoEdtech/Bouncing_Ball_Simulator/Bouncing_Ball_Simulator.txt
 
-
+Common Beginner Errors in Python
 /All/Coding/Python/TokyoEdtech/Common_Beginner_Errors_in_Python/Common_Beginner_Errors_in_Python.txt
 
-
+Intro to AP Computer Science in Java
 /All/Coding/Python/TokyoEdtech/Intro_to_AP_Computer_Science_in_Java/Intro_to_AP_Computer_Science_in_Java.txt
 
-
+Intro to Python Functions Using Turtle Graphics
 /All/Coding/Python/TokyoEdtech/Intro_to_Python_Functions_Using_Turtle_G/Intro_to_Python_Functions_Using_Turtle_G.txt
 
-
+JAVA MOOC Exercises Walk-Through
 /All/Coding/Python/TokyoEdtech/JAVA_MOOC_Exercises_Walk-Through/JAVA_MOOC_Exercises_Walk-Through.txt
 
-
+Java To Python
 /All/Coding/Python/TokyoEdtech/Java_To_Python/Java_To_Python.txt
 
-
+Live Coding  Q&A
 /All/Coding/Python/TokyoEdtech/Live_Coding__Q&A/Live_Coding__Q&A.txt
 
-
+Live Coding Frogger!
 /All/Coding/Python/TokyoEdtech/Live_Coding_Frogger!/Live_Coding_Frogger!.txt
 
-
+Live Coding Mass Defense Game
 /All/Coding/Python/TokyoEdtech/Live_Coding_Mass_Defense_Game/Live_Coding_Mass_Defense_Game.txt
 
-
+Live Coding Tetris
 /All/Coding/Python/TokyoEdtech/Live_Coding_Tetris/Live_Coding_Tetris.txt
 
-
+Pong in Python 3 for Beginners
 /All/Coding/Python/TokyoEdtech/Pong_in_Python_3_for_Beginners/Pong_in_Python_3_for_Beginners.txt
 
-
+Python Final Exam Review 1
 /All/Coding/Python/TokyoEdtech/Python_Final_Exam_Review_1/Python_Final_Exam_Review_1.txt
 
-
+Python Game Programming Concepts
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Concepts/Python_Game_Programming_Concepts.txt
 
-
+Python Game Programming Space Arena Tutorial
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Space_Arena_Tuto/Python_Game_Programming_Space_Arena_Tuto.txt
 
-
+Python Game Programming Tutorial Falling Skies
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_Falling/Python_Game_Programming_Tutorial_Falling.txt
 
-
+Python Game Programming Tutorial Maze Game
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_Maze_Ga/Python_Game_Programming_Tutorial_Maze_Ga.txt
 
-
+Python Game Programming Tutorial Missile Command
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_Missile/Python_Game_Programming_Tutorial_Missile.txt
 
-
+Python Game Programming Tutorial Pong for Beginners
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_Pong_fo/Python_Game_Programming_Tutorial_Pong_fo.txt
 
-
+Python Game Programming Tutorial Snake Game
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_Snake_G/Python_Game_Programming_Tutorial_Snake_G.txt
 
-
+Python Game Programming Tutorial Space Invaders
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_Space_I/Python_Game_Programming_Tutorial_Space_I.txt
 
-
+Python Game Programming Tutorial SpaceWar
 /All/Coding/Python/TokyoEdtech/Python_Game_Programming_Tutorial_SpaceWa/Python_Game_Programming_Tutorial_SpaceWa.txt
 
-
+Python Guessing Game (GUI Version)
 /All/Coding/Python/TokyoEdtech/Python_Guessing_Game_(GUI_Version)/Python_Guessing_Game_(GUI_Version).txt
 
-
+Python Object (Sprite) Motion Tutorials
 /All/Coding/Python/TokyoEdtech/Python_Object_(Sprite)_Motion_Tutorials/Python_Object_(Sprite)_Motion_Tutorials.txt
 
-
+Python Stoplights
 /All/Coding/Python/TokyoEdtech/Python_Stoplights/Python_Stoplights.txt
 
-
+Simple Analog Clock in Python 3 for Beginners
 /All/Coding/Python/TokyoEdtech/Simple_Analog_Clock_in_Python_3_for_Begi/Simple_Analog_Clock_in_Python_3_for_Begi.txt
 
-
+Simple Python Turtle Graphics Game with Classes
 /All/Coding/Python/TokyoEdtech/Simple_Python_Turtle_Graphics_Game_with_/Simple_Python_Turtle_Graphics_Game_with_.txt
 
-
+Simple Tic-Tac-Toe Game in Python (Basic Class Version)
 /All/Coding/Python/TokyoEdtech/Simple_Tic-Tac-Toe_Game_in_Python_(Basic/Simple_Tic-Tac-Toe_Game_in_Python_(Basic.txt
 
-
+Space Arena
 /All/Coding/Python/TokyoEdtech/Space_Arena/Space_Arena.txt
 
-
+Tic-Tac-Toe in Python
 /All/Coding/Python/TokyoEdtech/Tic-Tac-Toe_in_Python/Tic-Tac-Toe_in_Python.txt
 
-
+Vectrek
 /All/Coding/Python/TokyoEdtech/Vectrek/Vectrek.txt
 
-
+Viewer Questions
 /All/Coding/Python/TokyoEdtech/Viewer_Questions/Viewer_Questions.txt
 TokyoEdtech

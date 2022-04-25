@@ -1,91 +1,91 @@
 
-
+## All Videos
 /All/Operating_Systems/iOS/Lets_Build_That_App/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Operating_Systems/iOS/Lets_Build_That_App/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Android Kotlin Introduction
 /All/Operating_Systems/iOS/Lets_Build_That_App/Android_Kotlin_Introduction/Android_Kotlin_Introduction.txt
 
-
+Auto Layout
 /All/Operating_Systems/iOS/Lets_Build_That_App/Auto_Layout/Auto_Layout.txt
 
-
+Auto Size UITableView Chat
 /All/Operating_Systems/iOS/Lets_Build_That_App/Auto_Size_UITableView_Chat/Auto_Size_UITableView_Chat.txt
 
-
+Calculator SwiftUI
 /All/Operating_Systems/iOS/Lets_Build_That_App/Calculator_SwiftUI/Calculator_SwiftUI.txt
 
-
+Career Advice
 /All/Operating_Systems/iOS/Lets_Build_That_App/Career_Advice/Career_Advice.txt
 
-
+Contacts
 /All/Operating_Systems/iOS/Lets_Build_That_App/Contacts/Contacts.txt
 
-
+Cool Projects
 /All/Operating_Systems/iOS/Lets_Build_That_App/Cool_Projects/Cool_Projects.txt
 
-
+Fullstack MyJournal
 /All/Operating_Systems/iOS/Lets_Build_That_App/Fullstack_MyJournal/Fullstack_MyJournal.txt
 
-
+How to Create Facebook's News Feed
 /All/Operating_Systems/iOS/Lets_Build_That_App/How_to_Create_Facebook's_News_Feed/How_to_Create_Facebook's_News_Feed.txt
 
-
+Kotlin Messenger
 /All/Operating_Systems/iOS/Lets_Build_That_App/Kotlin_Messenger/Kotlin_Messenger.txt
 
-
+Kotlin YouTube
 /All/Operating_Systems/iOS/Lets_Build_That_App/Kotlin_YouTube/Kotlin_YouTube.txt
 
-
+LBTATools Usage Guide
 /All/Operating_Systems/iOS/Lets_Build_That_App/LBTATools_Usage_Guide/LBTATools_Usage_Guide.txt
 
-
+Lets Build Facebook Messenger
 /All/Operating_Systems/iOS/Lets_Build_That_App/Lets_Build_Facebook_Messenger/Lets_Build_Facebook_Messenger.txt
 
-
+Lets Build YouTube
 /All/Operating_Systems/iOS/Lets_Build_That_App/Lets_Build_YouTube/Lets_Build_YouTube.txt
 
-
+NodeJS REST API
 /All/Operating_Systems/iOS/Lets_Build_That_App/NodeJS_REST_API/NodeJS_REST_API.txt
 
-
+Recreating App Store
 /All/Operating_Systems/iOS/Lets_Build_That_App/Recreating_App_Store/Recreating_App_Store.txt
 
-
+Student App Reviews
 /All/Operating_Systems/iOS/Lets_Build_That_App/Student_App_Reviews/Student_App_Reviews.txt
 
-
+Swift - Let's Build A Login Guide
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_-_Let's_Build_A_Login_Guide/Swift_-_Let's_Build_A_Login_Guide.txt
 
-
+Swift 3 Firebase Social Login - Facebook, Google, Twitter
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_3_Firebase_Social_Login_-_Facebook/Swift_3_Firebase_Social_Login_-_Facebook.txt
 
-
+Swift 3 Let's Build Twitter
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_3_Let's_Build_Twitter/Swift_3_Let's_Build_Twitter.txt
 
-
+Swift Animations
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_Animations/Swift_Animations.txt
 
-
+Swift Firebase 3 - Real Time Chat App
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_Firebase_3_-_Real_Time_Chat_App/Swift_Firebase_3_-_Real_Time_Chat_App.txt
 
-
+Swift Fun Algorithms
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_Fun_Algorithms/Swift_Fun_Algorithms.txt
 
-
+Swift Stretchy Header Collection View
 /All/Operating_Systems/iOS/Lets_Build_That_App/Swift_Stretchy_Header_Collection_View/Swift_Stretchy_Header_Collection_View.txt
 
-
+SwiftUI 2 Components
 /All/Operating_Systems/iOS/Lets_Build_That_App/SwiftUI_2_Components/SwiftUI_2_Components.txt
 
-
+SwiftUI Firebase Chat
 /All/Operating_Systems/iOS/Lets_Build_That_App/SwiftUI_Firebase_Chat/SwiftUI_Firebase_Chat.txt
 
-
+Tinder Profile Grid
 /All/Operating_Systems/iOS/Lets_Build_That_App/Tinder_Profile_Grid/Tinder_Profile_Grid.txt
 
-
+UIKit Facebook 2019
 /All/Operating_Systems/iOS/Lets_Build_That_App/UIKit_Facebook_2019/UIKit_Facebook_2019.txt
 Lets Build That App

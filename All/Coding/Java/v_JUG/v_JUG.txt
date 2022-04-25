@@ -1,16 +1,16 @@
 
-
+## All Videos
 /All/Coding/Java/v_JUG/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Java/v_JUG/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Interviews with Virtual JUG speakers
 /All/Coding/Java/v_JUG/Interviews_with_Virtual_JUG_speakers/Interviews_with_Virtual_JUG_speakers.txt
 
-
+vJUG24
 /All/Coding/Java/v_JUG/vJUG24/vJUG24.txt
 
-
+vJUG24 2017
 /All/Coding/Java/v_JUG/vJUG24_2017/vJUG24_2017.txt
 v JUG

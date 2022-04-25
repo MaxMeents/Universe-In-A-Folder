@@ -1,13 +1,13 @@
 
-
+## All Videos
 /All/Coding/MATLAB/matlabmarina/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/MATLAB/matlabmarina/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+2D Plotting using MATLAB
 /All/Coding/MATLAB/matlabmarina/2D_Plotting_using_MATLAB/2D_Plotting_using_MATLAB.txt
 
-
+3D Plotting using MATLAB
 /All/Coding/MATLAB/matlabmarina/3D_Plotting_using_MATLAB/3D_Plotting_using_MATLAB.txt
 matlabmarina

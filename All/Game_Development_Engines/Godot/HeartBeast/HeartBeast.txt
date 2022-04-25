@@ -1,88 +1,88 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Godot/HeartBeast/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Godot/HeartBeast/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+2D Hack-n-Slash Course (Complete Course)
 /All/Game_Development_Engines/Godot/HeartBeast/2D_Hack-n-Slash_Course_(Complete_Course)/2D_Hack-n-Slash_Course_(Complete_Course).txt
 
-
+Demonelocke Devlogs
 /All/Game_Development_Engines/Godot/HeartBeast/Demonelocke_Devlogs/Demonelocke_Devlogs.txt
 
-
+Favorites
 /All/Game_Development_Engines/Godot/HeartBeast/Favorites/Favorites.txt
 
-
+GameMaker Platform Tutorials
 /All/Game_Development_Engines/Godot/HeartBeast/GameMaker_Platform_Tutorials/GameMaker_Platform_Tutorials.txt
 
-
+GameMaker Studio 2
 /All/Game_Development_Engines/Godot/HeartBeast/GameMaker_Studio_2/GameMaker_Studio_2.txt
 
-
+Godot 3 2D Platform Game
 /All/Game_Development_Engines/Godot/HeartBeast/Godot_3_2D_Platform_Game/Godot_3_2D_Platform_Game.txt
 
-
+Godot Action RPG Series
 /All/Game_Development_Engines/Godot/HeartBeast/Godot_Action_RPG_Series/Godot_Action_RPG_Series.txt
 
-
+Godot Engine Tutorials
 /All/Game_Development_Engines/Godot/HeartBeast/Godot_Engine_Tutorials/Godot_Engine_Tutorials.txt
 
-
+Godot Mobile RPG
 /All/Game_Development_Engines/Godot/HeartBeast/Godot_Mobile_RPG/Godot_Mobile_RPG.txt
 
-
+Godot Random Level Generation
 /All/Game_Development_Engines/Godot/HeartBeast/Godot_Random_Level_Generation/Godot_Random_Level_Generation.txt
 
-
+Heartbeast Game Trailers
 /All/Game_Development_Engines/Godot/HeartBeast/Heartbeast_Game_Trailers/Heartbeast_Game_Trailers.txt
 
-
+Heartbeast Vlogs
 /All/Game_Development_Engines/Godot/HeartBeast/Heartbeast_Vlogs/Heartbeast_Vlogs.txt
 
-
+Let's Pixel
 /All/Game_Development_Engines/Godot/HeartBeast/Let's_Pixel/Let's_Pixel.txt
 
-
+Livestreams
 /All/Game_Development_Engines/Godot/HeartBeast/Livestreams/Livestreams.txt
 
-
+Ludum Dare 33 Livestream
 /All/Game_Development_Engines/Godot/HeartBeast/Ludum_Dare_33_Livestream/Ludum_Dare_33_Livestream.txt
 
-
+Make a Platform Shooter - GameMaker Studio 2
 /All/Game_Development_Engines/Godot/HeartBeast/Make_a_Platform_Shooter_-_GameMaker_Stud/Make_a_Platform_Shooter_-_GameMaker_Stud.txt
 
-
+My Games
 /All/Game_Development_Engines/Godot/HeartBeast/My_Games/My_Games.txt
 
-
+Networking
 /All/Game_Development_Engines/Godot/HeartBeast/Networking/Networking.txt
 
-
+Particles
 /All/Game_Development_Engines/Godot/HeartBeast/Particles/Particles.txt
 
-
+Pixel Art Tutorials
 /All/Game_Development_Engines/Godot/HeartBeast/Pixel_Art_Tutorials/Pixel_Art_Tutorials.txt
 
-
+Random Level Generation
 /All/Game_Development_Engines/Godot/HeartBeast/Random_Level_Generation/Random_Level_Generation.txt
 
-
+Resource Based Inventory Tutorial in Godot
 /All/Game_Development_Engines/Godot/HeartBeast/Resource_Based_Inventory_Tutorial_in_God/Resource_Based_Inventory_Tutorial_in_God.txt
 
-
+RTS Tutorials
 /All/Game_Development_Engines/Godot/HeartBeast/RTS_Tutorials/RTS_Tutorials.txt
 
-
+Scriptable Objects in Godot
 /All/Game_Development_Engines/Godot/HeartBeast/Scriptable_Objects_in_Godot/Scriptable_Objects_in_Godot.txt
 
-
+Udemy
 /All/Game_Development_Engines/Godot/HeartBeast/Udemy/Udemy.txt
 
-
+[Beginner] Make an RPG
 /All/Game_Development_Engines/Godot/HeartBeast/[Beginner]_Make_an_RPG/[Beginner]_Make_an_RPG.txt
 
-
+[GameMaker Tutorial] Flappy Bird
 /All/Game_Development_Engines/Godot/HeartBeast/[GameMaker_Tutorial]_Flappy_Bird/[GameMaker_Tutorial]_Flappy_Bird.txt
 HeartBeast

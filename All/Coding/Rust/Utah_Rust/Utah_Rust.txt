@@ -1,25 +1,25 @@
 
-
+## All Videos
 /All/Coding/Rust/Utah_Rust/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Rust/Utah_Rust/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Ferris takes the Blue Pill (STM32) Rust Workshop
 /All/Coding/Rust/Utah_Rust/Ferris_takes_the_Blue_Pill_(STM32)_Rust_/Ferris_takes_the_Blue_Pill_(STM32)_Rust_.txt
 
-
+Rust content in Utah
 /All/Coding/Rust/Utah_Rust/Rust_content_in_Utah/Rust_content_in_Utah.txt
 
-
+Utah Rust Meetup
 /All/Coding/Rust/Utah_Rust/Utah_Rust_Meetup/Utah_Rust_Meetup.txt
 
-
+WASM + Rust - April 2020 - Utah Rust
 /All/Coding/Rust/Utah_Rust/WASM_+_Rust_-_April_2020_-_Utah_Rust/WASM_+_Rust_-_April_2020_-_Utah_Rust.txt
 
-
+Welcome to Rust - 2020 - Parts 1-5
 /All/Coding/Rust/Utah_Rust/Welcome_to_Rust_-_2020_-_Parts_1-5/Welcome_to_Rust_-_2020_-_Parts_1-5.txt
 
-
+[LIVE] Studying Rust for Rustaceans - Utah Rust
 /All/Coding/Rust/Utah_Rust/[LIVE]_Studying_Rust_for_Rustaceans_-_Ut/[LIVE]_Studying_Rust_for_Rustaceans_-_Ut.txt
 Utah Rust

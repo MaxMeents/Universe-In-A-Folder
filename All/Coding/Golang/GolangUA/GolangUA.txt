@@ -1,28 +1,28 @@
 
-
+## All Videos
 /All/Coding/Golang/GolangUA/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Golang/GolangUA/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Kharkiv Go Meetup June 2018
 /All/Coding/Golang/GolangUA/Kharkiv_Go_Meetup_June_2018/Kharkiv_Go_Meetup_June_2018.txt
 
-
+Kharkiv Go Meetup March 2019
 /All/Coding/Golang/GolangUA/Kharkiv_Go_Meetup_March_2019/Kharkiv_Go_Meetup_March_2019.txt
 
-
+Kharkiv Go Meetup November 2018
 /All/Coding/Golang/GolangUA/Kharkiv_Go_Meetup_November_2018/Kharkiv_Go_Meetup_November_2018.txt
 
-
+Kharkiv Go Meetup September 2019
 /All/Coding/Golang/GolangUA/Kharkiv_Go_Meetup_September_2019/Kharkiv_Go_Meetup_September_2019.txt
 
-
+Kyiv Go Meetup January 2018
 /All/Coding/Golang/GolangUA/Kyiv_Go_Meetup_January_2018/Kyiv_Go_Meetup_January_2018.txt
 
-
+Kyiv Go Meetup June 2017
 /All/Coding/Golang/GolangUA/Kyiv_Go_Meetup_June_2017/Kyiv_Go_Meetup_June_2017.txt
 
-
+LvivITArena 2016
 /All/Coding/Golang/GolangUA/LvivITArena_2016/LvivITArena_2016.txt
 GolangUA

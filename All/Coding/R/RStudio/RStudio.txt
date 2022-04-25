@@ -1,97 +1,97 @@
 
-
+## All Videos
 /All/Coding/R/RStudio/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/R/RStudio/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Building a Wordle App with Shiny!
 /All/Coding/R/RStudio/Building_a_Wordle_App_with_Shiny!/Building_a_Wordle_App_with_Shiny!.txt
 
-
+Data for Good
 /All/Coding/R/RStudio/Data_for_Good/Data_for_Good.txt
 
-
+Data Science Hangout  Full Episodes
 /All/Coding/R/RStudio/Data_Science_Hangout__Full_Episodes/Data_Science_Hangout__Full_Episodes.txt
 
-
+Data Science Hangout  Highlights
 /All/Coding/R/RStudio/Data_Science_Hangout__Highlights/Data_Science_Hangout__Highlights.txt
 
-
+Data Science Livestream
 /All/Coding/R/RStudio/Data_Science_Livestream/Data_Science_Livestream.txt
 
-
+Data Wrangling with R and the Tidyverse
 /All/Coding/R/RStudio/Data_Wrangling_with_R_and_the_Tidyverse/Data_Wrangling_with_R_and_the_Tidyverse.txt
 
-
+Hadley Wickham
 /All/Coding/R/RStudio/Hadley_Wickham/Hadley_Wickham.txt
 
-
+ICYMI
 /All/Coding/R/RStudio/ICYMI/ICYMI.txt
 
-
+Language Interoperability
 /All/Coding/R/RStudio/Language_Interoperability/Language_Interoperability.txt
 
-
+Learning & using R
 /All/Coding/R/RStudio/Learning_&_using_R/Learning_&_using_R.txt
 
-
+lighting talks - rstudioconf(2020)
 /All/Coding/R/RStudio/lighting_talks_-_rstudioconf(2020)/lighting_talks_-_rstudioconf(2020).txt
 
-
+lightning talks - rstudioglobal(2021)
 /All/Coding/R/RStudio/lightning_talks_-_rstudioglobal(2021)/lightning_talks_-_rstudioglobal(2021).txt
 
-
+Modeling
 /All/Coding/R/RStudio/Modeling/Modeling.txt
 
-
+Organizational Tooling
 /All/Coding/R/RStudio/Organizational_Tooling/Organizational_Tooling.txt
 
-
+Package Development
 /All/Coding/R/RStudio/Package_Development/Package_Development.txt
 
-
+Programming
 /All/Coding/R/RStudio/Programming/Programming.txt
 
-
+R in Pharma
 /All/Coding/R/RStudio/R_in_Pharma/R_in_Pharma.txt
 
-
+R Markdown
 /All/Coding/R/RStudio/R_Markdown/R_Markdown.txt
 
-
+RStudio Cloud
 /All/Coding/R/RStudio/RStudio_Cloud/RStudio_Cloud.txt
 
-
+RStudio Cloud Live Series
 /All/Coding/R/RStudio/RStudio_Cloud_Live_Series/RStudio_Cloud_Live_Series.txt
 
-
+RStudio Conference Keynotes
 /All/Coding/R/RStudio/RStudio_Conference_Keynotes/RStudio_Conference_Keynotes.txt
 
-
+RStudio Enterprise Community Meetup
 /All/Coding/R/RStudio/RStudio_Enterprise_Community_Meetup/RStudio_Enterprise_Community_Meetup.txt
 
-
+RStudio Webinars
 /All/Coding/R/RStudio/RStudio_Webinars/RStudio_Webinars.txt
 
-
+rstudioconf(2019)
 /All/Coding/R/RStudio/rstudioconf(2019)/rstudioconf(2019).txt
 
-
+rstudioconf(2020)
 /All/Coding/R/RStudio/rstudioconf(2020)/rstudioconf(2020).txt
 
-
+rstudioglobal(2021)
 /All/Coding/R/RStudio/rstudioglobal(2021)/rstudioglobal(2021).txt
 
-
+Shiny
 /All/Coding/R/RStudio/Shiny/Shiny.txt
 
-
+Teaching
 /All/Coding/R/RStudio/Teaching/Teaching.txt
 
-
+Visualization
 /All/Coding/R/RStudio/Visualization/Visualization.txt
 
-
+X-Sessions
 /All/Coding/R/RStudio/X-Sessions/X-Sessions.txt
 RStudio

@@ -1,109 +1,109 @@
 
-
+## All Videos
 /All/Operating_Systems/iOS/azamsharp/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Operating_Systems/iOS/azamsharp/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+2mindev
 /All/Operating_Systems/iOS/azamsharp/2mindev/2mindev.txt
 
-
+ARKit
 /All/Operating_Systems/iOS/azamsharp/ARKit/ARKit.txt
 
-
+ARKit Demos
 /All/Operating_Systems/iOS/azamsharp/ARKit_Demos/ARKit_Demos.txt
 
-
+AzamSharp Weekly
 /All/Operating_Systems/iOS/azamsharp/AzamSharp_Weekly/AzamSharp_Weekly.txt
 
-
+Become a Swift Developer
 /All/Operating_Systems/iOS/azamsharp/Become_a_Swift_Developer/Become_a_Swift_Developer.txt
 
-
+Become a Swift Developer from Scratch
 /All/Operating_Systems/iOS/azamsharp/Become_a_Swift_Developer_from_Scratch/Become_a_Swift_Developer_from_Scratch.txt
 
-
+Binary Kids
 /All/Operating_Systems/iOS/azamsharp/Binary_Kids/Binary_Kids.txt
 
-
+CoreML
 /All/Operating_Systems/iOS/azamsharp/CoreML/CoreML.txt
 
-
+DigitalCrafts
 /All/Operating_Systems/iOS/azamsharp/DigitalCrafts/DigitalCrafts.txt
 
-
+Flutter
 /All/Operating_Systems/iOS/azamsharp/Flutter/Flutter.txt
 
-
+jQuery Mobile Website Development
 /All/Operating_Systems/iOS/azamsharp/jQuery_Mobile_Website_Development/jQuery_Mobile_Website_Development.txt
 
-
+Kitura
 /All/Operating_Systems/iOS/azamsharp/Kitura/Kitura.txt
 
-
+Kotlin
 /All/Operating_Systems/iOS/azamsharp/Kotlin/Kotlin.txt
 
-
+Learning Cocos2d Development
 /All/Operating_Systems/iOS/azamsharp/Learning_Cocos2d_Development/Learning_Cocos2d_Development.txt
 
-
+Learning iOS Development
 /All/Operating_Systems/iOS/azamsharp/Learning_iOS_Development/Learning_iOS_Development.txt
 
-
+Mac Development
 /All/Operating_Systems/iOS/azamsharp/Mac_Development/Mac_Development.txt
 
-
+MongoDB
 /All/Operating_Systems/iOS/azamsharp/MongoDB/MongoDB.txt
 
-
+MVVM
 /All/Operating_Systems/iOS/azamsharp/MVVM/MVVM.txt
 
-
+MVVM for iOS
 /All/Operating_Systems/iOS/azamsharp/MVVM_for_iOS/MVVM_for_iOS.txt
 
-
+Node
 /All/Operating_Systems/iOS/azamsharp/Node/Node.txt
 
-
+Patreon
 /All/Operating_Systems/iOS/azamsharp/Patreon/Patreon.txt
 
-
+Pebble Watch Development
 /All/Operating_Systems/iOS/azamsharp/Pebble_Watch_Development/Pebble_Watch_Development.txt
 
-
+Programming Basics
 /All/Operating_Systems/iOS/azamsharp/Programming_Basics/Programming_Basics.txt
 
-
+React
 /All/Operating_Systems/iOS/azamsharp/React/React.txt
 
-
+React Authentication (JWT)
 /All/Operating_Systems/iOS/azamsharp/React_Authentication_(JWT)/React_Authentication_(JWT).txt
 
-
+ReactJS
 /All/Operating_Systems/iOS/azamsharp/ReactJS/ReactJS.txt
 
-
+Redux
 /All/Operating_Systems/iOS/azamsharp/Redux/Redux.txt
 
-
+Spring Boot
 /All/Operating_Systems/iOS/azamsharp/Spring_Boot/Spring_Boot.txt
 
-
+SpriteKit
 /All/Operating_Systems/iOS/azamsharp/SpriteKit/SpriteKit.txt
 
-
+Swift
 /All/Operating_Systems/iOS/azamsharp/Swift/Swift.txt
 
-
+Udemy
 /All/Operating_Systems/iOS/azamsharp/Udemy/Udemy.txt
 
-
+Vanilla Redux
 /All/Operating_Systems/iOS/azamsharp/Vanilla_Redux/Vanilla_Redux.txt
 
-
+Vapor
 /All/Operating_Systems/iOS/azamsharp/Vapor/Vapor.txt
 
-
+WatchKit
 /All/Operating_Systems/iOS/azamsharp/WatchKit/WatchKit.txt
 azamsharp

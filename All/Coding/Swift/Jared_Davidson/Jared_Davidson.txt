@@ -1,94 +1,94 @@
 
-
+## All Videos
 /All/Coding/Swift/Jared_Davidson/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Swift/Jared_Davidson/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+2022 VLOG
 /All/Coding/Swift/Jared_Davidson/2022_VLOG/2022_VLOG.txt
 
-
+App Store
 /All/Coding/Swift/Jared_Davidson/App_Store/App_Store.txt
 
-
+ARKit
 /All/Coding/Swift/Jared_Davidson/ARKit/ARKit.txt
 
-
+Challenges
 /All/Coding/Swift/Jared_Davidson/Challenges/Challenges.txt
 
-
+Cross Road (Swift in Xcode)
 /All/Coding/Swift/Jared_Davidson/Cross_Road_(Swift_in_Xcode)/Cross_Road_(Swift_in_Xcode).txt
 
-
+Dev Vlogs
 /All/Coding/Swift/Jared_Davidson/Dev_Vlogs/Dev_Vlogs.txt
 
-
+Flappy Bird Tutorials
 /All/Coding/Swift/Jared_Davidson/Flappy_Bird_Tutorials/Flappy_Bird_Tutorials.txt
 
-
+How to Make Flappy Bird! (Swift 2 in Xcode)
 /All/Coding/Swift/Jared_Davidson/How_to_Make_Flappy_Bird!_(Swift_2_in_Xco/How_to_Make_Flappy_Bird!_(Swift_2_in_Xco.txt
 
-
+I Play Your Games!
 /All/Coding/Swift/Jared_Davidson/I_Play_Your_Games!/I_Play_Your_Games!.txt
 
-
+Music Streaming App
 /All/Coding/Swift/Jared_Davidson/Music_Streaming_App/Music_Streaming_App.txt
 
-
+Objective - C Tutorials
 /All/Coding/Swift/Jared_Davidson/Objective_-_C_Tutorials/Objective_-_C_Tutorials.txt
 
-
+Piano Tiles Tutorials
 /All/Coding/Swift/Jared_Davidson/Piano_Tiles_Tutorials/Piano_Tiles_Tutorials.txt
 
-
+Pong
 /All/Coding/Swift/Jared_Davidson/Pong/Pong.txt
 
-
+Programmers Group
 /All/Coding/Swift/Jared_Davidson/Programmers_Group/Programmers_Group.txt
 
-
+Realm Mobile Database
 /All/Coding/Swift/Jared_Davidson/Realm_Mobile_Database/Realm_Mobile_Database.txt
 
-
+SDKs
 /All/Coding/Swift/Jared_Davidson/SDKs/SDKs.txt
 
-
+Snapchat-Like
 /All/Coding/Swift/Jared_Davidson/Snapchat-Like/Snapchat-Like.txt
 
-
+Spit Spot
 /All/Coding/Swift/Jared_Davidson/Spit_Spot/Spit_Spot.txt
 
-
+Spotify Search! (Swift 3 in Xcode)
 /All/Coding/Swift/Jared_Davidson/Spotify_Search!_(Swift_3_in_Xcode)/Spotify_Search!_(Swift_3_in_Xcode).txt
 
-
+SpriteKit Tutorials
 /All/Coding/Swift/Jared_Davidson/SpriteKit_Tutorials/SpriteKit_Tutorials.txt
 
-
+Stripe
 /All/Coding/Swift/Jared_Davidson/Stripe/Stripe.txt
 
-
+Swift 2 Tutorials
 /All/Coding/Swift/Jared_Davidson/Swift_2_Tutorials/Swift_2_Tutorials.txt
 
-
+Swift 3 Tutorials
 /All/Coding/Swift/Jared_Davidson/Swift_3_Tutorials/Swift_3_Tutorials.txt
 
-
+Swift 4
 /All/Coding/Swift/Jared_Davidson/Swift_4/Swift_4.txt
 
-
+Swift Tutorials
 /All/Coding/Swift/Jared_Davidson/Swift_Tutorials/Swift_Tutorials.txt
 
-
+SwiftUI
 /All/Coding/Swift/Jared_Davidson/SwiftUI/SwiftUI.txt
 
-
+Tech
 /All/Coding/Swift/Jared_Davidson/Tech/Tech.txt
 
-
+Vlogs
 /All/Coding/Swift/Jared_Davidson/Vlogs/Vlogs.txt
 
-
+Xcode 6
 /All/Coding/Swift/Jared_Davidson/Xcode_6/Xcode_6.txt
 Jared Davidson

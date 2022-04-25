@@ -1,64 +1,64 @@
 
-
+## All Videos
 /All/Game_Development_Engines/GameMaker/1up_Indie/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/GameMaker/1up_Indie/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+1 day before exam
 /All/Game_Development_Engines/GameMaker/1up_Indie/1_day_before_exam/1_day_before_exam.txt
 
-
+Common errors
 /All/Game_Development_Engines/GameMaker/1up_Indie/Common_errors/Common_errors.txt
 
-
+Game Design
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_Design/Game_Design.txt
 
-
+Game maker studio - Advanced
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_maker_studio_-_Advanced/Game_maker_studio_-_Advanced.txt
 
-
+Game maker studio - Basics
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_maker_studio_-_Basics/Game_maker_studio_-_Basics.txt
 
-
+Game maker studio - Epic
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_maker_studio_-_Epic/Game_maker_studio_-_Epic.txt
 
-
+Game maker studio - Must know basics
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_maker_studio_-_Must_know_basics/Game_maker_studio_-_Must_know_basics.txt
 
-
+Game Remake - Hotline Miami
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_Remake_-_Hotline_Miami/Game_Remake_-_Hotline_Miami.txt
 
-
+Game review
 /All/Game_Development_Engines/GameMaker/1up_Indie/Game_review/Game_review.txt
 
-
+Gamemaker - Enemy Ai
 /All/Game_Development_Engines/GameMaker/1up_Indie/Gamemaker_-_Enemy_Ai/Gamemaker_-_Enemy_Ai.txt
 
-
+Games made in gamemaker
 /All/Game_Development_Engines/GameMaker/1up_Indie/Games_made_in_gamemaker/Games_made_in_gamemaker.txt
 
-
+Gms Streams
 /All/Game_Development_Engines/GameMaker/1up_Indie/Gms_Streams/Gms_Streams.txt
 
-
+Make your first pixel art game
 /All/Game_Development_Engines/GameMaker/1up_Indie/Make_your_first_pixel_art_game/Make_your_first_pixel_art_game.txt
 
-
+My own projects
 /All/Game_Development_Engines/GameMaker/1up_Indie/My_own_projects/My_own_projects.txt
 
-
+Super Demon Survivors
 /All/Game_Development_Engines/GameMaker/1up_Indie/Super_Demon_Survivors/Super_Demon_Survivors.txt
 
-
+time to shill
 /All/Game_Development_Engines/GameMaker/1up_Indie/time_to_shill/time_to_shill.txt
 
-
+Video game developement tools
 /All/Game_Development_Engines/GameMaker/1up_Indie/Video_game_developement_tools/Video_game_developement_tools.txt
 
-
+Video game reviews
 /All/Game_Development_Engines/GameMaker/1up_Indie/Video_game_reviews/Video_game_reviews.txt
 
-
+Visual effects - GM
 /All/Game_Development_Engines/GameMaker/1up_Indie/Visual_effects_-_GM/Visual_effects_-_GM.txt
 1up Indie

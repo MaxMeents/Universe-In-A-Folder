@@ -1,40 +1,40 @@
 
-
+## All Videos
 /All/Coding/Java/Simple_&_Effective_Learning/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Java/Simple_&_Effective_Learning/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Advance Java Tutorial
 /All/Coding/Java/Simple_&_Effective_Learning/Advance_Java_Tutorial/Advance_Java_Tutorial.txt
 
-
+Hadoop Java Programming, Java for Hadoop, Java Tutorial for Hadoop Beginner
 /All/Coding/Java/Simple_&_Effective_Learning/Hadoop_Java_Programming,_Java_for_Hadoop/Hadoop_Java_Programming,_Java_for_Hadoop.txt
 
-
+Interview Questions & Answers
 /All/Coding/Java/Simple_&_Effective_Learning/Interview_Questions_&_Answers/Interview_Questions_&_Answers.txt
 
-
+Java Basics for Beginners
 /All/Coding/Java/Simple_&_Effective_Learning/Java_Basics_for_Beginners/Java_Basics_for_Beginners.txt
 
-
+Java for Beginners [BEFORE PROGRAMMING]
 /All/Coding/Java/Simple_&_Effective_Learning/Java_for_Beginners_[BEFORE_PROGRAMMING]/Java_for_Beginners_[BEFORE_PROGRAMMING].txt
 
-
+Java for Beginners [PROGRAMMING]
 /All/Coding/Java/Simple_&_Effective_Learning/Java_for_Beginners_[PROGRAMMING]/Java_for_Beginners_[PROGRAMMING].txt
 
-
+Java for Beginners [Theory]
 /All/Coding/Java/Simple_&_Effective_Learning/Java_for_Beginners_[Theory]/Java_for_Beginners_[Theory].txt
 
-
+Java Tutorial for Beginners [Complete Theory & Programming]
 /All/Coding/Java/Simple_&_Effective_Learning/Java_Tutorial_for_Beginners_[Complete_Th/Java_Tutorial_for_Beginners_[Complete_Th.txt
 
-
+Python Crash Course
 /All/Coding/Java/Simple_&_Effective_Learning/Python_Crash_Course/Python_Crash_Course.txt
 
-
+Python Tutorial for Beginners
 /All/Coding/Java/Simple_&_Effective_Learning/Python_Tutorial_for_Beginners/Python_Tutorial_for_Beginners.txt
 
-
+Selenium Tutorial For Beginner
 /All/Coding/Java/Simple_&_Effective_Learning/Selenium_Tutorial_For_Beginner/Selenium_Tutorial_For_Beginner.txt
 Simple & Effective Learning

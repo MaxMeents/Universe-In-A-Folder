@@ -1,7 +1,7 @@
 
-
+Videos 1-25
 /All/Coding/Python/Python_Basics/Math_with_Python/Videos_1-25/Videos_1-25.txt
 
-
+Videos 26-32
 /All/Coding/Python/Python_Basics/Math_with_Python/Videos_26-32/Videos_26-32.txt
 Math with Python

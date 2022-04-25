@@ -1,28 +1,28 @@
 
-
+## All Videos
 /All/Coding/Python/SF_Python/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/SF_Python/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+PyBay 2021
 /All/Coding/Python/SF_Python/PyBay_2021/PyBay_2021.txt
 
-
+PyBay2016
 /All/Coding/Python/SF_Python/PyBay2016/PyBay2016.txt
 
-
+PyBay2017
 /All/Coding/Python/SF_Python/PyBay2017/PyBay2017.txt
 
-
+PyBay2018
 /All/Coding/Python/SF_Python/PyBay2018/PyBay2018.txt
 
-
+PyBay2019
 /All/Coding/Python/SF_Python/PyBay2019/PyBay2019.txt
 
-
+PyBay2020
 /All/Coding/Python/SF_Python/PyBay2020/PyBay2020.txt
 
-
+SF Python Meetups
 /All/Coding/Python/SF_Python/SF_Python_Meetups/SF_Python_Meetups.txt
 SF Python

@@ -1,16 +1,16 @@
 
-
+## All Videos
 /All/Game_Development_Engines/GameSalad/Jaime_Cross/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/GameSalad/Jaime_Cross/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Discover True Beauty
 /All/Game_Development_Engines/GameSalad/Jaime_Cross/Discover_True_Beauty/Discover_True_Beauty.txt
 
-
+HealthyHer
 /All/Game_Development_Engines/GameSalad/Jaime_Cross/HealthyHer/HealthyHer.txt
 
-
+The HER Effect Podcast
 /All/Game_Development_Engines/GameSalad/Jaime_Cross/The_HER_Effect_Podcast/The_HER_Effect_Podcast.txt
 Jaime Cross

@@ -1,64 +1,64 @@
 
-
+## All Videos
 /All/Coding/Swift/Sean_Allen/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Swift/Sean_Allen/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Advanced Swift
 /All/Coding/Swift/Sean_Allen/Advanced_Swift/Advanced_Swift.txt
 
-
+Apple Events & Announcements
 /All/Coding/Swift/Sean_Allen/Apple_Events_&_Announcements/Apple_Events_&_Announcements.txt
 
-
+Creator View Chronicles
 /All/Coding/Swift/Sean_Allen/Creator_View_Chronicles/Creator_View_Chronicles.txt
 
-
+Experiences & Recommendations
 /All/Coding/Swift/Sean_Allen/Experiences_&_Recommendations/Experiences_&_Recommendations.txt
 
-
+iOS Dev Beginner Course FREE Preview
 /All/Coding/Swift/Sean_Allen/iOS_Dev_Beginner_Course_FREE_Preview/iOS_Dev_Beginner_Course_FREE_Preview.txt
 
-
+iOS Dev Portfolio Showcase & Reviews
 /All/Coding/Swift/Sean_Allen/iOS_Dev_Portfolio_Showcase_&_Reviews/iOS_Dev_Portfolio_Showcase_&_Reviews.txt
 
-
+LIVE - Swift & iOS Talks
 /All/Coding/Swift/Sean_Allen/LIVE_-_Swift_&_iOS_Talks/LIVE_-_Swift_&_iOS_Talks.txt
 
-
+Programmatic Tutorials
 /All/Coding/Swift/Sean_Allen/Programmatic_Tutorials/Programmatic_Tutorials.txt
 
-
+Swift Beginner Series
 /All/Coding/Swift/Sean_Allen/Swift_Beginner_Series/Swift_Beginner_Series.txt
 
-
+Swift Interview Coding Challenges
 /All/Coding/Swift/Sean_Allen/Swift_Interview_Coding_Challenges/Swift_Interview_Coding_Challenges.txt
 
-
+Swift Interview Tips
 /All/Coding/Swift/Sean_Allen/Swift_Interview_Tips/Swift_Interview_Tips.txt
 
-
+Swift Keywords
 /All/Coding/Swift/Sean_Allen/Swift_Keywords/Swift_Keywords.txt
 
-
+Swift News
 /All/Coding/Swift/Sean_Allen/Swift_News/Swift_News.txt
 
-
+Swift News Clips
 /All/Coding/Swift/Sean_Allen/Swift_News_Clips/Swift_News_Clips.txt
 
-
+Swift Tutorials & Code Snippets
 /All/Coding/Swift/Sean_Allen/Swift_Tutorials_&_Code_Snippets/Swift_Tutorials_&_Code_Snippets.txt
 
-
+SwiftUI Tutorials
 /All/Coding/Swift/Sean_Allen/SwiftUI_Tutorials/SwiftUI_Tutorials.txt
 
-
+VLOG
 /All/Coding/Swift/Sean_Allen/VLOG/VLOG.txt
 
-
+What I'm Working On
 /All/Coding/Swift/Sean_Allen/What_I'm_Working_On/What_I'm_Working_On.txt
 
-
+Xcode Tips & Tutorials
 /All/Coding/Swift/Sean_Allen/Xcode_Tips_&_Tutorials/Xcode_Tips_&_Tutorials.txt
 Sean Allen

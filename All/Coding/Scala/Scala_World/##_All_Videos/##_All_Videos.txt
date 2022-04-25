@@ -1,13 +1,13 @@
 
-
+Videos 1-25
 /All/Coding/Scala/Scala_World/##_All_Videos/Videos_1-25/Videos_1-25.txt
 
-
+Videos 26-50
 /All/Coding/Scala/Scala_World/##_All_Videos/Videos_26-50/Videos_26-50.txt
 
-
+Videos 51-75
 /All/Coding/Scala/Scala_World/##_All_Videos/Videos_51-75/Videos_51-75.txt
 
-
+Videos 76-92
 /All/Coding/Scala/Scala_World/##_All_Videos/Videos_76-92/Videos_76-92.txt
 ## All Videos

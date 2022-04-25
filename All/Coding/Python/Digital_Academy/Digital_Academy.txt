@@ -1,70 +1,70 @@
 
-
+## All Videos
 /All/Coding/Python/Digital_Academy/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Digital_Academy/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Android - Beginner
 /All/Coding/Python/Digital_Academy/Android_-_Beginner/Android_-_Beginner.txt
 
-
+Github - Beginner
 /All/Coding/Python/Digital_Academy/Github_-_Beginner/Github_-_Beginner.txt
 
-
+Microsoft Excel for Beginners
 /All/Coding/Python/Digital_Academy/Microsoft_Excel_for_Beginners/Microsoft_Excel_for_Beginners.txt
 
-
+Microsoft PowerPoint for Beginners
 /All/Coding/Python/Digital_Academy/Microsoft_PowerPoint_for_Beginners/Microsoft_PowerPoint_for_Beginners.txt
 
-
+Microsoft Word for Beginners
 /All/Coding/Python/Digital_Academy/Microsoft_Word_for_Beginners/Microsoft_Word_for_Beginners.txt
 
-
+🐍 Python 101 Python Basics for Beginners [#SHORTS]
 /All/Coding/Python/Digital_Academy/🐍_Python_101_Python_Basics_for_Beginn/🐍_Python_101_Python_Basics_for_Beginn.txt
 
-
+🐍 Python 101 Python Basics for Beginners [FULL]
 /All/Coding/Python/Digital_Academy/🐍_Python_101_Python_Basics_for_Beginn/🐍_Python_101_Python_Basics_for_Beginn.txt
 
-
+🐍 Python 201 Python Intermediate Tutorials [FULL]
 /All/Coding/Python/Digital_Academy/🐍_Python_201_Python_Intermediate_Tuto/🐍_Python_201_Python_Intermediate_Tuto.txt
 
-
+🐍 Python 301 Python Advanced Tutorials [FULL]
 /All/Coding/Python/Digital_Academy/🐍_Python_301_Python_Advanced_Tutorial/🐍_Python_301_Python_Advanced_Tutorial.txt
 
-
+🐍 Python Tutorials - Beginners to Advanced [FULL]
 /All/Coding/Python/Digital_Academy/🐍_Python_Tutorials_-_Beginners_to_Adv/🐍_Python_Tutorials_-_Beginners_to_Adv.txt
 
-
+🐳 Docker - Beginner
 /All/Coding/Python/Digital_Academy/🐳_Docker_-_Beginner/🐳_Docker_-_Beginner.txt
 
-
+🤖 Artificial Intelligence & Machine Learning 🧠
 /All/Coding/Python/Digital_Academy/🤖_Artificial_Intelligence_&_Machine_L/🤖_Artificial_Intelligence_&_Machine_L.txt
 
-
+🧑🏼?💻 How To Code - Tutorial for Beginners
 /All/Coding/Python/Digital_Academy/🧑🏼?💻_How_To_Code_-_Tutorial_for/🧑🏼?💻_How_To_Code_-_Tutorial_for.txt
 
-
+🧑🏼?💻 Python Projects [FULL]
 /All/Coding/Python/Digital_Academy/🧑🏼?💻_Python_Projects_[FULL]/🧑🏼?💻_Python_Projects_[FULL].txt
 
-
+🧑🏼?💻TOP Python Coding Interview Questions
 /All/Coding/Python/Digital_Academy/🧑🏼?💻TOP_Python_Coding_Interview/🧑🏼?💻TOP_Python_Coding_Interview.txt
 
-
+🌐 Python Web Development [FULL]
 /All/Coding/Python/Digital_Academy/🌐_Python_Web_Development_[FULL]/🌐_Python_Web_Development_[FULL].txt
 
-
+🎯 TOP Programming Languages in 2021
 /All/Coding/Python/Digital_Academy/🎯_TOP_Programming_Languages_in_2021/🎯_TOP_Programming_Languages_in_2021.txt
 
-
+🖥 Computer Science Basics
 /All/Coding/Python/Digital_Academy/🖥_Computer_Science_Basics/🖥_Computer_Science_Basics.txt
 
-
+💰 Cryptocurrency & Blockchain for Beginners
 /All/Coding/Python/Digital_Academy/💰_Cryptocurrency_&_Blockchain_for_Beg/💰_Cryptocurrency_&_Blockchain_for_Beg.txt
 
-
+🔐 Cyber Security for Beginners
 /All/Coding/Python/Digital_Academy/🔐_Cyber_Security_for_Beginners/🔐_Cyber_Security_for_Beginners.txt
 
-
+🕵🏻 Digital Forensic and Incident Response (DFIR)
 /All/Coding/Python/Digital_Academy/🕵🏻_Digital_Forensic_and_Incident_R/🕵🏻_Digital_Forensic_and_Incident_R.txt
 Digital Academy

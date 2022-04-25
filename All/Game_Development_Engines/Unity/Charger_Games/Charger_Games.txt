@@ -1,70 +1,70 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Unity/Charger_Games/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Unity/Charger_Games/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+2D Game Art Tutorials for Beginners
 /All/Game_Development_Engines/Unity/Charger_Games/2D_Game_Art_Tutorials_for_Beginners/2D_Game_Art_Tutorials_for_Beginners.txt
 
-
+2D Game Character Desing and Animation
 /All/Game_Development_Engines/Unity/Charger_Games/2D_Game_Character_Desing_and_Animation/2D_Game_Character_Desing_and_Animation.txt
 
-
+Best Computer Programming Books
 /All/Game_Development_Engines/Unity/Charger_Games/Best_Computer_Programming_Books/Best_Computer_Programming_Books.txt
 
-
+Best Unity Game Development Courses
 /All/Game_Development_Engines/Unity/Charger_Games/Best_Unity_Game_Development_Courses/Best_Unity_Game_Development_Courses.txt
 
-
+Best Unity Game Development Courses - Udemy
 /All/Game_Development_Engines/Unity/Charger_Games/Best_Unity_Game_Development_Courses_-_Ud/Best_Unity_Game_Development_Courses_-_Ud.txt
 
-
+Blender 3D Modelling Tutorial
 /All/Game_Development_Engines/Unity/Charger_Games/Blender_3D_Modelling_Tutorial/Blender_3D_Modelling_Tutorial.txt
 
-
+C++ Programming Tutorial For Beginners
 /All/Game_Development_Engines/Unity/Charger_Games/C++_Programming_Tutorial_For_Beginners/C++_Programming_Tutorial_For_Beginners.txt
 
-
+Charger Games Live
 /All/Game_Development_Engines/Unity/Charger_Games/Charger_Games_Live/Charger_Games_Live.txt
 
-
+Computer Programming Concepts For Beginners
 /All/Game_Development_Engines/Unity/Charger_Games/Computer_Programming_Concepts_For_Beginn/Computer_Programming_Concepts_For_Beginn.txt
 
-
+Java Programming Tutorial For Beginners
 /All/Game_Development_Engines/Unity/Charger_Games/Java_Programming_Tutorial_For_Beginners/Java_Programming_Tutorial_For_Beginners.txt
 
-
+Just For Fun
 /All/Game_Development_Engines/Unity/Charger_Games/Just_For_Fun/Just_For_Fun.txt
 
-
+Learn C# Scripting in 15 Minutes - Unity Game Development
 /All/Game_Development_Engines/Unity/Charger_Games/Learn_C#_Scripting_in_15_Minutes_-_Unity/Learn_C#_Scripting_in_15_Minutes_-_Unity.txt
 
-
+My Games
 /All/Game_Development_Engines/Unity/Charger_Games/My_Games/My_Games.txt
 
-
+Prince Of Persia The Sands Of Time Gameplay
 /All/Game_Development_Engines/Unity/Charger_Games/Prince_Of_Persia_The_Sands_Of_Time_Gamep/Prince_Of_Persia_The_Sands_Of_Time_Gamep.txt
 
-
+Unity 2D Brick Breaker Game Development Tutorial For Beginners
 /All/Game_Development_Engines/Unity/Charger_Games/Unity_2D_Brick_Breaker_Game_Development_/Unity_2D_Brick_Breaker_Game_Development_.txt
 
-
+Unity 2D Game Development Tutorial For Beginners-Create a 2D Brick Breaker Game With Unity
 /All/Game_Development_Engines/Unity/Charger_Games/Unity_2D_Game_Development_Tutorial_For_B/Unity_2D_Game_Development_Tutorial_For_B.txt
 
-
+Unity Android Game Development Tutorial For Beginners  Start to Publish
 /All/Game_Development_Engines/Unity/Charger_Games/Unity_Android_Game_Development_Tutorial_/Unity_Android_Game_Development_Tutorial_.txt
 
-
+Unity C# Scripting Tutorial For Beginners-Learn C# For Unity Game Development
 /All/Game_Development_Engines/Unity/Charger_Games/Unity_C#_Scripting_Tutorial_For_Beginner/Unity_C#_Scripting_Tutorial_For_Beginner.txt
 
-
+Unity Game Development Tutorials & Tips
 /All/Game_Development_Engines/Unity/Charger_Games/Unity_Game_Development_Tutorials_&_Tips/Unity_Game_Development_Tutorials_&_Tips.txt
 
-
+Unity Racing Game Development Tutorial For Beginners-Create A Complete 2D Game With Unity(Windows & Android)
 /All/Game_Development_Engines/Unity/Charger_Games/Unity_Racing_Game_Development_Tutorial_F/Unity_Racing_Game_Development_Tutorial_F.txt
 
-
+Unity3D Game Development Tutorial For Beginners
 /All/Game_Development_Engines/Unity/Charger_Games/Unity3D_Game_Development_Tutorial_For_Be/Unity3D_Game_Development_Tutorial_For_Be.txt
 Charger Games

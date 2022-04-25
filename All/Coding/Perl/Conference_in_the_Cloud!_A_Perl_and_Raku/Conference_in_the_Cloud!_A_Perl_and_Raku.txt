@@ -1,49 +1,49 @@
 
-
+## All Videos
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Fosdem
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/Fosdem/Fosdem.txt
 
-
+Houston Perl Mongers
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/Houston_Perl_Mongers/Houston_Perl_Mongers.txt
 
-
+Older Content
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/Older_Content/Older_Content.txt
 
-
+TPC 2017 in DC
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/TPC_2017_in_DC/TPC_2017_in_DC.txt
 
-
+TPC 2018 in SLC
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/TPC_2018_in_SLC/TPC_2018_in_SLC.txt
 
-
+TPC 2019 in Pittsburgh
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/TPC_2019_in_Pittsburgh/TPC_2019_in_Pittsburgh.txt
 
-
+TPC 2020 in the Cloud
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/TPC_2020_in_the_Cloud/TPC_2020_in_the_Cloud.txt
 
-
+TPC 2021 in the Cloud
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/TPC_2021_in_the_Cloud/TPC_2021_in_the_Cloud.txt
 
-
+YAPCNA 2008
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/YAPCNA_2008/YAPCNA_2008.txt
 
-
+YAPCNA 2012
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/YAPCNA_2012/YAPCNA_2012.txt
 
-
+YAPCNA 2013
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/YAPCNA_2013/YAPCNA_2013.txt
 
-
+YAPCNA 2014
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/YAPCNA_2014/YAPCNA_2014.txt
 
-
+YAPCNA 2015
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/YAPCNA_2015/YAPCNA_2015.txt
 
-
+YAPCNA 2016
 /All/Coding/Perl/Conference_in_the_Cloud!_A_Perl_and_Raku/YAPCNA_2016/YAPCNA_2016.txt
 Conference in the Cloud! A Perl and Raku Conf

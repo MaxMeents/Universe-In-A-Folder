@@ -1,49 +1,49 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Spanish [8-bit Glory]Ice Climber - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/Spanish_[8-bit_Glory]Ice_Climber_-_Const/Spanish_[8-bit_Glory]Ice_Climber_-_Const.txt
 
-
+[8-bit Glory Español]Tetris - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[8-bit_Glory_Español]Tetris_-_Construct/[8-bit_Glory_Español]Tetris_-_Construct.txt
 
-
+[8-bit Glory Spanish]Contra - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[8-bit_Glory_Spanish]Contra_-_Construct2/[8-bit_Glory_Spanish]Contra_-_Construct2.txt
 
-
+[8-bit Glory] MEGAMAN - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[8-bit_Glory]_MEGAMAN_-_Construct2/[8-bit_Glory]_MEGAMAN_-_Construct2.txt
 
-
+[8-bit Glory]Contra - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[8-bit_Glory]Contra_-_Construct2/[8-bit_Glory]Contra_-_Construct2.txt
 
-
+[8-bit Glory]Ice Climber - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[8-bit_Glory]Ice_Climber_-_Construct2/[8-bit_Glory]Ice_Climber_-_Construct2.txt
 
-
+[8-bit Glory]Tetris - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[8-bit_Glory]Tetris_-_Construct2/[8-bit_Glory]Tetris_-_Construct2.txt
 
-
+[Classic Mechanics] Missile Command - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[Classic_Mechanics]_Missile_Command_-_Co/[Classic_Mechanics]_Missile_Command_-_Co.txt
 
-
+[Classic Mechanics]Asteroids Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[Classic_Mechanics]Asteroids_Construct2/[Classic_Mechanics]Asteroids_Construct2.txt
 
-
+[Classic Mechanics]Frogger - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[Classic_Mechanics]Frogger_-_Construct2/[Classic_Mechanics]Frogger_-_Construct2.txt
 
-
+[Classic Mechanics]Lunar Lander - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[Classic_Mechanics]Lunar_Lander_-_Constr/[Classic_Mechanics]Lunar_Lander_-_Constr.txt
 
-
+[Classic Mechanics]Space Invaders - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[Classic_Mechanics]Space_Invaders_-_Cons/[Classic_Mechanics]Space_Invaders_-_Cons.txt
 
-
+[Grampa's Box] COMBAT - Construct2
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[Grampa's_Box]_COMBAT_-_Construct2/[Grampa's_Box]_COMBAT_-_Construct2.txt
 
-
+[My Projects]
 /All/Game_Development_Engines/Construct/Construct_Tutorials_-_by_CKenYoshida/[My_Projects]/[My_Projects].txt
 Construct Tutorials - by CKenYoshida

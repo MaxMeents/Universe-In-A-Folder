@@ -1,136 +1,136 @@
 
-
+## All Videos
 /All/Coding/Python/Montreal-Python/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Montreal-Python/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Introduction à Python
 /All/Coding/Python/Montreal-Python/Introduction_à_Python/Introduction_à_Python.txt
 
-
+MP-1
 /All/Coding/Python/Montreal-Python/MP-1/MP-1.txt
 
-
+MP-10
 /All/Coding/Python/Montreal-Python/MP-10/MP-10.txt
 
-
+MP-11
 /All/Coding/Python/Montreal-Python/MP-11/MP-11.txt
 
-
+MP-12
 /All/Coding/Python/Montreal-Python/MP-12/MP-12.txt
 
-
+MP-2
 /All/Coding/Python/Montreal-Python/MP-2/MP-2.txt
 
-
+MP-20
 /All/Coding/Python/Montreal-Python/MP-20/MP-20.txt
 
-
+MP-22
 /All/Coding/Python/Montreal-Python/MP-22/MP-22.txt
 
-
+MP-23
 /All/Coding/Python/Montreal-Python/MP-23/MP-23.txt
 
-
+MP-25
 /All/Coding/Python/Montreal-Python/MP-25/MP-25.txt
 
-
+MP-32
 /All/Coding/Python/Montreal-Python/MP-32/MP-32.txt
 
-
+MP-33
 /All/Coding/Python/Montreal-Python/MP-33/MP-33.txt
 
-
+MP-34
 /All/Coding/Python/Montreal-Python/MP-34/MP-34.txt
 
-
+MP-35
 /All/Coding/Python/Montreal-Python/MP-35/MP-35.txt
 
-
+MP-36
 /All/Coding/Python/Montreal-Python/MP-36/MP-36.txt
 
-
+MP-38
 /All/Coding/Python/Montreal-Python/MP-38/MP-38.txt
 
-
+MP-39
 /All/Coding/Python/Montreal-Python/MP-39/MP-39.txt
 
-
+MP-40
 /All/Coding/Python/Montreal-Python/MP-40/MP-40.txt
 
-
+MP-41
 /All/Coding/Python/Montreal-Python/MP-41/MP-41.txt
 
-
+MP-42
 /All/Coding/Python/Montreal-Python/MP-42/MP-42.txt
 
-
+MP-43
 /All/Coding/Python/Montreal-Python/MP-43/MP-43.txt
 
-
+MP-44
 /All/Coding/Python/Montreal-Python/MP-44/MP-44.txt
 
-
+MP-45
 /All/Coding/Python/Montreal-Python/MP-45/MP-45.txt
 
-
+MP-46
 /All/Coding/Python/Montreal-Python/MP-46/MP-46.txt
 
-
+MP-47
 /All/Coding/Python/Montreal-Python/MP-47/MP-47.txt
 
-
+MP-48
 /All/Coding/Python/Montreal-Python/MP-48/MP-48.txt
 
-
+MP-49
 /All/Coding/Python/Montreal-Python/MP-49/MP-49.txt
 
-
+MP-52-51
 /All/Coding/Python/Montreal-Python/MP-52-51/MP-52-51.txt
 
-
+MP-53
 /All/Coding/Python/Montreal-Python/MP-53/MP-53.txt
 
-
+MP-55
 /All/Coding/Python/Montreal-Python/MP-55/MP-55.txt
 
-
+MP-63
 /All/Coding/Python/Montreal-Python/MP-63/MP-63.txt
 
-
+MP-64
 /All/Coding/Python/Montreal-Python/MP-64/MP-64.txt
 
-
+MP-67
 /All/Coding/Python/Montreal-Python/MP-67/MP-67.txt
 
-
+MP-68
 /All/Coding/Python/Montreal-Python/MP-68/MP-68.txt
 
-
+MP-7
 /All/Coding/Python/Montreal-Python/MP-7/MP-7.txt
 
-
+MP-70
 /All/Coding/Python/Montreal-Python/MP-70/MP-70.txt
 
-
+MP-71
 /All/Coding/Python/Montreal-Python/MP-71/MP-71.txt
 
-
+MP-72
 /All/Coding/Python/Montreal-Python/MP-72/MP-72.txt
 
-
+MP-73
 /All/Coding/Python/Montreal-Python/MP-73/MP-73.txt
 
-
+MP-74
 /All/Coding/Python/Montreal-Python/MP-74/MP-74.txt
 
-
+MP-9
 /All/Coding/Python/Montreal-Python/MP-9/MP-9.txt
 
-
+MP54
 /All/Coding/Python/Montreal-Python/MP54/MP54.txt
 
-
+PyCon 2014
 /All/Coding/Python/Montreal-Python/PyCon_2014/PyCon_2014.txt
 Montreal-Python

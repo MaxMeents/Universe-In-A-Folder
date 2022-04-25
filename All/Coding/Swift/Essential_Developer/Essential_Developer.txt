@@ -1,31 +1,31 @@
 
-
+## All Videos
 /All/Coding/Swift/Essential_Developer/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Swift/Essential_Developer/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Back to Basics
 /All/Coding/Swift/Essential_Developer/Back_to_Basics/Back_to_Basics.txt
 
-
+Building iOS Apps with Swift, TDD & Clean Architecture  Professional iOS Engineering Series
 /All/Coding/Swift/Essential_Developer/Building_iOS_Apps_with_Swift,_TDD_&_Clea/Building_iOS_Apps_with_Swift,_TDD_&_Clea.txt
 
-
+Clean iOS Architecture
 /All/Coding/Swift/Essential_Developer/Clean_iOS_Architecture/Clean_iOS_Architecture.txt
 
-
+Clean iOS Codebases
 /All/Coding/Swift/Essential_Developer/Clean_iOS_Codebases/Clean_iOS_Codebases.txt
 
-
+Composing iOS View Controllers
 /All/Coding/Swift/Essential_Developer/Composing_iOS_View_Controllers/Composing_iOS_View_Controllers.txt
 
-
+iOS Dev Live Mentoring
 /All/Coding/Swift/Essential_Developer/iOS_Dev_Live_Mentoring/iOS_Dev_Live_Mentoring.txt
 
-
+iOS Lead Essentials Community Q&A
 /All/Coding/Swift/Essential_Developer/iOS_Lead_Essentials_Community_Q&A/iOS_Lead_Essentials_Community_Q&A.txt
 
-
+iOS Lead Essentials Podcast
 /All/Coding/Swift/Essential_Developer/iOS_Lead_Essentials_Podcast/iOS_Lead_Essentials_Podcast.txt
 Essential Developer

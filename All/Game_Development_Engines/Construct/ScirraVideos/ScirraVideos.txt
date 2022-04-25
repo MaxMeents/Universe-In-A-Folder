@@ -1,85 +1,85 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Construct/ScirraVideos/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Construct/ScirraVideos/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Archive
 /All/Game_Development_Engines/Construct/ScirraVideos/Archive/Archive.txt
 
-
+C2A  Assorted Tutorials
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Assorted_Tutorials/C2A__Assorted_Tutorials.txt
 
-
+C2A  Building a Dynamic Projectile System
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Building_a_Dynamic_Projectile_Syste/C2A__Building_a_Dynamic_Projectile_Syste.txt
 
-
+C2A  Building a Parking Game
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Building_a_Parking_Game/C2A__Building_a_Parking_Game.txt
 
-
+C2A  Building Different Effects
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Building_Different_Effects/C2A__Building_Different_Effects.txt
 
-
+C2A  Building Top Down Games
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Building_Top_Down_Games/C2A__Building_Top_Down_Games.txt
 
-
+C2A  Card Games
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Card_Games/C2A__Card_Games.txt
 
-
+C2A  Expanding your Platformer
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Expanding_your_Platformer/C2A__Expanding_your_Platformer.txt
 
-
+C2A  Game Mechanics
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Game_Mechanics/C2A__Game_Mechanics.txt
 
-
+C2A  How to make a 2D Platform Game Floof's Adventure
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__How_to_make_a_2D_Platform_Game_Floo/C2A__How_to_make_a_2D_Platform_Game_Floo.txt
 
-
+C2A  How to make another 2D Platform Game Grotto
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__How_to_make_another_2D_Platform_Gam/C2A__How_to_make_another_2D_Platform_Gam.txt
 
-
+C2A  Isometric Games
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Isometric_Games/C2A__Isometric_Games.txt
 
-
+C2A  Physics Based Games
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Physics_Based_Games/C2A__Physics_Based_Games.txt
 
-
+C2A  Using Construct 2 for Mobile, Desktop and More
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Using_Construct_2_for_Mobile,_Deskt/C2A__Using_Construct_2_for_Mobile,_Deskt.txt
 
-
+C2A  Welcome to Construct 2 Academy
 /All/Game_Development_Engines/Construct/ScirraVideos/C2A__Welcome_to_Construct_2_Academy/C2A__Welcome_to_Construct_2_Academy.txt
 
-
+Construct 2
 /All/Game_Development_Engines/Construct/ScirraVideos/Construct_2/Construct_2.txt
 
-
+Construct 2 Live Class
 /All/Game_Development_Engines/Construct/ScirraVideos/Construct_2_Live_Class/Construct_2_Live_Class.txt
 
-
+Construct 3 features
 /All/Game_Development_Engines/Construct/ScirraVideos/Construct_3_features/Construct_3_features.txt
 
-
+Construct 3 release videos
 /All/Game_Development_Engines/Construct/ScirraVideos/Construct_3_release_videos/Construct_3_release_videos.txt
 
-
+Construct 3 TipClips
 /All/Game_Development_Engines/Construct/ScirraVideos/Construct_3_TipClips/Construct_3_TipClips.txt
 
-
+ConstructStreams  Developing a game with Construct 3
 /All/Game_Development_Engines/Construct/ScirraVideos/ConstructStreams__Developing_a_game_with/ConstructStreams__Developing_a_game_with.txt
 
-
+ConstructStreams  Playing games made with Construct!
 /All/Game_Development_Engines/Construct/ScirraVideos/ConstructStreams__Playing_games_made_wit/ConstructStreams__Playing_games_made_wit.txt
 
-
+Get Started with Construct 3 - Make Games!
 /All/Game_Development_Engines/Construct/ScirraVideos/Get_Started_with_Construct_3_-_Make_Game/Get_Started_with_Construct_3_-_Make_Game.txt
 
-
+Made with Construct
 /All/Game_Development_Engines/Construct/ScirraVideos/Made_with_Construct/Made_with_Construct.txt
 
-
+Made with Construct 2 - Let's Plays
 /All/Game_Development_Engines/Construct/ScirraVideos/Made_with_Construct_2_-_Let's_Plays/Made_with_Construct_2_-_Let's_Plays.txt
 
-
+Twitch Abridged  Livestream highlights
 /All/Game_Development_Engines/Construct/ScirraVideos/Twitch_Abridged__Livestream_highlights/Twitch_Abridged__Livestream_highlights.txt
 ScirraVideos

@@ -1,34 +1,34 @@
 
-
+## All Videos
 /All/Coding/Scala/Scala_World/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Scala/Scala_World/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Eyjafjallajökull Lectures
 /All/Coding/Scala/Scala_World/Eyjafjallajökull_Lectures/Eyjafjallajökull_Lectures.txt
 
-
+Keynotes
 /All/Coding/Scala/Scala_World/Keynotes/Keynotes.txt
 
-
+Panels
 /All/Coding/Scala/Scala_World/Panels/Panels.txt
 
-
+Scala World 2015
 /All/Coding/Scala/Scala_World/Scala_World_2015/Scala_World_2015.txt
 
-
+Scala World 2016
 /All/Coding/Scala/Scala_World/Scala_World_2016/Scala_World_2016.txt
 
-
+Scala World 2017
 /All/Coding/Scala/Scala_World/Scala_World_2017/Scala_World_2017.txt
 
-
+Scala World 2019
 /All/Coding/Scala/Scala_World/Scala_World_2019/Scala_World_2019.txt
 
-
+Talks
 /All/Coding/Scala/Scala_World/Talks/Talks.txt
 
-
+Workshops
 /All/Coding/Scala/Scala_World/Workshops/Workshops.txt
 Scala World

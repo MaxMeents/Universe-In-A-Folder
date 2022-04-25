@@ -1,16 +1,16 @@
 
-
+Videos 1-25
 /All/Coding/R/Data_Science_Tutorials/Python_Functions_Complete_Tutorial/Videos_1-25/Videos_1-25.txt
 
-
+Videos 101-123
 /All/Coding/R/Data_Science_Tutorials/Python_Functions_Complete_Tutorial/Videos_101-123/Videos_101-123.txt
 
-
+Videos 26-50
 /All/Coding/R/Data_Science_Tutorials/Python_Functions_Complete_Tutorial/Videos_26-50/Videos_26-50.txt
 
-
+Videos 51-75
 /All/Coding/R/Data_Science_Tutorials/Python_Functions_Complete_Tutorial/Videos_51-75/Videos_51-75.txt
 
-
+Videos 76-100
 /All/Coding/R/Data_Science_Tutorials/Python_Functions_Complete_Tutorial/Videos_76-100/Videos_76-100.txt
 Python Functions Complete Tutorial

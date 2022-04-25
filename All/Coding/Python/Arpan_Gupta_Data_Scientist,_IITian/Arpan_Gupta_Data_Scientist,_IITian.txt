@@ -1,43 +1,43 @@
 
-
+## All Videos
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Calculus
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Calculus/Calculus.txt
 
-
+Classical Physics
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Classical_Physics/Classical_Physics.txt
 
-
+Convolutional Neural Networks
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Convolutional_Neural_Networks/Convolutional_Neural_Networks.txt
 
-
+Data structures in Python for Machine Learning  Arpan Gupta  Data Scientist & IITian
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Data_structures_in_Python_for_Machine_Le/Data_structures_in_Python_for_Machine_Le.txt
 
-
+Data Visualization Series using ggplot2 with R  Arpan Gupta  Data Scientist & IITian
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Data_Visualization_Series_using_ggplot2_/Data_Visualization_Series_using_ggplot2_.txt
 
-
+End to End Machine Learning Pipeline with Python
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/End_to_End_Machine_Learning_Pipeline_wit/End_to_End_Machine_Learning_Pipeline_wit.txt
 
-
+Linear Regression using  gradient descent from scratch
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Linear_Regression_using__gradient_descen/Linear_Regression_using__gradient_descen.txt
 
-
+Machine Learning With Python  Arpan Gupta  Data Scientist & IITian
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Machine_Learning_With_Python__Arpan_Gupt/Machine_Learning_With_Python__Arpan_Gupt.txt
 
-
+Machine Learning with R  Arpan Gupta  Data Scientist & IITian
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Machine_Learning_with_R__Arpan_Gupta__Da/Machine_Learning_with_R__Arpan_Gupta__Da.txt
 
-
+Pytorch
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Pytorch/Pytorch.txt
 
-
+Statistics
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Statistics/Statistics.txt
 
-
+Tensorflow  Arpan Gupta  Data Scientist & IITian
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Tensorflow__Arpan_Gupta__Data_Scientist_/Tensorflow__Arpan_Gupta__Data_Scientist_.txt
 Arpan Gupta Data Scientist, IITian

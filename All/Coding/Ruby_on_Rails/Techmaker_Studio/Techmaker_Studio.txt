@@ -1,67 +1,67 @@
 
-
+## All Videos
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Best of TechmakerTV
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Best_of_TechmakerTV/Best_of_TechmakerTV.txt
 
-
+Building a Blog with Ruby on Rails 6
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Building_a_Blog_with_Ruby_on_Rails_6/Building_a_Blog_with_Ruby_on_Rails_6.txt
 
-
+Building a Decentralized Chat Application
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Building_a_Decentralized_Chat_Applicatio/Building_a_Decentralized_Chat_Applicatio.txt
 
-
+Building a Generative NFT Project from Scratch
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Building_a_Generative_NFT_Project_from_S/Building_a_Generative_NFT_Project_from_S.txt
 
-
+Building a Link Shortener with Rails 6  Ruby on Rails Projects
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Building_a_Link_Shortener_with_Rails_6__/Building_a_Link_Shortener_with_Rails_6__.txt
 
-
+Building an NFT Book Store from Scratch
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Building_an_NFT_Book_Store_from_Scratch/Building_an_NFT_Book_Store_from_Scratch.txt
 
-
+Cable Ready and Stimulus Reflex
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Cable_Ready_and_Stimulus_Reflex/Cable_Ready_and_Stimulus_Reflex.txt
 
-
+Design Patterns in Javascript
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Design_Patterns_in_Javascript/Design_Patterns_in_Javascript.txt
 
-
+Experimenting with ActionCable in Rails 6
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Experimenting_with_ActionCable_in_Rails_/Experimenting_with_ActionCable_in_Rails_.txt
 
-
+Exploring Ethereum with Web3 Tutorial
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Exploring_Ethereum_with_Web3_Tutorial/Exploring_Ethereum_with_Web3_Tutorial.txt
 
-
+How to Build a Blockchain from Scratch (In-Depth)
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/How_to_Build_a_Blockchain_from_Scratch_(/How_to_Build_a_Blockchain_from_Scratch_(.txt
 
-
+Javascript from the ground up
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Javascript_from_the_ground_up/Javascript_from_the_ground_up.txt
 
-
+Javascript Fundamentals
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Javascript_Fundamentals/Javascript_Fundamentals.txt
 
-
+Rails Tutorial  How to build a blog with Rails 5 and Bootstrap 4
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Rails_Tutorial__How_to_build_a_blog_with/Rails_Tutorial__How_to_build_a_blog_with.txt
 
-
+Rails View Components
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Rails_View_Components/Rails_View_Components.txt
 
-
+React JS Project from Scratch Build a Stock Market Tracker with React
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/React_JS_Project_from_Scratch_Build_a_St/React_JS_Project_from_Scratch_Build_a_St.txt
 
-
+Scraping the Web with Ruby
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Scraping_the_Web_with_Ruby/Scraping_the_Web_with_Ruby.txt
 
-
+Solidity Tutorial  Creating an ERC20 Token in Solidity (with Chainlink Experimentation)
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Solidity_Tutorial__Creating_an_ERC20_Tok/Solidity_Tutorial__Creating_an_ERC20_Tok.txt
 
-
+Techmaker Tips
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Techmaker_Tips/Techmaker_Tips.txt
 
-
+Working with Accounts in Web3
 /All/Coding/Ruby_on_Rails/Techmaker_Studio/Working_with_Accounts_in_Web3/Working_with_Accounts_in_Web3.txt
 Techmaker Studio

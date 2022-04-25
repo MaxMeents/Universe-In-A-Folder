@@ -1,271 +1,271 @@
 
-
+## All Videos
 /All/Coding/Python/Python_Basics/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Python_Basics/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Algorithms
 /All/Coding/Python/Python_Basics/Algorithms/Algorithms.txt
 
-
+Ameritrade API
 /All/Coding/Python/Python_Basics/Ameritrade_API/Ameritrade_API.txt
 
-
+Asyncio Module
 /All/Coding/Python/Python_Basics/Asyncio_Module/Asyncio_Module.txt
 
-
+Beautiful Soup
 /All/Coding/Python/Python_Basics/Beautiful_Soup/Beautiful_Soup.txt
 
-
+bytes decode method
 /All/Coding/Python/Python_Basics/bytes_decode_method/bytes_decode_method.txt
 
-
+Calendar Module
 /All/Coding/Python/Python_Basics/Calendar_Module/Calendar_Module.txt
 
-
+Challenge
 /All/Coding/Python/Python_Basics/Challenge/Challenge.txt
 
-
+Classes
 /All/Coding/Python/Python_Basics/Classes/Classes.txt
 
-
+Collections Module
 /All/Coding/Python/Python_Basics/Collections_Module/Collections_Module.txt
 
-
+command line
 /All/Coding/Python/Python_Basics/command_line/command_line.txt
 
-
+Complete Beginner Live Streams
 /All/Coding/Python/Python_Basics/Complete_Beginner_Live_Streams/Complete_Beginner_Live_Streams.txt
 
-
+Conditional Statements
 /All/Coding/Python/Python_Basics/Conditional_Statements/Conditional_Statements.txt
 
-
+Cryptography Module
 /All/Coding/Python/Python_Basics/Cryptography_Module/Cryptography_Module.txt
 
-
+CSV Module
 /All/Coding/Python/Python_Basics/CSV_Module/CSV_Module.txt
 
-
+Data Structures
 /All/Coding/Python/Python_Basics/Data_Structures/Data_Structures.txt
 
-
+Datetime Module
 /All/Coding/Python/Python_Basics/Datetime_Module/Datetime_Module.txt
 
-
+decorator
 /All/Coding/Python/Python_Basics/decorator/decorator.txt
 
-
+Deep Dive
 /All/Coding/Python/Python_Basics/Deep_Dive/Deep_Dive.txt
 
-
+Dictionaries
 /All/Coding/Python/Python_Basics/Dictionaries/Dictionaries.txt
 
-
+Digital Clock
 /All/Coding/Python/Python_Basics/Digital_Clock/Digital_Clock.txt
 
-
+Django Library
 /All/Coding/Python/Python_Basics/Django_Library/Django_Library.txt
 
-
+Episodes 1-100
 /All/Coding/Python/Python_Basics/Episodes_1-100/Episodes_1-100.txt
 
-
+Episodes 101-200
 /All/Coding/Python/Python_Basics/Episodes_101-200/Episodes_101-200.txt
 
-
+Episodes 201-300
 /All/Coding/Python/Python_Basics/Episodes_201-300/Episodes_201-300.txt
 
-
+Episodes 301-400
 /All/Coding/Python/Python_Basics/Episodes_301-400/Episodes_301-400.txt
 
-
+Episodes 401-500
 /All/Coding/Python/Python_Basics/Episodes_401-500/Episodes_401-500.txt
 
-
+Episodes 501-600
 /All/Coding/Python/Python_Basics/Episodes_501-600/Episodes_501-600.txt
 
-
+Episodes 601-700
 /All/Coding/Python/Python_Basics/Episodes_601-700/Episodes_601-700.txt
 
-
+Episodes 701-800
 /All/Coding/Python/Python_Basics/Episodes_701-800/Episodes_701-800.txt
 
-
+Episodes 801-900
 /All/Coding/Python/Python_Basics/Episodes_801-900/Episodes_801-900.txt
 
-
+Episodes 901-1000
 /All/Coding/Python/Python_Basics/Episodes_901-1000/Episodes_901-1000.txt
 
-
+error handling
 /All/Coding/Python/Python_Basics/error_handling/error_handling.txt
 
-
+file object
 /All/Coding/Python/Python_Basics/file_object/file_object.txt
 
-
+file object seek method
 /All/Coding/Python/Python_Basics/file_object_seek_method/file_object_seek_method.txt
 
-
+Fileinput
 /All/Coding/Python/Python_Basics/Fileinput/Fileinput.txt
 
-
+Fnmatch Module
 /All/Coding/Python/Python_Basics/Fnmatch_Module/Fnmatch_Module.txt
 
-
+For & While loops
 /All/Coding/Python/Python_Basics/For_&_While_loops/For_&_While_loops.txt
 
-
+functools
 /All/Coding/Python/Python_Basics/functools/functools.txt
 
-
+generator object
 /All/Coding/Python/Python_Basics/generator_object/generator_object.txt
 
-
+Getting started
 /All/Coding/Python/Python_Basics/Getting_started/Getting_started.txt
 
-
+Glob Module
 /All/Coding/Python/Python_Basics/Glob_Module/Glob_Module.txt
 
-
+Itertools Module
 /All/Coding/Python/Python_Basics/Itertools_Module/Itertools_Module.txt
 
-
+Keywords
 /All/Coding/Python/Python_Basics/Keywords/Keywords.txt
 
-
+Kivy Library
 /All/Coding/Python/Python_Basics/Kivy_Library/Kivy_Library.txt
 
-
+Lists
 /All/Coding/Python/Python_Basics/Lists/Lists.txt
 
-
+Math Module
 /All/Coding/Python/Python_Basics/Math_Module/Math_Module.txt
 
-
+Math with Python
 /All/Coding/Python/Python_Basics/Math_with_Python/Math_with_Python.txt
 
-
+Matplotlilb Library
 /All/Coding/Python/Python_Basics/Matplotlilb_Library/Matplotlilb_Library.txt
 
-
+modulo
 /All/Coding/Python/Python_Basics/modulo/modulo.txt
 
-
+Movitation
 /All/Coding/Python/Python_Basics/Movitation/Movitation.txt
 
-
+Networking
 /All/Coding/Python/Python_Basics/Networking/Networking.txt
 
-
+Number Shapes
 /All/Coding/Python/Python_Basics/Number_Shapes/Number_Shapes.txt
 
-
+Numpy Library
 /All/Coding/Python/Python_Basics/Numpy_Library/Numpy_Library.txt
 
-
+Operator Module
 /All/Coding/Python/Python_Basics/Operator_Module/Operator_Module.txt
 
-
+OS Module
 /All/Coding/Python/Python_Basics/OS_Module/OS_Module.txt
 
-
+Pandas Library
 /All/Coding/Python/Python_Basics/Pandas_Library/Pandas_Library.txt
 
-
+pandas project
 /All/Coding/Python/Python_Basics/pandas_project/pandas_project.txt
 
-
+pandas_datareader
 /All/Coding/Python/Python_Basics/pandas_datareader/pandas_datareader.txt
 
-
+Password generator
 /All/Coding/Python/Python_Basics/Password_generator/Password_generator.txt
 
-
+path
 /All/Coding/Python/Python_Basics/path/path.txt
 
-
+Pickle Module
 /All/Coding/Python/Python_Basics/Pickle_Module/Pickle_Module.txt
 
-
+Pip Command
 /All/Coding/Python/Python_Basics/Pip_Command/Pip_Command.txt
 
-
+Pygame Library
 /All/Coding/Python/Python_Basics/Pygame_Library/Pygame_Library.txt
 
-
+Python Built-in Functions
 /All/Coding/Python/Python_Basics/Python_Built-in_Functions/Python_Built-in_Functions.txt
 
-
+python bytes
 /All/Coding/Python/Python_Basics/python_bytes/python_bytes.txt
 
-
+Python Object Oriented Programming (OPP)
 /All/Coding/Python/Python_Basics/Python_Object_Oriented_Programming_(OPP)/Python_Object_Oriented_Programming_(OPP).txt
 
-
+Python Tricks and Rules
 /All/Coding/Python/Python_Basics/Python_Tricks_and_Rules/Python_Tricks_and_Rules.txt
 
-
+Random Module
 /All/Coding/Python/Python_Basics/Random_Module/Random_Module.txt
 
-
+RE Module
 /All/Coding/Python/Python_Basics/RE_Module/RE_Module.txt
 
-
+read method
 /All/Coding/Python/Python_Basics/read_method/read_method.txt
 
-
+readline method
 /All/Coding/Python/Python_Basics/readline_method/readline_method.txt
 
-
+Requested Videos
 /All/Coding/Python/Python_Basics/Requested_Videos/Requested_Videos.txt
 
-
+Requests Module
 /All/Coding/Python/Python_Basics/Requests_Module/Requests_Module.txt
 
-
+return
 /All/Coding/Python/Python_Basics/return/return.txt
 
-
+Seaborn
 /All/Coding/Python/Python_Basics/Seaborn/Seaborn.txt
 
-
+SQL
 /All/Coding/Python/Python_Basics/SQL/SQL.txt
 
-
+Sqlite Module
 /All/Coding/Python/Python_Basics/Sqlite_Module/Sqlite_Module.txt
 
-
+Stock Data
 /All/Coding/Python/Python_Basics/Stock_Data/Stock_Data.txt
 
-
+String Module
 /All/Coding/Python/Python_Basics/String_Module/String_Module.txt
 
-
+Strings
 /All/Coding/Python/Python_Basics/Strings/Strings.txt
 
-
+Sys Module
 /All/Coding/Python/Python_Basics/Sys_Module/Sys_Module.txt
 
-
+Time Module
 /All/Coding/Python/Python_Basics/Time_Module/Time_Module.txt
 
-
+Tkinter Module
 /All/Coding/Python/Python_Basics/Tkinter_Module/Tkinter_Module.txt
 
-
+tuple
 /All/Coding/Python/Python_Basics/tuple/tuple.txt
 
-
+Unittest
 /All/Coding/Python/Python_Basics/Unittest/Unittest.txt
 
-
+Urllib Module
 /All/Coding/Python/Python_Basics/Urllib_Module/Urllib_Module.txt
 
-
+write method
 /All/Coding/Python/Python_Basics/write_method/write_method.txt
 
-
+Zipfile Module
 /All/Coding/Python/Python_Basics/Zipfile_Module/Zipfile_Module.txt
 Python Basics

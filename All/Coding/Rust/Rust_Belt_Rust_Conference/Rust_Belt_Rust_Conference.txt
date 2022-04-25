@@ -1,19 +1,19 @@
 
-
+## All Videos
 /All/Coding/Rust/Rust_Belt_Rust_Conference/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Rust/Rust_Belt_Rust_Conference/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Rust Belt Rust 2016
 /All/Coding/Rust/Rust_Belt_Rust_Conference/Rust_Belt_Rust_2016/Rust_Belt_Rust_2016.txt
 
-
+Rust Belt Rust 2017
 /All/Coding/Rust/Rust_Belt_Rust_Conference/Rust_Belt_Rust_2017/Rust_Belt_Rust_2017.txt
 
-
+Rust Belt Rust 2018
 /All/Coding/Rust/Rust_Belt_Rust_Conference/Rust_Belt_Rust_2018/Rust_Belt_Rust_2018.txt
 
-
+Rust Belt Rust 2019
 /All/Coding/Rust/Rust_Belt_Rust_Conference/Rust_Belt_Rust_2019/Rust_Belt_Rust_2019.txt
 Rust Belt Rust Conference

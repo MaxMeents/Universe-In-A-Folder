@@ -1,37 +1,37 @@
 
-
+## All Videos
 /All/Coding/Ruby_on_Rails/Arkency/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Ruby_on_Rails/Arkency/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Ardency Ecommerce
 /All/Coding/Ruby_on_Rails/Arkency/Ardency_Ecommerce/Ardency_Ecommerce.txt
 
-
+Arkency videos
 /All/Coding/Ruby_on_Rails/Arkency/Arkency_videos/Arkency_videos.txt
 
-
+Blogging for Busy Programmers
 /All/Coding/Ruby_on_Rails/Arkency/Blogging_for_Busy_Programmers/Blogging_for_Busy_Programmers.txt
 
-
+DDD in Rails
 /All/Coding/Ruby_on_Rails/Arkency/DDD_in_Rails/DDD_in_Rails.txt
 
-
+Event-Driven Rails from Scratch
 /All/Coding/Ruby_on_Rails/Arkency/Event-Driven_Rails_from_Scratch/Event-Driven_Rails_from_Scratch.txt
 
-
+Rails Architect MasterClass
 /All/Coding/Ruby_on_Rails/Arkency/Rails_Architect_MasterClass/Rails_Architect_MasterClass.txt
 
-
+Rails Refactoring Podcast
 /All/Coding/Ruby_on_Rails/Arkency/Rails_Refactoring_Podcast/Rails_Refactoring_Podcast.txt
 
-
+Ruby Refactoring Kata Tennis Game
 /All/Coding/Ruby_on_Rails/Arkency/Ruby_Refactoring_Kata_Tennis_Game/Ruby_Refactoring_Kata_Tennis_Game.txt
 
-
+[EN] Arkency - Conference talks
 /All/Coding/Ruby_on_Rails/Arkency/[EN]_Arkency_-_Conference_talks/[EN]_Arkency_-_Conference_talks.txt
 
-
+[EN] Arkency - Discussion Panels
 /All/Coding/Ruby_on_Rails/Arkency/[EN]_Arkency_-_Discussion_Panels/[EN]_Arkency_-_Discussion_Panels.txt
 Arkency

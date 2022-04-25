@@ -1,34 +1,34 @@
 
-
+## All Videos
 /All/Coding/Ruby_on_Rails/Frank_Rietta/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Ruby_on_Rails/Frank_Rietta/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Atlanta Ruby Users' Group Talk Series (ATLRUG)
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Atlanta_Ruby_Users'_Group_Talk_Series_(A/Atlanta_Ruby_Users'_Group_Talk_Series_(A.txt
 
-
+BSides Jackson 2019
 /All/Coding/Ruby_on_Rails/Frank_Rietta/BSides_Jackson_2019/BSides_Jackson_2019.txt
 
-
+Code for the Kingdom Hackathon (2013  San Francisco)
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Code_for_the_Kingdom_Hackathon_(2013__Sa/Code_for_the_Kingdom_Hackathon_(2013__Sa.txt
 
-
+Dancing Research
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Dancing_Research/Dancing_Research.txt
 
-
+Favorites
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Favorites/Favorites.txt
 
-
+Guest Lectures
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Guest_Lectures/Guest_Lectures.txt
 
-
+Pair Programming
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Pair_Programming/Pair_Programming.txt
 
-
+Rails Security Talks
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Rails_Security_Talks/Rails_Security_Talks.txt
 
-
+Software Planning
 /All/Coding/Ruby_on_Rails/Frank_Rietta/Software_Planning/Software_Planning.txt
 Frank Rietta

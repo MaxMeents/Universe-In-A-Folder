@@ -1,43 +1,43 @@
 
-
+## All Videos
 /All/Coding/Python/Programming_In_Python/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Programming_In_Python/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Algorithms
 /All/Coding/Python/Programming_In_Python/Algorithms/Algorithms.txt
 
-
+Basic Programs
 /All/Coding/Python/Programming_In_Python/Basic_Programs/Basic_Programs.txt
 
-
+Data Structures in Python
 /All/Coding/Python/Programming_In_Python/Data_Structures_in_Python/Data_Structures_in_Python.txt
 
-
+Letter Patterns
 /All/Coding/Python/Programming_In_Python/Letter_Patterns/Letter_Patterns.txt
 
-
+Math Programs
 /All/Coding/Python/Programming_In_Python/Math_Programs/Math_Programs.txt
 
-
+Patterns
 /All/Coding/Python/Programming_In_Python/Patterns/Patterns.txt
 
-
+Programs on 'List'
 /All/Coding/Python/Programming_In_Python/Programs_on_'List'/Programs_on_'List'.txt
 
-
+Programs on datatype Set
 /All/Coding/Python/Programming_In_Python/Programs_on_datatype_Set/Programs_on_datatype_Set.txt
 
-
+Programs using Functions
 /All/Coding/Python/Programming_In_Python/Programs_using_Functions/Programs_using_Functions.txt
 
-
+Python GUI Programs
 /All/Coding/Python/Programming_In_Python/Python_GUI_Programs/Python_GUI_Programs.txt
 
-
+Python Programs on Dictionary
 /All/Coding/Python/Programming_In_Python/Python_Programs_on_Dictionary/Python_Programs_on_Dictionary.txt
 
-
+Temperature Converter App in python GUI using TKInter
 /All/Coding/Python/Programming_In_Python/Temperature_Converter_App_in_python_GUI_/Temperature_Converter_App_in_python_GUI_.txt
 Programming In Python

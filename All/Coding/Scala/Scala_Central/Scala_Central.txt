@@ -1,28 +1,28 @@
 
-
+## All Videos
 /All/Coding/Scala/Scala_Central/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Scala/Scala_Central/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Scala Central - Apr 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_Apr_17/Scala_Central_-_Apr_17.txt
 
-
+Scala Central - Aug 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_Aug_17/Scala_Central_-_Aug_17.txt
 
-
+Scala Central - Feb 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_Feb_17/Scala_Central_-_Feb_17.txt
 
-
+Scala Central - Jan 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_Jan_17/Scala_Central_-_Jan_17.txt
 
-
+Scala Central - Jun 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_Jun_17/Scala_Central_-_Jun_17.txt
 
-
+Scala Central - Mar 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_Mar_17/Scala_Central_-_Mar_17.txt
 
-
+Scala Central - May 17
 /All/Coding/Scala/Scala_Central/Scala_Central_-_May_17/Scala_Central_-_May_17.txt
 Scala Central

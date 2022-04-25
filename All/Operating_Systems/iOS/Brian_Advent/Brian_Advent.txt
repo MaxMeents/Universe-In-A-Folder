@@ -1,130 +1,130 @@
 
-
+## All Videos
 /All/Operating_Systems/iOS/Brian_Advent/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Operating_Systems/iOS/Brian_Advent/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+24 Days of Swift Tutorials
 /All/Operating_Systems/iOS/Brian_Advent/24_Days_of_Swift_Tutorials/24_Days_of_Swift_Tutorials.txt
 
-
+3D Touch
 /All/Operating_Systems/iOS/Brian_Advent/3D_Touch/3D_Touch.txt
 
-
+Adaptive Layout
 /All/Operating_Systems/iOS/Brian_Advent/Adaptive_Layout/Adaptive_Layout.txt
 
-
+Animation
 /All/Operating_Systems/iOS/Brian_Advent/Animation/Animation.txt
 
-
+Apple Watch
 /All/Operating_Systems/iOS/Brian_Advent/Apple_Watch/Apple_Watch.txt
 
-
+ARKit
 /All/Operating_Systems/iOS/Brian_Advent/ARKit/ARKit.txt
 
-
+Become an iOS Developer
 /All/Operating_Systems/iOS/Brian_Advent/Become_an_iOS_Developer/Become_an_iOS_Developer.txt
 
-
+Brian's Advent Calendar 2016
 /All/Operating_Systems/iOS/Brian_Advent/Brian's_Advent_Calendar_2016/Brian's_Advent_Calendar_2016.txt
 
-
+CloudKit
 /All/Operating_Systems/iOS/Brian_Advent/CloudKit/CloudKit.txt
 
-
+Cocoa Programming
 /All/Operating_Systems/iOS/Brian_Advent/Cocoa_Programming/Cocoa_Programming.txt
 
-
+Combine
 /All/Operating_Systems/iOS/Brian_Advent/Combine/Combine.txt
 
-
+Core ML
 /All/Operating_Systems/iOS/Brian_Advent/Core_ML/Core_ML.txt
 
-
+CoreData
 /All/Operating_Systems/iOS/Brian_Advent/CoreData/CoreData.txt
 
-
+Create an iOS To-Do List App with Swift and Xcode
 /All/Operating_Systems/iOS/Brian_Advent/Create_an_iOS_To-Do_List_App_with_Swift_/Create_an_iOS_To-Do_List_App_with_Swift_.txt
 
-
+Custom controls and 3rd party frameworks
 /All/Operating_Systems/iOS/Brian_Advent/Custom_controls_and_3rd_party_frameworks/Custom_controls_and_3rd_party_frameworks.txt
 
-
+Design
 /All/Operating_Systems/iOS/Brian_Advent/Design/Design.txt
 
-
+Design Patterns
 /All/Operating_Systems/iOS/Brian_Advent/Design_Patterns/Design_Patterns.txt
 
-
+Firebase
 /All/Operating_Systems/iOS/Brian_Advent/Firebase/Firebase.txt
 
-
+For Beginners Start here
 /All/Operating_Systems/iOS/Brian_Advent/For_Beginners_Start_here/For_Beginners_Start_here.txt
 
-
+Games
 /All/Operating_Systems/iOS/Brian_Advent/Games/Games.txt
 
-
+Git
 /All/Operating_Systems/iOS/Brian_Advent/Git/Git.txt
 
-
+iCloud
 /All/Operating_Systems/iOS/Brian_Advent/iCloud/iCloud.txt
 
-
+iOS Features and Frameworks
 /All/Operating_Systems/iOS/Brian_Advent/iOS_Features_and_Frameworks/iOS_Features_and_Frameworks.txt
 
-
+OS X Programming
 /All/Operating_Systems/iOS/Brian_Advent/OS_X_Programming/OS_X_Programming.txt
 
-
+Privacy
 /All/Operating_Systems/iOS/Brian_Advent/Privacy/Privacy.txt
 
-
+Quick Tips
 /All/Operating_Systems/iOS/Brian_Advent/Quick_Tips/Quick_Tips.txt
 
-
+Reality Composer
 /All/Operating_Systems/iOS/Brian_Advent/Reality_Composer/Reality_Composer.txt
 
-
+Review
 /All/Operating_Systems/iOS/Brian_Advent/Review/Review.txt
 
-
+RSS Reader
 /All/Operating_Systems/iOS/Brian_Advent/RSS_Reader/RSS_Reader.txt
 
-
+RxSwift
 /All/Operating_Systems/iOS/Brian_Advent/RxSwift/RxSwift.txt
 
-
+Scene Kit
 /All/Operating_Systems/iOS/Brian_Advent/Scene_Kit/Scene_Kit.txt
 
-
+Sprite Kit
 /All/Operating_Systems/iOS/Brian_Advent/Sprite_Kit/Sprite_Kit.txt
 
-
+Start Business with iPad
 /All/Operating_Systems/iOS/Brian_Advent/Start_Business_with_iPad/Start_Business_with_iPad.txt
 
-
+Swift
 /All/Operating_Systems/iOS/Brian_Advent/Swift/Swift.txt
 
-
+Swift Basics
 /All/Operating_Systems/iOS/Brian_Advent/Swift_Basics/Swift_Basics.txt
 
-
+Swift Tutorial Conference
 /All/Operating_Systems/iOS/Brian_Advent/Swift_Tutorial_Conference/Swift_Tutorial_Conference.txt
 
-
+SwiftUI
 /All/Operating_Systems/iOS/Brian_Advent/SwiftUI/SwiftUI.txt
 
-
+Testing
 /All/Operating_Systems/iOS/Brian_Advent/Testing/Testing.txt
 
-
+UIKit
 /All/Operating_Systems/iOS/Brian_Advent/UIKit/UIKit.txt
 
-
+Vapor
 /All/Operating_Systems/iOS/Brian_Advent/Vapor/Vapor.txt
 
-
+Xcode
 /All/Operating_Systems/iOS/Brian_Advent/Xcode/Xcode.txt
 Brian Advent

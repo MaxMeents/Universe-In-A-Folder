@@ -1,22 +1,22 @@
 
-
+## All Videos
 /All/Coding/Golang/Gcd_Coder/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Golang/Gcd_Coder/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+API RESTful con Go y Vercel
 /All/Coding/Golang/Gcd_Coder/API_RESTful_con_Go_y_Vercel/API_RESTful_con_Go_y_Vercel.txt
 
-
+Curso de Go (Golang)
 /All/Coding/Golang/Gcd_Coder/Curso_de_Go_(Golang)/Curso_de_Go_(Golang).txt
 
-
+Go de uso diario
 /All/Coding/Golang/Gcd_Coder/Go_de_uso_diario/Go_de_uso_diario.txt
 
-
+TypeScript con React
 /All/Coding/Golang/Gcd_Coder/TypeScript_con_React/TypeScript_con_React.txt
 
-
+URL Shortener en Go
 /All/Coding/Golang/Gcd_Coder/URL_Shortener_en_Go/URL_Shortener_en_Go.txt
 Gcd Coder

@@ -1,100 +1,100 @@
 
-
+## All Videos
 /All/Coding/Swift/David_Tran/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Swift/David_Tran/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+30 Days of Code - iOS Development with Swift
 /All/Coding/Swift/David_Tran/30_Days_of_Code_-_iOS_Development_with_S/30_Days_of_Code_-_iOS_Development_with_S.txt
 
-
+3D Touch in iOS
 /All/Coding/Swift/David_Tran/3D_Touch_in_iOS/3D_Touch_in_iOS.txt
 
-
+7 Days Swift Challenge - Learn how to code in Swift and build iOS apps in just 7 days!
 /All/Coding/Swift/David_Tran/7_Days_Swift_Challenge_-_Learn_how_to_co/7_Days_Swift_Challenge_-_Learn_how_to_co.txt
 
-
+All Things Auto Layout Series
 /All/Coding/Swift/David_Tran/All_Things_Auto_Layout_Series/All_Things_Auto_Layout_Series.txt
 
-
+All Things Collection View Crash Course
 /All/Coding/Swift/David_Tran/All_Things_Collection_View_Crash_Course/All_Things_Collection_View_Crash_Course.txt
 
-
+Code Mastery with Duc Tran
 /All/Coding/Swift/David_Tran/Code_Mastery_with_Duc_Tran/Code_Mastery_with_Duc_Tran.txt
 
-
+Core Graphics
 /All/Coding/Swift/David_Tran/Core_Graphics/Core_Graphics.txt
 
-
+Daily Challenge
 /All/Coding/Swift/David_Tran/Daily_Challenge/Daily_Challenge.txt
 
-
+Developers Academy
 /All/Coding/Swift/David_Tran/Developers_Academy/Developers_Academy.txt
 
-
+Developers Academy Monthly
 /All/Coding/Swift/David_Tran/Developers_Academy_Monthly/Developers_Academy_Monthly.txt
 
-
+How to Build a Music Playlist App in iOS
 /All/Coding/Swift/David_Tran/How_to_Build_a_Music_Playlist_App_in_iOS/How_to_Build_a_Music_Playlist_App_in_iOS.txt
 
-
+How to Build a Twitter Client App in iOS
 /All/Coding/Swift/David_Tran/How_to_Build_a_Twitter_Client_App_in_iOS/How_to_Build_a_Twitter_Client_App_in_iOS.txt
 
-
+How to Build an iOS App
 /All/Coding/Swift/David_Tran/How_to_Build_an_iOS_App/How_to_Build_an_iOS_App.txt
 
-
+Insights Wednesday with Duc Tran
 /All/Coding/Swift/David_Tran/Insights_Wednesday_with_Duc_Tran/Insights_Wednesday_with_Duc_Tran.txt
 
-
+Introduction to Swift
 /All/Coding/Swift/David_Tran/Introduction_to_Swift/Introduction_to_Swift.txt
 
-
+iOS - Firebase Email Authentication - How to Login and Signup Users to Your App
 /All/Coding/Swift/David_Tran/iOS_-_Firebase_Email_Authentication_-_Ho/iOS_-_Firebase_Email_Authentication_-_Ho.txt
 
-
+iOS - UICollectionView Swift Tutorial - Build Pinterest Newsfeed
 /All/Coding/Swift/David_Tran/iOS_-_UICollectionView_Swift_Tutorial_-_/iOS_-_UICollectionView_Swift_Tutorial_-_.txt
 
-
+iOS Development
 /All/Coding/Swift/David_Tran/iOS_Development/iOS_Development.txt
 
-
+iOS Development Tutorial  Build a Tip Calculator with Swift
 /All/Coding/Swift/David_Tran/iOS_Development_Tutorial__Build_a_Tip_Ca/iOS_Development_Tutorial__Build_a_Tip_Ca.txt
 
-
+iOS Development Tutorial Build Interactive Social Networking Apps
 /All/Coding/Swift/David_Tran/iOS_Development_Tutorial_Build_Interacti/iOS_Development_Tutorial_Build_Interacti.txt
 
-
+iOS Workshops with Duc
 /All/Coding/Swift/David_Tran/iOS_Workshops_with_Duc/iOS_Workshops_with_Duc.txt
 
-
+LIVE Coding
 /All/Coding/Swift/David_Tran/LIVE_Coding/LIVE_Coding.txt
 
-
+Q&A Friday with Duc Tran
 /All/Coding/Swift/David_Tran/Q&A_Friday_with_Duc_Tran/Q&A_Friday_with_Duc_Tran.txt
 
-
+Search APIs in iOS 9
 /All/Coding/Swift/David_Tran/Search_APIs_in_iOS_9/Search_APIs_in_iOS_9.txt
 
-
+SWIFT PROGRAMMING - OPTIONAL
 /All/Coding/Swift/David_Tran/SWIFT_PROGRAMMING_-_OPTIONAL/SWIFT_PROGRAMMING_-_OPTIONAL.txt
 
-
+UICollectionView and UICollectionViewController in iOS 11 - FREE Course!
 /All/Coding/Swift/David_Tran/UICollectionView_and_UICollectionViewCon/UICollectionView_and_UICollectionViewCon.txt
 
-
+UIControl Series
 /All/Coding/Swift/David_Tran/UIControl_Series/UIControl_Series.txt
 
-
+UITableView and UITableViewController Tutorial in Swift
 /All/Coding/Swift/David_Tran/UITableView_and_UITableViewController_Tu/UITableView_and_UITableViewController_Tu.txt
 
-
+UITableView, UITableViewController, and UITableViewCell in Swift
 /All/Coding/Swift/David_Tran/UITableView,_UITableViewController,_and_/UITableView,_UITableViewController,_and_.txt
 
-
+Vlog
 /All/Coding/Swift/David_Tran/Vlog/Vlog.txt
 
-
+Work with JSON in iOS & Swift
 /All/Coding/Swift/David_Tran/Work_with_JSON_in_iOS_&_Swift/Work_with_JSON_in_iOS_&_Swift.txt
 David Tran

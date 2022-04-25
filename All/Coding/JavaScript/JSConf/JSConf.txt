@@ -1,190 +1,190 @@
 
-
+## All Videos
 /All/Coding/JavaScript/JSConf/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/JavaScript/JSConf/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+CascadiaJS 2018
 /All/Coding/JavaScript/JSConf/CascadiaJS_2018/CascadiaJS_2018.txt
 
-
+CSSconf Argentina 2016
 /All/Coding/JavaScript/JSConf/CSSconf_Argentina_2016/CSSconf_Argentina_2016.txt
 
-
+CSSConf Budapest 2016
 /All/Coding/JavaScript/JSConf/CSSConf_Budapest_2016/CSSConf_Budapest_2016.txt
 
-
+CSSConf Budapest 2017
 /All/Coding/JavaScript/JSConf/CSSConf_Budapest_2017/CSSConf_Budapest_2017.txt
 
-
+CSSConf Budapest 2019
 /All/Coding/JavaScript/JSConf/CSSConf_Budapest_2019/CSSConf_Budapest_2019.txt
 
-
+CSSconf EU 2014
 /All/Coding/JavaScript/JSConf/CSSconf_EU_2014/CSSconf_EU_2014.txt
 
-
+CSSconf EU 2015
 /All/Coding/JavaScript/JSConf/CSSconf_EU_2015/CSSconf_EU_2015.txt
 
-
+CSSconf EU 2017
 /All/Coding/JavaScript/JSConf/CSSconf_EU_2017/CSSconf_EU_2017.txt
 
-
+CSSconf EU 2018
 /All/Coding/JavaScript/JSConf/CSSconf_EU_2018/CSSconf_EU_2018.txt
 
-
+CSSconf EU 2019
 /All/Coding/JavaScript/JSConf/CSSconf_EU_2019/CSSconf_EU_2019.txt
 
-
+CSSConf Oakland 2014
 /All/Coding/JavaScript/JSConf/CSSConf_Oakland_2014/CSSConf_Oakland_2014.txt
 
-
+CSSConf US 2013
 /All/Coding/JavaScript/JSConf/CSSConf_US_2013/CSSConf_US_2013.txt
 
-
+CSSConf US 2014
 /All/Coding/JavaScript/JSConf/CSSConf_US_2014/CSSConf_US_2014.txt
 
-
+DHTMLConf 2000
 /All/Coding/JavaScript/JSConf/DHTMLConf_2000/DHTMLConf_2000.txt
 
-
+JS VM Engineers
 /All/Coding/JavaScript/JSConf/JS_VM_Engineers/JS_VM_Engineers.txt
 
-
+JSConf AU 2014
 /All/Coding/JavaScript/JSConf/JSConf_AU_2014/JSConf_AU_2014.txt
 
-
+JSConf Australia 2018
 /All/Coding/JavaScript/JSConf/JSConf_Australia_2018/JSConf_Australia_2018.txt
 
-
+JSConf Budapest 2015
 /All/Coding/JavaScript/JSConf/JSConf_Budapest_2015/JSConf_Budapest_2015.txt
 
-
+JSConf Budapest 2016
 /All/Coding/JavaScript/JSConf/JSConf_Budapest_2016/JSConf_Budapest_2016.txt
 
-
+JSConf Budapest 2017
 /All/Coding/JavaScript/JSConf/JSConf_Budapest_2017/JSConf_Budapest_2017.txt
 
-
+JSConf Budapest 2019
 /All/Coding/JavaScript/JSConf/JSConf_Budapest_2019/JSConf_Budapest_2019.txt
 
-
+JSConf EU 2009
 /All/Coding/JavaScript/JSConf/JSConf_EU_2009/JSConf_EU_2009.txt
 
-
+JSConf EU 2010
 /All/Coding/JavaScript/JSConf/JSConf_EU_2010/JSConf_EU_2010.txt
 
-
+JSConf EU 2011
 /All/Coding/JavaScript/JSConf/JSConf_EU_2011/JSConf_EU_2011.txt
 
-
+JSConf EU 2012
 /All/Coding/JavaScript/JSConf/JSConf_EU_2012/JSConf_EU_2012.txt
 
-
+JSConf EU 2013
 /All/Coding/JavaScript/JSConf/JSConf_EU_2013/JSConf_EU_2013.txt
 
-
+JSConf EU 2014
 /All/Coding/JavaScript/JSConf/JSConf_EU_2014/JSConf_EU_2014.txt
 
-
+JSConf EU 2015
 /All/Coding/JavaScript/JSConf/JSConf_EU_2015/JSConf_EU_2015.txt
 
-
+JSConf EU 2017
 /All/Coding/JavaScript/JSConf/JSConf_EU_2017/JSConf_EU_2017.txt
 
-
+JSConf EU 2018
 /All/Coding/JavaScript/JSConf/JSConf_EU_2018/JSConf_EU_2018.txt
 
-
+JSConf EU 2019
 /All/Coding/JavaScript/JSConf/JSConf_EU_2019/JSConf_EU_2019.txt
 
-
+JSConf HI 2019
 /All/Coding/JavaScript/JSConf/JSConf_HI_2019/JSConf_HI_2019.txt
 
-
+JSConf HI 2020
 /All/Coding/JavaScript/JSConf/JSConf_HI_2020/JSConf_HI_2020.txt
 
-
+JSConf Iceland 2016
 /All/Coding/JavaScript/JSConf/JSConf_Iceland_2016/JSConf_Iceland_2016.txt
 
-
+JSConf Iceland 2018
 /All/Coding/JavaScript/JSConf/JSConf_Iceland_2018/JSConf_Iceland_2018.txt
 
-
+JSConf India 2021
 /All/Coding/JavaScript/JSConf/JSConf_India_2021/JSConf_India_2021.txt
 
-
+JSConf Korea 2019
 /All/Coding/JavaScript/JSConf/JSConf_Korea_2019/JSConf_Korea_2019.txt
 
-
+JSConf Korea 2020 Home Edition
 /All/Coding/JavaScript/JSConf/JSConf_Korea_2020_Home_Edition/JSConf_Korea_2020_Home_Edition.txt
 
-
+JsConf Mexico 2020  virtual edition
 /All/Coding/JavaScript/JSConf/JsConf_Mexico_2020__virtual_edition/JsConf_Mexico_2020__virtual_edition.txt
 
-
+JsConf Mexico 2021
 /All/Coding/JavaScript/JSConf/JsConf_Mexico_2021/JsConf_Mexico_2021.txt
 
-
+JSConf US 2009
 /All/Coding/JavaScript/JSConf/JSConf_US_2009/JSConf_US_2009.txt
 
-
+JSConf US 2010
 /All/Coding/JavaScript/JSConf/JSConf_US_2010/JSConf_US_2010.txt
 
-
+JSConf US 2011
 /All/Coding/JavaScript/JSConf/JSConf_US_2011/JSConf_US_2011.txt
 
-
+JSConf US 2012
 /All/Coding/JavaScript/JSConf/JSConf_US_2012/JSConf_US_2012.txt
 
-
+JSConf US 2013
 /All/Coding/JavaScript/JSConf/JSConf_US_2013/JSConf_US_2013.txt
 
-
+JSConf US 2014
 /All/Coding/JavaScript/JSConf/JSConf_US_2014/JSConf_US_2014.txt
 
-
+JSConf US 2014 Training
 /All/Coding/JavaScript/JSConf/JSConf_US_2014_Training/JSConf_US_2014_Training.txt
 
-
+JSConf US 2015
 /All/Coding/JavaScript/JSConf/JSConf_US_2015/JSConf_US_2015.txt
 
-
+JSConf US 2018
 /All/Coding/JavaScript/JSConf/JSConf_US_2018/JSConf_US_2018.txt
 
-
+JSConf US 2019
 /All/Coding/JavaScript/JSConf/JSConf_US_2019/JSConf_US_2019.txt
 
-
+JSConf US LastCall - Track A
 /All/Coding/JavaScript/JSConf/JSConf_US_LastCall_-_Track_A/JSConf_US_LastCall_-_Track_A.txt
 
-
+JSConf US LastCall - Track B
 /All/Coding/JavaScript/JSConf/JSConf_US_LastCall_-_Track_B/JSConf_US_LastCall_-_Track_B.txt
 
-
+JSLA
 /All/Coding/JavaScript/JSConf/JSLA/JSLA.txt
 
-
+JSUnconf 2016
 /All/Coding/JavaScript/JSConf/JSUnconf_2016/JSUnconf_2016.txt
 
-
+JSUnconf 2017
 /All/Coding/JavaScript/JSConf/JSUnconf_2017/JSUnconf_2017.txt
 
-
+JSUnconf 2018
 /All/Coding/JavaScript/JSConf/JSUnconf_2018/JSUnconf_2018.txt
 
-
+JSUnconf 2019
 /All/Coding/JavaScript/JSConf/JSUnconf_2019/JSUnconf_2019.txt
 
-
+NodeConf 2011
 /All/Coding/JavaScript/JSConf/NodeConf_2011/NodeConf_2011.txt
 
-
+NodeConf ONE-SHOT Oakland 2014
 /All/Coding/JavaScript/JSConf/NodeConf_ONE-SHOT_Oakland_2014/NodeConf_ONE-SHOT_Oakland_2014.txt
 
-
+Web Audio
 /All/Coding/JavaScript/JSConf/Web_Audio/Web_Audio.txt
 
-
+Web Components
 /All/Coding/JavaScript/JSConf/Web_Components/Web_Components.txt
 JSConf

@@ -1,76 +1,76 @@
 
-
+## All Videos
 /All/Coding/JavaScript/devmentorlive/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/JavaScript/devmentorlive/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Build a Sortable, Searchable, Infinite Scrollable DataTable with Inline Editing!
 /All/Coding/JavaScript/devmentorlive/Build_a_Sortable,_Searchable,_Infinite_S/Build_a_Sortable,_Searchable,_Infinite_S.txt
 
-
+Build an RPG using ReactJS and React Hooks API
 /All/Coding/JavaScript/devmentorlive/Build_an_RPG_using_ReactJS_and_React_Hoo/Build_an_RPG_using_ReactJS_and_React_Hoo.txt
 
-
+Building a Crypto Currency Live Updating Dashboard
 /All/Coding/JavaScript/devmentorlive/Building_a_Crypto_Currency_Live_Updating/Building_a_Crypto_Currency_Live_Updating.txt
 
-
+Building a Polling Feature using ReactJS, Websockets, HTMLCSS, and Ruby on Rails (postgres)
 /All/Coding/JavaScript/devmentorlive/Building_a_Polling_Feature_using_ReactJS/Building_a_Polling_Feature_using_ReactJS.txt
 
-
+Building an online store using React
 /All/Coding/JavaScript/devmentorlive/Building_an_online_store_using_React/Building_an_online_store_using_React.txt
 
-
+Building Games using React and Redux
 /All/Coding/JavaScript/devmentorlive/Building_Games_using_React_and_Redux/Building_Games_using_React_and_Redux.txt
 
-
+Building real world ReactJS components
 /All/Coding/JavaScript/devmentorlive/Building_real_world_ReactJS_components/Building_real_world_ReactJS_components.txt
 
-
+Building Tetris using Modern ReactJS
 /All/Coding/JavaScript/devmentorlive/Building_Tetris_using_Modern_ReactJS/Building_Tetris_using_Modern_ReactJS.txt
 
-
+Building Websites using React, NextJS, NextAuth, MongoDB, and TailwindCSS
 /All/Coding/JavaScript/devmentorlive/Building_Websites_using_React,_NextJS,_N/Building_Websites_using_React,_NextJS,_N.txt
 
-
+Creating interactive forms using ReactJS
 /All/Coding/JavaScript/devmentorlive/Creating_interactive_forms_using_ReactJS/Creating_interactive_forms_using_ReactJS.txt
 
-
+Japanese Carpentry
 /All/Coding/JavaScript/devmentorlive/Japanese_Carpentry/Japanese_Carpentry.txt
 
-
+Learn ReactJ Fundamentals
 /All/Coding/JavaScript/devmentorlive/Learn_ReactJ_Fundamentals/Learn_ReactJ_Fundamentals.txt
 
-
+P2P Webchat using Websockets, React and Node
 /All/Coding/JavaScript/devmentorlive/P2P_Webchat_using_Websockets,_React_and_/P2P_Webchat_using_Websockets,_React_and_.txt
 
-
+React Datatables
 /All/Coding/JavaScript/devmentorlive/React_Datatables/React_Datatables.txt
 
-
+React Forms
 /All/Coding/JavaScript/devmentorlive/React_Forms/React_Forms.txt
 
-
+React Hooks
 /All/Coding/JavaScript/devmentorlive/React_Hooks/React_Hooks.txt
 
-
+React JS - Build an SPA Website w eCommerce and a blog!
 /All/Coding/JavaScript/devmentorlive/React_JS_-_Build_an_SPA_Website_w_eComme/React_JS_-_Build_an_SPA_Website_w_eComme.txt
 
-
+React University - React Hooks API
 /All/Coding/JavaScript/devmentorlive/React_University_-_React_Hooks_API/React_University_-_React_Hooks_API.txt
 
-
+ReactJS
 /All/Coding/JavaScript/devmentorlive/ReactJS/ReactJS.txt
 
-
+ReactJS Calendar using date-fns library and generators!
 /All/Coding/JavaScript/devmentorlive/ReactJS_Calendar_using_date-fns_library_/ReactJS_Calendar_using_date-fns_library_.txt
 
-
+ReactJS Quick Screencasts
 /All/Coding/JavaScript/devmentorlive/ReactJS_Quick_Screencasts/ReactJS_Quick_Screencasts.txt
 
-
+Solving Algorithmic Interview Problems in JavaScript
 /All/Coding/JavaScript/devmentorlive/Solving_Algorithmic_Interview_Problems_i/Solving_Algorithmic_Interview_Problems_i.txt
 
-
+Working with remote APIs using ReactJS
 /All/Coding/JavaScript/devmentorlive/Working_with_remote_APIs_using_ReactJS/Working_with_remote_APIs_using_ReactJS.txt
 devmentorlive

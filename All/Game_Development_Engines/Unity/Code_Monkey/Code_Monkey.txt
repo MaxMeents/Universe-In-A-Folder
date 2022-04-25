@@ -1,154 +1,154 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Unity/Code_Monkey/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Unity/Code_Monkey/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Assassin's Creed Odyssey in Unity 2D
 /All/Game_Development_Engines/Unity/Code_Monkey/Assassin's_Creed_Odyssey_in_Unity_2D/Assassin's_Creed_Odyssey_in_Unity_2D.txt
 
-
+Asset Review - Unity Asset Store
 /All/Game_Development_Engines/Unity/Code_Monkey/Asset_Review_-_Unity_Asset_Store/Asset_Review_-_Unity_Asset_Store.txt
 
-
+Awesome Top-Down Shooter in Unity (Complete Project)
 /All/Game_Development_Engines/Unity/Code_Monkey/Awesome_Top-Down_Shooter_in_Unity_(Compl/Awesome_Top-Down_Shooter_in_Unity_(Compl.txt
 
-
+C# Basics to Advanced
 /All/Game_Development_Engines/Unity/Code_Monkey/C#_Basics_to_Advanced/C#_Basics_to_Advanced.txt
 
-
+Camera System in Unity
 /All/Game_Development_Engines/Unity/Code_Monkey/Camera_System_in_Unity/Camera_System_in_Unity.txt
 
-
+Character Portrait Window - Unity Tutorial
 /All/Game_Development_Engines/Unity/Code_Monkey/Character_Portrait_Window_-_Unity_Tutori/Character_Portrait_Window_-_Unity_Tutori.txt
 
-
+Code Monkey Livestreams
 /All/Game_Development_Engines/Unity/Code_Monkey/Code_Monkey_Livestreams/Code_Monkey_Livestreams.txt
 
-
+Complete Games made in Unity! (Download Project Files)
 /All/Game_Development_Engines/Unity/Code_Monkey/Complete_Games_made_in_Unity!_(Download_/Complete_Games_made_in_Unity!_(Download_.txt
 
-
+Create a Graph - Unity Tutorial
 /All/Game_Development_Engines/Unity/Code_Monkey/Create_a_Graph_-_Unity_Tutorial/Create_a_Graph_-_Unity_Tutorial.txt
 
-
+Demoman from TF2 in Unity 2D
 /All/Game_Development_Engines/Unity/Code_Monkey/Demoman_from_TF2_in_Unity_2D/Demoman_from_TF2_in_Unity_2D.txt
 
-
+Game Dev advice from a Professional Indie Game Developer
 /All/Game_Development_Engines/Unity/Code_Monkey/Game_Dev_advice_from_a_Professional_Indi/Game_Dev_advice_from_a_Professional_Indi.txt
 
-
+Game Dev REVIEWS - Learn Game Design!
 /All/Game_Development_Engines/Unity/Code_Monkey/Game_Dev_REVIEWS_-_Learn_Game_Design!/Game_Dev_REVIEWS_-_Learn_Game_Design!.txt
 
-
+Game Developer REACTS
 /All/Game_Development_Engines/Unity/Code_Monkey/Game_Developer_REACTS/Game_Developer_REACTS.txt
 
-
+Grid System in Unity (How to make it and where to use it)
 /All/Game_Development_Engines/Unity/Code_Monkey/Grid_System_in_Unity_(How_to_make_it_and/Grid_System_in_Unity_(How_to_make_it_and.txt
 
-
+How it's Made How Mechanics and System from various Games work
 /All/Game_Development_Engines/Unity/Code_Monkey/How_it's_Made_How_Mechanics_and_System_f/How_it's_Made_How_Mechanics_and_System_f.txt
 
-
+How to make a Game in 10 minutes and Expand upon it (Unity RTS Tutorial)
 /All/Game_Development_Engines/Unity/Code_Monkey/How_to_make_a_Game_in_10_minutes_and_Exp/How_to_make_a_Game_in_10_minutes_and_Exp.txt
 
-
+How to make a Tooltip (Unity Tutorial)
 /All/Game_Development_Engines/Unity/Code_Monkey/How_to_make_a_Tooltip_(Unity_Tutorial)/How_to_make_a_Tooltip_(Unity_Tutorial).txt
 
-
+How to Make Simple Character Movement (Unity Tutorial for Beginners)
 /All/Game_Development_Engines/Unity/Code_Monkey/How_to_Make_Simple_Character_Movement_(U/How_to_Make_Simple_Character_Movement_(U.txt
 
-
+Interesting Game Dev Videos
 /All/Game_Development_Engines/Unity/Code_Monkey/Interesting_Game_Dev_Videos/Interesting_Game_Dev_Videos.txt
 
-
+Machine Learning AI in Unity (ML-Agents)
 /All/Game_Development_Engines/Unity/Code_Monkey/Machine_Learning_AI_in_Unity_(ML-Agents)/Machine_Learning_AI_in_Unity_(ML-Agents).txt
 
-
+Making Spider-Man in Unity 2D
 /All/Game_Development_Engines/Unity/Code_Monkey/Making_Spider-Man_in_Unity_2D/Making_Spider-Man_in_Unity_2D.txt
 
-
+Misc Videos (Unity Tutorials)
 /All/Game_Development_Engines/Unity/Code_Monkey/Misc_Videos_(Unity_Tutorials)/Misc_Videos_(Unity_Tutorials).txt
 
-
+Modular Spritesheets as used in Battle Royale Tycoon (Unity Tutorial)
 /All/Game_Development_Engines/Unity/Code_Monkey/Modular_Spritesheets_as_used_in_Battle_R/Modular_Spritesheets_as_used_in_Battle_R.txt
 
-
+Monthly Summaries - Unity Tutorials
 /All/Game_Development_Engines/Unity/Code_Monkey/Monthly_Summaries_-_Unity_Tutorials/Monthly_Summaries_-_Unity_Tutorials.txt
 
-
+Pathfinding in Unity DOTS  ECS
 /All/Game_Development_Engines/Unity/Code_Monkey/Pathfinding_in_Unity_DOTS__ECS/Pathfinding_in_Unity_DOTS__ECS.txt
 
-
+Quest Pointer - Unity Tutorial
 /All/Game_Development_Engines/Unity/Code_Monkey/Quest_Pointer_-_Unity_Tutorial/Quest_Pointer_-_Unity_Tutorial.txt
 
-
+Quick How It's Made Unity Tutorials
 /All/Game_Development_Engines/Unity/Code_Monkey/Quick_How_It's_Made_Unity_Tutorials/Quick_How_It's_Made_Unity_Tutorials.txt
 
-
+Quick Unity Tips
 /All/Game_Development_Engines/Unity/Code_Monkey/Quick_Unity_Tips/Quick_Unity_Tips.txt
 
-
+Quick Unity Tips #shorts #unity #gamedev
 /All/Game_Development_Engines/Unity/Code_Monkey/Quick_Unity_Tips_#shorts_#unity_#gamedev/Quick_Unity_Tips_#shorts_#unity_#gamedev.txt
 
-
+Related Videos
 /All/Game_Development_Engines/Unity/Code_Monkey/Related_Videos/Related_Videos.txt
 
-
+Simple 2D Game in Unity Snake
 /All/Game_Development_Engines/Unity/Code_Monkey/Simple_2D_Game_in_Unity_Snake/Simple_2D_Game_in_Unity_Snake.txt
 
-
+Simple AI Resource Gatherer (Unity Tutorial)
 /All/Game_Development_Engines/Unity/Code_Monkey/Simple_AI_Resource_Gatherer_(Unity_Tutor/Simple_AI_Resource_Gatherer_(Unity_Tutor.txt
 
-
+Simple Saving and Loading in Unity
 /All/Game_Development_Engines/Unity/Code_Monkey/Simple_Saving_and_Loading_in_Unity/Simple_Saving_and_Loading_in_Unity.txt
 
-
+Simple Sprite Animator - Unity Tutorial
 /All/Game_Development_Engines/Unity/Code_Monkey/Simple_Sprite_Animator_-_Unity_Tutorial/Simple_Sprite_Animator_-_Unity_Tutorial.txt
 
-
+Systems from Popular Games (Unity Tutorials)
 /All/Game_Development_Engines/Unity/Code_Monkey/Systems_from_Popular_Games_(Unity_Tutori/Systems_from_Popular_Games_(Unity_Tutori.txt
 
-
+Task System in Battle Royale Tycoon
 /All/Game_Development_Engines/Unity/Code_Monkey/Task_System_in_Battle_Royale_Tycoon/Task_System_in_Battle_Royale_Tycoon.txt
 
-
+Third Person Shooter in Unity!
 /All/Game_Development_Engines/Unity/Code_Monkey/Third_Person_Shooter_in_Unity!/Third_Person_Shooter_in_Unity!.txt
 
-
+Top NEW Assets and Systems on the Unity Asset Store! (FREE + Paid)
 /All/Game_Development_Engines/Unity/Code_Monkey/Top_NEW_Assets_and_Systems_on_the_Unity_/Top_NEW_Assets_and_Systems_on_the_Unity_.txt
 
-
+Top NEW Games Every Month!
 /All/Game_Development_Engines/Unity/Code_Monkey/Top_NEW_Games_Every_Month!/Top_NEW_Games_Every_Month!.txt
 
-
+Unity Basics for Beginners
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_Basics_for_Beginners/Unity_Basics_for_Beginners.txt
 
-
+Unity DOTS  ECS Tutorials
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_DOTS__ECS_Tutorials/Unity_DOTS__ECS_Tutorials.txt
 
-
+Unity FPS Microgame
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_FPS_Microgame/Unity_FPS_Microgame.txt
 
-
+Unity Game Simulation
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_Game_Simulation/Unity_Game_Simulation.txt
 
-
+Unity Platformer 2D Tutorials
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_Platformer_2D_Tutorials/Unity_Platformer_2D_Tutorials.txt
 
-
+Unity RPG 2D Tutorials
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_RPG_2D_Tutorials/Unity_RPG_2D_Tutorials.txt
 
-
+Unity Shader Graph Tutorials
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_Shader_Graph_Tutorials/Unity_Shader_Graph_Tutorials.txt
 
-
+Unity Tips in 10 Minutes!
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_Tips_in_10_Minutes!/Unity_Tips_in_10_Minutes!.txt
 
-
+Unity Visual Scripting Tutorials (Bolt)
 /All/Game_Development_Engines/Unity/Code_Monkey/Unity_Visual_Scripting_Tutorials_(Bolt)/Unity_Visual_Scripting_Tutorials_(Bolt).txt
 
-
+Waiting Queue in Battle Royale Tycoon
 /All/Game_Development_Engines/Unity/Code_Monkey/Waiting_Queue_in_Battle_Royale_Tycoon/Waiting_Queue_in_Battle_Royale_Tycoon.txt
 Code Monkey

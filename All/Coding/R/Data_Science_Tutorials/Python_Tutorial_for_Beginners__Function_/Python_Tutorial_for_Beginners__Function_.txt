@@ -1,10 +1,10 @@
 
-
+Videos 1-25
 /All/Coding/R/Data_Science_Tutorials/Python_Tutorial_for_Beginners__Function_/Videos_1-25/Videos_1-25.txt
 
-
+Videos 26-50
 /All/Coding/R/Data_Science_Tutorials/Python_Tutorial_for_Beginners__Function_/Videos_26-50/Videos_26-50.txt
 
-
+Videos 51-59
 /All/Coding/R/Data_Science_Tutorials/Python_Tutorial_for_Beginners__Function_/Videos_51-59/Videos_51-59.txt
 Python Tutorial for Beginners  Function Parameters

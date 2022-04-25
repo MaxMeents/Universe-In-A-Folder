@@ -1,304 +1,304 @@
 
-
+## All Videos
 /All/Coding/Python/sentdex/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/sentdex/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+3D ConvNet For Kaggle Data Science Bowl 2017 Lung Cancer Detection
 /All/Coding/Python/sentdex/3D_ConvNet_For_Kaggle_Data_Science_Bowl_/3D_ConvNet_For_Kaggle_Data_Science_Bowl_.txt
 
-
+3D Graphing with Matplotlib
 /All/Coding/Python/sentdex/3D_Graphing_with_Matplotlib/3D_Graphing_with_Matplotlib.txt
 
-
+Alexa Skills w Python and Flask-Ask
 /All/Coding/Python/sentdex/Alexa_Skills_w_Python_and_Flask-Ask/Alexa_Skills_w_Python_and_Flask-Ask.txt
 
-
+Analyzing Google Takeout Data
 /All/Coding/Python/sentdex/Analyzing_Google_Takeout_Data/Analyzing_Google_Takeout_Data.txt
 
-
+Big Data Analytics & Algorithmic Stock Trading  Backtesting
 /All/Coding/Python/sentdex/Big_Data_Analytics_&_Algorithmic_Stock_T/Big_Data_Analytics_&_Algorithmic_Stock_T.txt
 
-
+Bitcoin
 /All/Coding/Python/sentdex/Bitcoin/Bitcoin.txt
 
-
+Bitcoin Satoshi Paper Explained
 /All/Coding/Python/sentdex/Bitcoin_Satoshi_Paper_Explained/Bitcoin_Satoshi_Paper_Explained.txt
 
-
+Brain Computer Interface w Python and OpenBCI
 /All/Coding/Python/sentdex/Brain_Computer_Interface_w_Python_and_Op/Brain_Computer_Interface_w_Python_and_Op.txt
 
-
+Build your Own Supercomputer
 /All/Coding/Python/sentdex/Build_your_Own_Supercomputer/Build_your_Own_Supercomputer.txt
 
-
+Building and Programming a Quadcopter
 /All/Coding/Python/sentdex/Building_and_Programming_a_Quadcopter/Building_and_Programming_a_Quadcopter.txt
 
-
+Chatbot with Mic inputSpeaker output using Python, Jarvis, and DialoGPT
 /All/Coding/Python/sentdex/Chatbot_with_Mic_inputSpeaker_output_usi/Chatbot_with_Mic_inputSpeaker_output_usi.txt
 
-
+Cool Python Programs and Applications
 /All/Coding/Python/sentdex/Cool_Python_Programs_and_Applications/Cool_Python_Programs_and_Applications.txt
 
-
+Correlation One's Terminal AI competition
 /All/Coding/Python/sentdex/Correlation_One's_Terminal_AI_competitio/Correlation_One's_Terminal_AI_competitio.txt
 
-
+Creating a Chatbot with Deep Learning, Python, and TensorFlo
 /All/Coding/Python/sentdex/Creating_a_Chatbot_with_Deep_Learning,_P/Creating_a_Chatbot_with_Deep_Learning,_P.txt
 
-
+Customizing Matplotlib Graphs and Charts
 /All/Coding/Python/sentdex/Customizing_Matplotlib_Graphs_and_Charts/Customizing_Matplotlib_Graphs_and_Charts.txt
 
-
+CyberPython 2077
 /All/Coding/Python/sentdex/CyberPython_2077/CyberPython_2077.txt
 
-
+Data Analysis w Python 3 and Pandas
 /All/Coding/Python/sentdex/Data_Analysis_w_Python_3_and_Pandas/Data_Analysis_w_Python_3_and_Pandas.txt
 
-
+Data Analysis with Python and Pandas
 /All/Coding/Python/sentdex/Data_Analysis_with_Python_and_Pandas/Data_Analysis_with_Python_and_Pandas.txt
 
-
+Data Visualization GUIs with Dash and Python
 /All/Coding/Python/sentdex/Data_Visualization_GUIs_with_Dash_and_Py/Data_Visualization_GUIs_with_Dash_and_Py.txt
 
-
+Debugging Python Errors
 /All/Coding/Python/sentdex/Debugging_Python_Errors/Debugging_Python_Errors.txt
 
-
+Deep Learning basics with Python, TensorFlow and Keras
 /All/Coding/Python/sentdex/Deep_Learning_basics_with_Python,_Tensor/Deep_Learning_basics_with_Python,_Tensor.txt
 
-
+Django Tutorials (Python Web Development)
 /All/Coding/Python/sentdex/Django_Tutorials_(Python_Web_Development/Django_Tutorials_(Python_Web_Development.txt
 
-
+Django Web Development with Python
 /All/Coding/Python/sentdex/Django_Web_Development_with_Python/Django_Web_Development_with_Python.txt
 
-
+Facial Recognition with Python
 /All/Coding/Python/sentdex/Facial_Recognition_with_Python/Facial_Recognition_with_Python.txt
 
-
+Flask web development with Python
 /All/Coding/Python/sentdex/Flask_web_development_with_Python/Flask_web_development_with_Python.txt
 
-
+Fundamental Investing
 /All/Coding/Python/sentdex/Fundamental_Investing/Fundamental_Investing.txt
 
-
+Generating Python code with GPT
 /All/Coding/Python/sentdex/Generating_Python_code_with_GPT/Generating_Python_code_with_GPT.txt
 
-
+Geographic Plotting on Maps with Matplotlib and Basemap
 /All/Coding/Python/sentdex/Geographic_Plotting_on_Maps_with_Matplot/Geographic_Plotting_on_Maps_with_Matplot.txt
 
-
+Go Language Programming Practical Basics Tutorial
 /All/Coding/Python/sentdex/Go_Language_Programming_Practical_Basics/Go_Language_Programming_Practical_Basics.txt
 
-
+Google Cloud Tutorials
 /All/Coding/Python/sentdex/Google_Cloud_Tutorials/Google_Cloud_Tutorials.txt
 
-
+Graphing in Matplotlib (chart generation) in Python
 /All/Coding/Python/sentdex/Graphing_in_Matplotlib_(chart_generation/Graphing_in_Matplotlib_(chart_generation.txt
 
-
+GUIs with Tkinter (intermediate)
 /All/Coding/Python/sentdex/GUIs_with_Tkinter_(intermediate)/GUIs_with_Tkinter_(intermediate).txt
 
-
+Halite II AI competition
 /All/Coding/Python/sentdex/Halite_II_AI_competition/Halite_II_AI_competition.txt
 
-
+Halite III (2018)
 /All/Coding/Python/sentdex/Halite_III_(2018)/Halite_III_(2018).txt
 
-
+How to Build a Computer and Overclock it
 /All/Coding/Python/sentdex/How_to_Build_a_Computer_and_Overclock_it/How_to_Build_a_Computer_and_Overclock_it.txt
 
-
+How to Create a Website For Beginners (WordPress)
 /All/Coding/Python/sentdex/How_to_Create_a_Website_For_Beginners_(W/How_to_Create_a_Website_For_Beginners_(W.txt
 
-
+HTML5
 /All/Coding/Python/sentdex/HTML5/HTML5.txt
 
-
+Image Recognition
 /All/Coding/Python/sentdex/Image_Recognition/Image_Recognition.txt
 
-
+In my Freetime
 /All/Coding/Python/sentdex/In_my_Freetime/In_my_Freetime.txt
 
-
+Intermediate Python Programming
 /All/Coding/Python/sentdex/Intermediate_Python_Programming/Intermediate_Python_Programming.txt
 
-
+Intermediate Python Tutorials
 /All/Coding/Python/sentdex/Intermediate_Python_Tutorials/Intermediate_Python_Tutorials.txt
 
-
+JavaScript Basics
 /All/Coding/Python/sentdex/JavaScript_Basics/JavaScript_Basics.txt
 
-
+Jetson Tegra K1 Devkit
 /All/Coding/Python/sentdex/Jetson_Tegra_K1_Devkit/Jetson_Tegra_K1_Devkit.txt
 
-
+Kivy - Mobile and Desktop App Dev w Python
 /All/Coding/Python/sentdex/Kivy_-_Mobile_and_Desktop_App_Dev_w_Pyth/Kivy_-_Mobile_and_Desktop_App_Dev_w_Pyth.txt
 
-
+Kivy Application Development
 /All/Coding/Python/sentdex/Kivy_Application_Development/Kivy_Application_Development.txt
 
-
+Live Matplotlib Graphs
 /All/Coding/Python/sentdex/Live_Matplotlib_Graphs/Live_Matplotlib_Graphs.txt
 
-
+Machine Learning for Forex and Stock analysis and algorithmic trading
 /All/Coding/Python/sentdex/Machine_Learning_for_Forex_and_Stock_ana/Machine_Learning_for_Forex_and_Stock_ana.txt
 
-
+Machine Learning with Python
 /All/Coding/Python/sentdex/Machine_Learning_with_Python/Machine_Learning_with_Python.txt
 
-
+Matplotlib Tutorial Series - Graphing in Python
 /All/Coding/Python/sentdex/Matplotlib_Tutorial_Series_-_Graphing_in/Matplotlib_Tutorial_Series_-_Graphing_in.txt
 
-
+Monte Carlo Simulation with Python
 /All/Coding/Python/sentdex/Monte_Carlo_Simulation_with_Python/Monte_Carlo_Simulation_with_Python.txt
 
-
+MySQL with Python and MySQLdb
 /All/Coding/Python/sentdex/MySQL_with_Python_and_MySQLdb/MySQL_with_Python_and_MySQLdb.txt
 
-
+Neural Networks from Scratch in Python
 /All/Coding/Python/sentdex/Neural_Networks_from_Scratch_in_Python/Neural_Networks_from_Scratch_in_Python.txt
 
-
+NLTK with Python 3 for Natural Language Processing
 /All/Coding/Python/sentdex/NLTK_with_Python_3_for_Natural_Language_/NLTK_with_Python_3_for_Natural_Language_.txt
 
-
+OpenCV with Python for Image and Video Analysis
 /All/Coding/Python/sentdex/OpenCV_with_Python_for_Image_and_Video_A/OpenCV_with_Python_for_Image_and_Video_A.txt
 
-
+OpenGL programming with PyOpenGL, Python, and Pygame
 /All/Coding/Python/sentdex/OpenGL_programming_with_PyOpenGL,_Python/OpenGL_programming_with_PyOpenGL,_Python.txt
 
-
+PHP Basic Tutorials
 /All/Coding/Python/sentdex/PHP_Basic_Tutorials/PHP_Basic_Tutorials.txt
 
-
+Physics Simulator w Robot Dog
 /All/Coding/Python/sentdex/Physics_Simulator_w_Robot_Dog/Physics_Simulator_w_Robot_Dog.txt
 
-
+Practical Flask Web Development Tutorials
 /All/Coding/Python/sentdex/Practical_Flask_Web_Development_Tutorial/Practical_Flask_Web_Development_Tutorial.txt
 
-
+Programming to Aid Fundamental Investing
 /All/Coding/Python/sentdex/Programming_to_Aid_Fundamental_Investing/Programming_to_Aid_Fundamental_Investing.txt
 
-
+Pygame - Making Games with Python
 /All/Coding/Python/sentdex/Pygame_-_Making_Games_with_Python/Pygame_-_Making_Games_with_Python.txt
 
-
+PyGame with Python 3 Game Development
 /All/Coding/Python/sentdex/PyGame_with_Python_3_Game_Development/PyGame_with_Python_3_Game_Development.txt
 
-
+PyQT Python GUI Application Development with Python
 /All/Coding/Python/sentdex/PyQT_Python_GUI_Application_Development_/PyQT_Python_GUI_Application_Development_.txt
 
-
+Python 3 Basics Tutorial Series
 /All/Coding/Python/sentdex/Python_3_Basics_Tutorial_Series/Python_3_Basics_Tutorial_Series.txt
 
-
+Python AI in StarCraft II
 /All/Coding/Python/sentdex/Python_AI_in_StarCraft_II/Python_AI_in_StarCraft_II.txt
 
-
+Python Basic Tutorials
 /All/Coding/Python/sentdex/Python_Basic_Tutorials/Python_Basic_Tutorials.txt
 
-
+Python for Finance with Zipline and Quantopian
 /All/Coding/Python/sentdex/Python_for_Finance_with_Zipline_and_Quan/Python_for_Finance_with_Zipline_and_Quan.txt
 
-
+Python Mathematics and StockForexFutures indicators
 /All/Coding/Python/sentdex/Python_Mathematics_and_StockForexFutures/Python_Mathematics_and_StockForexFutures.txt
 
-
+Python Plays Grand Theft Auto V
 /All/Coding/Python/sentdex/Python_Plays_Grand_Theft_Auto_V/Python_Plays_Grand_Theft_Auto_V.txt
 
-
+Python Programming for Finance
 /All/Coding/Python/sentdex/Python_Programming_for_Finance/Python_Programming_for_Finance.txt
 
-
+Python Reddit API Wrapper (PRAW) tutorial
 /All/Coding/Python/sentdex/Python_Reddit_API_Wrapper_(PRAW)_tutoria/Python_Reddit_API_Wrapper_(PRAW)_tutoria.txt
 
-
+Python with Pandas and Sentiment Analysis for Investing
 /All/Coding/Python/sentdex/Python_with_Pandas_and_Sentiment_Analysi/Python_with_Pandas_and_Sentiment_Analysi.txt
 
-
+Pytorch - Deep learning w Python
 /All/Coding/Python/sentdex/Pytorch_-_Deep_learning_w_Python/Pytorch_-_Deep_learning_w_Python.txt
 
-
+Quadcopter
 /All/Coding/Python/sentdex/Quadcopter/Quadcopter.txt
 
-
+Quantum Computer Programming w Qiskit
 /All/Coding/Python/sentdex/Quantum_Computer_Programming_w_Qiskit/Quantum_Computer_Programming_w_Qiskit.txt
 
-
+Questions and Answers
 /All/Coding/Python/sentdex/Questions_and_Answers/Questions_and_Answers.txt
 
-
+Raspberry Pi and Python Tutorials
 /All/Coding/Python/sentdex/Raspberry_Pi_and_Python_Tutorials/Raspberry_Pi_and_Python_Tutorials.txt
 
-
+Raspberry Pi GPIO basics
 /All/Coding/Python/sentdex/Raspberry_Pi_GPIO_basics/Raspberry_Pi_GPIO_basics.txt
 
-
+Raspberry Pi®? Tutorials
 /All/Coding/Python/sentdex/Raspberry_Pi®?_Tutorials/Raspberry_Pi®?_Tutorials.txt
 
-
+Reinforcement Learning
 /All/Coding/Python/sentdex/Reinforcement_Learning/Reinforcement_Learning.txt
 
-
+Reinforcement Learning with Stable Baselines 3
 /All/Coding/Python/sentdex/Reinforcement_Learning_with_Stable_Basel/Reinforcement_Learning_with_Stable_Basel.txt
 
-
+Robotics and the Raspberry Pi
 /All/Coding/Python/sentdex/Robotics_and_the_Raspberry_Pi/Robotics_and_the_Raspberry_Pi.txt
 
-
+Robotics with Python Raspberry Pi and GoPiGo
 /All/Coding/Python/sentdex/Robotics_with_Python_Raspberry_Pi_and_Go/Robotics_with_Python_Raspberry_Pi_and_Go.txt
 
-
+Scikit-learn Machine Learning with Python and SKlearn
 /All/Coding/Python/sentdex/Scikit-learn_Machine_Learning_with_Pytho/Scikit-learn_Machine_Learning_with_Pytho.txt
 
-
+Search Engine Optimization
 /All/Coding/Python/sentdex/Search_Engine_Optimization/Search_Engine_Optimization.txt
 
-
+Self-driving cars with Carla and Python
 /All/Coding/Python/sentdex/Self-driving_cars_with_Carla_and_Python/Self-driving_cars_with_Carla_and_Python.txt
 
-
+Sentiment Analysis
 /All/Coding/Python/sentdex/Sentiment_Analysis/Sentiment_Analysis.txt
 
-
+Sentiment Analysis, Big Data, Natural Language Processing
 /All/Coding/Python/sentdex/Sentiment_Analysis,_Big_Data,_Natural_La/Sentiment_Analysis,_Big_Data,_Natural_La.txt
 
-
+Sockets with Python 3
 /All/Coding/Python/sentdex/Sockets_with_Python_3/Sockets_with_Python_3.txt
 
-
+SQLite
 /All/Coding/Python/sentdex/SQLite/SQLite.txt
 
-
+SQLite3 - Simple Databases with Python
 /All/Coding/Python/sentdex/SQLite3_-_Simple_Databases_with_Python/SQLite3_-_Simple_Databases_with_Python.txt
 
-
+Starcraft 2 AI
 /All/Coding/Python/sentdex/Starcraft_2_AI/Starcraft_2_AI.txt
 
-
+TensorFlow Object Detection API
 /All/Coding/Python/sentdex/TensorFlow_Object_Detection_API/TensorFlow_Object_Detection_API.txt
 
-
+The Basics of Python for Big Data and Sentiment Analysis
 /All/Coding/Python/sentdex/The_Basics_of_Python_for_Big_Data_and_Se/The_Basics_of_Python_for_Big_Data_and_Se.txt
 
-
+uArm Robotic Arm Tinkering
 /All/Coding/Python/sentdex/uArm_Robotic_Arm_Tinkering/uArm_Robotic_Arm_Tinkering.txt
 
-
+Unconventional Neural Networks
 /All/Coding/Python/sentdex/Unconventional_Neural_Networks/Unconventional_Neural_Networks.txt
 
-
+Using Convolutional Neural Network to Identify Dogs vs Cats
 /All/Coding/Python/sentdex/Using_Convolutional_Neural_Network_to_Id/Using_Convolutional_Neural_Network_to_Id.txt
 
-
+Virtual Private Servers + Python!
 /All/Coding/Python/sentdex/Virtual_Private_Servers_+_Python!/Virtual_Private_Servers_+_Python!.txt
 
-
+Web scraping and parsing with Beautiful Soup & Python
 /All/Coding/Python/sentdex/Web_scraping_and_parsing_with_Beautiful_/Web_scraping_and_parsing_with_Beautiful_.txt
 
-
+wxPython Making Windows  GUIs for user-friendliness
 /All/Coding/Python/sentdex/wxPython_Making_Windows__GUIs_for_user-f/wxPython_Making_Windows__GUIs_for_user-f.txt
 sentdex

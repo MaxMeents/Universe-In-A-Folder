@@ -1,16 +1,16 @@
 
-
+## All Videos
 /All/Coding/Ruby_on_Rails/Drifting_Ruby/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Ruby_on_Rails/Drifting_Ruby/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Drifting Ruby Episodes
 /All/Coding/Ruby_on_Rails/Drifting_Ruby/Drifting_Ruby_Episodes/Drifting_Ruby_Episodes.txt
 
-
+Free Episodes
 /All/Coding/Ruby_on_Rails/Drifting_Ruby/Free_Episodes/Free_Episodes.txt
 
-
+Tech, Architecture, Talk and More
 /All/Coding/Ruby_on_Rails/Drifting_Ruby/Tech,_Architecture,_Talk_and_More/Tech,_Architecture,_Talk_and_More.txt
 Drifting Ruby

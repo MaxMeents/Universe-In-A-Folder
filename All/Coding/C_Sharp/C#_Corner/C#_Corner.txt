@@ -1,109 +1,109 @@
 
-
+## All Videos
 /All/Coding/C_Sharp/C#_Corner/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/C_Sharp/C#_Corner/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+#AskMeAnything Live Series
 /All/Coding/C_Sharp/C#_Corner/#AskMeAnything_Live_Series/#AskMeAnything_Live_Series.txt
 
-
+7 Minutes to better Selling Podcast by Colin Lake
 /All/Coding/C_Sharp/C#_Corner/7_Minutes_to_better_Selling_Podcast_by_C/7_Minutes_to_better_Selling_Podcast_by_C.txt
 
-
+Angular Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Angular_Virtual_Conference/Angular_Virtual_Conference.txt
 
-
+Angular Virtual Conference 2021
 /All/Coding/C_Sharp/C#_Corner/Angular_Virtual_Conference_2021/Angular_Virtual_Conference_2021.txt
 
-
+Azure AI Show
 /All/Coding/C_Sharp/C#_Corner/Azure_AI_Show/Azure_AI_Show.txt
 
-
+Azure Cosmos DB Conf 2021
 /All/Coding/C_Sharp/C#_Corner/Azure_Cosmos_DB_Conf_2021/Azure_Cosmos_DB_Conf_2021.txt
 
-
+Azure Cosmos DB Conf 2022
 /All/Coding/C_Sharp/C#_Corner/Azure_Cosmos_DB_Conf_2022/Azure_Cosmos_DB_Conf_2022.txt
 
-
+Azure Cosmos DB Conference
 /All/Coding/C_Sharp/C#_Corner/Azure_Cosmos_DB_Conference/Azure_Cosmos_DB_Conference.txt
 
-
+Azure for Sure Live SHow
 /All/Coding/C_Sharp/C#_Corner/Azure_for_Sure_Live_SHow/Azure_for_Sure_Live_SHow.txt
 
-
+Azure Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Azure_Virtual_Conference/Azure_Virtual_Conference.txt
 
-
+C# Corner MVP Show
 /All/Coding/C_Sharp/C#_Corner/C#_Corner_MVP_Show/C#_Corner_MVP_Show.txt
 
-
+C# Corner MVPs
 /All/Coding/C_Sharp/C#_Corner/C#_Corner_MVPs/C#_Corner_MVPs.txt
 
-
+C# Corner Virtual Conferences
 /All/Coding/C_Sharp/C#_Corner/C#_Corner_Virtual_Conferences/C#_Corner_Virtual_Conferences.txt
 
-
+Cloud Lunch & Learn Marathon
 /All/Coding/C_Sharp/C#_Corner/Cloud_Lunch_&_Learn_Marathon/Cloud_Lunch_&_Learn_Marathon.txt
 
-
+Code Quality & Performance Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Code_Quality_&_Performance_Virtual_Confe/Code_Quality_&_Performance_Virtual_Confe.txt
 
-
+Coffee with Pros
 /All/Coding/C_Sharp/C#_Corner/Coffee_with_Pros/Coffee_with_Pros.txt
 
-
+eBook Launch at C# Corner
 /All/Coding/C_Sharp/C#_Corner/eBook_Launch_at_C#_Corner/eBook_Launch_at_C#_Corner.txt
 
-
+Full Stack Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Full_Stack_Virtual_Conference/Full_Stack_Virtual_Conference.txt
 
-
+Growth Mindset Show
 /All/Coding/C_Sharp/C#_Corner/Growth_Mindset_Show/Growth_Mindset_Show.txt
 
-
+Growth Mindset Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Growth_Mindset_Virtual_Conference/Growth_Mindset_Virtual_Conference.txt
 
-
+IoT Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/IoT_Virtual_Conference/IoT_Virtual_Conference.txt
 
-
+IT Security Virtual Conference 2021
 /All/Coding/C_Sharp/C#_Corner/IT_Security_Virtual_Conference_2021/IT_Security_Virtual_Conference_2021.txt
 
-
+Leadership Conference 2022
 /All/Coding/C_Sharp/C#_Corner/Leadership_Conference_2022/Leadership_Conference_2022.txt
 
-
+Lightup Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Lightup_Virtual_Conference/Lightup_Virtual_Conference.txt
 
-
+Power Platform Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Power_Platform_Virtual_Conference/Power_Platform_Virtual_Conference.txt
 
-
+Public Speaking Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Public_Speaking_Virtual_Conference/Public_Speaking_Virtual_Conference.txt
 
-
+React Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/React_Virtual_Conference/React_Virtual_Conference.txt
 
-
+React Virtual Conference 2021
 /All/Coding/C_Sharp/C#_Corner/React_Virtual_Conference_2021/React_Virtual_Conference_2021.txt
 
-
+Rockin' The Code World with dotNetDave
 /All/Coding/C_Sharp/C#_Corner/Rockin'_The_Code_World_with_dotNetDave/Rockin'_The_Code_World_with_dotNetDave.txt
 
-
+Software Architecture Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Software_Architecture_Virtual_Conference/Software_Architecture_Virtual_Conference.txt
 
-
+SQL Server Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/SQL_Server_Virtual_Conference/SQL_Server_Virtual_Conference.txt
 
-
+Unity Game in 1 Hr
 /All/Coding/C_Sharp/C#_Corner/Unity_Game_in_1_Hr/Unity_Game_in_1_Hr.txt
 
-
+Women Data Summit 2021
 /All/Coding/C_Sharp/C#_Corner/Women_Data_Summit_2021/Women_Data_Summit_2021.txt
 
-
+Women in Tech Virtual Conference
 /All/Coding/C_Sharp/C#_Corner/Women_in_Tech_Virtual_Conference/Women_in_Tech_Virtual_Conference.txt
 C# Corner

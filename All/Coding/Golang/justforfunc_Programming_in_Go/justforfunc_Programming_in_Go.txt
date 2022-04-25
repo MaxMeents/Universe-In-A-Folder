@@ -1,16 +1,16 @@
 
-
+## All Videos
 /All/Coding/Golang/justforfunc_Programming_in_Go/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Golang/justforfunc_Programming_in_Go/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Just For Func
 /All/Coding/Golang/justforfunc_Programming_in_Go/Just_For_Func/Just_For_Func.txt
 
-
+Just For Func Live
 /All/Coding/Golang/justforfunc_Programming_in_Go/Just_For_Func_Live/Just_For_Func_Live.txt
 
-
+More videos with Francesc
 /All/Coding/Golang/justforfunc_Programming_in_Go/More_videos_with_Francesc/More_videos_with_Francesc.txt
 justforfunc Programming in Go

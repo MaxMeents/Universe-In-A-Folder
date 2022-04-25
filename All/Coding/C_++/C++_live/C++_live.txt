@@ -1,13 +1,13 @@
 
-
+## All Videos
 /All/Coding/C_++/C++_live/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/C_++/C++_live/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+C++ Bootcamp 2021
 /All/Coding/C_++/C++_live/C++_Bootcamp_2021/C++_Bootcamp_2021.txt
 
-
+C++ Logger and QML LogViewer
 /All/Coding/C_++/C++_live/C++_Logger_and_QML_LogViewer/C++_Logger_and_QML_LogViewer.txt
 C++ live

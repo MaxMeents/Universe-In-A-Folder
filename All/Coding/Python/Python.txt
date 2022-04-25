@@ -1,64 +1,64 @@
 
-
+Amulya's Academy
 /All/Coding/Python/Amulya's_Academy/Amulya's_Academy.txt
 
-
+Arpan Gupta Data Scientist, IITian
 /All/Coding/Python/Arpan_Gupta_Data_Scientist,_IITian/Arpan_Gupta_Data_Scientist,_IITian.txt
 
-
+Cool Python Codes
 /All/Coding/Python/Cool_Python_Codes/Cool_Python_Codes.txt
 
-
+Digital Academy
 /All/Coding/Python/Digital_Academy/Digital_Academy.txt
 
-
+EuroPython Conference
 /All/Coding/Python/EuroPython_Conference/EuroPython_Conference.txt
 
-
+Harshit vashisth
 /All/Coding/Python/Harshit_vashisth/Harshit_vashisth.txt
 
-
+Joe James
 /All/Coding/Python/Joe_James/Joe_James.txt
 
-
+Kiwi PyCon
 /All/Coding/Python/Kiwi_PyCon/Kiwi_PyCon.txt
 
-
+Montreal-Python
 /All/Coding/Python/Montreal-Python/Montreal-Python.txt
 
-
+Programming In Python
 /All/Coding/Python/Programming_In_Python/Programming_In_Python.txt
 
-
+Python Basics
 /All/Coding/Python/Python_Basics/Python_Basics.txt
 
-
+Python Coding Club
 /All/Coding/Python/Python_Coding_Club/Python_Coding_Club.txt
 
-
+Python Houston
 /All/Coding/Python/Python_Houston/Python_Houston.txt
 
-
+Python India
 /All/Coding/Python/Python_India/Python_India.txt
 
-
+Python Ireland
 /All/Coding/Python/Python_Ireland/Python_Ireland.txt
 
-
+PythonBytes
 /All/Coding/Python/PythonBytes/PythonBytes.txt
 
-
+Real Python
 /All/Coding/Python/Real_Python/Real_Python.txt
 
-
+sentdex
 /All/Coding/Python/sentdex/sentdex.txt
 
-
+SF Python
 /All/Coding/Python/SF_Python/SF_Python.txt
 
-
+Talk Python
 /All/Coding/Python/Talk_Python/Talk_Python.txt
 
-
+TokyoEdtech
 /All/Coding/Python/TokyoEdtech/TokyoEdtech.txt
 Python

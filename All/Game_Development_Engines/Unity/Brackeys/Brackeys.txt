@@ -1,91 +1,91 @@
 
-
+## All Videos
 /All/Game_Development_Engines/Unity/Brackeys/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Game_Development_Engines/Unity/Brackeys/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Cool Unity Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Cool_Unity_Tutorials/Cool_Unity_Tutorials.txt
 
-
+Favorites
 /All/Game_Development_Engines/Unity/Brackeys/Favorites/Favorites.txt
 
-
+Free Asset Packs for Unity
 /All/Game_Development_Engines/Unity/Brackeys/Free_Asset_Packs_for_Unity/Free_Asset_Packs_for_Unity.txt
 
-
+Game Design
 /All/Game_Development_Engines/Unity/Brackeys/Game_Design/Game_Design.txt
 
-
+Game Math Theory
 /All/Game_Development_Engines/Unity/Brackeys/Game_Math_Theory/Game_Math_Theory.txt
 
-
+How to make a 2D Game
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_a_2D_Game/How_to_make_a_2D_Game.txt
 
-
+How to make a 2D Platformer - Unity Course
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_a_2D_Platformer_-_Unity_Cour/How_to_make_a_2D_Platformer_-_Unity_Cour.txt
 
-
+How to make a Quiz Game
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_a_Quiz_Game/How_to_make_a_Quiz_Game.txt
 
-
+How to make a Survival Game - Unity Course
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_a_Survival_Game_-_Unity_Cour/How_to_make_a_Survival_Game_-_Unity_Cour.txt
 
-
+How to make a Tower Defense Game
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_a_Tower_Defense_Game/How_to_make_a_Tower_Defense_Game.txt
 
-
+How to make a Video Game
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_a_Video_Game/How_to_make_a_Video_Game.txt
 
-
+How to make an RPG in Unity
 /All/Game_Development_Engines/Unity/Brackeys/How_to_make_an_RPG_in_Unity/How_to_make_an_RPG_in_Unity.txt
 
-
+HOW TO PROGRAM in C#
 /All/Game_Development_Engines/Unity/Brackeys/HOW_TO_PROGRAM_in_C#/HOW_TO_PROGRAM_in_C#.txt
 
-
+How to program in C# - Beginner Course
 /All/Game_Development_Engines/Unity/Brackeys/How_to_program_in_C#_-_Beginner_Course/How_to_program_in_C#_-_Beginner_Course.txt
 
-
+Introduction to Blender
 /All/Game_Development_Engines/Unity/Brackeys/Introduction_to_Blender/Introduction_to_Blender.txt
 
-
+Livestreams
 /All/Game_Development_Engines/Unity/Brackeys/Livestreams/Livestreams.txt
 
-
+Ludum Dare - Making Of
 /All/Game_Development_Engines/Unity/Brackeys/Ludum_Dare_-_Making_Of/Ludum_Dare_-_Making_Of.txt
 
-
+Make a Game - Unity Course
 /All/Game_Development_Engines/Unity/Brackeys/Make_a_Game_-_Unity_Course/Make_a_Game_-_Unity_Course.txt
 
-
+Making a Multiplayer FPS in Unity
 /All/Game_Development_Engines/Unity/Brackeys/Making_a_Multiplayer_FPS_in_Unity/Making_a_Multiplayer_FPS_in_Unity.txt
 
-
+Menus in Unity
 /All/Game_Development_Engines/Unity/Brackeys/Menus_in_Unity/Menus_in_Unity.txt
 
-
+Shader Graph Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Shader_Graph_Tutorials/Shader_Graph_Tutorials.txt
 
-
+Speed Art
 /All/Game_Development_Engines/Unity/Brackeys/Speed_Art/Speed_Art.txt
 
-
+Unity 2D Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Unity_2D_Tutorials/Unity_2D_Tutorials.txt
 
-
+Unity Advanced Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Unity_Advanced_Tutorials/Unity_Advanced_Tutorials.txt
 
-
+Unity Beginner Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Unity_Beginner_Tutorials/Unity_Beginner_Tutorials.txt
 
-
+Unity FPS Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Unity_FPS_Tutorials/Unity_FPS_Tutorials.txt
 
-
+Unity Intermediate Tutorials
 /All/Game_Development_Engines/Unity/Brackeys/Unity_Intermediate_Tutorials/Unity_Intermediate_Tutorials.txt
 
-
+Unity Tips & Tricks
 /All/Game_Development_Engines/Unity/Brackeys/Unity_Tips_&_Tricks/Unity_Tips_&_Tricks.txt
 Brackeys

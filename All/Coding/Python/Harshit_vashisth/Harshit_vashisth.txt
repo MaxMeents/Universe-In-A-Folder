@@ -1,43 +1,43 @@
 
-
+## All Videos
 /All/Coding/Python/Harshit_vashisth/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Python/Harshit_vashisth/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Complete Python tutorial in Hindi (2020)
 /All/Coding/Python/Harshit_vashisth/Complete_Python_tutorial_in_Hindi_(2020)/Complete_Python_tutorial_in_Hindi_(2020).txt
 
-
+Data Analysis and Visualization in Hindi
 /All/Coding/Python/Harshit_vashisth/Data_Analysis_and_Visualization_in_Hindi/Data_Analysis_and_Visualization_in_Hindi.txt
 
-
+HTML and CSS Tutorial in Hindi  Complete Course (2020)
 /All/Coding/Python/Harshit_vashisth/HTML_and_CSS_Tutorial_in_Hindi__Complete/HTML_and_CSS_Tutorial_in_Hindi__Complete.txt
 
-
+Java Tutorial
 /All/Coding/Python/Harshit_vashisth/Java_Tutorial/Java_Tutorial.txt
 
-
+Javascript Beginning To Mastery Complete Course 2021 (In Hindi)
 /All/Coding/Python/Harshit_vashisth/Javascript_Beginning_To_Mastery_Complete/Javascript_Beginning_To_Mastery_Complete.txt
 
-
+JavaScript Tutorial in Hindi
 /All/Coding/Python/Harshit_vashisth/JavaScript_Tutorial_in_Hindi/JavaScript_Tutorial_in_Hindi.txt
 
-
+NumPy Tutorial in Hindi
 /All/Coding/Python/Harshit_vashisth/NumPy_Tutorial_in_Hindi/NumPy_Tutorial_in_Hindi.txt
 
-
+Pandas Tutorial in Hindi
 /All/Coding/Python/Harshit_vashisth/Pandas_Tutorial_in_Hindi/Pandas_Tutorial_in_Hindi.txt
 
-
+Python tutorials for beginners in hindi
 /All/Coding/Python/Harshit_vashisth/Python_tutorials_for_beginners_in_hindi/Python_tutorials_for_beginners_in_hindi.txt
 
-
+SQL Tutorial for Beginners
 /All/Coding/Python/Harshit_vashisth/SQL_Tutorial_for_Beginners/SQL_Tutorial_for_Beginners.txt
 
-
+Things You Might Don't Know About Python (Hindi)
 /All/Coding/Python/Harshit_vashisth/Things_You_Might_Don't_Know_About_Python/Things_You_Might_Don't_Know_About_Python.txt
 
-
+Web Development Guide 2018 Hindi
 /All/Coding/Python/Harshit_vashisth/Web_Development_Guide_2018_Hindi/Web_Development_Guide_2018_Hindi.txt
 Harshit vashisth

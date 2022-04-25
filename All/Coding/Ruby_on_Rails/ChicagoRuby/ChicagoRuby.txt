@@ -1,16 +1,16 @@
 
-
+## All Videos
 /All/Coding/Ruby_on_Rails/ChicagoRuby/##_All_Videos/##_All_Videos.txt
 
-
+### All Playlists Below
 /All/Coding/Ruby_on_Rails/ChicagoRuby/###_All_Playlists_Below/###_All_Playlists_Below.txt
 
-
+Metromix on Rails
 /All/Coding/Ruby_on_Rails/ChicagoRuby/Metromix_on_Rails/Metromix_on_Rails.txt
 
-
+WindyCityRails 2016
 /All/Coding/Ruby_on_Rails/ChicagoRuby/WindyCityRails_2016/WindyCityRails_2016.txt
 
-
+WindyCityRails 2017
 /All/Coding/Ruby_on_Rails/ChicagoRuby/WindyCityRails_2017/WindyCityRails_2017.txt
 ChicagoRuby
