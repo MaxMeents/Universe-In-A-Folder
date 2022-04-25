@@ -1,0 +1,76 @@
+
+5 ways to increase your productivity in Rust
+https://youtu.be/vAObcndWaBY
+
+Amazon is using Rust!
+https://youtu.be/BRRnIathTXs
+
+Building a Rust App With Yew!
+https://youtu.be/KmOeFrwz8BM
+
+C++ RAII vs Rust OBRM - Part 1
+https://youtu.be/AnFaf-L_DfE
+
+C++ RAII vs Rust OBRM - Part 2
+https://youtu.be/7EcNkr6KFy0
+
+Class Based OOP vs Traits
+https://youtu.be/m_phdVlkr6U
+
+CVE-2022-21658 & Rust 1.58.1
+https://youtu.be/oFfYIdLj4_w
+
+Idiomatic Rust - Avoiding Allocations
+https://youtu.be/eEDKc7u4uwg
+
+Idiomatic Rust - Builder Pattern
+https://youtu.be/5DWU-56mjmg
+
+Idiomatic Rust - Constructors
+https://youtu.be/6b-8gpLCrrg
+
+Idiomatic Rust - Function Arguments
+https://youtu.be/hBA00Tx_dIM
+
+Idiomatic Rust - Iterating over Option
+https://youtu.be/xAkcLcYuuWg
+
+Improving Rust code with combinators
+https://youtu.be/C48MN4d8I5Y
+
+Is this terminal the future
+https://youtu.be/H-5GMjcrNx4
+
+Memory Management Strategies
+https://youtu.be/GUZ_2gGWuPo
+
+Realtime Chat App in Rust!
+https://youtu.be/NS9Dh63i_Q4
+
+Reviewing Rust Jobs
+https://youtu.be/I4xIc-h8G8o
+
+Rust 1.58.0
+https://youtu.be/VB2v5P5SVLE
+
+Rust 1.59.0
+https://youtu.be/8bDsLZoG8OA
+
+Rust 1.60.0
+https://youtu.be/_VJxqwW5Zpc
+
+Rust 2021 Survey Results
+https://youtu.be/RVpIhxL2nWY
+
+Rust Is Taking Over Open Source
+https://youtu.be/RQPbWCDT8BM
+
+Rust Project Ideas for Beginners
+https://youtu.be/6WXT1JOnH7c
+
+rust-analyzer Joins Rust Organization
+https://youtu.be/0tdoy5cxSe8
+
+Stack, Heap, and Static Memory
+https://youtu.be/NnLdGKoz1ls
+Videos 1-25

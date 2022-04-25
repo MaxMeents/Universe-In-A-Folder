@@ -1,0 +1,70 @@
+
+Adding Hotkey and HotStrings to your menus  Great undocumented tip!
+https://youtu.be/Gm6hUZaKfuk&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+AutoHotkey example Command vs Function on String Split
+https://youtu.be/Qxc_1kiU2NY&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+AutoHotkey New File Template- Where it's saved and what should be in it
+https://youtu.be/PjmxyeM_lQw&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Celebrate World Productivity Day -Get great discounts!
+https://youtu.be/b8Ycp6YSxDU&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Creating a DLL to store icon files is easy with Resource Hacker
+https://youtu.be/SDdiEASQJJU&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Creating a function to choose which bitness to run your AHK script
+https://youtu.be/jNreJsOa1yw&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Grab URLs from clipboard with AutoHotkey
+https://youtu.be/DQag3UIWAFQ&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Handling cryptic error when working with Hotkey command
+https://youtu.be/600MuBP2DbU&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+How to avoid a long, uninterruptible, sleep command in AutoHotkey
+https://youtu.be/6O5tjI3X6nw&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+How to Compile an AutoHotkey script
+https://youtu.be/gBVLo4-a6Hk&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+How to easily change your AutoHotkey Script Icon
+https://youtu.be/gTY2sXZvGnk&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+How to easily change your default AutoHotkey editor with AHKEditSwap!
+https://youtu.be/BxNAfa2_9GI&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Is AutoHotkey Safe- How to evaluate an AutoHotkey Script
+https://youtu.be/RaAD1kNMZCo&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Learn how to use Discord to get FREE AutoHotkey Help
+https://youtu.be/IREP9ygw2DE&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Optimizing a string search in AutoHotkey  Comparing 3 approaches
+https://youtu.be/unIALwS3hP4&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Print out these 79 built in hotkeys for Notepad++
+https://youtu.be/SEfgEX2Wiow&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Pull up AutoHotkey documentation AND VIDEOS in ANY editor  IDE!
+https://youtu.be/p4XqpEcvWBM&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Sorting text by length of the string with the AutoHotkey Sort command
+https://youtu.be/ZPc2WwVXp24&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Surprising tricks to using  ++ in AutoHotkey
+https://youtu.be/Q6htB2wwAqM&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Using AutoHotkey to detect multiple clicks of a keymouse button
+https://youtu.be/cTSf5MxfI8k&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Using Modifier keys verse Key combos in AutoHotkey
+https://youtu.be/TOrw9CKOrFA&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Which version of AutoHotkey should you be using in 2022
+https://youtu.be/j-nzzmJJDX0&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+
+Why you should learn AutoHotkey What can AHK do
+https://youtu.be/eQtbEtoD6Xo&list=PL3JprvrxlW25O_tkyCmO77MXEsrxCP3qK
+Videos 26-48

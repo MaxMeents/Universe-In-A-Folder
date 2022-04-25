@@ -1,0 +1,22 @@
+
+Decorators in Python  Python Decorators  Python tutorial for beginners  Latest python Tutorial
+https://youtu.be/lgEMUeWxDIo&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+File Handling in Python  Python File Handling  Read & Write to Files  Latest Python Tutorial
+https://youtu.be/Nu8NoT-5wXE&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Generators in Python  Python Generators  Latest Python Tutorial  Advance Python
+https://youtu.be/GvQgunTwScM&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Iterators in Python  Python Iterators  Latest Python Tutorial  Advance Python
+https://youtu.be/pJU3jfrBal4&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Lambda function in python  Python Lambda Map Filter Reduce Functions  map  FIlter  Reduce
+https://youtu.be/xn7KUSCn79A&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Urllib  Python Urllib  Urllib Request  Python Internet Access  Python Tutorial for Beginners
+https://youtu.be/BCNYrgQsgHc&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+__name__ == __main__ in python  if __name__ =='__main__'  Python tutorial for beginners
+https://youtu.be/ntXfJDobSfY&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+Videos 26-32

@@ -1,0 +1,49 @@
+
+(Mis)using Quarkus for System Testing #slideless
+https://youtu.be/0cjMjSYM7JY&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Creating a Quarkus  MicroProfile Application from scratch and the impact of -Xmx18m
+https://youtu.be/I5feCqImyhI&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+CyberJUG-HHWhy is everybody talking about Quarkus #slideless
+https://youtu.be/nXXPOS8gjtA&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Deleted video
+https://youtu.be/PZEzaaz3Tvo&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+From Zero to Hello - Helidon MP  MicroProfile
+https://youtu.be/BG2IB-1T1dk&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+helidon with netbeans the developer experience
+https://youtu.be/d4zy_cfC-6g&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+JAX-RS API documentation Reasonable practice  DevNation Day 2020
+https://youtu.be/CPu2Oscf0ng&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+JAX-RS with MicroProfile Reactive Messaging #slideless
+https://youtu.be/6VGLl3qktVQ&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+JDD Conf Kickass Java Backends #slideless
+https://youtu.be/OlHXnf-eKqU&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Micrometer metrics filtering with Quarkus #slideless
+https://youtu.be/P17byHUeZV0&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+micronaut.io with a touch of microprofile #slideless
+https://youtu.be/-36Jk5F-Q00&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+MicroProfile on Quarkus as AWS Lambda deployed with AWS CDK
+https://youtu.be/NA0WjIgp4CQ&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+MicroProfile REST Client Tests with Quarkus
+https://youtu.be/RLkvFT537_4&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Quarkus, MicroProfile Metrics and micrometer #slideless
+https://youtu.be/vvErAZryZVQ&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+What is Helidon's MP Memory Footprint
+https://youtu.be/x3cc-1PwrSM&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+What is OpenLiberty's MP Memory Footprint
+https://youtu.be/s3dh0dHXg6g&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+Videos 51-66

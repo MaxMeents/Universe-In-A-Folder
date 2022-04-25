@@ -1,0 +1,76 @@
+
+Building a Neural Network and How to Write Tests in Python  Real Python Podcast #54
+https://youtu.be/rWmjuruiO1Y&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Building a Platform Game With Arcade and Covering Python News Monthly  Real Python Podcast #60
+https://youtu.be/dBzAy9CBXtM&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Connecting to MongoDB and Updates on the Python Packaging Landscape  Real Python Podcast #52
+https://youtu.be/ytaDmw01NQs&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Consuming APIs With Python and Building Microservices With gRPC  Real Python Podcast #50
+https://youtu.be/A4RyQ7SvA8Q&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Create Web Applications Using Only Python With Anvil  Real Python Podcast #63
+https://youtu.be/wnD30Dhy9aQ&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Detecting Deforestation With Python & Using GraphQL With Django and Vue  Real Python Podcast #64
+https://youtu.be/KcJO4XWZ0n4&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Expanding the International Python Community With the PSF  Real Python Podcast #65
+https://youtu.be/my3sAD3aLZw&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Exploring the functools Module and Complex Numbers in Python  Real Python Podcast #68
+https://youtu.be/5CYApSEVkFU&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Getting Started With Refactoring Your Python Code  Real Python Podcast #55
+https://youtu.be/-DpVFah8E4M&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Improving the Learning Experience on Real Python  Real Python Podcast #53
+https://youtu.be/cvGqcZvHffY&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Navigating Options for Deploying Your Python Application  Real Python Podcast #51
+https://youtu.be/xOyw_n_Vz28&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+OrderedDict vs dict and Object Oriented Programming in Python vs Java  Real Python Podcast #56
+https://youtu.be/Zs4WWCl1RdA&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Organizing and Restructuring DjangoCon Europe 2021  Real Python Podcast #59
+https://youtu.be/2WjvRxdsp3I&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Planning a Faster Future at the Python Language Summit  Real Python Podcast #69
+https://youtu.be/eT_AQOwgdfQ&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Podcast Rewind With Guest Highlights for 2020-2021  Real Python Podcast #58
+https://youtu.be/MfC52kb2Mqo&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Practicing Python With CSV Files and Extracting Values With filter()  Real Python Podcast #66
+https://youtu.be/_FTO0DEayaw&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Python's Assignment Expressions and Fixing a Botched Release to PyPI  Real Python Podcast #74
+https://youtu.be/qzubpSKTeOY&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Scaling Data Science and Machine Learning Infrastructure Like Netflix  Real Python Podcast #61
+https://youtu.be/EfsKDj_nEx0&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Securing Your Python Software Supply Chain With Dustin Ingram  Real Python Podcast #67
+https://youtu.be/MYuVt85fbU4&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Selecting the Ideal Data Structure & Unravelling Python's pass and with Real Python Podcast #62
+https://youtu.be/i7O1fOXFbIM&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Start Using a Debugger With Your Python Code  Real Python Podcast #71
+https://youtu.be/wrbJEe947L4&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Starting With FastAPI and Examining Python's Import System  Real Python Podcast #72
+https://youtu.be/7mLa2SGBAT0&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Supporting Python Open Source Projects and Maintainers  Real Python Podcast #73
+https://youtu.be/ijR1mqJNXX8&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Taking the Next Step in Python Game Development  Real Python Podcast #57
+https://youtu.be/CazMwjhedqc&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+What Can You Do With Python and Counting Objects Using Counter  Real Python Podcast #70
+https://youtu.be/7W4kBJWKijQ&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+Videos 51-75

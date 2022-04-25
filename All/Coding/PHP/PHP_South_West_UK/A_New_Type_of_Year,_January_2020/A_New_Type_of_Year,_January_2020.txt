@@ -1,0 +1,7 @@
+
+Practical Static Analysis - Dave Liddament - PHPSW A New Type of Year, January 2020
+https://youtu.be/Iwq1ztFyeps&list=PLrEpsyNSHj01mKoxap6uFYEZ9r7gFuGXh
+
+Strict typing and static analysis - Rob Allen - PHPSW A New Type of Year, January 2020
+https://youtu.be/Ek6XpfjcnkU&list=PLrEpsyNSHj01mKoxap6uFYEZ9r7gFuGXh
+A New Type of Year, January 2020

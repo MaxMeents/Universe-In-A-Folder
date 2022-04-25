@@ -1,0 +1,37 @@
+
+How to Solve Problems as a Developer - 624 Days of Swift Tutorials 🎄
+https://youtu.be/7ehu0R1dY7I&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+Improve your Swift Language Skills with the Map and Filter Functions
+https://youtu.be/swz9fzL3QB8&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Buildung and Adding Frameworks with Carthage
+https://youtu.be/jLwx6sDjsIA&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Create a Weather App from Scratch
+https://youtu.be/doqtsIsbtqs&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial From Sketch Design to Real App
+https://youtu.be/DYhPufgcqF4&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Get started with Core Data and Swift 3 - A Present App
+https://youtu.be/bnxQQgHL1hM&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Guide to Using JSON Data from the Web
+https://youtu.be/_c0pAz3UPEs&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Quick Tip - Working with Sets
+https://youtu.be/0ZJ4MDn6hiY&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Simple and Cool UIView Animations
+https://youtu.be/FpTY04efWC0&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial UINavigationBar Customization - Tips & Tricks
+https://youtu.be/gUhhFPTKCrE&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+iOS Swift Tutorial Why use Subclasses
+https://youtu.be/ACCkULy-tZ8&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+
+UI Design Tutorial Create a Login Form with Sketch - Meet the Conference Speaker
+https://youtu.be/FQGq2CqFyzA&list=PLY1P2_piiWEaKH2ySjNl0QyVv_xroGvFR
+Videos 26-37

@@ -1,0 +1,76 @@
+
+Breaking language barriers with GraalVMs polyglotism - Milda Glebauskaitė  Wix
+https://youtu.be/7J5Uh9tDZz4
+
+First date with GraalVM - Pijus Navickas  Wix
+https://youtu.be/tkBi32MnHHY
+
+Fluent assertions in Java - Danny Bulshtien  Duda
+https://youtu.be/-_9TihnMS8I
+
+GraphQL for API junkies - Yonatan Maman  Outbrain
+https://youtu.be/-oLDoJUO_aQ
+
+HazelCast IMGD 101  Shahaf Sameach
+https://youtu.be/BqOYmF6QT10
+
+Into the Rabbit Hole of Dates & Time  Lior Bar-On - Next Insurance
+https://youtu.be/DDKSWTBYArY
+
+Java Memory Structure - Haim Yadid  Next Insurance
+https://youtu.be/wt1ZwCKoK7Y
+
+Java Winter is Coming - Gil Tene
+https://youtu.be/mTwZW_xmVy4
+
+Java.IL UnMeetup - May 2019
+https://youtu.be/yTg373XcXsg
+
+JOOQ - Straightforward, non-ORM persistence alternative using JOOQ  Tomer Rothschild - CloudShare
+https://youtu.be/QwAQiTZMPk4
+
+JVM languages shootout - Java, Scala & Kotlin  Ohad Shai - Outbrain
+https://youtu.be/FxYYWL5Nq3k
+
+Lightweight functional programming in Java using Vavr  Tomer Rothschild - Cloudshare
+https://youtu.be/2SIsKWvawL0
+
+Microservice with workflow engine using Camunda BPM  Ivan Romanov - Tinkoff
+https://youtu.be/wdD470QKerM
+
+Microservices within a single JVM with Spring Boot - Victor Perepelitsky  Beewizer
+https://youtu.be/6dfGwu-_nHw
+
+Reactive Streams - Josh Long
+https://youtu.be/-_OiqjOjnoU
+
+Real Time Streaming using Kotlin Coroutines  Re’em Bensimhon - Forter
+https://youtu.be/hdBxsvdAII4
+
+Real-time fraud detection with Kafka Streams - Ofir Sharony  MyHeritage
+https://youtu.be/8FFctAHzLdc
+
+Reproducible cachable static data workflow  Ofer Bartal & Jenia Zalomsky.
+https://youtu.be/hucLL94R5kw
+
+Secure your app with Keycloak  Guy Marom - Spark Beyond
+https://youtu.be/AjKtS32EHSw
+
+Spring’s Testing Features - Gil Zilberfeld
+https://youtu.be/QSR9uxCg-fA
+
+Testkits Design idioms and practices  Tomer Gabel - WeWork
+https://youtu.be/9mdmS2765Qg
+
+The practical guide to Distributed Tracing  Yair Galler - Next Insurance
+https://youtu.be/4FHLGLUxYH0
+
+Using WireMock to Stabilize and Speed Up Your Tests  Yair Galler - Next Insurance
+https://youtu.be/ZGae6IphgdA
+
+Why inheritance is a bold violation of the OO principles  Lior Bar-On - Next Insurance
+https://youtu.be/piiAHRU8KFU
+
+[Hebrew] OWASP A4 XML External Entities - Michael Furman  Tufin
+https://youtu.be/ILQzdh6EPuw
+Videos 26-50

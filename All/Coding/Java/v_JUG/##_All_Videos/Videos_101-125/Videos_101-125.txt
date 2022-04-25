@@ -1,0 +1,76 @@
+
+An introduction to JVM performance by Rafael Winterhalter
+https://youtu.be/p70k_ZR53ac
+
+Book Reading Club Building Microservices by Sam Newman (Part 1)
+https://youtu.be/Caj-qCOniXM
+
+Book Reading Club Building Microservices by Sam Newman (Part 2)
+https://youtu.be/zS57uYLzF1I
+
+Book Reading Club Building Microservices by Sam Newman (Part 3)
+https://youtu.be/DAVMB_Tc00w
+
+Book Reading Club Hibernate Tips by Thorben Janssen (Book Launch)
+https://youtu.be/a9Kkiy6o2mM
+
+Book Reading Club Hibernate Tips by Thorben Janssen (Part 1)
+https://youtu.be/oH9TYybAFxk
+
+Building microservices with Vert.x by Bert Jan Schrijver
+https://youtu.be/aW4ewPCHbJc
+
+Continuous Delivery with Java and Docker The Good, the Bad, and the Ugly
+https://youtu.be/0m5WDq9CarE
+
+Event sourcing, distributed systems & CQRS with Java
+https://youtu.be/OM50tbje5EI
+
+Extremely fast builds with Gradle
+https://youtu.be/4sXh5KtXXCY
+
+Faster Java By Adding Structs (Sort Of) by Simon Ritter
+https://youtu.be/B6jjxF8XIXc
+
+Functional Libraries for Java 8 by Rabea Gransberger
+https://youtu.be/C5_2d2Bfg2Y
+
+How Modern SQL Databases Come up with Algorithms that You Wouldn't Dream Of
+https://youtu.be/mVEuOEJXo-c
+
+Java 9 Modularity in Action by Sander Mak & Paul Bakker
+https://youtu.be/OEKcuywm0mk
+
+Java Collections - The Force Awakens by Raoul Gabriel Urma & Richard Warburton
+https://youtu.be/s9F5Ynf3Wy4
+
+Just Enough App Server by Antonio Goncalves
+https://youtu.be/mQAloS7kfGM
+
+Kubernetes for Java developers
+https://youtu.be/p2eydFmbJ_A
+
+Panel Discussion MicroProfile Evolution and Direction
+https://youtu.be/TsQeiBJ8xbs
+
+Participate in the Future of Java
+https://youtu.be/-lrhae2vmvY
+
+Pipeline as code building Continuous Delivery pipelines with Jenkins 2
+https://youtu.be/D8W5qE5lJlc
+
+The JavaFX Ecosystem
+https://youtu.be/WvclVImENFk
+
+The Seven (More) Deadly Sins of Microservices by Daniel Bryant
+https://youtu.be/5nPJWud4ocE
+
+Turning the JVM into a Polyglot VM with Graal
+https://youtu.be/9oHpAhgkNAY
+
+Using Java 8 Idioms in Existing Code by Trisha Gee
+https://youtu.be/fTjT1lgnuvM
+
+Virtual Hackday Become an early Java 9 expert
+https://youtu.be/y868lMk6NtY
+Videos 101-125

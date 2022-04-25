@@ -1,0 +1,76 @@
+
+Andrew Psaltis on Apache Beam
+https://youtu.be/4-ca3nsbm7g
+
+Artificial Intelligence and Java
+https://youtu.be/vZfUdSA64Nk
+
+Baruch Sadogursky on JFrog Xray
+https://youtu.be/_0J4B7lfi9k
+
+Chris Richardson on Microservices
+https://youtu.be/7BHFRH8DoI0
+
+Fastest (J)VM on the Planet!
+https://youtu.be/yaWq20AFN9U
+
+Gil Tene on Hardware Transactional Memory
+https://youtu.be/Yx586xwd0dE
+
+Inside H2O - A Clustered Computing Architecture
+https://youtu.be/4WMs3cQyovg
+
+Introduction to JCrete
+https://youtu.be/9E4Dj85SkBE
+
+Japan Java User Group with Sakata
+https://youtu.be/idyP1ceTb6g
+
+Java Champions Program
+https://youtu.be/XeAJYe4QBog
+
+Java EE with Hirofumi Iwasaki and Sebastian Daschner
+https://youtu.be/HZz6_bDmv_E
+
+Java Women in Japan
+https://youtu.be/mJ-G_AYdJtQ
+
+JCP.next with Heather VanCura
+https://youtu.be/ZUjlKyhEPwM
+
+JCrete Rock Band (Core the Band)
+https://youtu.be/q2_rm1bBu_Y
+
+JShell with Yoshida Shinya (@bitter_fox)
+https://youtu.be/op6zZDypPg8
+
+Mesos DCOS  Kubernetes
+https://youtu.be/U3vhjwHbziM
+
+Microservices with Shin Tanimoto
+https://youtu.be/I45rROITRXk
+
+Nagoya JUG - Intro
+https://youtu.be/wpaCt_aIkPU
+
+OAC Introduction by Dr. Zorbas
+https://youtu.be/rshrkmuEv4M
+
+Pepper Robot with Takashi Ito
+https://youtu.be/0wjG9BR9RJM
+
+Project Valhalla  Issues to improve in Java
+https://youtu.be/wnqjYla62VU
+
+Selling Dreams - Java 10 and beyond
+https://youtu.be/Pel8YZlTtc8
+
+Trisha Gee and Eva on Java 8 Patterns
+https://youtu.be/h56YSsmhCtM
+
+What to expect from Java 9
+https://youtu.be/oq7nTwtN3js
+
+Why JNI is slow
+https://youtu.be/LoyBTqkSkZk
+Videos 176-200

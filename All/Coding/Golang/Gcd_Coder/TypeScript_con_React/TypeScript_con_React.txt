@@ -1,0 +1,4 @@
+
+TypeScript con React Props con tipos de datos
+https://youtu.be/rIr71OzZwFM&list=PLz50rwjpxdLH05WVX80NjS4BADpDOONuk
+TypeScript con React

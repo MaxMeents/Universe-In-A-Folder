@@ -1,0 +1,13 @@
+
+Common Xcode Errors - Auto Layout Constraints
+https://youtu.be/LjtCuMbhCfk&list=PLMRqhzcHGw1YWjNP0xEn0YTOFM1SB6rJh
+
+Common Xcode Errors - Connecting IBOutlet Properties
+https://youtu.be/jyUtCmzo2XM&list=PLMRqhzcHGw1YWjNP0xEn0YTOFM1SB6rJh
+
+Common Xcode Errors - My Storyboard Is Missing UIElements!
+https://youtu.be/Zk3-bzrS3Nc&list=PLMRqhzcHGw1YWjNP0xEn0YTOFM1SB6rJh
+
+Common Xcode Errors - Unrecognized Selector Error
+https://youtu.be/LqNx02ZnWUc&list=PLMRqhzcHGw1YWjNP0xEn0YTOFM1SB6rJh
+Common Xcode Errors

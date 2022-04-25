@@ -1,0 +1,28 @@
+
+Object (Sprite) Motion No Physics With Friction
+https://youtu.be/W7RPP2lcZDk&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Object (Sprite) Motion Non Physics Non Friction
+https://youtu.be/A8W0MNjlOxs&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Object (Sprite) Motion Physics Friction
+https://youtu.be/1uF1GkDL-Lo&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Object (Sprite) Motion Physics Player Centered
+https://youtu.be/ACjOGMZVkBA&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Object (Sprite) Motion Physics
+https://youtu.be/v20SV3ejGAw&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Object (Sprite) Motion Template
+https://youtu.be/qN4tjmVQjXI&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Simple Object (Sprite) Motion Gravity
+https://youtu.be/UyjyTrtLUwU&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Simple Object (Sprite) Motion Move Set Distance Continuous
+https://youtu.be/5s9KZx-4uLY&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+
+Simple Object (Sprite) Motion Move Set Distance
+https://youtu.be/zSKuADvhg84&list=PLlEgNdBJEO-lmOv43fPJZZG0auzI1Rs00
+Python Object (Sprite) Motion Tutorials

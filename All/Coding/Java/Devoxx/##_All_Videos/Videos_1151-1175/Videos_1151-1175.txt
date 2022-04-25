@@ -1,0 +1,76 @@
+
+A dozen cool things we can do with popular JVM Languages - Venkat Subramaniam
+https://youtu.be/RdVSs7DquFc
+
+Back to the CompletableFuture Concurrency in Action - Dmitry Vinnik
+https://youtu.be/husm8xMJ2So
+
+Building Distributed Systems in Distributed Teams - Philipp Krenn
+https://youtu.be/--6JU-hgvZ4
+
+CONTEXTVS, STVLTE! (Context, stupid!) - Piotr Przybył
+https://youtu.be/WKcTxAZ5-vo
+
+CQRS and EventSourcing with Spring & Axon - Nakul Mishra
+https://youtu.be/hkJ29ER1EZU
+
+Creating secure software - benefits from cloud thinking - Daniel Deogun Daniel Sawano
+https://youtu.be/16vlxmYxED0
+
+From 6 Month Waterfall To 1h Code Deploys - Andreas Grabner
+https://youtu.be/G2Tc-bxEe8w
+
+From availability & reliability to chaos engineering - why breaking things... - Adrian Hornsby
+https://youtu.be/4FuCTXgufQg
+
+How to introduce 3 year old to the world of Computers - Vladimir Dejanovic
+https://youtu.be/Dugdjo2eNW4
+
+Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik
+https://youtu.be/2vEoL3Irgiw
+
+Innovation without asking permission - Bart Blommaerts
+https://youtu.be/DjFfQ5_KCHI
+
+Introduction to Kotlin - Grzegorz Dyrda
+https://youtu.be/r_J76xUH5Zw
+
+Lessons and experiences of leading a large agile transformation - Sławek Zając
+https://youtu.be/gEe6sbHWN10
+
+Lost in transaction Strategies to deal with (in-)consistency in modern arch... - Bernd Ruecker
+https://youtu.be/8KgTB75VePo
+
+Metrics driven architecture - Jakub Kubrynski
+https://youtu.be/qjN8qENkKPQ
+
+Modules or Microservices - Sander Mak
+https://youtu.be/AJW2FAJGgVw
+
+Moving from client side rendering to server side rendering - Noam Almog
+https://youtu.be/OSLi2k6A6kU
+
+NLP in Feedback Analysis - Yue Ning
+https://youtu.be/V8mCS1XHyTI
+
+NoSQL Means No Security - Philipp Krenn
+https://youtu.be/WVeO_9MuFiY
+
+Securing Customer Accounts with Streaming Analytics - Jan Griebsch
+https://youtu.be/cZGuhVBQ6BM
+
+Serverless The Future of the Cloud! - Bert Ertman
+https://youtu.be/x0n26bKT-eA
+
+Synchronous replication across data center for messaging system at Uber - Mingmin Chen, Hongliang Xu
+https://youtu.be/QRurCd4dx_o
+
+User Stories considered harmful - Jakub Nabrdalik
+https://youtu.be/2df8_PHJuzk
+
+When Terraform alone isn't enough - Marcin Żbik
+https://youtu.be/nR1U9sdcR3k
+
+Where Does the Real World End - The Blurring of the Physical and Digital - Rebecca Parsons
+https://youtu.be/Y8fzeDH1fOo
+Videos 1151-1175

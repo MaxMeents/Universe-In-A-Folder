@@ -1,0 +1,25 @@
+
+Analyse World Happiness Report Pandas Exercise
+https://youtu.be/AxVyGpoKmKk&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+Pandas  iloc (Hindi)
+https://youtu.be/g6aiD9gwy7E&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+Pandas  Loc
+https://youtu.be/h-nR45xJJPo&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+Pandas  Selecting Columns(Hindi)
+https://youtu.be/gp7skyak-VQ&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+Pandas  Selecting rows using square brackets
+https://youtu.be/igEGUeJCcSk&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+Pandas Series Part 1
+https://youtu.be/opxr61jA0A0&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+Read CSV Files using pandas
+https://youtu.be/QGiImP7wefs&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+
+[Solution]Analyse World Happiness Report Solution
+https://youtu.be/AKu4dDSbDDw&list=PLwgFb6VsUj_ne_1dsvzEOiQFiAqCMUeio
+Pandas Tutorial in Hindi

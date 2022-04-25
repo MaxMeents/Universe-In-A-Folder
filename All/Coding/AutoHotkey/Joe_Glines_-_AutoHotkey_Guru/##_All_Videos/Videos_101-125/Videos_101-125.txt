@@ -1,0 +1,76 @@
+
+#116 the-Automators' Podcast  Should we have V1 or V2 in our script
+https://youtu.be/yWeAiwgo0io
+
+#117 the-Automators' podcast  The risks involved using free help
+https://youtu.be/UPrtBjwNA5U
+
+#118 the Automators'Podcast  Pros and cons of learning as the need arises
+https://youtu.be/DJYcE87fAbE
+
+#119  the Automators' Podcast Pros & Cons of using wrappers
+https://youtu.be/vsz_z6TvhUA
+
+#120 the Automators' podcast  Obfuscating vs. Compiling your code
+https://youtu.be/q66o0nVDRO8
+
+AHK webinar 2021 11 Hour 1 - Last scheduled AutoHotkey webinar
+https://youtu.be/xIxE5pA2L4A
+
+AHKHotkeyString Lookup Easily find all running Hotkeys & Hotstrings
+https://youtu.be/ET6uXiXgFxQ
+
+AutoHotkey webinar Oct2021-Hour 2  Dark Styles and V2
+https://youtu.be/6Q7cu5EiWzE
+
+Automatically Search & Replace your clipboard with the Old Swaparoo!
+https://youtu.be/VCEYKVczHs0
+
+Happy Thanksgiving & FREE AutoHotkey Udemy course
+https://youtu.be/JnOLJLMBhtI
+
+How to easily Apply Styles to AHK GUIs - throw some lipstick on them!
+https://youtu.be/hqdMuRK-KOw
+
+How to easily change your default AutoHotkey editor with AHKEditSwap!
+https://youtu.be/BxNAfa2_9GI
+
+How to hide library files in AHK Studio
+https://youtu.be/5eHPyr-o8e8
+
+Intro to Classes in AutoHotkey  Learn how and why to use Classes
+https://youtu.be/0ILJqHWK2qM
+
+Learning APIs Excerpt From Live support call with Tank & TABNation
+https://youtu.be/s5ovZDuXv4s
+
+Let's Go Brandon - I've had enough!  Let's go Branden!
+https://youtu.be/ITTpFE_j-w0
+
+Minimizing and Maximizing a program that is in the System Tray
+https://youtu.be/AwLXlr1TZfo
+
+the-Automator Live AHK  QAP Support
+https://youtu.be/vzj8IhjojxI
+
+the-Automator Live Support   QAP support
+https://youtu.be/9-d0DczZ6WI
+
+the-Automator Live Support  QAP support
+https://youtu.be/8ADKHCISkI8
+
+the-Automator Live Support  Quick Access Popup help
+https://youtu.be/pH-DGYW0dXE
+
+the-Automator Live Support  Quick Access Popup Q&A
+https://youtu.be/2mDiOFWNmqI
+
+the-Automator Live Support
+https://youtu.be/eIHAwL3o6Bw
+
+Various ways to make  Dark Themed GUIs in AutoHotkey
+https://youtu.be/bxt5JY0KQHs
+
+What to do about V2 and the AutoHotkey forum  excerpt from Live Stream
+https://youtu.be/_P5xYL4OpSM
+Videos 101-125

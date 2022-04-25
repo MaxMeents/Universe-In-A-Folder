@@ -1,0 +1,76 @@
+
+Python Basics   __repr__   Method
+https://youtu.be/kjfSNYcZ1WU&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Attributes What Are They
+https://youtu.be/GNbIgJsLYFg&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Built in Functions
+https://youtu.be/OxcupdYlBpw&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Built-in Pow Function
+https://youtu.be/jBctokUY7Q8&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Help Prompt
+https://youtu.be/kSPq9Sciskg&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Itertools Permutations
+https://youtu.be/SxTIWPeFnIY&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Itertools Repeat Method
+https://youtu.be/SgmvFQ26pTo&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Itertools Starmap Method
+https://youtu.be/WuUvqu8gQgo&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Itertools Zip_longest
+https://youtu.be/x0S2a1eGkkw&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Matplotlib Legend Location
+https://youtu.be/dsLqNvf2zS0&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Matplotlib Legends and Labels
+https://youtu.be/Q4ZcVXsNNP0&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Matplotlib Scatter Plot
+https://youtu.be/md9PvI6z588&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Multiple Scatter Plots
+https://youtu.be/ugh-NvZB6wA&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Nth Prime 1000 Views
+https://youtu.be/gk4KdYhykKg&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics OS Path Splitext Method
+https://youtu.be/eGBZVu-S1SE&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics OS Rename Method
+https://youtu.be/Q3M0SzsQpsU&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics OS Stat Method
+https://youtu.be/4zM7IM_Zmo4&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Pop Quiz #1 Answer
+https://youtu.be/7mixaBNSGVs&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Pop Quiz #1
+https://youtu.be/avgO2QpjZTs&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Pygame Font get fonts Method
+https://youtu.be/Pzy_FzDt3kA&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Pygame Font Module
+https://youtu.be/O8Y2FdNnLU0&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Pygame Multiple Keyup Event
+https://youtu.be/KL3Kat4J_PU&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Requested Number Triangle
+https://youtu.be/Vfpytqs1pWQ&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Return or In Place
+https://youtu.be/RmdHJvRmv-g&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+
+Python Basics Sys.Argv Deep Dive
+https://youtu.be/CUhgGHWeLqw&list=PLaYT64KWZAEOwZztZ04cqoUT08r6NGP0L
+Videos 1-25

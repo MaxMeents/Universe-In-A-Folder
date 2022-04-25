@@ -1,0 +1,22 @@
+
+Ellis Hughes  R Package Validation Framework  RStudio
+https://youtu.be/1Bxk2wReFzE&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+
+Harvey Lieberman  RPharma  RStudio
+https://youtu.be/3sU_ehLtQWM&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+
+Marly Gotti  Risk Assessment Tools R Validation Hub Initiatives  RStudio
+https://youtu.be/4uVQXHpNmUQ&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+
+Mike Garcia  R in Pharma Intro to Shiny  RStudio
+https://youtu.be/eoeLn8SyDW8&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+
+RStudio Pharma Meetup R for Clinical Study Reports & Submission  Yilong Zhang, PhD, Merck and Co.
+https://youtu.be/RBVqKi3FV30&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+
+Sean Lopp  RStudio Investments in Pharma  RStudio
+https://youtu.be/Vhk4YFJRenQ&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+
+Volha Tryputsen  R in Janssen Drug Discovery Statistics  RStudio
+https://youtu.be/oT8v7a2R9lA&list=PL9HYL-VRX0oS63ulJTxOwwBhzVK8-5DgU
+R in Pharma

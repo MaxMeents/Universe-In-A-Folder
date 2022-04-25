@@ -1,0 +1,76 @@
+
+100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière
+https://youtu.be/67mezK3NzpU&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+A MicroProfile for Micro Services by Mike Croft
+https://youtu.be/dyK6BcOh8N4&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Algebraic data types for fun and profit by Clément Delafargue
+https://youtu.be/EPxi546vVHI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Anticipating Java 9 - Functionality and Tooling by Trisha Gee
+https://youtu.be/96vce1qd0QY&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Array Linked to a List, the full story! by José Paumard
+https://youtu.be/Y4XkWSAm2XU&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Ask the JDK Architects by Brian GoetzMark Reinhold
+https://youtu.be/OKIKEccotUg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Become a King with Kong by Cédric Tran-Xuan
+https://youtu.be/xVyAYf6I0Sc&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Composite Builds with Gradle by Stefan Oehme
+https://youtu.be/l96SMQX3zkU&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Debugging Distributed Systems by Donny Nadolny
+https://youtu.be/CmuA9yhCmNY&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Deep dive into Watson's Neural Networks by Sandhya Kapoor, Bowen Zhou and Arthur Kantor
+https://youtu.be/GXXYs51ADJU&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+DROP DB – simple event sourcing for simple aliens by Jarek Ratajski
+https://youtu.be/n_NXUk6POgY&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Eddystone, the open location beacon standard by Alex Van Boxel
+https://youtu.be/5tdjDNUQrCg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Effective Android dev by Filip Maelbrancke
+https://youtu.be/KdyasrqRhIg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+How Angular Makes the Mobile Web Awesome by Stephen Fluin
+https://youtu.be/0-Nh-ur83P4&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Introducing JSR 354 - The Money & Currency API by Wim van Haaren and Jeroen Burggraaf
+https://youtu.be/uasi71dWWVQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Java on Mobile  Write once, Run on iOS & Android by Paul and Gail Anderson
+https://youtu.be/eohuPOXHRQQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Open Sesame! Conversations With My Front Door by Maurice Naftalin
+https://youtu.be/J1S5P6WIPus&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Patterns and Antipatterns in Docker Image Lifecycle by Jonathan Roquelaure
+https://youtu.be/clD7H7_-ueE&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Private video
+https://youtu.be/UXBoiqRJ6DQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Refactoring to Java 8 by Trisha Gee
+https://youtu.be/NcetKbGayZY&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+ScreenPlay the next stage in automated acceptance testing by John SmartJan Molak
+https://youtu.be/4eODK3WS6cM&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Serenity-JS next generation acceptance testing for Angular-JS in TypeScript by John SmartJan Molak
+https://youtu.be/YYgkFgBxEwc&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Talk to your home! by Joost den Boer
+https://youtu.be/Gv-Z0jMtwu4&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+The New HTTP Client API in JDK 9 by Michael McMahon
+https://youtu.be/gc6upLx7eog&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Twelve Ways to Make Code Suck Less by Venkat Subramaniam
+https://youtu.be/nVZE53IYi4w&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+Videos 76-100

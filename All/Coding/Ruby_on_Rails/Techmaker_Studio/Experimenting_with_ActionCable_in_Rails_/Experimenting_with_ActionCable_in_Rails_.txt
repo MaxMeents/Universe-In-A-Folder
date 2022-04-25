@@ -1,0 +1,19 @@
+
+Building a Real Messenger App with Rails 6 and Action Cable (Update!)  Ruby on Rails Projects
+https://youtu.be/Bhe5FlMcGKw&list=PLjItgYqIzJ9UIxMpofd8wi2GHqxvaGrMC
+
+Rails Tutorial  Action Cable Basics in Rails 6
+https://youtu.be/t9iubpbqmnM&list=PLjItgYqIzJ9UIxMpofd8wi2GHqxvaGrMC
+
+Rails Tutorial  Adding CableReady to our Rails 6 ActionCable Chat Application
+https://youtu.be/p0p9c_WmnLc&list=PLjItgYqIzJ9UIxMpofd8wi2GHqxvaGrMC
+
+Rails Tutorial  Building a Real Messenger App with Rails 6 and Action Cable - Update #2
+https://youtu.be/baEgjSPYKn0&list=PLjItgYqIzJ9UIxMpofd8wi2GHqxvaGrMC
+
+Rails Tutorial  Building a Real Messenger App with Rails 6 and Action Cable
+https://youtu.be/s3CmHhDjuWc&list=PLjItgYqIzJ9UIxMpofd8wi2GHqxvaGrMC
+
+Real-Time Activity with ActionCable and Rails 6  Ruby on Rails Projects
+https://youtu.be/KAnR4k6bJqE&list=PLjItgYqIzJ9UIxMpofd8wi2GHqxvaGrMC
+Experimenting with ActionCable in Rails 6

@@ -1,0 +1,76 @@
+
+(🖨️) How to Create RDLC Report  C#
+https://youtu.be/XsEXgAPhm0I
+
+(🖨️) How to Print Invoice  C#
+https://youtu.be/7rnPI7K-Ow8
+
+1. CRUD Operation Demo  C#
+https://youtu.be/RscbHuN7yEo
+
+2. Window Form design  C#
+https://youtu.be/R-pBW7_H-6M
+
+3. SQL Server Connection  C#
+https://youtu.be/XYo5XuXL8HU
+
+4. Insert new records into a database  C#
+https://youtu.be/vRnVk5R7bsQ
+
+5. Load Datagridview From Database  C#
+https://youtu.be/GH4fuKNFTvI
+
+6. Fill TextBoxes from DataGridView on CellContentClick Event  C#
+https://youtu.be/5D1tkz-PSmA
+
+7. Update records in database  C#
+https://youtu.be/EUsnrPrMThA
+
+8. Delete records from database  C#
+https://youtu.be/2yHWjvrg_UU
+
+9. Search record from DataGridView using TextChanged Event  C#
+https://youtu.be/JwqGSj63TEw
+
+Chat App modern design  C#
+https://youtu.be/xeTScEIi7HU
+
+Hotel Management System Demo  C#
+https://youtu.be/nIcG-JkQOiw
+
+How to Backup and Restore database in SQL Server  C#
+https://youtu.be/L6PweAmTnkk
+
+How to set placeholder text to textbox  C#
+https://youtu.be/rmjsS2i0BTI
+
+[Demo] How to Backup and Restore database in SQL Server  C#
+https://youtu.be/qZeVpL0d5U8
+
+[Demo] Modern Flat UI - AMR media player Visual Studio Winforms app  C#
+https://youtu.be/wie0tkn7JKg
+
+[Hint] How to Create a Complete Forgot Password System  C#
+https://youtu.be/4mAS-1-d-cQ
+
+[Part-1] Hotel Management System Login Form with MS SQL Server  C#
+https://youtu.be/_ACaI5g7f_w
+
+[Part-2] Hotel Management System Designing Home Form  C#
+https://youtu.be/UgxgH5lvj80
+
+[Part-3] Hotel Management System Designing Setting Form  C#
+https://youtu.be/kHA0gIOK7hI
+
+[Part-4] Hotel Management System Designing Client Form   C#
+https://youtu.be/Pmy0MubSvGU
+
+[Part-5] Hotel Management System Designing Room Form  C#
+https://youtu.be/KS2aOgzRVVg
+
+[Part-6] Hotel Management System Designing Reservation Form  C#
+https://youtu.be/GR6JXucLt74
+
+[Part-7] Hotel Management System Designing Dashboard Form  C#
+https://youtu.be/I0fZOn2ZhE0
+Videos 51-75

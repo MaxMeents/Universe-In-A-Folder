@@ -1,0 +1,22 @@
+
+C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor
+https://youtu.be/EJtqHLvAIZE
+
+C++ Weekly - Ep 2 Cost of Using Statics
+https://youtu.be/B3WWsKFePiM
+
+C++ Weekly - Ep 3 Intro to clang-tidy
+https://youtu.be/OchPaGEH4TE
+
+C++ Weekly - Ep 4 Variadic Template Refactor
+https://youtu.be/VXi0AOQ0PF0
+
+C++ Weekly - Ep 5 Intro To ChaiScript
+https://youtu.be/CeHSHEZg-PQ
+
+Faster Compile Times with ChaiScript
+https://youtu.be/6GRSyiFhTI4
+
+GameEngineTest1
+https://youtu.be/I5RhfM4SS8U
+Videos 351-357

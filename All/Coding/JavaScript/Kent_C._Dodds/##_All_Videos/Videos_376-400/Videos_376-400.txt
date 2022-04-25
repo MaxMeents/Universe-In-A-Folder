@@ -1,0 +1,76 @@
+
+AMA answers Hiring, React, Testing, Introducing new tools, career advice and more
+https://youtu.be/y23g8L8UtoQ
+
+Avoid setState warnings on unmounted React components
+https://youtu.be/8BNdxFzMeVg
+
+Component Unit Testing (and mocking) with react-testing-library 🐐
+https://youtu.be/XDkSaCgR8g4
+
+Configuring Babel 7
+https://youtu.be/Tv4n_3zETHc
+
+Creating an autocomplete component with downshift 🏎
+https://youtu.be/7LEogIjE0pY
+
+GitHub's GraphQL API
+https://youtu.be/B4rY2rgn1RY
+
+Handy package npm-quick-run
+https://youtu.be/zEM50eI4O9o
+
+How does this work in JavaScript
+https://youtu.be/M_D2mpRGJE0
+
+How to configure prettier to automatically format your code
+https://youtu.be/hPI9UnE4dws
+
+How to test Redux
+https://youtu.be/h7ukDItVN_o
+
+Implementing Control Props in custom React Components
+https://youtu.be/Q5LaOYY-a0k
+
+Intro to ReasonML Syntax from a JavaScript perspective
+https://youtu.be/sOgJTcB4Tb8
+
+Magic Move effect with JavaScript
+https://youtu.be/3AaghqS3W4Y
+
+Make jest run anything
+https://youtu.be/TG7WQR4s6PE
+
+Migrating from shallow rendering react components to explicit component mocks
+https://youtu.be/LHUdxkThTM0
+
+render React Components with react-testing-library
+https://youtu.be/KzeqeI046m0
+
+Running sequential asynchronous operations with promises
+https://youtu.be/0wiM3jW1DVY
+
+Setup testing utilities file
+https://youtu.be/uUmsidYoN30
+
+Tagged Template Literals
+https://youtu.be/UJrkauaA7-I
+
+The difference between (and power of) the babel plugins codegen, preval, and macros
+https://youtu.be/1queadQ0048
+
+Use match-sorter for a great list filter user experience
+https://youtu.be/dyEFhQ93S_k
+
+Use React with an index.html and script tags
+https://youtu.be/N_GNMkwcoMA
+
+Using react-testing-library with create-react-app
+https://youtu.be/Yx-p3irizCQ
+
+What is this in NodeJS
+https://youtu.be/jWllMubtfPQ
+
+Writing backbone-testing-library
+https://youtu.be/Ru3g35-BQnI
+Videos 376-400

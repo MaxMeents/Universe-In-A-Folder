@@ -1,0 +1,73 @@
+
+Adam Bien - Serverless HTML5 Apps With Angular 2, React, Polymer and Java EE Microservices
+https://youtu.be/LNtaiZJD2I0&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Async Communication Between WARs with WebSockets
+https://youtu.be/al8hxPou9z0&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Configuring Thread Pools in Java EE 7 with Porcupine
+https://youtu.be/4M1EJntwjk8&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Custom Managed Thread Pools and Java EE 7
+https://youtu.be/20KVZ0ZnCl4&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+GlassFish Management and Monitoring
+https://youtu.be/s5RsjbgZrkA&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Going Asynchronous With CompletableFuture and Java EE 7
+https://youtu.be/KUISpHbWib0&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+HTTP Load Balancing With Docker and nginx
+https://youtu.be/CS6bzlwdhqU&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Implementing Health Checks With Docker
+https://youtu.be/_CVewEfVQAo&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Java EE Application Monitoring with LightFish
+https://youtu.be/-D7VOyNE-R8&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Java EE Microservices Communication
+https://youtu.be/QO2321eMNYE&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Java EE Monitoring With firehose and prometheus.io
+https://youtu.be/_FW5472xTmQ&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Java EE, Thin WARs And The Docker Image Size
+https://youtu.be/hoqJdH87e7g&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Load Balancing Java EE Microservices
+https://youtu.be/3Lw9YO5oU0U&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Memory Footprint TomEE vs. Tomcat on Docker
+https://youtu.be/8iY_K4vuDhM&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Microservices Simplify Exception Handling in JAX-RS and Java EE
+https://youtu.be/yA1gKg-FvJM&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Monitoring Java EE Servers with Prometheus and Payara
+https://youtu.be/Pww-8WxsXJA&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Payara Micro And Docker
+https://youtu.be/8Da5jOMaNtk&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Pushing Java EE Thin WARs To The Clouds
+https://youtu.be/0AJyZ9i915k&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Running A Stock Java EE Application On Docker
+https://youtu.be/P6Bk3Eiz3kE&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Staging External Resources With Dockerized Java EE Applications
+https://youtu.be/OZI9a9H9tgc&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+The Memory Usage of Java EE 7 Application Servers Running On Docker
+https://youtu.be/i-r9bU3y3Y0&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+The Overhead Of Java EE Application Servers
+https://youtu.be/OSERh3l1vK8&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+Thin WARs, Java EE 7, Docker and Productivity
+https://youtu.be/5N4EUDhrkec&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+
+ThreadPool overloading and Java EE 7
+https://youtu.be/HToJuV28pPI&list=PLxU9yM-_yPs-vBHwo_50Uj0JLiGtyWT9B
+Videos 1-25

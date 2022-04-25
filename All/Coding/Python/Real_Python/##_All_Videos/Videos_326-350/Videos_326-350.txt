@@ -1,0 +1,76 @@
+
+After learning the basics of Python, how do I get started with real projects
+https://youtu.be/8x2A5Ih1oIg
+
+Contributing to Open-Source Projects as a New Python Developer How to Do It
+https://youtu.be/jTTf4oLkvaM
+
+Functional Programming in Python Immutable Data Structures
+https://youtu.be/xJCPpDlk9_w
+
+Functional Programming in Python Parallel Processing with concurrent.futures
+https://youtu.be/0NNV8FDuck8
+
+Functional Programming in Python Parallel Processing with multiprocessing
+https://youtu.be/aysceqdGFw8
+
+Functional Programming in Python The filter() Function
+https://youtu.be/fkjjqyfN51c
+
+Functional Programming in Python The map() Function
+https://youtu.be/powVeMYKCSw
+
+Functional Programming in Python The reduce() Function
+https://youtu.be/ZrZ6vJGiE8I
+
+How can you get a job as junior Python developer without experience
+https://youtu.be/ZF_ECl9aIKA
+
+How is Python going to evolve over the next 5-10 years
+https://youtu.be/HYU7xVkP6-Q
+
+How to set up Python code highlighting in your terminal
+https://youtu.be/cg_3E3Cb3MA
+
+How to write code that works on both Python 2 and Python 3
+https://youtu.be/3StNdhmnR2o
+
+Inspecting Python Modules and Classes With dir() And help()
+https://youtu.be/ldzac4Qu-f4
+
+Is Python slower than Java and how to optimize its performance
+https://youtu.be/EGNOMb1vS3U
+
+Job Security as a Python Developer What If Python Goes Away 😟🐍
+https://youtu.be/HL_HOeN_oHo
+
+Learn Coding as an Absolute Beginner Where to Start 🤔
+https://youtu.be/NWIkWv66yAU
+
+Python Plugin System Load Modules Dynamically With importlib
+https://youtu.be/cbot48lckOs
+
+Python Refactoring while True Infinite Loops & The input Function
+https://youtu.be/ez-qYc0NlMk
+
+Python Tutorial How To Check if a File or Directory Exists
+https://youtu.be/DvZTW5g82pQ
+
+Python vs Java and C++ in video game development
+https://youtu.be/MFG2lWHBo6c
+
+What Python Projects Should I Build to Get a Job
+https://youtu.be/p-89r5QvQvQ
+
+What's the best Python coding interview book
+https://youtu.be/ovi5J5XK40s
+
+Working Effectively with Python Virtual Environments (Virtualenv)
+https://youtu.be/8KWVEc6vFgA
+
+🐍🎓 Algorithms and Data Structures Knowledge to Get a Python Job
+https://youtu.be/BnyKBf9BwJE
+
+💻 2017 Apple MacBook Pro 13 — Review for Software Developers
+https://youtu.be/z9V3giX_Brc
+Videos 326-350

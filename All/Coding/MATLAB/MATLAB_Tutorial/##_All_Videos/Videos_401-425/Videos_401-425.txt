@@ -1,0 +1,73 @@
+
+Arduino code for human hand model vibrations of tremor
+https://youtu.be/9qFXWr83MDk
+
+Arduino code for monitoring of scour utilizing flow velocity sensors
+https://youtu.be/t4bdjpTHrFU
+
+Arduino code for movement assistance system for extravehicular spacesuit gloves
+https://youtu.be/YiOlpew1CGw
+
+Arduino code for Obstacle Avoidance Function in robot
+https://youtu.be/Q0M-1HeY0fQ
+
+Arduino code for robot motion with omin wheels
+https://youtu.be/QAW9Zz75LGo
+
+Arduino code for Sunlight Searching Function in robot
+https://youtu.be/NiS--0iZ3OI
+
+Arduino code for Three-phase induction motors control
+https://youtu.be/KpSLmu89XAA
+
+Arduino code for wireless charge batteries of Unmanned Aerial Vehicle (UAV)
+https://youtu.be/zOHXdeUSFII
+
+Arduino Code for Zoetrope Pedestal using a 1.8° Stepper Motor
+https://youtu.be/wCmHI70T9tI
+
+C code for reflection coefficient and energy reflection coefficient and sputtering yield
+https://youtu.be/UmHpma7V2wI
+
+MATLAB code for Dominant Frequency Analysis
+https://youtu.be/MbgN7P7zM-k
+
+MATLAB code for image enhancement algorithms and information theory analysis
+https://youtu.be/SeHVs66H-6A
+
+MATLAB code for measuring the size of particles in a image
+https://youtu.be/snOYFTllREk
+
+MATLAB code for molecular dynamics simulation of an Ag tip sliding
+https://youtu.be/UoT1hk077XU
+
+MATLAB code for Monte Carlo simulation of fluorescence in the retina
+https://youtu.be/M8iDPfuSMHg
+
+MATLAB code for path integration
+https://youtu.be/qfbu3FAh3IY
+
+MATLAB code for send email to gmail
+https://youtu.be/jk35eb-fsPU
+
+MATLAB code for Strand Burn Analysis Program
+https://youtu.be/WwzBFZnaQRM
+
+MATLAB code of motion equations for vertical balancing treaded rover
+https://youtu.be/qJ3iffguKik
+
+MATLAB codes for zonal model simulation
+https://youtu.be/_ueLGT1iKTY
+
+MATLAB model for capacitive micromachined ultrasonic transducer (cMUT)
+https://youtu.be/laxJ1zYdlrc
+
+MATLABSimulink code for vehicle model of the 2007 BMW Mini
+https://youtu.be/bkSpH-j-KRQ
+
+Simulink model of a BMW Mini Cooper using the vehicle model
+https://youtu.be/k5UN9aA6xcs
+
+स्वचालित चेहरे की अभिव्यक्ति मान्यता प्रणाली
+https://youtu.be/YiAmS30m-Hc
+Videos 401-425

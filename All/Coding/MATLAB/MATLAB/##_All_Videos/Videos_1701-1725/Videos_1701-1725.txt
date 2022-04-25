@@ -1,0 +1,76 @@
+
+Creating an Arduino Based Obstacle Game Using Simulink and Stateflow
+https://youtu.be/UGn-LqDf4hU
+
+Creating an Arduino Based Robotic Spider Using Simulink and Stateflow
+https://youtu.be/B3I6DGDgHjk
+
+Credit Scorecard Modeling Using the Binning Explorer App - MATLAB Video
+https://youtu.be/kYcvp99FzXg
+
+Dataset Signal Plot - MATLAB and Simulink
+https://youtu.be/yw8tsm7AbzU
+
+Embedded Coder Target for Energia
+https://youtu.be/ktn1UKEr87s
+
+FPGA in the Loop with PCI Express Altera Cyclone V GT
+https://youtu.be/7YfAHLm3sjs
+
+FPGA-in-the-Loop with PCI Express Xilinx KC705
+https://youtu.be/3JUAJUbvhs4
+
+In-Canvas Property Editing - MATLAB and Simulink
+https://youtu.be/xGIZNSGhCuk
+
+Initialize and Terminate Functions - MATLAB and Simulink
+https://youtu.be/Nd53jHqzvZ8
+
+Just in Time Acceleration Builds  - MATLAB and Simulink
+https://youtu.be/zMMrYGIVixo
+
+Managing Time stamped Tabular Data with Timetable
+https://youtu.be/9WTWeWCy5To
+
+MATLAB Tall Arrays in Action
+https://youtu.be/1JV-pMb9qSM
+
+Mechatronics with MATLAB and Simulink, Part 7 Feedforward Control
+https://youtu.be/vs_Nc4_ekWI
+
+Mechatronics with MATLAB and Simulink, Part 8 PWM of Voltage
+https://youtu.be/I7vmOhjn4pc
+
+Real-Time Simulation and Testing of a Throttle Valve Controller
+https://youtu.be/cJkcnJKr7Mc
+
+Simulink Support for Raspberry Pi 3 and Google Nexus Devices
+https://youtu.be/4jv0VfpqpbA
+
+Understanding Control Systems Introduction
+https://youtu.be/VZIsHshZnFU
+
+Understanding Control Systems, Part 1 Open-Loop Control Systems
+https://youtu.be/FurC2unHeXI
+
+Understanding Control Systems, Part 2 Feedback Control Systems
+https://youtu.be/5NVjIIi9fkY
+
+Understanding Control Systems, Part 3 Components of a Feedback Control System
+https://youtu.be/u1pgaJHiiew
+
+Upgrade Advisor API - MATLAB and Simulink
+https://youtu.be/wKeLjFKP4Xs
+
+Using Tall Arrays for Big Data in MATLAB
+https://youtu.be/1tbsQte16AY
+
+Variant Condition Propagation - MATLAB and Simulink Video
+https://youtu.be/sSRjqRAlx0A
+
+こんなに簡単、色による画像からの物体の抽出
+https://youtu.be/-wRU9n9v03E
+
+進化するMATLABアプリ - マウス操作で行える物体形状の解析
+https://youtu.be/_b8q4wvlt_0
+Videos 1701-1725

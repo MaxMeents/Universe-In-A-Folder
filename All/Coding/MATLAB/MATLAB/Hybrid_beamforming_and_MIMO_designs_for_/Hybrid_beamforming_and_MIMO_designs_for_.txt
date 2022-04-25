@@ -1,0 +1,13 @@
+
+LTE MIMO Beamforming on Ray Tracing Channels
+https://youtu.be/57S6av_bRtk&list=PLn8PRpmsu08q0MKP1vDTzN4lE-PrSzeTN
+
+MIMO wireless system design for 5G, LTE, and WLAN in MATLAB
+https://youtu.be/qcbGWxQpe6Y&list=PLn8PRpmsu08q0MKP1vDTzN4lE-PrSzeTN
+
+Spatial Multiplexing and Hybrid Beamforming
+https://youtu.be/6wAuPI9ZYgw&list=PLn8PRpmsu08q0MKP1vDTzN4lE-PrSzeTN
+
+WINNER II channel model for Communications Toolbox
+https://youtu.be/vPff-Yu0xDg&list=PLn8PRpmsu08q0MKP1vDTzN4lE-PrSzeTN
+Hybrid beamforming and MIMO designs for 5G, LTE, and WLAN

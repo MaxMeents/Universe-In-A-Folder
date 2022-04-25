@@ -1,0 +1,73 @@
+
+#4 Swift Functions Continued
+https://youtu.be/n_vBf6yH0ys
+
+7MinuteBody
+https://youtu.be/-2iBjt6MqCU
+
+Agile Poker Cards App
+https://youtu.be/29lNJGDeR08
+
+Arrived - iBeacon Tracking
+https://youtu.be/HyrehmBLmcQ
+
+AZBlinds Animation Demo
+https://youtu.be/4G_taZaBX18
+
+AZBlinds Cool Animation Using UIKit Dynamics
+https://youtu.be/IUzhFnGBjv4
+
+Flooded App (Work in progress)
+https://youtu.be/Jd8u5OIWpt8
+
+Flooded App Crowdsourcing to avoid flooded areas!
+https://youtu.be/LIqllCY6lY8
+
+High Waters
+https://youtu.be/0XrMQp-t1CE
+
+iFly Houston Indoor Sky Diving
+https://youtu.be/_VTiKMfoXpE
+
+iPhone 6 Restarting Itself in an Infinite Loop
+https://youtu.be/kdTQuUtJh6Q
+
+Learning iOS Development Part 76 (Downloading Binary Data from iCloud)
+https://youtu.be/_JWyIlWM5K0
+
+Learning iOS Development Part 77 (Custom CheckBox in UITableView)
+https://youtu.be/9hgfNfG7EKQ
+
+Learning iOS Development Part 78 (Spring Animations)
+https://youtu.be/ZTVRAfQFWVo
+
+Learning iOS Development Part 79 (UIView Transitions)
+https://youtu.be/dfSu-qvn0aY
+
+Learning iOS Development Part 80 (Live Rendering iOS 8)
+https://youtu.be/qQhMkoxSV64
+
+Learning iOS Development Part 81 (Autolayouts)
+https://youtu.be/AdExpvw9n9Y
+
+Learning jQuery Mobile Website Development Part 1 (Introduction)
+https://youtu.be/n0Vx2fM35TI
+
+Loving WatchKit!
+https://youtu.be/QVvxP1YbC-c
+
+Mac Development Part 1 (Hello Mac)
+https://youtu.be/Ks96mDRqJQc
+
+Mastering iOS MapKit Using Swift Language
+https://youtu.be/jeKRQ5W8W88
+
+Mastering MapKit in iOS Using Swift
+https://youtu.be/2CNxhAb_MZ4
+
+Museum Tour iBeacon Enabled Application
+https://youtu.be/iqzXrRRvENM
+
+Thank you for an Awesome Year 2014!
+https://youtu.be/3MIqtTRLbO8
+Videos 701-725

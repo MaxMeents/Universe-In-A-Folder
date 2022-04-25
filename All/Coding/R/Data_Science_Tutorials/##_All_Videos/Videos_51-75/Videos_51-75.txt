@@ -1,0 +1,76 @@
+
+Adding Dynamic Reference Line on Power BI chart for Min Max Average Median and Percentile
+https://youtu.be/CAZT-0ralEM
+
+Anomaly Detection in Power BI
+https://youtu.be/kbigMie_HZY
+
+Creating Bins in Power BI from numerical values for Histogram Visualization
+https://youtu.be/zaabCYZ_Ebo
+
+Displaying all months or quarter on X Axis of power BI Line Chart
+https://youtu.be/CsyMg78qrV4
+
+Finding employees in hierarchy that is at a particular position Power BI using PathItem Function
+https://youtu.be/m7SodtOaEew
+
+How to Change and Customize Power BI Theme
+https://youtu.be/BEu0eIHk-AY
+
+How to create Parent Child Relationship in New Column in Power BI
+https://youtu.be/BCiYOQ1-y0Q
+
+How to Create Trend Line in Power BI Scatter Chart
+https://youtu.be/Wc10X6O-UBk
+
+How to find a hierarchy item from last node in Power BI using PathItemReverse DAX function
+https://youtu.be/f0FIb8AAj7U
+
+How to find a parent in parent child hiearchy column of Power BI using PathContains DAX Function
+https://youtu.be/vuzNh7qKUfg
+
+How to find the value on last day of every month using Power BI DAX function ClosingBalanceMonth
+https://youtu.be/XhEw1i1D6Is
+
+How to Group Categories Values in Power BI
+https://youtu.be/x260sd1KsqE
+
+How to Save Data Connection Settings in Power BI using PBIDS file
+https://youtu.be/zosq4bqdt2M
+
+How to use Treemap Visualization as an interactive slicer
+https://youtu.be/0oywgk4pLVU
+
+Operator Precedence in Power BI
+https://youtu.be/zs-U6rHLfEY
+
+Power BI calcuation to visualize percentage difference between one and rest of the categories
+https://youtu.be/ViuE3T-e4aQ
+
+Power BI DAX function to Find Length of Hierarchy
+https://youtu.be/Y7J8hKE6gbM
+
+Power BI Quick Measure Calculation for Year to Date [YTD] and Comparing it with Total
+https://youtu.be/jANs8vc_BO8
+
+Power BI Quick Measure Calculation to find difference between one and rest of the other categories
+https://youtu.be/IlUCRmL9Lz8
+
+Power BI Quick Measure for Comparing one chart category with rest of the other chart categories
+https://youtu.be/0SrFKkh7eS4
+
+Power BI Smart Narrative Table for Analytical Commentary - For Custom Summary
+https://youtu.be/Bm-7YDFDJjs
+
+Power BI YoY Quick Mesaure Calculation Proudcuing incorrect output
+https://youtu.be/znDaUYqwn08
+
+Python Machine Learning Practice Case Study for Predicting Heart Disease
+https://youtu.be/N-X6PdpXRhw
+
+Setting Power BI Charts and Objects Navigation Order for Tab Key
+https://youtu.be/5QoHICWWhaw
+
+Shortcuts Key in Power BI to improve productivity
+https://youtu.be/UIW9rBVLpGg
+Videos 51-75

@@ -1,0 +1,16 @@
+
+Android Constraint Layout How to Use the UI Design Builder
+https://youtu.be/bXSvxcljcNw&list=PL0dzCUj1L5JFWMoGYWyUSAUnR4PHIJaZY
+
+Android Kotlin Essentials to Creating a ListView (Ep 1)
+https://youtu.be/EwwdQt3_fFU&list=PL0dzCUj1L5JFWMoGYWyUSAUnR4PHIJaZY
+
+Android Kotlin Introduction to Android Studio and FizzBuzz
+https://youtu.be/PRYPafLAYps&list=PL0dzCUj1L5JFWMoGYWyUSAUnR4PHIJaZY
+
+Android Kotlin ListView Custom XML Views for Rows (Ep 2)
+https://youtu.be/P2I8PGLZEVc&list=PL0dzCUj1L5JFWMoGYWyUSAUnR4PHIJaZY
+
+Quickly Negotiating my Annual Raise after Performance Gains from ViewHolder Pattern - Android
+https://youtu.be/W2fTwpAiteE&list=PL0dzCUj1L5JFWMoGYWyUSAUnR4PHIJaZY
+Android Kotlin Introduction

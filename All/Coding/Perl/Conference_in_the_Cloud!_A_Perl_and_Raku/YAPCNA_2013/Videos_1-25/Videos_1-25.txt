@@ -1,0 +1,76 @@
+
+Al Newkirk - Writing Contracts in Perl
+https://youtu.be/Z-OJKAJ5w9Q&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Andrew Rodland   StatsD and You
+https://youtu.be/69myeluuNTc&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Brock Wilcox (awwaiid) - Introduction to AngularJS
+https://youtu.be/VdB4SUCsmsU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Carl Mäsak (masak) - JavaScript Has Already Won
+https://youtu.be/klswJ9aexjs&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Carl Mäsak - ?Regexes in Perl 6 - Zero to Perl 6 Training?
+https://youtu.be/oo-gA9Z9SaA&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Casey West - How To Be A Web UI Developer
+https://youtu.be/68O0Wso_XuU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Curtis Poe (Ovid) - Roles versus Inheritance
+https://youtu.be/cjoWu4eq1Tw&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Daniel Nichter - Quick Cure for the Shame of Untested Software
+https://youtu.be/AjN3FbWz1YU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Geoffrey Broadwell - ?The Need for Speed Benchmarking Perl 6?
+https://youtu.be/h5sSuL9OueE&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Jonathan Rockway (jrockway) - Introduction to Dart
+https://youtu.be/NdCchnJNfzU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Jonathan Worthington - Rakudo Perl 6 Debugger Highlights
+https://youtu.be/7nISwfLoAoU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Jud Dagnall - Perl, Hive and Pig, Oh My
+https://youtu.be/TJbCZm-RkJE&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Karen Pauley - The Perl Foundation 2012-2013
+https://youtu.be/Hm-LgSQl0yo&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Katherine Toomajian - ?The Care and Feeding of Volunteers Lessons from Non-Profits and OSS?
+https://youtu.be/rVN6Kz6R7SU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Lightning Talks Tuesday
+https://youtu.be/WwtyQh4IfbA&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Liz - Perl's Diaspora
+https://youtu.be/P0pm5eUOhbY&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Mark Keating - Perl of Christmas Past
+https://youtu.be/92sKmO-AHZQ&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Mark Stosberg - ?Techniques to speed up large test suites?
+https://youtu.be/sDUnWGuJn5A&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Mateu Hunter - Jumpstart ElasticSearch
+https://youtu.be/rTgFNGq5GbU&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Matt S Trout - Architecture Automation, One Alligator At A Time
+https://youtu.be/3xQqLNBeokc&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Nick Patch - Unicode Best Practices
+https://youtu.be/X2FQHUHjo8M&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+R Geoffrey Avery - ?Dancer Getting to Hello World?
+https://youtu.be/RRKAQs4__6Y&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Stevan Little - Moe Status Update
+https://youtu.be/279c5sHJpCQ&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Tim Bunce - Profiling Memory Usage
+https://youtu.be/GIIeOntmojg&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+
+Walt Mankowski (waltman) - Hack Your Mac with Perl
+https://youtu.be/uHmagq90-6Y&list=PLA9_Hq3zhoFy0zej1j4QZtz5awFKXunZX
+Videos 1-25

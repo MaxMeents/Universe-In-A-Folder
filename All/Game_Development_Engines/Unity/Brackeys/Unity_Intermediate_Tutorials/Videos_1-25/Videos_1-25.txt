@@ -1,0 +1,76 @@
+
+2D PATHFINDING - Enemy AI in Unity
+https://youtu.be/jvtFUfJ6CP8&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+Basics of Shader Graph - Unity Tutorial
+https://youtu.be/Ar9eIn4z6XE&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+FIRST PERSON MOVEMENT in Unity - FPS Controller
+https://youtu.be/_QajrabyTJc&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+FORCE FIELD in Unity - SHADER GRAPH
+https://youtu.be/NiOGWZXBg4Y&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+GRASS SWAY in Unity - SHADER GRAPH
+https://youtu.be/L_Bzcw9tqTc&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+GRENADE  BOMB in Unity (Tutorial)
+https://youtu.be/BYL6JtUdEY0&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+How to get GOOD GRAPHICS - Upgrading to HDRP
+https://youtu.be/12gkcdLc77s&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+How to get Good Graphics in Unity
+https://youtu.be/owZneI02YOU&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+How to make a BOSS in Unity!
+https://youtu.be/AD4JIXQDw0s&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+How to make a Dialogue System in Unity
+https://youtu.be/_nRzoTzeyxU&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+How to make a LOADING BAR in Unity
+https://youtu.be/YMj2qPq9CP8&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+How to make a Minimap in Unity
+https://youtu.be/28JTTXqMvOU&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+Make your Characters Interactive! - Animation Rigging in Unity
+https://youtu.be/Htl7ysv10Qs&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+MESH GENERATION in Unity - Basics
+https://youtu.be/eJEpeUH1EMg&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+NEW INPUT SYSTEM in Unity
+https://youtu.be/Pzd8NhcRzVo&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+Post Processing in Unity - Image Effects Tutorial
+https://youtu.be/a0OQvWAPeuo&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+PROCEDURAL TERRAIN in Unity! - Mesh Generation
+https://youtu.be/64NblGkAabk&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+SCRIPTABLE OBJECTS in Unity
+https://youtu.be/aPXvoWVabPY&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+SHATTER  DESTRUCTION in Unity (Tutorial)
+https://youtu.be/EgNV0PWVaS8&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+Shooting with Raycasts - Unity Tutorial
+https://youtu.be/THnivyG0Mvo&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+SIMPLE CARTOON WATER in Unity
+https://youtu.be/Vg0L9aCRWPE&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+TOP 10 UNITY TIPS - 2017
+https://youtu.be/JDVuTBHnGWw&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+TOP DOWN MOVEMENT in Unity!
+https://youtu.be/whzomFgjT50&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+Turn-Based Combat in Unity
+https://youtu.be/_1pz_ohupPs&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+
+Weapon Switching - Unity Tutorial
+https://youtu.be/Dn_BUIVdAPg&list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J
+Videos 1-25

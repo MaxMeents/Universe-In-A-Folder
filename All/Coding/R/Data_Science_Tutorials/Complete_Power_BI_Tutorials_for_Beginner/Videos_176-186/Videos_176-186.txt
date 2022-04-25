@@ -1,0 +1,34 @@
+
+Creating Dynamic Show Hide Slicer Panel in Power BI Report or Dashboard
+https://youtu.be/XJoK8YXrEIA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI DAX Function ISEmpty with IF Condition to test with the table is empty or not
+https://youtu.be/OMf8mwmA59Y&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI IFError DAX Function to Process Errors
+https://youtu.be/bYosBb-1hYc&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI ISError Function with IF condition to Identify and Process Errors
+https://youtu.be/Fuogn6pXk5E&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI ISNumber Function with IF Function to Check if Number is Present
+https://youtu.be/UjQw_FctpNo&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Workout Wednesday (WoW) Exercise 1 - Connecting Cleaning and Modeling Data
+https://youtu.be/1pparyaJh1M&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Workout Wednesday (WoW) Exercise 2 - Building a Basic KPI Dashboard
+https://youtu.be/njI6-hi6SAU&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Workout Wednesday Exercise 3 - Adding and Managing Slicer Interactions Settings
+https://youtu.be/LqP7IfpE_q4&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Workout Wednesday Exercise 4 - Configuring Drill Through via 2 Different Options
+https://youtu.be/db9hCbM18gw&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Private video
+https://youtu.be/MQ3TWZ8ZzPA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Using Power BI Slicer to Nagivate Report Pages or Dashboard Pages
+https://youtu.be/rvXR74qO-Yk&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+Videos 176-186

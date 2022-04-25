@@ -1,0 +1,19 @@
+
+Pt 07 Make User Email Authentication (Log In and Sign Up) with Firebase
+https://youtu.be/HwRwNVTDt4k&list=PLHmNdpdzx21EouU0fq61sWedLW1Zwdu5E
+
+Pt 27 Firebase Email Authentication - Design Sign Up and Log In UI
+https://youtu.be/Rt-hc7Wi1AI&list=PLHmNdpdzx21EouU0fq61sWedLW1Zwdu5E
+
+Pt 37 Firebase Email Authentication - Integrate Firebase and How Firebase Database Works
+https://youtu.be/QBesya4ykXU&list=PLHmNdpdzx21EouU0fq61sWedLW1Zwdu5E
+
+Pt 47 Firebase Email Authentication- Create Firebase Database Reference, Upload Images to Firebase
+
+
+Pt 57 Firebase Email Authentication - Save User Information by Creating User Class
+https://youtu.be/H9WtRyY4NLs&list=PLHmNdpdzx21EouU0fq61sWedLW1Zwdu5E
+
+Pt 67 Firebase Email Auth - Sign Up, Log In and One-Time Signin
+https://youtu.be/bbq5iCQcAFQ&list=PLHmNdpdzx21EouU0fq61sWedLW1Zwdu5E
+iOS - Firebase Email Authentication - How to Login and Signup Users to Your App

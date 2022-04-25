@@ -1,0 +1,19 @@
+
+Hotel Management System Demo  C#
+https://youtu.be/nIcG-JkQOiw&list=PLD4yJgnADM0pDr1bM_-Pvo4Epvix5QYJ0
+
+Movie Management SoftwareSystem - Student Project  C#
+https://youtu.be/asYRni7ZHIk&list=PLD4yJgnADM0pDr1bM_-Pvo4Epvix5QYJ0
+
+MySQL database WinForms CRUD Demo. (CREATE,READ,SELECT,UPDATE,DELETE)  C#
+https://youtu.be/NrJiEjzyhYc&list=PLD4yJgnADM0pDr1bM_-Pvo4Epvix5QYJ0
+
+Phone Book design  Save Contact Number  SQL Server  C#
+https://youtu.be/5m_I-jQPUfo&list=PLD4yJgnADM0pDr1bM_-Pvo4Epvix5QYJ0
+
+Send Attachment  Emails in C# design  C#
+https://youtu.be/7Td0pyK8IbU&list=PLD4yJgnADM0pDr1bM_-Pvo4Epvix5QYJ0
+
+[Demo] How to Backup and Restore database in SQL Server  C#
+https://youtu.be/qZeVpL0d5U8&list=PLD4yJgnADM0pDr1bM_-Pvo4Epvix5QYJ0
+Student Project

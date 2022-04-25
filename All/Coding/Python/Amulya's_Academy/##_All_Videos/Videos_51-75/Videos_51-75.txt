@@ -1,0 +1,76 @@
+
+Characteristics of Tree  Data Structure
+https://youtu.be/nj0eoaDJTVY
+
+Circular Linked List  Data Structures
+https://youtu.be/YcAa4JFvkbM
+
+Delete The Last Node in Linked List  Delete At the End  Python Program
+https://youtu.be/ApqPeIi_gJk
+
+Doubly Linked List  Program  Deletion Operation  Data Structures
+https://youtu.be/50vOpFLB428
+
+Doubly Linked List  Program  Insertion Operation  Part 1  Data Structures
+https://youtu.be/bsVWTyMVRME
+
+Doubly Linked List  Program  Insertion Operation  Part 2  Data Structures
+https://youtu.be/gQmbLw007bI
+
+Doubly Linked List  Program  Traversing Operation  Data Structures
+https://youtu.be/yZf7XqFYU24
+
+General Tree And Binary Tree  Data Structure
+https://youtu.be/r7EHGSUTv_s
+
+Guess The Output 15  forwhile else  Python Programs And Answers  Interview Questions
+https://youtu.be/p49p2gFcW6g
+
+Guess The Output 16  List And Tuple  Python Programs And Answers  Interview Questions
+https://youtu.be/1ck7uDkiIH4
+
+Guess The Output 17  While Loop and Empty String  Python Programs  Interview Questions
+https://youtu.be/ZIn50pLEOMk
+
+Introduction To Tree Data Structure
+https://youtu.be/zrTuiS_gYZo
+
+Linear And Non Linear Data Structure
+https://youtu.be/lFmKgjuPuHw
+
+Number Pattern  Part 1  Python Pattern Programs
+https://youtu.be/n1iyraKXykY
+
+Number Pattern  Part 2  Python Pattern Programs
+https://youtu.be/-DUycgfaQVM
+
+Number Pattern  Part 3  Python Pattern Programs
+https://youtu.be/wVy0WYYMVFg
+
+Print Numbers Without Using Numbers in Program  Programming Challenge 1  Python Tricky Programs
+https://youtu.be/w1RSMNVdq8M
+
+Python Program To Print All The Factors Of Given Number
+https://youtu.be/nUhF4-QoP34
+
+Python Program To Reverse And Add Until A Palindrome
+https://youtu.be/JIvwgX69_Ds
+
+Python Tutorials - Happy Numbers
+https://youtu.be/tNOYnyPnSlk
+
+Reverse The Given String Using Recursion  Python Programs  Interview Question And Answer
+https://youtu.be/FsKTGp97HwE
+
+Star Pattern  Python Pattern Program
+https://youtu.be/zPaSrA9jaMI
+
+Star Pattern Using Recursion  WithOut Using Loop  Programming Challenge 2  Python Tricky Programs
+https://youtu.be/yGmNp8p7Yi4
+
+String Pattern  Python Pattern Programs
+https://youtu.be/HNJLx6h7ffI
+
+Types Of Binary Tree 1  Full Binary Tree  Complete Binary Tree  Data Structure
+https://youtu.be/naG0Fh4EtKk
+Videos 51-75

@@ -1,0 +1,76 @@
+
+iOS DEV Different Layers Have Different Data Representations  ED Clips
+https://youtu.be/3syBJw39JpA
+
+iOS DEV Do This To Access Dependencies In Child SwiftUI Views  ED Clips
+https://youtu.be/E-yc0geBGX0
+
+iOS DEV Do This To Make Business Logic Easier To Implement & Test  ED Clips
+https://youtu.be/DUfHqhxBuzs
+
+iOS DEV Do You Know How The MVP Pattern Works  ED Clips
+https://youtu.be/xsmMTJDQjWY
+
+iOS DEV Do You Know The Negative Effects Of The Ambient Context Anti-Pattern  ED Clips
+https://youtu.be/sQrQkc9dNIY
+
+iOS DEV Don't Leak Implementation Details In Use Cases and Models  ED Clips
+https://youtu.be/iwDIDFrYPfg
+
+iOS DEV How to solve the infinite navigation memory increase problem  ED Clips
+https://youtu.be/A5luyMJ0sKY
+
+iOS DEV NSNotificationCenter - Is It Obsolete  ED Clips
+https://youtu.be/jwIQFgIMcGY
+
+iOS DEV Pay Attention To This When Conforming To Codable  ED Clips
+https://youtu.be/tEO_yorRNp8
+
+iOS DEV Reuse SwiftUI views to keep the app branding consistent  ED Clips
+https://youtu.be/zquvI6K1A7g
+
+iOS DEV Should TableViewCells make remote requests directly  ED Clips
+https://youtu.be/2S3owdSScX4
+
+iOS DEV Should You Reuse View Models Across Platforms or not   ED Clips
+https://youtu.be/VyIDJDX1NTA
+
+iOS DEV This Is A Great Way To Speed Up CI  ED Clips
+https://youtu.be/tfWPukF0I5U
+
+iOS DEV This Is How A Simple Completion Handler Test Can Prevent a Very Common Bug  ED Clips
+https://youtu.be/fTXEDoKP32U
+
+iOS DEV This Is How To Eliminate Boilerplate With MVVM  ED Clips
+https://youtu.be/cGcEIvhz24s
+
+iOS DEV This Is How You Can Make Types Private And Still Use Them From Other Modules  ED Clips
+https://youtu.be/-mzLWZplUAY
+
+iOS DEV What is the first step when building a new application  ED Clips
+https://youtu.be/JG6Vso9_GYE
+
+iOS DEV What To Do If You Don't Know An Answer In An Interview  ED Clips
+https://youtu.be/7ewPsUIr5VQ
+
+iOS DEV What To Do When You Disagree With The Interviewer  ED Clips
+https://youtu.be/5XcuX7A7qS8
+
+iOS DEV What's Presentation Logic  ED Clips
+https://youtu.be/So-gIqRWjOI
+
+iOS DEV What's The Best Way Of Dealing With Threads And Queues  ED Clips
+https://youtu.be/N7dl-BI4Cgk
+
+iOS DEV What's The Enemy Of Concurrency  ED Clips
+https://youtu.be/S6kZOdCmfYU
+
+iOS DEV Why Decouple Business Logic From CoreData, RxSwift & Other Frameworks  ED Clips
+https://youtu.be/UzpWDzAwke4
+
+iOS DEV Why Do We Need Threads  ED Clips
+https://youtu.be/l0W90ssywT8
+
+iOS DEV Writing tests after Try this process to validate your solution  ED Clips
+https://youtu.be/LU1W3DHNP6M
+Videos 101-125

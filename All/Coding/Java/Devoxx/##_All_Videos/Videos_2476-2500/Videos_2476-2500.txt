@@ -1,0 +1,76 @@
+
+$HOME Sweet $HOME by Xavier Mertens
+https://youtu.be/wQfaKLD_JhM
+
+A quick introduction to AWS Lambda by Oliver Geisser
+https://youtu.be/c9HgOwCziBU
+
+Asynchronous programming in Java 8 how to use CompletableFuture by José Paumard
+https://youtu.be/HdnHmbFg_hw
+
+Bridging the communication gap can tools help Elke SteegmansMieke Kemme
+https://youtu.be/-83R_RnGDg8
+
+Bringing handwriting recognition to your webapp with a Polymer component
+https://youtu.be/AdIbMvf6x6c
+
+Caching 101 Caching on the JVM (and beyond) by Alex SnapsLouis Jacomet
+https://youtu.be/HtrU07c17JQ
+
+Dive into Spark Streaming by Gerard Maas
+https://youtu.be/mgvYg-0OXkU
+
+Docker Container Lifecycles – Problem or Opportunity by Baruch Sadogursky
+https://youtu.be/-ApAPoxxaaw
+
+Dockerize user stories with Mayfly by Maarten Dirkse
+https://youtu.be/cHU8yEV8FwQ
+
+Doing Open Source (The Right Way) by Charles Nutter
+https://youtu.be/wDMO8Gsg1Ow
+
+Drone Racing The next big thing by Nick PuylaertStefan De JonckGillian Van de Perre
+https://youtu.be/1_1grgyzook
+
+fabric8 - Java developer tools for Kubernetes and OpenShift by Roland Huß
+https://youtu.be/DCQ9SEdteHs
+
+Good and Wicked Fairies, and the Tragedy of the Commons by Maurice NaftalinKirk Pepperdine
+https://youtu.be/uIHskJc0X8I
+
+Hands-on with JMH, become a benchmarking expert in 30 minutes! by Tom Vleminckx
+https://youtu.be/Bi0E7w1ZFFA
+
+How you can play a part in evolving Java by Patrick Curran
+https://youtu.be/9VgcnQZRZvU
+
+HTTP2 for the Web developer by Brian Clozel
+https://youtu.be/ssp1ve_A1to
+
+Java 8 Stream and RxJava comparison patterns and performances by José Paumard
+https://youtu.be/fabN6HNZ2qY
+
+Java on mobile, finally by Johan Vos
+https://youtu.be/maF1oHZrcK0
+
+JRuby 9000 by Charles Nutter
+https://youtu.be/1t4iu7tefi4
+
+Let's have 100 phones connected to a cinema multi-player game by Ernest Micklei
+https://youtu.be/uHJ0KxAM-KU
+
+Managing Docker containers in a cluster - introducing Kubernetes by Marc Sluiter
+https://youtu.be/2G-A6Knjrvo
+
+Modern Java Component Design with Spring 4.2 by Juergen Hoeller
+https://youtu.be/Innj76v7TxI
+
+Modern JavaScript debugging Christophe Jollivet
+https://youtu.be/mfcantzLOCA
+
+Reflection No Reflection by Stéphane Nicolas
+https://youtu.be/TJ3CgQOSE94
+
+TCP UDP Que – Fundamentals that were abstracted away from us by Hadi Hariri
+https://youtu.be/cTKQAe4DN6g
+Videos 2476-2500

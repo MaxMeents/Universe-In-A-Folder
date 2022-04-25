@@ -1,0 +1,76 @@
+
+AutoHotkey Podcast #48 AutoIt vs AutoHotkey Which one you should use and why
+https://youtu.be/qNaicaqm3Fw&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 030 Gender and Programming
+https://youtu.be/HRUQ8LQ_DQ4&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 031 Show and tell programming with AutoHotkey
+https://youtu.be/dbYY5iFPJH4&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 032 Security and plain text files to store sensitive data
+https://youtu.be/tC4jiaLpGnE&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 033 SetTimer and mimicking multithreading
+https://youtu.be/mUmBmVwEkJk&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 034 Virtual Desktops
+https://youtu.be/jvOq2YzsuZA&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 035  UI Automation
+https://youtu.be/yJmpNuic7bQ&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 036 Digital Worker
+https://youtu.be/K__xo66xHtA&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 037 Default Settings
+https://youtu.be/mTGvrCj9T2A&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 038 How much time spend Scripting
+https://youtu.be/pYwNUhzyn98&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 039 How do people think about computers
+https://youtu.be/ru4OHZfthwg&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 040 UI Path at Work
+https://youtu.be/CAWUMwW183I&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 041 Systems so Ordinary People can do Extraordinary Things
+https://youtu.be/02k8lxX0Ydg&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 042 Have Expert Systems Not Expert People
+https://youtu.be/dzdH1Z3it4A&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 043 Automating writing API syntax by monitoring Fiddler traffic
+https://youtu.be/0I3XJkxwgas&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 044 Convincing your boss to let you automate
+https://youtu.be/GCqsAUkINRY&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 045 How to document your savings
+https://youtu.be/spVAm3QUIrI&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 046 When to create GUI
+https://youtu.be/K9ZlFRSm8hA&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 047 Writing PseudoCode
+https://youtu.be/fwAMYaUR6Wk&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 049 XMLHTTPRequest instead of Webscraping
+https://youtu.be/5vb1GPS2ELs&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 051 Using Metrics to get adoption
+https://youtu.be/GjB-q-rRYTc&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 052 Automation Anywhere Ad
+https://youtu.be/qzrkaryRrKg&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 053 AutoHotkey Podcasts Year In Review
+https://youtu.be/j2hOQSn50Dw&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 054  Corona virus and the Future of the world
+https://youtu.be/UcxIJg-f1o8&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+AutoHotkey Podcast 055 Adapting OCR to not require File
+https://youtu.be/8mkGe2PnWNs&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+Videos 51-75

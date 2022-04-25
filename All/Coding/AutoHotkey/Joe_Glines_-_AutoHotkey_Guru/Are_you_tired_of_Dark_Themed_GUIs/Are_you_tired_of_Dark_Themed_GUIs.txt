@@ -1,0 +1,13 @@
+
+AutoHotkey webinar Oct2021-Hour 2  Dark Styles and V2
+https://youtu.be/6Q7cu5EiWzE&list=PL3JprvrxlW25m9avkYcHfGYp5yfj7_Z4f
+
+How to easily Apply Styles to AHK GUIs - throw some lipstick on them!
+https://youtu.be/hqdMuRK-KOw&list=PL3JprvrxlW25m9avkYcHfGYp5yfj7_Z4f
+
+Live AutoHotkey Support
+https://youtu.be/VSuRV5V7GXw&list=PL3JprvrxlW25m9avkYcHfGYp5yfj7_Z4f
+
+Various ways to make  Dark Themed GUIs in AutoHotkey
+https://youtu.be/bxt5JY0KQHs&list=PL3JprvrxlW25m9avkYcHfGYp5yfj7_Z4f
+Are you tired of Dark Themed GUIs

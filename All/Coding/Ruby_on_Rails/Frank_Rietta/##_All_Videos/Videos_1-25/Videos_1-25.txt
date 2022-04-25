@@ -1,0 +1,76 @@
+
+A Decade under the Influence  [of Writing Ruby on Rails] -  Luigi Montanez
+https://youtu.be/8M498f0eZTI
+
+ActiveJob, in Rails 4.2, with Loren Norman
+https://youtu.be/QCMZivctbvw
+
+Amelia Bedelia Learns to Code with Kylie Stradley
+https://youtu.be/mUU3YSrZuf4
+
+Bsides Asheville - Saturday, June 27, 2015
+https://youtu.be/ma7PPDwvuTA
+
+BSides Asheville Security Conference - Sunday, June 28, 2015
+https://youtu.be/wVUQmy0QDUA
+
+Building with Action Cable - Part II  - Garett Arrowood
+https://youtu.be/rKtlMQGbqbk
+
+Elixir for Rubyists with J  Paul Daigle
+https://youtu.be/A_YnwR4CoFw
+
+GDPR on Rails The Working Rubyist’s Briefing on Designing for Security, Privacy, and Consent
+https://youtu.be/rk0J4LNwUYA
+
+Getting Answers to Your Testing Questions Josh Justice
+https://youtu.be/fXlLbhuIc34
+
+How Processors Work  -  Sam Phippen
+https://youtu.be/PYUqiL7GrcU
+
+Industrial Control Systems What you should know
+https://youtu.be/dLh-Fp3RI_o
+
+Introduction to Action Cable with Rails 5 by Garett Arrowood
+https://youtu.be/BncSpSO-KBM
+
+Keep it Secret…Keep it Safe…in the Cloud   Pat O'Neil
+https://youtu.be/iM7LRZxCXQQ
+
+Our ATLRUG.com Web Site - Al Snow
+https://youtu.be/MvhxKh8z35I
+
+Overcoming the Challenges of Mentoring with Kim Crayton
+https://youtu.be/Qx4PDQjfY_Y
+
+Passive Record Overview with  Joseph Weissman
+https://youtu.be/-GBeDgNOGwc
+
+Patch Production Now! presented by Frank Rietta
+https://youtu.be/K7auNip8GeM
+
+Ruby Careers Panel with Cecili Reid, Dave Kimura, and Garett Arrowood
+https://youtu.be/9rUDvGJy0tw
+
+Ruby Tech Stack Panel with Randy Etheredge, Chris Altman, and Jonathan Manuzak HD 1080p
+https://youtu.be/XACnoP0yAgg
+
+Running Ruby on Docker - David Dollar from Convox
+https://youtu.be/G1xpFn6aF_c
+
+Testing a JSON API using Inheritance with Blake Chambers
+https://youtu.be/PbuzPhO9WdA
+
+Tired of REST An Intro to GraphQL with David Lormor
+https://youtu.be/6QIV7Oy88Ws
+
+WebRTC Real Time Video & Audio for Your App - Riaz Virani
+https://youtu.be/kC12enYIBKE
+
+WordPerfect 6.0, Turbo C++ 3.1, and Visual Basic 3 in Windows 3.11 on QEMU in Linux!!!
+https://youtu.be/G0Pi-_oB0XQ
+
+WrenchMode - Making Downtime Suck a Little Less - by Micah Wedemeyer
+https://youtu.be/FUVDVphhIJA
+Videos 1-25

@@ -1,0 +1,25 @@
+
+
+/All/Coding/Golang/GopherCon_UK/##_All_Videos/##_All_Videos.txt
+
+
+/All/Coding/Golang/GopherCon_UK/###_All_Playlists_Below/###_All_Playlists_Below.txt
+
+
+/All/Coding/Golang/GopherCon_UK/Golang_UK_Conference_2015/Golang_UK_Conference_2015.txt
+
+
+/All/Coding/Golang/GopherCon_UK/Golang_UK_Conference_2016/Golang_UK_Conference_2016.txt
+
+
+/All/Coding/Golang/GopherCon_UK/Golang_UK_Conference_2017/Golang_UK_Conference_2017.txt
+
+
+/All/Coding/Golang/GopherCon_UK/GopherCon_UK_2018/GopherCon_UK_2018.txt
+
+
+/All/Coding/Golang/GopherCon_UK/GopherCon_UK_2019/GopherCon_UK_2019.txt
+
+
+/All/Coding/Golang/GopherCon_UK/GopherCon_UK_2021/GopherCon_UK_2021.txt
+GopherCon UK

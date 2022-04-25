@@ -1,0 +1,76 @@
+
+Building NextGen IoT solutions using Python and Cloud - PyCon India 2015
+https://youtu.be/QEqYUFCPN6s
+
+Building Offensive Web Security Framework in Python - PyCon India 2015
+https://youtu.be/KF60itcTQTA
+
+Consuming Government Data with Python and D3 - PyCon India 2015
+https://youtu.be/u386R-bNgf4
+
+Create flexible Neuroimaging pipelines using nipype - PyCon India 2015
+https://youtu.be/dOWVKtZynas
+
+Creating, deployment & customizing Linux VMs on Azure with Python - PyCon India 2015
+https://youtu.be/2DoN4kCS7J8
+
+Discussion on Building and Running Communities - PyCon India 2015
+https://youtu.be/IWHH6c3wZVQ
+
+Education Education Education - Keynote By Nicholas H.Tollervey - PyCon India 2015
+https://youtu.be/Q3kXXtlviiM
+
+How to build micro services using ZeroMQ and WSGI - PyCon India 2015
+https://youtu.be/98AKS-aMi0g
+
+Introduction and Keynote - Ajith Kumar - PyCon India 2015
+https://youtu.be/bDbXUAOIo4w
+
+Lightning Talk - Import Python - PyCon India 2015
+https://youtu.be/1DHSsMj7RZo
+
+Lightning Talk - Klonio - PyCon India 2015
+https://youtu.be/uZ2X7fyluGU
+
+Lightning Talk - Pani - PyCon India 2015
+https://youtu.be/Gqvn2V1UF4M
+
+Lightning Talk - PyDelhi & Dgplug - PyCon India 2015
+https://youtu.be/RW8A_alJQco
+
+Lightning Talk - SymPy - PyCon India 2015
+https://youtu.be/E5hSvojqBzU
+
+Pretty printing in Python - PyCon India 2015
+https://youtu.be/9OxWgyjlDmQ
+
+Python and Riak DB, a perfect couple for huge scale distributed computing - PyCon India 2015
+https://youtu.be/NAwFrYcAY8Y
+
+REST APIs - What, Why and How - PyCon India 2015
+https://youtu.be/-W5GVW4Vwlw
+
+Simple Hacks to Make Your Django Website Faster - PyCon India 2015
+https://youtu.be/XVv_z5q4MC8
+
+Solving Logical Puzzles with Natural Language Processing - PyCon India 2015
+https://youtu.be/LSQpWZlKAaA
+
+Sponsored - Build Python Web Apps in a breeze with Visual Studio - PyCon India 2015
+https://youtu.be/AILMP-5XhbM
+
+Sponsored - Python in Enterprise - Part2 - ZeOmega - PyCon India 2015
+https://youtu.be/LeuQ409r1hg
+
+Sponsored - Python in Enterprise - ZeOmega - Part1 - PyCon India 2015
+https://youtu.be/CGF6rklyV88
+
+Sponsored - Revolutionizing e-commerce using hyper-local way - Zopper- PyCon India 2015
+https://youtu.be/JffTjK2Hkl0
+
+Sponsored - Technology Stack @ Goibibo - PyCon India 2015
+https://youtu.be/rizc12Tuw-I
+
+Test Driven Development with Ansible - PyCon India 2015
+https://youtu.be/c21VnhhQYNQ
+Videos 251-275

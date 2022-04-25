@@ -1,0 +1,76 @@
+
+Pycon Ireland 2018 Adding the three pillars of Observability to your Python app - Eoin Brazil
+https://youtu.be/dRpiFMd2EOU&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 An Idiots Guide to (Open) Data Science - Andrew Bolster
+https://youtu.be/he78D6jwmxE&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Asynchronous programming in Python - Mikhail Medvedev
+https://youtu.be/Xupl1Y44q9U&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Building a Fine Grained Image Classification System- Fergal Walsh
+https://youtu.be/gjic6QgYbeI&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Django APIs, Versioning and You - Rebecca Martin
+https://youtu.be/uVzZRjzIUjo&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Finite State Machines in Python - Brian Stempin
+https://youtu.be/1WIrc6b6Avc&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Functional Programming for Data Science - Neal Ó Riain
+https://youtu.be/qG5nov7OHn0&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 High Performance Data Processing in Python - Donald Whyte
+https://youtu.be/oHfaw9S8kuw&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Keynote Coding for Pleasure - Miguel Grinberg
+https://youtu.be/4rTXuCDAIL4&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+PyCon Ireland 2018 Keynote Python in Education - Dr. Brett Becker & Keith Quille
+https://youtu.be/UUlakKCbSG8&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Leaving Certificate Computer Science & Python - Stephen Murphy
+https://youtu.be/BZIlM34ERIs&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Machine Translation with Keras - Bojan Bozic
+https://youtu.be/c0AVGS3msXc&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+PyCon Ireland 2018 More Than You Ever Wanted To Know About Python Functions - Mark Smith
+https://youtu.be/sqJEjom8ky4&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Patient Data Made Real - Lorenzo Trojan
+https://youtu.be/nSsEOpjirtQ&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Powering up your Python web applications - Allyn Hunt
+https://youtu.be/qxecAsMm-4w&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Prediction of risk factors for stroke - Olga Lyashevska
+https://youtu.be/vjofOCCxAO4&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Profiling Find the Squeaky Wheel - Nick Timkovich
+https://youtu.be/fLtRogRgifI&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Programming by poking some experiences in teaching with Python - Ben Fagan
+https://youtu.be/bwfy_dEyAgU&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+PyCon Ireland 2018 Publish a (Perfect) Python Package on PyPI - Mark Smith
+https://youtu.be/eZef6bywIdo&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Python as a tool for research - Dr Suzanne Little
+https://youtu.be/8VtAbWQTWTU&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+PyCon Ireland 2018 Python on Windows is Okay, Actually - Steve Dower
+https://youtu.be/ybV2pH8fiDU&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Testing python security - Jose Manuel Ortega
+https://youtu.be/myqZiiKyiRg&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+PyCon Ireland 2018 Visualisation in Python - Shane Lynn (Duplicate)
+https://youtu.be/Zns72AYHxNU&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+Pycon Ireland 2018 Visualisation in Python - Shane Lynn
+https://youtu.be/3IVZRaPMupo&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+
+PyCon Ireland 2018 What is new in Python 3.7 - Stephane Wirtel
+https://youtu.be/FtSydJBHSoQ&list=PLNeBS51Q0m9-9-nj2oiHED3s07ruDOYct
+Videos 1-25

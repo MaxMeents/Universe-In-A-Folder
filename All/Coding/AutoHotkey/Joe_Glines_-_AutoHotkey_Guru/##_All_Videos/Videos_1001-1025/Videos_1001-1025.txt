@@ -1,0 +1,70 @@
+
+ClipShare Intro - Explanation
+https://youtu.be/sd6tOaYtiv8
+
+Compare Sets
+https://youtu.be/lkaPA2T3kNU
+
+Control Placements in AutoHotKey GUIs
+https://youtu.be/goSdcdKOC1w
+
+Creating Relational Table in Engage via API call
+https://youtu.be/YdT_jWacmOM
+
+Easily Compare lists  comparing sets Sets with AutoHotkey
+https://youtu.be/d00IjdTR7mc
+
+Easy automation of sales emails with Excel and Outlook
+https://youtu.be/ZHlRwjpp440
+
+Hiding - Unhiding icons in system tray
+https://youtu.be/JsN7G4Uf0eA
+
+How to create an HTML email with Outlook and AutoHotKey
+https://youtu.be/yzxlpZFayiY
+
+How to Debug with SciTE Part 2  A deeper dive into debugging AutoHotkey code with SciTE4AutoHotkey
+https://youtu.be/9s_awT4n8AM
+
+How to easily split text into separate cells in Excel
+https://youtu.be/Fkm3m4Wnqb0
+
+How to Set values & click links with IE and AHK  Webs craping with AutoHotKey 102
+https://youtu.be/Q8C1wysJvAE
+
+How to use SciTE messages to control SciTE with AutoHotkey
+https://youtu.be/upPtaEghnRM
+
+HTML - URL Testing & Validation tool
+https://youtu.be/2uCY-wHuAAg
+
+Prospector and Autocomplete API
+https://youtu.be/lt_xRM44X-0
+
+replace unicode characters with HTML equivalent
+https://youtu.be/krVmxXy0zns
+
+Screen clipping and various uses
+https://youtu.be/eVfxrLZkDR0
+
+Squirrly WordPress SEO plugin
+https://youtu.be/lxBVpn9KRUY
+
+Use Webscraping to transfer between systems  browser Automation
+https://youtu.be/4oM_FR_ZmZ4
+
+WebScraping with Autohotkey 101-Pointer and getting values from page
+https://youtu.be/UfqumFBUrwI
+
+Webscraping with AutoHotkey 103-Isolating sections and taking advantange of DOM
+https://youtu.be/gBTFNcv87cU
+
+Webscraping with AutoHotkey 104-Frames
+https://youtu.be/p_f3g2rt2Tw
+
+Webscraping with AutoHotKey 105- trouble shooting Webscraping
+https://youtu.be/EsK25d7L3Ng
+
+Webscraping with AutoHotkey 106- Looping over pages
+https://youtu.be/VStIg7T9hHg
+Videos 1001-1025

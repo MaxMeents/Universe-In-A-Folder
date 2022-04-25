@@ -1,0 +1,16 @@
+
+Azure Kubernetes Service (AKS) for Beginners  Full Stack Virtual Conference
+https://youtu.be/CQGaX7wgj30&list=PLEy5IbO-F1-kUn37R0N1DUo16C-yc-Vna
+
+Cloud Native App Development using Azure Functions  Full Stack Virtual Conference
+https://youtu.be/_X6rPCtCDMg&list=PLEy5IbO-F1-kUn37R0N1DUo16C-yc-Vna
+
+Create Smart Angular Apps Using Azure Computer Vision   Full Stack Virtual Conference
+https://youtu.be/heIrY4QKIds&list=PLEy5IbO-F1-kUn37R0N1DUo16C-yc-Vna
+
+Full Stack .Net Architecture  Full Stack Virtual Conference
+https://youtu.be/2JZSssvLMZo&list=PLEy5IbO-F1-kUn37R0N1DUo16C-yc-Vna
+
+Managing Resiliency in Microservices  Full Stack Virtual Conference
+https://youtu.be/DTFvQqQBN2c&list=PLEy5IbO-F1-kUn37R0N1DUo16C-yc-Vna
+Full Stack Virtual Conference

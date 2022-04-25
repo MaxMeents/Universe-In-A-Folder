@@ -1,7 +1,0 @@
-
-Location Sharing Using Firebase And Core Location With SwiftUI Part 1 - Location Sharing In SwiftUI.url
-https://youtu.be/wsGZCQHcJpg&list=PLimqJDzPI-H8XRe5E6b9rp_L5gPw0KHGc
-
-Location Sharing Using Firebase And Core Location With SwiftUI Part 2 - Location Sharing In SwiftUI.url
-https://youtu.be/gEJcB1LpxO8&list=PLimqJDzPI-H8XRe5E6b9rp_L5gPw0KHGc
-Location Sharing Using Firebase And Core Location With SwiftUI

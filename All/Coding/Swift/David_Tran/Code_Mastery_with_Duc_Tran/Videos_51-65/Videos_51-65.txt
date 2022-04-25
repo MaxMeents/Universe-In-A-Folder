@@ -1,0 +1,46 @@
+
+ALAMOFIRE BUILD WEATHER APP WITH REST API, JSON AND ALAMOFIRE IN iOS WITH SWIFT
+https://youtu.be/sd7d4eoM54U&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+Auto Layout Tutorial in Xcode with Swift for iOS 11  iOS Development Tutorial
+https://youtu.be/synofzEkUfU&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+BUILD SNAPCHAT CAMERA IN iOS WITH SWIFT - AVKIT AND AVFOUNDATION
+https://youtu.be/EC1pZOXctV0&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+Build Twitter with REST API and JSON (Search and Fetch New Tweets from Twitter)
+https://youtu.be/pRmaafIgIjA&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+Draw Directions on Map  MapView, MapKit in iOS with Swift
+https://youtu.be/rmafKbCHKe0&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+FACEBOOK NEWSFEED PT 1 Set up UICollectionView Programmatically
+https://youtu.be/_i3hkxihI3s&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+FACEBOOK NEWSFEED PT 2 UILABEL, UIIMAGEVIEW, UITEXTVIEW AND COLLECTION VIEW IN CODE
+https://youtu.be/aXgDp-NB-Ho&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+FIREBASE iOS TUTORIAL - BUILD TWITTER USING FIREBASE
+https://youtu.be/53EFuMPX-44&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+FIREBASE TUTORIAL UPLOAD AND DOWNLOAD PHOTOS LIKE A SOCIAL NETWORK APP
+https://youtu.be/Lt1NGrWEMMQ&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+Introduction to MapKit, MKMapView, Core Location and Annotation  Parse JSON with SwiftyJSON
+https://youtu.be/EbQzvwo7Z88&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+Parse XML in iOS with Swift - Build a RSS News Reader App
+https://youtu.be/fP69LI5bZlg&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+REST API & JSON TUTORIAL BUILD iTUNES STORE SEARCH APP
+https://youtu.be/2u1yQiGz1cI&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+REST API and JSON in iOS Build Weather App with REST API and Parse JSON in iOS
+https://youtu.be/LEFsK9mUwAE&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+SLIDE OUT MENU WITH UIScrollView in iOS with SWIFT
+https://youtu.be/kKQcFMQwAr4&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+
+SWIFT PROGRAMMING TUTORIAL OPTIONAL CHAINING PT 44
+https://youtu.be/xNPx64gw8I0&list=PLHmNdpdzx21G3QwhJdy_O3UHuBYBnHhrs
+Videos 51-65

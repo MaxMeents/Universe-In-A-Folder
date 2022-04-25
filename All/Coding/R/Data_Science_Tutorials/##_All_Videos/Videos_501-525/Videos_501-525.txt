@@ -1,0 +1,76 @@
+
+Creating First Chart in Plotly Dash  Plotly Dash Tutorial Part -3
+https://youtu.be/QJPN2J_KGXI
+
+Creating Real time chart form Pandas Dataframe in Plotly Dash  Plotly Dash Tutorial Part -8
+https://youtu.be/WZERgVGUoIk
+
+How to Create a Dropdown Selector Component in Dash  Plotly Dash Tutorial Part -9
+https://youtu.be/22L_bXTj2Dw
+
+How to Create Scatter Plot in Plotly Dash  Plotly Dash Tutorial Part -7
+https://youtu.be/LtmdwkprcEk
+
+How to efficiently code the parameters values in dash  Plotly Dash Tutorial Part -6
+https://youtu.be/Jx2rW4xvqcM
+
+How to Explore Various Dash Dropdown Properties  Plotly Dash Tutorial Part -10
+https://youtu.be/071GQN4SkSc
+
+How to Format Layout of Chart in Dash   Plotly Dash Tutorial Part -5
+https://youtu.be/hCRo_AXzZkU
+
+How to take help related to Plolty Dash components  Plotly Dash Tutorial Part -2
+https://youtu.be/grwcdwOayzM
+
+Introduction to Plotly Dash Web Application Development Framework  Plotly Dash Tutorial Part -1
+https://youtu.be/Ma8tS4p27JI
+
+Plotly Data Visualization in Python  Part 11  Creating a group bar chart in Plotly
+https://youtu.be/g9Ig2dGh3BM
+
+Plotly Data Visualization in Python  Part 12  how to create a stack bar chart in plotly
+https://youtu.be/8HIbTviNIBw
+
+Plotly Data Visualization in Python  Part 13  how to create bar and line combo chart in Plotly
+https://youtu.be/AQG4RQolUC8
+
+Plotly Data Visualization in Python  Part 14  How to customize colors in plotly charts
+https://youtu.be/Z8XMKluPLLg
+
+Plotly Data Visualization in Python  Part 15  How to Create Plolty Bubble Chart
+https://youtu.be/dwBkTbyHWY4
+
+Plotly Data Visualization in Python  Part 16  How to create plotly bubble chart by categories
+https://youtu.be/Uu2mfzWajQY
+
+Plotly Data Visualization in Python  Part 17  Histogram in Plotly
+https://youtu.be/LYpiQX_z7EE
+
+Plotly Data visualization in Python  Part 18  Box Plot chart in Plotly
+https://youtu.be/AwtQ7vJg0-o
+
+Plotly Data Visualization in Python  Part 19  How to create scatter plot matrix in plotly
+https://youtu.be/QVQj13dcZJk
+
+Plotly Data Visualization in Python  Part 20  How to add dimension to scatterplot matrix in plotly
+https://youtu.be/DU0QTfDtBj8
+
+Plotly Data Visualization in Python - Part 10  How to Create a bar chart in Plotly
+https://youtu.be/oM8NV-y6wmE
+
+Plotly Python - Adding points to Plotly line chart Plotly Python data visualization 
+https://youtu.be/4SCPGCZQpJ0
+
+Plotly Python - Plotly Automate multiple lines on the line chart  Plotly Python data visualization
+https://youtu.be/L6MBqKebMr0
+
+Plotly Python - Plotly Line chart  Plotly Python data visualization
+https://youtu.be/WPhU4kF-52A
+
+Plotly Python - Plotly multi line chart Plotly Python data visualization
+https://youtu.be/pfhBbJ2MnMI
+
+Styling up the Text in Dash  Plotly Dash Tutorial Part -4
+https://youtu.be/fNh8HanC4QY
+Videos 501-525

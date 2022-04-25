@@ -1,0 +1,76 @@
+
+A path to multi(arbitrary)-precision, distributed scientific computation with Python3.
+https://youtu.be/LTFslxbZ26g
+
+Auckland Python Users Group 2016-07-20 - Arthur Roberts
+https://youtu.be/M-eYKYpOOFA
+
+Auckland Transport APIs
+https://youtu.be/vkkR0xRZBBg
+
+await kittens()
+https://youtu.be/RMdb9FWO4S4
+
+Bluetooth Low Energy
+https://youtu.be/_PB52uaptOc
+
+Brainstorm your own Artificial Neural Network in Python
+https://youtu.be/beHz9jX89b0
+
+Deciding between continuity and change in your Open Source communtiy
+https://youtu.be/P0BOoOvago8
+
+Ethics in the early days politics and the computing profession
+https://youtu.be/NzjuhUOejNs
+
+Golang for Python Devs
+https://youtu.be/AVxosSFzq5s
+
+Graphing when your Facebook friends are awake
+https://youtu.be/NbUHff78Av8
+
+Hear no evil, see no evil, patch no evil Or, how to monkey-patch safely.
+https://youtu.be/GCZmGgtWi3M
+
+Leveraging Python to Automate GIS Processes and Provide Extended Analytical Capabilities
+https://youtu.be/Fmtofk8t2dg
+
+Lightning Talks Friday
+https://youtu.be/fOrYeUaOez4
+
+Making randomly generated guitar effect patches that don't sound terrible
+https://youtu.be/0diL8vWlffA
+
+Making the web go fast with jelly snakes and raspberry twizzlers
+https://youtu.be/D80XFVNCGLM
+
+Middle-Out Python Development
+https://youtu.be/hXIAA8F8aPE
+
+More testing with fewer tests
+https://youtu.be/6x1uoakCAlU
+
+Practical Python Async for Dummies
+https://youtu.be/5_K8GwZ_268
+
+Some 10,000ft views of DNA Sequence Data using Python and R
+https://youtu.be/pdjlUNDeTnw
+
+SSL all the things
+https://youtu.be/0J7NuKjBL7Y
+
+The dangerous, exquisite art of safely handing user-uploaded files
+https://youtu.be/0c5rqL8gPbk
+
+The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨
+https://youtu.be/3afcBEz6CzA
+
+Universal Second Factor authentication, or why 2FA today is wubalubadubdub
+https://youtu.be/Mxk3ueCkZG8
+
+Use Workflow-as-a-Service without writing python code
+https://youtu.be/pLV_JQVTn2g
+
+Warpdrive, making Python web application deployment magically easy.
+https://youtu.be/y_vwvqgRZK0
+Videos 51-75

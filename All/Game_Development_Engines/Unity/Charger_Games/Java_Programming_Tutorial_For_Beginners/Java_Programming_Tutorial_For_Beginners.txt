@@ -1,0 +1,46 @@
+
+2. Downloading JDK & Eclipse setting up Path - Java Programming Tutorial For Beginners
+https://youtu.be/vE0WZvm-t90&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+3. Java Programming Tutorial For Beginners - Very First Java Program
+https://youtu.be/eD4cb3RR7NQ&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+7 . Java User Input in with Scanner - Java Programming Tutorial For Beginners
+https://youtu.be/bjlaC9--Jtc&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java For Beginners -  public static void main(String[] args) Detailed Explanation
+https://youtu.be/Xxtl04Lawes&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Programming - Learn Java Step By Step in One Hour
+https://youtu.be/kL7wRL9MBgo&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Programming Tutorial For Beginners - 1 - History and Features of Java
+https://youtu.be/8F-7uh78hiE&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Programming Tutorial For Beginners - 5 - Printing Texts in java with System.out
+https://youtu.be/hC32Gztjm3s&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Programming Tutorial For Beginners - 6 - Variables and Primitive data types in java
+https://youtu.be/rN15ztv-MVI&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 10 - If else Statements in Java
+https://youtu.be/jKCBlOj-ifc&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 11 - Logical Operators in Java( AND, OR ,NOT)
+https://youtu.be/ijgqEzYeZnk&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 12 - While loops in Java
+https://youtu.be/t3tcwdjMTKY&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 13 - For loops in Java
+https://youtu.be/DTgeNJySLZ0&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 14 - Do While loops in Java
+https://youtu.be/v7gylm-fFtU&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 8 - Comments in Java
+https://youtu.be/nZQIDDBYE_k&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+
+Java Tutorial For Beginners- 9 - Increment and Decrement Operators in Java
+https://youtu.be/tstycwKouOI&list=PLytjVIyAOSto3YDWS45gi7f6Owh5Qe9AR
+Java Programming Tutorial For Beginners

@@ -1,0 +1,76 @@
+
+ASTs for Beginners at Clevertech (February 2017)
+https://youtu.be/CFQBHy8RCpg
+
+Contributing to React JS
+https://youtu.be/wUpPsEcGsg8
+
+CSS in JS tech chat
+https://youtu.be/BXOF_8jDdf8
+
+ES6 and Beyond Workshop Part 1 at PayPal (Jan 2017)
+https://youtu.be/t3R3R7UyN2Y
+
+ES6 and Beyond Workshop Part 2 at PayPal (March 2017)
+https://youtu.be/eOKQDh50ECU
+
+ES6 Modules Standard and Syntax - JavaScriptKC meetup recording
+https://youtu.be/qi_rLTcXers
+
+ES6 Workshop (at The Strange Loop)
+https://youtu.be/dnF-wrw0Q_w
+
+ES6 Workshop @ Connect Tech 2016
+https://youtu.be/nCP6jsN9XPI
+
+ES6 workshop quizzes
+https://youtu.be/LlNGtPFK9OM
+
+Faster JavaScript (UtahJS Meetup)
+https://youtu.be/kI_OiAUFLkQ
+
+Help with ES6 workshop and about split-guide
+https://youtu.be/CSVOPw_5OT0
+
+JavaScript & React Testing with Jest
+https://youtu.be/i31VtyJSM-I
+
+JS@PayPal More than you want to know about ES6 Modules
+https://youtu.be/V0YQ0rnh-Hg
+
+More than you want to know about ES6 Modules @ Learn to Code Websites and Apps Meetup (remote)
+https://youtu.be/kTlcu16rSLc
+
+Open Collective Tech Chat
+https://youtu.be/f7VdzbHbl78
+
+React events in depth w Kent C. Dodds, Ben Alpert, & Dan Abramov
+https://youtu.be/dRo_egw7tBc
+
+React Workshop (At PayPal)
+https://youtu.be/e-A4qAwr9Tg
+
+React Workshop at PayPal 2016-12-13
+https://youtu.be/VZaQfb2y6BI
+
+Recording Egghead.io Jest videos
+https://youtu.be/VrSsx-B5tbU
+
+Safely map node_modules.bin to your PATH
+https://youtu.be/2WZ5iS_3Jgs
+
+Tech Chat Open Source Community Ideas
+https://youtu.be/i_mJ1dgxnoU
+
+Updating a Pull Request in the GitHub editor
+https://youtu.be/e41HPOHX9aE
+
+Use Babel to codemod your code
+https://youtu.be/Hn6Ca6gzNsw
+
+Webpack HMR
+https://youtu.be/PthDwpgrhmQ
+
+Why, What, and How of React Fiber with Dan Abramov and Andrew Clark
+https://youtu.be/crM1iRVGpGQ
+Videos 476-500

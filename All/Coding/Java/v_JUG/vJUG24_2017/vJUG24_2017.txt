@@ -1,0 +1,73 @@
+
+vJUG24 1024 G1GC by Kirk Pepperdine
+https://youtu.be/op6fsXRwa9w&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1124 The Diabolical Developer's Guide to JavaJVM Performance Tuning
+https://youtu.be/dYsboxvec4k&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1224 Polishing the Diamond Core Library Improvements in Java 9
+https://youtu.be/2cno9PcQyJg&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 124 The Art of Simplicity by Venkat Subramaniam
+https://youtu.be/NMTrlv4nQR8&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1324 20 Ways to Boost Your Developer Productivity
+https://youtu.be/kxkz8mYdBp0&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1424 Java on Mobile
+https://youtu.be/UvRaTX8Ut8M&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1524 Troubleshooting and Debugging Production Applications in Kubernetes
+https://youtu.be/VnC75JFGozI&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1624 The end of polling why and how to transform a REST API into a Data Streaming API
+https://youtu.be/6LT_OW73N2g&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1724 An Overview of Kotlin for Java Programmers
+https://youtu.be/lU_WJGhvoDs&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1824 HTTP2 and What it Means for the Java EE Ecosystem
+https://youtu.be/eF9TWxVwT5M&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 1924 Radically Reactive Web Apps with Eclipse Vert.x
+https://youtu.be/Ul9vSWKyXx8&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 2024 Front End Development for Back End Developers
+https://youtu.be/U27mjVrmwEM&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 2124 Reactive Spring
+https://youtu.be/XwFdZjDcf4c&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 2224 Analyzing and Visualizing topics with Graph
+https://youtu.be/30ffOzrNpag&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 224 Turbo Charge CPU Utilization in ForkJoin Using the ManagedBlocker by Heinz Kabutz
+https://youtu.be/xMLkbvtGjy0&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 2324 Making the Most of Your Gradle Build
+https://youtu.be/psweGFIPS30&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 2424 Your Serverless Cheatsheet - Getting the Best out of the Serverless Cloud
+https://youtu.be/pRoHzRFPGKg&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 324 Using Java 9 modules chances and challenges by Rafael Winterhalter
+https://youtu.be/P_wMeGx3RWI&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 424 JDK9, Reactive Streams & Akka Streams = Real World Awesome by Konrad Malawski
+https://youtu.be/0uTvB5z_w-I&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 524 Spring Boot and Kotlin, a match made in Heaven by Nicolas Frankel
+https://youtu.be/UHoLuTVX7mg&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 624 Testing Java Microservices by Andy Gumbrecht
+https://youtu.be/LTpWFppFSBM&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 724 Neural Networks WTF by Katharine Beaumont
+https://youtu.be/ZoXo4fLMigg&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 824 Continuous Delivery Patterns for the Modern Java Developer
+https://youtu.be/b9Fu1So0bXA&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+
+vJUG24 924 Java in the 21st Century are you thinking far enough ahead
+https://youtu.be/x9HlDCokQJc&list=PLH0XhbA5QShOvW4JP9DQMYGt_yYrhOC0x
+vJUG24 2017

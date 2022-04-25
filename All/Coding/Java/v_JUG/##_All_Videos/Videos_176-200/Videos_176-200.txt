@@ -1,0 +1,76 @@
+
+An Interview with Aditya and Arun Gupta
+https://youtu.be/aJFzV6EhVTI
+
+An Interview with Christopher Batey
+https://youtu.be/fQFsaJf7GTA
+
+An Interview with Gleb Smirnov
+https://youtu.be/p1N-KPxlmSw
+
+An Interview with Henry Coles
+https://youtu.be/m2crN33WoCA
+
+An Interview with Jonas Bonér
+https://youtu.be/KvdBwBJwAlM
+
+An Interview with Michael Hunger
+https://youtu.be/USl-nL3OUo0
+
+An Interview with Nitsan Wakart
+https://youtu.be/MtDSzkKgWWo
+
+An Interview with Richard Warburton and Raoul-Gabriel Urma
+https://youtu.be/61wuKO401uU
+
+An Interview with Trisha Gee
+https://youtu.be/awkCsB2d1fA
+
+Book Reading Club Java Design Pattern Essentials by Tony Bevis - Part 1
+https://youtu.be/3fR3DR5y9t8
+
+Book Reading Club Java Design Pattern Essentials by Tony Bevis - Part 2
+https://youtu.be/ReT3qBx71yE
+
+Flavors of Concurrency in Java
+https://youtu.be/UoKebad9UOk
+
+Generics Past, Present and Future
+https://youtu.be/wc9bKHuNh_8
+
+Getting CC++ performance out of Java
+https://youtu.be/88-szpeNfrU
+
+Getting Started with Minecraft Modding
+https://youtu.be/-fA9u9PHglw
+
+Interview with John Davies
+https://youtu.be/9QBwS5HNutY
+
+Java 8 in Anger
+https://youtu.be/6_06zcDisNg
+
+Java Concurrency Under the Hood
+https://youtu.be/H9CCFf6XgyQ
+
+Java Council Episode 8  Devoxx BE Special
+https://youtu.be/LDfwClvuhtY
+
+Java Profiling from the Ground Up!
+https://youtu.be/_6vJyciXkwo
+
+LIVE from JavaOne Java Council podcast, episode 7
+https://youtu.be/GQNDfAX_zFw
+
+Mutation testing with pitest
+https://youtu.be/nf2xpqcZouY
+
+Programming Language Development Made Easy
+https://youtu.be/Z-Dt-0odTIs
+
+Resilience is by Design
+https://youtu.be/gDbEGsFaRUQ
+
+Value in Relationships - How Graphs make databases fun again
+https://youtu.be/9tk6IJSNvlI
+Videos 176-200

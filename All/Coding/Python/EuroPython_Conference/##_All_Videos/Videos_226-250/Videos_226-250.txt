@@ -1,0 +1,76 @@
+
+Alexys Jacob - A deep dive and comparison of Python drivers for Cassandra and Scylla
+https://youtu.be/vWgTF5xnx8M
+
+Ben Nuttall - Tools for maintaining an open source Python project
+https://youtu.be/qgM2md7TsEA
+
+Bernat Gabor - Lessons from the Trenches rewriting and re-releasing virtualenv
+https://youtu.be/l9A0a8qZgOs
+
+Bhagvan Kommadi - Telehealth Platform  Python & Django powered
+https://youtu.be/RBERo-AFkDw
+
+Bojan Miletic - Django Testing on Steroid pytest + Hypothesis
+https://youtu.be/GBk02RntSVk
+
+Dustin Ingram - Static Typing in Python
+https://youtu.be/cmmPDYa0gWo
+
+Elias Mistler - How to write multi-paradigm code
+https://youtu.be/RHPFPhaLu58
+
+Europython 2020 -  Opening Session
+https://youtu.be/CvbQArKEFes
+
+Itamar Turner-Trauring - Best practices for production-ready Docker packaging
+https://youtu.be/H0UPw-ILiz4
+
+Jason McDonald - Writing Zenlike Python
+https://youtu.be/ZHY5SCBckwg
+
+Jeffrey Mew - Supercharge your Data Science workflow with Notebooks, VS Code, and Azure
+https://youtu.be/Tyvg0LOwd5o
+
+Jessica McKellar - Python in Prison how open source can change a criminal justice system
+https://youtu.be/H7oZuz0bc1w
+
+Lorenzo Peña - Yet another package for multi-tenancy in Django
+https://youtu.be/eYpcPJaE19I
+
+Martin Christen - pyRT - Computer Graphics in Jupyter Notebooks for Fun and Teaching
+https://youtu.be/bjFkuPXMmEc
+
+Mikhail Medvedev - Extending Python with Rust
+https://youtu.be/hqFjJP5L-mk
+
+Miroslav Šedivý - Your Name Is Invalid!
+https://youtu.be/IuZBTjaphsY
+
+Neeraj Pandey - The Joy of Creating Art with Code.
+https://youtu.be/bjzPkhYmtOg
+
+Nicholas Tollervey - How to Run a Corridor Track in a Remote Conference with Python
+https://youtu.be/0FC5T396NVk
+
+Olga Matoula - Social distancing from your system’s dependencies An API’s Story
+https://youtu.be/sgGOqb85VSU
+
+Paolo Melchiorre - A pythonic full-text search
+https://youtu.be/4DP0eKp2-nE
+
+Philip Jones - An ASGI Server from scratch
+https://youtu.be/FNBxYyeti-s
+
+Radosław Ganczarek - The joy of deleting code
+https://youtu.be/Ly-JNvmc34U
+
+Roberto Polli - Extending HTTP for fun and non-profit
+https://youtu.be/FoD3CCGUXrQ
+
+Szymon Pyżalski - Full Stack Type Safety
+https://youtu.be/hAzg2iBe6cg
+
+Yenny Cheung - Creating an inclusive team culture in times of change
+https://youtu.be/PKjxIXGKI0w
+Videos 226-250

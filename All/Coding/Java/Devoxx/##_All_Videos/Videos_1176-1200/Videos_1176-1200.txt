@@ -1,0 +1,76 @@
+
+Algorithms to Live By The Computer Science of Human Decisions - Brian Christian
+https://youtu.be/W2_xruenOtw
+
+Architecting for performance. A top-down approach - Ionut Balosin
+https://youtu.be/vLvgpH915Vo
+
+Back to basics threads - Adam Dubiel
+https://youtu.be/IYHYk3rgfGI
+
+Blockchain for dummies - Mateusz Herbut
+https://youtu.be/hETPKx8rCCM
+
+Building Serverless Interactive Applications - Adrian Hornsby
+https://youtu.be/XI8NXxW47X4
+
+Client says your awesome web app works slowly. Now what - Aleksandra Kunysz
+https://youtu.be/_xz-KkxmgO8
+
+Deep Learning in Computer Vision - Krzysztof Kudrynski, Blazej Kubiak
+https://youtu.be/dtD37EkicSs
+
+DSL - Do Super Language with Kotlin - Artur Czopek
+https://youtu.be/hYXAFO3q3qU
+
+Fallacies of Doom - Lessons learned from porting Doom 3 to Java - Mahmoud Abdelghany
+https://youtu.be/dU0KrDRKoCA
+
+GraphQL - when REST API is not enough - lessons learned - Marcin Stachniuk
+https://youtu.be/vMGet_9y40g
+
+How to impress your boss and your customer in a modern company - Wojciech Seliga
+https://youtu.be/DU1CbeN6GIs
+
+How Uber builds reliable redeliveries and dead letter queues with Apache Kafka - Mingmin Chen
+https://youtu.be/K4cmLrrIUUY
+
+Interview with Blanca Garcia Gil at Devoxx UK 2018
+https://youtu.be/r0D4ier45wI
+
+Interview with Christopher Batey at Devoxx UK 2018
+https://youtu.be/ZpMEKAhzsXw
+
+Interview with George Adams at Devoxx UK 2018
+https://youtu.be/4OY-ri1zCt0
+
+Interview with Heather Wilde at Devoxx UK 2018
+https://youtu.be/SBkZJXblE2c
+
+Interview with Martijn Verburg at Devoxx UK 2018
+https://youtu.be/OtPDESj3au0
+
+Interview with Nicolai Parlog at Devoxx UK 2018
+https://youtu.be/0ajk5v-8bZQ
+
+Liderem być - Anita Przybył
+https://youtu.be/6Yv8DM3CgOE
+
+Serverless or Serverfull Microservices^Functions - Rafael Benevides
+https://youtu.be/orxk96DLjjc
+
+Spring, Functions, Serverless and You - Nate Schutta
+https://youtu.be/FGm3kxWSGGc
+
+State or events Which shall I keep - Jakub Pilimon
+https://youtu.be/maQXoRp6BH4
+
+The Story of LeSS - Voxxed Days Singapore 2018
+https://youtu.be/MJxtHbZU7Mo
+
+Through the valley of darkness, the road to microservices - Dominik Boszko
+https://youtu.be/KgJAjxrzPWQ
+
+Top Performance Challenges in Distributed Architectures - Andreas Grabner
+https://youtu.be/fAdqbzyQgb0
+Videos 1176-1200

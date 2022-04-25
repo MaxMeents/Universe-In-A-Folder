@@ -1,0 +1,28 @@
+
+Async+Await
+https://youtu.be/3udPz1GBB8A&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+Behind the Curtain on Prototypical Inheritance
+https://youtu.be/_HMJM12zTTQ&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+Clean Code In JavaScript Inconceivable!
+https://youtu.be/6sw62xQ7R0w&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+In-Depth JS in 10 Minutes Hoisting
+https://youtu.be/_MK-i0j0EHo&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+Learn to Keep Your Promises
+https://youtu.be/QeRwh0wP96Q&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+Learning the Chrome Dev Tools
+https://youtu.be/VAcjmUD9Zxc&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+The Value of Code Reviews
+https://youtu.be/tbLbkC0IRxo&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+this is Ridiculous by Mark Thompson
+https://youtu.be/i-UPbo1NVgQ&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+
+Why and How to Ensure Your Websites are Accessible
+https://youtu.be/zjVRdAsh_j8&list=PLuN2r6KX0fDrxcCoMX35ytoHob4Er0CiW
+Fundamentals

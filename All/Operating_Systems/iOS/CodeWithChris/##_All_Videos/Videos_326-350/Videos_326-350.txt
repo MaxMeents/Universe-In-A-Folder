@@ -1,0 +1,76 @@
+
+Firebase Tutorial for iOS  - Ep 1 - Introduction
+https://youtu.be/PMbqo7ue_u0
+
+Firebase Tutorial for iOS  - Ep 3 - Xcode Project Setup
+https://youtu.be/rhrb2mBKz2k
+
+Firebase Tutorial for iOS - Ep 2 - Firebase App Setup
+https://youtu.be/jJUm1VBnR_U
+
+How To Make an App - Ep 1 - Introduction (Xcode 8, Swift 3, iOS 10)
+https://youtu.be/mncFy1H7OUM
+
+How To Make an App - Ep 10 - More Swift and UIKit
+https://youtu.be/wD_qb6ZGVHs
+
+How To Make an App - Ep 11 - Swift IBOutlet Properties
+https://youtu.be/0AXfr6XArDE
+
+How To Make an App - Ep 12 - Methods and Button Taps
+https://youtu.be/8KVkGBbpAvA
+
+How To Make an App - Ep 13 - Image Asset Library in Xcode 8
+https://youtu.be/WlgEb8iJZy4
+
+How To Make an App - Ep 14 - Randomizing the cards
+https://youtu.be/a_s47MEMtqs
+
+How To Make an App - Ep 15 - Using Arrays in Swift 3
+https://youtu.be/HEvqiHdPG50
+
+How To Make an App - Ep 16 - Using IF statements in Swift 3
+https://youtu.be/Ddruyn_k_w4
+
+How To Make an App - Ep 17 - Keeping Score
+https://youtu.be/IyZxQDryMwY
+
+How To Make an App - Ep 2 - Playgrounds and Swift
+https://youtu.be/HNMqPZoZezI
+
+How To Make an App - Ep 3 - Xcode 8 Tutorial
+https://youtu.be/htGBvkn0tN0
+
+How To Make an App - Ep 4 - App Anatomy
+https://youtu.be/DRTwrOhxnQk
+
+How To Make an App - Ep 5 - Your First App
+https://youtu.be/hhmmeVduIOc
+
+How To Make an App - Ep 6 - Auto Layout and Size Classes
+https://youtu.be/5So69J1xeCI
+
+How To Make an App - Ep 7 - Stack Views
+https://youtu.be/2KyzuLC-w-8
+
+How To Make an App - Ep 8 - Completing the User Interface
+https://youtu.be/gjkMVnlIcNE
+
+How To Make an App - Ep 9 - Building Blocks of Swift Programming
+https://youtu.be/_AnarTyKJHE
+
+How To Make an App - Xcode 8.1 Update Frames
+https://youtu.be/J8eifSFeYE8
+
+How To Use Firebase (Swift, Xcode) - Ep 1 - Integrate Firebase SDK
+https://youtu.be/TK6ojOulx80
+
+How To Use Firebase (Swift, Xcode) - Ep 2 - Saving and Retrieving Data Quickstart
+https://youtu.be/zAO3M7nnZIA
+
+How To Use Parse (Swift, Xcode) - Ep 12 - Parse Geolocation and GeoPoints
+https://youtu.be/4UcXdivw3sQ
+
+How To Use Parse (Swift, Xcode) - Ep 13 - Parse Relational Data and Objects
+https://youtu.be/fcqr4hYkbjw
+Videos 326-350

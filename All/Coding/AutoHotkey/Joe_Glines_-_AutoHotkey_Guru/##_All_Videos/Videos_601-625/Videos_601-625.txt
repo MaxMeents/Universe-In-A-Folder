@@ -1,0 +1,76 @@
+
+#16 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/6AlyqgddI5c
+
+#17 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/TD1DaKv4xUs
+
+100 Words to make you sound smarter
+https://youtu.be/ft-9ZJJqR14
+
+AutoHotkey Podcast 020 RPA and Desktop Automation
+https://youtu.be/wg9V1GUXiGk
+
+AutoHotkey Podcast 021 Three Philosophical Views of Computer Automation  RPA
+https://youtu.be/rVHr4GseSsU
+
+AutoHotkey Podcast 022 Automation Continuum
+https://youtu.be/1x4FuREHHWA
+
+AutoHotkey Podcast 023 Prioritizing Work  Scripting
+https://youtu.be/k4G_ykHgyxs
+
+AutoHotkey Podcast 024 Awareness of Automation tools  RPA
+https://youtu.be/Zh_7cQpwh3o
+
+AutoHotkey Podcast 025 Ways to save your settings for a script
+https://youtu.be/P1iTVBZJG4M
+
+AutoHotkey Podcast 026 Cached DLL Issue
+https://youtu.be/bg9qtIZQyR8
+
+AutoHotkey Podcast 028 Annotating your Code
+https://youtu.be/8d0s0e1ze8Q
+
+AutoHotkey Podcast 029 Writing Polished Script
+https://youtu.be/Z_6sQv2jd1U
+
+AutoHotkey Podcast 030 Gender and Programming
+https://youtu.be/HRUQ8LQ_DQ4
+
+AutoHotkey Webinar 082018  Hour 1-  Working Session
+https://youtu.be/KoQqvAvZHsw
+
+AutoHotkey Webinar 082018 Hour 1-Using Controls with AHK
+https://youtu.be/evQDb5w7-7M
+
+AutoHotkey Webinar 082018 Hour 2-Learn AutoHotkey (and anything) quickly Q&A
+https://youtu.be/rGkd0Hb2HTc
+
+AutoHotkey Webinar 082018 Hour 2-Using Controls Q&A and OutlookWebscraping
+https://youtu.be/EisgNS0uy18
+
+AutoHotkey Webinar 082019 Hour 1-Learn AutoHotkey (and anything) quickly
+https://youtu.be/dc5GJLrqnh8
+
+Email Sender using CDO and Gmail with AutoHotkey
+https://youtu.be/_hMtU9XHTgM
+
+Grab URLs from clipboard with AutoHotkey
+https://youtu.be/DQag3UIWAFQ
+
+Merging text files of similar structure (CSV, Tab delimited, etc.)
+https://youtu.be/s5bxINk7tyY
+
+Navigating the DOM with parentNode, nextSibling, previousSibling, firstChild & lastChild
+https://youtu.be/lioPORiOSQ8
+
+Parsing a VCF contact file with AutoHotkey
+https://youtu.be/4btIyXKD6os
+
+Udemy course Intro to AutoHotkey
+https://youtu.be/KEFz4Mg7QHo
+
+Updated iWB2 for grabbing ClassName from IE with AutoHotkey
+https://youtu.be/345NIcztLio
+Videos 601-625

@@ -1,0 +1,76 @@
+
+Andrew Grangaard - Adventures in Failure Error handling culture across languages
+https://youtu.be/VbObDEH-jKY&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Brian Duggan - Extending Perl 6 Command Line Argument Parsing using Metaprogramming
+https://youtu.be/D16wa-gnFwE&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Brian Gottreu - Playing With Music With Perl
+https://youtu.be/ODvTsv-TsSg&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Bruce Gray - Your Perl 5 Brain, on Perl 6
+https://youtu.be/EUXclZ_d0DQ&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Curtis Ovid Poe - Modeling a Universe in Perl
+https://youtu.be/AWy9bC8lBns&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Damian Conway - A Vim Environment For Perl Developers
+https://youtu.be/oka4wcsrg0c&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+David Golden - Real World Optimization
+https://youtu.be/_PJIVVGAZqA&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+David Oswald - Spilling the @INC
+https://youtu.be/4ZUFXHsjwDs&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Graham Knop - Continuous Integration for CPAN
+https://youtu.be/YDmkw_G9BEg&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Jay Hannah - Civic Hacking TIF is millions of YOUR tax dollars
+https://youtu.be/Q2NKhVxPhxg&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Joel Berger - Variables, Scoping, and Namespaces
+https://youtu.be/-DWHROn2Tz0&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Keynote by Sawyer X - Perl 5.26 and the Blue-Blue Shiny Ball of Eternal Transparency
+https://youtu.be/SYmdef_WQsw&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Curt Tilmes - LibCurl, The BEST web client for Perl 6
+https://youtu.be/YNls6sM8qJA&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Dave Rolsky - Things I Released Recently-ish
+https://youtu.be/DVKfBV2xngg&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by David Golden - How I get to the ☞
+https://youtu.be/vQ5qWey_SO4&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Lee Johnson - Emulating Any API (and some other topics
+https://youtu.be/cNlMIa-YOnM&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by R. Geoffrey Avery - sudo From a Folder For the Slightly Trusted User
+https://youtu.be/RarVGKBar0A&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Randal Schwartz - Why Google's Dart should be your next programming language
+https://youtu.be/cDMMF_b7Kbs&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Zachary Zebrowski - Kite Photography with the Raspberry Pi & Perl
+https://youtu.be/pQr8iNv4Ld4&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Mark Prather - How to Automate Your Scrum Team
+https://youtu.be/M33VZM_cjZ0&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Matt S. Trout - ES6 Almost An Acceptable Perl5
+https://youtu.be/OwCAFPKwAyE&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Sawyer X - Pakket - An Unopinionated Meta-Packaging System
+https://youtu.be/aiNRbQKX9iU&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Steven Lembark - Dockerizing CPAN Testers Running an Isolated Test Site
+https://youtu.be/p6pf0OMn4Bs&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Thomas Sibley - Last mile software development writing modern software for bench scientists
+https://youtu.be/Kdc9sj8P9Ys&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Walt Mankowski - Perl One-Liners
+https://youtu.be/IGe0GnlIWq4&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+Videos 1-25

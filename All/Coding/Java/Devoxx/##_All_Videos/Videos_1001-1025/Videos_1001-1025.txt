@@ -1,0 +1,76 @@
+
+9 Steps to Awesome with Kubernetes by Burr Sutter
+https://youtu.be/ZpbXSdzp_vo
+
+A Dozen Ways to Hack Your Brain to Write Fluently by Dan Allen
+https://youtu.be/HRa3bbaUpSc
+
+A journey to Build a Distributed Blockchain Application by Romeo Kienzler
+https://youtu.be/3ehMsYXX7dA
+
+Accelerate your CICD on Kubernetes with Jenkins X (James Strachan)
+https://youtu.be/u4kyipOT44A
+
+Beyond Kubernetes by Ray Tsang, Eric Bottard
+https://youtu.be/HEWb1IWqT30
+
+Crypto currency, data mining and machine learning, wining combo  by Pierre Paci, Antoine Detante
+https://youtu.be/cS57If6eXMQ
+
+Deep dive into using GraalVM for Java and JavaScript developers by Oleg Šelajev, Thomas Wuerthinger
+https://youtu.be/a-XEZobXspo
+
+Dude, Where's My Build Android CI CD at Uber by Gautam Korlam
+https://youtu.be/ibvynmakz50
+
+Exploring Java Heap Dumps Java Language label Ryan Cuprak
+https://youtu.be/9Cnm2lFBe0I
+
+Firebase ML Kit  Machine Learning made easy by Harshit Dwivedi
+https://youtu.be/AJ18RqGJ6js
+
+Functional Exception Handling in Java with Vavr by Grzegorz Piwowarek
+https://youtu.be/pPy-ETY8a-E
+
+Functional Programming in Java   When, Why and How by Alasdair Collinson
+https://youtu.be/plZYp2fLUVY
+
+Google Serverless  Cloud Functions and beyond by Alexis Moussine Pouchkine
+https://youtu.be/eVoUkB0s1VY
+
+GraphQL SPQR The fastest route to GraphQL by Bojan Tomić
+https://youtu.be/iyt7PwkUWQA
+
+Implementing Microservices by Ivar Grimstad, Kevin Sutter
+https://youtu.be/VqMs6a3nv_0
+
+Java Streams vs  Reactive Streams Which, When, How, and Why by Venkat Subramaniam
+https://youtu.be/kG2SEcl1aMM
+
+Lambdas and Streams Master Class Part 1 José Paumard, Stuart Marks voxxed
+https://youtu.be/ePXnCezwRuw
+
+Life of a packet through Istio by Matt Turner
+https://youtu.be/cB611FtjHcQ
+
+Madpig measure and deepen performance in go by Valentin Deleplace
+https://youtu.be/dCXZx_yEilE
+
+Power of cloud dev environments for your legacy projects by Stéphane Tournié, Etienne Vrignaud
+https://youtu.be/UPwRgjrDRrw
+
+Selenium Tests the Object Oriented Way by Corina Pip
+https://youtu.be/cAFk26WQBk8
+
+Server-less functions with Micronaut by Alvaro Sanchez-Mariscal
+https://youtu.be/0xnsbelwJQQ
+
+Switching to Gradle maturity, performance, and pleasure! by Cédric Champeau, Louis Jacomet
+https://youtu.be/isSKhZRIxWw
+
+Tracing performance of your service calls with some help of Sleuth, Zipkin & ELK by Rafaëla Breed
+https://youtu.be/3niDsBTci9M
+
+Traefik A Scalable and Highly Available Edge Router by Damien Duportalt
+https://youtu.be/AqiGcLsVMeI
+Videos 1001-1025

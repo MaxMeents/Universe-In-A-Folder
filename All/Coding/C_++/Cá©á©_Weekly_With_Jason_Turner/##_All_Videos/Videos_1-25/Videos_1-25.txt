@@ -1,0 +1,76 @@
+
+C++ Best Practices Game Jam #1 - Starts April 1, 2022 - Info, Rules and Quick-Start
+https://youtu.be/4V4ZrB3o6g4
+
+C++ For The Beginner and Non-Programmer - Lesson 1
+https://youtu.be/v_C9BC-bXcw
+
+C++ For The Beginner and Non-Programmer - Lesson 2 (Functions!)
+https://youtu.be/iK08U61qYVk
+
+C++ Weekly - Ep 298 - Detecting ABI Changes With abidiff
+https://youtu.be/GkB3TgkAN0M
+
+C++ Weekly - Ep 299 - C++ Homework `const` All The Things
+https://youtu.be/ZYtVuVPOY4A
+
+C++ Weekly - Ep 301 - C++ Homework `constexpr` All The Things
+https://youtu.be/cpdjQiRxEJ8
+
+C++ Weekly - Ep 302 - It's Not Complicated, It's stdcomplex
+https://youtu.be/s_1SymtU0BI
+
+C++ Weekly - Ep 303 - C++ Homework Lambda All The Things
+https://youtu.be/_xvAmEbK1vE
+
+C++ Weekly - Ep 304 - C++23's 'if consteval'
+https://youtu.be/AtdlMB_n2pI
+
+C++ Weekly - Ep 305 - Stop Using `using namespace`
+https://youtu.be/MZqjl9HEPZ8
+
+C++ Weekly - Ep 306 - What Are Local Functions, and Do They Exist in C++
+https://youtu.be/-EDx6fC6mkQ
+
+C++ Weekly - Ep 307 - Making C++ Fun and Accessible
+https://youtu.be/3RskKe7I6T4
+
+C++ Weekly - Ep 308 - 'if consteval' - There's More To This Story
+https://youtu.be/y3r9l3LZiJ8
+
+C++ Weekly - Ep 309 - Are Code Comments a Code Smell
+https://youtu.be/8V6Ry5eTTcc
+
+C++ Weekly - Ep 310 - Your Small Integer Operations Are Broken!
+https://youtu.be/R6_PFqOSa_c
+
+C++ Weekly - Ep 311 - ++i vs i++
+https://youtu.be/ObVRSNvGitE
+
+C++ Weekly - Ep 312 - Stop Using `constexpr` (And Use This Instead!)
+https://youtu.be/4pKtPWcl1Go
+
+C++ Weekly - Ep 313 - The `constexpr` Problem That Took Me 5 Years To Fix!
+https://youtu.be/ABg4_EV5L3w
+
+C++ Weekly - Ep 314 - Every Possible Way To Force The Compiler To Do Work At Compile-Time in C++
+https://youtu.be/UdwdJWQ5o78
+
+C++ Weekly - Ep 315 - constexpr vs static constexpr
+https://youtu.be/IDQ0ng8RIqs
+
+C++ Weekly - Ep 316 - What Are `const` Member Functions
+https://youtu.be/bqd9ILyQRxQ
+
+C++ Weekly - Ep 317 - Do You Really Understand Member Functions
+https://youtu.be/4etjb2_KAaE
+
+C++ Weekly - Ep 318 - My Meetup Got Nerd Sniped! A C++ Curry Function
+https://youtu.be/15U4qutsPGk
+
+C++ Weekly - Ep 319 - A JSON To C++ Converter
+https://youtu.be/HROQPE59q_w
+
+C-- Weekly - Ep 300 - The Least Portable Programming Language
+https://youtu.be/V0z9PKFe4jY
+Videos 1-25

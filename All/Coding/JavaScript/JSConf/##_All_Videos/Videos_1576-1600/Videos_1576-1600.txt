@@ -1,0 +1,76 @@
+
+A Heaping Helping of performance, selector engines, and sandbox natives.
+https://youtu.be/59bTnR8d2Lg
+
+Aaron Newton Programming To Patterns
+https://youtu.be/RWbD35Bwf0c
+
+Aaron Quint Making Bacon  Making Code
+https://youtu.be/tRVUKCQw7qU
+
+Adam Moore YUI and NodeJS, Running YUI on the Server
+https://youtu.be/kT_588dzKH4
+
+Alistair MacDonald WebGL Demo Overload
+https://youtu.be/ABXcIuKEhiY
+
+Brendan Eich An Introduction to JavaScript
+https://youtu.be/1EyRscXrehw
+
+David Furfero Making Ajax Sexy
+https://youtu.be/Rp0LHbVB1-g
+
+Dean Landolt Pintura, Perstore and Awesome-Oriented Persistence
+https://youtu.be/UC1YgUL9SrY
+
+Douglas Crockford Really. JavaScript.
+https://youtu.be/lTWGoL1N-Kc
+
+Francisco Tolmasky Socratic Documentation Done Right
+https://youtu.be/Krigays9l7Y
+
+Gonzalo Cordero YUI3 - Creating Custom Modules
+https://youtu.be/sxiAEoiQRF8
+
+Jan Lehnardt Evently, Declarative CouchDB Applications
+https://youtu.be/01k3C4K-4lU
+
+Jeffrey Van Gogh The Reactive Extensions for JavaScript
+https://youtu.be/ClHpkn_qxos
+
+John Resig Building a better DOM API
+https://youtu.be/7y-M2N5fNu8
+
+Jonathan Julian Hangover.js
+https://youtu.be/F2J7Ra2w9Q0
+
+Kevin Dangoor & Patrick Walton Bespin
+https://youtu.be/Paav0n2kg3A
+
+Kyle Simpson Dude, where's my UI Architecture
+https://youtu.be/5_wnl4mCmwM
+
+Makinde Adeagbo Primer
+https://youtu.be/wHlyLEPtL9o
+
+Matthew Fowle Laying New Web Infrastructure
+https://youtu.be/fjBj_zquKIM
+
+Michael Erlewine The latest from Mozilla Jetpack
+https://youtu.be/n1LI_ESMz9M
+
+Shea Frederick Ext JS App UI Morphing
+https://youtu.be/2h1dO3QLzH8
+
+Steve Souders The Best of Steve
+https://youtu.be/zm0VpjAdbKs
+
+Tobias Schneider Flash is dead, long live Flash
+https://youtu.be/8GUuvhfRLm4
+
+Tobias von Klipstein What the heck are HTML5 Apps
+https://youtu.be/JstCwoKcNIE
+
+Tom Hughes-Croucher Piratin' the YQL way
+https://youtu.be/7_huAM6bcCU
+Videos 1576-1600

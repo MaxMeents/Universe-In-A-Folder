@@ -1,0 +1,76 @@
+
+Alice Harpole, Raniere Silva, Mateusz Kuzak, Céline Boudier - Community teaching practices
+https://youtu.be/pe-UgvzQuAs&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Andreas Dewes - Type Annotations in Python 3 Whats, whys & wows!
+https://youtu.be/vM2Zoy4Sxhk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Antoine Fourmy - Network visualization and automation
+https://youtu.be/HUQTVbyGdHs&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Christian Heimes - Identity management, single sign-on and certificates with FreeIPA
+https://youtu.be/cUQcNi_obIc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Christian Trebing - Streaming Why should I care
+https://youtu.be/N7od6k2WZGo&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Daniel Pope - Scripting across hosts with Chopsticks
+https://youtu.be/f7yGOq2zyRs&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Daniele Procida - Fighting the controls tragedy and madness for programmers and pilots
+https://youtu.be/AxGxaN0cOgo&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Floris Bruynooghe - Cloud Native Python in Kubernetes
+https://youtu.be/ZKPMQ-Sfk8Y&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Gonzalo Rafuls - Dockerized pytests
+https://youtu.be/iEKsAxUPDYY&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Hugues Lerebours, Renaud Bauvin - Inspect (Or Gadget)
+https://youtu.be/xatJ9hPgYDk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Julien Simon - AI on a Pi
+https://youtu.be/Uh0-pZlvPxs&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Lightning Talks - 2017-07-13
+https://youtu.be/zC2_hGYQuuk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Maciej Gryka - Despicable machines how computers can be assholes
+https://youtu.be/IUJ34MguA8M&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Mansimar Kaur - Using Python and microservices to fuel WebPush at Mozilla
+https://youtu.be/xx02-yiAvgA&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Masaya Ohgushi - How to apply deep learning for 3D object
+https://youtu.be/ytx_BBz1B-I&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Michał Karzyński - Developing elegant workflows in Python code with Apache Airflow
+https://youtu.be/XJf-f56JbFM&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Mikhail Korobov - Explaining behavior of Machine Learning models with eli5 library
+https://youtu.be/s-yT5Is1G1A&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Niklas Meinzer - When Django is too bloated - Specialized Web-Applications with Werkzeug
+https://youtu.be/mXpBuELtpro&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Paul O'Grady - An introduction to PyTorch & Autograd
+https://youtu.be/rrekAv9Fml4&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Rishabh Daal , IMD, Maths & Computing, IIT, Varanasi - Optimization using Flow Networks in NetworkX.
+https://youtu.be/FF-dWjionCw&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Sahil Dua - How Booking.com serves Deep Learning model predictions
+https://youtu.be/tTv9r0QX494&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Samuel Fuentes - Fast product development using Django Rest Framework. #lessonslearned
+https://youtu.be/0hrf83ZIKw0&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Stephan Jaensch - Fixture factories for faster end-to-end tests
+https://youtu.be/FxgLOY-YsTc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Stephanie Mifsud - Optimizing queries for not so big data in PostgreSQL
+https://youtu.be/b7ESi3zLL8k&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Tracy Osborn - The Different Roads We Take
+https://youtu.be/gzsBMFpmCpk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+Videos 101-125

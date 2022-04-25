@@ -1,0 +1,22 @@
+
+ApplicationWeb Architecture by Joseph Guadagno  C# Corner Conference
+https://youtu.be/z0D9jjreDSk&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+
+Cloud Applications Architecture by Vishwas Lele  C# Corner Conference
+https://youtu.be/-x3yuUMGpmg&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+
+Design Principles and Standards in Software Architecture by Andy Schwam  C# Corner Conference
+https://youtu.be/rl22LTp4ikg&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+
+Microservices Architecture by Vidya Vrat Agarwal  C# Corner Conference
+https://youtu.be/eJJcbRu7bio&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+
+Role and Road of a Software Architect by Mahesh Chand & Magnus Mårtensson  C# Corner Conference
+https://youtu.be/lP5ecS15vEI&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+
+Role of an Enterprise Architect by Naveen Sharma  C# Corner Conference
+https://youtu.be/lnpMFgFn-ls&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+
+Software Architecture Virtual Conference
+https://youtu.be/0m0Jvcp76sE&list=PLEy5IbO-F1-ncT4j5lFgQMY4ZPOAHvIj_
+Software Architecture Virtual Conference

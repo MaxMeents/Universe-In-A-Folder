@@ -1,0 +1,13 @@
+
+State Space, Part 1 Introduction to State-Space Equations
+https://youtu.be/hpeKrMG-WP0&list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w
+
+State Space, Part 2 Pole Placement
+https://youtu.be/FXSpHy8LvmY&list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w
+
+State Space, Part 3 A Conceptual Approach to Controllability and Observability
+https://youtu.be/BYvTEfNAi38&list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w
+
+State Space, Part 4 What Is LQR control
+https://youtu.be/E_RDCFOlJx4&list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w
+State Space

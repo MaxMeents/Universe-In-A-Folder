@@ -1,0 +1,37 @@
+
+Andrew Miadowicz What does Chakra do with your JavaScript
+https://youtu.be/OqnMmoF2GqM&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Andy Wingo JavaScriptCore's DFG JIT -- JSConf EU 2012
+https://youtu.be/kul3HO3WRgI&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Andy Wingo Stranger in these parts. A hired gun in the js corral.
+https://youtu.be/hHytsQkVlhA&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Christoph Martens JavaScript Level 9000  JSConf EU 2014
+https://youtu.be/v34CEyqVEuM&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Florian Loitsch JavaScript as a compilation target - Making it fast
+https://youtu.be/d-xVOke3ync&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Hannes Payer Speed is awesome, but low latency is sublime — JSConf EU 2013
+https://youtu.be/3vPOlGRH6zk&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Jaswanth Sreeram Parallel JavaScript  JSConf EU 2014
+https://youtu.be/Ls27mCiYsQo&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Michael Starzinger The Footprint of Performance
+https://youtu.be/ZhshEZIV2F4&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Vyacheslav Egorov invokedynamic.js  JSConf EU 2014
+https://youtu.be/YOHBZactXus&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Vyacheslav Egorov mö.js - explaining js vm in js
+https://youtu.be/y8hVeKMD_oM&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+Vyacheslav Egorov one day of life in V8
+https://youtu.be/Z_q6iw3h48s&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+
+[JSConfEU 2011] David Mandelin & David Anderson JavaScript JITs
+https://youtu.be/Wzcz7VgG9O8&list=PL37ZVnwpeshF0ooLAT8uTtjTQW81dxUnn
+JS VM Engineers

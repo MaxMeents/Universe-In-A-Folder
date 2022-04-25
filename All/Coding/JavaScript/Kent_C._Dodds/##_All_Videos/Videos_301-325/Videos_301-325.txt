@@ -1,0 +1,76 @@
+
+Contributing to Open Source on GitHub for beginners
+https://youtu.be/k6KcaMffxac
+
+Create a custom useLocalStorage React hook
+https://youtu.be/yu3dnHrnps4
+
+Effective unit testing
+https://youtu.be/88yjJ0yYPio
+
+From codesandbox ➡️ github ➡️ netlify (No downloads required!)
+https://youtu.be/zv8t_axC-wQ
+
+GDG Salt Lake DevFest 2018 Why React Hooks
+https://youtu.be/zWsZcBiwgVE
+
+I'm out 🚢👋
+https://youtu.be/av-VJQKRrUc
+
+Improve a11y and usability of an icon component
+https://youtu.be/-fn1RrJBTd0
+
+JavaScript Arrays filter + map vs reduce
+https://youtu.be/BN77RUboguA
+
+Make a personal URL shortener with Airtable and Netlify Functions (DEPRECATED, SEE DESCRIPTION)
+https://youtu.be/Xs-qvWqoi2U
+
+Make a SUPER simple personal URL shortener with Netlify
+https://youtu.be/HL6paXyx6hM
+
+Modern React Workshop Hooks and Suspense (Part 1)
+https://youtu.be/xcZXS_VEJS0
+
+Modern React Workshop Hooks and Suspense (Part 2)
+https://youtu.be/NKAfuguroRY
+
+Nested Suspense Issues
+https://youtu.be/FavnQ27WIro
+
+Parsing CSS with postcss
+https://youtu.be/Zgxytl3HFR8
+
+React Hooks & testing Stepping through React code
+https://youtu.be/JQeB9miT9Wc
+
+React Hooks Refactoring a render-prop-based component to use hooks!
+https://youtu.be/_eVyLVFlSQk
+
+React Hooks!!!!
+https://youtu.be/0jlTw2XI7I8
+
+Setting up GitHub auth for a React App with Firebase
+https://youtu.be/IjAcifkvLP4
+
+Test components that use React.lazy + Suspense
+https://youtu.be/lfb5jvHq9c4
+
+Tips Using Chrome DevTools Elements Panel
+https://youtu.be/hXiuygqQBpo
+
+Updating an old React app (part 2)
+https://youtu.be/SigTDZJZ7Ug
+
+Updating an outdated React app
+https://youtu.be/klIE7IjEaAQ
+
+Use jest's expect module without jest
+https://youtu.be/RWFOYe-G9Uw
+
+What is the second argument in JSON.stringify
+https://youtu.be/kegJuCsGWqQ
+
+🔥 Swapping Firebase with Netlify for GitHub auth 🔥
+https://youtu.be/h4y8AY6nI7s
+Videos 301-325

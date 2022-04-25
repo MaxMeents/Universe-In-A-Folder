@@ -1,0 +1,76 @@
+
+Array Memory Allocation in Java by Som Sir
+https://youtu.be/H1XJVCfbLaM
+
+Core Java online Demo   Day-2
+https://youtu.be/l8F-FgjV-aw
+
+Creating Threads Using Thread class   and Runnable Interface  in java - part 4 som Sir
+https://youtu.be/TfiulvSk9CM
+
+Enum in java in hindi by som sir Part 1
+https://youtu.be/kjqgnLjQ47U
+
+Exception Handling in Java ( Exception Internal Processing by JVM ) part 2 by Som Sir
+https://youtu.be/pedxEprgwPk
+
+Exception Handling Introduction Part-1 video by som sir
+https://youtu.be/BCmdyT4gLKE
+
+Exception Handling(Checked And UnChecked Exception ) in Java by Som Sir
+https://youtu.be/0h6I6YZepnY
+
+Final Variable in  java  Constant in Java  by Som Sir
+https://youtu.be/Nx7bg5Q9_5Q
+
+For Loop  for each loop in java by Som sir
+https://youtu.be/LdDsUOrfSZc
+
+Garbage Collection in java  GC Method in Java  Memory Management in Java   by Som sir  part-1
+https://youtu.be/cAtRG7eUBKM
+
+How to write servlet program in Eclipse  Servlet Part-4 
+https://youtu.be/yQw8el3eSiM
+
+Instance and static variable Video in Java By Som Sir
+https://youtu.be/agV_a1Hohs0
+
+Java Method Overloading  Compile Time Polymorphism in Java by Som Sir
+https://youtu.be/QQEYHDIj7xQ
+
+JDBC - ODBC Bridge Driver Program (Type 1 Driver ) Part-3 by Som Sir
+https://youtu.be/QL6wVOToTvQ
+
+JDK Installation Steps   Setting Path in Different Ways  How to install java   by Som Sir
+https://youtu.be/pgzkghfq_S4
+
+Multithreading  in Java  Part-1
+https://youtu.be/FTs-vhSESuE
+
+Multithreading  in Java (Internal Processing by the JVM) Part-2 by Som Sir
+https://youtu.be/i4c6StroZiI
+
+Multithreading in java  Main Thread Internal Processing   part-3
+https://youtu.be/-frleC0iZkI
+
+Online Core Java Class Day-3 By Som Sir
+https://youtu.be/HYRF-tUa80o
+
+Online Core Java Class Day-5 By Som Sir
+https://youtu.be/50bPAdJeIxo
+
+OOPS Concepts in java video by Som Sir
+https://youtu.be/S9ohXvptpLc
+
+String Object Creation and String constant pool in java  video by som sir part-2
+https://youtu.be/_sbnzsZqK48
+
+String Object Creation and String constant pool in java video by som sir part-1
+https://youtu.be/LmK-q4Tl3yw
+
+Suggestion for B.tech  M.tech  Student by Som Sir
+https://youtu.be/L3ZyV4PB9jI
+
+Uses of Throw and throws keyword  in Java Exception Handling (Hindi) by som sir
+https://youtu.be/0yetBlLrbhA
+Videos 251-275

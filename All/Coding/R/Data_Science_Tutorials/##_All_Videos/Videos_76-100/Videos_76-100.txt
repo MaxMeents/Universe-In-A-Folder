@@ -1,0 +1,76 @@
+
+Adding KPI Icons in Power BI Table and Conditionally Formatting it
+https://youtu.be/IIALsGidmRc
+
+Adding Reference Line to Your Power BI Bar Chart
+https://youtu.be/zNUTHXtEg0Q
+
+Amazon Prime Data Analytics Case Study for Exploring Movies and TV Shows - Part 1
+https://youtu.be/VR-FTFsiLUg
+
+Complete Tableau Prep Tutorial for Beginners  End to End Tableau Prep Tutorial
+https://youtu.be/fObwamafQYY
+
+Conditionally Format Power BI Table Font or Background
+https://youtu.be/2r0rykGLAaw
+
+Conditionally Formatting Power BI Card KPI
+https://youtu.be/aAARRysstAw
+
+How to Change Power BI Chart Interaction Setting from Highlight to Filter or None
+https://youtu.be/PimO76370-Y
+
+How to create Small multiple Chart or Trellis Chart in Power BI and why they are Great
+https://youtu.be/8A6CfMkhc1E
+
+How to Display Image in Power BI chart background
+https://youtu.be/sZytuU3ZoVE
+
+Power BI Advance Data Export to export additional column that is not in visualization
+https://youtu.be/LG5EyAwOYMs
+
+Power BI Bar Chart within Table Visualization
+https://youtu.be/ZuNaYDryAs0
+
+Power BI Drill Through Report Button
+https://youtu.be/P_gWDy7Kamc
+
+Power BI Dynamic Report Title based on Selected Drill Through Value
+https://youtu.be/92o380bqh1s
+
+Power BI Hidden Slicers and How to View them
+https://youtu.be/fjBUDfXLje0
+
+Power BI Keep on Filter Option Use that is Present on Field Section Page
+https://youtu.be/TzhmX-JX14E
+
+Power BI Quick Mesaure to Create Running Total Calculation
+https://youtu.be/NHZJ3u4jsMA
+
+Power BI Report Level Filter or  Global Filter to Filter Entire Report
+https://youtu.be/5DHzhMKB1qY
+
+Power BI Stepped Line Chart
+https://youtu.be/9a_wxpWcf84
+
+Power BI Sync Slicer Option for create Slicer in Multiple Reports & Hide them
+https://youtu.be/_rwb-u3r-nU
+
+Power BI TopN Filter to Display the Top or Bottom Values in the Chart
+https://youtu.be/7jYnRoh86_Y
+
+Python Complete Data Science Project to Predict Wine Quality  End to End Project
+https://youtu.be/ocR5dP5-XF0
+
+Python Data Science Portfolio Project to Predict Diabetes  End to End Project
+https://youtu.be/G2eYG7pyfik
+
+Sorting Power BI Visualization Based on Another Column
+https://youtu.be/QDzHuUCdPQ8
+
+Sorting Power BI Visualization in Ascending or Descending Order Based on Available Columns
+https://youtu.be/yrHuOnOPY64
+
+Why All Values on my X Axis of Power BI Chart is not Displayed
+https://youtu.be/7xhBYCepbfg
+Videos 76-100

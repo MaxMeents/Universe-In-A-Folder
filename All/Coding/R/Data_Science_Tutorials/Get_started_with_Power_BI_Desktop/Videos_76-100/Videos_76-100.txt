@@ -1,0 +1,76 @@
+
+Changing Power BI Date Slicer Look and Feel from Range to List or Dropdown
+https://youtu.be/3qVSKY-Gi74&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to change Power BI Date Format to US or UK date format
+https://youtu.be/l_9a_GlBuow&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Set Power BI Chart Level or Visual Level Filters
+https://youtu.be/p_1ihCuvntE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI -  Counting Distinct Values
+https://youtu.be/HEPquSiWI-c&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI -  How to Calculate MTD (Month to Date) Rolling Total Values
+https://youtu.be/ofqWBiFAwBs&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI -  How to Create Ultimate Dynamic Calendar in Power BI Based on Minimum and Maximum Date
+https://youtu.be/2-q2oXYNL-o&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI - Adding Multiple Measures as tooltip in the chart
+https://youtu.be/9sQ5wb3JjCo&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI - Conditional Sum of Two or More Than Two Categories in Table
+https://youtu.be/3EVYw96QpjI&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI - How to Calculate YTD (Year to Date) Rolling Sum
+https://youtu.be/jcL0wH5hc_M&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI - How to count missing values  DAX Function to Count Missing Values
+https://youtu.be/ASHmK4AxLr0&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI - How to count table rows  Row Count Function
+https://youtu.be/rLrCg_pk1W0&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI - How to write If and nested if conditional statement with example
+https://youtu.be/WaihbAT1tEc&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Averagex DAX Function Tutorial  Average vs AverageX  Calculation Average
+https://youtu.be/Qu1EtMiVXg8&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI CountRows Function Tutorial to Count Total Rows in Table
+https://youtu.be/FnECpj_AhyY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI CountX and Filter Function Tutorial to Conditionally Count the Rows
+https://youtu.be/UimVMDdBvFs&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Function Count tutorial for Counting Column Values
+https://youtu.be/ZXoSz6PmQtE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Function MAXX Tutorial  MAX vs MAXX  Finding Maximum Value of Calculation
+https://youtu.be/kuABnZInsms&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Dax Function MinX Tutorial  Min vs MinX  Finding Minimum of Calculation
+https://youtu.be/tPlTdoO4Aqo&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Function Sumx Tutorial  SUM vs SUMX
+https://youtu.be/3Y9LMfZhxtY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI How to Calculate QTD (Quarter to Date) Rolling Sum
+https://youtu.be/1l6U7tJkdVY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Median and Medianx Function with Example
+https://youtu.be/qS5IN2Z18mY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Page Level Filter to Filter All the Visualization of a Particular Page
+https://youtu.be/1aND2yxL0nQ&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Report Level Filter or  Global Filter to Filter Entire Report
+https://youtu.be/5DHzhMKB1qY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Sorting Power BI Visualization Based on Another Column
+https://youtu.be/QDzHuUCdPQ8&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Sorting Power BI Visualization in Ascending or Descending Order Based on Available Columns
+https://youtu.be/yrHuOnOPY64&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+Videos 76-100

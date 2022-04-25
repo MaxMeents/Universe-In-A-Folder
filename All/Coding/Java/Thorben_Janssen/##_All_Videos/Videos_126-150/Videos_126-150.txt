@@ -1,0 +1,76 @@
+
+5 Primary Key Mappings Every Developer Should Know with JPA & Hibernate
+https://youtu.be/xqHUxn36Y4k
+
+5 Things Beginners Need to Know Before Using JPA  Hibernate EclipseLink
+https://youtu.be/WtllKZh-nbY
+
+6 Hibernate Best Practices for Readable and Maintainable Code
+https://youtu.be/l23VmHz72fE
+
+Best Practices for Many-to-Many Associations with  Hibernate & JPA
+https://youtu.be/808pWqjuhMo
+
+Getting started with Hibernate
+https://youtu.be/6TPDK6MOkz4
+
+Hibernate Tip Best way to remove entities from a many-to-many association
+https://youtu.be/vYNdjtf7iAQ
+
+Hibernate Tip Difference between @NotNull and @Column(nullable = false)
+https://youtu.be/i4CNH8pi3X4
+
+Hibernate Tip How does Hibernate’s native ID generator work
+https://youtu.be/QfuAMZLSvwo
+
+Hibernate Tip How to activate an entity listener for all entities
+https://youtu.be/goil35wkPGY
+
+Hibernate Tip How to Customize a Constructor Expression for Different Subclasses
+https://youtu.be/95bnQwTPvGY
+
+Hibernate Tip How to Handle NULL Values while Ordering Query Results in a CriteriaQuery
+https://youtu.be/9mhT-xd9Da0
+
+Hibernate Tip How to lazily load one-to-one associations
+https://youtu.be/qRWhFkB1D8c
+
+Hibernate Tip How to override column mappings of a superclass
+https://youtu.be/GtldqkjNN-c
+
+Hibernate Tip Many-to-Many Association with additional Attributes
+https://youtu.be/RVlSVPATJio
+
+Hibernate Tip Perform different validations for persist and update
+https://youtu.be/7Y9nEh887no
+
+Hibernate Tip Prevent the Removal of a Parent Entity with Children
+https://youtu.be/Jmcord4_ghY
+
+Hibernate Tip SINGLE_TABLE strategy without discriminator column
+https://youtu.be/elG0EBQCW8o
+
+Hibernate Tip What’s the Difference Between @Column(length=50)  and @Size(max=50)
+https://youtu.be/dk8XfhrHFuc
+
+Implementing the Repository pattern with JPA and Hibernate
+https://youtu.be/LRJz0mHPfSc
+
+Localized Data How to Map It With Hibernate
+https://youtu.be/Xukv8rnnc8Y
+
+Mapping BLOBs & CLOBs with JPA and Hibernate
+https://youtu.be/uZXfZZ59cjU
+
+Microservices & Data Implementing the Outbox Pattern with Hibernate
+https://youtu.be/cY50MlUuun0
+
+Spring Data JPA What is it And Why Should You Use It
+https://youtu.be/x67yiTHxn00
+
+Ultimate Guide Derived Queries with Spring Data JPA
+https://youtu.be/GVeY08vUiPE
+
+Ultimate Guide to Implementing Equals & HashCode with Hibernate & JPA
+https://youtu.be/YoF3RcxbVQ4
+Videos 126-150

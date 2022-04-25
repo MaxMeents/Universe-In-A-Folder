@@ -1,0 +1,76 @@
+
+#JPA & #Hibernate 5 Common Hibernate Mistakes That Cause Dozens of Unexpected Queries
+https://youtu.be/DDpV3iJITnA&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+An Introduction to JPA FetchTypes
+https://youtu.be/Zs8Dse_Mpyk&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Best Practices for Many-To-One and One-To-Many Association Mappings
+https://youtu.be/tciSOIQngig&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Difference between JPA, EclipseLink & Hibernate
+https://youtu.be/GNN-FpNucmI&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Logging Guide Use the right configuration for development and production
+https://youtu.be/0ls4RJ_HY_c&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip  How to avoid MultipleBagFetchException
+https://youtu.be/Z7YAgbRbVjo&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip  How to use an autoincremented database column as a primary key
+https://youtu.be/pgknN921XL8&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip - How to bootstrap Hibernate with Spring Boot
+https://youtu.be/QEDIAqx6i7M&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip - How to use pagination with JPQL
+https://youtu.be/Xny3OJquWuo&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Easiest way to manage bi-directional associations
+https://youtu.be/WtmCgL1FMdQ&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to access  Hibernate APIs  from JPA
+https://youtu.be/GYMkSgMjIA8&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to define schema and table names
+https://youtu.be/1pa7M8SZV0M&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to escape table and column names
+https://youtu.be/2W7DEiIEBgU&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to map a bidirectional many-to-many association
+https://youtu.be/ZOUSa4I9ReI&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to Map a Bidirectional Many-to-One Association
+https://youtu.be/cI4jYr_iv3Y&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to map a java.util.Date
+https://youtu.be/1Q5GSfKdfOw&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to map an Enum to a database column
+https://youtu.be/mT6I11cVXCs&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to map native query results to managed entities
+https://youtu.be/RZk5VXyEaH0&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to use a custom database sequence
+https://youtu.be/a0ScR_JAKfI&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tips How to use Hibernate's native bootstrapping API
+https://youtu.be/VXIzxAOBAcQ&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+How to call native SQL queries with JPA and Hibernate
+https://youtu.be/W0-3H4_luOA&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+How to generate primary keys with JPA and Hibernate
+https://youtu.be/qn9SbW44rQ8&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+How to persist LocalDate and LocalDateTime with JPA
+https://youtu.be/vnTUJFQCLfs&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+JPA & Hibernate Basic result set mappings for native SQL queries
+https://youtu.be/u74ZPONeo7M&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Should You Use JPA and Hibernate for Your next Project
+https://youtu.be/uVLujq7_35E&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+Videos 1-25

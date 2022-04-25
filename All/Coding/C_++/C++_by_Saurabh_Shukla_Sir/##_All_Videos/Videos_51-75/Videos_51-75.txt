@@ -1,0 +1,76 @@
+
+Encapsulation in Object Oriented Programming Hindi
+https://youtu.be/8GEx0aXe_Kk
+
+Lecture 11 Operator Overloading in C++ Part 3Hindi
+https://youtu.be/m4diqu_dzHE
+
+Lecture 12  Friend Function in C++ Part 4 Hindi
+https://youtu.be/3DVtiY95i5s
+
+Lecture 12 Friend Function in C++ Part 3 Hindi
+https://youtu.be/fgrWYaSG94c
+
+Lecture 12 Friend Function in C++ Part 5 Hindi
+https://youtu.be/n2FwR-gjTWw
+
+Lecture 12 Friend Function in C++ Part 6 Hindi
+https://youtu.be/RiYZ0VC7rOk
+
+Lecture 13 Inheritance in C++ Part 1 hindi
+https://youtu.be/K62XuFHUcOA
+
+Lecture 13 Inheritance in C++ Part 2 Hindi
+https://youtu.be/UO9NyX_MNTU
+
+Lecture 13 Inheritance in C++ Part 3 Hindi
+https://youtu.be/g0EGFSzba6k
+
+Lecture 14 Constructor and Destructor in Inheritance in C++ Part 1 Hindi
+https://youtu.be/r3O9bvuRgX0
+
+Lecture 15 this pointer in C++ Part 1 Hindi
+https://youtu.be/UPVl-6FrDQA
+
+Lecture 16 new and delete in C++ Part 1Hindi
+https://youtu.be/sRBB_qX4lKY
+
+Lecture 17 Method Overriding in C++ Part 1 Hindi
+https://youtu.be/qwC8ycPZeAw
+
+Lecture 18 Virtual Function in C++ Part 1 Hindi
+https://youtu.be/cUCy2ENJjW8
+
+Lecture 18 Virtual Function in C++ Part 2 Hindi
+https://youtu.be/Z_FiER8aAqM
+
+Lecture 19 Abstract Class in C++ Part 1 Hindi
+https://youtu.be/0IR_D1qZy2g
+
+Lecture 20 Template in C++ Part 1 Hindi
+https://youtu.be/xNBWR_uFqQ8
+
+Lecture 21 File Handling in C++ Part 1 Hindi
+https://youtu.be/CpFx-5J7D7s
+
+Lecture 21 File Handling in C++ Part 2 Hindi
+https://youtu.be/tc7CjrhdAaY
+
+Lecture 21 File Handling in C++ Part 3 Hindi
+https://youtu.be/hCkfBhaW6E0
+
+Lecture 22 Initializers in C++ Hindi
+https://youtu.be/VkgNGUbVi5Y
+
+Lecture 23 Deep Copy and Shallow Copy in C++ Hindi
+https://youtu.be/nCAVr_T4DbM
+
+Lecture 24 Type Conversion Primitive to class type in C++ Hindi
+https://youtu.be/SBcIjz3cy3k
+
+Lecture 25 Type Conversion Class type to primitive type in C++ Hindi
+https://youtu.be/RPRXbJ5Qjys
+
+What is an Object Oriented Programming Hindi
+https://youtu.be/2rCWisN-suY
+Videos 51-75

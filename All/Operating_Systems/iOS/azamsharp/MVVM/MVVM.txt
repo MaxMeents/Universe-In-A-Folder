@@ -1,0 +1,22 @@
+
+#1 What is MVC
+https://youtu.be/cp_ipNcV1-8&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+
+#2 Whats Wrong with MVC
+https://youtu.be/TmLdsb0F2Y4&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+
+#3 What is MVVM
+https://youtu.be/VebJiBchWhw&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+
+#4 What You Will Be Building
+https://youtu.be/I_KMMgEWJj4&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+
+#5 Understanding Weather List Screen
+https://youtu.be/xozhk35t0As&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+
+#6 Understanding Add Weather Screen
+https://youtu.be/lu842-IbdHs&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+
+#7 Understanding the Settings Screen
+https://youtu.be/kWypQjoBr9Y&list=PLDMXqpbtInQhMbjJD6VOY8B2OsQ9FvHq7
+MVVM

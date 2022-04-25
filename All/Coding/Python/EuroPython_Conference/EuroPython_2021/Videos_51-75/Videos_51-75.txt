@@ -1,0 +1,76 @@
+
+A. Jacob, S. Crocquevieille, R.Meson, M. Levisalles, B. Le Bars - Tech for Good
+https://youtu.be/R3toQyUoLn4&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Andreas Klostermann - Heartbeats for Hackers
+https://youtu.be/sbGkWmSDLT8&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Anna-Lena Popkes - Finding Magic in Python
+https://youtu.be/J4e4YCZ-jiQ&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Christoph Dr. Zimmermann - Adventures in Real-time Python NoSQL-style
+https://youtu.be/JjBpkDfXFUE&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Daniel Moisset - Pattern Matching in Python
+https://youtu.be/3I97ggCKasc&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+David Bordeynik - Moving Fast with FastAPI
+https://youtu.be/m3IGL7uI5HM&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Emmanuelle Delescolle - Writing a python web framework in 2021
+https://youtu.be/PrDNDtc_cdc&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Gajendra Deshpande - Build Your First Cyber Forensic Application using Python
+https://youtu.be/zXF4vWuhFi8&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Gina Häußge - Driving 3D Printers with Python
+https://youtu.be/86T5-G8IDGw&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Harsh Bardhan - Build Serverless Python Applications using AWS Chalice
+https://youtu.be/e-qgtyD7tM8&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Jon Nordby - Sound Event Detection with Machine Learning
+https://youtu.be/bAWzRHd755g&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Kir Chou - Learn from LL(1) to PEG parser the hard way
+https://youtu.be/rlULA4PthKw&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Marc-Andre Lemburg - EuroPython 2022 Help us build the next edition!
+https://youtu.be/zX0RvQN7cwI&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Marc-Andre Lemburg - Thoughts on the Future of Python
+https://youtu.be/bLffgaVC1Os&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Meredydd Luff - Writing Better Documentation for Developers
+https://youtu.be/kNpyC4LY5gI&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Or Weis - Python RPC and PubSub over Websockets
+https://youtu.be/IuMZVWEUvGs&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Prakshi Yadav - Data lake Design for schema evolution
+https://youtu.be/G9G493LEP78&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Reuven Lerner - Generators, coroutines, and nanoservices
+https://youtu.be/rjBSOHXW5DY&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Ruud van der Ham - Sweeter debugging and benchmarking with ycecream
+https://youtu.be/jjWhmr2459k&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Scott Irwin - A Hitchhiker’s Guide to functools
+https://youtu.be/gX9krgyGw1k&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Shruti Mishra, Sonal Deshmukh, Gourika Sood - Building Application using Flutter and Django
+https://youtu.be/HqjZmV9Fgig&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Tarik Berrada - The Optimal Wedding (With Pyomo)
+https://youtu.be/PJPay2J2wJA&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Vinicius Gubiani Ferreira - Python Anti-Patterns
+https://youtu.be/Dtzn6-8fBj0&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Yoichi Takai - Getting Started with Statically Typed Programming in Python 3.10
+https://youtu.be/8HEYko-o63I&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Zac Hatfield Dodds - Stop Writing Tests!
+https://youtu.be/IcvCTHcYoMg&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+Videos 51-75

@@ -1,0 +1,76 @@
+
+Building Your First SimBiology Model
+https://youtu.be/_TW3qWsZMag
+
+Deep Learning How to modify CNN layers
+https://youtu.be/pPunNlbQXJQ
+
+Deep Learning How to Perform Transfer Learning
+https://youtu.be/_TyHGoxp8GY
+
+Deep Learning How to use Pre-trained Networks in MATLAB
+https://youtu.be/3m_fgh5GbkE
+
+Deep Learning Long Short-Term Memory Networks (LSTMs)
+https://youtu.be/5dMXyiWddYs
+
+Deep Learning Neural Networks Basics
+https://youtu.be/437dvcP-09E
+
+Deep Learning The Basics
+https://youtu.be/dV11OdHlemg
+
+Deep Learning Training Deep Networks from Scratch
+https://youtu.be/pYGeWGv9TsU
+
+Deep Learning Understanding Convolutional Neural Networks
+https://youtu.be/yOAPyrKqrno
+
+Deep Learning What is transfer learning
+https://youtu.be/kSJCLxDJ2Wc
+
+Getting Started with SimBiology
+https://youtu.be/0xnsiP2qZBc
+
+Introducing MATLAB
+https://youtu.be/Qn843VcAk1w
+
+Introducing Simulink
+https://youtu.be/EW544PfgBrs
+
+Line Plots
+https://youtu.be/sODDcOiYdZ0
+
+Machine Learning What is a Classification Tree
+https://youtu.be/PbzjDIKWKSw
+
+Machine Learning What is a k-NN classifier
+https://youtu.be/bKf01vqnOEU
+
+Machine Learning What is a Support Vector Machine
+https://youtu.be/N-sPSXDtcQw
+
+Machine Learning What is Discriminant Analysis
+https://youtu.be/eBm8Uo9yhwI
+
+Machine Learning What is k-Means clustering
+https://youtu.be/bHi6DacI3os
+
+Machine Learning What is Linear Regression
+https://youtu.be/5Uz8Frpx7g8
+
+Multiple Plots
+https://youtu.be/XsiUOAL5Rko
+
+Plotting a Trajectory in 3D
+https://youtu.be/_5PCRlLcsq4
+
+Release 2018b Highlights
+https://youtu.be/3TbBSsrQrCM
+
+Running Simulations in SimBiology
+https://youtu.be/GeQ2Oh1tXG4
+
+What Is Feedforward Control  Control Systems in Practice, Part 3
+https://youtu.be/FW_ay7K4jPE
+Videos 1226-1250

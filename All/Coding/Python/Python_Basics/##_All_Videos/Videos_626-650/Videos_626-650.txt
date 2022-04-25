@@ -1,0 +1,76 @@
+
+Python Basics 16,000 Views
+https://youtu.be/oyM_NLqP0bs
+
+Python Basics 250 Subs
+https://youtu.be/XoQE5GVcIu8
+
+Python Basics Expanded Search with Brackets
+https://youtu.be/ZYbOZdV--x8
+
+Python Basics Glob iglob Method
+https://youtu.be/KHlCRYvwQ0g
+
+Python Basics Install Numpy and Pandas
+https://youtu.be/wU1ZZg-_Aic
+
+Python Basics Itertools Groupby Method Pt  2
+https://youtu.be/xzQuR8RSzwY
+
+Python Basics Itertools Groupby Method Pt  3
+https://youtu.be/_MqXw27g354
+
+Python Basics Itertools Groupby Method
+https://youtu.be/ZqPKCNKvzbk
+
+Python Basics Matplotlib Multiple Plots
+https://youtu.be/5jf3CtfU0Vg
+
+Python Basics Matplotlib Pyplot Figure Object
+https://youtu.be/pLPgvYlAAKA
+
+Python Basics Matplotlib Subplots Function
+https://youtu.be/cHuwgUfubmE
+
+Python Basics OS Path Basename Method
+https://youtu.be/DjPiam25XGU
+
+Python Basics Pandas and Numpy
+https://youtu.be/zF_VQpSo168
+
+Python Basics Pop Quiz #3 Answer
+https://youtu.be/W4GSLfaY6OQ
+
+Python Basics Pop Quiz #3
+https://youtu.be/wU_ROiyHj4I
+
+Python Basics Pygame Draw Circle Method
+https://youtu.be/ZHE0JbV_b8I
+
+Python Basics Pygame Draw Module
+https://youtu.be/LN6JWfKGCy0
+
+Python Basics Re Findall Method
+https://youtu.be/uRpFU9iEYgs
+
+Python Basics Re Module Pt. 3 Special Character Dot (.)
+https://youtu.be/t5ffOZuTOtk
+
+Python Basics Requested Video Os Path Join
+https://youtu.be/TRq7JbgKN2s
+
+Python Basics So Very Grateful
+https://youtu.be/ojnsyx9xQ0Q
+
+Python Basics When you are stuck
+https://youtu.be/6sqAF28XZGc
+
+Python Basics Zipfile is zipfile Method
+https://youtu.be/JH6FrAxtR3c
+
+Python Basics Zipfile Module
+https://youtu.be/--bYxLsG0qA
+
+Python Basics Zipfile ZipFile Method
+https://youtu.be/OrP4V0WOJzE
+Videos 626-650

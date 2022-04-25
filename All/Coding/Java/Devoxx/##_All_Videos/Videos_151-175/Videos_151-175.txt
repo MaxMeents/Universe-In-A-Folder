@@ -1,0 +1,76 @@
+
+A Gentle Introduction to Angular Schematics by Matt Raible
+https://youtu.be/bLLJqagO_dg
+
+Agile in Security and Security in Agile by Mihai Roman
+https://youtu.be/X8u2kQ0WtQY
+
+API First development with OpenAPI - You should you practise it !  by Nick Van Hoof
+https://youtu.be/F9iF3a1Z8Y8
+
+Ask the Java Architect by Stuart Marks & Brian Goetz
+https://youtu.be/qKeMB7OoGJk
+
+Beyond Jakarta EE 8, by and for the Jakarta community by Gaël Blondelle & Ivar Grimstad & ....
+https://youtu.be/EWypLW9U9fw
+
+Cryptography 101 for Java developers by Michel Schudel
+https://youtu.be/SEKsvHYZz8s
+
+Decoupling your Springboot microservices live coded using workflow automation  by Niall Deehan
+https://youtu.be/ky_mG4giNm4
+
+Defence Against the Docker Arts by Joe Kutner
+https://youtu.be/ofH9_sE2qy0
+
+Designing functional and fluent API example of the Visitor Pattern by José Paumard
+https://youtu.be/gq23w9nycBs
+
+Dev...oops by Pierre-Antoine Grégoire
+https://youtu.be/Pg3uPXTDFbk
+
+Inside the Earth’s Coolest Datacentres by Jamie Coleman
+https://youtu.be/Ij2eci2U_m0
+
+Micro Frontend Architecture   Building an Extensible UI Platform  by Erik Grijzen
+https://youtu.be/9Xo-rGUq-6E
+
+Microservice Patterns - Implemented by Eclipse MicroProfile by Ivar Grimstad
+https://youtu.be/bX6AEnuLccI
+
+Migrate your APIs to GraphQL how and why! by Guillaume Scheibel
+https://youtu.be/IkPMpzQ-TRI
+
+More Than a Query Language SQL in the 21st Century by Markus Winand
+https://youtu.be/MnEDHFOqqno
+
+Optimizing the Performance of Machine Learning in Enterprise Java SaaS with GraalVM, Python and CUDA
+https://youtu.be/a1ZLEDN9BMc
+
+Re-design for the cloud   A real life example of horizontal scaling  by Rene Kroon
+https://youtu.be/LfPtQUVARGA
+
+The 7 biggest mistakes we made in 10 years of running a major open source project by Reinier & Roel
+https://youtu.be/MmLnJVlZAvk
+
+The Bloom filter cartoon by Valentin Deleplace
+https://youtu.be/4PQUDKM8ets
+
+The Hacker's Guide to JWT Security by Patrycja Wegrzynowicz
+https://youtu.be/dq39w4MiZzs
+
+These Songs Would Make Some Great Code Comments  by Hanno Embregts
+https://youtu.be/Clo60O-EfjE
+
+Thinking twice about migrating to Serverless by Edwin Derks
+https://youtu.be/FxG-eBfOPTY
+
+Troubleshooting containerized applications by Ana Maria Mihalceanu
+https://youtu.be/cRTwmwaJao0
+
+What Lies Beneath by Maurice Naftalin & Dmitry Vyazelenko
+https://youtu.be/5AFgNuGwLos
+
+“Security” in the JavaScript ecosystem by Pim Otte
+https://youtu.be/JlELjehycZ8
+Videos 151-175

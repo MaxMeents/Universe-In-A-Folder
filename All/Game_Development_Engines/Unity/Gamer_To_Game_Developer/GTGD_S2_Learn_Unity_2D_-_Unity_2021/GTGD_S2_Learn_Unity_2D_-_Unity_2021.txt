@@ -1,0 +1,61 @@
+
+Learn Unity 2D - Dev Update 2
+https://youtu.be/EEAUReXb9hw&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Upcoming GTGD S2 - Learn Unity 2D - Dynamic tilemap and navmesh and saving loading
+https://youtu.be/T4wPO1iX9Uo&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 1 Learn Unity 2D Introduction - GTGD S2 Unity 2021
+https://youtu.be/UHqSs4NVa10&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 10 AI For 2D Navmesh - Learn Unity 2D - Unity 2021
+https://youtu.be/vEBjC5qpoXY&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 11 Main Menu Scene - Learn Unity 2D - Unity 2021
+https://youtu.be/bJkgx81R06o&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 12 Main Menu Script - Learn Unity 2D - Unity 2021
+https://youtu.be/u9nYOIyDCM8&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 13 Saving Data To File - Learn Unity 2D - Unity 2021
+https://youtu.be/qIkRzUdeRqE&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 14 Display Save Games - Learn Unity 2D - Unity 2021
+https://youtu.be/VGMFpDn5urw&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 15 Load Data From File - Learn Unity 2D - Unity 2021
+https://youtu.be/5uTH0kj4j3Y&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 16 Post Processing - Learn Unity 2D - Unity 2021
+https://youtu.be/0Qkjaq-ZOzo&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 17 Tilemap Sorting Order - Learn Unity 2D - Unity 2021
+https://youtu.be/dK206TENOSY&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 18 Animated Tiles & Series 2 Conclusion - Learn Unity 2D - Unity 2021
+https://youtu.be/J24fnO0whrw&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 2 Setting Up - Learn Unity 2D - Unity 2021
+https://youtu.be/Ry6WSVVustE&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 3 Tilemap Sprites Light - Learn Unity 2D - Unity 2021
+https://youtu.be/a2iFey6F2BQ&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 4 Pixel Art - Learn Unity 2D - Unity 2021
+https://youtu.be/o0o4DOCt-aw&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 5 Player Navmesh and Camera - Learn Unity 2D - Unity 2021
+https://youtu.be/ZNnpE0ge6wY&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 6 Time Day And Night - Learn Unity 2D - Unity 2021
+https://youtu.be/hTytYGtp4CA&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 7 Player Light - Learn Unity 2D - Unity 2021
+https://youtu.be/rWxV9t2nqic&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 8 Construction System - Learn Unity 2D - Unity 2021
+https://youtu.be/n0FqvK_CbzI&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+
+Video 9 Construction System UI - Learn Unity 2D - Unity 2021
+https://youtu.be/5-sLkhLs-AU&list=PLwyZdDTyvuczXxOMzD2O6WpLYe3eehCwq
+GTGD S2 Learn Unity 2D - Unity 2021

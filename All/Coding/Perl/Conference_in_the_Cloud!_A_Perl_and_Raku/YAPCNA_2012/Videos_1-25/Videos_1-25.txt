@@ -1,0 +1,76 @@
+
+Perrin Harkins   Introduction to Performance Tuning Perl Web Applications
+https://youtu.be/iEZ-gcycxcA&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Quin Bailey   Building a DevOps process using Meister and Perl
+https://youtu.be/NgXRsjNV-yo&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+R Geoffrey Avery   Dancer Getting to Hello World
+https://youtu.be/rWkmlWOkobg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+R Geoffrey Avery   Lightning Talks Day 1
+https://youtu.be/Bohxcat4g-A&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+R Geoffrey Avery   Lightning Talks Day 2
+https://youtu.be/ILWrbvI8Qfg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+R Geoffrey Avery   Lightning Talks Day 3
+https://youtu.be/-J1q6HcDUVE&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+R Geoffrey Avery   White Camel Awards
+https://youtu.be/EP58jCl3gOk&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Randal Schwartz   Introduction to Git
+https://youtu.be/bwQqz3cb1Jc&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Ricardo Signes   Perl 5 Today, Tomorrow, and Christmas
+https://youtu.be/SUzO5lPhcIk&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Ricardo Signes   Whats New in Perl
+https://youtu.be/5FvNoTo7Kfo&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Robert Blackwell   Put your Doorbell on the Internet
+https://youtu.be/9sMWn8wPIb8&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Robin Darby   Perl, Mobile App  glue
+https://youtu.be/mi6R71VDPQM&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Sawyer X   Moose 101
+https://youtu.be/w6bLdmKDJFA&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Scott Walters   Perl SDL Games and Hacks
+https://youtu.be/HYFNEDDRyhc&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Sean Blanton   Perl in a Trading Environment A Multi Pronged Success Story
+https://youtu.be/MrVqFugk0SU&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Stephen Scaffidi   The Essential Perl Hackers Toolkit
+https://youtu.be/gKsh0rNm5zs&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Sterling Hanenkamp   MetaCPAN API and Android
+https://youtu.be/gQJs-JwTjUI&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Steven Lembark   Perl Myths Debunked
+https://youtu.be/U9fymZBlQ-I&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Steven Lembark   Utils are Your Friends
+https://youtu.be/FhqQIWmIwp0&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Tatsuhiko Miyagawa   Becoming a Polyglot
+https://youtu.be/HeHtBYBIYlA&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Thiago Rondon   You, Me and Opendata
+https://youtu.be/4zShbzh7neI&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Tom Christiansen   Perl NLP Stemming and Lemmatizing
+https://youtu.be/WJgoSm-P4Ao&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Tom Christiansen   Unicode Regexes
+https://youtu.be/74Ls6CmJJSE&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Tomas Doran   Messaging, interoperability and log aggregation   a new framework
+https://youtu.be/N1RrTS5pfEk&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Torsten Raudssus   DuckDuckGo and Perl
+https://youtu.be/-IIE6IWi3-M&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+Videos 1-25

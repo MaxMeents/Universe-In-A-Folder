@@ -1,0 +1,76 @@
+
+Golang UK Conf. 2016 - Natalie Pistunovich - Developing Apps for Developing Countries  go mobile
+https://youtu.be/JzZwQg0FCrY
+
+Golang UK Conference 2015 - Andrew Gerrand - Stupid Gopher Tricks
+https://youtu.be/UECh7X07m6E
+
+Golang UK Conference 2015 - Ben Darnell - CockroachDB
+https://youtu.be/33oqpLmQ3LE
+
+Golang UK Conference 2015 - Damian Gryski - The Go Community
+https://youtu.be/IiSyFc10Jj0
+
+Golang UK Conference 2015 - David Calavera  - Crossing the Language Chasm
+https://youtu.be/JPVRnEZ4v_w
+
+Golang UK Conference 2015 - Dean Elbaz - Understanding Memory Allocation in Go
+https://youtu.be/zjoieOpy5hE
+
+Golang UK Conference 2015 - Eleanor McHugh - Whispered Secrets
+https://youtu.be/ViBRx-F4Z2U
+
+Golang UK Conference 2015 - Evan Huus  - Complex Concurrency Patterns with Go
+https://youtu.be/2HOO5gIgyMg
+
+Golang UK Conference 2015 - Francesc Campoy  - Program Analysis
+https://youtu.be/oorX84tBMqo
+
+Golang UK Conference 2015 - Matt Heath - Building a Bank with Go
+https://youtu.be/cFJkLfujOts
+
+Golang UK Conference 2015 - Peter Bourgon - Go Kit A Toolkit for Microservices
+https://youtu.be/aL6sd4d4hxk
+
+Golang UK Conference 2016 - Asim Aslam - Simplifying Building and Managing Microservices with Micro
+https://youtu.be/xspaDovwk34
+
+Golang UK Conference 2016 - Dave Cheney - SOLID Go Design
+https://youtu.be/zzAdEt3xZ1M
+
+Golang UK Conference 2016 - Marcus Olsson - Building an enterprise service in Go
+https://youtu.be/twcDf_Y2gXY
+
+Golang UK Conference 2016 - Matthew Campbell - Cloud in your Cloud
+https://youtu.be/NwWVhRAiW7k
+
+Golang UK Conference 2016 - Michael Bironneau - Real time machine learning in Go
+https://youtu.be/taiUNm1I3QY
+
+Golang UK Conference 2016 - Michael Munday - Dropping Down Go Functions in Assembly
+https://youtu.be/9jpnFmJr2PE
+
+Golang UK Conference 2016 - Paul Bellamy - Advanced Patterns with io ReadWriter
+https://youtu.be/kTAsciVuZLQ
+
+Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context
+https://youtu.be/r4Mlm6qEWRs
+
+Golang UK Conference 2016 - Peter Bourgon - Go + Microservices = Go Kit
+https://youtu.be/JXEjAwNWays
+
+Golang UK Conference 2016 - Piyush Verma - Design patterns in Microservices architectures + Gilmour
+https://youtu.be/rDQTBpIWa7M
+
+Golang UK Conference 2016 - Slawosz Slawinski - What every developer should know about logging
+https://youtu.be/F528FnxTo8E
+
+Golang UK Conference 2016 - Tiffany Jernigan - How to Raise a Gopher in Record Time
+https://youtu.be/85-ii6Dgi1s
+
+Golang UK Conference 2016 - Travis Bischel - When Idioms Become Bottlenecks
+https://youtu.be/q7s30kFHBdw
+
+Golang UK Conference 2016 - Victor Ruiz - Building your own log-based message queue in Go
+https://youtu.be/ysjcEN548yc
+Videos 126-150

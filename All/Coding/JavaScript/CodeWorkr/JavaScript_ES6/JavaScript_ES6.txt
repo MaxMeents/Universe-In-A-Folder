@@ -1,0 +1,37 @@
+
+JavaScript ES6 Series #1 - forEach Helper
+https://youtu.be/Uo996lTt-ek&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #10 - Object Literals Features
+https://youtu.be/FGJQm1q4kiA&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #11 - Rest Operator
+https://youtu.be/RWz37fIUzO0&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #12 - Spread Operator
+https://youtu.be/88w7joflL-g&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #2 - find Helper
+https://youtu.be/Kdvxjln5pSA&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #3 - map Helper
+https://youtu.be/srns-X0Zf40&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #4 - filter Helper
+https://youtu.be/ppHcI_GxQCs&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #5 - every and some Helpers
+https://youtu.be/WB3Z-7m-aGc&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #6 - reduce Helper
+https://youtu.be/BmuIyFaqgdA&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #7 - Var, Let and Const
+https://youtu.be/pKK3mpXl_aM&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #8 - Fat Arrow Function
+https://youtu.be/t1f_z0eSNLI&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+
+JavaScript ES6 Series #9 - Default Parameters
+https://youtu.be/uyOZA6uag_E&list=PLSpJkDDmpFZ6djZkfL5-h_rWtZZW6Epx5
+JavaScript ES6

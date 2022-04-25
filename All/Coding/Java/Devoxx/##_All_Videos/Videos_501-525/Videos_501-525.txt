@@ -1,0 +1,76 @@
+
+A new era of security - Voxxed Days Singapore 2019
+https://youtu.be/Q8J7koX-PjY
+
+Apache Kafka for the Spring developer - Voxxed Days Singapore 2019
+https://youtu.be/AL9JKchntTg
+
+Build powerful chatbots with Natural Language Processing - Voxxed Days Singapore 2019
+https://youtu.be/5oBaCRl8eYc
+
+CEO Panel - Voxxed Days Singapore 2019
+https://youtu.be/VkOdyCET8tY
+
+Closing Keynote Events, Dear Boy, Events - Voxxed Days Singapore 2019
+https://youtu.be/8kjMZ3pKsiM
+
+Closing Keynote Going open to support your digital transformation - Voxxed Days Singapore 2019
+https://youtu.be/GTD_XIgIL3U
+
+Cluster ingress in the age of Envoy, Istio and Cloud - Voxxed Days Singapore 2019
+https://youtu.be/zm2BQDWJn-g
+
+GraalVM native executable for real apps - Voxxed Days Singapore 2019
+https://youtu.be/zjKL1J_1VjU
+
+How to assemble high performing teams - Voxxed Days Singapore 2019
+https://youtu.be/BOrObcXhH9E
+
+How to optimize mobile development - Voxxed Days Singapore 2019
+https://youtu.be/5g-DNCVkA9E
+
+Kafka as a Platform the Ecosystem from the Ground Up - Voxxed Days Singapore 2019
+https://youtu.be/BYM27b2Rs6A
+
+Kubernetes security 101 - Voxxed Days Singapore 2019
+https://youtu.be/V7z2SErgNmE
+
+Leading a boss-less organization - Voxxed Days Singapore 2019
+https://youtu.be/4zLuFD8NjIo
+
+Manulife Singapore our journey to make Agile part of our DNA - Voxxed Days Singapore 2019
+https://youtu.be/HvdHbDwT8qk
+
+Monitor Your Java Applications with the Elastic Stack - Voxxed Days Singapore 2019
+https://youtu.be/17xeTr4LFH4
+
+Opening Keynote Searching a silver bullet… - Voxxed Days Singapore 2019
+https://youtu.be/BB0p-96npvw
+
+Panel Discussion All About Open Source - Voxxed Days Singapore 2019
+https://youtu.be/HIl7qdRxwnc
+
+Real developers test in production (not exactly) - Voxxed Days Singapore 2019
+https://youtu.be/JhZg9luNhT4
+
+Server-side micro frontends - Voxxed Days Singapore 2019
+https://youtu.be/--lgWNQbw4g
+
+Superpowers coming to your Jenkins - Voxxed Days Singapore 2019
+https://youtu.be/MhNzsrwpebM
+
+The age of micro-frontends - Voxxed Days Singapore 2019
+https://youtu.be/0zC1_DoIae0
+
+The Future of Java and You - Voxxed Days Singapore 2019
+https://youtu.be/beBFConswJQ
+
+The road to a more conscious organization - Voxxed Days Singapore 2019
+https://youtu.be/3ipN1s4nDOs
+
+Twitter's quest for a wholly Graal runtime - Voxxed Days Singapore 2019
+https://youtu.be/TbUahT0jet0
+
+Web Western The Good, The Bad And The Web Components - Voxxed Days Singapore 2019
+https://youtu.be/VyDXGIcJnXU
+Videos 501-525

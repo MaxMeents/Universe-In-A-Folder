@@ -1,0 +1,76 @@
+
+Carey Witkov - Higgs meets Perl
+https://youtu.be/I7OMJKguseo
+
+Chad Granum - Testing with Test2
+https://youtu.be/USsaZ6m_Zy8
+
+David Mertens - CBlocks
+https://youtu.be/sOilXc0Pde4
+
+David Mertens - Writing Useful Scientific Analysis Software
+https://youtu.be/ZRq8zWdhRpM
+
+Dylan Hardison - Content Security Policies Sort of like firewall rules for the web
+https://youtu.be/2bCqUP-JnCI
+
+fREW Schmidt - Scaling, Reliability, and Performance at ZipRecruiter
+https://youtu.be/WHKQ2JfTaIM
+
+James E Keenan - How Do We Assess and Maintain the Health of the Perl 5 Codebase
+https://youtu.be/yLFHyxALAbE
+
+Joel Berger - Vue.js, Mojolicious, and Postgres chat in less than 50 lines
+https://youtu.be/dDH10srLgVc
+
+John Anderson - Logs Are Magic Why Git Workflows and Commit Structure Should Matter To You
+https://youtu.be/n_WGiS8fm8s
+
+Julka Grodel - The Variable Crimes We Commit Against JavaScript
+https://youtu.be/1aLoq9XzufU
+
+Keynote by Damian Conway - Three Little Words
+https://youtu.be/ob6YHpcXmTg
+
+Lee Johnson - OAuth2 is DOne
+https://youtu.be/kkd9hYC3xok
+
+Lightning Talk by Chad Granum - In Response to D. Conway's TestExpr
+https://youtu.be/wGTZCaU_z5U
+
+Lightning Talk by Doug Bell - CPAN Testers has an API
+https://youtu.be/okeBgBb1Cxs
+
+Lightning Talk by John Anderson - #speakerlife
+https://youtu.be/e-m-P4kGvr8
+
+Lightning Talk by Lee Johnson - A Single Git Bit
+https://youtu.be/Xt8qt1I4Fz8
+
+Lightning Talk by Mark Prather - A Great Huge Love (Community Advocacy)
+https://youtu.be/rxzD_Ijt8dE
+
+Lightning Talk by Matt S. Trout - Madness for your Methods
+https://youtu.be/3IIj1MqkwKs
+
+Lightning Talk by Tom Browder - A Personalized Calendar in Perl
+https://youtu.be/mo3P6L1qC9g
+
+Michael La Grasta - Ambient Information or My desk has 80k hits on YouTube
+https://youtu.be/lM6EwdofLh4
+
+Nova Patch - The X-Files Characters for Humans
+https://youtu.be/m7HJ0W5wft0
+
+Q & A with Larry Wall
+https://youtu.be/EwQoSZdEl2s
+
+Recognizing Jim Brandt or brian d foy
+https://youtu.be/3zAEFPfUnDk
+
+Sam Batschelet - Dancing in the Cloud
+https://youtu.be/HG0eOWESV0U
+
+William Morriss - Intellectual property and open source licensing basics
+https://youtu.be/vywD6haoKTs
+Videos 276-300

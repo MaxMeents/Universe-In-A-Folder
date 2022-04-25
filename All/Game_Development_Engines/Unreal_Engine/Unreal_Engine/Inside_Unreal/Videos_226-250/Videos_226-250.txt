@@ -1,0 +1,76 @@
+
+4.14 Animation Features & Nov #ue4jam Kickoff  Feature Highlight  Unreal Engine
+https://youtu.be/Ny3TULUfehk&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+4.14 Rendering Features & Nov #ue4jam Winners  Feature Highlight  Unreal Engine
+https://youtu.be/F4Z1V9Qe7F4&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+4.15 Preview Release  Feature Highlight  Unreal Engine
+https://youtu.be/CTBL3b6JjnQ&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+A Year in Review with Tim Sweeney & Dec #ue4jam Winners 2016  News  Unreal Engine
+https://youtu.be/UXBuBXXDdkY&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Audio Engine Preview  Feature Highlight  Unreal Engine
+https://youtu.be/h8o2xQcrb_E&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Behind the Scenes with Sumo Digital's Snake Pass  Developer Interview  Unreal Engine
+https://youtu.be/tqczzzNAcAc&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Blueprint Line & Shape Traces  Live Training  Unreal Engine
+https://youtu.be/2LP5shWCnhc&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+C++ Tanks vs Zombies  06  Live Training  Unreal Engine
+https://youtu.be/ncEE6nT_WYA&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Cable Component & 4.14 Features  Live Training  Unreal Engine
+https://youtu.be/HNlYg2qY7cI&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Child Actor Templates  Feature Highlight  Unreal Engine
+https://youtu.be/PMGwXEzfCI8&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Conan Exiles Mod Editor  News  Unreal Engine
+https://youtu.be/rEhjr-fcJ0U&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Creating Semi Procedural Materials  Live Training  Unreal Engine
+https://youtu.be/1b3v5kyCTz4&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Destructible Editor Features & Guide  Live Training  Unreal Engine
+https://youtu.be/QyuvmZvsLdU&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Filmic Tonemapper  Feature Highlight  Unreal Engine
+https://youtu.be/A-wectYNfRQ&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Font Features UI Font Outlines & UMG Blur Component  Feature Highlight  Unreal Engine
+https://youtu.be/gyqi-Yd3iuI&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+GDC Preview  News  Unreal Engine
+https://youtu.be/VeY1KtpvLUw&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Getting Started with AI  Live Training  Unreal Engine
+https://youtu.be/nshHCycft4A&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Getting Started with Landscapes  Live Training  Unreal Engine
+https://youtu.be/gMKjIZMPJ0Q&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Getting Started with Landscapes Materials and Foliage  Live Training  Unreal Engine
+https://youtu.be/PDlGKZ1c3Zc&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Introducing the Robo Recall Mod Kit  Feature Highlight  Unreal Engine
+https://youtu.be/Zb65ufIzbwU&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Lighting Techniques & Guides  Live Training  Unreal Engine
+https://youtu.be/jCsrWzt9F28&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+SideFX Houdini UE4 Plugin  Developer Interview  Unreal Engine
+https://youtu.be/Jjpeeq7KO2Y&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Spline Importing  Live Training  Unreal Engine
+https://youtu.be/N0CeLsI-sr8&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Updates to VR Editor  Feature Highlight  Unreal Engine
+https://youtu.be/20kzY5axUOM&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+World Position Offset Effects  Live Training  Unreal Engine
+https://youtu.be/EpbCul0I_d0&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+Videos 226-250

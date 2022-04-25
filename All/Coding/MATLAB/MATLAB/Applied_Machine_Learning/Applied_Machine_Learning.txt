@@ -1,0 +1,13 @@
+
+Embedded Systems  Applied Machine Learning, Part 4
+https://youtu.be/FZC7ovLwtb4&list=PLn8PRpmsu08r6v_9jtg8BlhtLU_wlo-nr
+
+Feature Engineering  Applied Machine Learning, Part 1
+https://youtu.be/ABV2YS9jbzE&list=PLn8PRpmsu08r6v_9jtg8BlhtLU_wlo-nr
+
+Hyperparameter Optimization  Applied Machine Learning, Part 3
+https://youtu.be/DjP6CiZcrF8&list=PLn8PRpmsu08r6v_9jtg8BlhtLU_wlo-nr
+
+ROC Curves  Applied Machine Learning, Part 2
+https://youtu.be/XGsw2QcJF1A&list=PLn8PRpmsu08r6v_9jtg8BlhtLU_wlo-nr
+Applied Machine Learning

@@ -1,0 +1,76 @@
+
+5 Hibernate Features You Should Use With Spring Data JPA
+https://youtu.be/9xKHZIEErIE&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+@DiscriminatorFormular - Modeling Single Table Inheritance Without a Discriminator
+https://youtu.be/k9nCNWRFpgk&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Fetching A DTO Projection with a To Many Association
+https://youtu.be/5oTH_Slettc&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+FlushMode in JPA and Hibernate – What it is and how to change it
+https://youtu.be/bLZLs8wQcaQ&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate @Filter Annotation Apply Dynamic Filters at Runtime
+https://youtu.be/GmQZ_QKDAzw&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Envers How to retrieve DTOs from your Envers Audit Logs
+https://youtu.be/nIs67VdjAhU&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate How to Generate Values of Basic Entity Attributes
+https://youtu.be/gkh1oojif60&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Proxies – Why they’re used and How to Unproxy them
+https://youtu.be/rADkGuDZkU4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Read-Only Query Hint For Faster Read Operations
+https://youtu.be/-SZKWIwYtAc&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Slow Query Log – The easiest way to find slow queries
+https://youtu.be/MjgXc2cAWYs&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate’s Query Plan Cache How It Works and How to Tune It
+https://youtu.be/QIBii_E42CY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to Return DTOs from Native Queries with Spring Data JPA
+https://youtu.be/FQNxZD2dbaA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Introduction to Panache
+https://youtu.be/5u59oNRH5SI&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA How & When to use getReference() Method
+https://youtu.be/O87L2lWT02w&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA Migrating from JPA 2.x to 3.0
+https://youtu.be/11mB8NM8g8c&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Modeling sequence-based composite primary keys with Hibernate
+https://youtu.be/apQ3BnR0rBU&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Panache  Active Record Pattern
+https://youtu.be/p3gc0CGhr80&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Panache Repository Pattern
+https://youtu.be/zCg9Vl4M_G4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Polymorphic Association Mappings of independent classes
+https://youtu.be/OFGl3eYm1yU&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Quarkus & Hibernate – Getting Started Guide
+https://youtu.be/hPikIWn71Lk&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+QueryDSL  How to use QueryDSL with Hibernate
+https://youtu.be/IQBhvQcnV5I&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Spring Data JPA   Implementing Bulk Updates
+https://youtu.be/f09xP-UNf-8&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Spring Data JPA – Detecting Your Entity’s State
+https://youtu.be/GOdh_6pAyYE&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Spring Data JPA – Working with Views
+https://youtu.be/ceY_h4PwzMQ&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+The Best Mapping for Shared Technical Attributes With Hibernate
+https://youtu.be/f5CHTPCsBVM&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+Videos 1-25

@@ -1,0 +1,76 @@
+
+GopherCon UK 2018 Michal Witkowski - Abusing Go's Net Package for Fun and Profit
+https://youtu.be/6nkAIhz-8Nc
+
+GopherCon UK 2019 Corver Roos - Dr Jekyll and Mr  Hyde, Embracing the Dual Nature of State
+https://youtu.be/ACmp5EaGTkg
+
+GopherCon UK 2019 Davy Jones - Productionise any Application in Kubernetes Using Sidecar Containers
+https://youtu.be/2n_5LhV_Ef8
+
+GopherCon UK 2019 Ignat Korchagin - Go as a Scripting Language in Linux
+https://youtu.be/6BJu_ahQ28o
+
+GopherCon UK 2019 Mahdi Jelodari - Energy Implications of Your Go code
+https://youtu.be/4f_Xy24rUYo
+
+GopherCon UK 2019 Michael Matloob - Using and Writing Go Analyses
+https://youtu.be/10IMWTpCSIQ
+
+GopherCon UK 2021 Adam Hicks - Scaling using Go
+https://youtu.be/g7mjD7KJy6M
+
+GopherCon UK 2021 Adelina Simion - Using NATS
+https://youtu.be/AhnL5addsVo
+
+GopherCon UK 2021 Alex Ellis - Zero to OpenFaas in 60 months
+https://youtu.be/QzwBmHkP-rQ
+
+GopherCon UK 2021 André Eriksson - Software development reimagined
+https://youtu.be/OrncUmqSJKU
+
+GopherCon UK 2021 Bartłomiej Płotka - Optimizing Go for Clouds
+https://youtu.be/lOQbvikazMk
+
+GopherCon UK 2021 Bryan Boreham - Go Large!
+https://youtu.be/OVVldYFoITo
+
+GopherCon UK 2021 Chris Reeves - Instrumenting GO Applications
+https://youtu.be/Xo7S5fQq2V8
+
+GopherCon UK 2021 Daniela Petruzalek - Building an Indie Game in GO
+https://youtu.be/Oce77qCXu7I
+
+GopherCon UK 2021 Eleanor McHugh - Browser environments from a system programmer’s perspective
+https://youtu.be/2dOekXenhAA
+
+GopherCon UK 2021 Eleni Fragkiadaki - Test coverage in Go, the whole package
+https://youtu.be/JTLB7j8M85A
+
+GopherCon UK 2021 Foivos Filippopoulos - Semaphore
+https://youtu.be/mcvCui4sRkw
+
+GopherCon UK 2021 Gergely Brautigam - Distributed Facial Recon
+https://youtu.be/ylhVjprTkOI
+
+GopherCon UK 2021 John Gregory - Who Goes There - building a serverless Github auditor
+https://youtu.be/tPpW_YKp6Zw
+
+GopherCon UK 2021 Nick Craig-Wood - Deadlocks The Dark Side of Concurrency
+https://youtu.be/9j0oQkqzhAE
+
+GopherCon UK 2021 Riya Dattani & Chris James - Acceptance Tests, BDD & GO
+https://youtu.be/ZMWJCk_0WrY
+
+GopherCon UK 2021 Sina Siadat - Building a small Language with Go for fun
+https://youtu.be/Gjgt5hcYLKU
+
+GopherCon UK 2021 Stuart Murray - How Go powered our elastic search
+https://youtu.be/r3g-uSJcU1Y
+
+GopherCon UK 2021 Tiago Mendes - Co-ordinating data changes in distributed systems
+https://youtu.be/osSkjwFgz5g
+
+GopherCon UK 2021 Tom Camp - Creating a basic chat app
+https://youtu.be/StNWEEfV_1s
+Videos 1-25

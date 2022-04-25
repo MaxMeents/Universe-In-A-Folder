@@ -1,0 +1,76 @@
+
+5 ways to make your unity3d code faster
+https://youtu.be/KErkmxbkBs8
+
+6 Useful Unity3D Things (one I just learned!)
+https://youtu.be/KRq0-0KY6bU
+
+Answering your Unity3D Questions + Live Chat with Viewers
+https://youtu.be/juBOkrSylio
+
+Brackeys
+https://youtu.be/mEyLludo_2s
+
+building a Kids Game in unity3d this is good for me
+https://youtu.be/ZuH2f0knvh8
+
+Discussion Game Dev Q&A  C#  Unity  Remote
+https://youtu.be/SUbwN5T1VGg
+
+Discussion SOLID & Unity3D
+https://youtu.be/IpsC1z8I0vo
+
+Discussion Unity3D Editor Customization with Odin & The DevDog Team + Q&A
+https://youtu.be/nTRsmiQOGpw
+
+Do Standards Matter in gamedev
+https://youtu.be/NQ6P7ecpdlY
+
+Events or UnityEvents
+https://youtu.be/oc3sQamIh-Q
+
+Game Programmer FAQ
+https://youtu.be/yMvmsBPuUZU
+
+How to get into Game Development with Unity3D + Q&A
+https://youtu.be/SvgHXnYdnXs
+
+How to Learn Game Dev + Unity3d Beginner FAQ
+https://youtu.be/woP3mKmecno
+
+How to Make a Game - Drawing with LineRenderer in Unity3D
+https://youtu.be/3hYrNu-AKPo
+
+How to Make a Game - Unity Beginner Tutorial - 2021 Version!
+https://youtu.be/Lu76c85LhGY
+
+Let's shorten your unity3d code - with Jason & Jason
+https://youtu.be/d5KD8WnlQmQ
+
+Move in Unity3D - Ultimate Unity Tutorial
+https://youtu.be/fyV77lN1Yl0
+
+Play all day The Life of a Game Developer
+https://youtu.be/PcVztFfYChc
+
+Prototyping Games in Unity
+https://youtu.be/x10P0RNHm4M
+
+Should You Be a Game Developer
+https://youtu.be/oQbjDq9SBRc
+
+Some CRAZY Game Art & Asset Deals
+https://youtu.be/tpJ3NB5NGs4
+
+The 6 Design Patterns game devs need
+https://youtu.be/hQE8lQk9ikE
+
+Top 5 Unity3D 2020 changes you need to know about
+https://youtu.be/NQcvdu_IyPw
+
+Unity Bots with State Machines - Extensible State Machine  FSM
+https://youtu.be/V75hgcsCGOM
+
+Unity3D GameDev Interview Questions
+https://youtu.be/AKtsyHeva3I
+Videos 176-200

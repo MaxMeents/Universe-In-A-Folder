@@ -1,0 +1,37 @@
+
+Graphics in Basic R  Tutorial - 10 Boxplot chart
+https://youtu.be/JF0oZ6NkYjE&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 11 Pie chart
+https://youtu.be/eh8GcZdR3OI&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 2  Scatter plot
+https://youtu.be/vFsBHgI0bGQ&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 3 Clustered Scatter plot
+https://youtu.be/I95tGsMv6Gs&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 4 Line charts
+https://youtu.be/9BXAQOjGKBE&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 5 Line density curve  Probability distribution curve in R
+https://youtu.be/PW6pvXkyw1k&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 6 Bar chart
+https://youtu.be/F3CtupXuCjM&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 7  Stacked & Grouped bar charts
+https://youtu.be/v3hDqLc59-I&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 8  Add error-bars to bar charts
+https://youtu.be/K-Br-dqb5c4&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial - 9 Histogram chart
+https://youtu.be/FY_DoXdy-j8&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basic R  Tutorial -1 Introduction  Why base R Plots
+https://youtu.be/r2zbJneotwA&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+
+Graphics in Basics R  Tutorial - 12 Exporting charts from R studio
+https://youtu.be/NhUNX1Antik&list=PL9dABXznEOVJKvCxg1YxsxoC6GAhftwu2
+Graphics in Basic R

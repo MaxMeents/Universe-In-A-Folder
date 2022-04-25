@@ -1,0 +1,55 @@
+
+GameMaker Studio 2 - Platform Shooter - 15 - Adding Sound Effects
+https://youtu.be/099ehStDues&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P1 - Movement and Collisions
+https://youtu.be/zqtT_9eWIkM&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P10 - Enemy Spawner
+https://youtu.be/l-gvzS3pvZs&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P11 - Let's Pixel an Enemy
+https://youtu.be/YJigG9EnCIM&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P12 - Health Bars and New Bullets
+https://youtu.be/ebJc-VtB3Hc&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P13 - Enemies with Bounce
+https://youtu.be/tyjrxCbPHIM&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P14 - Basic Pausing
+https://youtu.be/jAz5gEZuDB0&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P16 - Menu
+https://youtu.be/PexSxf5qd3w&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P17 - Invincibility Frames
+https://youtu.be/BEFoOBKJT98&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P18 - Camera and Score
+https://youtu.be/Q1Lw5pecZwo&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P2 - Sprites and Shooting
+https://youtu.be/FpVEUDs4De4&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P3 - Stretch, Squash, and Alarms
+https://youtu.be/QKNoq_AiqL4&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P4 - Basic Enemies
+https://youtu.be/kfbL2xHcds8&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P5 - Finite State Machines
+https://youtu.be/07uqGOISbGc&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P6 - Enemies that Shoot
+https://youtu.be/1N00qIGyiuI&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P7 - Better Move Script and Arrays
+https://youtu.be/0OSANLvig30&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P8 - Autotiles
+https://youtu.be/Rd01fHeO6v4&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+
+GameMaker Studio 2 - Platform Shooter - P9 - Player Animation
+https://youtu.be/UAZhVpPWksY&list=PL9FzW-m48fn3Ya8QUTsqU-SU6-UGEqhx6
+Make a Platform Shooter - GameMaker Studio 2

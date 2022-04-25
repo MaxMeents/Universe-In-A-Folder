@@ -1,0 +1,76 @@
+
+A Heaping Helping of performance, selector engines, and sandbox natives.
+https://youtu.be/59bTnR8d2Lg&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Aaron Newton Programming To Patterns
+https://youtu.be/RWbD35Bwf0c&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Alex Russell Google Chrome Frame
+https://youtu.be/5uF9K48RqiM&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Billy Hoffman JavaScript The Evil Parts
+https://youtu.be/RKMktxncquc&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Brendan Eich An Introduction to JavaScript
+https://youtu.be/1EyRscXrehw&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Brian Mitchell JavaScript's Twin
+https://youtu.be/IuVLm4Jcwds&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+CommonJS Panel - JavaScript Outside of the Browser - Where it is and where it's going!
+https://youtu.be/jPSVJuL07w8&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+David Furfero Making Ajax Sexy
+https://youtu.be/Rp0LHbVB1-g&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Dmitry Baranovskiy Raphaël the Great
+https://youtu.be/2pbPutbfKnM&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Douglas Crockford Really. JavaScript.
+https://youtu.be/lTWGoL1N-Kc&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Jeffrey Van Gogh The Reactive Extensions for JavaScript
+https://youtu.be/ClHpkn_qxos&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Jenn Lukas JavaScript and Web Standards Sitting in a Tree
+https://youtu.be/Z6TInmTsGkU&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Jeremy Ashkenas A Cup of CoffeeScript
+https://youtu.be/A5Sg04IEkvk&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+John Resig Building a better DOM API
+https://youtu.be/7y-M2N5fNu8&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Justin Meyer Thin Server Architecture and JavaScriptMVC 3.0
+https://youtu.be/Pxmj_TIELjY&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Makinde Adeagbo Primer
+https://youtu.be/wHlyLEPtL9o&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Marak Squires the evented web, hook.io
+https://youtu.be/varf6oWaFtU&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Matthew Fowle Laying New Web Infrastructure
+https://youtu.be/fjBj_zquKIM&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Michael Mahemoff The Lost Hacks
+https://youtu.be/k3JjNImWyP4&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Paul Irish - Progressive Advancement in Web8
+https://youtu.be/w6GbH8VjlSQ&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Ryan Dahl Less is More with Node.js
+https://youtu.be/4abYtdopuVE&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Steve Souders The Best of Steve
+https://youtu.be/zm0VpjAdbKs&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Welcome to JSConf 2010
+https://youtu.be/G6UdGqDGDv0&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+YayQuery - Lunch Spectacular Sponsored by Mozilla
+https://youtu.be/jFU-5nLt-bM&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+
+Zach Carter Build your own programming language with JavaScript
+https://youtu.be/YpT-GpcHf2g&list=PL37ZVnwpeshGsKh3UoENa6Z6weLA9V8bW
+Videos 1-25

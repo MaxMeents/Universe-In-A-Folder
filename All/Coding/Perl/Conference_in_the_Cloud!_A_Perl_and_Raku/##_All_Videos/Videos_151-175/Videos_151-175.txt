@@ -1,0 +1,76 @@
+
+Chad Granum - Better Testing with Test2-Suite
+https://youtu.be/JsZw8P_PCUg
+
+Dave Rolsky - Tidy All The Things
+https://youtu.be/MNEnnEi-XMA
+
+Jeffrey Goff - Procrastinate with DBIxLazyCache
+https://youtu.be/HKIDrGMAeXQ
+
+John Dickhoff - Perl Glue for Millenial Hardware Design Tool Flow Automation
+https://youtu.be/9QCoDda5vj4
+
+John Karr - Home Lab With Linux KVM Stack
+https://youtu.be/Dl4tpStOKyg
+
+M. Scott Ford - Building a Bridge to a Legacy Application
+https://youtu.be/SO3RfVnbXJg
+
+Nicolas R. - Overriding Perl OPs With XS
+https://youtu.be/2YMWDjkVJ2g
+
+Q & A With Larry Wall
+https://youtu.be/Q_oM27VJ1mo
+
+[Lightning Talk Randal Schwartz - What's up With Dart and Flutter
+https://youtu.be/gCnfgRVWW6U
+
+[Lightning Talk] Andrew Fresh - Documentation What goes where and why.
+https://youtu.be/-_x8fFuVF2k
+
+[Lightning Talk] Brian Kelly - Modern approaches to Ancient Perl
+https://youtu.be/IbEyBXqaOMA
+
+[Lightning Talk] Cees Hek - To undef or not to undef
+https://youtu.be/XvNTvqUYIAs
+
+[Lightning Talk] Chris Nandor - Slash Taming the Beast (2001)
+https://youtu.be/q0DFMrCcuPM
+
+[Lightning Talk] D. Ruth Holloway - Remodeling a Resource
+https://youtu.be/cpW-he_cLgc
+
+[Lightning Talk] Dave Rolsky - Memories from YAPCNA 2002
+https://youtu.be/qxiinYe8t8w
+
+[Lightning Talk] Graham Ollis & Sawyer X - Out with the XS, in with the FFI
+https://youtu.be/Vx0HyPmpFZ0
+
+[Lightning Talk] James E. Keenan - An Index of Incivility in the Perl Community
+https://youtu.be/YrB1vXT7ans
+
+[Lightning Talk] John Anderson - Digging in the Dirt
+https://youtu.be/cJmLi3clFkk
+
+[Lightning Talk] Josh Rabinowitz - REDUX Indexing and Retrieving Data with Perl and SWISH-E
+https://youtu.be/xr7FforJwOs
+
+[Lightning Talk] Kenta Sato - Perl5 VS JSON
+https://youtu.be/PxDNJCATCfA
+
+[Lightning Talk] R. Geoffrey Avery - Conference history as told by name tags and The Gong
+https://youtu.be/ZoNAQfy7erc
+
+[Lightning Talk] Randal Schwartz - 'Reducing Business Risk Using Perl' from YAPC 1999
+https://youtu.be/cBAM03Qu4tk
+
+[Lightning Talk] Steve Scaffidi - Wake Me Up (Because I'm On-Call)
+https://youtu.be/yEHH7L9cexM
+
+[Lightning Talk] Timm and Dawn Murray - Quilting Perl Together
+https://youtu.be/LIBoJ4T4X1c
+
+[Lightning Talk] Walt Mankowski - A Practical Application of QuantumSuperpositions
+https://youtu.be/-k0-pjV2Zms
+Videos 151-175

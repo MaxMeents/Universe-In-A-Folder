@@ -1,0 +1,76 @@
+
+Andrew Grangaard - A perler's Python Primer
+https://youtu.be/-tdI9RYjZNE
+
+Andrew Grangaard - Readin' Rust
+https://youtu.be/kX6kEg83Dqk
+
+Christopher Jack - Using Perl to parse terabytes of mission critical variable
+https://youtu.be/43bGlQeBTS0
+
+D. Ruth Holloway - The Pleasures and Perils of a Programming Polyglot
+https://youtu.be/Vg1MQJvEL4Y
+
+Dan Wright - Farewell Address
+https://youtu.be/TQTWwpQ01qI
+
+Dave Rolsky - Classy Testing
+https://youtu.be/VE886jtXgqY
+
+David Hand - Non-trivial jq
+https://youtu.be/MvI6Z85EgVo
+
+Dimitrios Kechagias - Test2Aggregate Blazing fast unit tests & more
+https://youtu.be/olH41BhFx6M
+
+Hauke D - Data logging with Perl – for Science!
+https://youtu.be/V0GKykOCPzM
+
+Houston.pm April 2020 meeting - SQL 101
+https://youtu.be/_QKOUeWKo7E
+
+Jeffrey Goff - The Seven Habits of Highly Defective Programmers
+https://youtu.be/EYJf99QISO0
+
+Larry Wall State of the Onion 2000
+https://youtu.be/a1SEt_-QMDo
+
+Max Maischein - My Private Weather
+https://youtu.be/4TlwXS-hb-4
+
+Opening  Perl Keynote Sawyer - Get better, not get by
+https://youtu.be/6wPMh-3qYJM
+
+[Lightning Talk] Chris Nandor - Through a Terminal Darkly
+https://youtu.be/c3m_gKMIc-E
+
+[Lightning Talk] Ingy döt Net - A New Name for Perl
+https://youtu.be/VYjiHU7axUI
+
+[Lightning Talk] Jason Crome - Come to Charlotte, NC!
+https://youtu.be/-7e-if-yzvg
+
+[Lightning Talk] Karl Williamson - Matching IP Addresses
+https://youtu.be/TmJp7t00RDU
+
+[Lightning Talk] Kevin McGrail - Apache SpamAssassin News & Funnies
+https://youtu.be/6MBUBLsuAn8
+
+[Lightning Talk] M. Scott Ford - Engage Docking Clamps
+https://youtu.be/O0XJ1n6wnuI
+
+[Lightning Talk] Mike Fragassi - Fountain Pens
+https://youtu.be/1px2VHqOLM4
+
+[Lightning Talk] Sterling Hanenkamp - My Fiddly Hobby of 3D Printing
+https://youtu.be/kKahkX-qXUA
+
+[Lightning Talk] Steve Scaffidi - Perlanoid
+https://youtu.be/kqu7pqwBXV4
+
+[Lightning Talk] Timm Murray - A Brief History of my Brief History with YAPC
+https://youtu.be/jeJ429ZPQOU
+
+[Lightning Talk] Will Braswell RPerl Quickie
+https://youtu.be/Wudx28D6xMk
+Videos 126-150

@@ -1,0 +1,76 @@
+
+Developing Computational Skills in the Sciences with Matlab
+https://youtu.be/IdNHGw3DU-4
+
+How a Differential Equation Becomes a Robot, Part 1 Overview
+https://youtu.be/apPJtJqCu44
+
+MATLAB & Simulink Mobile Challenge
+https://youtu.be/rtT4GPH0snk
+
+MATLAB to C Made Easy - R2017a
+https://youtu.be/Zmz57-nhNAM
+
+Modeling Rail Electrical Systems in MATLAB and Simulink
+https://youtu.be/CzGBK70oaO0
+
+Multilevel Mixed-Effects Modeling Using MATLAB
+https://youtu.be/-XVVjwSqbZo
+
+Predictive Maintenance with MATLAB A Prognostics Case Study
+https://youtu.be/9QUM5jtB0t4
+
+Prototyping SoC based Motor Controllers with MATLAB and Simulink
+https://youtu.be/gWzc32hQ-X4
+
+Quadcopter Simulation and Control Made Easy - MATLAB and Simulink Video
+https://youtu.be/fpJZSQmqDVk
+
+Raspberry Pi Programming using Simulink
+https://youtu.be/HjCOv1QqIOw
+
+Real-time Airplane Tracking with ADS-B Signals and RTL-SDR Radios
+https://youtu.be/y3NOp2D8zXs
+
+Real-Time Audio Processing for Algorithm Prototyping and Custom Measurements
+https://youtu.be/1IHV9TpXPro
+
+Stateflow Design Patterns Switch Case and Reusable Flow Charts
+https://youtu.be/pn_Y5SBpOuw
+
+Stateflow Tutorials, Part 1 States and Transitions
+https://youtu.be/thBxzulFuyg
+
+Stateflow Tutorials, Part 2 Parallel Execution and Truth Tables
+https://youtu.be/jvSjBDnvbxE
+
+Stateflow Tutorials, Part 3 MATLAB and Simulink Functions
+https://youtu.be/64iuG25g-Og
+
+Teaching Physics with MATLAB Simulations and Experiments
+https://youtu.be/6MPmE3j9J6E
+
+Using MATLAB to Develop and Deploy Financial Models
+https://youtu.be/5pGl0PAyqdU
+
+Using MATLAB to Develop Macroeconomic Models
+https://youtu.be/wb0lC4CQCA4
+
+Using Xilinx System Generator for DSP with Simulink and HDL Coder
+https://youtu.be/oJGHcl6Vk4g
+
+Walk Forward Analysis Using MATLAB to backtest your trading strategy
+https://youtu.be/D8vGt0dT2Ks
+
+Waveform Generation and Testing with Software Defined Radios SDR and RF instruments
+https://youtu.be/WKJBo0SzP3Q
+
+Wi-Fi Standards in WLAN System Toolbox
+https://youtu.be/yN-drQVKP-g
+
+Wind Resource Assessment Data Analysis Using MATLAB
+https://youtu.be/7ViMVNY5kG4
+
+WLAN 802.11ad Simulation
+https://youtu.be/EJQV33oC5o4
+Videos 1576-1600

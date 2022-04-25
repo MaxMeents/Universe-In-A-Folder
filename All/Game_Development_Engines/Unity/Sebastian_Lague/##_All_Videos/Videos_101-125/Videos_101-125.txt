@@ -1,0 +1,76 @@
+
+Blender Character Creation (E01 Introduction)
+https://youtu.be/ocLZNRasU64
+
+Blender Character Creation (E02 Modelling)
+https://youtu.be/WnPkrxz4AQQ
+
+Blender Character Creation (E03 Rigging)
+https://youtu.be/8mZtc33rQ3c
+
+Blender Character Creation (E04 Rigging addendum)
+https://youtu.be/9iaB2GpzIxQ
+
+Blender Character Creation (E05 Walk animation)
+https://youtu.be/sTo4adwvulE
+
+Blender Character Creation (E06 Run animation)
+https://youtu.be/wxq_tt9JlMM
+
+Character Creation (E07 Unity character controller)
+https://youtu.be/ZwD1UHNCzOc
+
+Character Creation (E08 third person camera)
+https://youtu.be/sNmeK3qK7oA
+
+Introduction to Game Development (E09 space, parenting, rotation)
+https://youtu.be/Q1xZGt41N80
+
+Introduction to Game Development (E10 collision detection)
+https://youtu.be/B0aGFBo_Ki0
+
+Introduction to Game Development (E11 prefabs and instantiation)
+https://youtu.be/G_KB60cy_hk
+
+Introduction to Game Development (E12 script communication)
+https://youtu.be/vDrYDAMdpuc
+
+Introduction to Game Development (E13 falling blocks game 14)
+https://youtu.be/OspvMh3UWPU
+
+Introduction to Game Development (E14 falling blocks game 24)
+https://youtu.be/5vov9H7RuF8
+
+Introduction to Game Development (E15 falling blocks game 34)
+https://youtu.be/beWwwxn7dLQ
+
+Introduction to Game Development (E16 falling blocks game 44)
+https://youtu.be/6nfaPDPA-Y8
+
+Procedural Landmass Generation (E11 falloff map)
+https://youtu.be/COmtTyLCd6I
+
+Procedural Landmass Generation (E12 normals)
+https://youtu.be/NpeYTcS7n-M
+
+Procedural Landmass Generation (E13 collisions)
+https://youtu.be/kM6yRUOnrI8
+
+Procedural Landmass Generation (E14 flatshading)
+https://youtu.be/V1vL9yRA_eM
+
+Procedural Landmass Generation (E15 data storage)
+https://youtu.be/2IZ-99ueB4A
+
+[C#] Delegates and Events (E01 delegates)
+https://youtu.be/G5R4C8BLEOc
+
+[C#] Delegates and Events (E02 events)
+https://youtu.be/TdiN18PR4zk
+
+[Unity] Creating a 2D Platformer (E12. refactoring, ray spacing)
+https://youtu.be/Poq9ExMoYCQ
+
+[Unity] Creating a 2D Platformer (E13. max slopes)
+https://youtu.be/1i1hTLU6JTY
+Videos 101-125

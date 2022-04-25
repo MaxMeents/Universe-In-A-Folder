@@ -1,0 +1,19 @@
+
+FOSDEM 2017  Android development with Go
+https://youtu.be/wgIlkyvXyEw&list=PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp
+
+FOSDEM 2017  gobpf - utilizing eBPF with Go
+https://youtu.be/qZezgkZvoKg&list=PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp
+
+FOSDEM 2017  High performance and scaling techniques in Golang using Go Assembly
+https://youtu.be/AOpprhr6C9I&list=PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp
+
+FOSDEM 2017  High-performance IoT Using Go and Gobot
+https://youtu.be/qza7-CRCVVU&list=PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp
+
+FOSDEM 2017  Implementing 'tail -f' with Go
+https://youtu.be/lLDWF59aZAo&list=PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp
+
+FOSDEM 2017  The State of Go
+https://youtu.be/tY4UKkgb5IY&list=PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp
+FOSDEM 2017 Go Devroom

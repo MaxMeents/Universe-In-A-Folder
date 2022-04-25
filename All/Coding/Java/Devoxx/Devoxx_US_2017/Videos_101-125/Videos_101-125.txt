@@ -1,0 +1,76 @@
+
+Behavior driven integration with Cucumber and Citrus by Christoph Deppisch
+https://youtu.be/jNgROZjI98Y&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Best Practices in Reactive Application with Java 1.8 and Play by Will Sargent
+https://youtu.be/t_d8a_wqFu8&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Bits, Bytes and Brains - Where Watson Is and Where its going by IBM
+https://youtu.be/1jUmMQNm3Vg&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Continuous Optimization of MIcroservices using Machine Learning by Ramki Ramakrishna
+https://youtu.be/zhjrfBemz8w&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Contributing to Open Source by Gunnar Wagenknecht and Wayne Beaton
+https://youtu.be/EgwXxnan_lA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Creating a Connected Home by Kevin and Andy Nilson
+https://youtu.be/eJRVNNi5d78&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Eclipse Che by Tyler Jewell
+https://youtu.be/3rN8u1WHlU4&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Eclipse OMR a modern, open-source toolkit for building language runtimes by Daryl Maier
+https://youtu.be/eLUAB_RO460&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Introduction to Eclipse Che by Stévan Le Meur and Florent Benoit
+https://youtu.be/bvIil8hkIC0&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Java Puzzlers NG S02 Down the Rabbit Hole by Baruch Sadogursky and Viktor Gamov
+https://youtu.be/BVxrlc-pAX8&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+JavaScript  the new parts by Joshua Wilson
+https://youtu.be/lEuU-X5--mE&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Lessons Learned from building out hyper scale cloud services using docker by Boris Scholl
+https://youtu.be/jsSofgSX5d0&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Making Android Apps with Intelligence by Margaret Maynard-Reid
+https://youtu.be/b4jVaWBwEHw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Mobycraft Manage Docker containers using Minecraft by Arun Gupta
+https://youtu.be/2pptPgmJ_3U&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+New Computer Architectures  Explore Quantum Computers & SyNAPSE neuromorphic chips by Peter Waggett
+https://youtu.be/yZzq0VZ80EA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Next Level Spring Boot Tooling by Martin Lippert
+https://youtu.be/iE-7eSYDsPo&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+REPL  Java developers new friend by Miro Cupak
+https://youtu.be/8VoONBPT2mk&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Running a Successful Open Source Project by Wayne Beaton and Gunnar Wagenknecht
+https://youtu.be/l3oM1JfTvuY&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Rust intro for Java Developers by Hanneli Tavante
+https://youtu.be/zyCb-S1JjdI&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Tackling Performance Issues with YourKit by Karsten Thoms
+https://youtu.be/q6NlxDesFPg&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Art of Parsing by Evgeny Mandrikov and Nicolas PERU
+https://youtu.be/ZHGv12PPu44&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The hardest part of microservices Your Data by Christian Posta
+https://youtu.be/EdtZnmV_D-g&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+What developers should know about design by Erwin de Gier
+https://youtu.be/XIMjFXbP6Aw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+WritingRunningDebugging Docker Applications with Eclipse Che by James Drummond
+https://youtu.be/PcoksF1CP7g&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Your first Application based on Eclipse  FAQ by Jonas Helming
+https://youtu.be/FnWtlHd8b9M&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+Videos 101-125

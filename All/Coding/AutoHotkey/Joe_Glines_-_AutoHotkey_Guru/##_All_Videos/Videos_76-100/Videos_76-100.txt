@@ -1,0 +1,76 @@
+
+Easily control ALL running AHK scripts with AHKScriptHub
+https://youtu.be/hdpJebygFxk
+
+Get Excel meta data  Update to AutoHotkey Excel function library
+https://youtu.be/4Bg6TCkWhfQ
+
+Getting various Excel Paths Update to AutoHotkey Excel Function Library
+https://youtu.be/N3bJPSled9k
+
+How to Add Icons to Quick Access Popup to easily spot your item
+https://youtu.be/WA6rsdcGUAs
+
+How to Automate IE from within Edge
+https://youtu.be/ySRSb4lVwuY
+
+How to Compare Mic Levels before recording
+https://youtu.be/7Cr0RP0Ntt4
+
+How to Create a BMP with GDIPlus and AutoHotkey
+https://youtu.be/DBSA5rZVIQg
+
+How to easily access mobile devices & other special folders on Windows
+https://youtu.be/qWU5rFN9eGI
+
+How to easily create Bar Charts with AutoHotkey and the GDI library
+https://youtu.be/YaCuxGpMtmU
+
+Learn how to use Discord to get FREE AutoHotkey Help
+https://youtu.be/IREP9ygw2DE
+
+New AutoHotkey Udemy course FAQ #2 & how to get it for free!
+https://youtu.be/rftiZ9JhxBA
+
+Pull up AutoHotkey documentation AND VIDEOS in ANY editor  IDE!
+https://youtu.be/p4XqpEcvWBM
+
+Recording Audio with AutoHotkey and BASS dll
+https://youtu.be/60x-9Jn7Krg
+
+Simple ActiveX GUI tutorial drawing 1,000 images with AutoHotkey
+https://youtu.be/5m30RaCsttc
+
+The Magic of ActiveX & AutoHotkey Maestrith adapts Hellbent's code
+https://youtu.be/04e5xwLAFt4
+
+the-Automator  Quick Access Popup Live Support
+https://youtu.be/gYJjgE3pjzA
+
+the-Automator Live AHK & QAP Support
+https://youtu.be/msm05r_QD6A
+
+the-Automator Live AHK & Quick Access Popup Support
+https://youtu.be/zDQevIHUV_k
+
+the-Automator Live AutoHotkey & Quick Access Popup Support
+https://youtu.be/jGR9ITQXCw4
+
+the-Automators' Podcast #122-Why people want to perform a memory scan
+https://youtu.be/Pg7QdmXVG4U
+
+the-Automators' Podcast #123 the use of voice commands in our everyday lives
+https://youtu.be/clxaahdNvdQ
+
+the-Automators' Podcast #124  Are key loggers an invasion of privacy
+https://youtu.be/ZbCFPIykkJw
+
+the-Automators' Podcast #125  Resources used waiting for a window
+https://youtu.be/B4sTVVTlWow
+
+the-Automators' Podcast 121 - how humans and computers are similar in handling tasks
+https://youtu.be/ZyjHf3GbJFI
+
+Troubleshooting AutoHotkey scripts  Running a script as an Admin
+https://youtu.be/oX_gIxJzl10
+Videos 76-100

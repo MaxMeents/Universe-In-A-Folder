@@ -1,0 +1,76 @@
+
+Advances in the MATLAB Editor and Live Editor
+https://youtu.be/_6XkqnMmsWs
+
+AI Model Explainability  5 Deep Learning Visualizations with MATLAB
+https://youtu.be/qQMBYWijvEA
+
+Artificial Pancreas Control Using Fuzzy Logic
+https://youtu.be/r8qQhdvxFmw
+
+CAN Bus Data Visualization with CAN Explorer
+https://youtu.be/h2IVIBWUMUc
+
+Create Parking Lots in Driving Scenario
+https://youtu.be/HQiku1g2PEw
+
+Creating Views for Architecture Models in System Composer
+https://youtu.be/q6Lahs97Hwk
+
+Cross Spectrum–Based Transfer Function Measurement
+https://youtu.be/A4OG9ce9N0Q
+
+Deep Learning Text Generation & Classification with MATLAB
+https://youtu.be/WPpCiYjJD4g
+
+Detect and Plot Water Level Change with USB Webcam Live Editor Task
+https://youtu.be/WIt6bhTYji8
+
+How to Customize Generated ASAP2(a2l) File Using Calibration Profile
+https://youtu.be/CMjoEmVxCQY
+
+How to Make an Interactive App in MATLAB
+https://youtu.be/SpAp7QACF34
+
+How to Organize Large Projects into Components
+https://youtu.be/nUnRC2uwpHo
+
+How to Tune PI Controllers for a PMSM
+https://youtu.be/T8DYNOcEDmU
+
+How to Use Pre-trained Models  Deep Learning with MATLAB
+https://youtu.be/cXyKKZaz00E
+
+Interactively Extract Spectral Features for Fault Identification
+https://youtu.be/uvvhJhogBLA
+
+Object-Oriented Programming with MATLAB
+https://youtu.be/n9Q7AQOhttw
+
+Programming with MATLAB
+https://youtu.be/jogGxRr_sXY
+
+Quick and Dirty Device Characterization Using Chirp Excitation
+https://youtu.be/fdnZIfH-0uo
+
+Rapid Control Prototyping with Simulink Real-Time
+https://youtu.be/45yv53-xX3w
+
+Search and Replace Text in Simulink Models Using Finder
+https://youtu.be/INV0j3a7J0g
+
+Speed Up Simulations Using SIMD Instructions
+https://youtu.be/2yZrG-accRM
+
+System Composer Architecting Physical Systems with Simscape
+https://youtu.be/T6kURKNjg0Q
+
+Tuning a Fuzzy Logic Controller with Data  Fuzzy Logic, Part 4
+https://youtu.be/MbUaxn-7bJI
+
+Using MATLAB with GitHub Actions
+https://youtu.be/Qj5upV0Qm1o
+
+What is Simulink Compiler
+https://youtu.be/fF5J9nVVprI
+Videos 176-200

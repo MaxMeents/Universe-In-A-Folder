@@ -1,0 +1,34 @@
+
+Attila Dusnoki — Servo & WebRender research at University of Szeged (Rust Hungary #2, 2017-10-24)
+https://youtu.be/SK5iEOc57wQ&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Florian Gilcher — The Rust programming language (Rust Hungary Kickoff, 2017-09-23)
+https://youtu.be/b3eMTF5ATGQ&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Gábor Lóki  — Implementing WebBluetooth in RustServo (Rust Hungary Kickoff, 2017-09-23)
+https://youtu.be/Nyd6E-WE5BY&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Ingvar Stepanyan — Rust + WebAssembly = ❤️ (Rust Hungary Kickoff, 2017-09-23)
+https://youtu.be/Kn5T0i4Pplc&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Jan-Erik Rediger - WebAssembly for the Rust of Us (Rust Hungary #3, 2017-11-23)
+https://youtu.be/FJoYZUMOwM4&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Nicolas Silva — WebRender a sneak peek into Firefox Quantum's future (Rust Hungary #2, 2017-10-24)
+https://youtu.be/oXF-uyPIKcc&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Nikita Baksalyar — All you need to know about the Rust FFI (Rust Hungary #2, 2017-10-24)
+https://youtu.be/ctffjzdgGvc&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+One Factor Authentication (2020-02-04) - Rust Hungary Meetup
+https://youtu.be/s5zfGWKK37w&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Péter Czibik - Fast & Safe Native node.js Modules with Rust (Rust Hungary #3, 2017-11-23)
+https://youtu.be/zz1Gie9FkbI&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Rust Hungary - Meetup S03 E02
+https://youtu.be/KsRT5ruI_rM&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+
+Valentin Goşu - Oxidation - How We Got Rust Code into Firefox (Rust Hungary #3, 2017-11-23)
+https://youtu.be/7ti6EtP8W8c&list=PL85XCvVPmGQiSCQWoM29cP5lxPR-mvJd_
+Rust Hungary Meetup

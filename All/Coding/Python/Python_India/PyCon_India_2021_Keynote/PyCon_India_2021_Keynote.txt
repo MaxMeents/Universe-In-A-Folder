@@ -1,0 +1,13 @@
+
+Keynote Modern Python through FastAPI and friends - Sebastián Ramírez
+https://youtu.be/3qTBLhnS4to&list=PL6GW05BfqWIerlriJKq-o5aKB4luR3xkN
+
+Keynote Observability in the Cloud - Alolita Sharma
+https://youtu.be/2C3dLFaJk6M&list=PL6GW05BfqWIerlriJKq-o5aKB4luR3xkN
+
+Keynote Role of Python, in Education and beyond - Ajith Kumar
+https://youtu.be/RqtnBm7tfIs&list=PL6GW05BfqWIerlriJKq-o5aKB4luR3xkN
+
+Keynote Type hints, protocols, and good sense - Luciano Ramalho
+https://youtu.be/FmT_Tj7qlCo&list=PL6GW05BfqWIerlriJKq-o5aKB4luR3xkN
+PyCon India 2021 Keynote

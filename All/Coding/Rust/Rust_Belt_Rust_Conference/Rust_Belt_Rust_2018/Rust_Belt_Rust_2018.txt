@@ -1,0 +1,46 @@
+
+Actix and Actors in Rust — Nathan Hawkins
+https://youtu.be/W-hvnVeRJzs&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Core Team Talk — Ashley Williams and Niko Matsakis
+https://youtu.be/C4jQbc1RJPY&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Evolving API design in Rust — Simon Nicholas Heath
+https://youtu.be/Xt1JOVeQ5hw&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Lightning Talks Announcing the Ann Arbor Meetup — Esty Thomas
+https://youtu.be/qtxvwermthE&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Lightning Talks Personal Wiki — James Sacksteder
+https://youtu.be/3i3gdxD_opM&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Lightning Talks Rust In Space — myrrlyn
+https://youtu.be/xYDKcoS26ZM&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Lightning Talks Rust Quiz — Alex Crichton and David Tolnay
+https://youtu.be/QtDj9R6vtA8&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Lightning Talks Rust's Family Tree — Jenny Manning
+https://youtu.be/u3vZia0NB1I&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Lightning Talks Rustbots - Robots powered by Rust — Rahul Thakoor
+https://youtu.be/HoD-PrkaGUU&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Maintaining the Rust Community — Arshia Mufti
+https://youtu.be/1YR3TbrC3r4&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Monotron - a 1980s style home computer written in Rust — Jonathan Pallant
+https://youtu.be/xBRFtlT5Pfs&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Move fast and don't break things High-performance networking in Rust — Joshua Liebow-Feeser
+https://youtu.be/UfMOOxOGCmA&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Percy Isomorphic Web Apps with Rust + WebAssembly — Chinedu Francis Nwafili
+https://youtu.be/M6RLvGqQU10&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+State of the crates.io — Sean Griffin
+https://youtu.be/QjQPNZPSlqA&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+
+Syntax conveniences afforded by the compiler — Tshepang Lekhonkhobe
+https://youtu.be/Xk5IZOtLUmE&list=PLgC1L0fKd7UlpVTHVfLYVtudVx8CzbSxW
+Rust Belt Rust 2018

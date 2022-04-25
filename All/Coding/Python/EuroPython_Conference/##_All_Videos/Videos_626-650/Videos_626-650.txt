@@ -1,0 +1,76 @@
+
+Alexander Lourenco - Realtime Distributed Computing At Scale Storm And Streamparse
+https://youtu.be/wXgMgSnj7PM
+
+Alice Harpole - Sustainable Scientific Software Development
+https://youtu.be/3DJHefC6v28
+
+Amit Nabarro - Asynchronous IO and the real-time web
+https://youtu.be/1vrUDDqMfR0
+
+Anand Chitipothu - Writing Beautiful Code
+https://youtu.be/QIRyr6qvGrY
+
+Andreas Heider, Robert Wall - Taking the Hipster out of Streaming
+https://youtu.be/YWobIPRRnbU
+
+Christoph Heer - How SAP is using Python to test its database SAP HANA
+https://youtu.be/Xgy3OCEVuEA
+
+David Liu - Infrastructure design patterns with Python, Buildbot, and Linux Containers
+https://youtu.be/Rs7qccf-Ll0
+
+Giulio Calacoci - PostgreSQL and Python, a match made in heaven
+https://youtu.be/x_cY8jnpQZw
+
+Harald Armin Massa - PostgreSQL - The Database for Industry 4.0  and IOT
+https://youtu.be/LXI48d2gif0
+
+Hynek Schlawack - Solid Snakes
+https://youtu.be/FThx_Jk24Rc
+
+Jan Willem Tulp - How to create inspiring data
+https://youtu.be/D6kU7kJeX_s
+
+Jonas Obrist - Why you might want to go async
+https://youtu.be/GXS-cR7opQY
+
+Juan Manuel Santos - You need more security in your application packaging
+https://youtu.be/ZFCAE8rxP7E
+
+Lee Sheng - Teeing up Python Code Golf
+https://youtu.be/sbIzdpQdaYs
+
+Lightning Talks - 2017-07-12
+https://youtu.be/avUcnPzHxB4
+
+Mariano Anaya - Discovering Descriptors
+https://youtu.be/TAuC086NNmo
+
+Martin Christen, Roberto De Ioris, Tomislav Uzelac - Making Games with Python Mission Impossible
+https://youtu.be/yNXqXcbnVu8
+
+Mike Müller - Programming in Parallel with Threads
+https://youtu.be/5BiqdDXtFfA
+
+Paweł Lewtak - Improve your developer's toolset
+https://youtu.be/hhBXr6CfKbE
+
+Piotr Dyba - CyberSecurity.bootcamp()
+https://youtu.be/Mu-hWspzdxI
+
+Raphael Pierzina - Hi, my name is README! - A Look at Why Docs are So Important
+https://youtu.be/sQ9H2h-y_p4
+
+Sebastian Buczyński - Why you don't need design patterns in Python
+https://youtu.be/G5OeYHCJuv0
+
+Sebastian Neubauer - There should be one obvious way to bring python into production
+https://youtu.be/hnQKsxKjCUo
+
+Vinicius Pacheco - Green threads in Python
+https://youtu.be/VWoyeq_ujJ4
+
+Vita Smid - Feeding a real-time user interface
+https://youtu.be/F62gvPaKr2U
+Videos 626-650

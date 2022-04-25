@@ -1,0 +1,43 @@
+
+Advances in the MATLAB Editor and Live Editor
+https://youtu.be/_6XkqnMmsWs&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Approximate Functions with HDL-Optimized Lookup Tables
+https://youtu.be/Vl0dBWn9CiI&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Call C++ Libraries from MATLAB
+https://youtu.be/fJCvGHfrSYA&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Customize Your Object Display
+https://youtu.be/UZfaCIWZ7B4&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Detect and Plot Water Level Change with USB Webcam Live Editor Task
+https://youtu.be/WIt6bhTYji8&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Enforce Constraints for PID Controllers
+https://youtu.be/SLM_yjMHw5o&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+How to Import C Code into Simulink for Testing
+https://youtu.be/atfO_3Wt2t8&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+MATLAB as a Global Tool in Jenkins
+https://youtu.be/gMVvs6hU2x0&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+MATLAB Online Server – Host MATLAB Online on Your Infrastructure
+https://youtu.be/x1a82LH8cJs&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Performing Parametric Analysis with System Composer
+https://youtu.be/Hrrr1gsoOXE&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Prototype FPGA Design on Hardware from the MATLAB Command Line
+https://youtu.be/SBxVgySjg0Q&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Supercharge Your App Designer Apps with Your Own Custom UI Components
+https://youtu.be/yWZEN9VhBXU&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Using MATLAB with GitHub Actions
+https://youtu.be/Qj5upV0Qm1o&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+
+Using MATLAB with Python
+https://youtu.be/6Ji4vuJg2dw&list=PLn8PRpmsu08qbAPHntzvCBN3Rw2cs9wqm
+Videos 26-39

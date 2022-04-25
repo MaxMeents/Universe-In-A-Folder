@@ -1,0 +1,73 @@
+
+Building good iOS apps fast as a freelancer, Perfect coverage, Devpreneur  iOS Dev Live Mentoring
+https://youtu.be/Q5uYGQI4ztE&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Building your own iOS apps, Financial freedom, Publishing content  iOS Dev Live Mentoring
+https://youtu.be/A_1NTRzgyCA&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Concurrency and System Design questions in iOS interviews  iOS Dev Live Mentoring
+https://youtu.be/d8CkkeFmtR4&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Decoupling iOS apps from 3rd-party frameworks and protocols such as XMPP  iOS Dev Live Mentoring
+https://youtu.be/aeRhC9CRKiQ&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Developing big iOS features, Contributing to OSS, Not feeling like a senior  iOS Dev Live Mentoring
+https://youtu.be/TCHtHTwB1Ug&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Developing Modular and Independently Deployable iOS app features  iOS Dev Live Mentoring
+https://youtu.be/kXokwXxTd-o&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Getting high-paying iOS opportunities and staying up-to-date  iOS Dev Live Mentoring
+https://youtu.be/TSTYvFQaexg&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Getting iOS devs on board with team decisions and trying new tech at work  iOS Dev Live Mentoring
+https://youtu.be/IjWOmqsS3wM&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Helping iOS developers become proficient senior and lead devs  iOS Dev Live Mentoring
+https://youtu.be/pq3meCBaqlI&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+How to make solid iOS architecture decisions and pass iOS interviews  iOS Dev Live Mentoring
+https://youtu.be/k3FsgGAf69s&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Keeping the iOS app state in sync with the backend and multiple UI scenes  iOS Dev Live Mentoring
+https://youtu.be/J6Cesub2tHM&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Learning new concepts as a Senior iOS dev and getting your team on board  iOS Dev Live Mentoring
+https://youtu.be/gvG-syYj6Wg&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Learning TDD, Software Architecture, Feature Flags & Functional Programming  iOS Dev Live Mentoring
+https://youtu.be/sjbzAmlcGPA&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Live Coding, Public Speaking, and Networking as an iOS dev  iOS Dev Live Mentoring
+https://youtu.be/uMWALtztoFw&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Making architecture decisions as an iOS dev, Tech debt, and Testing  iOS Dev Live Mentoring
+https://youtu.be/obKtriW3vE0&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Managing your time as an iOS dev, Hybrid vs. Native, Teaching Jr. devs  iOS Dev Live Mentoring
+https://youtu.be/EU53xDu_TOI&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Naming Swift protocols, classes, structs + Bridging UIKit & SwiftUI  iOS Dev Live Mentoring
+https://youtu.be/Xj_IZFmty6g&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Practicing TDDCICD, MVC vs. MVVM, Impostor Syndrome & Evaluating yourself  iOS Dev Live Mentoring
+https://youtu.be/7Cv9PoNaw0E&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Private video
+https://youtu.be/txQCH560Xp0&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Repository pattern, Getting iOS jobs abroad, Improving backend skills  iOS Dev Live Mentoring
+https://youtu.be/FyyIifGvoEU&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Reusable iOS SDKs, Facade, and Flow logic with Delegates and Closures  iOS Dev Live Mentoring
+https://youtu.be/UvTogCTqF90&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Scaling iOS projects & Learning advanced practices alone (TDDCICD)  iOS Dev Live Mentoring
+https://youtu.be/TtdtbMd5-TQ&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Testable & Reusable UI components favoring Composition over Inheritance  iOS Dev Live Mentoring
+https://youtu.be/uAxpNaUy2hQ&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+
+Transitioning & Sharing data between views with RoutersFlowsCoordinators  iOS Dev Live Mentoring
+https://youtu.be/EraIi8Tg60M&list=PLyjgjmI1UzlRGYfvsHRjhDnKyEj2v3m9w
+Videos 1-25

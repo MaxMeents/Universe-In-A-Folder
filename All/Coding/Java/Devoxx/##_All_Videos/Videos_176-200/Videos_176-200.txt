@@ -1,0 +1,76 @@
+
+A container platform for the banking industry   why, what & how by Wiebe de Roos
+https://youtu.be/4ACat8H69_I
+
+Advancements in Angular by Jeremy Elbourn
+https://youtu.be/B8P3Ose25e8
+
+End-to-End test architectures, a dead End road by Roy Braam
+https://youtu.be/t3QTnt6G5sM
+
+How I used to rob banks!  by Freaky Clown
+https://youtu.be/55gcGPhM3S8
+
+How to Build A Decompiler by Tsviatko Yovtchev
+https://youtu.be/uYZZbteb8Gc
+
+Introduction to Kusto by Cyril Thirion & Julien Lo Presti
+https://youtu.be/UnB5EMQsx4Q
+
+Is your AI plotting to kill you Why AI and Machine Learning is dangerous by  Ben Vermeersch
+https://youtu.be/eayXcuXogx8
+
+Java Packaging Tool Create Native Packages to Deploy Java Applications by Kevin Rushforth
+https://youtu.be/JWwlGWlgxe0
+
+Java. Migrating to 11 in real app by Piotr Przybyl
+https://youtu.be/RgPt52w7Tlo
+
+JUnit time to shift into 5th gear! Julien Topçu & Juliette de Rancourt
+https://youtu.be/Fca8yUIJfd0
+
+Machine Learning using Kubeflow and Kubernetes by Arun Gupta
+https://youtu.be/-k2GdwE-En4
+
+Modern Identity Management in the Era of Serverless and Microservices  by Mercedes Wyss
+https://youtu.be/3_4B22rysPQ
+
+Play an acoustic guitar with a Raspberry Pi by Jago de Vreede
+https://youtu.be/5XhpFtl1Pj0
+
+Reacting to the future of application architecture by Grace Jansen
+https://youtu.be/5NuvR8_hCxw
+
+Reactive Services in practice with Webflux, Kafka and DynamoDB  by Cléber Silveira & Vinicius Soares
+https://youtu.be/E-45naN8ZsQ
+
+Real world HTTP performance benchmarking, lessons learned  by Julien Viet
+https://youtu.be/2lzvsyoooTk
+
+Real World JavaScript Security by Amanvir Sangha
+https://youtu.be/dO2zXhVEEKo
+
+RSA is Dead. Long Live BB84! by James Birnie
+https://youtu.be/Vwvq1LEpqf0
+
+The Cloud Native Diabolical Developer by Martijn Verburg
+https://youtu.be/XKRJodjRQ7Q
+
+The past, present and future of the Java type system by Alasdair Collinson
+https://youtu.be/qfZctT--iU8
+
+The time relativity principle by Jakub Marchwicki
+https://youtu.be/1sqlOQZeGJw
+
+Using Open Source Tech to Swap Out Components of Your Data Pipeline by Rustam Mehmandarov
+https://youtu.be/RQH1THtfM5g
+
+Video Analytics for Football games by Sven Degroote
+https://youtu.be/171cDTeK3D0
+
+Why we pair by Peter Pilgrim
+https://youtu.be/yebkJcd1-So
+
+You might not need JavaScript classes by Ramón Guijarro
+https://youtu.be/1AJsAPszZJ0
+Videos 176-200

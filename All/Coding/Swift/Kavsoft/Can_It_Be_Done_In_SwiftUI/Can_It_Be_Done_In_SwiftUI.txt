@@ -1,0 +1,25 @@
+
+SwiftUI 2.0 Animation Challenge - Add to Bag Animations - Complex Animations - SwiftUI Tutorials
+https://youtu.be/TTftmkW9N8s&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 Challenge - Custom Time Picker - Android Style Circular Time Picker - SwiftUI Tutorials
+https://youtu.be/TTewssjh6z8&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 Drag & Drop - Reordering Grid View Items - Custom Picker - SwiftUI Tutorials
+https://youtu.be/h25rGhYrl5I&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 Liquid Swipe Animation - Animation Challenge - SwiftUI Tutorials
+https://youtu.be/75hKctzSkwY&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 Signal Messenger 👉 Custom ImageVideo Picker - Complex UI - SwiftUI Tutorials
+https://youtu.be/qlmequ3a0Og&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 Snapchat Discovery Page Transitions - Complex Animations - Can it be done in SwiftUI
+https://youtu.be/YhTG00uyCnM&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 Square Space Web UI Parallax Effect - Complex Animations - SwiftUI Tutorials -
+https://youtu.be/bg5i696T9kc&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+
+SwiftUI 2.0 YouTube Mini Player Transition - Complex Animations - Can It Be Done In SwiftUI
+https://youtu.be/0IWTF4c8z0U&list=PLimqJDzPI-H8pcF7JtnC0AVSeCvZNU9FG
+Can It Be Done In SwiftUI

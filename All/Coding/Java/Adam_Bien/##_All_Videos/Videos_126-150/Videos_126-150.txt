@@ -1,0 +1,76 @@
+
+59th airhacks.tv Questions and Answers
+https://youtu.be/W96HFDioBGY
+
+60th airhacks.tv Questions & Answers (5 years...)
+https://youtu.be/j055RVkxIgA
+
+61st airhacks.tv Questions and Answers
+https://youtu.be/0LcdDini73o
+
+62nd airhacks.tv Questions and Answers
+https://youtu.be/idFt7Rj5HiM
+
+63rd airhacks.tv Questions and Answers
+https://youtu.be/qhKe8ckkqVk
+
+64th airhacks.tv Questions and Answers
+https://youtu.be/uiE--oxFWns
+
+65th airhacks.tv Questions and Answers
+https://youtu.be/QRaOkzeJZ-M
+
+Building Microservices on OpenShift with Jenkins Pipelines
+https://youtu.be/ImSuIoRcm-Y
+
+Deploying a ThinWAR to OpenShift with Payara and S2I
+https://youtu.be/_23CgD7bsUc
+
+Deploying and Configuring  a Payara Micro s2i ThinWAR to OpenShift
+https://youtu.be/BdXcSgSDjAs
+
+Exposing JAX-RS Services with Quarkus and CORS
+https://youtu.be/X11qgJWbohI
+
+Identifying CDI Deployment Errors at Build Time with quarkus
+https://youtu.be/RpCRgveXO5A
+
+Jakarta EE + MicroProfile Quickstarter
+https://youtu.be/8w_a-yEl2Wg
+
+Liveness and Readiness probes with Quarkus
+https://youtu.be/ifCQzPUXrxk
+
+MicroProfile and ConfigMaps
+https://youtu.be/uH94zBJYmpQ
+
+MicroProfile OpenTracing with Jaeger and Quarkus
+https://youtu.be/iqHcTmqj-mo
+
+Modern Web - Like Java EE #slideless #usetheplatform
+https://youtu.be/5wPg3jY62jo
+
+Native JAX-RS  CDI Executables
+https://youtu.be/yv74VpKM7co
+
+QuarkEE --  quarkus.io quickstarter
+https://youtu.be/2X1wGHyHvA4
+
+quarkus.io as ThinJAR on docker
+https://youtu.be/JSSoGaspoKE
+
+Scaling JVM vs. Native--From Zero to 20 and Back
+https://youtu.be/8dXRyPHo-Z4
+
+Securing JAX-RS Endpoint with JWT
+https://youtu.be/twXqCoYQ16c
+
+Supersonic, Subatomic CDI and JAX-RS with quarkus.io
+https://youtu.be/G0sQFy_5xQc
+
+Testclient for OpenAPI
+https://youtu.be/CP1TWkB_cjY
+
+The Lightweight Stuff #slideless
+https://youtu.be/dNpUF1OZQGM
+Videos 126-150

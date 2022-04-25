@@ -1,0 +1,76 @@
+
+Build, Deploy, Debug and Tune Serverless Microservices by Randall Hunt
+https://youtu.be/F7HFAdUvZVk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Building Serverless AI powered Applications on AWS by Adrian Hornsby
+https://youtu.be/-izfBVlHkSc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+But there is no web component for that! by Horacio Gonzalez
+https://youtu.be/2dmHcm4BUio&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Devops @Scale by Baruch Sadogursky
+https://youtu.be/u8nb_7TW-Ag&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Exploring open data with BigQuery by Jen Tong
+https://youtu.be/7yI2zAJjwfI&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Globally Distributed Software Engineering - The Good, the Bad and the Ugly by Rini van Solingen
+https://youtu.be/b9mrVHVC7WQ&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Britt Barak at Devoxx Belgium 2017
+https://youtu.be/ycd2DFq_2J0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Chris Thalinger at Devoxx Belgium 2017
+https://youtu.be/BCanb2xBaH8&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with David Delabassee at Devoxx Belgium 2017
+https://youtu.be/xI_J1cpOTBM&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Ivar Grimstad at Devoxx Belgium 2017
+https://youtu.be/Z9JN6p8816g&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with James Weaver and Johan Vos at Devoxx Belgium 2017
+https://youtu.be/lPV2xFcCArA&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Jen Tong at Devoxx Belgium 2017
+https://youtu.be/IVWYD6YhE0g&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Jisha Abubaker at Devoxx Belgium 2017
+https://youtu.be/MgGLJUDNXF0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Katy Anton at Devoxx Belgium 2017
+https://youtu.be/_DpMDGWoYfE&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Laurent Victorino at Devoxx Belgium 2017
+https://youtu.be/Wy_vY7m-_e8&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Introducing the Mobile PerfSDK by Marcello Albano
+https://youtu.be/zuEYi7AyDXc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Much Robots  Very Java  So IoT by Marcus Hirt, Miro Wengner
+https://youtu.be/PZza1EJJWA4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Opening Up Java EE Panel Discussion with David Delabassee, Ivar Grimstad & friends
+https://youtu.be/HRNskFH1MoU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Reliable and Maintainable Webdriver Tests by Benji Weber
+https://youtu.be/1ijI3HIhiiQ&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Safer Apps from Docker Security Building Blocks by Riyaz Faizullabhoy
+https://youtu.be/yRy6pwIna44&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Serverless datastream processing by Martin Görner
+https://youtu.be/dMMnKCtYwdo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Serverless Kotlin with App Engine by Ludovic Champenois and  Éamonn McManus
+https://youtu.be/bHKQ_o3vwK4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+SOLID Principles for Cloud Native Containers by Bilgin Ibryam
+https://youtu.be/4n9N3lvqySk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Impact of Leveraging Open Source by Jeff Strauss
+https://youtu.be/jwrSMj-Prfw&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Java Council with Simon Maple, Martijn Verburg, Oleg Šelajev
+https://youtu.be/Iz6I3udrrkM&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+Videos 176-200

@@ -1,0 +1,28 @@
+
+How to Automatically Tune PID Controllers
+https://youtu.be/ENhFepqjFOY&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+How to Bring Data from MATLAB Into Simulink   Hear from MATLAB & Simulink Developers
+https://youtu.be/kM2qL__YxBQ&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+How to Extract Data Points from an Image
+https://youtu.be/9P3PVLjW0bw&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+How to Import Excel Data into MATLAB
+https://youtu.be/0hArv-UBKQQ&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+How To Label Data For Deep Learning
+https://youtu.be/V2e0cygY9Vg&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+MATLAB小课堂——如何使用蒙特卡洛模拟进行预测？
+https://youtu.be/Aojvi8cyF0Y&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+MATLAB小课堂——如何在MATLAB中调用Python代码？
+https://youtu.be/pZCbzwslPsw&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+MATLAB小课堂——如何在Python中调用MATLAB代码？
+https://youtu.be/MR2Xnal52wU&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+
+MATLAB小课堂——如何加速 MATLAB 代码？
+https://youtu.be/dYBIi9UudMQ&list=PLn8PRpmsu08pgJ9tjAs7h8497JuwwUePW
+MATLAB 小课堂

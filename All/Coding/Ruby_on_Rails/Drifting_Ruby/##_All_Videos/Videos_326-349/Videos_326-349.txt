@@ -1,0 +1,73 @@
+
+Episode #001 - Pow
+https://youtu.be/FI8uZ8jqr94
+
+Episode #002 - Impressionist
+https://youtu.be/YgPAZUw7wfk
+
+Episode #003 -  ActionCable in Production
+https://youtu.be/4dum1S-RxpU
+
+Episode #004 -  Serialized Attributes
+https://youtu.be/uSxN2W1hCOk
+
+Episode #005 -  Florrick
+https://youtu.be/FQW_7sBjBu0
+
+Episode #006 -  attr_encrypted
+https://youtu.be/XkMGVJ3Cosk
+
+Episode #007 - Sitemap Generator
+https://youtu.be/NGn2QCC85yQ
+
+Episode #008 - Sending Emails
+https://youtu.be/ZUXYE4kMaWs
+
+Episode #009 - ActiveJob
+https://youtu.be/KIg0cZWFaGE
+
+Episode #010 - Invisible Captcha
+https://youtu.be/H8NpV3klg9A
+
+Episode #011 - Annotate
+https://youtu.be/nUpC086BUCU
+
+Episode #012 - Static Pages with High Voltage
+https://youtu.be/obv_9EZWPwI
+
+Episode #013 - File Uploads with Refile
+https://youtu.be/dT4ux3Q4Hxg
+
+Episode #014 - Securing File Uploads
+https://youtu.be/QougDpAPfYw
+
+Episode #015 - Refile Uploads with Progress Bar
+https://youtu.be/P1d2xV0rXx0
+
+Episode #016 - Complex Strong Params
+https://youtu.be/SX6_qGxNSGo
+
+Episode #017 - Dependent Fields Rails
+https://youtu.be/arAU9pt4fNU
+
+Episode #018 - Caching with Dalli
+https://youtu.be/X_T-gbTo2hg
+
+Episode #019 -  Deleting and Undeleting with Paranoia
+https://youtu.be/Wo8fZK0ePf4
+
+Episode #020 - Not RJS and Turbolinks
+https://youtu.be/7rhSdrY2NEM
+
+Episode #021 - Not RJS and Turbolinks Part 2
+https://youtu.be/3gCsdlwpdCA
+
+Episode #022 - Faye WebSockets - Part 1
+https://youtu.be/IOav0Uju_DQ
+
+Episode #024 - Fragment Caching
+https://youtu.be/vNNlNMZXjqc
+
+Episode #025 -  Faye WebSockets   Part 2
+https://youtu.be/4zY_ADCphcA
+Videos 326-349

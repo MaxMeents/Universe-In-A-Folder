@@ -1,0 +1,19 @@
+
+How do you write clean, yet readable Python code
+https://youtu.be/sQBDd4xUZ1Q&list=PLP8GkvaIxJP2S_Hw17QNgGDEHu0sTzbR7
+
+How do you write Pythonic code 👍🐍
+https://youtu.be/MNGtjdcFQnc&list=PLP8GkvaIxJP2S_Hw17QNgGDEHu0sTzbR7
+
+My Python Code Looks Ugly and Confusing – Help!
+https://youtu.be/TDUf93vqq3g&list=PLP8GkvaIxJP2S_Hw17QNgGDEHu0sTzbR7
+
+pep8.org — The Prettiest Way to View the PEP 8 Python Style Guide
+https://youtu.be/Hwckt4J96dI&list=PLP8GkvaIxJP2S_Hw17QNgGDEHu0sTzbR7
+
+Pylint Tutorial – How to Write Clean Python
+https://youtu.be/fFY5103p5-c&list=PLP8GkvaIxJP2S_Hw17QNgGDEHu0sTzbR7
+
+Type-Checking Python Programs With Type Hints and mypy
+https://youtu.be/2xWhaALHTvU&list=PLP8GkvaIxJP2S_Hw17QNgGDEHu0sTzbR7
+6 Tips & Tools for Writing Better Python Code

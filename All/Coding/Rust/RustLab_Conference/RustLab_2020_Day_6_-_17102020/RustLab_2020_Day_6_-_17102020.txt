@@ -1,0 +1,13 @@
+
+Closing conference - Matteo Benci
+https://youtu.be/gEA7xhMlgMU&list=PLkgYzo_ZZ7KAS8wBYVtE_ZV71azYPnHvV
+
+Designing Tide - Yoshua Wuyts
+https://youtu.be/laJA4QCjmxk&list=PLkgYzo_ZZ7KAS8wBYVtE_ZV71azYPnHvV
+
+Modern Fullstack with Rust Writing Reliable Code - Cameron Manavian
+https://youtu.be/0iW5IYEUVHc&list=PLkgYzo_ZZ7KAS8wBYVtE_ZV71azYPnHvV
+
+Using Rust from JS a real-life case - Nicola Martino
+https://youtu.be/gZY2eUGSihs&list=PLkgYzo_ZZ7KAS8wBYVtE_ZV71azYPnHvV
+RustLab 2020 Day 6 - 17102020

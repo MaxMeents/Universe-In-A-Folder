@@ -1,0 +1,10 @@
+
+Lisa Passing - Making a game in Rust
+https://youtu.be/Ktwl97Ph-SI&list=PL85XCvVPmGQh8wovUmgn9nkQrIn_uMKXP
+
+RustFest Zürich 2017 - Create Rust games easily by Lisa
+https://youtu.be/str_mex__0M&list=PL85XCvVPmGQh8wovUmgn9nkQrIn_uMKXP
+
+RustFest Zürich 2017 - SHAR Rust's gamedev experience by Fedor Logachev
+https://youtu.be/nXR8f4r6ggM&list=PL85XCvVPmGQh8wovUmgn9nkQrIn_uMKXP
+Game Development

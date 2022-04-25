@@ -1,0 +1,37 @@
+
+Alex Gold  Deploying End-To-End Data Science with Shiny, Plumber, and Pins  RStudio
+https://youtu.be/oEcJkBgA5J8&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Barret Schloerke  Reactlog 2.0 Debugging the state of Shiny  RStudio (2019)
+https://youtu.be/9ObBOZ-EVqE&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Damian Rodziewicz  Scaling Shiny to Thousands of Users  RStudio
+https://youtu.be/wQi1A2eJ3i8&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Dominik Krzemiński  Appsilon's Guide to Working With Open Source Shiny  RStudio
+https://youtu.be/85aWRVJ2Qwk&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Enabling Remote Data Science Teams  RStudio (2020)
+https://youtu.be/1RMf-C6GR7I&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Eric Nantz  Effective use of Shiny modules in application development  RStudio (2019)
+https://youtu.be/ylLLVo2VL50&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Filip Stachura & Marek Rogala  Empowering Data Scientists to Build Spectacular Shiny Apps  RStudio
+https://youtu.be/_DG4XmRl3S4&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Katherine Kopp  COVID vaccine distribution Shiny app walkthrough (mock data)  RStudio
+https://youtu.be/T2DzDs0ksZY&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Marly Gotti  Risk Assessment Tools R Validation Hub Initiatives  RStudio
+https://youtu.be/4uVQXHpNmUQ&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Mike Garcia  R in Pharma Intro to Shiny  RStudio
+https://youtu.be/eoeLn8SyDW8&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Nic Crane  The future's Shiny Pioneering genomic medicine in R  RStudio (2019)
+https://youtu.be/dCLgpnF1DD8&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+
+Pedro Silva  Styling Shiny with CSS & SASS and Speeding Up Shiny Apps  RStudio
+https://youtu.be/a4ff4DHNpAQ&list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
+Videos 26-37

@@ -1,0 +1,76 @@
+
+Adriana Dorneles - What about recommendation engines
+https://youtu.be/1F2wEi6fkAM
+
+Anton Caceres - How To Build a Python Microservice Without Losing a Job
+https://youtu.be/uYgla2-mxMc
+
+EuroPython - The largest Python conference in Europe
+https://youtu.be/wVwcOq-SsiU
+
+EuroPython 2019 -  Opening Session
+https://youtu.be/avt77g27SbM
+
+EuroPython 2019 - Lightning talks on Friday, July 12
+https://youtu.be/fyBvgmG-i30
+
+EuroPython 2019 - Lightning talks on Thursday, July 11
+https://youtu.be/YwJRS2Xe-Hc
+
+EuroPython 2019 - Lightning talks on Wednesday, July 10
+https://youtu.be/xmr39hMI_9s
+
+Florian Wahl - Building Industry 4.0 logistics applications with MicroPython and ESP32 MCUs
+https://youtu.be/atmdimiU9Jc
+
+Hynek Schlawack - Maintaining a Python Project When It’s Not Your Job
+https://youtu.be/os_daySYRFs
+
+Joe Drumgoole - Introduction to Python and MongoDB
+https://youtu.be/VJ_d8jENWmo
+
+Johnny Dude - How Thinking in Python Made Me a Better Software Engineer
+https://youtu.be/jGseHScYdSg
+
+Jon Nordby - Audio Classification with Machine Learning
+https://youtu.be/eNB1wzfyTTU
+
+Lilian Nandi anonymous - Teaching Programming to the Next Generation
+https://youtu.be/nxuVLBW-C1g
+
+Luba Elliott  - AI in Contemporary Art
+https://youtu.be/WOKskgq1x7Y
+
+Mai Giménez - Tensorflow Estimators
+https://youtu.be/JKNvYK0sdW8
+
+Marc-Andre Lemburg - EPS General Assembly 2019
+https://youtu.be/jTy-tyFvou0
+
+Marc-Andre Lemburg - EuroPython 2020 Help us build the next edition!
+https://youtu.be/2LQ_ytrxDEs
+
+Miroslav Šedivý - A Day Has Only 24±1 Hours
+https://youtu.be/mHaz5laPyHE
+
+Olivier Grisel - Histogram-based Gradient Boosting in scikit-learn 0.21
+https://youtu.be/urVUlKbQfQ4
+
+Paul Everitt - Python 1994
+https://youtu.be/vyz7zdGiPVY
+
+Reuven Lerner - Practical decorators
+https://youtu.be/xRxKXvYtAyI
+
+Sebastian Roll - The Dangers of Outsourcing Software Development
+https://youtu.be/fuAtAGPp2DM
+
+Sebastian Witowski - Wait, IPython can do that!
+https://youtu.be/3i6db5zX3Rw
+
+Tin Marković - Refactoring in Python
+https://youtu.be/dF9ZH3_fQ-Y
+
+Vita Smid - Static typing beyond the basics of def foo(x int) -str
+https://youtu.be/UQo-ebJk4a4
+Videos 326-350

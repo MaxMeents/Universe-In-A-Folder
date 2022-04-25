@@ -1,0 +1,4 @@
+
+Dmitri Goloubentsev - Supercharging HPC for OO Languages
+https://youtu.be/AEwc9kwc198&list=PLB8iG1kbmdEPk_2KyCo3cSCW4NAvSLquc
+C++ London - February 2021

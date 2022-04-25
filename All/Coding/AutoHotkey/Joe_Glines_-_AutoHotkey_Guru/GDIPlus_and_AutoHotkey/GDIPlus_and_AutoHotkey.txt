@@ -1,0 +1,13 @@
+
+GDI vs ActiveX Which is faster 🚀  The answer may surprise you!
+https://youtu.be/XUvnrVqTlK0&list=PL3JprvrxlW27iqegiXHKOyNH6QyFhUBDD
+
+How to Create a BMP with GDIPlus and AutoHotkey
+https://youtu.be/DBSA5rZVIQg&list=PL3JprvrxlW27iqegiXHKOyNH6QyFhUBDD
+
+Simple ActiveX GUI tutorial drawing 1,000 images with AutoHotkey
+https://youtu.be/5m30RaCsttc&list=PL3JprvrxlW27iqegiXHKOyNH6QyFhUBDD
+
+The Magic of ActiveX & AutoHotkey Maestrith adapts Hellbent's code
+https://youtu.be/04e5xwLAFt4&list=PL3JprvrxlW27iqegiXHKOyNH6QyFhUBDD
+GDIPlus and AutoHotkey

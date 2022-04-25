@@ -1,0 +1,76 @@
+
+Python Basics 100th Video
+https://youtu.be/FXBkUYPuJuM&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Boolean Shortcut
+https://youtu.be/1GbxvOz0ePc&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Divisors
+https://youtu.be/ZoQnU0G-N8w&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Factor List Comprehension
+https://youtu.be/G4JRgHDs_dI&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Factors with  For Loop
+https://youtu.be/ufZYG6tBgfI&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics GCD Best Practice
+https://youtu.be/2Z1LLsUg6sY&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics GCD Part 1
+https://youtu.be/Zvrn7_IsBaM&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Gcd pt 2
+https://youtu.be/pxMtT97g-3I&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Gcd pt 3
+https://youtu.be/Ct6_Nf4Dh_A&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics How to Assign Multiple and Reassignments Variables
+https://youtu.be/UuRtHeNghdY&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Keywords And Or
+https://youtu.be/3mbw4bGp8mo&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Len Function
+https://youtu.be/XQAvSJpDjM0&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Len with For Loop with Break
+https://youtu.be/fekSpfbHlEg&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Len with while loop
+https://youtu.be/2DR0pTV6VAw&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Lower Denominator
+https://youtu.be/BwxRsgwsmVQ&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Lowest Common Denominator (LCD)
+https://youtu.be/yoPxYHDI4XQ&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Rounding
+https://youtu.be/diQzlyD0JXk&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Square Number
+https://youtu.be/-WSmXqF-3aI&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics String Count Sub-Strings
+https://youtu.be/Fjt6oNp-FX8&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics String Find Method
+https://youtu.be/XFSo3OTQlIs&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Sub-String Find Method
+https://youtu.be/pK2HRpyfX0s&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Sub-string Function
+https://youtu.be/zxSEkzd6T9A&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Tutorial Square Root
+https://youtu.be/UGac_KqFrn0&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Using Variables with Range Function
+https://youtu.be/UNDgaqJstD4&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Why Not String Count
+https://youtu.be/OlgiJNuVY5g&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+Videos 76-100

@@ -1,0 +1,22 @@
+
+Understanding PID Control, Part 1 What Is PID Control
+https://youtu.be/wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Understanding PID Control, Part 2 Expanding Beyond a Simple Integral
+https://youtu.be/NVLXCwc8HzM&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Understanding PID Control, Part 3 Expanding Beyond a Simple Derivative
+https://youtu.be/7dUVdrs1e18&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Understanding PID Control, Part 4 A PID Tuning Guide
+https://youtu.be/sFOEsA0Irjs&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Understanding PID Control, Part 5 Three Ways to Build a Model
+https://youtu.be/qhIjIu-Zk10&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Understanding PID Control, Part 6 Manual and Automatic Tuning Methods
+https://youtu.be/qj8vTO1eIHo&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+
+Understanding PID Control, Part 7 Important PID Concepts
+https://youtu.be/tbgV6caAVcs&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+Understanding PID Control

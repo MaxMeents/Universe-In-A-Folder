@@ -1,0 +1,46 @@
+
+Cloud Native Java EE
+https://youtu.be/KdJbWkKEtwY&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Fukuoka JUG - Cloud Native Java EE
+https://youtu.be/7fhFIo1UGF0&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Fukuoka JUG - Code Japan Tour & Java Day Tokyo 2017 Overview (Japanese)
+https://youtu.be/i25bUsEY3lE&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Fukuoka JUG - Java CommunityJOnsen Intro
+https://youtu.be/CN6kzUD_Nb0&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Fukuoka JUG - Raspberry Pi with Java 9
+https://youtu.be/D1FZYHSP610&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Fukuoka JUG - Unified JVM Logging (Japanese)
+https://youtu.be/mfLXWPiSIno&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+G1 GC with Kirk Pepperdine
+https://youtu.be/4XqU9Qax3tI&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Java CommunityJOnsen Intro (Hiroshima)
+https://youtu.be/ipSjzVcRo4c&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Java Day Tokyo 2017 Overview (Japanese)
+https://youtu.be/JQGTMIisnFE&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Java EE 8 with David Delabassee
+https://youtu.be/L2GjQwsNz6w&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Java SE 9 Update (Japanese)
+https://youtu.be/blRDlDCewpE&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Nagoya Introduction
+https://youtu.be/JQJ1d5se2RE&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Okayama Attendee Interviews
+https://youtu.be/QwLUzelxSiE&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Oracle Code Japan Tour 2017 Summary Video
+https://youtu.be/NHTeB4298no&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+
+Raspberry Pi with Java 9
+https://youtu.be/IXrYtPRNRPk&list=PL2ekzZZrxVUmOL86BSj2lujuclJmZjqzi
+Oracle Code Japan Tour 2017

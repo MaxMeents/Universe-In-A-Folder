@@ -1,0 +1,76 @@
+
+Core  Java 9  Jshell Introduction  in Java 9  Part-9 by Som Sir
+https://youtu.be/rxSxZbmXabA
+
+Core Java -9  Introduction in Depth  SCJP  OCJP by Som Sir Part-2
+https://youtu.be/yGCo6PNFz6s
+
+Core Java -9  Introduction in Depth  SCJP  OCJP by Som Sir Part-3
+https://youtu.be/ufkpsNceHS8
+
+Core Java -9  Introduction in Depth  SCJP  OCJP by Som Sir Part-4
+https://youtu.be/Tuo65W65Gxg
+
+Core Java -9  Introduction in Depth  SCJP  OCJP by Som Sir Part-6
+https://youtu.be/Po_UhwwS6UU
+
+Core Java -9  Introduction in Depth  SCJP  OCJP by Som Sir Part-7
+https://youtu.be/vdvhd6kPLJc
+
+Core Java -9  Java Language  Boolean & Null Literals  SCJP  OCJP by Som Sir Part-25
+https://youtu.be/PfQkVzdcnnM
+
+Core Java -9  Java Language  Boolean & Null Literals  SCJP  OCJP by Som Sir Part-26
+https://youtu.be/23HpgWveBdE
+
+Core Java -9  Java Language  Character Literals  SCJP  OCJP by Som Sir Part-23
+https://youtu.be/Xbxmd4JaVD4
+
+Core Java -9  Java Language  Character Literals  SCJP  OCJP by Som Sir Part-24
+https://youtu.be/4XbbA0vPFV4
+
+Core Java -9  Java Language  Character Set & Identifier  SCJP  OCJP by Som Sir Part-13
+https://youtu.be/2JR4txV4CzE
+
+Core Java -9  Java Language  Datatypes  SCJP  OCJP by Som Sir Part-14
+https://youtu.be/6VNOYRCLbtI
+
+Core Java -9  Java Language  Float & Double Literals  SCJP  OCJP by Som Sir Part-19
+https://youtu.be/5l8a-Go1k68
+
+Core Java -9  Java Language  Float & Double Literals  SCJP  OCJP by Som Sir Part-20
+https://youtu.be/KYI6QrMV2tI
+
+Core Java -9  Java Language  Identifiers  SCJP  OCJP by Som Sir Part-17
+https://youtu.be/Vy6pITi5xj0
+
+Core Java -9  Java Language  Keywords  SCJP  OCJP by Som Sir Part-16
+https://youtu.be/7P96QQMqv8k
+
+Core Java -9  Java Language  Literals  SCJP  OCJP by Som Sir Part-18
+https://youtu.be/Ry23nW44r1k
+
+Core Java -9  Java Language  Object Creation  SCJP  OCJP by Som Sir Part-12
+https://youtu.be/Pn_Th22KWZ4
+
+Core Java -9  Java Language  String Literals  SCJP  OCJP by Som Sir Part-21
+https://youtu.be/A2jNXozjz5k
+
+Core Java -9  Java Language  String Literals in Java  SCJP  OCJP by Som Sir Part-22
+https://youtu.be/LDyNT30pWxk
+
+Core Java -9  Java Language  User Defined Datatypes  SCJP  OCJP by Som Sir Part-15
+https://youtu.be/HF2AYEEn4_4
+
+Core Java -9  Java Language JDK 9 Installation  SCJP  OCJP by Som Sir Part-5
+https://youtu.be/lc6QxP8H7RI
+
+Core Java -9  Java Language Object Creation in java  SCJP  OCJP by Som Sir Part-11
+https://youtu.be/j7U97lZVExU
+
+Core Java 9  Jshell Introduction in Java 9 Part-10 by Som Sir
+https://youtu.be/wBHDSfFYz3s
+
+Java 9  How to Write Java 1st  Program  by Som Sir Part-8
+https://youtu.be/GQocArdooak
+Videos 201-225

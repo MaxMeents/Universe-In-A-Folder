@@ -1,0 +1,76 @@
+
+1. Unity Tutorial Basics - Create a Survival Game
+https://youtu.be/fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+10. Unity Tutorial, Tree Generator - Create a Survival Game
+https://youtu.be/yw6NN7BuTpE&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+11th. Unity Tutorial, Weapon Switching - Create a Survival Game
+https://youtu.be/zl8sVogRIvk&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+12th. Unity Tutorial, Enemy AI - Create a Survival Game
+https://youtu.be/aGX64eXs9e0&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+13th. Unity Tutorial, Audio Zones - Create a Survival Game
+https://youtu.be/LcAj_1R37DA&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+14th. Unity Tutorial, Awesome Audio - Create a Survival Game
+https://youtu.be/25YmYn5JRUw&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+15th. Unity Tutorial, Advanced AI - Create a Survival Game
+https://youtu.be/Lhh2tQDYdbs&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+16. Unity Tutorial, Fixing and Tweaking - Create a Survival Game
+https://youtu.be/_YbfVBQrQ6k&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+17. Unity Tutorial, DOORS - Create a Survival Game
+https://youtu.be/7fkID1uzUJo&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+18. Unity Tutorial, Player Health - Create a Survival Game
+https://youtu.be/lCPMbWVlq3c&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+19. Unity Tutorial, Respawn Menu - Create a Survival Game
+https://youtu.be/ctD5pIWUPIw&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+2. Unity Tutorial Melee Combat- Create a Survival Game
+https://youtu.be/HzTceINFowY&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+20. Unity Tutorial, Improved Controls - Create a Survival Game
+https://youtu.be/CoP2OVuTEqA&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+21. Unity Tutorial, Player Respawn - Create a Survival Game
+https://youtu.be/pZGvn458Xx0&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+22. Unity Tutorial, DAYNIGHT CYCLE - Create a Survival Game
+https://youtu.be/h2Azk3XgjYg&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+3. Unity Tutorial Animation and Health - Create a Survival Game
+https://youtu.be/FKT7jIW6ORU&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+4. Unity Tutorial Animation System - Create a Survival Game
+https://youtu.be/OgFa4H2P6Z0&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+5. Unity Tutorial, Crosshairs - Create a Survival Game
+https://youtu.be/FRSZpQDdV1Y&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+6. Unity Tutorial, Timing, Animation and Importing - Create a Survival Game
+https://youtu.be/C6c9J9CSEvA&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+7A. Unity Tutorial, Render Settings - Create a Survival Game
+https://youtu.be/_brBV61f2ss&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+7B. Unity Tutorial, Glowing Particles - Create a Survival Game
+https://youtu.be/YD0mkX6T9b8&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+8. Unity Tutorial, Terrains - Create a Survival Game
+https://youtu.be/pSZzlOvfdtI&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+9. Unity Tutorial, Lamps, Materials, Shaders - Create a Survival Game
+https://youtu.be/KsCDvFX7Mdk&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+Bonus, Using the Assets! Unity Tutorial - Create a Survival Game
+https://youtu.be/5D_pWti0YpA&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+
+Unity Shooting Tutorial (Raycast and Prefab)
+https://youtu.be/mpxim8YbsMk&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk
+Videos 1-25

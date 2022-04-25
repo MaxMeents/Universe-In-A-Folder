@@ -1,0 +1,76 @@
+
+A Software Architect's Approach towards SPA Based Micro Apps (Manfred Steyer)
+https://youtu.be/SeHUZoqf5zQ
+
+Ask the architects (Ken Finnigan, Bridget Kromhout, Susanne Kaiser)
+https://youtu.be/OLvF9oCgius
+
+Distant Past of Microservices (Ken Finnigan)
+https://youtu.be/En-ve2fXEgU
+
+Distributed of systems and teams (Bridget Kromhout)
+https://youtu.be/NlkET54KOkw
+
+Dynamic configuration management in microservice architecture with Spring Cloud (Bartłomiej Słota)
+https://youtu.be/3RHLLA7IBow
+
+Habitat Automation that travels with the app (Romain Sertelon)
+https://youtu.be/NJv6ukJsvRA
+
+Hexagonal at Scale, with DDD and microservices! (Cyrille Martraire)
+https://youtu.be/xZOO_CksS-E
+
+How do we use Serverless Architectures on AWS Lambda (Serhat Can)
+https://youtu.be/rNSxpk_UsTk
+
+Hybrid batch and stream processing (Marcos Almeida)
+https://youtu.be/4HsjivBJihA
+
+Microservices in the future (Susanne Kaiser)
+https://youtu.be/sIlQ5iYeqIE
+
+Monitor Your Microservices with Logs, Metrics, Pings and Traces (David Pilato)
+https://youtu.be/AOjgHGGT7KM
+
+Monolith 2 MicroServices Houston we've got a problem (Mike Francois)
+https://youtu.be/XMviQwUTlIk
+
+State or events Which shall I keep (Jakub Pilimon, Kenny Bastani)
+https://youtu.be/4LVokI3BXEg
+
+Stop reinventing the wheel with Istio (Mete Atamel)
+https://youtu.be/DBZtKZ4FZtI
+
+Welcome to Voxxed Days Microservices 2018 (Antonio Goncalves)
+https://youtu.be/g5lq6E8CN0E
+
+[VDT18] A Practical Introduction to Convnets for Image Classification by Alessandro Giusti
+https://youtu.be/JsUAL05BT6Y
+
+[VDT18] Integration tests testcontainers to the rescue by Roberto Franchini
+https://youtu.be/Qwz3Gr9wM5c
+
+[VDT18] It's all about you - Tecniche di personalizzazione della Mobile UX by Emilia Ciardi
+https://youtu.be/PyX2JAFSAeg
+
+[VDT18] JavaScript Design Patterns by Massimo Foti
+https://youtu.be/7swiAiGQwbM
+
+[VDT18] Kotlin lazy language for lazy people by Marharyta Nedzelska
+https://youtu.be/xTYKuI4HSWc
+
+[VDT18] OOP v̶s and FP by Mario Fusco
+https://youtu.be/fw6QJHHSRuQ
+
+[VDT18] Open Source as a Business Strategy, Struggle & Success by Philipp Krenn
+https://youtu.be/nll2vntxcYA
+
+[VDT18] Principles and Patterns for Streaming Data Analysis by Galder Zamarreño
+https://youtu.be/gWhLYRYeTp8
+
+[VDT18] React and TS a journey to a unified team using a common language by A. Romano & F. Duroni
+https://youtu.be/1x2B7S0XJU4
+
+[VDT18] Welcome by Federico Yankelevich
+https://youtu.be/nwZNDPGlBxY
+Videos 1051-1075

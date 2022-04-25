@@ -1,0 +1,76 @@
+
+Allocating Architectures of a Tire Pressure Monitoring System in System Composer
+https://youtu.be/ZHTwhn2QSto
+
+Autotuning a Field-Oriented Controller
+https://youtu.be/H213IHjhC00
+
+Customizing Embedded Coder® for Perfect C Code
+https://youtu.be/102Fx4TvW2s
+
+Data Labeling with Ground Truth Labeler App
+https://youtu.be/JH0I9NCZPDQ
+
+Deep Network Quantization and Deployment
+https://youtu.be/jufOpBeSvHM
+
+Designing and Optimizing MATLAB Algorithms for HDL Code Generation
+https://youtu.be/eLPlA_LuK28
+
+Event Scheduling with the Schedule Editor
+https://youtu.be/43IZqQeJBaM
+
+GUIDE to App Designer in 60 Seconds
+https://youtu.be/wOSSjgvG-es
+
+How to Merge App Designer Apps with the MATLAB Comparison Tool
+https://youtu.be/v-dBlyTSXRU
+
+Keyboard-Driven Workflows in the Simulink and Stateflow Editors
+https://youtu.be/8WjtgFMeEz8
+
+Lidar SLAM for Automated Driving
+https://youtu.be/n4tazoEcBGo
+
+MATLAB Help Center and Custom Doc Integrated Search
+https://youtu.be/sbF-r1ww3yE
+
+Model Predictive Control in ADAS
+https://youtu.be/AMArJPrlkhA
+
+OFDM HDL Reference Application
+https://youtu.be/ULtiPtzXJ1c
+
+Physical Modeling with the Simscape Product Family
+https://youtu.be/i07MNXZc42c
+
+Running a Deep Learning Network on an FPGA to Detect Defects
+https://youtu.be/ue-9NaHCFug
+
+Scaling Test Execution with MATLAB Parallel Server
+https://youtu.be/8PXEDJ8f5rs
+
+Setting Up a MATLAB Project for Continuous Integration in Jenkins and Azure Pipelines
+https://youtu.be/2wTo0Hd_bd0
+
+Simulink for Virtual Vehicle Development
+https://youtu.be/4lg44WudZLE
+
+Top 7 Ways to Automate Your RTL Verification
+https://youtu.be/2Ugo1anCNX8
+
+Train a Quadruped to Walk with Reinforcement Learning
+https://youtu.be/2OjEeiT69ug
+
+UAV Toolbox Highlights Autonomous Flight for UAVs and Drones
+https://youtu.be/iXTvqo1uiGQ
+
+Using the Simulink Profiler to Understand Model Execution Time
+https://youtu.be/kUa422QNddw
+
+Variants in Stateflow
+https://youtu.be/2zL4hUvd-fY
+
+Visual SLAM for Automated Driving
+https://youtu.be/941vnWuIrJk
+Videos 501-525

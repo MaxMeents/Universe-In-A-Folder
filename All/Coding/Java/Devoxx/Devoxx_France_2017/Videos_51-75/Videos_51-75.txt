@@ -1,0 +1,76 @@
+
+Anonymisation des données (Jérôme Mainaud)
+https://youtu.be/adwXwMtZ7Og&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Byte Buddy la génération de bytecode facile (Nicolas Comet)
+https://youtu.be/UpH2YwpKXOs&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Ce que j'ai appris en construisant des systèmes distribués (Michaël Figuière)
+https://youtu.be/D8XRnzt5fsQ&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Comment maintenir de la cohérence dans votre architecture microservices (Clément Delafargue)
+https://youtu.be/Daburx0jSvw&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+CQRSES from scratch (Emilien Pecoul - Florent Pellet)
+https://youtu.be/S1V4t7SXXCU&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Des builds incroyablement rapides avec Gradle 4 (Cédric Champeau)
+https://youtu.be/mruU22Qs07E&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Execution de code Mais que se passe t il vraiment (Alex Snaps)
+https://youtu.be/-pBAVt7acZs&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Étendre word et excel avec Javascript c'est possible (DEWITTE Pierre Alban)
+https://youtu.be/eoEFcsmQ6ck&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Fred Tous les serveurs ! On nous a volé tous les serveurs (Sébastien LECACHEUR)
+https://youtu.be/M2q1rZrNsbg&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Future composé en Scala (Brice Leporini)
+https://youtu.be/pNCL91wh0q0&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Intégration continue d’images Docker (Benoît Gastinne - Arnaud MAZIN)
+https://youtu.be/JQ7TmM0pego&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Java Code Coverage Mechanics (Evgeny Mandrikov)
+https://youtu.be/g8RkNYHJLL0&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Java EE 8 Ah ben non peut être (David Delabassee)
+https://youtu.be/HHmSkhgt800&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+JUnit-docker (Xavier Detant - Vincent Demeester)
+https://youtu.be/4RsJjE-K3iA&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Kit d'orchestration avec docker swarm mode (Vincent Demeester)
+https://youtu.be/HaU5-id2zUo&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Le Web multi-écrans en action (Hubert SABLONNIERE)
+https://youtu.be/5zFd_ZQZ7V0&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Microsoft de la recherche aux technologies et outils à votre disposition (Xavier Dupré)
+https://youtu.be/UGPOauhD7Ks&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Node js comme les grands (Romain Maton)
+https://youtu.be/RIRB2AFrPV8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Protéger son application web des risques de sécurité les plus critiques (Pascal Abaziou)
+https://youtu.be/qjR-BW5EG0c&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Rendez vos applications plus humaines avec Cognitive Services (Jean Sébastien Dupuy)
+https://youtu.be/lS_x-ZS101I&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Startup Driven Development (Gabriel Kastenbaum)
+https://youtu.be/e4Egxfb6vXg&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Terraform 101 (Yannick lorenzati)
+https://youtu.be/6tgpv2-dEMM&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+TypeScript dès lundi sur votre App Legacy (Frédéric Camblor)
+https://youtu.be/r0zxw423gm4&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Une application qui voit, entend et répond (Christophe Jollivet - Mickael Debonnaire)
+https://youtu.be/MirYw2UdFKI&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Une aventure ultrasonique ! (Hubert SABLONNIERE)
+https://youtu.be/rfEJY7lRrbM&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+Videos 51-75

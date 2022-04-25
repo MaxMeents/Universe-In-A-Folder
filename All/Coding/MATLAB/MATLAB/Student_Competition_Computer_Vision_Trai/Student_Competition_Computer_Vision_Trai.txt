@@ -1,0 +1,34 @@
+
+Automating Image Registration  Student Competition Computer Vision Training
+https://youtu.be/I_AMREcibls&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Importing and Visualizing Videos  Student Competition Computer Vision Training
+https://youtu.be/xg8fLeyO7hk&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Line Detection  Student Competition Computer Vision Training
+https://youtu.be/zy0932i2yog&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Matching Image Features  Student Competition Computer Vision Training
+https://youtu.be/E0ZmFhFMoks&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Motion Estimation  Student Competition Computer Vision Training
+https://youtu.be/pzdr0j997Sc&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Object Detection Part 1  Student Competition Computer Vision Training
+https://youtu.be/bRcX8l17ayU&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Object Detection Part 2  Student Competition Computer Vision Training
+https://youtu.be/Xe4tCLcSS1c&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Object Detection Using Blob Analysis  Student Competition Computer Vision Training
+https://youtu.be/DJ3wBLrAolY&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Object Tracking  Student Competition Computer Vision Training
+https://youtu.be/0jAC9sMQQuM&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Point Clouds  Student Competition Computer Vision Training
+https://youtu.be/pLCjjsVGlg0&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+
+Stereo Vision  Student Competition Computer Vision Training
+https://youtu.be/GpU1Vx-b3VA&list=PLn8PRpmsu08rRQCE6npmeMdavaQ5GV1mg
+Student Competition Computer Vision Training

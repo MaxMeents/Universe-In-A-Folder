@@ -1,0 +1,76 @@
+
+#94 the-Automators' Podcast 7 productivity tips for developers
+https://youtu.be/d6EVmKuR8wU
+
+#95 the-Automators' Podcast We wish we'd known before we learned to program
+https://youtu.be/r6059hkpLho
+
+AutoHotkey Webinar 042021 Hour 1-Notepad++
+https://youtu.be/sVFVSlpHSFw
+
+AutoHotkey Webinar 042021 Hour 2  Notepad++ Q&A And helping attendees
+https://youtu.be/YD0KPEijggc
+
+Don't tell yourself HOW to do something
+https://youtu.be/8gdIlKUpWbA
+
+How to easily revert to earlier versions with VS Code and GIT
+https://youtu.be/V2JBT5GFVEg
+
+How to print out, change and use Built-in VS code Hotkeys
+https://youtu.be/UkLCHcieV8E
+
+Intro to DOS & AutoHotkey  Learn how the Command prompt can save you!
+https://youtu.be/8DOLeNj4yPI
+
+Relationship between COM objects and DLLs
+https://youtu.be/yfS21dnfUw0
+
+Remember to work smarter not harder
+https://youtu.be/ywixnApXe2A
+
+SciTE Hotkeys to print out and memorize
+https://youtu.be/FRnIYrRprdY
+
+Simple example How to Automate Chrome with AutoHotkey
+https://youtu.be/btn1pSRE8es
+
+The secret to happiness in under 1 minute
+https://youtu.be/_3Uue-0GwSg
+
+the-Automators' Podcast #96 7 tips to push forward and get you off the plateau
+https://youtu.be/i0nMRcIn4cU
+
+the-Automators' Podcast #97 7 tips to getting help with your code
+https://youtu.be/i2jEbQY188I
+
+Understanding crazy people.  Learn this & your life will be easier!
+https://youtu.be/P6tLrROR7hc
+
+Update to SimpleSpy- A great tool for examining older programs
+https://youtu.be/QZOsGAwoMig
+
+Update to Windows snipping tool with accurate built-in OCR
+https://youtu.be/LcNlTlXJc9k
+
+Updates to Automate my Task  AutoHotkey syntax writer to Find & Click
+https://youtu.be/LeiOYqAU7So
+
+URLDownloadToFile, Web scraping & API calls Working wHTTP Protocol
+https://youtu.be/fzfJCLeEWfQ
+
+Using AutoHotkey to detect multiple clicks of a keymouse button
+https://youtu.be/cTSf5MxfI8k
+
+Using Modifier keys verse Key combos in AutoHotkey
+https://youtu.be/TOrw9CKOrFA
+
+What truly is nice code  Is code good if people can't use it
+https://youtu.be/T7fP9GGIeXc
+
+Why throw Exceptions instead of returning an error
+https://youtu.be/ICtgVCcUdK4
+
+Window Snipping Tool now tied to Google Translate
+https://youtu.be/FTmWrRBFsUg
+Videos 251-275

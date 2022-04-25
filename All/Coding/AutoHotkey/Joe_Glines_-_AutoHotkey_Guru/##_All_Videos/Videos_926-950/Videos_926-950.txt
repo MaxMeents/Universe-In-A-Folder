@@ -1,0 +1,73 @@
+
+AutoHotkey functions  tips and tricks
+https://youtu.be/mxoRNTEp_Ik
+
+AutoHotkey Webinar 112016  Hour 1-Regular Expressions
+https://youtu.be/uUzHWbaW-zI
+
+AutoHotkey Webinar 112016  Hour 2-Regular Expressions
+https://youtu.be/B29NQAH8BDg
+
+AutoHotkey Webinar 122016  Hour 1- Intro to AHK Classes
+https://youtu.be/yTCeM-txIp0
+
+Clearbit Prospector API, Lookup sales leads in seconds
+https://youtu.be/9hP_Sv2hW7o
+
+Extract email addresses with Regular Expression in AutoHotkey
+https://youtu.be/4LRM5jJIG_8
+
+How to create and use variadic functions in AutoHotkey
+https://youtu.be/874_CndOqdo
+
+How to Escape double quotes in AutoHotkey Regular Expression [3 ways]
+https://youtu.be/okjfz2NK8C8
+
+How to use function libraries in AutoHotkey  Great ways to organize your functions
+https://youtu.be/KvOJjuRqbIA
+
+How to use functions in AutoHotkey  Mind-blowing ways to Level-up!
+https://youtu.be/UQOzHpu8kIw
+
+How to use includes in AutoHotkey
+https://youtu.be/blIaDqBGhAQ
+
+RegEx 102- Using Ranges in your Regular Expression
+https://youtu.be/81pHIQKU5pY
+
+RegEx 103- Using Quantifiers in AutoHotkey Regular Expressions
+https://youtu.be/FBgXxgyr0s8
+
+RegEx 104- Anchors in AutoHotkey Regular Expressions
+https://youtu.be/s83TvRMSEVA
+
+RegEx 105-  Simplifying your AutoHotkey Regular Expression with escapes
+https://youtu.be/xv1UD7rv0CE
+
+RegEx 106- Creating Named Subpatterns in your AutoHotkey Regular Expression
+https://youtu.be/LBBQ4LocmiU
+
+RegEx 107  Using POSIX in your AutoHotkey Regular Expression
+https://youtu.be/M3Y9AgJgGsY
+
+RegEx 108- Dumping your Regular Expression match into an AutoHotkey Object
+https://youtu.be/zAktSbY8wZA
+
+RegEx 110- Example 1-Regular Expression on naming convention
+https://youtu.be/pip1mKewEI8
+
+RegEx 111- Use Option X) to ignore whitespace and have your RegEx cover multiple lines
+https://youtu.be/tFh_FMIK1Ro
+
+RegEx 112 RegExReplace in AutoHotkey- Moving patterns of words
+https://youtu.be/PfjyecsqEhE
+
+RegEx-Intro to Regular Expressions in AutoHotkey  pattern matching is easy
+https://youtu.be/uJnBe2Kpt8Q
+
+returning values from an AutoHotkey function with byref
+https://youtu.be/Zi4TsGWOxs8
+
+Tutorial on how to use optional parameters in an AutoHotkey function
+https://youtu.be/i_6wXr_rfHg
+Videos 926-950

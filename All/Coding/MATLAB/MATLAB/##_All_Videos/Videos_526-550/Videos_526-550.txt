@@ -1,0 +1,76 @@
+
+Accelerating MATLAB Application Development Using Stateflow
+https://youtu.be/D0nQuJkJ0-M
+
+Activity Profiler in Stateflow
+https://youtu.be/xw8va2xOHfg
+
+Adding MCU Peripheral Modeling in Motor Control Using SoC Blockset
+https://youtu.be/fGNM6zF9NnQ
+
+Data Analytics with MATLAB  Master Class with Loren Shure
+https://youtu.be/b4sq1dIdBS8
+
+Data Engineering for Engineering Data
+https://youtu.be/MoUV-g2UNjI
+
+Designing Software Architectures Using AUTOSAR Blockset
+https://youtu.be/Ys7pE2Vs-44
+
+Detecting Modeling Clones
+https://youtu.be/rjx1gSFbfdU
+
+Driving Scenarios and Virtual Sensors for Automated Driving
+https://youtu.be/flI5P5wV2Yw
+
+Generating MATLAB Code Interactively for Predictive Maintenance
+https://youtu.be/7B4AGna1HUQ
+
+Generating Object-Oriented C++ Code from MATLAB Algorithms
+https://youtu.be/ekmbotZZJU0
+
+Implementing a 5G Application on Xilinx RFSoC Using SoC Blockset
+https://youtu.be/BS454e2VA-s
+
+Importing OpenCV Code into Simulink
+https://youtu.be/eYtLp39XDvQ
+
+Interactively Retiming a Timetable in the Live Editor
+https://youtu.be/aisif9k30oc
+
+MATLAB Profiler with Flame Graph
+https://youtu.be/uvZcGjNBjWU
+
+Modeling and Simulating Basic Software with AUTOSAR Blockset
+https://youtu.be/2BzZbdYYgLM
+
+Motor Control on Embedded Devices
+https://youtu.be/fpz4-hapKkg
+
+Multi-Object Tracking for Autonomous Vehicles
+https://youtu.be/dh9x58FYK3M
+
+Near Real-Time Streaming Analytics Using MATLAB Production Server
+https://youtu.be/yzJYdrG8gw8
+
+New Simulink Solvers for Hybrid Systems ode1be and odeN
+https://youtu.be/oj19T0zPlkY
+
+Protecting Intellectual Property When Sharing Models
+https://youtu.be/l8Kgc3BrhSE
+
+Release Highlights 2020b
+https://youtu.be/vGwE0VuU-zo
+
+Sharing MATLAB Apps and Simulink Simulations Using MATLAB Web App Server
+https://youtu.be/NLt8wEA4N2E
+
+Simulink Lookup Tables
+https://youtu.be/xSzVRvbs6bg
+
+Using the C Caller Block to Call a C Function with a Global Variable Interface
+https://youtu.be/ONrb_UYTWYs
+
+Using the C Function Block to Integrate Custom Code in Simulink
+https://youtu.be/kymy8hld9cI
+Videos 526-550

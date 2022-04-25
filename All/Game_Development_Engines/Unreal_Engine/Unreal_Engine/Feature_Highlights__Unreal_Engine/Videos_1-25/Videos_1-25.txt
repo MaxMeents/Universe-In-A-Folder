@@ -1,0 +1,76 @@
+
+4.17 Preview  Feature Highlight  Unreal Engine
+https://youtu.be/UwVoYfgP6ZY&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+4.18 Preview  Feature Highlight  Unreal Engine Livestream
+https://youtu.be/dod2ovrTt2E&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+4.19 Material Layers Preview  Feature Highlight  Unreal Engine Livestream
+https://youtu.be/2dfkedfW1yI&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+4.20 Preview  Feature Highlight  Unreal Engine Livestream
+https://youtu.be/DUUZLlKS-9Q&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+An Introduction To Niagara  Feature Highlight  Unreal Engine Livestream
+https://youtu.be/s7QpAkzx5eM&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Animation in Sequencer in 4.26  Feature Highlight  Unreal Engine
+https://youtu.be/Af_6TKJlehQ&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Building advanced effects in Niagara  Unreal Engine
+https://youtu.be/syVSRDQxrZU&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Building natural environments in Unreal Engine
+https://youtu.be/gbj1qgPOl3E&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Creating Complex In-Game Effects  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/Vhsllsv53K0&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Exploring the depths of the new Sky & Atmosphere system  Unreal Engine
+https://youtu.be/SeNM9zBPLCA&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Fortnite Trailer Pipeline  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/LS0VsMMTaQA&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Immersive, true-to-life audio  Feature Highlight  Unreal Engine
+https://youtu.be/1cgN5pLG8Rs&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+LiDAR point cloud support  Feature Highlight  Unreal Engine
+https://youtu.be/R-ZXdAEGbiw&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Lighting with Unreal Engine Masterclass  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/ihg4uirMcec&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Megascans in UE4 Photoreal Environment Creation  Unreal Engine
+https://youtu.be/adoQgoETRsQ&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Movie Render Queue enhancements in 4.26  Feature Highlight  Unreal Engine
+https://youtu.be/fTZLLamS1Wk&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Networking in 4.20 The Replication Graph  Feature Highlight  Unreal Engine Livestream
+https://youtu.be/CDnNAAzgltw&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Paragon Character Texturing Pipeline  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/nVes6OUyzdw&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Physics Asset Editor Updates in 4.18  Feature Highlight  Unreal Engine Livestream
+https://youtu.be/1avvVfvK-nc&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Quixel and Sky Atmosphere System Overview  Unreal Engine
+https://youtu.be/oDQl9gw_fRM&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Rendering improvements in 4.25  Feature Highlight  Unreal Engine
+https://youtu.be/9XtEHxIIkX8&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Sequencer Updates in 4.17  Feature Highlight  Unreal Engine
+https://youtu.be/kViT8Zd6Pdw&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Sky, cloud, and environment lighting in 4.26  Feature Highlight  Unreal Engine
+https://youtu.be/NndsCthHDDY&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+UE4 Performance and Profiling  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/hcxetY8g_fs&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+
+Unreal Engine 4.26 Feature Highlights
+https://youtu.be/nU2aCQnWgmo&list=PLZlv_N0_O1gafItfFkWk25o3UNSTWDlPd
+Videos 1-25

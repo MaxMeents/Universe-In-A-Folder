@@ -1,0 +1,13 @@
+
+Build 3 Apps in an Hour Challenge  SwiftUI + AWS
+https://youtu.be/BsRkkjjiHWc&list=PL5h37q2DJtANMqRRwbHe-X2l_iiN6M3qn
+
+Sign in with Apple using SwiftUI  iOS 14  Swift 5
+https://youtu.be/O2FVDzoAB34&list=PL5h37q2DJtANMqRRwbHe-X2l_iiN6M3qn
+
+SwiftUI MVVM  A Realistic Example
+https://youtu.be/bdqEcpppAMc&list=PL5h37q2DJtANMqRRwbHe-X2l_iiN6M3qn
+
+Using Design Patterns with SwiftUI  Swift 5, Xcode 11
+https://youtu.be/n3Msp88Ab1o&list=PL5h37q2DJtANMqRRwbHe-X2l_iiN6M3qn
+SwiftUI

@@ -1,0 +1,19 @@
+
+Biotech, and how to become a cyborg - Interview with Elsa, a cyborg
+https://youtu.be/J0hvCcZF_0Q&list=PL2ekzZZrxVUnAh5Sy92VtzwTXXersDS9S
+
+Collaboration, superpowers, and working remotely with teams - Interview with Lisette Sutherland
+https://youtu.be/m5npEz0CZuE&list=PL2ekzZZrxVUnAh5Sy92VtzwTXXersDS9S
+
+GDPR, marketing, and community engagement - Interview with Philipp Krenn
+https://youtu.be/AGdjRs-FHzs&list=PL2ekzZZrxVUnAh5Sy92VtzwTXXersDS9S
+
+Haskell, domain modelling, and teaching developers online - Interview with Oskar Wickström
+https://youtu.be/og43_DWe-WA&list=PL2ekzZZrxVUnAh5Sy92VtzwTXXersDS9S
+
+Knative, serverless, Kubernetes, and developer conferences - Interview with Burr Sutter
+https://youtu.be/VFh8_Jp2VQk&list=PL2ekzZZrxVUnAh5Sy92VtzwTXXersDS9S
+
+Tackling application security, hacking, and bug bounties - Interview with Pete Yaworski
+https://youtu.be/qYmNYwiSXeY&list=PL2ekzZZrxVUnAh5Sy92VtzwTXXersDS9S
+Øredev 2018

@@ -1,0 +1,76 @@
+
+Alejandro Garcia - Python Gamedev MLG
+https://youtu.be/PIcCsZ3Nk8I
+
+Alejandro Guirao Rodríguez - Extending and embedding Ansible with Python
+https://youtu.be/qLoBHbVb0Fw
+
+Alexander Sibiryakov - Frontera open source large-scale web crawling framework
+https://youtu.be/Km7poOD8ybU
+
+Armin RigoRomain Guillebert - PyPy status talk (a.k.a. no no, PyPy is not dead)
+https://youtu.be/r6hGGURJwqo
+
+Benoit Chesneau - Concurrent programming with Python and my little experiment
+https://youtu.be/9lfRjdASrAQ
+
+Benoît Calvez - Python and elasticsearch 101
+https://youtu.be/BzmjfXzj1LA
+
+David Arcos - Python in the Sky In-Flight Entertainment with Python
+https://youtu.be/Aw4uT0Fi_QY
+
+Fabrizio Romano - TDD is not about tests!
+https://youtu.be/uWDNvWvlw7I
+
+Floris Bruynooghe - The hook-based plugin architecture of py.test
+https://youtu.be/zZsNPDfOoHU
+
+Francesc Alted - Out-of-Core Columnar Datasets
+https://youtu.be/kLP83HZvbfQ
+
+Georges Dubus - Through the lens of Haskell exploring new ideas for library design
+https://youtu.be/22lmEdB9QyU
+
+Jozef - Amanda A New Generation of Distributed Services Framework
+https://youtu.be/Whd2LfousHk
+
+Marco Buttu - Lessons learned about testing and TDD
+https://youtu.be/41RzcHNfdSo
+
+Mark Smith - Writing Awesome Command-Line Programs in Python
+https://youtu.be/CJ7-SroGtZ8
+
+Naomi Ceder - Farewell and Welcome Home Python in Two Genders
+https://youtu.be/jWFmfbxnANo
+
+Pablo Seminario - The Salt Route
+https://youtu.be/ER08WwJMjm8
+
+Philipp Mack - Python in the world of retail and mail order
+https://youtu.be/5Ij0w2pk-fQ
+
+Piotr Dyba - with modern_peripherals Python and Flask
+https://youtu.be/LJgDGh-6xJs
+
+Romain Guillebert - PyPy and the future of the Python ecosystem
+https://youtu.be/Axm14JH8XlY
+
+Schlomo Schapiro - DevOps Risk Mitigation Test Driven Infrastructure
+https://youtu.be/Rm2P6DB6-nU
+
+Shahriar Tajbakhsh - Parallelism Shootout threads vs asyncio vs multiple processes
+https://youtu.be/B0Qfe3U_hKU
+
+Stefanie Lück - RISCy Business Development of a RNAi design and off-target prediction software
+https://youtu.be/1s5f4VzCxcs
+
+Victor Stinner - asyncio community, one year later
+https://youtu.be/ulFUwi_Ge8E
+
+Vincent Warmerdam - PySpark and Warcraft Data
+https://youtu.be/AOwP2xq_ceE
+
+Wojciech Lichota - Continuous Deployment for webapps based on Django
+https://youtu.be/WhRfr7r5tYQ
+Videos 1026-1050

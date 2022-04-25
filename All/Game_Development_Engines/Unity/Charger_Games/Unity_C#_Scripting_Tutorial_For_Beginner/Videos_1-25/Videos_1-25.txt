@@ -1,0 +1,76 @@
+
+10.Unity C# Scripting Tutorial- While Loops
+https://youtu.be/doqI-EcL-RY&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+11.Unity C# For Loops Simple Explanation - Unity C# Scripting Tutorial
+https://youtu.be/Trm5txUBHT8&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+12. Unity Arrays Everything You Need To Know - Unity C# Scripting Tutorial
+
+
+13. Unity C# foreach Loop - Unity C# Scripting Tutorial
+https://youtu.be/HCClKpeYsGQ&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+14. Vectors In Unity - Vector2 & Vector3 - Unity C# Scripting Tutorial
+https://youtu.be/0KUhzde-INY&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+15.Unity Transform Component - Unity C# Scripting Tutorial
+https://youtu.be/yVn57KWUVCA&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+2. Unity C# Scripting Tutorial For Beginners- Understanding the First C# Script
+
+
+3.Unity C# Scripting Tutorial For Beginners- Variables & Datatypes
+https://youtu.be/jLiH41aqb-c&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+4.Unity C# Scripting Tutorial - Start & Update Function
+https://youtu.be/ycKrHxGGrRc&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+5.Unity C# Scripting Tutorial - Awake & Start Function
+https://youtu.be/FmnCZUCkQc4&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+6.Unity C# Tutorial - All About Functions & Parameters
+https://youtu.be/hY54oEsx1Eo&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+7.Unity C# Scripting Tutorial- Destroying Objects
+https://youtu.be/xNpCrd9nhmo&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+8.Unity C# Scripting Tutorial- If Else Statements
+https://youtu.be/NoAr0GqxPEI&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+9.Unity C# Scripting Tutorial- Concept of Loops
+https://youtu.be/8QlDKjhvWzA&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Learn C# for 2D Unity Game Development in 20 Minutes
+https://youtu.be/5MmhSfyO3kg&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Learn C# for Unity - Foreach Loop, Array, Find Tags
+https://youtu.be/NUYnHrfWenw&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Learn C# for Unity 15 Minutes - 3D Player Movement , Camera Follow & More
+https://youtu.be/7aJyLiBLDBg&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Learn C# In One Video Unity C# Scripting Tutorial For Beginners ( 2022 Fully Working )
+
+
+Learn C# Scripting for Unity 15 Minutes - Coroutine , Invoke , Adding Delay
+
+
+Learn C# Scripting for Unity in 15 Minutes (2022 Working)
+https://youtu.be/9tMvzrqBUP8&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Learn C# Scripting For Unity in 15 Minutes - Part 2
+https://youtu.be/CpDAZn0a_vA&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Unity C# Scripting  Complete C# for Unity Game Development
+https://youtu.be/UUWgQuskEr0&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Unity C# Scripting Basics in One Hour ( 2022 Working )
+https://youtu.be/MX_KK7u53As&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Unity C# Scripting Essentials for Game Development
+https://youtu.be/VkT4gIsr4JY&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Unity C# Scripting Tutorial For Beginners-Introduction To C# For Unity Game Development
+
+Videos 1-25

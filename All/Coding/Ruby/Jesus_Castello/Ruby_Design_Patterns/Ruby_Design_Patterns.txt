@@ -1,0 +1,13 @@
+
+Decorator Design Pattern (With Ruby Example)
+https://youtu.be/J_T5Gmr8Wrg&list=PL6Eq_d2HYExdTv9We0lYdRT1_8eyZDvO3
+
+Ruby Builder Pattern
+https://youtu.be/jNs7CyC9JFM&list=PL6Eq_d2HYExdTv9We0lYdRT1_8eyZDvO3
+
+Ruby Singleton Design Pattern
+https://youtu.be/QDqWQrK_FOg&list=PL6Eq_d2HYExdTv9We0lYdRT1_8eyZDvO3
+
+Strategy Design Pattern (With Ruby Example)
+https://youtu.be/zLgEtOl3eGQ&list=PL6Eq_d2HYExdTv9We0lYdRT1_8eyZDvO3
+Ruby Design Patterns

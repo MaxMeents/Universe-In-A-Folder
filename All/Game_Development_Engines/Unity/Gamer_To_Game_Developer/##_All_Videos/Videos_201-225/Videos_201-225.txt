@@ -1,0 +1,76 @@
+
+[53] Unity 5.3 Conversion - How To Make A Game
+https://youtu.be/mUEOfnPC8cw
+
+[54] Player Inventory - How To Make A Game
+https://youtu.be/vvIEUQnNPi4
+
+[55] Intro To Chapter 4 - How To Make A Game
+https://youtu.be/__3arr-rHWQ
+
+[56] Item Master - How To Make A Game
+https://youtu.be/dsn4nnXS-rE
+
+[57] Item Throw - How To Make A Game
+https://youtu.be/jzpaQK9zzaM
+
+[58] Item Pickup - How To Make A Game
+https://youtu.be/Fc-xqDRjKl8
+
+[59] Item Tag - How To Make A Game
+https://youtu.be/aaUmaf40_ww
+
+[60] Item Name - How To Make A Game
+https://youtu.be/COs3duOw3h8
+
+[61] Item Rigidbodies - How To Make A Game
+https://youtu.be/OV0bMtDSQuA
+
+[62] Item Colliders - How To Make A Game
+https://youtu.be/pAkvcWXMdy4
+
+[63] Item Set Layer - How To Make A Game
+https://youtu.be/dB7Qcmnbgvg
+
+[64] Item Set Position - How To Make A Game
+https://youtu.be/JHbIhgmvD0M
+
+[65] Item Sounds - How To Make A Game
+https://youtu.be/1O58n0Xp1cA
+
+[66] Item Animator - How To Make A Game
+https://youtu.be/Q5lmtocVrXY
+
+[67] Item UI - How To Make A Game
+https://youtu.be/zcnCP1rjIqM
+
+[68] Item Ammo - How To Make A Game
+https://youtu.be/fCqtrscXvyo
+
+[69] Intro To Chapter 5 - How To Make A Game
+https://youtu.be/Nv5hLLl6b_c
+
+[70] Download Golem - How To Make A Game
+https://youtu.be/gIjyCH0QA-k
+
+[71] Setup Ragdoll - How To Make A Game
+https://youtu.be/aBRXClymof4
+
+[72] Enemy Controller - How To Make A Game
+https://youtu.be/MRotkpZDZUc
+
+[73] Enemy Master - How To Make A Game
+https://youtu.be/s7-WqmD3gHk
+
+[74] Enemy Animation - How To Make A Game
+https://youtu.be/AcoYGGSPkWM
+
+[75] Enemy Detection - How To Make A Game
+https://youtu.be/CxEBUCB31Aw
+
+[76] Enemy Nav Pursue - How To Make A Game
+https://youtu.be/UJ-2WuTunkE
+
+[77] Enemy Nav Destination Reached - How To Make A Game
+https://youtu.be/Pa5w9kkTU8g
+Videos 201-225

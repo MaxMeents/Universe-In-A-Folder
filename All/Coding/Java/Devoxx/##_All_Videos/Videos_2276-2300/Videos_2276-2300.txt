@@ -1,0 +1,76 @@
+
+A MicroProfile for Micro Services by Mike Croft
+https://youtu.be/dyK6BcOh8N4
+
+Better performance with HTTP2 by Julien Viet
+https://youtu.be/ycA9orpQlxg
+
+BPMN plus DMN Combining Workflows and Decisions by Niall Deehan
+https://youtu.be/FmZKTgYuv4s
+
+building secure software with OWASP by Martin Knobloch
+https://youtu.be/ttPSiLE_9Kg
+
+Composite Builds with Gradle by Stefan Oehme
+https://youtu.be/l96SMQX3zkU
+
+Crowdsourcing knowledge write for Voxxed by Katharine Beaumont
+https://youtu.be/Bn3pTmorKwo
+
+Deep dive into Watson's Neural Networks by Sandhya Kapoor, Bowen Zhou and Arthur Kantor
+https://youtu.be/GXXYs51ADJU
+
+Exploring Java 9 by Venkat Subramaniam
+https://youtu.be/8XmYT89fBKg
+
+From Monolithic App Server to Micro Profile App Server by  Alasdair Nottingham
+https://youtu.be/w05Xri0V9ts
+
+It’s Java Jim, But Not As We Know It by Simon Ritter
+https://youtu.be/bhSBpNXwa60
+
+Javaslang - Functional Java Done Right by Grzegorz Piwowarek
+https://youtu.be/gRJmpmYMHE0
+
+JUnit 5 Next Generation Testing on the JVM by Nicolai Parlog
+https://youtu.be/VfC00bby8XQ
+
+Maven - your ultimate CD tool by Jakub Marchwicki
+https://youtu.be/LsM_i-chL3k
+
+Modular Development with JDK 9 by Mark Reinhold and Alan Bateman
+https://youtu.be/IA8FkrY0VFE
+
+Nuts and Bolts of Docker by Patrick Chanezon
+https://youtu.be/fs1tG8PhGTE
+
+Prometheus Monitoring for Java Developers by  Fabian Stäber
+https://youtu.be/jb9j_IYv4cU
+
+Reactive Programming by Venkat Subramaniam
+https://youtu.be/weWSYIUdX6c
+
+Serenity-JS next generation acceptance testing for Angular-JS in TypeScript by John SmartJan Molak
+https://youtu.be/YYgkFgBxEwc
+
+Tensorflow and deep learning - without a PhD by Martin Görner
+https://youtu.be/vq2nnJ4g6N0
+
+The end of polling  why and how to transform a REST API into a Data Streaming API by Audrey Neveu
+https://youtu.be/NDDp7BiSad4
+
+Unikernels and Docker From revolution to evolution by Richard Mortier
+https://youtu.be/f8uQ3ecEutY
+
+Using Machine Learning to Enhance your Apps by Sara Robinson and Mete Atamel
+https://youtu.be/kiy1uTW1CRI
+
+What can you learn from thousands of source files in Github by Guillaume Laforge
+https://youtu.be/ytssHnBSq8Q
+
+Why you should really care about the blockchain by Sebastien Arbogast & Said Eloudrhiri
+https://youtu.be/dQVxbPqlBkE
+
+You always dreamt of your own quantum computer. Now you can have it in the Cloud. by Eric Cattoir
+https://youtu.be/Sa_XJ75Piew
+Videos 2276-2300

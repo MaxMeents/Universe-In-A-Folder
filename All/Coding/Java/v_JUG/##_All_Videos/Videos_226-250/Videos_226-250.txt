@@ -1,0 +1,76 @@
+
+3 years of backend testing at Shazam [the stuff we got wrong]
+https://youtu.be/9kWslvOpQfw
+
+60 Second Introduction to JRebel
+https://youtu.be/aWmYkZJMOSc
+
+An Interview with Arun Gupta
+https://youtu.be/K_WHFpv-HCw
+
+Building the Internet of Things with Java
+https://youtu.be/BcVdZJqfGxM
+
+Ceylon for Java Developers
+https://youtu.be/gbI6nooTHQY
+
+Groovy for Java Developers
+https://youtu.be/FkLZ7kDCIBk
+
+Highly Strung Understanding your Type System
+https://youtu.be/KMnv-A-ANP4
+
+HTML5, AngularJS, Groovy, Java and MongoDB all together - what could go wrong
+https://youtu.be/MRrSAkEAnZQ
+
+Interview with James Gosling
+https://youtu.be/XbswN8mrutk
+
+Java and the Wave Glider with James Gosling
+https://youtu.be/EgUctRxaiLs
+
+Java Classloaders The good, the bad and the WTF!
+https://youtu.be/Bf1f5pZ4CmM
+
+jOOQ Get Back in Control of Your SQL
+https://youtu.be/7bqmj-3DODE
+
+Kotlin for Java developers
+https://youtu.be/vmjfIRsawlg
+
+Opinionated JavaFX 8 by Adam Bien
+https://youtu.be/W-ezZqeGQ6Y
+
+Package your Java EE application using Docker and Kubernetes
+https://youtu.be/OEflMTJUV4c
+
+Pragmatic Functional Refactoring with Java 8
+https://youtu.be/ymW1QFQ7iFM
+
+Reactive Programming Creating highly responsive applications
+https://youtu.be/16CH5zr50B0
+
+Rebel Labs Interviews Lukas Eder
+https://youtu.be/GwPAaXcuCww
+
+Scala for Java Developers
+https://youtu.be/PQPvZkA-6bg
+
+Shaping Java's future & vJUG party!
+https://youtu.be/HvDCv-PIAOE
+
+Testing and Refactoring Legacy Code
+https://youtu.be/JTHMd1nQlSg
+
+The Live Reflection Madness by Dr Heinz Kabutz
+https://youtu.be/AxvJgtaojUw
+
+vJUG panel Review of 2164 Survey Responses on Java Tools and Technology
+https://youtu.be/s5oG6b3LpbQ
+
+vJUG Panel What do the OracleGoogle shenanigans mean to the Java Developer
+https://youtu.be/CONDgjrOTv8
+
+XRebel Demo
+https://youtu.be/jqYDH0Bre-E
+Videos 226-250

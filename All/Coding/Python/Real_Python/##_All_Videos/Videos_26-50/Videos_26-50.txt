@@ -1,0 +1,76 @@
+
+2021 Real Python Articles Wrap Up  Real Python Podcast #91
+https://youtu.be/KaEW9Qt0xxY
+
+A Python Journey Cyber Security, Automating AWS, and TDD  Real Python Podcast #90
+https://youtu.be/hMnANVrXdhM
+
+Building a Content Aggregator and Working With RSS in Python   Real Python Podcast #87
+https://youtu.be/ljcg9_Ma-hE
+
+Continuing to Unravel Python's Syntatic Sugar With Brett Cannon  Real Python Podcast #92
+https://youtu.be/jFqQk5dzGAs
+
+Creating a Simple Python Web Application With Flask and Testing Locally
+https://youtu.be/Aa-F6zqLmig
+
+Creating and Manipulating PDFs in Python With borb  Real Python Podcast #84
+https://youtu.be/xRzybRKLvW0
+
+Creating Scatter Plots in Python Using plt.scatter()
+https://youtu.be/iz3pu575T7o
+
+Discussing Type Hints, Protocols, and Ducks in Python  Real Python Podcast #88
+https://youtu.be/X9OtZFEA4PA
+
+Exploring Django Templates, Tags, and Filters  Real Python Podcast #85
+https://youtu.be/OyUvpwfaKDE
+
+Installing Packages Using pip and Creating requirements.txt Files
+https://youtu.be/ASYyD9hFGfI
+
+Introduction to Binary Numbers and Bitwise Math
+https://youtu.be/hrVczYal4_w
+
+Introduction to the Heroku CLI and Hosting a Django Project
+https://youtu.be/Ku7mJaq2ics
+
+Launching Python, Virtual Environments, and Locking Dependencies  Real Python Podcast #93
+https://youtu.be/5EU4HSZMOC8
+
+Reading Input in Python and Converting Keyboard Input
+https://youtu.be/TOMFAD8e8j8
+
+Ready to Publish Your Python Packages   Real Python Podcast #83
+https://youtu.be/SghTaQuMBxE
+
+Solving Advent of Code Puzzles With Python  Real Python Podcast #89
+https://youtu.be/ABOVBwITyzI
+
+Starting Data Visualizations With Dash and Python
+https://youtu.be/pGMvvq7R1IM
+
+Starting with Neural Networks and AI in Python
+https://youtu.be/XZ27foiCF28
+
+The Legacy of OLPC and Charismatic Pitfalls in Teaching Programming   Real Python Podcast #86
+https://youtu.be/H9WRFkvYduQ
+
+Using Python's .append() to Build Lists
+https://youtu.be/gbvV4Lb1hrY
+
+Welcoming the CPython Developer in Residence  Real Python Podcast #82
+https://youtu.be/G3X7FAFW-6Y
+
+What are Python Assignment Expressions and Using the Walrus Operator
+https://youtu.be/iBfkbFvFqNc
+
+What is Python IDLE and How to Use the IDLE Shell
+https://youtu.be/WIlQukiXs-E
+
+Working With Python Exceptions and Differentiating From Syntax Errors
+https://youtu.be/FUHWoiEZ-qY
+
+Writing Pythonic Code - Idiomatic Python
+https://youtu.be/LtKl2JRASlM
+Videos 26-50

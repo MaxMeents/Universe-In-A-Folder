@@ -1,0 +1,76 @@
+
+Arne Martin Aurlien Implement an Esoteric Programming Language for Fun  JSConf EU 2014
+https://youtu.be/oCPT3L33848
+
+Christoph Martens JavaScript Level 9000  JSConf EU 2014
+https://youtu.be/v34CEyqVEuM
+
+CSSconf EU 2014  Bram Stein The State of Web Typography
+https://youtu.be/VbCqFQ1sTYQ
+
+CSSconf EU 2014  John Brown A CSS Dive Trough Google's Powers Of Tech
+https://youtu.be/I9_jE4V_E7w
+
+CSSconf EU 2014  Patrick Hamann CSS and the Critical Path
+https://youtu.be/_0Fk85to6hA
+
+Dave Cridland Air Crashes  JSConf EU 2014
+https://youtu.be/Oxz23A9_Mc4
+
+Dominikus Baur Web-based data visualization on mobile devices  JSConf EU 2014
+https://youtu.be/X2ZlDrx6dAw
+
+Drew Petersen Developing Games Using Data not Trees  JSConf EU 2014
+https://youtu.be/uNVP5jDOVAY
+
+Federico Musto Linino.IO - A Whole New Take  JSConf EU 2014
+https://youtu.be/eipW64BGoOE
+
+Frederik Braun We're struggling to keep up  JSConf EU 2014
+https://youtu.be/mj-U9FlbAl0
+
+Hunter Loftis We Will All Be Game Programmers  JSConf EU 2014
+https://youtu.be/QX0eauXBKwc
+
+James Coglan Practical functional programming pick two  JSConf EU 2014
+https://youtu.be/XcS-LdEBUkE
+
+Jaswanth Sreeram Parallel JavaScript  JSConf EU 2014
+https://youtu.be/Ls27mCiYsQo
+
+Jenna Zeigen The Linguistic Relativity of Programming Languages  JSConf EU 2014
+https://youtu.be/tNylHHf2uJk
+
+JSConf.Asia 2013 Side Effects
+https://youtu.be/SnY8VVuPERk
+
+Lindsay Eyink Know Your 's  JSConf EU 2014
+https://youtu.be/65YYMLQ1jkU
+
+Mark Knichel JavaScript Tools at Scale Using Type Information  JSConf EU 2014
+https://youtu.be/oXZaqHWq6cM
+
+Michael Poltorak Nielsen Alternative Smartphone Interactions based on Sensor Data  JSConf EU 2014
+https://youtu.be/q20W5dWHTas
+
+Nikita Vasilyev Future of Web Tooling  JSConf EU 2014
+https://youtu.be/U0_IrPqvwn4
+
+Raquel Vélez Evolution of a Developer  JSConf EU 2014
+https://youtu.be/rP1q6oIVco4
+
+Ray McDermott How Toyota Motor Europe use Heroku  JSConf EU 2014
+https://youtu.be/JlRHyg60vvI
+
+Rosie Campbell Designing for displays that don't exist yet  JSConf EU 2014
+https://youtu.be/QAha1prc_pU
+
+Stephan Seidt The Meaning of Words  JSConf EU 2014
+https://youtu.be/d1HM-9reFAE
+
+Vyacheslav Egorov invokedynamic.js  JSConf EU 2014
+https://youtu.be/YOHBZactXus
+
+William Lewis & Pavel Dovbush Building a maintainable bi-directional cross platform protocol
+https://youtu.be/Wkw4TOBEKUY
+Videos 1076-1100

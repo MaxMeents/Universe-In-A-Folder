@@ -1,0 +1,76 @@
+
+Python Basics AnyAll Functions
+https://youtu.be/BcqPk4_puoQ&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Board Game Pt  1
+https://youtu.be/fzAEwJgWHfM&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Board Game Pt  2
+https://youtu.be/lE_GPgw1NoU&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Board Game Pt  3
+https://youtu.be/rHAG3XNhAJg&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Board Game Pt  4
+https://youtu.be/irCSc8dMoMk&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics CSV File Uncut With Urllib
+https://youtu.be/dNiSr0t9Jcs&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Decryption
+https://youtu.be/gowXsR58dN8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Encryption
+https://youtu.be/V79r_yj5WHw&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics File Write Method Using Urllib
+https://youtu.be/LAo9kK4APfU&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Generator Objects
+https://youtu.be/PzV-_lQQ2x8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Id Function
+https://youtu.be/6jnKTOUCZ2w&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Iter Function
+https://youtu.be/Sa9O85TDAgo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Itertools Chain Method
+https://youtu.be/n6D4mG4Gf7E&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics List Comprehension with Conditions
+https://youtu.be/Y7UWZoAME4I&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Map Function
+https://youtu.be/4oktfOywnMc&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Move a file to a different directory
+https://youtu.be/6ZPqMPa36wo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Next Fucntion
+https://youtu.be/jy5C1d5tSqo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Open Function + Mode
+https://youtu.be/a2SYqZCdTbk&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Open Function
+https://youtu.be/rtTu0IA5hOo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Set ObjectFunction
+https://youtu.be/9ehcvZE_Ab0&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Shopping List Pt 1
+https://youtu.be/Ebgw7yQVwWw&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Shopping List Pt 2
+https://youtu.be/So4rxTBcnvo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Shopping List Pt 3
+https://youtu.be/D5ZHcZ2XMms&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Shopping List Pt 4
+https://youtu.be/v6mwZP0kMWM&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Shopping List Uncut
+https://youtu.be/62sblljc4VQ&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+Videos 51-75

@@ -1,0 +1,67 @@
+
+A Whirlwind Tour of scala.meta—Ólafur Páll Geirsson
+https://youtu.be/-l7pV0sFq1c&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Can we make concurrency in Scala safer—Philipp Haller
+https://youtu.be/nwWvPeX6U9w&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Distributed Systems vs Compositionality—Roland Kuhn
+https://youtu.be/LcUIIRqXwTY&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Enterprise Algebras—Tim Perrett
+https://youtu.be/oAu0MIe072M&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Essential vs Accidental Complexity in Scala & Dotty—Andrew Phillips
+https://youtu.be/Ay-9aanosUM&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+First-class Coroutines for Scala—Aleksandar Prokopec
+https://youtu.be/B3hKOUtc4e0&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+For What is it good for—Josh Suereth & Dick Wall
+https://youtu.be/WDaw2yXAa50&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Generic Derivation The Hard Parts—Travis Brown
+https://youtu.be/80h3hZidSeE&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Introduction to ScalaCheck—Noel Markham
+https://youtu.be/l5-5w8A-Ong&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Managing Your Resources—Denys Shabalin
+https://youtu.be/MV2eJkwarT4&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Private video
+https://youtu.be/XxFCNAOKA1c&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Pure Functional Database Programming with Fixpoint Types—Rob Norris
+https://youtu.be/7xSfLPD6tiQ&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Quaich A serverless Scala microframework for AWS Lambda—Brendan McAdams
+https://youtu.be/xHLQcS5BGbo&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Scala World Closing Panel 2016
+https://youtu.be/Ns77vzEiWPA&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Scala World Opening Keynote—Martin Odersky
+https://youtu.be/w1ca4KL9UXc&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Staged Parser Combinators—Manohar Jonnalagedda
+https://youtu.be/Cc6QrgqsoVI&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Tales from Compiling to the JVM—Lukas Rytz
+https://youtu.be/H3hPWvZtF4A&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+The 2016 Eyjafjallajökull Lecture—Bodil Stokke
+https://youtu.be/3ImZZ3AvjhA&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+The Story of a Parallel Scala Library—Vlad Ureche
+https://youtu.be/0VUDy37hszg&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+The Type Astronaut's Guide to Shapeless—Dave Gurnell
+https://youtu.be/Zt6LjUnOcFQ&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Writing a Compiler Plugin or Macro—Sam Halliday & Rory Graves
+https://youtu.be/tIFEKeDYiTo&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+
+Yulia Tsernant
+https://youtu.be/qso63yuq6a8&list=PL9KXdMOfekvYn_x-GEPTp3wlX6iJk_Jmu
+Videos 1-25

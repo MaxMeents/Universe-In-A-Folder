@@ -1,0 +1,37 @@
+
+Am I worried that developers will be replaced by robots  Async Andrzej #1
+https://youtu.be/NIW7NC5tWSo&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Anatomy of the React.js component - FREE chapter of the book
+https://youtu.be/bFt-7P6ZiYo&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Lessons learnt from introducing DDD in RubyRails projects
+https://youtu.be/nzU_I79kzEw&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+React.js koans
+https://youtu.be/i6iVyLhMFco&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+RethinkDB + ReactJS + Rails Live - Proof of concept
+https://youtu.be/P9Upn194b9M&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+RubyMine basic navigation features
+https://youtu.be/uRh2uetV4_I&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Rubymotion App with ProMotion gem
+https://youtu.be/4w-om349U3c&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Service objects - different ways of calling them.
+https://youtu.be/fKnq_BG93-g&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Service Objects
+https://youtu.be/rsQKe1Fi2Vo&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+TodoMVC - deleting feature
+https://youtu.be/xEoMKmjy1Zg&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Using mutant with a Rails controller, by Andrzej Krzywda
+https://youtu.be/G7c0_FlR-R4&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+
+Why I love React
+https://youtu.be/np3Fj_27oi8&list=PLr2F5WUnrawt6ZF_fXURFnB-E08xc8eK8
+Arkency videos

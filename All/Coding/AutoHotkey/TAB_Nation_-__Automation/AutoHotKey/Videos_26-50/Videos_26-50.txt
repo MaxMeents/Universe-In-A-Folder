@@ -1,0 +1,76 @@
+
+AutoHotkey -  Control Your PlayStation 4 With AHK. PS4 Remote Play and Minecraft.
+https://youtu.be/lcxz7k5Gfzk&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey - Creating A GUI Survey Then Drawing A Winner
+https://youtu.be/G4N5c2kSFDI&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey - Getting Coding Help On Reddit
+https://youtu.be/RU1F8GC2Yqk&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey - Radial Menu v4 How To
+https://youtu.be/L85RXEdYv48&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey - Valheim Part 1 - Auto Skills Leveling Up
+https://youtu.be/sNYiUR9ibzw&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey - Valheim Part 2 - Auto Run Q , Auto Chop and Auto Re Gear After DeathReady for Battle
+https://youtu.be/0DwwDJKKqnw&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey - Zoom API and Teams Part 1
+https://youtu.be/GTELeau007s&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Chrome Part 3-  How To Control Chrome With Invisible DevTool Window and Custom Menus
+https://youtu.be/2Z7X7IjHucM&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Chrome Part 4 - Simplest Way With Out Admin Rights or Installing Anything Outside of AHK
+https://youtu.be/2DfaTWNkU7I&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotKey Excel - Grabbing data from excel with AHK
+https://youtu.be/HwpIX1rzAeE&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey GUI 6 - Pretty GUIs, BackgroundsBorder, and Button Pictures
+https://youtu.be/Auv-jGuz-XQ&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey How To Use a Barcode Scanner  Card Reader With AHK
+https://youtu.be/CPjzpYz7dT0&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Intro 10 - DLLcall, Random, Settimer, How to auto start a script
+https://youtu.be/HvLiACCn1lc&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Intro 11 - Script Setting, FileSelectFile, Organizing, Prettyfy, SingleInstance, SendMode
+https://youtu.be/kuS4ziwTVPw&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Intro 12 - Playing With Variables hints and tricks
+https://youtu.be/cIlLLsGPKaU&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Intro 13 - OnMessage, SendMessage, PostMessage, Send Data Between Scripts
+https://youtu.be/qiPVzWnmK6E&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotKey Intro 7 -  2 hotkeys at once, Open tab based on current tab, send key as normal  hotkey.
+https://youtu.be/ZwjYGGT3RSI&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Intro 8 - Toggle aka on off switch, Volume control with mouse, If button is held vs tap
+https://youtu.be/-MrAgXVKbSA&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Intro 9 - Hotstrings, TraytipTooltip, Mass File Name Changing, URLdownload
+https://youtu.be/FRWr_vRW4Vo&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Mod Box - Arcade Buttons working with AHK. IPAC-2
+https://youtu.be/k44Ct9lmcZs&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Most Common Gaming Script Commands
+https://youtu.be/TUzZwAZDSNs&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Selenium Part 1 - How To Install and Fill Text Input Box (IE, Chrome, Firefox, Edge)
+https://youtu.be/_Di0q7nB6MA&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkey Selenium Part 2 - Grab Info From Browser and load user info (IE, Chrome, Firefox, Edge)
+https://youtu.be/5lsLW4Shigw&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkeys - Adding Icons to EXE, Context Menus, Tray Menu
+https://youtu.be/0f3Yhr_cpIM&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+
+AutoHotkeys - Drag and Drop Block Coding. Visual Coding Intro (ahk.zvecr and cloudahk)
+https://youtu.be/o5BVo6WHOh4&list=PLfHPAKSz_DJohq0s2qLGBxZf7WHFqfoRW
+Videos 26-50

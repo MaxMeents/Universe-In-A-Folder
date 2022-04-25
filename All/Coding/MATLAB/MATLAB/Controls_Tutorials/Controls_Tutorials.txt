@@ -1,0 +1,10 @@
+
+State Space Models, Part 1 Creation and Analysis
+https://youtu.be/wXzlhUzhqao&list=PLn8PRpmsu08pthFCm99KHluz0fliNjAYL
+
+State Space Models, Part 2 Control Design
+https://youtu.be/RC7_nRZKGgE&list=PLn8PRpmsu08pthFCm99KHluz0fliNjAYL
+
+Transfer Functions in MATLAB
+https://youtu.be/7-IsUm0hDMg&list=PLn8PRpmsu08pthFCm99KHluz0fliNjAYL
+Controls Tutorials

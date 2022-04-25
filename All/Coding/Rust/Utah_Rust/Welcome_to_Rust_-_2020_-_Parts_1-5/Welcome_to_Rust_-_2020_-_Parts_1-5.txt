@@ -1,0 +1,22 @@
+
+Getting Started with Rust (45) Welcome to Rust
+https://youtu.be/nuMDihVTQi8&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+
+How does Rust compare to other Languages (35) Welcome to Rust
+https://youtu.be/YFml9Pn7RbI&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+
+Welcome to Rust (15) Intro - Feb 13, 2020 Utah Rust
+https://youtu.be/uS1PZjpVLsc&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+
+Welcome to Rust (extra) Post-Presentation Discussion
+https://youtu.be/ks_6zo78va4&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+
+Welcome to Rust (extra) Water Break Discussion
+https://youtu.be/T3fbbpqX4Js&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+
+What are Good Resources for Learning Rust +Q&A (55) Welcome to Rust
+https://youtu.be/mEI3KyogdeI&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+
+What does Rust Code look like (25) Welcome to Rust
+https://youtu.be/oXgIwcCPiA8&list=PLDWmoWFf46ggnC6q1sn7_Hl44bpxjqMj2
+Welcome to Rust - 2020 - Parts 1-5

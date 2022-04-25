@@ -1,0 +1,28 @@
+
+CamelCase and Best Practices for Naming Variables  Coding Basics for MATLAB Onramp, Part 3
+https://youtu.be/rJ4cy--zM2Y&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+Conclusion and Next Steps  Coding Basics for MATLAB Onramp, Part 9
+https://youtu.be/OD20V2alf-E&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+For Loops and While Loops  Coding Basics for MATLAB Onramp, Part 8
+https://youtu.be/rpVsvDOyEBc&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+Function Calls  Coding Basics for MATLAB Onramp, Part 4
+https://youtu.be/3ITHXEXalsk&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+IfElse Statements  Coding Basics for MATLAB Onramp, Part 7
+https://youtu.be/KvO5ROW_wmc&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+Relational Operators and Logicals Coding Basics for MATLAB Onramp, Part 6
+https://youtu.be/9ua0oRl0csQ&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+Using the Documentation  Coding Basics for MATLAB Onramp, Part 5
+https://youtu.be/gvjDiqpSgoU&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+Variable Assignments  Coding Basics for MATLAB Onramp, Part 2
+https://youtu.be/VLAuwp2mGnM&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+
+What Is MATLAB Onramp  Coding Basics for MATLAB Onramp, Part 1
+https://youtu.be/blwfA_asQr0&list=PLn8PRpmsu08rPELxT_WhoMP9krNerQIKq
+Coding Basics for MATLAB Onramp

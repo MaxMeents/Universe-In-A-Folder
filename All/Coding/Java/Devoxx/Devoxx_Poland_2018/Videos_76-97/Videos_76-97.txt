@@ -1,0 +1,67 @@
+
+Advanced Pipelines for Hypothesis-Driven Development Smart Routers... - Edson Yanaga
+https://youtu.be/x0f_GSuRFX8&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Angular 5 best practices - Sergey Morenets
+https://youtu.be/_JeVrPKRB2c&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Building a self-driving RC car - Bert Jan Schrijver, Tim van Eijndhoven
+https://youtu.be/YeUMtQyvZKM&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Building Streaming Microservices with Apache Kafka - Tim Berglund
+https://youtu.be/Hlb-Ss3q3as&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Cloud Native Java, part 2 - Josh Long
+https://youtu.be/OsX5C4fyVyI&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Database migrations the missing link to continuous delivery - Stefano Monti (video only)
+https://youtu.be/MaG_eYZshlE&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Deep Learning for Developers - Julien SIMON
+https://youtu.be/ktJH4DdnrRg&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Devoxx Poland 2018 - Recap
+https://youtu.be/QGQZZrT_ewA&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Improving safety in real world driving and transport with Big Data and IoT - Christian Merkwirth
+https://youtu.be/2-MSvNPcEOk&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Infrastructure as a code simplified by conventions - Jakub Kubrynski
+https://youtu.be/JZQ4vC0Ljd0&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Magic Without Password, Passwordless and Federate Identity - Mercedes Wyss
+https://youtu.be/flbhwB_I7x0&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Niańczenie programistów vs. zarządzanie dziećmi - Bartek Nowakowski
+https://youtu.be/rAHSxDJcXmc&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Reactive web services - Kamil Szymański
+https://youtu.be/Cm6KhKb6kQ8&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Riders On The Storm API Gateways for developers - Tomasz Skowroński
+https://youtu.be/MUVckIoaEPc&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Runtime vs. compile time (JIT vs. AOT) optimizations in Java and C++ - Ionut Balosin
+https://youtu.be/0yrBuPiGk8I&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Spock vs JUnit 5 - Clash of the Titans - Marcin Zajączkowski
+https://youtu.be/oEamW8_FtAg&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Stream processing in telco with Apache Flink & TouK Nussknacker - Maciej Próchniak (video only)
+https://youtu.be/2Gg-JbtgFkw&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Streaming Database Changes with Debezium - Jiri Pechanec
+https://youtu.be/dm9J0n_MvAM&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Ten Things You Can Do With GraalVM - Oleg Šelajev
+https://youtu.be/tEaEAq0L9Pk&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Testing in production at LinkedIn - Szczepan Faber
+https://youtu.be/lbO6INBICpQ&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+The art of building Java APIs Do's and Don'ts - Jonathan Giles
+https://youtu.be/nRNUQS7IkUM&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Why Go - Adam Szecówka
+https://youtu.be/DIQQv_YDqPc&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+Videos 76-97

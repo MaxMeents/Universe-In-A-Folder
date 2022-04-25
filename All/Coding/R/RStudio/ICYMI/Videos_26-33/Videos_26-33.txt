@@ -1,0 +1,25 @@
+
+1080p  A Quick Tour of RStudio 1.4  RStudio
+https://youtu.be/oCR_LB3H73M&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Garrett Grolemund  Reproducibility in Production  RStudio (2019)
+https://youtu.be/n04FjueWmj0&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Julia Silge  Monitoring Model Performance  RStudio
+https://youtu.be/3VJ5cIxe408&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Katherine Kopp  COVID vaccine distribution Shiny app walkthrough (mock data)  RStudio
+https://youtu.be/T2DzDs0ksZY&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Kelly O'Briant  Interactivity in Production  RStudio (2019)
+https://youtu.be/dQAyASaH-Jo&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Managing COVID vaccine distribution in West Virginia  RStudio
+https://youtu.be/CYilc-rEgjg&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Tom Mock  RStudio Connect in Production  RStudio (2019)
+https://youtu.be/6TeySatiFx8&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+What is RStudio Connect  RStudio
+https://youtu.be/JYzabLxDdEI&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+Videos 26-33

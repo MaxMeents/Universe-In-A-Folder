@@ -1,0 +1,13 @@
+
+Rust CV meeting 2021 09 29 - A Brief Introduction to Photogrammetry - Geordon Worley
+https://youtu.be/4GIQAlFFNcQ&list=PL85XCvVPmGQgWcpd230SUixObnBoL9cif
+
+Rust CV meeting 2021 09 29 - Photometric stereo on the web with Rust and Wasm - Matthieu Pizenberg
+https://youtu.be/oGjEF13Qmvs&list=PL85XCvVPmGQgWcpd230SUixObnBoL9cif
+
+Rust CV meeting 2021 09 29 - Potential Future For Observability In CV Pipelines - Daniel McKenna
+https://youtu.be/mAg7_9e9454&list=PL85XCvVPmGQgWcpd230SUixObnBoL9cif
+
+Rust CV meeting 2021 09 29 Opening Remarks - Andrew Straw
+https://youtu.be/k023OIxlzpA&list=PL85XCvVPmGQgWcpd230SUixObnBoL9cif
+Rust Computer Vision Meetups

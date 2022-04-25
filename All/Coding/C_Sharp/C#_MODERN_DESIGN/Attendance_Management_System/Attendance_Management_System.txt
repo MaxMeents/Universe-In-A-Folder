@@ -1,0 +1,31 @@
+
+Attendance Management System  C#
+https://youtu.be/vaSL9782JoU&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  Forgot Password Form  C#
+https://youtu.be/EJVw66xXrc0&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  Login Form  C#
+https://youtu.be/SRC-TF-jAHA&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  Main Form  C#
+https://youtu.be/lBevltOsrmk&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  User Control Add Class  C#
+https://youtu.be/nWABaymDKRc&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  User Control Add Student  C#
+https://youtu.be/GgJ6UHcCrgs&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  User Control Add User  C#
+https://youtu.be/Y_nP_nsSCr8&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  User Control Dashboard  C#
+https://youtu.be/x7E3IZZWaPo&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  User Control Mark Attendance  C#
+https://youtu.be/OlDHaMnfBxw&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+
+Attendance Management System  User Control Report  C#
+https://youtu.be/CekEZ_qNP6w&list=PLD4yJgnADM0pHZu1PMb8EljbcqWMchfA5
+Attendance Management System

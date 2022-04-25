@@ -1,0 +1,22 @@
+
+Unity Top Down Shooter #1 - Player Movement & Look
+https://youtu.be/lkDGk3TjsIE&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+
+Unity Top Down Shooter #2 - Guns
+https://youtu.be/JVibUZugFAQ&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+
+Unity Top Down Shooter #3 - Twin Stick Controller Support
+https://youtu.be/BAdortmmEJs&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+
+Unity Top Down Shooter #4 - Switching Input Types
+https://youtu.be/ebBxpwh3NvQ&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+
+Unity Top Down Shooter #5 - Making Enemies
+https://youtu.be/2LQ27NV_bpQ&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+
+Unity Top Down Shooter #6 - Damaging Enemies
+https://youtu.be/npSkMTEe2BI&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+
+Unity Top Down Shooter #7 - Hurting The Player
+https://youtu.be/8sTvgaPeLzs&list=PLiyfvmtjWC_XBKJVuCtMXrkNnMDNB16W9
+Unity Top Down Shooter Tutorial

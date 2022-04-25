@@ -1,0 +1,76 @@
+
+Alex MacCaw A JavaScript Web App Deconstructed - JSConf.Asia 2013
+https://youtu.be/G6yLniGWhSE
+
+Anand Agrawal Bridging The Gap Between Mobile Platforms - JSConf.Asia 2013
+https://youtu.be/8tQDL2vC1KI
+
+Brian J Brennan Being Human [JSConf2014]
+https://youtu.be/LlO2_GecWo8
+
+David Calhoun Realtime Satellite Tracking in the Browser [JSConf2014]
+https://youtu.be/vtvHOn9mIB4
+
+Emily Stark Meteor - A Full Stack Framework For Building Pure JavaScript Apps - JSConf.Asia 2013
+https://youtu.be/rQCbXNEot5s
+
+G C Marty Play DVDs in JavaScript for the sake of interoperability [JSConf2014]
+https://youtu.be/lb-8euLqfRg
+
+Impressions of JSConf EU 2013
+https://youtu.be/15o1BuwOLoM
+
+Jakob Mattsson Automated CSS Testing - JSConf.Asia 2013
+https://youtu.be/2PU6JX4S7zI
+
+James Long Unshackling JavaScript with Macros [JSConf2014]
+https://youtu.be/wTkcGprt5rU
+
+Jenn Schiffer What's the Harm In Sorting Sanitizing Inputs For More Optimized JS [JSConf2014]
+https://youtu.be/pj4U_W0OFoE
+
+Jenn Turner Lessons in Emotional Safety FTW [JSConf2014]
+https://youtu.be/0_mgp_VWIe0
+
+Kassandra Perch Modular Application Architectures in Javascript [JSConf2014]
+https://youtu.be/cTcdtfUjflI
+
+Kawandeep Virdee Open Web Art JS for Interactive, Collaborative, and Hackable Art [JSConf2014]
+https://youtu.be/NHs5t1l3qzo
+
+Marco Rogers Finding Patterns Across Front-end Frameworks [JSConf2014]
+https://youtu.be/Bp3Jy177NvU
+
+Mark DiMarco User Interface Algorithms [JSConf2014]
+https://youtu.be/90NsjKvz9Ns
+
+MrDoob Ricardo Cabello Frame.JS - JSConf.Asia 2013
+https://youtu.be/n4Av-ClXCYU
+
+Neil Green Writing Custom DSLs [JSConf2014 ]
+https://youtu.be/lm4jEcnWeKI
+
+Nick Bray Native Code on the Web [JSConf2014]
+https://youtu.be/-xNZYr40QOk
+
+Nico Bevacqua Front End Ops Tooling [JSConf2014]
+https://youtu.be/Y0DCZdAruvo
+
+NodeConf 2013
+https://youtu.be/JAGEVAb3c_Q
+
+Pete Hunt React - Rethinking Best Practices (updated) - JSConf.Asia 2013
+https://youtu.be/DgVS-zXgMTk
+
+Richard Pack & Ryan Spohn Salesforce1 Developing at Enterprise Scale [JSConf2014]
+https://youtu.be/v_4tCTRH8JQ
+
+Ryan Paul Composing frontend Web applications with MontageJS [JSConf2014]
+https://youtu.be/8-Vyus9TPZ0
+
+Simon Swain Data-flow Processing for Node.JS with Straw - JSConf.Asia 2013
+https://youtu.be/Q0iBoqhUVck
+
+Tim Park Pointing Forward (updated) - JSConf.Asia 2013
+https://youtu.be/vzOy_ldZNXQ
+Videos 1201-1225

@@ -1,0 +1,40 @@
+
+01 Build Fullstack React Applications ⚛️
+https://youtu.be/NNHfB5nMvn4&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+02 Fullstack React Setup
+https://youtu.be/JK1dS4nUJc0&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+03 Fullstack React - Folder structure
+https://youtu.be/kPdVMCV_xSQ&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+04 Fullstack React - DOM component
+https://youtu.be/XU6t7x_scr4&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+05 Fullstack React - Render players list
+https://youtu.be/E9Zge3Ynh4g&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+06 Fullstack React - Create mongodb collection
+https://youtu.be/c10rmHvZY_c&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+07 Fullstack React - render mongo DB data
+https://youtu.be/IUay3UeW5gQ&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+08 Fullstack React - Insert players to database
+https://youtu.be/8X7E_q8RusE&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+09 Fullstack React - Remove data from database
+https://youtu.be/ZC6_YiMLDto&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+10 Fullstack React - Update data to DB
+https://youtu.be/bWA4grjH524&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+11 Fullstack React - Objects inheritance, ES6 class
+https://youtu.be/61MoL8Jezgw&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+12 Fullstack React - ES6 Class Components [part 1]
+https://youtu.be/sY0rTM2RjXQ&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+
+13 React ES6 Class Components [part 2] Meteor + React
+https://youtu.be/POLsk7TT5lI&list=PLq5m66kIJ5Z_FKRMAg4i2ZeNF5boPoJXH
+Fullstack Meteor + React Players-score App

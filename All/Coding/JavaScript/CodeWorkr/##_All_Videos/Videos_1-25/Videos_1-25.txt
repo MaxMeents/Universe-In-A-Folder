@@ -1,0 +1,76 @@
+
+API Authentication with Node Part #10 - Unit Testing
+https://youtu.be/O1TYpzm5Uh0
+
+API Authentication with Node Part #11 - Google OAuth
+https://youtu.be/JgSLf-HS5gg
+
+API Authentication with Node Part #12 - Facebook OAuth
+https://youtu.be/MXle6TrjI64
+
+API Authentication with Node Part #13 - React Setup
+https://youtu.be/NZdji3u5t4M
+
+API Authentication with Node Part #14 - React UI with Routing
+https://youtu.be/BerEJPQOwOE
+
+API Authentication with Node Part #15 - Adding Redux and Redux Form
+https://youtu.be/WRlw4lEijUk
+
+API Authentication with Node Part #16 - Action Creators, Actions and Reducers
+https://youtu.be/rIdHDaoCcXw
+
+API Authentication with Node Part #17 - Google & Facebook OAuth Integration
+https://youtu.be/W87udYTA1rw
+
+API Authentication with Node Part #18 - React Higher Order Components
+https://youtu.be/sKtSwu9vvDk
+
+API Authentication with Node Part #4 - Server-Side Validation
+https://youtu.be/XFpV8b5937M
+
+API Authentication with Node Part #5 - MongoDBMongoose
+https://youtu.be/QCJCglPLUgg
+
+API Authentication with Node Part #6 - JSON Web Tokens
+https://youtu.be/YxFZC8FtRao
+
+API Authentication with Node Part #7 - Passport and Strategies
+https://youtu.be/lbmOoZuElKI
+
+API Authentication with Node Part #8 - Bcrypt Explained
+https://youtu.be/Peww_cdgka4
+
+API Authentication with Node Part #9 - OAuth Explained
+https://youtu.be/H0IxtqZ08Jo
+
+AsyncAwait in JavaScript
+https://youtu.be/f57IHEeDNcA
+
+Improving Node REST API Part #1 - Introduction
+https://youtu.be/LmElmaidFWg
+
+Improving Node REST API Part #2 - Updating Dependencies
+https://youtu.be/pnl1ecgDAYw
+
+Improving Node REST API Part #3 - Linking Accounts
+https://youtu.be/7yAmV17ufUY
+
+Improving Node REST API Part #4 - JWTs with Cookies
+https://youtu.be/qPWkPZwMze0
+
+JavaScript Closures
+https://youtu.be/-rLrGAXK8WE
+
+Node.js From Beginning Part #1 - What is Node.js
+https://youtu.be/4e3qwcjWPAY
+
+Node.js From Beginning Part #2 - First Steps
+https://youtu.be/EM04Zinzbn8
+
+Node.js From Beginning Part #3 - Modules
+https://youtu.be/qKYsesgsVLk
+
+Node.js From Beginning Part #4 - Node Package Manager (NPM)
+https://youtu.be/plGfwSbZvpI
+Videos 1-25

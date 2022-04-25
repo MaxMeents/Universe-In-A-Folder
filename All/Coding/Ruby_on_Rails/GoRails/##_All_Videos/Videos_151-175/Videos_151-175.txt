@@ -1,0 +1,76 @@
+
+Advanced Webpacker  Require Context  Preview
+https://youtu.be/amZqTmmfTAs
+
+File Uploads in Rails using Shrine
+https://youtu.be/mG1BUMuSmsc
+
+Fixing Brittle Tests Avoid Hardcoded Values
+https://youtu.be/gXr_mid6FfE
+
+How to use AWS Cloud9 for Ruby on Rails development
+https://youtu.be/koKmPob8WmA
+
+How to use Dependency Injection in Ruby
+https://youtu.be/p7olhiearGk
+
+How to use Google Maps & Places Autocomplete with Rails, Turbolinks & Stimulus
+https://youtu.be/odziYrbiphA
+
+How to use Mocks in Ruby Tests  Preview
+https://youtu.be/oNgCvXjevkA
+
+How to use Stubs in your Test Suite with Minitest  Preview
+https://youtu.be/rUQ6KcdlsAU
+
+How to use Uppy with ActiveStorage
+https://youtu.be/FkhkcRyCkq8
+
+Jumpstart Pro Getting Started
+https://youtu.be/2DEneP450hU
+
+Jumpstart Pro How to Create Account on Sign Up
+https://youtu.be/dWOzQ0DZBJg
+
+Jumpstart Pro Multitenancy
+https://youtu.be/6wuaVWKVclo
+
+Pay gem - Getting Started
+https://youtu.be/hYlOmqyJIgc
+
+Realtime Online User Tracking with Actioncable & Rails  Preview
+https://youtu.be/l6_lQZh60kw
+
+Refactoring Ruby Rubocop Linter Github Action  Preview
+https://youtu.be/V9PrWZY5DjQ
+
+Start To Finish AnimatedGif.me - Part 2
+https://youtu.be/8RTqPEwpMnQ
+
+Start To Finish AnimatedGif.me - Part 3
+https://youtu.be/YC_BGZB8xkU
+
+Start to Finish AnimatedGif.me Part 1
+https://youtu.be/4ALYNfOu0Ho
+
+Strong Customer Authentication (SCA) with Jumpstart Pro
+https://youtu.be/Cn8YlkDB1EM
+
+Testing Action Mailer in Rails  Preview
+https://youtu.be/72BrhDC5Rc8
+
+Testing ActiveStorage File Uploads in Rails  Preview
+https://youtu.be/2DMwzFSFL0Q
+
+Testing File Uploads in Rail with Shrine  Preview
+https://youtu.be/Swek8C8fdEM
+
+Testing Rails ActionCable with Devise  Preview
+https://youtu.be/nlGfn4ngHw8
+
+Testing Times and Dates in Ruby on Rails
+https://youtu.be/_NhKWxQwkzM
+
+Tracking Online Users using Timestamps
+https://youtu.be/fE1DYmujRxY
+Videos 151-175

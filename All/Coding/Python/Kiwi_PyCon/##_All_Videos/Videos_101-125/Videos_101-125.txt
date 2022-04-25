@@ -1,0 +1,76 @@
+
+Alan McCulloch tardis - an interpreter for commandline parallel execution
+https://youtu.be/Kf8Dy8Dt6YM
+
+Alyona Medelyan Understanding human language with Python
+https://youtu.be/vZsW-xCXfRI
+
+Auckland Pug Meeting NLP Alyona Medelyan
+https://youtu.be/yiws3K1npx8
+
+Auckland PUG meeting, Writing a Django backend for MyMovies
+https://youtu.be/yykQnSS9_iQ
+
+Beau Butler Intro to flask-security
+https://youtu.be/g0bZA9K2A84
+
+Ben Shaw Python is slow, make it faster with C
+https://youtu.be/tGLSKXfx0m0
+
+Carl Cerecke goto in python. Yes. Really.
+https://youtu.be/DdU8I09BGsU
+
+Danny Adair The Full Monty - CI on OpenStack
+https://youtu.be/265Sqo7cgbM
+
+Douglas Bagnall Multimedia programming using Gstreamer and of course Python
+https://youtu.be/YcSRqAJ06KM
+
+Ewen McNeill Seize control of your network with Ryu
+https://youtu.be/JKBQ-2uiwcw
+
+Francesco Biscani A Snake in Space (Keynote)
+https://youtu.be/9-PxGDp6R1Q
+
+Francois Marier External dependencies in web apps system libs are not that scary
+https://youtu.be/wfDhGAMPS1g
+
+Glenn Ramsey Packaging a Python desktop application using PyInstaller
+https://youtu.be/tOTLqUQC-k0
+
+Holger Spill An introduction to Python and graph databases with Neo4j
+https://youtu.be/ps5RtmWKwLY
+
+James McPherson Why Python rocks Solaris
+https://youtu.be/eakvNuYjwAk
+
+Juergen Brendel Deploying test and production systems with Ansible
+https://youtu.be/Dg5TSfLHW3Q
+
+Kevin Phillips - recreating old ZX81 games - Auckland PUG - 19 August 2015
+https://youtu.be/KyAkOqO9yNA
+
+Lightning Talks @ Kiwi PyCon 2014
+https://youtu.be/JX8VYXfVcrg
+
+Matt Provost Python in the Datacentre
+https://youtu.be/mvyL60-VFXA
+
+Nick Coghlan Python Beyond (C)Python (Keynote)
+https://youtu.be/H2ybMrFNku0
+
+Python in Classrooms
+https://youtu.be/cKcL7-IxEwg
+
+Reed Wade Bottle uWSGI simple web app configuration and fun hidden features
+https://youtu.be/wGPGRW1wXdk
+
+Robert King Making a scalable course search engine with python
+https://youtu.be/568mFzqsjqk
+
+Teijo Holzer Fixing Python
+https://youtu.be/i7EZAfhIvCs
+
+Using Python to Test
+https://youtu.be/eQQ2uxMedGw
+Videos 101-125

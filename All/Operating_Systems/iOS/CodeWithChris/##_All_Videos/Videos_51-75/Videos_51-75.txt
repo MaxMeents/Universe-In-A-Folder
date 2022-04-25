@@ -1,0 +1,76 @@
+
+2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)
+https://youtu.be/F2ojC6TNwws
+
+Add In App Purchases in 4 Easy Steps with RevenueCat (SwiftUI  iOS)
+https://youtu.be/EA4jElqC4mU
+
+Bonus Challenge (Lesson 13)
+https://youtu.be/zP1LFgBO8Jg
+
+Clean Xcode Junk Files - Delete Old Xcode Files and Free Up Hard Drive Space
+https://youtu.be/13QubFwmDoc
+
+Community App Showcase The Weather App Challenge
+https://youtu.be/HoCVeM6YEg0
+
+Devlog Week 1 Progress Summary
+https://youtu.be/fjpmamgR0Y4
+
+Devlog Week 2 Progress Summary
+https://youtu.be/c4csLZouQIw
+
+How To Make An App - War Card Game UI Construction (Lesson 5)
+https://youtu.be/GqWgsWS4aL4
+
+In App Purchases Tutorial - Auto Renewable Subscriptions (SwiftUI, iOS)
+https://youtu.be/EBasaCcHhUs
+
+Stock Tracker Challenge
+https://youtu.be/cQtwZhtQPoQ
+
+Swift Programming - If Statements (Lesson 12 of 14)
+https://youtu.be/kwz9-EjL7dY
+
+Swift Programming Basics Functions (Lesson 7)
+https://youtu.be/ce6W9E82lOA
+
+Swift Programming Basics Instances (Lesson 9)
+https://youtu.be/9KMaGxYTcEI
+
+Swift Programming Basics Structures (Lesson 8)
+https://youtu.be/voviIrX7bXU
+
+Swift Programming Basics View Update Lifecycle, Variables and Constants (Lesson 6)
+https://youtu.be/72JNNU2otF4
+
+SwiftUI Buttons (Lesson 10)
+https://youtu.be/Xx9HjAB-Zz0
+
+SwiftUI State Properties (Lesson 11 of 14)
+https://youtu.be/2oT32JUH1s0
+
+The App Is Underway! (Week 5 App Case Study Update)
+https://youtu.be/PY1twV2Rmjo
+
+The March Monthly App Challenge!
+https://youtu.be/HEXmwBg8G9Y
+
+The Profile Scorecards App Is On The App Store
+https://youtu.be/_Qhsr7lKlYU
+
+Week 6 - User Journey Walkthrough and FB Login Troubles (App Progress Update)
+https://youtu.be/Yi3MZUlJpdU
+
+Week 7 State of the App and Facebook Review Process
+https://youtu.be/5lOCeOC5YwY
+
+Week 9 Progress on the Instagram Insights App
+https://youtu.be/8SNegH0oFw8
+
+What I've Been Working On
+https://youtu.be/jYX4V0cA1Ps
+
+What’s Next (14 Day SwiftUI Beginner Challenge)
+https://youtu.be/4Evf46kbB3c
+Videos 51-75

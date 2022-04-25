@@ -1,0 +1,16 @@
+
+[VDT18] A Practical Introduction to Convnets for Image Classification by Alessandro Giusti
+https://youtu.be/JsUAL05BT6Y&list=PLRsbF2sD7JVq4IapQ-Fz6AuHMj2KITL6P
+
+[VDT18] Integration tests testcontainers to the rescue by Roberto Franchini
+https://youtu.be/Qwz3Gr9wM5c&list=PLRsbF2sD7JVq4IapQ-Fz6AuHMj2KITL6P
+
+[VDT18] JavaScript Design Patterns by Massimo Foti
+https://youtu.be/7swiAiGQwbM&list=PLRsbF2sD7JVq4IapQ-Fz6AuHMj2KITL6P
+
+[VDT18] Kotlin lazy language for lazy people by Marharyta Nedzelska
+https://youtu.be/xTYKuI4HSWc&list=PLRsbF2sD7JVq4IapQ-Fz6AuHMj2KITL6P
+
+[VDT18] Welcome by Federico Yankelevich
+https://youtu.be/nwZNDPGlBxY&list=PLRsbF2sD7JVq4IapQ-Fz6AuHMj2KITL6P
+Videos 26-30

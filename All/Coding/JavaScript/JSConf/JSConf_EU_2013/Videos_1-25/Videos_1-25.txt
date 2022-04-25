@@ -1,0 +1,151 @@
+
+Adam Baldwin Security First -- JSConf EU 2013
+https://youtu.be/_aUKRh74JRY&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Adam Brault People First -- JSConf EU 2013
+https://youtu.be/1i7Q6_ZnhUc&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Addy Osmani Plight Of The Butterfly Object.observe() -- JSConf EU
+https://youtu.be/mfOh-J-9BY0&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Alex Feyerke I have a Dreamcode Build Apps, not Backends -- JSConf EU 2013
+https://youtu.be/ARophKqA4E0&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Allen Pike native.js JavaScript in your native mobile apps -- JSConf EU 2013
+https://youtu.be/5LUkHss6CAw&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Andy Wingo DIY Internet Snappy, Secure Networking with MinimaLT -- JSConf EU 2013
+https://youtu.be/mik7AwHOVcA&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Astrid Bin Sagascript - JS at the forefront of emerging storytelling -- JSConf EU 2013
+https://youtu.be/k44lq8ImleE&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Bartek Szopka Everything you never wanted to know about JavaScript numbers -- JSConf EU 2013
+https://youtu.be/MqHDDtVYJRI&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Brendan Eich JS Responsibilities -- JSConf EU 2013
+https://youtu.be/IXIkTrq3Rgg&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Charlie Crane Game server development in node.js -- JSConf EU 2013
+https://youtu.be/NpC1GbPw-fk&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Chrissy Welsh The hitchhikers guide to UXing without a UXer -- JSConf EU
+https://youtu.be/aIFaAkHFLxA&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Christian Kvalheim Lessons from 4 Years of writing the driver for MongoDB -- JSConf EU 2013
+https://youtu.be/F9EQ8p5Jw9Q&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Christoph Burgmer A panoramic tour through HTML5 rendering itself -- JSConf EU 2013
+https://youtu.be/vR_fuZDwlZI&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Dmitry Jemerov Static types in JavaScript what, how and why -- JSConf EU 2013
+https://youtu.be/0r9HPRJUaFo&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Domenic Denicola The Extensible Web JavaScript All the Way Down -- JSConf EU 2013
+https://youtu.be/8LZ5Lxrs0E0&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Forbes Lindesay Promises and Generators control flow utopia -- JSConf EU 2013
+https://youtu.be/qbKWsbJ76-s&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Forrest Oliphant vj.js design for hackability and data flow programming in the browser
+https://youtu.be/TElh0ne0Cxw&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Hannah Donovan Sometimes You Need to Draw Animals -- JSConf EU 2013
+https://youtu.be/qaLcnzs1hcI&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Hannes Payer Speed is awesome, but low latency is sublime — JSConf EU 2013
+https://youtu.be/3vPOlGRH6zk&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Jan Krutisch JavaScript Patterns For Contemporary Dance Music -- JSConf EU 2013
+https://youtu.be/X41IwSyU-BM&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Jason Frame Acceptable in the 80s - Revisiting Microworlds -- JSConf EU 2013
+https://youtu.be/mFo6eyEsDoA&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Joel Dart People, The Good Parts -- JSConf EU 2013
+https://youtu.be/gBH8Lr9KvCo&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Jon Bretman Ask not what JavaScript can do for you -- JSConf EU 2013
+https://youtu.be/Pl8ei4cug8k&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Julian Viereck Reimplement RegExp in JavaScript -- JSConf EU 2013
+https://youtu.be/R9deOzRwgow&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Julien Genestoux Streaming Algorithms in Javascript and Node.js -- JSConf EU 2013
+https://youtu.be/e9httij2RG0&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Loreena Lee and John McCutchan Effectively Managing Memory At Gmail Scale -- JSConf EU 2013
+https://youtu.be/hqotCdm6Cx4&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Marius Gundersen A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS
+https://youtu.be/mVjpwia1YN4&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Martha Girdler The JavaScript Interpreter, Interpreted -- JSConf EU 2013
+https://youtu.be/iSxNCYcPAFk&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Martin Boßlet Javascript Crypto. Ugly duckling with good reason -- JSConf EU 2013
+https://youtu.be/NjMOSg5Pe44&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Martin Kleppe 1024+ Seconds of JS Wizardry -- JSConf EU 2013
+https://youtu.be/RTxtiLp1C8Y&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Michal Biniek HTML5 audio sprites --  Holy Grail or Programmers Hell -- JSConf EU 2013
+https://youtu.be/8skJbjEh9SY&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Mike West Towards a post-XSS world. -- JSConf EU 2013
+https://youtu.be/9n7qdcCbsu4&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Nat Duca Advanced Jank Busting in Chrome -- JSConf EU 2013
+https://youtu.be/8S_Vlq3jLZ0&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Natalia Berdys The web experience in the autistic spectrum -- JSConf EU 2013
+https://youtu.be/7nnAYB1mb9E&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Nic da Costa A Symphony Of Sound, Gone Mobile -- JSConf EU 2013
+https://youtu.be/9Q4L9XQ7qdo&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Nick Small and Edward Ocampo-Gooding What We Learned by Teaching(.js) -- JSConf EU 2013
+https://youtu.be/nkQaW0hFjcA&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Pam Selle For the next generation JavaScript education for a better JavaScript -- JSConf EU 2013
+https://youtu.be/nyB9GTZlKUw&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Patrick Dubroy Parsing, Compiling, and Static Metaprogramming -- JSConf EU 2013
+https://youtu.be/UqTlToUYK1E&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Pete Hunt React Rethinking best practices -- JSConf EU
+https://youtu.be/x7cQ3mrcKaY&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Peter Flynn and Kevin Dangoor Building Live HTML and Omniscient Debuggers in Brackets
+https://youtu.be/Axpi1_OVSdo&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Richard Layte & Daniel Perez Alverez circuit-breaker.js -- JSConf EU 2013
+https://youtu.be/DOocsQj4M9o&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Sara Chipps Hardware is Stupid Simple -- JSConf EU 2013
+https://youtu.be/x3zXlPkzhgw&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Sebastian Tiedtke Functionally Mobile (Automation) -- JSConf EU 2013
+https://youtu.be/pPwZsi-sajk&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Shubhie Panicker CSS module system in Google+ -- JSConf EU 2013
+https://youtu.be/_MD1WQclOJM&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Simon Tennant The API is dead. Long live the protocol! -- JSConf EU 2013
+https://youtu.be/uwQsU0PwtaE&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Soledad Penadés Four to the floor JavaScript -- JSConf EU 2013
+https://youtu.be/5s7sJBQd6es&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Tim Messerschmidt Getting to know your users -- JSConf EU 2013
+https://youtu.be/YTlgMXqsuhM&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Tim Park Pointing Forward -- JSConf EU 2013
+https://youtu.be/x19Qp9LoRJs&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Tom Dale Stop Breaking the Web -- JSConf EU 2013
+https://youtu.be/OSEXpsVcTxI&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+
+Vince Allen Creating natural simulations in a web browser -- JSConf EU 2013
+https://youtu.be/5Td8KBUG034&list=PL37ZVnwpeshFs1inQbgYpun1pLsTXXQ-_
+Videos 1-25

@@ -1,0 +1,13 @@
+
+Python Basics Fileinput Intro
+https://youtu.be/8XQ9PDQwKFw&list=PLaYT64KWZAEN52y7_34twRgJXGMX4bWfn
+
+Python Basics Tutorial FileInput FileInput Object  Open Multiple Files
+https://youtu.be/AofNv8Ft4Pk&list=PLaYT64KWZAEN52y7_34twRgJXGMX4bWfn
+
+Python Basics Tutorial FileInput Functions Open Multiple Files  With String Justify Formatting
+https://youtu.be/YxvBW5QIOzI&list=PLaYT64KWZAEN52y7_34twRgJXGMX4bWfn
+
+Python Basics Tutorial FileInput Input Function  Open Multiple Files
+https://youtu.be/P721pdt1FHs&list=PLaYT64KWZAEN52y7_34twRgJXGMX4bWfn
+Fileinput

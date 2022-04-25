@@ -1,0 +1,76 @@
+
+FOSDEM 2015  Go and the Modern Enterprise with Peter Bourgon
+https://youtu.be/GM39Be_OhLM
+
+FOSDEM 2015  Moving MongoDB components to Go with Norberto Leite
+https://youtu.be/Ck1bRyYxJCQ
+
+FOSDEM 2017  Android development with Go
+https://youtu.be/wgIlkyvXyEw
+
+FOSDEM 2017  gobpf - utilizing eBPF with Go
+https://youtu.be/qZezgkZvoKg
+
+FOSDEM 2017  High performance and scaling techniques in Golang using Go Assembly
+https://youtu.be/AOpprhr6C9I
+
+FOSDEM 2017  High-performance IoT Using Go and Gobot
+https://youtu.be/qza7-CRCVVU
+
+FOSDEM 2017  Implementing 'tail -f' with Go
+https://youtu.be/lLDWF59aZAo
+
+FOSDEM 2017  The State of Go
+https://youtu.be/tY4UKkgb5IY
+
+Go 1.18 is here!
+https://youtu.be/-JdfKb3HwMU
+
+Go 1.9 Release Party
+https://youtu.be/WB9UUWNIhm4
+
+Go Sydney Meetup June 2015  Binary Encoding in Go with Hamish Ogilvy
+https://youtu.be/vgolhSJa26g
+
+Gopherfest 2015  Go at Dropbox with Zviad Metreveli
+https://youtu.be/JOx9enktnUM
+
+Gopherfest 2015  Go Proverbs with Rob Pike
+https://youtu.be/PAAkCSZUG1c
+
+Gopherfest 2015  Using Go Channels with Natik Shah
+https://youtu.be/rHf9p3C2L2A
+
+Gopherfest 2015
+https://youtu.be/Fx304EfqtMo
+
+Gopherfest 2017  Event Sourcing – Architectures and Patterns with Matt Ho
+https://youtu.be/B-reKkB8L5Q
+
+Gopherfest 2017  Lessons Learned from a Context-NATS Integration with Waldemar Quevedo
+https://youtu.be/jUIh14avdDY
+
+Gopherfest 2017  The State of Go with Francesc Campoy
+https://youtu.be/dyvpF0jF3AY
+
+Gopherfest 2017  Upspin with Rob Pike
+https://youtu.be/ENLWEfi0Tkg
+
+Gopherfest 2017
+https://youtu.be/giUatBmmb_Y
+
+Release Party  Analyzing production using Flamegraphs with Prashant Varanasi
+https://youtu.be/aAhNDgEZj_U
+
+Release Party  The State of Go 1.9 with Francesc Campoy
+https://youtu.be/vFJkH4qDjJ0
+
+Release Party  Ways To Do Things with Peter Bourgon
+https://youtu.be/LHe1Cb_Ud_M
+
+SF Docker + Go Meetup  Banking on Go with Matt Heath
+https://youtu.be/iRNwLjKeVRE
+
+SF Docker + Go Meetup  Blockchain, Cryptocurriencies, and Go with Vicki Niu
+https://youtu.be/Lmgx9KQLueY
+Videos 1-25

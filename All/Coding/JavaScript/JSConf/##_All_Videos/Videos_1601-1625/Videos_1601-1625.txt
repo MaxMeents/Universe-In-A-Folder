@@ -1,0 +1,76 @@
+
+Billy Hoffman JavaScript The Evil Parts
+https://youtu.be/RKMktxncquc
+
+Brian LeRoux PhoneGap Mobile Applications with HTML, CSS, and JavaScript
+https://youtu.be/B6TfflHYmPI
+
+Brian Mitchell JavaScript's Twin
+https://youtu.be/IuVLm4Jcwds
+
+Chris and Laura Williams Welcome to JSConf
+https://youtu.be/uiNdLvFV5jE
+
+Chris Anderson and Jan Lehnardt CouchDB to the Edge
+https://youtu.be/vu7wST7m_1Y
+
+Chris Williams Disconnect
+https://youtu.be/x7LchINN7lU
+
+Dmitry Baranovskiy Raphaël the Great
+https://youtu.be/2pbPutbfKnM
+
+Francisco Tolmasky Objective-J Language and Cappuccino Frameworks
+https://youtu.be/UwSaR5PsJBQ
+
+Jack Moffitt The Real Time Web with XMPP
+https://youtu.be/WktC6vc4WQs
+
+James Duncan The Smart Platform. A JavaScript P.a.a.S.
+https://youtu.be/6R6UYTxzFyc
+
+Jason Huggins Hacking Selenium
+https://youtu.be/r1wK-eBWi9g
+
+Jed Schmidt A (fab) approach to web apps
+https://youtu.be/xEQQPAndN2s
+
+Jeremy Ashkenas A Cup of CoffeeScript
+https://youtu.be/A5Sg04IEkvk
+
+John Resig Measuring Performance, JavaScript Games, and Distributed Testing
+https://youtu.be/WWY5CQkINqc
+
+Mandy Lauderdale & Jed Schmidt JavaScript Medley
+https://youtu.be/o7OE1uas2yg
+
+Michael Mahemoff The Lost Hacks
+https://youtu.be/k3JjNImWyP4
+
+Mike Subelsky Introduction to SproutCore
+https://youtu.be/vanqTERb_I8
+
+Nick Campbell Axiom Stack Server Side JavaScript
+https://youtu.be/_lw9WgVPUNY
+
+Nikolai Onken HumanApi - What the browser also can do
+https://youtu.be/qM3zPiL6haM
+
+Paul Irish - Progressive Advancement in Web8
+https://youtu.be/w6GbH8VjlSQ
+
+Peter Higgins dojo.Patterns for Lovers of JavaScript
+https://youtu.be/8BhGC7Rs3ec
+
+Ryan Dahl Less is More with Node.js
+https://youtu.be/4abYtdopuVE
+
+Stoyan Stefanov High Performance Kick-Ass Web Apps
+https://youtu.be/DriK-7NAz5U
+
+Welcome to JSConf 2010
+https://youtu.be/G6UdGqDGDv0
+
+Zach Carter Build your own programming language with JavaScript
+https://youtu.be/YpT-GpcHf2g
+Videos 1601-1625

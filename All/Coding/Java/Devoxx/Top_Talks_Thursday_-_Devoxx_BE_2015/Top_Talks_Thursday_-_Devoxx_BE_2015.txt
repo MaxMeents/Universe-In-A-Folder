@@ -1,0 +1,22 @@
+
+Algorithmic 3-D Modeling, Language Modeling and Visual Programming by Michael Hoffer
+https://youtu.be/13lv_rbbvCI&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+
+Decoding the air around you with Java and $7 hardware by Bert Jan Schrijver
+https://youtu.be/fOlz0OcZPjc&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+
+Developing and deploying Java-based microservices in Kubernetes by Ray Tsang
+https://youtu.be/kT1vmK0r184&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+
+Everything You Need to Know to Grow Open Source by Dan Allen
+https://youtu.be/a_vqg-go8XI&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+
+Six principles for building fault tolerant microservices on the JVM by Christopher Batey
+https://youtu.be/dKWNZnuZhd0&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+
+The Design of a Reliable and Secure Operating System by Andrew Tanenbaum
+https://youtu.be/oS4UWgHtRDw&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+
+The Silver Bullet Syndrome by Hadi Hariri
+https://youtu.be/3wyd6J3yjcs&list=PLRsbF2sD7JVohq6WzKK5uHF7fIHIqQeUS
+Top Talks Thursday - Devoxx BE 2015

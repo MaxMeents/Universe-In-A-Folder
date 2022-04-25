@@ -1,0 +1,13 @@
+
+Code Review #MP45
+https://youtu.be/mhU3xwPGJ7I&list=PLQIcnBElABauH-7PQfJpCGr3ynHSQXExW
+
+Configuration management - finding the tool #MP45
+https://youtu.be/M2Dq5hgV3L0&list=PLQIcnBElABauH-7PQfJpCGr3ynHSQXExW
+
+Panel Python 3 Adoption and Barriers #MP45
+https://youtu.be/iFTqUTye5Hc&list=PLQIcnBElABauH-7PQfJpCGr3ynHSQXExW
+
+Scaling the Facebook Cache Infrastructure with Python #MP45
+https://youtu.be/2IX3xhHEEuk&list=PLQIcnBElABauH-7PQfJpCGr3ynHSQXExW
+MP-45

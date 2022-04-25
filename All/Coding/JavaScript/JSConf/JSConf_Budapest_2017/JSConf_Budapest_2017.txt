@@ -1,0 +1,52 @@
+
+Anna Migas Make your animations perform well  JSConf Budapest 2017
+https://youtu.be/wQ-jn1KYUkQ&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Bodil Stokke You Have Nothing To Lose But Your Chains  JSConf Budapest 2017
+https://youtu.be/aHVdJ0QT5rM&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Dan Callahan Practical WebAssembly  JSConf Budapest 2017
+https://youtu.be/bac0dGQbUto&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Don Burks MVC - What a web app and a Mozart Violin Concerto have in common  JSConf Budapest 2017
+https://youtu.be/wHu-_So_Pjc&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Eirik Vullum JavaScript Metaprogramming - ES6 Proxy Use and Abuse  JSConf Budapest 2017
+https://youtu.be/_5X2aB_mNp4&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Imad Elyafi Migrating Pinterest profiles to React  JSConf Budapest 2017
+https://youtu.be/dLmLNlLlHkM&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Jonathan Martin Async patterns to scale your multicore JavaScript elegantly.  JSConf Budapest 2017
+https://youtu.be/726eZyVtC0Y&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Kacper Sokołowski You use Content Security Policy, don't you  JSConf Budapest 2017
+https://youtu.be/IE9_sUgeTkU&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Laura Carvajal YES, your site can (and should) be accessible too  JSConf Budapest 2017
+https://youtu.be/_wQevZxH7Gs&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Luke Bonaccorsi How I ended up automating my curtains ...  JSConf Budapest 2017
+https://youtu.be/dAqKa3waNx8&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Madeleine Neumann Impostor syndrome, am I suffering enough to talk about it  JSConf Budapest 2017
+https://youtu.be/-A9FsUOcDYw&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Nikita Baksalyar Exploring the P2P world with WebRTC & JavaScript  JSConf Budapest 2017
+https://youtu.be/nBPpJKvuNXM&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Opher Vishnia Web Animation from Disney to SASS  JSConf Budapest 2017
+https://youtu.be/d3SP_wi23i0&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Sandrina Pereira How can Javascript improve your CSS mixins  JSConf Budapest 2017
+https://youtu.be/UUl0BZgjm3o&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Stefan Judis Watch your back, Browser! You're being observed  JSConf Budapest 2017
+https://youtu.be/GP7U6LW2zDY&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Trent Willis Caring For Your Fellow Developers  JSConf Budapest 2017
+https://youtu.be/PLnwGHhpLfM&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+
+Vaidehi Joshi Goldilocks And The Three Code Reviews  JSConf Budapest 2017
+https://youtu.be/d2CMwgm2pXk&list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD
+JSConf Budapest 2017

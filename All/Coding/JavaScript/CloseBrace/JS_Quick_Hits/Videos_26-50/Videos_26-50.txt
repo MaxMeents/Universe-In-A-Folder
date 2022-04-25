@@ -1,0 +1,76 @@
+
+JS Quick Hits 26 - ES2015 String Methods
+https://youtu.be/KazVcweIil0&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 27 - ES2015 Number Improvements Part 1
+https://youtu.be/YCdJA3BmdkA&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 28 - ES2015 Number Improvements Part 2
+https://youtu.be/191DRL8R4gA&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 29 - Bubble Sort
+https://youtu.be/_YEPQghMHLY&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 30 - Array.sort
+https://youtu.be/1ppGIKYva7w&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 31 - Node Module 1 - Node Basics
+https://youtu.be/abAoT0wpjl4&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 32 - Node Module 2 - Building the Module
+https://youtu.be/iPLBPI1RvJo&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 33 - Node Module 3 - Package the Module
+https://youtu.be/KW4I8LXHLuw&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 34 - Reader Question - Array.reduce
+https://youtu.be/KH9qW2yjcow&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 35 - Array.push and Array.pop
+https://youtu.be/qoVTdM-EMeM&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 36 - Comparisons with Logical Operators
+https://youtu.be/yoPJkh8myFg&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 37 - Immutability Basics
+https://youtu.be/A8V8D46mqXo&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 38 - Immutable Approaches
+https://youtu.be/0Oknt9Cy6fM&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 39 - Intro to Immutable.js
+https://youtu.be/Nf-DVU39qHc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 40 - Increment  Decrement Operators
+https://youtu.be/oY3NL9PhLFc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 41 - Immutable Maps
+https://youtu.be/FVq5-zAfBTY&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 42 - Code Refactoring With FizzBuzz!
+https://youtu.be/qPLnLX-ZisA&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 43 - Semicolon Insertion
+https://youtu.be/ZdroVZg-x44&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 44 - Node File System Part 1
+https://youtu.be/_cwRg2bw6uw&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 45 - Node.js File System Part 2
+https://youtu.be/7R4foKgq50U&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 46 - Recursion Demystified
+https://youtu.be/_8ROa4aGHQc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 47 - Recursion Continued
+https://youtu.be/7eu0bNyltSA&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 48 - An Introduction to GraphQL
+https://youtu.be/V6SIgSfmhP4&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 49 - Querying GraphQL
+https://youtu.be/5yceNkYSRSE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 50 - Enhanced GraphQL Queries
+https://youtu.be/w9D9av4QuU0&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+Videos 26-50

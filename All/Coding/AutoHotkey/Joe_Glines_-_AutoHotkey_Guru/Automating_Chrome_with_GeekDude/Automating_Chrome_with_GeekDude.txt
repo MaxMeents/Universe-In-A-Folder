@@ -1,0 +1,40 @@
+
+#1 Chrome and AutoHotkey How to Connect to Chrome via the Debug window
+https://youtu.be/O8JtPu3ioWM&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+#2 Chrome and AutoHotkey How to connect to Chrome with AutoHotkey
+https://youtu.be/TFyDoGTg7YQ&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+#3 Chrome and AutoHotkey How to Navigate to a page in Chrome & Setting text
+https://youtu.be/rLRuJd69an0&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+#4 Chrome and AutoHotkey Get data from a page with AutoHotkey (part 1)
+https://youtu.be/2T8oWlf5r7w&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+#6 Chrome and AutoHotkey tutorial Setting text with Chrome and AutoHotkey
+https://youtu.be/pGXOVGVDtD0&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+#8 Chrome and AutoHotkey Dealing with Event listeners in Chrome and custom edit fields
+https://youtu.be/bIk_fupn3ho&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+7 Chrome and AutoHotkey Why you should use a Chrome Profile
+https://youtu.be/FWcuK2QGRmI&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+Automate Chrome (2020) 5 Get list from Chrome with AutoHotkey using JavaScript (part 2)
+https://youtu.be/GqvMwywARvM&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+Automating Chrome - AutoControl and AutoHotkey
+https://youtu.be/LqnC1_sZiLU&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+Simple AHK Script to Select many items in Chrome with AutoHotkey
+https://youtu.be/kquQ4yf8LGY&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+Simple example How to Automate Chrome with AutoHotkey
+https://youtu.be/btn1pSRE8es&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+WebScraping but no browser network traffic Peaking at JavaScript
+https://youtu.be/LSmyVcHSipY&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+
+What AutoHotkey course should we create next
+https://youtu.be/zc6TMPcMtPg&list=PL3JprvrxlW26Rz0jb5pp0Rmye3qrwUlhp
+Automating Chrome with GeekDude

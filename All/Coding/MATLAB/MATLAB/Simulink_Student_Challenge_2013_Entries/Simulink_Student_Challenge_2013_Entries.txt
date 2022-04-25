@@ -1,0 +1,28 @@
+
+2013 Simulink Student Challenge - IIT Kharagpur
+https://youtu.be/f7nHpH605gw&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Accelerated design, development and flight testing of a UAV autopilot with Simulink
+https://youtu.be/PLzYY1E8MSM&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Development of arm controller for robotic satellite servicing
+https://youtu.be/lZqIytmaJ0k&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Landing Gear Design simulation SIMULINK 2013
+https://youtu.be/3Ds5M_x3y7s&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Modelling a ventilation system with Simulink
+https://youtu.be/tgiWeRfBoNk&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+PID vitesse DC moteur via matlabsimulink et Microcontrôleur PIC
+https://youtu.be/lVSWPGVbMa0&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Private video
+https://youtu.be/cK3_LpkW9kE&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Simulink movie
+https://youtu.be/qUTcxF2fynA&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+
+Simulink_challenge_2013_IPN
+https://youtu.be/UbXDnMuwyuQ&list=PLn8PRpmsu08o2i0NH8Rg8HXc-a-zwpxZd
+Simulink Student Challenge 2013 Entries

@@ -1,0 +1,76 @@
+
+How to graph the Commodity Channel Index (CCI) in Matplotlib and Python
+https://youtu.be/sWJnbIzCFfo&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+How to program the Commodity Channel Index (CCI) in Python
+https://youtu.be/_fcnSMEkA9c&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Chaikin Money Flow Trading Indicator 1
+https://youtu.be/hxHABjeEdlE&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Ease of Movement introduction
+https://youtu.be/xMdGe2oIC8I&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Elder Force Index (EFI) Introduction
+https://youtu.be/ub-GUVQxw6U&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Gopalakrishnan Range Index (GAPO)
+https://youtu.be/1y61vckVrnQ&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Graphing the Ease of Movement in Matplotlib
+https://youtu.be/W5c4Aem6DFA&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Graphing the Elder Force Index (EFI) in Matplotlib
+https://youtu.be/71d8lw8PltM&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials How to Graph the Gopalakrishnan Range Index (GAPO) in Matplotlib
+https://youtu.be/UhOo10r7mlc&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials How to Program the Gopalakrishnan Range Index (GAPO)
+https://youtu.be/k6xcptahP_g&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Programming the Ease of Movement in Python
+https://youtu.be/FzCsyPZllUk&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Finance and Math Tutorials Programming the Elder Force Index (EFI)
+https://youtu.be/TBGmkg-SA7M&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Graphing the Center of Gravity Stock Indicator in Matplotlib
+https://youtu.be/AvnFfPsnBeQ&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Graphing the Chande Momentum Oscillator in Matplotlib
+https://youtu.be/NkaJnd_piBQ&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python How to Graph the Chaikin Money Flow Trading Indicator in Matplotlib
+https://youtu.be/-mOwdyAoNrg&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python How to Program the Chaikin Money Flow Trading Indicator
+https://youtu.be/-Z4FwGEU2Uc&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python math and stocks Chaikin Volatility intro
+https://youtu.be/GfPPv4_HG_E&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python math and stocks Chande Momentum Oscillator
+https://youtu.be/cVQs3brisZM&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python math and stocks Commodity Channel Index
+https://youtu.be/vzbSSC8TYRk&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python math and stocks How to program the Chaikin Volatility for Matplotlib graphing
+https://youtu.be/czq4jVm43fo&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python math and stocks How to program the Chaikin Volatility
+https://youtu.be/vc57ofwrEdI&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python math and stocks How to program the Chande Momentum Oscillator
+https://youtu.be/IGbwRgo5-1w&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Matplotlib Finance and Math Tutorials Highest High and Lowest Low
+https://youtu.be/8ebTb09B0aE&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Percent change calculation how to tutorial
+https://youtu.be/7fIY_5m1yH0&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+
+Python Programming Center of Gravity Stock Indicator 2
+https://youtu.be/Tu_GsixAxVQ&list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX
+Videos 26-50

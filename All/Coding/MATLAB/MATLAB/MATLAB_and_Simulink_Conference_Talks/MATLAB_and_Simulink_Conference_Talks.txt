@@ -1,0 +1,25 @@
+
+Developing and Sharing MATLAB Apps and Toolboxes
+https://youtu.be/pePqQah5Fow&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Developing Machine Learning and Deep Learning Algorithms Using MATLAB
+https://youtu.be/8RQ7byCBx9c&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Machine Learning and Deep Learning - MATLAB and Simulink Video
+https://youtu.be/sa8fouTDlwU&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Master Class Unifying Model and Code Verification Why and How - MATLAB and Simulink Video
+https://youtu.be/vs9cXhvBUKs&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Modelling Simulation and Control of a Quadcopter - MATLAB and Simulink Video
+https://youtu.be/MGnG3wbbWYE&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Navigating Big Data with MATLAB
+https://youtu.be/urMHdkurNUc&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Turning an Idea into a Data Driven Production System An Energy Load Forecasting Case Study - MATLAB
+https://youtu.be/-eTTjc8rBk0&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+
+Wireless Design in MATLAB
+https://youtu.be/9vQLFYmz5yw&list=PLn8PRpmsu08rgM54yqJqoVlNUCoBYXYiM
+MATLAB and Simulink Conference Talks

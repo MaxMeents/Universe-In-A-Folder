@@ -1,0 +1,76 @@
+
+AC Power Conversion
+https://youtu.be/BqFZ8yqXiqI
+
+Aircraft Power Network
+https://youtu.be/75_gbG6JNYc
+
+Analyzing Power Quality and Harmonic Distortion
+https://youtu.be/ndSRlb8TL_s
+
+Automatic Report Generation for Aircraft Power Network
+https://youtu.be/D_W9TwGIfdA
+
+Automatic Tuning of Multi-Loop DC Motor Controller
+https://youtu.be/m42fJ0xr5JQ
+
+Creating Accurate Abstract Models
+https://youtu.be/XT9bQIKhZ9Q
+
+Install the MATLAB Support Package for Raspberry Pi
+https://youtu.be/Z9V4Xcxlc9Q
+
+Introduction to LTE System Toolbox
+https://youtu.be/QcERBYUAH_A
+
+Linking Requirements and Design for Aircraft
+https://youtu.be/3f6mE_dOjVA
+
+Online Fault Detection for a DC Motor
+https://youtu.be/znmIL8cW4C8
+
+Programing Control Logic with Stateflow and LEGO
+https://youtu.be/ktdexT7I5uI
+
+Refining Requirements for Power Network
+https://youtu.be/XdhPPlh1Wn0
+
+Selecting SimPowerSystems Simulation Mode
+https://youtu.be/Rv2AdeLqpO0
+
+Setting Up MATLAB Distributed Computing Server with MATLAB Job Scheduler
+https://youtu.be/1lYJnu965BU
+
+Software Development Workflow Enforcing Coding Rules (1 of 2)
+https://youtu.be/qbOVKZVeKII
+
+Software Development Workflow Finding and Fixing Bugs (2 of 2)
+https://youtu.be/P4iB0_L1or8
+
+Software Development Workflow Verify Absence of Errors (3 of 3)
+https://youtu.be/aIgIVZzfVmc
+
+The Smart Emergency Response System Using MATLAB and Simulink
+https://youtu.be/oofHMaEWwP8
+
+Understanding State Machines, Part 3 Mealy and Moore Machines
+https://youtu.be/vwJT2njv6rM
+
+Understanding State Machines, Part 4 Harel State Machines
+https://youtu.be/VvAL4NSaEXw
+
+Using an RC Controller with Arduino and Simulink
+https://youtu.be/aGF9Biu7gNo
+
+Using MATLAB and Raspberry Pi with an Accelerometer
+https://youtu.be/gp6tPcPqJZE
+
+Using MATLAB and Raspberry Pi with an I2C Sensor
+https://youtu.be/olkZBDDiv4k
+
+Using Simulink for Control Algorithms with LEGO
+https://youtu.be/ZAWBkU5ll4M
+
+Versioning Simulink Projects with Git
+https://youtu.be/AJynESuE1dc
+Videos 2101-2125

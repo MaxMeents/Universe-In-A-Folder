@@ -1,0 +1,76 @@
+
+A quick tour of RStudio 1.4  RStudio
+https://youtu.be/SdMPh5uphO0
+
+Alex Gold  Deploying End-To-End Data Science with Shiny, Plumber, and Pins  RStudio
+https://youtu.be/oEcJkBgA5J8
+
+Alex Gold  Managing Packages for Open Source Data Science  RStudio
+https://youtu.be/OGMLpioGmog
+
+Alison Hill & Desirée De Leon  How to Get Your Materials Online With R Markdown  RStudio (2020)
+https://youtu.be/QcE4RBH2auQ
+
+Andy Nicholls & Michael Rimler  Using R to Drive Agility in Clinical Reporting  RStudio (2020)
+https://youtu.be/BNRMYRkwKDo
+
+Enabling Remote Data Science Teams  RStudio (2020)
+https://youtu.be/1RMf-C6GR7I
+
+Fernanda Viegas & Martin Wattenberg  Data, visualization, and designing AI  RStudio (2020)
+https://youtu.be/jvhxHYKzfa8
+
+Greg Wilson  Teaching Online at Short Notice  RStudio (2020)
+https://youtu.be/-2enQV3Dfng
+
+Hadley Wickham  testthat 3.0.0  RStudio (2020)
+https://youtu.be/1ZrjWKcG1C4
+
+James Blaire & Barret Schloerke  Integrating R with Plumber APIs  RStudio (2020)
+https://youtu.be/J0Th2QRZ7Rk
+
+Kevin Bolger & Oisin Bates  Architecting RStudio Products in the Cloud  RStudio (2020)
+https://youtu.be/8b_ikPWqyPM
+
+Lou Bajuk & Kevin Bolger  Why Data Science in the Cloud  RStudio (2020)
+https://youtu.be/rtGrMPwvWf0
+
+Lou Bajuk & Sean Lopp  RStudio A Single Home for R & Python RStudio
+https://youtu.be/0Ty4y3ZYA1M
+
+Mine Çetinkaya-Rundel  Teaching R online with RStudio Cloud  RStudio (2020)
+https://youtu.be/Fja5DIN3uTw
+
+Nicholas Pylypiw  Racial Equity Dashboard Unpacking Systemic Inequity  RStudio
+https://youtu.be/JFlQA2mCm1Q
+
+Pamela E. Pairo  An easy and friendly way to build your multilingual website  RStudio
+https://youtu.be/dbJV3niLym8
+
+Panel Career Advice for Data Scientists  RStudio (2020)
+https://youtu.be/cF1JvbWtcj8
+
+Pim Bongaerts  Using data science to help save coral reefs  RStudio (2020)
+https://youtu.be/XlEdUNRnoTg
+
+Podcast  Not So Standard Deviations Episode 100  RStudio (2020)
+https://youtu.be/1KT3eLcOIL4
+
+Richard Vogg  Examples of simulated datasets that bring value to a data-driven company  RStudio
+https://youtu.be/_ahUlw0HzSc
+
+Roche & Novartis Effective Visualizations for Data Driven Decisions  RStudio (2020)
+https://youtu.be/RqGFMRQ3M-U
+
+Sean Lopp & Lou Bajuk  R & Python A Data Science Love Story  RStudio (2020)
+https://youtu.be/_50yZxOome4
+
+Sean Lopp & Rich Iannone  Avoid Dashboard Fatigue  RStudio (2020)
+https://youtu.be/q1C3QxHHC-Y
+
+Simon Couch  tidymodelsstacks A Grammar for Stacked Ensemble Modeling  RStudio
+https://youtu.be/E7uygsmx3-Y
+
+ZJ  Easy larger-than-RAM data manipulation with {disk.frame}  RStudio
+https://youtu.be/EOjObl_GSi4
+Videos 151-175

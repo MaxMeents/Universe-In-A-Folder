@@ -1,0 +1,13 @@
+
+I2C Device Hacking With Raspberry Pi 2 - Part 2
+https://youtu.be/b4YyUqmMCEM&list=PLs3KjaCtOwSakLqW6FyrJ23QycIb-JLDL
+
+I2C Device Hacking With Raspberry Pi 2 - Part 3
+https://youtu.be/n2nJOJMP-tg&list=PLs3KjaCtOwSakLqW6FyrJ23QycIb-JLDL
+
+I2C Device Hacking With Raspberry Pi 2 - Part 4
+https://youtu.be/uCXFF74qwQ8&list=PLs3KjaCtOwSakLqW6FyrJ23QycIb-JLDL
+
+I2C Device Hacking With Raspberry Pi 2
+https://youtu.be/pTcX1GD1uTQ&list=PLs3KjaCtOwSakLqW6FyrJ23QycIb-JLDL
+C++ i2c Development Live Streams

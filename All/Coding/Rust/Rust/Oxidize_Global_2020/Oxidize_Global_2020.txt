@@ -1,0 +1,43 @@
+
+A little Rusty in Quantum Physics
+https://youtu.be/OawVYsTUyrM&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+An Overview of the Embedded Rust Ecosystem
+https://youtu.be/vLYit_HHPaY&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Embedded cryptography RustCrypto + Veriform
+https://youtu.be/yyyVIxptScY&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Exploring Embedded Rust for Functional Safety
+https://youtu.be/G5A7rSPYpb8&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+How can we write the best device driver
+https://youtu.be/z9z74VpqO9A&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+How Embedded Rust can be the next Arduino in 5 easy steps
+https://youtu.be/V4u-h2N4-Bs&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Opening Keynote An Update on Sealed Rust
+https://youtu.be/6i9sonn9s1w&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+probe-rs Your Embedded Tome
+https://youtu.be/esNPoXbhHkU&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Reliable optimizations for idiomatic Rust
+https://youtu.be/Tr9CiKg-z4c&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+RTIC Real Time Interrupt driven Concurrency
+https://youtu.be/saNdh0m_qHc&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Rust in Safety Critical Systems Panel
+https://youtu.be/g7VVM_t72NE&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Rusty USB Gadgets Make Barking BeagleBones
+https://youtu.be/NgdWeR1CvI8&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+Using TensorFlow in Embedded Rust
+https://youtu.be/DUVE86yTfKU&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+
+zbus Fearless IPC for embedded Linux is finally here
+https://youtu.be/AoJ76pCmdM4&list=PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7
+Oxidize Global 2020

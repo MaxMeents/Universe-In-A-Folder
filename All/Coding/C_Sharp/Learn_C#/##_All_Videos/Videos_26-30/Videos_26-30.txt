@@ -1,0 +1,16 @@
+
+C# 01 Introduction to C#
+https://youtu.be/4gp1PYsGmnw
+
+C# 02 Installing Visual Studio Express 2013 for Windows Desktop
+https://youtu.be/yG2ORMNn_Os
+
+C# 03 Creating Your First C# Program
+https://youtu.be/8jkdFbrLWug
+
+C# 04 Understanding the First C# Program You Created
+https://youtu.be/2G8E6744gvI
+
+C# 05 Quick Overview of the Visual C# Express Edition IDE
+https://youtu.be/SfBWst6c03M
+Videos 26-30

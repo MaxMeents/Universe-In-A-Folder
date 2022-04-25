@@ -1,0 +1,40 @@
+
+55 New Features in Java SE 8 by Simon Ritter
+https://youtu.be/rtAredKhyac
+
+Building 'Bootiful'­ Applications with Spring Boot by Josh Long
+https://youtu.be/eCos5VTtZoI
+
+Comparing JVM Web Frameworks by Matt Raible
+https://youtu.be/ygW8fJVlDxQ
+
+Design is a Process, not a Document by Trisha Gee
+https://youtu.be/GixwXNlZ7dI
+
+Don't be that guy! Developer Security Awareness by Markus Eisele
+https://youtu.be/uKy6wAeaPEU
+
+Drive by Contributions­ A GitHub session by Brent Beer and Matthew McCullough
+https://youtu.be/0Iq0pI259yk
+
+Evolving code without breaking compatibility­ by Kohsuke Kawaguchi
+https://youtu.be/sRUqqLObosY
+
+Getting Started with Java EE 7 by Arun Gupta
+https://youtu.be/M87rQp74WUE
+
+How To Do Kick-Ass Software Development by Sven Peters
+https://youtu.be/QCnzefe72rg
+
+Java 8 Parallel Streams Workshop, by Stuart Marks
+https://youtu.be/LRh0nDuYCyY
+
+Netty - The async event-driven network application framework by Norman Maurer
+https://youtu.be/5VIG7YBnSvI
+
+Project Lambda Functional Prog. Constructs and Simpler Concurrency in Java SE 8
+https://youtu.be/Std4TEmBdTM
+
+WebSocket Applications using Java EE 7 by Arun Gupta
+https://youtu.be/lbANLOUFe58
+Videos 251-263

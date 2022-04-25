@@ -1,0 +1,76 @@
+
+55 New Features in JDK 9 by Simon Ritter
+https://youtu.be/CMMzG8I23lY&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Angular 4 for Java Developers by Yakov Fain
+https://youtu.be/k8r76d8QzXs&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Building at Uber Scale by Ryan Sonnenberg
+https://youtu.be/bSojCYTTz-A&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Code Review vs Pul Requests by Marcus Bertrand
+https://youtu.be/98KWUIxaAo8&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Creating new experiences for people in a world of intelligent machines by Brian Kane
+https://youtu.be/GhaBjNuxy0o&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Deconstructing REST Security by David Blevins
+https://youtu.be/9CJ_BAeOmW0&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Deep Learning in Production by Adam Gibson
+https://youtu.be/olJjvuPqsR4&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Eclipse 4.7 Platform News by Lars Vogel
+https://youtu.be/94hhzGnzqbw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Effective Unit Testing by Eliotte Rusty Harold
+https://youtu.be/fr1E9aVnBxw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Functional Programming with Java 8 by Venkat Subramaniam
+https://youtu.be/15X0qFtBqiQ&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+gRPC 101 for Java Developers by Ray Tsang
+https://youtu.be/DU-q5kOf2Rc&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+IDEA Tips and Tricks by Hadi Hariri
+https://youtu.be/bFcaO1pXzws&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Java EE 8 by Linda De Michiel
+https://youtu.be/OXsdKzBIUzU&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+JUnit 5 by Marc Philipp
+https://youtu.be/0qI6_NKFQsY&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Let’s Get Lazy Explore the Real Power of Streams by Venkat Subramaniam
+https://youtu.be/F73kB4XZQ4I&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Massive Parallelism with GPUs in Java by Adam Roberts
+https://youtu.be/CIjdipU66qw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Neural Networks and Brains by Raghav Subramaniam
+https://youtu.be/9UHpuSVTF08&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Optional by Stuart Marks
+https://youtu.be/fBYhtvY19xA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Private video
+https://youtu.be/dPRr4KVclh4&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Reactive Programming in Java by Venkat Subramaniam
+https://youtu.be/oTnujfacyPQ&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Reactive Spring by Josh Long
+https://youtu.be/zVNIZXf4BG8&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Serviceable Runtimes by Bjørn Vårdal
+https://youtu.be/OvX-RoPusAU&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Checker Framework In Action By Werner Dietl and  Michael Ernst
+https://youtu.be/-1jjJf5C-Fc&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Seven Deadly Sins of Microservices by Daniel Bryant
+https://youtu.be/Jw6TYEb1Opw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+What can you learn from thousands of source files in Github  by Guillaume Laforge
+https://youtu.be/Aw4sgZ8kIeg&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Bag vs. List vs. Set Most Efficient Data Type  for To-Many Associations
+https://youtu.be/IR40_m2mPe0
+
+Difference between JPA, EclipseLink & Hibernate
+https://youtu.be/GNN-FpNucmI
+
+Effective Java 3rd Edition - Book Review
+https://youtu.be/5k5Ln4-8_QM
+
+Getting Started with Flyway & Version-Based Migration
+https://youtu.be/ovG1wgEqE10
+
+Getting Started with jOOQ  Building SQL Queries in Java
+https://youtu.be/4H3AGK_hNMA
+
+Hibernate Envers  How to Implement a Conditional Audit Log
+https://youtu.be/fX0SXEexy_o
+
+Hibernate Performance Tuning 10 Common Hibernate Mistakes That Cripple Your Performance
+https://youtu.be/FUt1VM1gNkg
+
+Hibernate Tip  How to avoid MultipleBagFetchException
+https://youtu.be/Z7YAgbRbVjo
+
+Hibernate Tip  How to create and initialize a database
+https://youtu.be/nuOIA56d6iQ
+
+Hibernate Tip  How to detach an entity from the persistence context
+https://youtu.be/p-euc3vQQAc
+
+Hibernate Tip  How to map multiple entities to the same table
+https://youtu.be/RxE9nU285nM
+
+Hibernate Tip Easiest way to manage bi-directional associations
+https://youtu.be/WtmCgL1FMdQ
+
+Hibernate Tip How to call a PostgreSQL function
+https://youtu.be/4Qw7kDGolYA
+
+Hibernate Tip How to downcast an entity in your JPQL query
+https://youtu.be/RVmGGrqwhyE
+
+Hibernate Tip How to implement a subquery in a CriteriaQuery
+https://youtu.be/fdF_vx6fm4g
+
+Hibernate Tip How to Increase the Version of the Parent Entity When Updating a Child Entity
+https://youtu.be/CrEFGPyayOI
+
+Hibernate Tip How to map an entity attribute to an Optional
+https://youtu.be/AxVFiSvcx9k
+
+Hibernate Tip How to Share the Primary Key in a One-to-One Association
+https://youtu.be/t9jdfQqmTVU
+
+Hibernate Tip How to use an ORDER BY clause in a CriteriaQuery
+https://youtu.be/xwbVKLxJno4
+
+Hibernate Tip The Fastest Option to Remove a List of Entities
+https://youtu.be/vi1e2B-QYbo
+
+Hibernate Tip What's the Difference Between JOIN, LEFT JOIN and JOIN FETCH
+https://youtu.be/7ZW8mEwggD0
+
+JPA Tip How to map entity attributes of type java.time.Duration
+https://youtu.be/jpzm0m3t3dw
+
+JPA vs Hibernate  The difference between save, persist, merge and update
+https://youtu.be/SH29O-bcQlc
+
+Liquibase  How to Automatically Update a Database
+https://youtu.be/m6uNyezQ-7s
+
+Using jOOQ with Hibernate A Match Made in Heaven
+https://youtu.be/2LH_miNH7h0
+Videos 176-200

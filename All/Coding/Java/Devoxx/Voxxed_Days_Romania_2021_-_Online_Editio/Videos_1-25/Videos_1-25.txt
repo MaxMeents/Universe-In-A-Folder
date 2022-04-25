@@ -1,0 +1,76 @@
+
+Adrian Nasui - Designing a Real-World Clean Architecture - Lessons Learned building Filbo
+https://youtu.be/2eRCLikuLI4&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Andres Almiray - Releasing at the speed of light
+https://youtu.be/UmkABiwTHcE&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Barnabas Szekely - Privacy by Design GDPR Compliant Software Development
+https://youtu.be/qaR01UGHGxw&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Cosmin Cojocaru - Can AI predict your property price based on images
+https://youtu.be/QpFIUTBnt1E&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Cătălin Tudose - Efficient Spring Data REST development
+https://youtu.be/S8Lbs4R26OY&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+David Pilato - Hunting (and stopping!) threats with Elastic Security
+https://youtu.be/7zJ3iUofRAo&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Edoardo Vacchi - The Call of Ctooling The Secrets Behind Native Image Building
+https://youtu.be/7QM4KLaRRRQ&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Francesco Leardini - Wait...can my browser do that
+https://youtu.be/pLQ7bJ8vo-k&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Gabriel Bornea - Functional web APIs
+https://youtu.be/Ic58R8CVNuM&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Gerrit Grunwald - DiscoAPI - OpenJDK distributions as a service
+https://youtu.be/5kFGTlI3fVg&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Horatiu Dan - Respectful REST APIs – ‘Sunset’ and ‘Deprecation’ HTTP Headers
+https://youtu.be/wnFtt0oNTLU&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Hugh McKee - Serverless Code, Serverless Data, Stateful Serverless Java
+https://youtu.be/kWNWBgaAvWg&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+John Papa - 7D’s of Developing and Delivering Technology
+https://youtu.be/EuhgnazNlgY&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Laurențiu Spilcă - Be a better Spring developer with 10 pro tips
+https://youtu.be/N6w7bVvxyC8&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Maarten Mulders - REACT in 40 minutes
+https://youtu.be/jtJHYF1I-3U&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Magda Miu - High performance with idiomatic Kotlin
+https://youtu.be/G5_DwR6i_Es&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Marton Kodok - Cloud Run the rise of serverless and containerization
+https://youtu.be/lnNOJY5aF0M&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Michael Dowden - From Horror Story to Fairy Tale Writing code people want to read
+https://youtu.be/jbF3SsqJLvg&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Miron Brezai - Kafka is simple, it is just an infinite file
+https://youtu.be/uFF4dKM1iOA&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Nicolas Boitout - Bucharest is already the European capital of Low-CodeRPA  what opportunity ....
+https://youtu.be/2qNtgtGPmdU&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Rafal Leszko - Distributed Locking and Java
+https://youtu.be/SYfGWtRTcpM&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Rob Richardson - Gaining Confidence with Cypress Tests
+https://youtu.be/k_cvq3ff-qs&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Sergii Bishyr - Building fault tolerant applications with Kubernetes and Istio
+https://youtu.be/vXnKTscd08I&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Sven Ruppert - Hidden pearls for High-Performance-Persistence
+https://youtu.be/qRgY53SIe_w&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+VDRO Day02 Track01 Slot09
+https://youtu.be/NOebJhd5JKE&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+Videos 1-25

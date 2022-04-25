@@ -1,0 +1,76 @@
+
+Amy Palamountain Enemy of the state  JSConf.au 2014
+https://youtu.be/YPJ20nCEAuA
+
+Christian Lilley Build Scalable, Automated CSS - CSSConf.Asia 2014
+https://youtu.be/Tk_0qYEFtAY
+
+CSSConf Oakland 2014  Ainsley Wagoner What's in a name Exploring the origins of CSS color names
+https://youtu.be/ciGmOlxRxeg
+
+CSSConf Oakland 2014  Claudina Sarahe The Front-End Revolution
+https://youtu.be/UbIQgDLXzII
+
+David Herman revolution  JSConf.au 2014
+https://youtu.be/hMXkLgXZzS4
+
+Dominic Tarr Scientific Benchmarking Measuring & mismeasuring Performance  JSConf.au 2014
+https://youtu.be/kxzmNhYwFs8
+
+Feross Aboukhadijeh WebTorrent - JSConf.Asia 2014
+https://youtu.be/kxHRATfvnlw
+
+Fiona Tay Inside The Airbnb Brand Evolution - CSSConf.Asia 2014
+https://youtu.be/sM3oDSPK_tE
+
+Gilmore Davidson  Timezone of your life   JSConf.au 2014
+https://youtu.be/FvTcR2NTobo
+
+hapiDay Oakland 2014  Adam BretzIn the Lab with the hapi Universe
+https://youtu.be/_GOyhDZTWsY
+
+hapiDay Oakland 2014  Andy Royle hapi at OpenTable
+https://youtu.be/ZmaYKqao3E0
+
+hapiDay Oakland 2014  Brad Harris The Middle-Tier with hapi
+https://youtu.be/ayJakb2FKr4
+
+hapiDay Oakland 2014  Dave Stevens Using hapi Plugins to Version your Api
+https://youtu.be/Mth0XRQ93rM
+
+hapiDay Oakland 2014  Eran Hammer hapi 8.0
+https://youtu.be/5DzVe8lrqoo
+
+hapiDay Oakland 2014  Farrin Reid server.inject and registered server methods
+https://youtu.be/ppK47d2Uta4
+
+hapiDay Oakland 2014  Jacob Chapel Why we chose hapi
+https://youtu.be/vczC41GFkzU
+
+hapiDay Oakland 2014  James Weston None Shall Pass
+https://youtu.be/_FOTKxW-4u0
+
+hapiDay Oakland 2014  John Brett hapi Adoption at D4H
+https://youtu.be/x7nq3Q0xrEI
+
+hapiDay Oakland 2014  Jon Lamendola Bizzarolout - Some crazy stuff to secure hapi applications
+https://youtu.be/R7tPS_QjTRQ
+
+hapiDay Oakland 2014  Kevin Decker #nodebf SSJS at Walmart Mobile
+https://youtu.be/XMXSgBldvUY
+
+hapiDay Oakland 2014  Reid Burke Validation with Joi
+https://youtu.be/bDOHKsS_tEM
+
+hapiDay Oakland 2014  Sam Breed APIs are Made to be Consumed
+https://youtu.be/nMVXumwItcw
+
+Karolina Szczur No More Tools - CSSConf.Asia 2014
+https://youtu.be/_UKrEfkiNZE
+
+Ryan Seddon Performant UIs Using CSS Magic - CSSConf.Asia 2014
+https://youtu.be/ScXXBvs32Pg
+
+Sebastiaan Deckers The SVG Reality - CSSConf.Asia 2014
+https://youtu.be/VQ7_MwjPqKs
+Videos 1001-1025

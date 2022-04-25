@@ -1,0 +1,76 @@
+
+5 JVM languages in 50 minutes by Joe Kutner
+https://youtu.be/7WYWiII2hNo
+
+5 things you can do with Maven in Eclipse other IDEs don't want you to know
+https://youtu.be/Z5Hw_THFGDU
+
+Adam Bien interview during Voxxed Days Bucharest
+https://youtu.be/3AzjSApo3dM
+
+Better performance with HTTP2 by Julien Viet
+https://youtu.be/2pkjavkBsjE
+
+Build & Manage Engineering Team by Mohammad Nazmuz Salehin
+https://youtu.be/HPAIVDxWLAw
+
+Building a private CICD pipeline with Java and Docker in the Cloud
+https://youtu.be/sMvxauOLKLs
+
+Building the MyDevoxx App with JavaFX and Gluon by Johan Vos and Eugene Ryzhikov
+https://youtu.be/1I38pmEnfVQ
+
+Deploying Docker Containers with Netflix Spinnaker on Kubernetes and Titus
+https://youtu.be/ySdqDGfEOHo
+
+Developing Java Apps using Visual Studio Code by Gorkem Ercan and Fred Bricon
+https://youtu.be/l96vUqfB3R4
+
+Elasticsearch and Hibernate by Emmanuel Bernard
+https://youtu.be/ufaI51o_7WI
+
+Garbage First Garbage Collector by Monica Beckwith
+https://youtu.be/Io8hEdm6haw
+
+GeoSpatially enabling your Big Data Apache clusters with LocationTech by Robert Emanuele
+https://youtu.be/onaKQ-64W4w
+
+Heinz Kabutz interviewed during Voxxed Days Bucharest
+https://youtu.be/8cEPEGieMmQ
+
+JAX-RS 2.1 Reloaded by Santiago Pericas-geertsen
+https://youtu.be/x68STOyYgTo
+
+JShell An Interactive Shell for the Java Platform by Robert Field
+https://youtu.be/U4l666voq-c
+
+Kotlin 102 - Beyond the basics by Hadi Hariri
+https://youtu.be/a7QpoMj2uIA
+
+Making the most of Java SE with CDI 2.0 by John Ament
+https://youtu.be/mXoH4DEIcLo
+
+Maven v Gradle Dawn of Project Automation by Oleg Šelajev and Baruch Sadogursky
+https://youtu.be/-ZYzPB0njpM
+
+Raspberry Pi with Java 9 by Stephen Chin
+https://youtu.be/lRzsBKUwhQQ
+
+Styling a design system based on Bootstrap 4 and Web Components by Andres Galante
+https://youtu.be/mlSdqUods0A
+
+The Invocation Game by John Rose and Paul Sandoz
+https://youtu.be/gkWSrdSEL4o
+
+Visual Programming for IoT by David Woodard
+https://youtu.be/izl9MqXMFWE
+
+Voxxed Days Bucharest dream team interview
+https://youtu.be/21c9OHY_o9I
+
+Watson and the Cognitive Developer by Sandhya Kapoor and Mehjabin Kapasi
+https://youtu.be/jL-rtsEz2ok
+
+What are Observables and why should I care by Randall Koutnik
+https://youtu.be/LgjVpPFGIQ4
+Videos 1901-1925

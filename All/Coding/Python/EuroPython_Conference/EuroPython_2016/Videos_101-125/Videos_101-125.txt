@@ -1,0 +1,76 @@
+
+Adrian Dziubek - Python Descriptors for Better Data Structures
+https://youtu.be/ZbmPBey_6kk&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Amber Brown - The Report Of Twisted’s Death
+https://youtu.be/UkkO3_GSR2g&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andrei Coman - Effectively test your webapp with Python and Selenium
+https://youtu.be/vsxwopRbACU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andrés Cidel - Create secure production environment using Docker
+https://youtu.be/uPSRT_7WseM&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Angelo Failla - FBTFTP Facebook's open source python3 framework for dynamic TFTP servers.
+https://youtu.be/1pndeS8FIS8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Anthon van der Neut - Beyond scraping
+https://youtu.be/DKmNiwmyl6k&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Cameron Macleod - Implementación de un Identificador de Sonido en Python
+https://youtu.be/KMMHJch77dk&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Dmitry Trofimov - Profiling the unprofilable
+https://youtu.be/klHMUGcDfvc&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Domen Kožar - What Python can learn from Haskell packaging
+https://youtu.be/osCJgs5UetU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Elena Cuoco - Python in Gravitational Waves Research Communities
+https://youtu.be/K6dFEAijY24&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Francisco Igual - MiniBrew Brewing beer with Python
+https://youtu.be/2rgfO3xa9D0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Guillem Duran - Interactive data Kung Fu with Shaolin
+https://youtu.be/hnp-bvizDOA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Iwan Gulenko - How to make IT-recruiting suck less.
+https://youtu.be/u6PTaTDHUG4&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Jose Manuel Ortega - Hacking ético con herramientas Python
+https://youtu.be/dquiH8c3WsQ&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mai Giménez - Un vector por tu palabra
+https://youtu.be/YI7hAboKLH8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Max Tepkeev - Do I need to switch to Go(lang) 
+https://youtu.be/SCV5froaArg&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Miguel Sánchez de León Peque - Developing a real-time automated trading platform with Python
+https://youtu.be/95ZYHH-Dhjw&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mircea Zetea - Managing technical debt
+https://youtu.be/58yuMI6K6BE&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Moshe Goldsteindavid dayan - Implementing Parallel Programming Design Patterns using EFL for Python
+https://youtu.be/op-L-1GwVYs&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Pau Ruŀlan Ferragut - Pytest desde las trincheras
+https://youtu.be/q3549t2EalY&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Roberto Polli - The Router Game
+https://youtu.be/IYKuvBDBcP8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Scott Reeve - Keeping the Lights on with Python
+https://youtu.be/evRKI0Y890Y&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Thierry CarrezDoug Hellmann - How OpenStack makes Python better (and vice-versa)
+https://youtu.be/5MaDhl01fpc&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Victoria Martinez de la Cruz - Build your first OpenStack application with OpenStack PythonSDK
+https://youtu.be/eNRnDxZTZI0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Víctor Terrón - Kung Fu al amanecer con itertools
+https://youtu.be/4ZIxcdREYVc&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+Videos 101-125

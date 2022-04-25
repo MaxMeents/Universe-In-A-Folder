@@ -1,0 +1,76 @@
+
+Golang UK Conf. 2016 - Björn Rabenstein - Grand Treatise of Modern Instrumentation and Orchestration
+https://youtu.be/HkEZ1LJ7kzQ&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conf. 2016 - Carlisia Campos - GoBridge and the Go Community  Initiatives & Opportunities
+https://youtu.be/ImF_jDpjFNw&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conf. 2016 - Jennie Lees - Managing and Scaling Real Time Data Pipelines using Go
+https://youtu.be/2s5l9ErNL3s&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conf. 2016 - Liz Rice - What is a container, really Let's write one in Go from scratch
+https://youtu.be/HPuvDm8IC-4&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conf. 2016 - Natalie Pistunovich - Developing Apps for Developing Countries  go mobile
+https://youtu.be/JzZwQg0FCrY&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference - Alexander Zolotov - A Go IDE Because Semantics Matter
+https://youtu.be/oWwcdz3WNKQ&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Andreas Krennmair - Real Time Go
+https://youtu.be/nRCXS6PUr5c&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Asim Aslam - Simplifying Building and Managing Microservices with Micro
+https://youtu.be/xspaDovwk34&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Bryan Boreham - An Actor Model in Go
+https://youtu.be/yCbon_9yGVs&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Dave Cheney - Seven ways to Profile Go Applications
+https://youtu.be/2h_NFBFrciI&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Eleanor McHugh - Implementing Software Machines in Go and C
+https://youtu.be/b3ji5tdZUfY&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Ernesto Jimenez - Inception Go programs that generate Go code
+https://youtu.be/Zl50bk6VRQE&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Florin Patan - Go From Dev to Prod
+https://youtu.be/I-8PfC6dZe4&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Jean De Klerk - Let's Build A CI CD Pipeline
+https://youtu.be/UAsTNFLGBGI&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Jelmer Snoeck - The Dark Side of Microservices
+https://youtu.be/KMyQCokzLwA&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Mandy Waite - Building Cloud Native applications with Go
+https://youtu.be/fuHGzQcOeDI&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Marcel van Lohuizen - Advanced Testing Concepts
+https://youtu.be/Iu4nqoCzlRE&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Marcus Olsson - Building an enterprise service in Go
+https://youtu.be/twcDf_Y2gXY&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks
+https://youtu.be/yeetIgNeIkc&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Michael Munday - Dropping Down Go Functions in Assembly
+https://youtu.be/9jpnFmJr2PE&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Nic Jackson - Building Mobile SDKs for iOS and Android
+https://youtu.be/LpWEDFT3iLU&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Nicholas Ng - Static Deadlock Detection for Go
+https://youtu.be/NOQdkbp-950&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Piyush Verma - Design patterns in Microservices architectures + Gilmour
+https://youtu.be/rDQTBpIWa7M&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conference 2016 - Victor Ruiz - Building your own log-based message queue in Go
+https://youtu.be/ysjcEN548yc&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+
+Golang UK Conferene 2016 - Charlie Smith - Revolutionising Retail with Go
+https://youtu.be/2Wn2G-f6fK4&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
+Videos 1-25

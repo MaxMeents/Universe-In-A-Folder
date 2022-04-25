@@ -1,0 +1,7 @@
+
+R Shiny Tutorial for beginners [Complete Tutorial] - Part 1
+https://youtu.be/SY7x2Ayj_b0&list=PLH6mU1kedUy_jnlLbm1SkbJ67-mkq-aIr
+
+R Shiny Tutorial for beginners [Complete Tutorial] - Part 2
+https://youtu.be/suA2lmekCs8&list=PLH6mU1kedUy_jnlLbm1SkbJ67-mkq-aIr
+R Shiny App Tutorial - Building Interactive Web Apps in R using Shiny

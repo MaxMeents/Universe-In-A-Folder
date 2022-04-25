@@ -1,0 +1,22 @@
+
+Creating Real time chart form Pandas Dataframe in Plotly Dash  Plotly Dash Tutorial Part -8
+
+
+Finding Missing Values in Python Pandas Dataset each row or column or cell
+https://youtu.be/cqh3gM1PwUw&list=PLH6mU1kedUy_qRKHk4E3R4CFVHyI0HxL2
+
+How to get count of columns in pandas dataset that are not having missing values or null values
+
+
+Python Pandas book For Finding Missing Values in a Dataset - 25 Recipes
+https://youtu.be/hk9LZLHQCQc&list=PLH6mU1kedUy_qRKHk4E3R4CFVHyI0HxL2
+
+Python Pandas Tutorial 23  How to iterate over columns of python pandas data frame
+
+
+Python Pandas Tutorial 5  How to delete Rows and Columns from a data frame
+https://youtu.be/cRurWEfmxC0&list=PLH6mU1kedUy_qRKHk4E3R4CFVHyI0HxL2
+
+Python Pandas Tutorial 9  How to Import Excel data in Python  Getting Excel Data in Python
+
+Python with pandas  Python For Data Analysis  Python Pandas Tutorial  Learn Python  Python Training

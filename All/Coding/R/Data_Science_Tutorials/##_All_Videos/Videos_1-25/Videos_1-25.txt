@@ -1,0 +1,76 @@
+
+Creating Dynamic Show Hide Slicer Panel in Power BI Report or Dashboard
+https://youtu.be/XJoK8YXrEIA
+
+Documenting DAX Code by Adding Comments  Single and Multi Line Comments
+https://youtu.be/tPjkeSCGC20
+
+Exporting a Power BI Report or Dashboard into PDF Document
+https://youtu.be/X9s1J_pfSjY
+
+Exporting Power BI Report or Dashboard into PowerPoint
+https://youtu.be/bkmWLijOeM0
+
+Format the DAX Code to Clean and Easily Read It
+https://youtu.be/XwclWwqj6tk
+
+Group By DAX FunctionTo Create New Grouped Tables in Power BI
+https://youtu.be/OcSh_qcTc9k
+
+How to Conditionally Create New Table in Power BI using DAX Function
+https://youtu.be/6OqXv3t9tN8
+
+How to Create a measure table in power bi to keep all measures at one place
+https://youtu.be/GWEi-HczFyk
+
+Power BI Dashboard Design Project Tutorial for Visualizing HR Diversity
+https://youtu.be/eshO9EDgvDw
+
+Power BI DAX Function ISEmpty with IF Condition to test with the table is empty or not
+https://youtu.be/OMf8mwmA59Y
+
+Power BI DAX Shortcuts to Increase Productivity
+https://youtu.be/8FEfmdPoqNM
+
+Power BI IFError DAX Function to Process Errors
+https://youtu.be/bYosBb-1hYc
+
+Power BI ISError Function with IF condition to Identify and Process Errors
+https://youtu.be/Fuogn6pXk5E
+
+Power BI ISNumber Function with IF Function to Check if Number is Present
+https://youtu.be/UjQw_FctpNo
+
+Power BI Switch Function to Process Multiple Conditions Effectively
+https://youtu.be/3zm3xsHrtOo
+
+Power BI Workout Wednesday (WoW) Exercise 1 - Connecting Cleaning and Modeling Data
+https://youtu.be/1pparyaJh1M
+
+Power BI Workout Wednesday (WoW) Exercise 2 - Building a Basic KPI Dashboard
+https://youtu.be/njI6-hi6SAU
+
+Power BI Workout Wednesday Exercise 3 - Adding and Managing Slicer Interactions Settings
+https://youtu.be/LqP7IfpE_q4
+
+Power BI Workout Wednesday Exercise 4 - Configuring Drill Through via 2 Different Options
+https://youtu.be/db9hCbM18gw
+
+Understanding Workspace in Power BI to Publish Workbooks and Datasets
+https://youtu.be/N-g-hHAbI9o
+
+Using Power BI Slicer to Nagivate Report Pages or Dashboard Pages
+https://youtu.be/rvXR74qO-Yk
+
+Using Power BI Variables for Debugging or Testing DAX Code
+https://youtu.be/5h8E5mmcoNg
+
+Validating Blank Value in Power BI using ISBlank DAX Function with IF Condition
+https://youtu.be/mbPn460AV14
+
+Variables in Power BI to Manage DAX Code
+https://youtu.be/oHPCBAYoX90
+
+[DAX] How to Create a new table from existing table in Power BI with Distinct Values
+https://youtu.be/R3oTbCQu8RE
+Videos 1-25

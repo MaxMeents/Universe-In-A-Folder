@@ -1,0 +1,76 @@
+
+Aircraft predictive maintenance using PythonML - Amar Verma (Kiwi Pycon X)
+https://youtu.be/lV3hXtZPiqY
+
+Automate Your Integration Tests Using pytest-docker-compose - Phoenix Zerin (Kiwi Pycon X)
+https://youtu.be/6wxO8hRIP4w
+
+Build and hack your own IoT with MQTT - Agnetha Korevaar (Kiwi Pycon X)
+https://youtu.be/YzxTf1y3yCs
+
+Building an interactive training environment using JupyterHub - Graham Dumpleton (Kiwi Pycon X)
+https://youtu.be/Mc2lh2ICd1E
+
+Cody Leach Financial Statement Automation with Python
+https://youtu.be/2rUaLJr_xnM
+
+From Pascal to Python - Steve Dunford (Kiwi Pycon X)
+https://youtu.be/3F3xoqdUpNY
+
+Getting started with MicroPython on a microcontroller - Glenn Ramsey (Kiwi Pycon X)
+https://youtu.be/f7IPsop1VpU
+
+How to Write Python Code Others Like to Use - Anna Tisch (Kiwi Pycon X)
+https://youtu.be/xZSGo4vM-ok
+
+I'm So Meta Even This Acronym... - Curtis Maloney (Kiwi Pycon X)
+https://youtu.be/u_q8h4KMQqA
+
+Keynote - How To Spy With Python
+https://youtu.be/zwz69GGx3i0
+
+Keynote From NASA to Startups to Big Commerce - Daniel Roy Greenfeld (Kiwi Pycon X)
+https://youtu.be/wbOEeFlcJMA
+
+Keynote The Natural State Of Computers - Amber Brown (Kiwi Pycon X)
+https://youtu.be/1LwKKyyATvo
+
+Lightning Talks -  (Kiwi Pycon X)
+https://youtu.be/6beBTfmbrGg
+
+Parallelism in Python - Rounak Vyas (Kiwi Pycon X)
+https://youtu.be/VwE49XvrGx0
+
+Python A Medley of Programming Paradigms - Simon Merrick (Kiwi Pycon X)
+https://youtu.be/gBPkX8ywyns
+
+Python for Public Transport - Alex Raichev (Kiwi Pycon X)
+https://youtu.be/Ier5BF952Y8
+
+Python logging 101
+https://youtu.be/apLoTRE1B8c
+
+Python product dev tools for electronics - Barrie Duncan (Kiwi Pycon X)
+https://youtu.be/ekIPl5ssPGY
+
+Python, Threads & Qt Boom! - Teijo Holzer (Kiwi Pycon X)
+https://youtu.be/ol5IuJyw-Tg
+
+Rage Against The Learning Machine
+https://youtu.be/iXx7nJQJDd0
+
+Serverless APIs with Python, AWS Lambda & API Gateway
+https://youtu.be/AeR4DhHQ2C4
+
+The journey of building a production-ready managed Kubernetes service
+https://youtu.be/JQHMCEMuM-w
+
+The Packaging Lifecycle with Poetry - Clinton Roy (Kiwi Pycon X)
+https://youtu.be/Au2t6VfY2_M
+
+Turning 'wat' into 'why' - Katie McLaughlin (Kiwi Pycon X)
+https://youtu.be/AxJB2sWMS-k
+
+Using Python, Django, and ruthlessness to protect people from social media harassment.
+https://youtu.be/-h_inyIPPAA
+Videos 1-25

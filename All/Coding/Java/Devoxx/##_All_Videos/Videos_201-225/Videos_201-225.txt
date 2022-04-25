@@ -1,0 +1,76 @@
+
+Bootiful Kotlin by Josh Long
+https://youtu.be/etwrkcqIMnk
+
+Bootiful Testing by Josh Long
+https://youtu.be/wAYt4Z4SF7g
+
+Containers & Java What I wish I have been told! by Mohammed Aboullaite
+https://youtu.be/usqQLn21ShU
+
+Developing Java applications leveraging the Quantum Internet  by Johan Vos
+https://youtu.be/3V6_AYP6XhA
+
+Dissecting HelloWorld Kotlin & Java by Simon Schell
+https://youtu.be/F53szP5H7Z0
+
+Easily find your conference pictures using the power of the cloud by Tim van Eijndhoven
+https://youtu.be/M2LH6DEIDXU
+
+Evolving a Pragmatic, Clean Architecture   A Craftsman's Guide by Victor Rentea
+https://youtu.be/KOqIUNUq2Gg
+
+Facts you may not know about Kotlin by Eugene Petrenko
+https://youtu.be/NURkLq6BzLE
+
+Flowable business processing from Kafka events by Tijs Rademakers & Joram Barrez
+https://youtu.be/nX0dRiPqOmk
+
+How We Migrated New Relic to Java 11 by Ben Evans
+https://youtu.be/oKCB_JBA8Cg
+
+I got an NFC chip in my hand, now what by Shahzada Hatim
+https://youtu.be/Er-b0jYxVVE
+
+Implementing a Simple JVM in Rust by Ben Evans
+https://youtu.be/7ECbwgkHdAE
+
+Introducing Apache Kafka by Katherine Stanley
+https://youtu.be/VxGotIXLUxs
+
+Live hacking Breaking into your Java web app by Brian Vermeer
+https://youtu.be/vI4hriaT-Z8
+
+My first steps on Deep Learning with Keras by Loïc Mathieu
+https://youtu.be/V5bpdpwDmwg
+
+Performance Diagnostics with Open Distro for Elasticsearch by Alolita Sharma and Chandra Adithya
+https://youtu.be/9_Fs1Tz4vZI
+
+Qualities of a Highly Effective Architect Keynote by Venkat Subramaniam
+https://youtu.be/QeKheNfO3Yg
+
+SSLTLS for Mortals by Maarten Mulders
+https://youtu.be/yJrJEvvW_HA
+
+Surveillance Detection Scout – Your Lookout on Autopilot by Truman Kain
+https://youtu.be/7p64EgUOqGk
+
+The Hitchhiker’s Guide to Diversity (Don't panic!) by Audrey Neveu
+https://youtu.be/DSzDFZ0Ue1w
+
+THINK ing Big, THINK ing Diverse, THINK ing Forward by Grace Jansen
+https://youtu.be/ZvniAg7b8Ck
+
+Up, to make serverless... Problemless! by Siegfried Ehret
+https://youtu.be/EHS1SkVCk2c
+
+UX as an API by William Bartlett
+https://youtu.be/q_zRNcOyfYI
+
+Welcome to LWorld The current state of value types in Java  by Tobi Ajila
+https://youtu.be/Xf22I16jVyE
+
+Who melt Chernobyl down by Adriano Spadoni & Anand Shukla
+https://youtu.be/x0C0y6Ooy_U
+Videos 201-225

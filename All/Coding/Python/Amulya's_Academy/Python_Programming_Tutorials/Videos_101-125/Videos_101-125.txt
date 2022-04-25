@@ -1,0 +1,76 @@
+
+Creating NumPy Arrays with Random Numbers  Python Tutorials
+https://youtu.be/4yZcsnNCyJs&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+How To Install numpy scipy matplotlib pandas on Windows  Python Tutorials
+https://youtu.be/iOdfeyw_2aY&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Introduction to Arrays  NumPy Library  Python Programming
+https://youtu.be/Lo6GSK763ns&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Introduction to Numpy and Scipy  Python Tutorials
+https://youtu.be/NVTWjd_UpzM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Introduction to Numpy Library  Python Tutorials
+https://youtu.be/hSquw6JGsLM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Numpy Arange Function  Creating NumPy Arrays  Python Tutorials
+https://youtu.be/vRRifcvGCkA&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Numpy Array Function  Creating NumPy Arrays  Python Tutorials
+https://youtu.be/rNMFtbWmbhE&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+NumPy Eye Function  Creating NumPy Arrays  Python Tutorials  Identity Function
+https://youtu.be/EzOjhjFfM-w&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+NumPy Linspace Function  Creating NumPy Arrays  Python Tutorials
+https://youtu.be/i4EBrUYZHNc&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Numpy Ones Function  Creating NumPy Arrays  Python Tutorials
+https://youtu.be/yOTPfKPuZ8U&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+NumPy Tutorials - List vs NumPy Array  Python Programming
+https://youtu.be/XI6PHo_gP4E&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+NumPy Zeros Function  Creating NumPy Arrays  Python Tutorials
+https://youtu.be/qx70kifeRC8&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Pattern 4  Drawing Heart Shape
+https://youtu.be/OgbXl7bFV9s&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Class method and Static method Decorators  Instance and Class Variable
+https://youtu.be/aLBnKIu_WVU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Closure  Nested Functions
+https://youtu.be/tvWRhMkUcoU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Copy  Part 1  Assignment Operators  Example
+https://youtu.be/EkZR1-D2ASY&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Copy  Part 2  Shallow Copy  Example
+https://youtu.be/zHMViQcLFjE&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Copy  Part 3  Deep Copy  Example
+https://youtu.be/Riv6UJ6GFDM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Decorators Part 1  Introduction  Functions  Example
+https://youtu.be/71n2aCWMgwA&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Decorators Part 2  Multiple Decorators  General Decorators   Parameters
+https://youtu.be/LBhKYNFzWMw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Decorators Part 3  Class Decorators
+https://youtu.be/rXLhnlP5sMY&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - LEGB Rule  Local And Global Scope  global and non local Keyword
+https://youtu.be/hKoQhK3AS_I&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Namespace and Variable Scope
+https://youtu.be/60BhDMIm5vk&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Property Decorators Part 1
+https://youtu.be/5-S_B6nAzO8&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Property Decorators Part 2  Properties
+https://youtu.be/yAuCp2aZUEI&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+Videos 101-125

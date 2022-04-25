@@ -1,0 +1,7 @@
+
+HDL Coder Clock Rate Pipelining, Part 1 Introduction - MATLAB and Simulink video
+https://youtu.be/CYuURlqBJS4&list=PLn8PRpmsu08rwsU8G3q8C-H2fdB-QLRa1
+
+HDL Coder Clock Rate Pipelining, Part 2 Optimization - MATLAB and Simulink Video
+https://youtu.be/mlF8GQbwLAY&list=PLn8PRpmsu08rwsU8G3q8C-H2fdB-QLRa1
+HDL Coder Clock Rate Pipelining - MATLAB and Simulink Video Playlist

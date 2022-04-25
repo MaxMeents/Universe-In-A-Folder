@@ -1,0 +1,49 @@
+
+All Kinds of Everything - Human Input Devices in Python. Zeth Green
+https://youtu.be/5zmEFDcoILQ&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Data Pipeline Evolution - Ali King
+https://youtu.be/zEXbOA1NEeM&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Deploy Your Python Application Without Getting Owned - Justin Meyer
+https://youtu.be/s70PPAvJe-4&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Detection of Duplicate Records in Large Scale Multi-tenant Platforms - Paul O'Grady
+https://youtu.be/M2u9pxrhvDE&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+From Documents to Graphs  With Python - Hanneli Tavante
+https://youtu.be/TfycokREM-Y&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Kajiki, the Fast and Validated Template  Engine You Were Looking For - Alessandro Molina
+https://youtu.be/E59U9M2NQMk&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Lessons Learned Open  Sourcing Codespeed - Miquel Torres
+https://youtu.be/imIJ90D3z2I&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Making Good Testing Decisions - Ingrid Epure
+https://youtu.be/tt4re_yMIyg&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Natural Language Processing Using Python Tools - Piyush Arora
+https://youtu.be/xUuQP4Z4YD8&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Opening Session
+https://youtu.be/EXTtOgcpeik&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Plug in With Python - Markus Törnqvist
+https://youtu.be/zRrjugBk9rA&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Putting Data Science Into Production - Brian O'Mullane & Roger Thomas
+https://youtu.be/2W4FABwBP7w&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Recruitment Session
+https://youtu.be/N9vti8UAJT4&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Rethinking Package Management - Rok Garbas
+https://youtu.be/4sXDgZl2GPk&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Social Network Analysis at Scale - Eoin Hurrell
+https://youtu.be/PWRlp0LupbQ&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+
+Type Hints for Static and Runtime Type Checking - Ivan Smirnov
+https://youtu.be/w6Sf0nSKwA0&list=PLNeBS51Q0m98rI6kyTd5_-33ckRgjUEG3
+Videos 26-41

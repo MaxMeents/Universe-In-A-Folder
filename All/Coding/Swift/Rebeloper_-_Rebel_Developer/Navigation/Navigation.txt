@@ -1,0 +1,4 @@
+
+Navigation in SwiftUI is BROKEN! Here's what you can do about it
+https://youtu.be/UOX2EN9kGas&list=PL_csAAO9PQ8adyqVY8oUez96QcE7bRf3U
+Navigation

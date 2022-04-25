@@ -1,0 +1,40 @@
+
+Ashley Williams - intermezzOS a teaching operating system
+https://youtu.be/WxbrhruIAa8&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Brian Pearce - Learning to Love the Unfamiliar
+https://youtu.be/iMy0-VNdBx0&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Felix Klock - Subtyping in Rust and Clarke's Third Law
+https://youtu.be/fI4RG_uq-WU&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Hanneli Tavante - Science tools borrow Rust
+https://youtu.be/8fs_Pt-kDz4&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Kai Michaelis - Panopticon - A Libre Cross-Platform Disassembler in Rust
+https://youtu.be/7AfAjffJvsw&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Marijn Haverbeke - The Rust That Could Have Been
+https://youtu.be/olbTX95hdbg&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Martin Hellspong - Why you'd be better off using QuickCheck when porting to Rust
+https://youtu.be/P4iyEX-4kYI&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Matthieu Wipliez - Techniques for writing concurrent applications with asynchronous IO
+https://youtu.be/VNUiycotp8U&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Sharon Steed - Empathetic communication why vulnerability is the key to collaboration
+https://youtu.be/4O4-poBoTck&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Sonja Heinen - Hobby-oriented programming
+https://youtu.be/Y9qrlVRwlbY&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Stephan Hügel - Teaching myself Rust through the medium of coordinate system transforms and FFI
+https://youtu.be/xhoONTb_PdI&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+Tim Cameron Ryan - Sensors, Servos, and Signals with Rust
+https://youtu.be/LoKPupeKW08&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+
+William Light - Linux USB HID Interfacing in Userspace
+https://youtu.be/X4ZAXoNoeu4&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
+RustFest 2016

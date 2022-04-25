@@ -1,0 +1,76 @@
+
+Converting a component to a render prop
+https://youtu.be/a7OhAQIx3xc&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Creating babel-plugin-preval
+https://youtu.be/3vxov5xUai8&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift Building an Autocomplete React Component (Part 1) 🏎
+https://youtu.be/2kzD1IjDy5s&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift Building an Autocomplete React Component (Part 2) 🏎
+https://youtu.be/w1Z7Jvj08_s&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift Downshift work build, preact support, and simplification 🏎
+https://youtu.be/f6HyOf5a-Hc&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift fix bugs and support windowing with react virtualized 🏎
+https://youtu.be/3lhup5S6WVk&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift fix integration with preact 🏎
+https://youtu.be/pjo18zMjFj0&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift fixing bugs 🏎
+https://youtu.be/btBVVSnNqik&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift fixing preact support 🏎
+https://youtu.be/jvm1PYk5sUg&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift fixing regressions and more testing 🏎
+https://youtu.be/4X_atTCu7as&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift getting to 100% code coverage! 🏎
+https://youtu.be/7bWl9knNr5o&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift Implementing a React Autocomplete Component for PayPal with downshift 🏎
+https://youtu.be/rB62gSER9fg&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift integrating geniejs with downshift
+https://youtu.be/gjqB-YAxjWg&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift Making controllable with state props 🏎
+https://youtu.be/iy0znrRA2h8&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift Making Downshift more accessible 🏎
+https://youtu.be/p9QqTGQ5TZ0&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift refactor, simplify, and test!
+https://youtu.be/K7D1_z2MYao&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+downshift testing utils 🏎
+https://youtu.be/rOUssQyf9Gw&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Migrating downshift from enzyme to react-testing-library (Part 1)
+https://youtu.be/vH2XoJvJ0ss&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Migrating downshift from enzyme to react-testing-library (Part 2)
+https://youtu.be/5O1DF8X7FA8&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Migrating downshift from enzyme to react-testing-library (Part 3)
+https://youtu.be/buXMYy8y2n0&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Migrating downshift from enzyme to react-testing-library (Part 4)
+https://youtu.be/7KZLA5nMwMQ&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Preparing glamorous 💄 Egghead.io course #programming
+https://youtu.be/QAlIzqrnC54&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+What does glamorous give me that CSS modules doesn't
+https://youtu.be/biewJRnEiwU&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Working on kcd-scripts #programming
+https://youtu.be/KzysrJP4BLw&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+
+Write tests. Not too many. Mostly integration. (Hotel Practice)
+https://youtu.be/aHYtZsoXs2w&list=PLV5CVI1eNcJh5CTgArGVwANebCrAh2OUE
+Videos 1-25

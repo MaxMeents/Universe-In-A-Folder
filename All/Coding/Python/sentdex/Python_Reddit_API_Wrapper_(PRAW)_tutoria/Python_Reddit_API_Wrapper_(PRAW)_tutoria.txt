@@ -1,0 +1,13 @@
+
+Creating a Reddit Bot to Detect Spam - Python Reddit API Wrapper (PRAW) tutorial p.4
+https://youtu.be/7uhMemi2mFc&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I
+
+Introduction and Basics - Python Reddit API Wrapper (PRAW) tutorial p.1
+https://youtu.be/NRgfgtzIhBQ&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I
+
+Parsing Reddit comments - Python Reddit API Wrapper (PRAW) tutorial p.2
+https://youtu.be/KX2jvnQ3u60&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I
+
+Streaming from Reddit - Python Reddit API Wrapper (PRAW) tutorial p.3
+https://youtu.be/XmOA1k4RTrc&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I
+Python Reddit API Wrapper (PRAW) tutorial

@@ -1,0 +1,28 @@
+
+XRCed 1 Overview
+https://youtu.be/ygVBWNskUkw&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 2 Run XRCed On Winpython Overview
+https://youtu.be/SBMGluzEZBk&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 3 Iinstall Winpython On USB Stick
+https://youtu.be/tOp9tXfICPM&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 4 Install wxPython
+https://youtu.be/uJEWMuMEtjE&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 5 Run XRCed On Python 3 Windows 10
+https://youtu.be/88wgcvyZvjg&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 6 Build A wx.App On Python 3 Windows 10
+https://youtu.be/fCQ9P2SmfLY&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 7 Code For wx.App On Python 3 Windows 10
+https://youtu.be/3o9WqI9iPe4&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 8 Add Menus In App
+https://youtu.be/OMzh-OMo-3o&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+
+XRCed 9 Menu Code
+https://youtu.be/uWHzXTQV0bs&list=PLBBLzLT9U_rTkmj9Ys_M-Y8XY4t1T7BAh
+Build wxPython GUI's With XRCed

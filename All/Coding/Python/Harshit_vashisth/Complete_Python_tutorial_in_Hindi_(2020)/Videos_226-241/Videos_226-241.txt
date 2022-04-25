@@ -1,0 +1,49 @@
+
+Create GUI App with Python , Tkinter [1]
+https://youtu.be/7MQWCtTr0zA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Edit IMAGES using PYTHON
+https://youtu.be/4SSAW9rqNKQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+First Project using python (GUI  next )
+https://youtu.be/6aG4CAMam4s&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+OS Module python part 1 (hindi)
+https://youtu.be/lp5-v9B3dkQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+OS module(2) and shutil module python (hindi)
+https://youtu.be/AQZQZOb3FUw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Python + Sql
+https://youtu.be/XTvKa_9iXOQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Python Project Create Real Software
+https://youtu.be/wRIUnHO_6KY&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Read and Write CSV files simultaneously (HINDI)
+https://youtu.be/cmSXHAS-QKY&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Read CSV files with DictReader  Python tutorial 224 in Hindi
+https://youtu.be/8o6HmJxi9pQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tkinter   Message Box and Exception handling
+https://youtu.be/YNFfBA8hBD8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tkinter  Create Menubar (Hindi)
+https://youtu.be/-U1P9qS5XXQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tkinter(Python GUI)  Create Widgets using loop
+https://youtu.be/XerT3-rrOmQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tkinter(Python GUI)  Padding & LabelFrame
+https://youtu.be/94ZmuGhuBIk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tkinter[4]  Tabbed Control Widget (Hindi )
+https://youtu.be/4p9IQ2XkQ5k&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Write to CSV File  python tutorial 225
+https://youtu.be/qCnOvlwgzvk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Write to csv using DictWriter  Python tutorial 226
+https://youtu.be/4hQK-tNMPt0&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+Videos 226-241

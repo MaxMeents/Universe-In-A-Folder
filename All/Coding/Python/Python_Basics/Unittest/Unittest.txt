@@ -1,0 +1,22 @@
+
+Python Basics Tutorial Functions To Be Tested  Unittest Module Series
+https://youtu.be/tX0vrmOSUm8&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+
+Python Basics Tutorial Unittest Assert AlmostEqual  Unittest Module Series
+https://youtu.be/e1BE24-RYFY&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+
+Python Basics Tutorial Unittest Assert Equals  Unittest Module Series
+https://youtu.be/eQAJjcensx0&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+
+Python Basics Tutorial Unittest Assert True  Unittest Module Series
+https://youtu.be/8a7JjpVNAAY&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+
+Python Basics Tutorial Unittest Introduction  Unittest Module Series
+https://youtu.be/TRi76TDT64Q&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+
+Python Basics Tutorial Unittest Test File  Unittest Module Series
+https://youtu.be/96j0ifITgcg&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+
+Python Basics Tutorial Unittest TestCase Object  Unittest Module Series
+https://youtu.be/b3Vetbcwfo4&list=PLaYT64KWZAEMLX094J3yWa_R2ngU8I40a
+Unittest

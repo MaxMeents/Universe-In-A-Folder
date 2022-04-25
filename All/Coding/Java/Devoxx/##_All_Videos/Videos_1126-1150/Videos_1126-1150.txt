@@ -1,0 +1,76 @@
+
+A Look Back at Enterprise Integration Patterns and Their Use into Today's... - Bruno Borges
+https://youtu.be/EbTZ5nSJQwI
+
+A mobile-first approach to 3DSecure today - Alina Denisenko
+https://youtu.be/WQi7iA12HSE
+
+A Visual Introduction to Inner-Workings of the JVM - Douglas Hawkins
+https://youtu.be/JLFjY6Ixct8
+
+Asynchronous programming with Kotlin coroutines - Konrad Kamiński
+https://youtu.be/VZarhLyGPrs
+
+Blockchain scaling - Lightning Network - Tomasz Konieczny
+https://youtu.be/pL5TuQFaQmk
+
+Building responsive, scalable systems with asynchrony and flow control - Christopher Batey
+https://youtu.be/FttlADiAqzo
+
+Closing - Grzegorz Duda
+https://youtu.be/JJJdglxjWaE
+
+Contract Tests in the Enterprise Conference - Marcin Grzejszczak
+https://youtu.be/ZyHG-VOzPZg
+
+Dismantling a Progressive Web App - AMahdy Abdelaziz
+https://youtu.be/jeCOP4IhFrI
+
+Do not walk away from Complexity, Run - Venkat Subramaniam
+https://youtu.be/nZcLHkORdHE
+
+Docs in the self-documenting world - Wojtek Erbetowski
+https://youtu.be/2tfzU98B29g
+
+Don't be a trojan - Brian Vermeer
+https://youtu.be/xsBWwcbl46A
+
+Eclipse collections by example - Pawel Klaczewski
+https://youtu.be/mx_DEuKP398
+
+Go Kotlin Go! - Uberto Barbini
+https://youtu.be/KQWQGNnAjLA
+
+IPFS and how to distribute the web - Fredrik Rubensson
+https://youtu.be/4zS396s_-s4
+
+Is Quantum Computing Really a Thing - James Birnie
+https://youtu.be/VAz8cl307oA
+
+Java Performance Puzzlers 2018 -- New Performance Puzzles - Douglas Hawkins
+https://youtu.be/zdz_pf22nOI
+
+Level-up your culture - Tomasz Dubikowski
+https://youtu.be/0lj4bjJqXIU
+
+Microservices in action at the Dutch National Police - Bert Jan Schrijver
+https://youtu.be/XdzWHHPSUoY
+
+Processing Streaming Data with KSQL - Tim Berglund
+https://youtu.be/LM-aQQQes4Q
+
+Progressive Web Apps Your web app on steroids - Maxence Poutord
+https://youtu.be/6Qids36T7DA
+
+Staying pure and functional with Spring 5 - Jarek Ratajski
+https://youtu.be/VwjvXLb2SqQ
+
+The Art of Web API Design - Paweł Zajączkowski
+https://youtu.be/lUbompq-Muc
+
+The Database Unbundled Commit Logs in an Age of Microservices - Tim Berglund
+https://youtu.be/KU-GV6k-1AY
+
+“Zero code” systems - hopes, myths and reality - Maciej Próchniak
+https://youtu.be/BLsEQSQgR2w
+Videos 1126-1150

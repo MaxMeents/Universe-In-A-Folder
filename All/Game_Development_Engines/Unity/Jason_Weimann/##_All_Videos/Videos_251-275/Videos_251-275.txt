@@ -1,0 +1,76 @@
+
+10 Steps I use to Design and Code Big Game Systems in Unity3D
+https://youtu.be/Yg4yeLgj9uc
+
+10 Things You Should Know in Unity
+https://youtu.be/XN4tHXvB6D8
+
+Easy Unity HotBars w OnValidate Unity
+https://youtu.be/kdckcSwPkrg
+
+Game Development Jobs, Contracting, & Startups w Dave Green
+https://youtu.be/hFF7-hZhdMo
+
+How to address Technical Debt and the REAL cost when you don't
+https://youtu.be/2mpzbAoMaWU
+
+How to do Easy Unity3D Ragdoll Physics with Source Code - unity ragdoll tutorial
+https://youtu.be/kux48zqUQY8
+
+How to Get a Game Development Job - My Best Tips For Beginners & Experts
+https://youtu.be/tBO-RvTPETU
+
+How to Make a Unity Game - #10 - Fireballs
+https://youtu.be/Q6ffRoyqtq4
+
+How to Make a Unity Game - #11 - Launching Fireballs with Prefabs
+https://youtu.be/zAgAxrTCbGM
+
+How to Make a Unity Game - #12 - Deploying Unity Games to WebGL
+https://youtu.be/pwyc-XnFzTw
+
+How to Make a Unity Game - #2 Project Setup and Sprites
+https://youtu.be/NRIjK_S4hiI
+
+How to Make a Unity Game - #3 - Physics and Collisions
+https://youtu.be/Ip7DxgRnTHI
+
+How to Make a Unity Game - #4 - Intro to scripting with C#
+https://youtu.be/99iKaE6sjyc
+
+How to Make a Unity Game - #5 - Destroying Players with Collisions
+https://youtu.be/G3v7sOGnNbk
+
+How to Make a Unity Game - #6 - Moving Transforms
+https://youtu.be/J0HSCjVdq1Y
+
+How to Make a Unity Game - #7 - Prefabs and Children
+https://youtu.be/UNkQ_SyHzY4
+
+How to Make a Unity Game - #8 - Enemies and Relative Space
+https://youtu.be/FmuzpaKCVFo
+
+How to Make a Unity Game - #9 - Sound Effects and Music Audio
+https://youtu.be/_b2I--adKIo
+
+How to Make a Video Game - #1 - For Beginners (2019)
+https://youtu.be/BL2u_6sSvcM
+
+How to use the New Unity Input System
+https://youtu.be/zIhtPSX8hqA
+
+NEW Prefab Workflow - How to use Unity3D Prefab Variants
+https://youtu.be/CJvom-afMmE
+
+Unit Testing  TDD in Unity3D with Charles Amat (Infallible Code)
+https://youtu.be/Q8Cw8UvgRYc
+
+Unity3D AI with State Machine (FSM), Drones, and Lasers!
+https://youtu.be/YdERlPfwUb0
+
+Unity3D Game Development as a Hobby w Joe Zack of CodingBlocks
+https://youtu.be/HQDdexsM4PA
+
+Unity3D Mistakes I made that you should avoid
+https://youtu.be/3kino_s-4mo
+Videos 251-275

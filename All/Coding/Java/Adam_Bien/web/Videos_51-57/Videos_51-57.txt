@@ -1,0 +1,22 @@
+
+A simplest possible Micro Frontend with vanilla Web Components
+https://youtu.be/9M8q9fOf_xA&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Disclosing optional content with details and summary HTML tags #slideless
+https://youtu.be/sga2F9Z3vxQ&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+JavaScript How to receive Server Sent Events (SSE)
+https://youtu.be/Kk8EWwZ812E&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+POST-ing a JSON document with plain Java #slideless
+https://youtu.be/SyZ8W5E5Xuw&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Testing ServiceWorkers on iPhone and Quarkus #slideless
+https://youtu.be/ljSQXfc-GkA&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+The impact of meta viewport tag on smartphone's layout #slideless
+https://youtu.be/s5Huh_IrAv0&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Unidirectional data flow with Web Components, redux toolkit and lit-html #slideless
+https://youtu.be/zjtaLLs2eSM&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+Videos 51-57

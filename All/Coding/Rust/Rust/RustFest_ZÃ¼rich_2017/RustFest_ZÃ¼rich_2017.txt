@@ -1,0 +1,49 @@
+
+RustFest Zürich 2017 - A hammer you can only hold by the handle by Andrea Lattuada
+https://youtu.be/3Q2hQfYW-XM&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - A Rust-based Runtime for the Internet of Things by Niklas Adolfsson
+https://youtu.be/reQ7_oXwECQ&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - A RustFest Carol by Felix Klock
+https://youtu.be/jywiVWKm1TI&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Antimony a real time distributed stream processing system by M. Makhlouf
+https://youtu.be/gBRwLAyZHlU&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Create Rust games easily by Lisa
+https://youtu.be/str_mex__0M&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Fearless concurrency in your microcontroller by Jorge Aparicio
+https://youtu.be/J4dZRrldMcI&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Impractical Macros by Alex Burka
+https://youtu.be/ApOUBBOvZDo&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Macromancy an introduction to Rust macros by Geoffroy Couprie
+https://youtu.be/8rodUyaGkQo&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Mistakes to avoid when writing a wrapper around a C library by Pierre Krieger
+https://youtu.be/LLde-PJJZQA&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Rust an alternative to high-level programming languages by Élisabeth Henry
+https://youtu.be/Uocesohc6Z0&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Rust In Rhymes by Andre 'llogiq' Bogus
+https://youtu.be/JR6aHXlRAOM&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - SHAR Rust's gamedev experience by Fedor Logachev
+https://youtu.be/nXR8f4r6ggM&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Teaching an IDE to understand Rust by Igor Matuszewski
+https://youtu.be/-OPc_XvVLVs&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Testing strategies and pattern for efficient TDD in Rust by Thomas Wickham
+https://youtu.be/U3F7uAOCjEo&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Tokio How we hit 88mph by Alex Crichton
+https://youtu.be/4QZ0-vIIFug&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+
+RustFest Zürich 2017 - Type-safe & high-perf distributed actor systems with Rust by Anselm Eickhoff
+https://youtu.be/LiIoE8ArACs&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+RustFest Zürich 2017

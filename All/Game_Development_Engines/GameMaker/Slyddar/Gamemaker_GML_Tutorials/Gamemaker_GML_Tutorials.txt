@@ -1,0 +1,28 @@
+
+Animate Your Graphics in GameMaker, using Sequences - GameMaker Coaching
+https://youtu.be/BYp2pdaYPKo&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Gamemaker Menus with Submenus #1 (GML)
+https://youtu.be/_2CrhKO5ojE&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Gamemaker Menus with Submenus #2 - Selections (GML)
+https://youtu.be/3dmEbSQwZZY&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Gamemaker Menus with Submenus #3 - Mouse Support (GML)
+https://youtu.be/BUid6KOHhzQ&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Gamemaker Sequence Animations (GMLDND)
+https://youtu.be/OzK1AkTbOYg&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Gamemaker Studio 2  Transitions (GML)
+https://youtu.be/JGnZJh63BtM&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Top Down DND & GML Tutorial in Gamemaker #2 Sprites
+https://youtu.be/ZTXRE8yYbMs&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Top Down DnD & GML Tutorial in Gamemaker #5 State Machines
+https://youtu.be/BnqwwOYLX1A&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+
+Top Down GML Tutorial - Can we make Gauntlet
+https://youtu.be/xgkPuKbVXl0&list=PL_dGpCsnQ7AXl228dQr1wkiYSfkgYgS_F
+Gamemaker GML Tutorials

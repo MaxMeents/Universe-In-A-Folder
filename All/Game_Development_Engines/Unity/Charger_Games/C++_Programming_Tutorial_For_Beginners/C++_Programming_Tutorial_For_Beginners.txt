@@ -1,0 +1,73 @@
+
+C++ Programming Tutorial For Beginners - 11 - Concept of Loops
+https://youtu.be/J_h6HcEzlZA&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 12 - While Loops
+https://youtu.be/KgT9k-4o9YM&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 13 - For Loops
+https://youtu.be/InNbK9P2lCE&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 14 - Do While Loops
+https://youtu.be/kibsHopEpuE&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 15 - Concept Of Arrays Simple Explanation
+https://youtu.be/NLs0mLCPKRA&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 16 - Putting Values Inside Array and Accessing Values
+https://youtu.be/sj-0CfPbq9Y&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 17 - Concept of Functions (Definition and Declaration)
+https://youtu.be/BV5J7rI1e7Q&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 18 - Functions With Parameters
+https://youtu.be/IGzegBM9omU&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 19 - Function Overloading
+https://youtu.be/l0CiYlbKT1o&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 2 - Understanding our First Program
+https://youtu.be/NXtvMLYHM34&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 24 - Recursion simple explanation
+https://youtu.be/ZgBmWWjx-_k&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 4 - Variable Declaration and Definition
+https://youtu.be/9eFgrzMHc_U&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 5 - Input Output with cin and cout
+https://youtu.be/nq4hofC2JVA&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 6 - Arithmatic Operators
+https://youtu.be/_XlmY4vvDYE&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 7 - Increment and Decrement Operators
+https://youtu.be/u6O4iW0oAtk&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 8 - Pre Increment and Post Increment operators
+https://youtu.be/dwcWuoMiegw&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners - 9 - if else statements
+https://youtu.be/aziYmh011zE&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners- 20 - Constant Variables with Const keyword
+https://youtu.be/-LFsWhT0nzg&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners- 22 - Structures in C++
+https://youtu.be/8gTiVk5YXh0&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners- 23 - Enumerations or enum in C++
+https://youtu.be/_88TZZ456wQ&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners-21- sizeof Operator
+https://youtu.be/OfoBI0eqhlI&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorial For Beginners-Installing Code Blocks C++ IDE
+https://youtu.be/l13hLDuAN6s&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorials For Beginners - 10 - Switch Case statements
+https://youtu.be/f45bRtg2pKA&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+
+C++ Programming Tutorials For Beginners - 3 - Variables and Data Types
+https://youtu.be/BU_mcsPKK7I&list=PLytjVIyAOStqjPEZv23_N1-5WYEHaZ_-S
+C++ Programming Tutorial For Beginners

@@ -1,0 +1,58 @@
+
+3 Ways to Use The Fetch Method
+https://youtu.be/bCBQWH_4US0&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Array#Zip Method
+https://youtu.be/_FxgR5vCICA&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Enumerable#Cycle Method
+https://youtu.be/jFmveSKn5mA&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Hash Methods Transform Values & Transform Keys
+https://youtu.be/_a4Hpu590AI&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+How to Read, Analyze & Understand Ruby Method Chains
+https://youtu.be/toeX_3cHqYg&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+How to Use The Ruby Grep Method
+https://youtu.be/bpJ10TMn448&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Replace Text in Ruby
+https://youtu.be/nWj8eI5rHM8&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Array#rotate Method
+https://youtu.be/xV-6AcTYnfQ&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Count Method
+https://youtu.be/x7kApCyizlo&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Digits Method
+https://youtu.be/LFKNhpiOXUU&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Flatten & Compact Methods
+https://youtu.be/YZy6uW-TJJY&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Inject
+https://youtu.be/777io5ZNmqY&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Kernel Itself Method
+https://youtu.be/2zevygUebeo&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Map Method
+https://youtu.be/meMHMTKVQSA&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Methods All, Any, None & One
+https://youtu.be/68sZJdKp5XQ&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Methods Prepend, Append, Insert (Works with Strings & Arrays)
+https://youtu.be/K3BYas57MGs&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Ruby Select Method
+https://youtu.be/6cCLOqC2MrE&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Understanding Ruby Yield & Yield_Self
+https://youtu.be/xdELWY01RdY&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+
+Understanding The Ruby Each Method
+https://youtu.be/2RMaOAc8ZNA&list=PL6Eq_d2HYExeJ7-nJW2GEJcfwk_NLfOVz
+Ruby Methods

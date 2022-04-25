@@ -1,0 +1,76 @@
+
+#14 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/zfs1oo4z8Jo
+
+#15 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/2bmMzTZBhmk
+
+AHK Studio RegEx Replace Dialog  Replacing text inside Studio
+https://youtu.be/nXzpYwBwHrI
+
+AHK Studio Using Breakpoints in Debug mode
+https://youtu.be/q3utQlHXMw0
+
+AHK Webinar 52  5 Secret Steps Pros Use to Identify & Protect Your Intellectual Property
+https://youtu.be/KqP9FE7h0ME
+
+AutoHotkey Podcast 015 What Can Be Automated
+https://youtu.be/BfUlxdv2LYU
+
+AutoHotkey Podcast 017 Thought Process Before Scripting
+https://youtu.be/yxmQxhwxX-k
+
+AutoHotkey Podcast 018 Preferred Order of Technology used for Automation
+https://youtu.be/WYKua2xwyXU
+
+AutoHotkey Podcast 019 The Future of Webscraping with AutoHotkey
+https://youtu.be/2dvnUMi3MNI
+
+AutoHotkey Webinar 052019 Hour 1-Protecting your IP Trademarks, Copyrights, Patents, Trade Secrets
+https://youtu.be/hS4tiHq3jXk
+
+AutoHotkey Webinar 052019 Hour 2-Protecting your IP Trademarks, Copyrights, Patents, Trade Secrets
+https://youtu.be/P8sN5FNSm_8
+
+Automating Programs with Controls #1 Intro to Controls in AutoHotkey
+https://youtu.be/N511ag3dr0w
+
+Automating Programs with Controls in AutoHotkey 03 Getting and Setting Text in Edit Fields
+https://youtu.be/SBSpQNQ6JjA
+
+Automating Programs with Controls in AutoHotkey 04 ControlFocus, ControlGet, etc.
+https://youtu.be/jS6MAMXIg_o
+
+Automating Programs with Controls in AutoHotkey 05 Get EditControls and Radio Checkboxes
+https://youtu.be/ZsXz1k1RRzs
+
+Automating Programs with Controls in AutoHotkey 06 ControlGet Lists and ComboBox
+https://youtu.be/m2GNKwiCa3Y
+
+Automating Programs with Controls in AutoHotkey 07 ControlClick
+https://youtu.be/95u1dCkgoek
+
+Automating Programs with Controls in AutoHotkey 08 ControlMove
+https://youtu.be/7UepsusozrM
+
+Automating Programs with Controls in AutoHotkey 09 Control Check  Control UnCheck
+https://youtu.be/tLoo707k0yI
+
+Automating Programs with Controls in AutoHotkey 10 Enable, Disable, Hide and Show Controls
+https://youtu.be/c3TGRe1nsQY
+
+Automating Programs with Controls in AutoHotkey 11 Adding, Deleting, Showing & Hiding on Lists
+https://youtu.be/A1UiX_gCuDc
+
+Examples of AutoHotkey AutoHotkey Experts Mason George
+https://youtu.be/cmnk7SLLL5k
+
+How to Automate Programs with Controls in AutoHotkey 02 SimpleSpy Intro
+https://youtu.be/HTP2z5rkeXQ
+
+Look past the Need it now mentality & Develop YOUR skills to be more efficient
+https://youtu.be/gny_Mpwwge8
+
+RegExMatch example in AutoHotkey
+https://youtu.be/fsAadu3-2QI
+Videos 626-650

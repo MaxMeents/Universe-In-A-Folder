@@ -1,0 +1,76 @@
+
+Adding Grid Lines To The Plot  Matplotlib  Python Tutorials
+https://youtu.be/QUca3jOUBhg&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Adjusting the Legend Location  Matplotlib  bbox to anchor Keyword Argument  Python Tutorials
+https://youtu.be/Atg8Omj-CSA&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Adjusting the Legend Location  Matplotlib  Pytplot  Python Tutorials
+https://youtu.be/CSY-sMPAHzQ&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Adjusting The Limits Of The Axis  Matplotlib  Python Tutorials
+https://youtu.be/2YNfGjOmseE&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Adjusting the tick Location and Label  xticks and yticks Function  Matplotlib  Python Tutorials
+https://youtu.be/xcFrvlKbWVU&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Adjusting the TickLabel And GridLines Properties  Matplotlib  Python Tutorials
+https://youtu.be/YqMdQHX7yc4&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Adjusting the Ticks Properties  tick_params Function  Matplotlib  Python Tutorials
+https://youtu.be/OdR_F6_8mcw&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Alpha And Zorder in Plot Function  Keyword Arguments  Matplotlib
+https://youtu.be/aNfU4s6ZQUI&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Changing Legend Looks Or Properties  Matplotlib  Python Tutorials
+https://youtu.be/kGN2J-k8Iuk&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Font Properties in X label and Y label Function  Matplotlib  Python Tutorials
+https://youtu.be/aaRK03Hj_sk&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+FontSize And Color Of The Legend  Matplotlib  Python Tutorials
+https://youtu.be/-fkQ1V6YSL8&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Format String in Plot Function   Matplotlib  Python Tutorials
+https://youtu.be/kwKznZOQRK8&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+How To Add Text To The Plot  Text Function in Matplotlib  Python Tutorials
+https://youtu.be/wp2-dEe2St4&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+How to Give Title To The Legend  Matplotlib  python Tutorials
+https://youtu.be/RtRr_xCpNC8&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+How to Set The Title To The Plot  Matplotlib  Python Tutorials
+https://youtu.be/EljnQcAImpQ&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Keyword Arguments in Plot Function  Matplotlib  Python Tutorials
+https://youtu.be/jiQ5fBSkkwY&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Legend Function in Matplotlib  Pytplot  Python Tutorials
+https://youtu.be/fH_rkdAppTs&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Multiple Legend in Single Plot  Matplotlib  Python Tutorials
+https://youtu.be/2D0TmRGTcBY&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Place The Legend Outside The Plot  Matplotlib  Python Tutorials
+https://youtu.be/oJ81VFFenz0&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Python Programming Tutorials - Introduction to matplotlib
+https://youtu.be/c47ZFbAWaNg&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Python Programming Tutorials - Plot Function  pyplot module  matplotlib
+https://youtu.be/cGA22EEOT9A&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Python Programming Tutorials - Setting The Label To The Axis  Matplotlib
+https://youtu.be/HKXtd_w84f8&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Python Tutorials - Making a Simple Plot Using pyplot module  matplotlib
+https://youtu.be/flwF6aJtmJs&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Show Function In Pyplot  Matplotlib  Python Tutorials
+https://youtu.be/cSO9imZwckU&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Sine and Cosine Graph  Matplotlib  Python Tutorials
+https://youtu.be/GG7qdodCoSY&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+Videos 1-25

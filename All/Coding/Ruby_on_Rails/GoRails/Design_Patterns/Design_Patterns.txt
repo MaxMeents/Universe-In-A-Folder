@@ -1,0 +1,4 @@
+
+How to use Dependency Injection in Ruby
+https://youtu.be/p7olhiearGk&list=PLm8ctt9NhMNWSxleRh58eo3qVi3Ijqhje
+Design Patterns

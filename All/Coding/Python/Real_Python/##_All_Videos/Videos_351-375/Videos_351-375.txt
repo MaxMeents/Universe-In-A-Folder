@@ -1,0 +1,76 @@
+
+A Crazy Python Dictionary Expression !
+https://youtu.be/7TL1x3PO8iQ
+
+Emulating switchcase Statements in Python with Dictionaries
+https://youtu.be/gllUwQnYVww
+
+For Each Loops in Python with enumerate() and range()
+https://youtu.be/URxQGA9f_AA
+
+How to find great Python packages on PyPI, the Python Package Repository
+https://youtu.be/4MLp_iXDpX0
+
+Immutable vs Mutable Objects in Python
+https://youtu.be/p9ppfvHv2Us
+
+Installing Python Packages with pip and virtualenv  venv
+https://youtu.be/UqkT2Ml9beg
+
+Leveraging Python's Implicit return None Statements
+https://youtu.be/IobOuSyfExc
+
+Managing Python Dependencies With Pip and Virtual Environments – Lesson #1
+https://youtu.be/8TiCmhwi8dY
+
+Method Types in Python OOP @classmethod, @staticmethod, and Instance Methods
+https://youtu.be/PNpt7cFjGsM
+
+My Experience at PyCon 2017 in Portland
+https://youtu.be/LjfW0MWm-Z4
+
+My Experience at PyCon Germany 2016 – Day 1
+https://youtu.be/mXr4x6Gk7KY
+
+Optional Arguments in Python With args and kwargs
+https://youtu.be/WcTXxX3vYgY
+
+pep8.org — The Prettiest Way to View the PEP 8 Python Style Guide
+https://youtu.be/Hwckt4J96dI
+
+Pylint Tutorial – How to Write Clean Python
+https://youtu.be/fFY5103p5-c
+
+PyPI vs Warehouse, the Next-Generation Python Package Repository
+https://youtu.be/p-2ORLz11fg
+
+Python Code Review LibreOffice Automation and the Python Standard Library
+https://youtu.be/Fyf0CalFr6I
+
+Python Context Managers and the with Statement (__enter__ & __exit__)
+https://youtu.be/iba-I4CrmyA
+
+Python Data Structures Sets, Frozensets, and Multisets (Bags)
+https://youtu.be/b-K1ujf8u_k
+
+Python Function Argument Unpacking Tutorial ( and  Operators)
+https://youtu.be/YWY4BZi_o28
+
+Python Tutorial List Comprehensions Step-By-Step
+https://youtu.be/1HlyKKiGg-4
+
+Reverse a List in Python Tutorial Three Methods & How-to Demos
+https://youtu.be/sGhY8dQdu4A
+
+String Conversion in Python When to Use __repr__ vs __str__
+https://youtu.be/aIdzBGzaxUo
+
+What Code Should I Put On My GitHubGitLabBitBucket Profile
+https://youtu.be/taABwDmGvuo
+
+What's the meaning of underscores (_ & __) in Python variable names
+https://youtu.be/ALZmCy2u0jQ
+
+Writing automated tests for Python command-line apps and scripts
+https://youtu.be/ApTZib0L2X8
+Videos 351-375

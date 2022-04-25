@@ -1,0 +1,76 @@
+
+Augustina Ragwitz (?auggy?) - ?Start Contributing to Perl, It's Easy
+https://youtu.be/Ok4MBvWcxOI
+
+Buddy Burden (barefootcoder)   MethodSignatures A How-To
+https://youtu.be/St40wCoeb3U
+
+Chris Nehren (apeiron) - Devs and Admins Sitting in a Tree
+https://youtu.be/WcHmvMHQ-Es
+
+D Ruth Bavousett (?druthb?) - ?An Ecological View of a FOSS Community Koha
+https://youtu.be/KHb-g7FEAd0
+
+Dave Rolsky (autarch) - A Date with Perl
+https://youtu.be/G5TnlcNCcBQ
+
+Denise Paolucci ?(rahaeli?) - ?Be Kind to Your Wrists (You'll Miss Them When They're Gone)?
+https://youtu.be/900xWjIEexM
+
+Heath Bair (Candybar) - Perpetuate Perl  How to Run a Perl Workshop or Conference
+https://youtu.be/fYZHVwyWQmQ
+
+Hugh Esco - Continuously Integrating the Camel
+https://youtu.be/aqVS4C8hpNg
+
+Ingy dot Net - Acmeism Hacking in Every Language at Once
+https://youtu.be/iP7Sgf1XbDk
+
+Joe McMahon (pemungkah) - How to Make Your Users Not Want to Murder You
+https://youtu.be/CTzl6Q5icTY
+
+John Lightsey - Auditing Open Source Perl Code for Security
+https://youtu.be/zzGaFyUmbsw
+
+John Napiorkowski (jnap) - Defense Against the Dark Arts A Project Management Survival Guide
+https://youtu.be/D2UxcWR1jFo
+
+Jonathan Worthington (jnthn) - What if Perl 6 Grammars Could Generate
+https://youtu.be/RPQvtfwsilM
+
+Lightning Talks Wednesday
+https://youtu.be/jln7yqVRiIc
+
+Mark Allen (mallen) - Perl, DTrace, and You
+https://youtu.be/KI9R6KESAUg
+
+Matt S Trout (mst) - The Velociraptor of Christmas Future
+https://youtu.be/Oxr-9oGTvPU
+
+Mike Schilli - ?Continuously integrating Perl projects with Vagrant
+https://youtu.be/KxLsgK70tpM
+
+Patrick Michaud (Pm) - Parallelism in Perl 6
+https://youtu.be/eK19vSU9A5Y
+
+Patrick Michaud (Pm) - Perl 6 on the JVM
+https://youtu.be/XgPh5Li3k4g
+
+Ricardo Signes (rjbs) - Perl 5 Postcards from the Edge
+https://youtu.be/UNP90HzJANA
+
+Sinan Unur - Opportunity Cost for Programmers
+https://youtu.be/qBOgk2iZbGE
+
+Stevan Little - Perl - The Detroit of Scripting Languages
+https://youtu.be/7ycpEUQAnp4
+
+Thomas Sibley (trs) - Wrangling rt.cpan.org for your bidding
+https://youtu.be/kJvDOhW701k
+
+Tobias Leich (froggs) - The Perl 5 Slang of Perl 6
+https://youtu.be/oajH8ptK3v0
+
+Yichun Zhang ?(agentzh?) - ?Flame Graphs for Online Performance Profiling?
+https://youtu.be/rxn7HoNrv9A
+Videos 576-600

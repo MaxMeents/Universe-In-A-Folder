@@ -1,0 +1,76 @@
+
+#188 Async for the Pythonic web with Sanic
+https://youtu.be/tg4aT-emxXc
+
+#189 War Stories of the Developer Evangelists
+https://youtu.be/O_nxGQUD7cw
+
+#190 Teaching Django
+https://youtu.be/vect8FZ-OLY
+
+#191 Python's journey at Microsoft
+https://youtu.be/KAooZCC3aFI
+
+#192 Python Year in Review 2018 Edition
+https://youtu.be/CqcNQMg1d_w
+
+#193 Data Science Year in Review 2018 Edition
+https://youtu.be/F92ckE5cVRM
+
+#194 Learning (and teaching) Python in a vacuum
+https://youtu.be/JqLkCIJCz-I
+
+#195 Teaching Python at Apple
+https://youtu.be/702RUMKxOAw
+
+#196 Datalore Hosted smart notebooks
+https://youtu.be/dmmP0Pcf36E
+
+#197 Modern Python Standard Library Cookbook
+https://youtu.be/dWas1kOcNaw
+
+#198 Catching up with the Anaconda distribution
+https://youtu.be/Vkuo6eL5bO0
+
+#199 Automate all the things with Python at Zapier
+https://youtu.be/xJDlxChqvcQ
+
+Consuming HTTP Services in Python course introduction
+https://youtu.be/I3rVmlqSH2I
+
+Course Trailer #100DaysOfCode in Python
+https://youtu.be/HvNN8yrhe70
+
+Course Trailer MongoDB for Developers with Python
+https://youtu.be/vU4GBlgpjDo
+
+Course Trailer Using and Mastering Cookiecutter
+https://youtu.be/96fpONwXjGA
+
+Eve Building RESTful APIs with MongoDB and Flask course introduction
+https://youtu.be/cBcgXsB9ruI
+
+Introduction to Ansible course summary
+https://youtu.be/R1YUIKok6hw
+
+Managing Python Dependencies @ Talk Python course introduction
+https://youtu.be/ESGTmcU-5z0
+
+Mastering PyCharm course introduction
+https://youtu.be/ygagqy6duj8
+
+MongoDB Quickstart Course Introduction (Free)
+https://youtu.be/Qs6jRTTSdy0
+
+Python 3, an Illustrated Tour course introduction
+https://youtu.be/thYNl0MoK20
+
+Python for Entrepreneurs course introduction
+https://youtu.be/eQVv2pbneH4
+
+Python Jumpstart by Building 10 Apps Introduction
+https://youtu.be/pMlsks0gCvI
+
+RESTful and HTTP APIs in Pyramid course introduction
+https://youtu.be/_8_QWePpHKY
+Videos 151-175

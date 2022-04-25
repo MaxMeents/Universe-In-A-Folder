@@ -1,0 +1,25 @@
+
+Dive into Spark Streaming by Gerard Maas
+https://youtu.be/mgvYg-0OXkU&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+Dockerism at Atlassian A million deaths by Nicola Paolucci
+https://youtu.be/YY78fYvihQE&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+Getting started with Spring Cloud by Josh Long
+https://youtu.be/SFDYdslOvu8&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+IOT, timeseries and prediction with Android, Cassandra and Spark by Amira Lakhal
+https://youtu.be/1DV9Kdec0-A&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+Open to a Shift. Belgian e-government’s journey to PaaS by Jef Verelst
+https://youtu.be/EBsX2IcM2sA&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+OrientDB - the 2nd generation of (MultiModel) NoSQL by Luigi Dell'Aquila
+https://youtu.be/kpLqfFGubKM&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+Six principles for building fault tolerant microservices on the JVM by Christopher Batey
+https://youtu.be/dKWNZnuZhd0&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+
+The Twelve Factor app Best Practices for Java Deployment by Joe Kutner
+https://youtu.be/94PxlbuizCU&list=PLRsbF2sD7JVo_VOcYUPd5xm9m78F8XyPX
+Top Talks 'Cloud & BigData' - Devoxx BE 2015

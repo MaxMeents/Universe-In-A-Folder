@@ -1,0 +1,22 @@
+
+Godot 3 Engine - Platformer Game Tutorial P7 - Menu UI and Signals
+https://youtu.be/sBuJRHvk5sY&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+
+Godot Engine 3 - Platform Game Tutorial
+https://youtu.be/wETY5_9kFtA&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+
+Godot Engine 3 - Platformer Game Tutorial P2 - Tiles and Animated Sprites
+https://youtu.be/BfQGXtlmE7k&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+
+Godot Engine 3 - Platformer Game Tutorial P3 - Smooth Character Movement
+https://youtu.be/ZsP7JDrRTJY&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+
+Godot Engine 3 - Platformer Game Tutorial P4 - Moving Between Levels
+https://youtu.be/KzLfi0r4Muw&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+
+Godot Engine 3 - Platformer Game Tutorial P5 - Autotiles
+https://youtu.be/uV5WKocIycY&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+
+Godot Engine 3 - Platformer Game Tutorial P6 - Parallax Background
+https://youtu.be/K-eM2ZLI1q8&list=PL9FzW-m48fn2jlBu_0DRh7PvAt-GULEmd
+Godot 3 2D Platform Game

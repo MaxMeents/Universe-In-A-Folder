@@ -1,0 +1,61 @@
+
+After Effects for iOS Developers Dynamic Content in Animations
+https://youtu.be/2HhgLir6Jz0&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Add Game Animations to your App
+https://youtu.be/TtVbOC3geiY&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Amazing Animations with Lottie and SwiftUI
+https://youtu.be/Ot-LdjivqEY&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Animations with Auto Layout 1524 🎄
+https://youtu.be/Di6tGjYAl2M&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Awesome Interactive Card View Animation with UIPropertyAnimator
+https://youtu.be/L-f1KSPKm4I&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Blurry Pop Up Animation with UIVisualEffects (iOS Blur Effect)
+https://youtu.be/CXvOS6hYADc&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Build an Interactive 3D Carousel with Core Animation
+https://youtu.be/jCOAyIU5s90&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Cool Animated Checkbox Control 0824 🎄
+https://youtu.be/juMWo5wniKg&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Cool Animations with Core Animation - Shaking Textfield & Pulse Animation
+https://youtu.be/DNr5D7DSMr8&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Create a Circular Transition Animation (Custom UIViewController Transitions)
+https://youtu.be/B9sH_VxPPo4&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Create a Counting UILabel Animation 0424  🎄
+https://youtu.be/Wz6-IQV_qDw&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Create Advanced Interactive Animations with UIKit
+https://youtu.be/Yrb78U3V16g&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Create Custom Segue Transition Animations 1124 🎄
+https://youtu.be/jn-93qElOT4&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Create the iOS Home Screen Parallax Motion Effect (Animation)
+https://youtu.be/-BiGO7CJZ7Q&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Insane Animations with AfterEffects and Lottie
+https://youtu.be/ESjFEaZx7UI&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Interactive Animations with After Effects and Lottie
+https://youtu.be/QyL-jp9bFdM&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Interactive Core Graphics with PaintCode
+https://youtu.be/5KXtbkP49Z8&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Material Design Onboarding with Cool Animations
+https://youtu.be/G5UkS4Mrepo&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Simple and Cool UIView Animations
+https://youtu.be/FpTY04efWC0&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+
+iOS Swift Tutorial Use Segues for Visual Transitions between View Controllers 1024 🎄
+https://youtu.be/OZix7etsd8g&list=PLY1P2_piiWEaaeO49ria36p6lQ1uk0q_F
+Animation

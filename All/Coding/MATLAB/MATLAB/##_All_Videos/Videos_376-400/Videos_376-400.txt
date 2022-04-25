@@ -1,0 +1,76 @@
+
+Deep Learning with Raspberry Pi and MATLAB
+https://youtu.be/i5XfCIdVStY
+
+Deploy Motor Control Algorithms to FPGAs – Getting Started
+https://youtu.be/PoxU_IBfkcQ
+
+Design Lidar-Based SLAM Using Unreal Engine Simulation Environment
+https://youtu.be/_v3LXzZCMPs
+
+Efficient Design with SerDes and Export IBIS-AMI Model
+https://youtu.be/-VE4DwnURYY
+
+Generate Floating-Point HDL for FPGA and ASIC Hardware
+https://youtu.be/NX6yiRjy5Cc
+
+Getting Started with Stateflow
+https://youtu.be/cXnT5-zY3YI
+
+HardwareSoftware Co-Design Workflow  Developing Radio Applications for RFSoC, Part 1
+https://youtu.be/y6TATGhUp8M
+
+HardwareSoftware Partitioning  Developing Radio Applications for RFSoC, Part 3
+https://youtu.be/6yQQx9Eg_cU
+
+How to Implement Units of Measurement in MATLAB
+https://youtu.be/GXcncCT1k-g
+
+How to Perform Curve Fitting Using the Curve Fitting App in MATLAB
+https://youtu.be/9ikmTD0bpOc
+
+How to Perform Data Labeling for Camera and Lidar Sensor Data
+https://youtu.be/kxtBvoitnbk
+
+Integrating RoadRunner with MATLAB and Simulink
+https://youtu.be/oybShi3Eiw0
+
+MATLAB Grader Overview
+https://youtu.be/h9JJiF8TXA0
+
+Modeling and Simulation in Drug Development with SimBiology
+https://youtu.be/kttsyBo7Dfg
+
+Motor Control, Part 5 Space Vector Modulation
+https://youtu.be/Gj7qAlsq_m8
+
+Multivariate Analysis for Process Monitoring  Fault Detection and Diagnosis in Process Plants pt. 1
+https://youtu.be/4kNBxqG9jF4
+
+Phase I - Modeling Steady State Conditions  Fault Detection and Diagnosis in Process Plants pt. 2
+https://youtu.be/hBXUtzwY4c4
+
+Phase II Exploiting the Model    Fault Detection and Diagnosis in Process Plants pt. 3
+https://youtu.be/PT5v9bpp4-A
+
+Sensor Simulation and Virtual Scene Design with the Driving Scenario Designer App, Part 1
+https://youtu.be/tHXIwijaERg
+
+Solve Symbolic Equations Using Live Editor Tasks
+https://youtu.be/NPnP93F9txk
+
+System Specification and Design  Developing Radio Applications for RFSoC, Part 2
+https://youtu.be/jIY8fPCATAU
+
+Using MATLAB with Python  Top Questions Answered
+https://youtu.be/RlMgQDvvAFQ
+
+Using Subfunctions and Nested Functions  Managing Code in MATLAB
+https://youtu.be/AZGPWg7NNrI
+
+What Is a CAN Bus
+https://youtu.be/KV41WhjGgc0
+
+What Is MATLAB Compiler
+https://youtu.be/Jd86qH4EGks
+Videos 376-400

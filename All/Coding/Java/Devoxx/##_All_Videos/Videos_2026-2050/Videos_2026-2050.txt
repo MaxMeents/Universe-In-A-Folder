@@ -1,0 +1,76 @@
+
+Angular 4 for Java Developers by Yakov Fain
+https://youtu.be/k8r76d8QzXs
+
+Architecting for Failures in Microservices by Bhakti Mehta
+https://youtu.be/GhPPaFtIcAk
+
+Building at Uber Scale by Ryan Sonnenberg
+https://youtu.be/bSojCYTTz-A
+
+Deep Learning in Production by Adam Gibson
+https://youtu.be/olJjvuPqsR4
+
+Develop microservices faster with an open source platform by James Strachan
+https://youtu.be/QU60XTe4LoM
+
+Docker Swarm or Kubernetes – Pick your framework! by Arun Gupta
+https://youtu.be/nqeqmVVOlrY
+
+Functional Programming with Java 8 by Venkat Subramaniam
+https://youtu.be/15X0qFtBqiQ
+
+gRPC 101 for Java Developers by Ray Tsang
+https://youtu.be/DU-q5kOf2Rc
+
+How to create a new JVM language by Oleg Šelajev
+https://youtu.be/8Lt8au76emA
+
+Java EE 8 by Linda De Michiel
+https://youtu.be/OXsdKzBIUzU
+
+JUnit 5 by Marc Philipp
+https://youtu.be/0qI6_NKFQsY
+
+Let’s Get Lazy Explore the Real Power of Streams by Venkat Subramaniam
+https://youtu.be/F73kB4XZQ4I
+
+Managing State with RxJava by Jake Wharton
+https://youtu.be/0IKHxjkgop4
+
+Massive Parallelism with GPUs in Java by Adam Roberts
+https://youtu.be/CIjdipU66qw
+
+Neural Networks and Brains by Raghav Subramaniam
+https://youtu.be/9UHpuSVTF08
+
+Operational Service Views - Reactive Web Programming with Baratine by Sean Wiley
+https://youtu.be/ksnPqv57RpI
+
+Project Hummingbird by Joonas Lehtinen
+https://youtu.be/WCBfTu_cjxI
+
+Reactive Spring by Josh Long
+https://youtu.be/zVNIZXf4BG8
+
+The Checker Framework In Action By Werner Dietl and  Michael Ernst
+https://youtu.be/-1jjJf5C-Fc
+
+The Life and Death of an Android Activity by Kristin Marsicano
+https://youtu.be/sNL2z0hxwGM
+
+The Monster Coming Over The Hill by Sarah Saunders
+https://youtu.be/h0xmbsHLqEc
+
+The Verification of a Distributed System by Caitie McCaffrey
+https://youtu.be/ZMbqbXxRthE
+
+Three years of breaking things to make them better by Donny Nadolny
+https://youtu.be/bEGinWILidY
+
+What can you learn from thousands of source files in Github  by Guillaume Laforge
+https://youtu.be/Aw4sgZ8kIeg
+
+What's new in JHipsterLand by Matt Raible
+https://youtu.be/N5bN-wvLZMg
+Videos 2026-2050

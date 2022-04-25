@@ -1,0 +1,49 @@
+
+How To Use & Understand Ruby Documentation
+https://youtu.be/on9yGrw3xg0&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+How To Use Multi-Dimensional Arrays in Ruby
+https://youtu.be/v63G4pJTqlg&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+How to Use the Faraday Gem
+https://youtu.be/b_0eo9Ko60Y&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Nokogiri Tutorial - Learn How to Scrape Websites
+https://youtu.be/1oUieaO3sxY&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Private video
+https://youtu.be/5Nu3GrpWLFY&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Constants Explained
+https://youtu.be/1Sx9R-xw9zM&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Fundamentals - Everything is an Object
+https://youtu.be/OUSVy2UhwT0&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Network Programming Build Your Own Servers & Clients
+https://youtu.be/Mae30hyG7qQ&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Procs & Lambdas
+https://youtu.be/OR9JrgPklok&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Random Numbers
+https://youtu.be/sVHWzNF3aws&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby TDD exercise
+https://youtu.be/CYo8MbOIRp8&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Time Classes (Tutorial)
+https://youtu.be/mRu8guNMz2A&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Tutorial - 7 Ways to Create an Array
+https://youtu.be/8DJl6pMGScI&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Tutorial - Flatten Array with a Stack
+https://youtu.be/gSTdMQZxTHU&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Tutorial - Learn to Use the Set Class
+https://youtu.be/IHKnFqm5GlE&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+
+Ruby Tutorial - Understanding & Using Threads
+https://youtu.be/EfJudL9nWuc&list=PL6Eq_d2HYExcYaz8AdDaKs-SqhV6XDhg_
+Ruby Programming Tutorials by Jesus Castello

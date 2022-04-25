@@ -1,0 +1,76 @@
+
+#107 Automators' Podcast 7 tips to increase the likelihood your scripts work on multiple computers
+https://youtu.be/l8Kj25c-72k&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#73 AutoHotkey Podcast  Elgato Stream deck alternative @ fraction of the price
+https://youtu.be/spyUi5rNGac&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#79 AutoHotkey Podcast  main benefits of Robotics Process Automation  RPA
+https://youtu.be/SVL056qGzcU&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#82 AutoHotkey Podcast  Complexity and Coding
+https://youtu.be/WdLRXV31M9U&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#85 AutoHotkey Podcast Working with large RPA Vendors that don't know what they're doing
+https://youtu.be/SeALfHMQ3zI&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#86 AutoHotkey Podcast Bring back Personalization to computers
+https://youtu.be/9r5sLmD7RX0&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#87 AutoHotkey podcast  BlueStacks 3 swiping (the final cut)
+https://youtu.be/RszVnp7Scsc&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#88 AutoHotkey podcast How to use shell hooks with AHK
+https://youtu.be/ysZbOzuBb1Q&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#89 AutoHotkey Podcast Automating texting with PushBullet
+https://youtu.be/AMMoeuZfbyo&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#90 the-Automators Podcast What To Do Before You Write One Line Of Code
+https://youtu.be/VYwaqGPz-no&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#91-Automator's Podcast How long should your variable name be
+https://youtu.be/fvALn0797Z8&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#92 Automators' Podcast  Selecting a Windows Automation Tool
+https://youtu.be/Hu8j8PHGJ_A&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#93 the-Automator's Podcast 10 tips how to hire someone to automate your work
+https://youtu.be/9QmDoVrzxdE&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#94 the-Automators' Podcast 7 productivity tips for developers
+https://youtu.be/d6EVmKuR8wU&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+#95 the-Automators' Podcast We wish we'd known before we learned to program
+https://youtu.be/r6059hkpLho&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+84 AutoHotkey Podcast  How AI GPT-3 is affecting our world
+https://youtu.be/16GDAxcIYXc&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the Automator's Podcast #100 Why macros aren't so popular anymore
+https://youtu.be/uFH60vrfSYE&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the Automators' Podcast #99  5 steps a process goes through before being automated.
+https://youtu.be/aaYo76uWpO8&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #101  Why people won't pay for Automation code
+https://youtu.be/ip7Gvh1xJdk&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #102  how to hire the right Automator & minimize risk
+https://youtu.be/m2P70lQwdtU&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #103  6 things to never include in your code
+https://youtu.be/_7SNj6W1IDM&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #104  7 things to be sure you include in your code
+https://youtu.be/X2YP7i2tlvE&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #96 7 tips to push forward and get you off the plateau
+https://youtu.be/i0nMRcIn4cU&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #97 7 tips to getting help with your code
+https://youtu.be/i2jEbQY188I&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+
+the-Automators' Podcast #98 6 simple steps to automating your process
+https://youtu.be/xknLv1df0lk&list=PL3JprvrxlW26zhtqE1m2nu3Bcmshk17l6
+Videos 101-125

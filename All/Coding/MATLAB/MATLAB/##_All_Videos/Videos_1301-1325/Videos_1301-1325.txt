@@ -1,0 +1,76 @@
+
+Creating GARCH Models Using Econometric Modeler App
+https://youtu.be/cScPXYYp510
+
+Deep Learning Inference for Object Detection on Raspberry Pi
+https://youtu.be/vYK5dwNqNB4
+
+Deep Learning on an Intel Processor with MKL-DNN
+https://youtu.be/yoduWc-jbZg
+
+Desktop to Real-Time Testing with EMS Hardware - Microgrid System Development and Analysis, Part 2
+https://youtu.be/NktcUMPp9g8
+
+Embedded Coder Data, Function, and File Customization - Coder Summit 2018
+https://youtu.be/dacxSb_6Bgc
+
+Function Approximation with an Optimal Lookup Table
+https://youtu.be/LEuItEM9a40
+
+Generate CUDA Code for a Semantic Segmentation Algorithm
+https://youtu.be/VDdVfVZNG_M
+
+Getting started with Simulink Coder Support Package for BBC microbit, Part 1
+https://youtu.be/XURbzl7pIpI
+
+Getting started with Simulink Coder Support Package for BBC microbit, Part 2
+https://youtu.be/rK32TXbdkKg
+
+Getting started with Simulink Coder Support Package for BBC microbit, Part 3
+https://youtu.be/g2tUzpII7ww
+
+How to Build a Heart Rate Detector Using Arduino and MATLAB
+https://youtu.be/ioPOZ0x7eYA
+
+How to Generate Production Code in 5 Minutes - Coder Summit 2018
+https://youtu.be/fRvwDn-9mZk
+
+How to Model and Simulate Automotive Systems Using Powertrain Blockset
+https://youtu.be/O3loJ0OSRGI
+
+Introduction to Microgrids -  Microgrid System Development and Analysis, Part 1
+https://youtu.be/4D2HzRBDg14
+
+Model and Simulate Diagnostic Medical Devices with SimEvents
+https://youtu.be/ToBxrVXgl3I
+
+Optimizing Code Made Easy Using Embedded Coder - Coder Summit 2018
+https://youtu.be/QUiN5_6K4Do
+
+Pedestrian Detection on a NVIDIA GPU with TensorRT
+https://youtu.be/rOwvJeIBoas
+
+PID Control of a Brushless DC Motor
+https://youtu.be/4ZemeZMgYvM
+
+Quantization and Precision Loss Diagnostics for Embedded Types
+https://youtu.be/brvowGFoArw
+
+Simulating Mobile Robots with MATLAB and Simulink
+https://youtu.be/7p2McZCKvus
+
+Teaching Computation and Quantitative Thinking with MATLAB
+https://youtu.be/s8IEssyeFSs
+
+Understanding Model Predictive Control, Part 1 Why Use MPC
+https://youtu.be/8U0xiOkDcmw
+
+What is Partial Differential Equation Toolbox - Partial Differential Equation Toolbox Overview
+https://youtu.be/e1VEK_osdtg
+
+What is Signal Processing Toolbox - Signal Processing Toolbox Overview
+https://youtu.be/xh5TdexFcLc
+
+What is Text Analytics Toolbox - Text Analytics Toolbox Overview
+https://youtu.be/u7uwH-iyZEs
+Videos 1301-1325

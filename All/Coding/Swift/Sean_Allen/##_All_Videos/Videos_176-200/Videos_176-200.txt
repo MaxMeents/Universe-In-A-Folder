@@ -1,0 +1,73 @@
+
+37 Tips for Jr. Software Developers
+https://youtu.be/jZ_BzV0DA58
+
+5 Remote Developer Mistakes
+https://youtu.be/LVSNV8ulrCg
+
+5 Soft Skills for Software Engineers - ft. Mayuko
+https://youtu.be/XHG6OBw_ig4
+
+An App Idea Gold Mine
+https://youtu.be/lqsi03z_7L8
+
+Apple's Human Interface Guidelines Overview
+https://youtu.be/1oi5YVzxqsE
+
+Course Preview - UISceneDelegate & No Storyboard Project Setup
+https://youtu.be/OfOcKVkQw5E
+
+Course Sample - The Project Brief
+https://youtu.be/COmuw5-XRkE
+
+Developers SUCK at Marketing Themselves - Let's Fix It
+https://youtu.be/1WcY4aT6un8
+
+How I learned SwiftUI - Design+Code Course Review
+https://youtu.be/i7o76KejmQE
+
+How Much Do Software Developers Make Hired's State of Salaries Report 2019
+https://youtu.be/Y3CI1gkGR6o
+
+How to Use Child ViewControllers (Container Views) in Swift - Programmatic & Storyboard
+https://youtu.be/B5-1_aR20rE
+
+iOS Developer Portfolio Reviews
+https://youtu.be/6cL3jxbvGFA
+
+May Live Stream - iOS Dev Discussion & Q&A
+https://youtu.be/kKzVKUBy9fo
+
+Mobile App Landing Page Reviews - Viewer Submitted
+https://youtu.be/foHRoQvaZkU
+
+My Work Project - Monitor Your Asthma with Aluna
+https://youtu.be/BWVL4bTfRz8
+
+Swift - Static Properties & Methods Explained
+https://youtu.be/s2E5hVxQAZQ
+
+Swift - viewDidLoad() Best Practice
+https://youtu.be/fD2s4yOkEl8
+
+Swift Access Control Explained
+https://youtu.be/RFGEzkBa834
+
+Swift Tutorial - UIViewPropertyAnimator - Control Your Animations
+https://youtu.be/cHwdvH3cStE
+
+Take Home Project Course Launch
+https://youtu.be/MSIe2y6Fee8
+
+UIStackView Tutorial - Programmatic - Xcode 11
+https://youtu.be/_DADWRicrGU
+
+UITableView Tutorial w Custom Cells - Programmatic - Swift 5 - Xcode 11
+https://youtu.be/bXHinfFMkFw
+
+WWDC 2019 Keynote Live Commentary Highlights - iOS Developer
+https://youtu.be/f7Ubl_2aIe4
+
+Xcode 11 - Create a New Project - No Storyboard
+https://youtu.be/Htn4h51BQsk
+Videos 176-200

@@ -1,0 +1,76 @@
+
+Classes and Objects in python  OOP in python  Python Classes and Objects
+https://youtu.be/zm6yWd0SX8Y
+
+Decorators in Python  Python Decorators  Python tutorial for beginners  Latest python Tutorial
+https://youtu.be/lgEMUeWxDIo
+
+File Handling in Python  Python File Handling  Read & Write to Files  Latest Python Tutorial
+https://youtu.be/Nu8NoT-5wXE
+
+Generators in Python  Python Generators  Latest Python Tutorial  Advance Python
+https://youtu.be/GvQgunTwScM
+
+How Python is different from other languages  Benefits of Python Over Other Programming Languages
+https://youtu.be/1t39qV0PNRs
+
+How to Install PyCharm  PyCharm installation   Installing and Setting Up PyCharm IDE
+https://youtu.be/oaYXfFUwMHw
+
+How to Install Python  Python Installation
+https://youtu.be/M2fIHIBNuiY
+
+How to use Indentation in python  Python Indentation  Indentation in Python  Indentation
+https://youtu.be/chBMWlkcSVI
+
+How to write comments in Python  Python Comments  Python Documentation
+https://youtu.be/SFbevNtkWsU
+
+How to write program in Python idle  Python Idle  The Python Shell
+https://youtu.be/muVQvmkESe8
+
+How to write Python program in Command Prompt  My first Python program in cmd
+https://youtu.be/R16-ajCT7a8
+
+How to write Python program in PyCharm  PyCharm tutorial  PyCharm first program  py file
+https://youtu.be/7AyH97iG62E
+
+How to write Statements in Python  Python Statements  Statements in Python
+https://youtu.be/BCladILtDx0
+
+Introduction of Python  Python Overview  Python Introduction  Overview of python
+https://youtu.be/pAH6rK9iSrM
+
+Iterators in Python  Python Iterators  Latest Python Tutorial  Advance Python
+https://youtu.be/pJU3jfrBal4
+
+Lambda function in python  Python Lambda Map Filter Reduce Functions  map  FIlter  Reduce
+https://youtu.be/xn7KUSCn79A
+
+Latest Java Interview Questions & Answers  Java Interview Preparation  Advance Java interview
+https://youtu.be/bmmDYDE_N5A
+
+Python if else statement  python if else elif tutorial  Python nested if else statements
+https://youtu.be/b4DtGBAp7KY
+
+Python Inheritance  Super & Sub Classes  Multiple Inheritance  Python Tutorial for Beginners
+https://youtu.be/BIWQcxln2Go
+
+Urllib  Python Urllib  Urllib Request  Python Internet Access  Python Tutorial for Beginners
+https://youtu.be/BCNYrgQsgHc
+
+What are Keywords in python  python keywords  keywords in python 
+https://youtu.be/6IbCPPKGVLA
+
+While Loop in python  for Loop in python  Python Loops  Python tutorial for beginners
+https://youtu.be/0GoHdTz3low
+
+Why Python is in demand   Python demand in future
+https://youtu.be/CBf4EINZBYc
+
+Why Python is Scripting Language  Python is scripting language or programming language
+https://youtu.be/bvC9XlMt_oA
+
+__name__ == __main__ in python  if __name__ =='__main__'  Python tutorial for beginners
+https://youtu.be/ntXfJDobSfY
+Videos 76-100

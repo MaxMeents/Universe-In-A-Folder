@@ -1,0 +1,61 @@
+
+Python Basics Import 
+https://youtu.be/hg0XGM89IzA&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Print Sep Default
+https://youtu.be/lDzckGRkBZc&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Sqlite Database Viewer
+https://youtu.be/uS-VubfqaAA&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Break and Continue To Control Loop
+https://youtu.be/2LVse5FMfVk&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Can You Replicate the Code
+https://youtu.be/b3ATq2sXrqI&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Dictionary Print Formatting  Fstring Formatting
+https://youtu.be/_O_HHQGc2RA&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial For Loop Control
+https://youtu.be/uHfC5Qu0Nms&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Handle Import Circular Error
+https://youtu.be/ip6uuM_kix4&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial How Does This Work
+https://youtu.be/NdsLokw-C4U&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial How to Handle Unlimited Number Of Variables
+https://youtu.be/paD8X1426i0&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial How to Make a Copy Of A List
+https://youtu.be/s-iega_17-I&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial How to Solve A Programming Problem
+https://youtu.be/l1rdc2aNeBs&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial How to Solve a Variable Scope Problem
+https://youtu.be/8Rgmb5m78Us&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Pip Install With Multiple Versions of Python
+https://youtu.be/0qpcz7k61aE&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Python Trick Partial Splat Unpacking
+https://youtu.be/kaWhg7FWXMs&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Quotes and Apostrophe in a String
+https://youtu.be/vdLRKi-7VCU&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Repeat Pattern With One For Loop
+https://youtu.be/s7xZ8ugvYhU&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Tutorial Share Challenge Help Someone Else
+https://youtu.be/8U4P1gEPW28&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics Unpack Dictionary with Items Method
+https://youtu.be/AJ9mi2pk7jw&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+
+Python Basics What is __main__ 
+https://youtu.be/veRoDHVaAeg&list=PLaYT64KWZAEMqrJTtR6Ymk3NXGKYBhSRT
+Videos 26-45

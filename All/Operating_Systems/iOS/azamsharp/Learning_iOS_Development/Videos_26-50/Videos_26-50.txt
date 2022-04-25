@@ -1,0 +1,46 @@
+
+#1 Core Data Hello Core Data
+https://youtu.be/YfFQXuFHSf8&list=PL1E1FF3F73A3279CF
+
+#2 Core Data Setting up the Core Data Stack
+https://youtu.be/Sv6pANLl4LA&list=PL1E1FF3F73A3279CF
+
+#94 Creating Messages Extension in iOS 10 Part 1
+https://youtu.be/TkBUKHxjIcw&list=PL1E1FF3F73A3279CF
+
+#94 Supplementary Views
+https://youtu.be/EyEiuQdxils&list=PL1E1FF3F73A3279CF
+
+#95 Creating Messages Extension in iOS 10 Part 2
+https://youtu.be/-LaskEo-y9I&list=PL1E1FF3F73A3279CF
+
+#96 Creating Messages Extension in iOS 10 Part 3 - Compact and Expanded Modes
+https://youtu.be/st1-fEHHVto&list=PL1E1FF3F73A3279CF
+
+#97 Creating and Embedding Framework in iOS Application
+https://youtu.be/i7Yq2B00u9g&list=PL1E1FF3F73A3279CF
+
+#98 Messages Extension in iOS 10 Part 4 - Passing Information between Sender and Receiver
+https://youtu.be/pe-J7OsQHhI&list=PL1E1FF3F73A3279CF
+
+#99 Swift 3  Function Parameters Label
+https://youtu.be/pyTnvJNIF_E&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 79 (UIView Transitions)
+https://youtu.be/dfSu-qvn0aY&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 80 (Live Rendering iOS 8)
+https://youtu.be/qQhMkoxSV64&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 81 (Autolayouts)
+https://youtu.be/AdExpvw9n9Y&list=PL1E1FF3F73A3279CF
+
+Private video
+https://youtu.be/EH05-nuBGpg&list=PL1E1FF3F73A3279CF
+
+Swift 2 0 Quickly
+https://youtu.be/8AAzyakFk-Q&list=PL1E1FF3F73A3279CF
+
+Understanding Swift 2.0 Availability API
+https://youtu.be/MhhCMfNWIkw&list=PL1E1FF3F73A3279CF
+Videos 26-50

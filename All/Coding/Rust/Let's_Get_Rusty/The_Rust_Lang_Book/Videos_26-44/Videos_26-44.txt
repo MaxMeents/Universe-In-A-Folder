@@ -1,0 +1,58 @@
+
+Advanced Function and Closures in Rust
+https://youtu.be/rnxutl7t1hI&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Advanced Traits in Rust
+https://youtu.be/RDxz94tuxqM&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Advanced Types in Rust
+https://youtu.be/aI1oIFqh44Y&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Building a Web Server in Rust - Part 1
+https://youtu.be/BHxmWTVFWxQ&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Building a Web Server in Rust - Part 2
+https://youtu.be/1AamFJGAE8E&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Building a Web Server in Rust - Part 3
+https://youtu.be/qjx8vutWaUQ&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Concurrency in Rust - Creating Threads
+https://youtu.be/06WcsNPUNC8&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Concurrency in Rust - Message Passing
+https://youtu.be/FE1BkKqYCGU&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Concurrency in Rust - Sharing State
+https://youtu.be/mupwF9jbVZ4&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Declarative Macros in Rust
+https://youtu.be/KsJHlqULpO4&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Object Oriented Programming in Rust
+https://youtu.be/UGDa0P2PXrY&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Pattern Syntax in Rust
+https://youtu.be/8_HPKGZGM5I&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Patterns and Matching
+https://youtu.be/NzeQbiiqhgo&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Procedural Macros in Rust
+https://youtu.be/crWfcA064is&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Smart Pointers in Rust - Interior Mutability
+https://youtu.be/77aRH6YBKyY&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Smart Pointers in Rust - Reference Cycles
+https://youtu.be/pIVZRDFAUyc&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+State Design Pattern in Rust
+https://youtu.be/VFmPwvhubow&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Using Trait Objects in Rust
+https://youtu.be/ReBmm0eJg6g&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Writing Unsafe Rust
+https://youtu.be/9E2v8pCUc48&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+Videos 26-44

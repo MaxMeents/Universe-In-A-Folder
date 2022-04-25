@@ -1,0 +1,76 @@
+
+Adding Price to earnings - Using Programming for Fundamental Investing Part 6
+https://youtu.be/qKUhSoOF7RM
+
+All Russell 3000 symbols p.2 - Using Programming for Fundamental Investing Part 8
+https://youtu.be/2h99_0us1wA
+
+Charting Stocks and Forex in python Part 20 - How to add RSI to matplotlib graph part 2
+https://youtu.be/kATm9miAlXo
+
+Charting Stocks and Forex Part 21 - How to calculate exponential moving average in python
+https://youtu.be/t_JXXT7VgeQ
+
+Charting Stocks and Forex Part 22 - How to calculate MACD in python
+https://youtu.be/vwvvWmNgAGs
+
+Charting Stocks and Forex Part 23 - How to add MACD to matplotlib graph
+https://youtu.be/sFv-gp4BZNU
+
+Charting Stocks and Forex Part 24 - Enhancing our RSI on our matplotlib stock graph
+https://youtu.be/W9Qxm29qTX0
+
+Charting Stocks Part 25 - Customizing RSI, candlestick, MACD, and Volume matplotlib chart
+https://youtu.be/tzBIX6gdDMg
+
+Charting Stocks Part 26 - Using Yahoo's API for our stock price technical analysis in matplotlib
+https://youtu.be/u83WllUCLOc
+
+Completing our basic stock screener - Using Programming for Fundamental Investing Part 10
+https://youtu.be/LC7RzzBXgdw
+
+Getting All Russell 3000 ticker symbols - Using Programming for Fundamental Investing Part 7
+https://youtu.be/cBLSS0Xs3xc
+
+Getting Company Information - Using Programming for Fundamental Investing Part 2
+https://youtu.be/YLT2oyIgUHY
+
+Honda S2000 Lap Around Texas World Speedway
+https://youtu.be/ErqMi5YeIog
+
+How to target keywords - Search Engine Optimization Tutorial part 7
+https://youtu.be/WxS5d8atiXM
+
+How to use the Twitter API v1.1 with Python to stream tweets
+https://youtu.be/pUUxmvvl2FE
+
+Intro to SEO - Search Engine Optimization Tutorial part 1
+https://youtu.be/5E3e81AuOFE
+
+Meta Tags and SEO - Search Engine Optimization Tutorial part 3
+https://youtu.be/B6Lu1seKJOs
+
+More stock screening - Using Programming for Fundamental Investing Part 9
+https://youtu.be/RJYCWtQ6OIw
+
+Price to Book Ratio Example - Using Programming for Fundamental Investing Part 3
+https://youtu.be/K2zyPby4034
+
+Screening for PEG ratio - Using Programming for Fundamental Investing Part 5
+https://youtu.be/wu_nUppNQhw
+
+Stock screener with Price to Book - Using Programming for Fundamental Investing Part 4
+https://youtu.be/xMy4lttlvFk
+
+Submitting a sitemap and getting your site indexed - Search Engine Optimization Tutorial part 2
+https://youtu.be/XrCRJVyKhKI
+
+The most open track day ever!
+https://youtu.be/026FhTz6uIM
+
+Using Programming for Fundamental Investing - Intro and Python
+https://youtu.be/fBEMfugH3OA
+
+Website structure - Search Engine Optimization Tutorial part 8
+https://youtu.be/sb2ramn0wow
+Videos 1126-1150

@@ -1,0 +1,49 @@
+
+Copy Paste Component Values (Quick Unity Tip)
+https://youtu.be/WKBapRPwbBM&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Game Object Icons in Unity (Quick Unity Tip)
+https://youtu.be/3X1VmoyiJJ4&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Issues with Dividing Ints (Quick Unity Tip)
+https://youtu.be/0Ho3R7RBBiA&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Clone a Template Transform (Unity Tutorial)
+https://youtu.be/8XsxRd03xiQ&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Console Log Line Amount (Unity Tutorial)
+https://youtu.be/LRw1ujZvznA&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Draw Line Gizmos for Testing (Unity Tutorial)
+https://youtu.be/15n-ilpYqME&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Limit Framerate for Testing (Unity Tutorial)
+https://youtu.be/fEQIsjSO5pQ&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Magic Numbers (Unity Tutorial)
+https://youtu.be/rvblFgEffrs&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Multiple Ways to Create Game Objects (Unity Tutorial)
+https://youtu.be/eSg8VyfiJWI&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Script Execution Order (Unity Tutorial)
+https://youtu.be/JyxqvaUeXeQ&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Show Private fields in the Editor (Unity Tutorial)
+https://youtu.be/6CDzZeI4OX8&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip SpriteRenderer Solid Color Rectangle (Unity Tutorial)
+https://youtu.be/vTn2uOjfIWs&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip Use Enums for State handling (Unity Tutorial)
+https://youtu.be/-PT-LADWymI&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Quick Tip View your Custom Classes in the Inspector (Unity Tutorial)
+https://youtu.be/gmXChf5PPRs&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Return Many Values from a Function (Quick Unity Tip)
+https://youtu.be/NGcKtXRcZc8&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+
+Two Inspectors at once in Unity (Quick Unity Tip)
+https://youtu.be/GtyvxKCVPfQ&list=PLzDRvYVwl53vjCLV83wb7ZF2mYNLC_wQZ
+Quick Unity Tips

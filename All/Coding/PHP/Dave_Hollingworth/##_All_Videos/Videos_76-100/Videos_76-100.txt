@@ -1,0 +1,76 @@
+
+Add Styles to the HTML in an email using CSS and PHPMailer
+https://youtu.be/ORBlTctD11E
+
+Avoid SQL injection attacks in PHP using PDO
+https://youtu.be/R6Kgda_Vj6A
+
+Course introduction Build a Complete Registration and Login System using PHP MVC
+https://youtu.be/-CE0J1gP9_0
+
+Format the Body of an email using HTML in PHPMailer
+https://youtu.be/mBD6l8zUqGA
+
+How to securely hash passwords in PHP
+https://youtu.be/CwLXBk57-UA
+
+How to store passwords as securely as possible
+https://youtu.be/UkLx_eZbSDg
+
+Load Any PHP Class using Composer’s Autoloader
+https://youtu.be/v-7bTaT9GyY
+
+Prevent duplicate form submissions using the Post  Redirect  Get pattern
+https://youtu.be/DCC7ufuFD2w
+
+Redirecting to another page using PHP how, why and best practices
+https://youtu.be/OwmKRznMaO0
+
+Run a PHP Script Automatically at a Specified Time
+https://youtu.be/ZsxQenUjt5U
+
+Send an email to one recipient with PHP
+https://youtu.be/hyy9yhkoL8Y
+
+Send email Quickly from a Web Page using PHP
+https://youtu.be/QsoYc5lYEfA
+
+Send emails Containing Images using PHPMailer
+https://youtu.be/CRwW3l6dhSE
+
+Sending an email from One Address, but Getting Replies to Another using Reply-To
+https://youtu.be/PoW5CXvU08M
+
+Sending email with PHP from Basic to Advanced course on Udemy
+https://youtu.be/iYZxfG8Rpco
+
+Sending emails to Multiple Recipients the Difference Between To, Cc and Bcc
+https://youtu.be/_HANN63fxpc
+
+Sending HTML email Why it's Important to Send a Plain-text Version too
+https://youtu.be/Ay18nazY8kA
+
+Sessions in PHP make the web browser remember you
+https://youtu.be/DgeOavl-jWs
+
+The password confirmation field why it's a problem and how to fix it
+https://youtu.be/uTGlZoqtl6o
+
+Understand the danger from SQL injection attacks
+https://youtu.be/EqkDHgQg0xs
+
+Uniquely identify users for signup and login username or email address
+https://youtu.be/AI9HeBPCZPc
+
+Use a Language-neutral Message Format on Queues
+https://youtu.be/U69xdq26b4g
+
+What is RabbitMQ
+https://youtu.be/QQXSEXkZalU
+
+Why it Takes a Long Time to Send an email using SMTP
+https://youtu.be/UFmpqKfHGto
+
+Why you should validate data on the server as well as the client
+https://youtu.be/pj21OCxeB2Q
+Videos 76-100

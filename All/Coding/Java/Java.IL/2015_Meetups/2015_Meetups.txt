@@ -1,0 +1,7 @@
+
+[Nov 2015] Distributed Computing with Hazelcast - Christoph Engelbert  Hazlecast
+https://youtu.be/q1PT_yWsy6A&list=PLrnGDC_amFqUKO9wcOvSMj4lhWjHKEcxc
+
+[Nov 2015] Vert.x Reactive Toolkit - Avi Saidan  HP Software
+https://youtu.be/fCI4c7uXxfc&list=PLrnGDC_amFqUKO9wcOvSMj4lhWjHKEcxc
+2015 Meetups

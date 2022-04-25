@@ -1,0 +1,73 @@
+
+C++ Code Smells - Jason Turner
+https://youtu.be/nqfgOCU_Do4&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+C++Now 2017 Ben Deane & Jason Turner constexpr ALL the things!
+https://youtu.be/HMB9oXFobJc&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+C++Now 2017 Jason Turner (Ab)using C++17
+https://youtu.be/AqDsso3S5fg&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+C++Now 2018 Jason Turner “Initializer Lists Are Broken, Let's Fix Them”
+https://youtu.be/sSlmmZMFsXQ&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Core C++ 2019  Jason Turner  The Best Parts of C++
+https://youtu.be/SZ__h7uEDGc&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2015 Jason Turner “The Current State of (free) Static Analysis
+https://youtu.be/sn1Vg8A_MPU&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2016 Jason Turner “Practical Performance Practices
+https://youtu.be/uzF4u9KgUWI&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2016 Jason Turner “Rich Code for Tiny Computers A Simple Commodore 64 Game in C++17”
+https://youtu.be/zBkNBP00wJE&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2016 Robert Irving & Jason Turner “What We've Learned From the C++ Community
+https://youtu.be/2zBfcyHaDEY&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2017 Ben Deane & Jason Turner “constexpr ALL the Things!”
+https://youtu.be/PJwd4JLYJJY&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2017 Jason Turner “Practical C++17”
+https://youtu.be/nnY4e4faNp0&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2018 Jason Turner “Applied Best Practices”
+https://youtu.be/DHOlsEd0eDE&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2018 Jason Turner “Surprises in Object Lifetime”
+https://youtu.be/uQyT-5iWUow&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+CppCon 2019 Jason Turner “The Best Parts of C++
+https://youtu.be/iz5Qx18H6lg&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Great C++ is_trivial - Jason Turner - CppCon 2019
+https://youtu.be/ZxWjii99yao&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Jason Turner IIFE in C++ for Performance and Safety
+https://youtu.be/9i2ZirXdrVA&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Jason Turner Practical Performance Practices
+https://youtu.be/lNnBExDoNSQ&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Jason Turner Thinking Portable How and why to make your C++ cross platform
+https://youtu.be/cb3WIL96N-o&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Jason Turner Why and How To Add Scripting
+https://youtu.be/za0_FiMqjKE&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Pacific++ 2017 Jason Turner Rethinking Exceptions
+https://youtu.be/OkgvqjJzH_Y&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Practical C++17 - Jason Turner - Meeting C++ 2017
+https://youtu.be/YePHP4aIc1g&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Practical constexpr - Jason Turner - Meeting C++ 2017
+https://youtu.be/xtf9qkDTrZE&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+The Worst Best Practices - Jason Turner - [CppNow 2021]
+https://youtu.be/KeI03tv9EKE&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+
+Your New Mental Model of constexpr - Jason Turner - CppCon 2021
+https://youtu.be/MdrfPSUtMVM&list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub
+My Presentations

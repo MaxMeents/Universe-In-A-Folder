@@ -1,0 +1,76 @@
+
+Getting Started with Apple ML
+https://youtu.be/ZDWu9DUmD9s
+
+Memojis under the hood
+https://youtu.be/ERwertwlwrE
+
+Swift on Server Are We There Yet
+https://youtu.be/qpDiXZRADfE
+
+try! Swift NYC 2016 - Best of Functional, Protocol, & Object-Oriented Programming
+https://youtu.be/884M0VJ4U9Q
+
+try! Swift NYC 2016 - Property-Based Testing with SwiftCheck
+https://youtu.be/7Zu1hprFL_8
+
+try! Swift NYC 2016 - Pushing the Envelope with iOS 10 Notifications
+https://youtu.be/9cdR-9-Tn8g
+
+try! Swift NYC 2016 - Say It Ain't So Implementing Speech Recognition in Your App
+https://youtu.be/IDHCZq6sn10
+
+try! Swift Tokyo 2018 - A Secret Swift Tour
+https://youtu.be/Mzb_wJU29Fo
+
+try! Swift Tokyo 2018 - Best Docker Container in Swift
+https://youtu.be/AVkKkl5ZlYo
+
+try! Swift Tokyo 2018 - Codable Routing with Kitura
+https://youtu.be/5ciZS7Cxyp0
+
+try! Swift Tokyo 2018 - Creating conversational interfaces in iOSSwift
+https://youtu.be/NcYjfIeZgR8
+
+try! Swift Tokyo 2018 - Digital Signal Processing with Swift
+https://youtu.be/TcTukRKHwnE
+
+try! Swift Tokyo 2018 - Exploring Clang Modules
+https://youtu.be/o3HG0Z3yc5c
+
+try! Swift Tokyo 2018 - Finally Solving the Expression Problem
+https://youtu.be/e7VEOsbYQM4
+
+try! Swift Tokyo 2018 - Optimizing Swift code for separation of concerns and simplicity
+https://youtu.be/LKKnmr3GKFM
+
+try! Swift Tokyo 2018 - Protocol Oriented WebAPI Abstraction
+https://youtu.be/e9o63D8PWCM
+
+try! Swift Tokyo 2018 - Should coders design
+https://youtu.be/1f7sFJvJYqk
+
+try! Swift Tokyo 2018 - SIL for First Time Learners
+https://youtu.be/sT0SNp-Tw-8
+
+try! Swift Tokyo 2018 - Swift in my home
+https://youtu.be/Tef9pK84Tgg
+
+try! Swift Tokyo 2018 - Swift Peer Lab Barcelona
+https://youtu.be/A5ms8gsTa2U
+
+try! Swift Tokyo 2018 - The Type Erasure Advantage
+https://youtu.be/ogQOzfO8pV8
+
+try! Swift Tokyo 2018 - The Type-Safe World of Codable
+https://youtu.be/CU-xOXHXPJ0
+
+try! Swift Tokyo 2018 - UI Testing for Fun and Profit
+https://youtu.be/Ie_MF8B5f6E
+
+try! Swift Tokyo 2018 - UIImageView vs Metal
+https://youtu.be/mebKTCPZwLc
+
+try! Swift Tokyo 2018 - 👾
+https://youtu.be/XekpwAFC7Eg
+Videos 76-100

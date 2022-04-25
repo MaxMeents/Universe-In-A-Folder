@@ -1,0 +1,37 @@
+
+Collider2D OnCollisionEnter2D(Collision2D) Accessing Variables From Other Scripts C# Unity 2D-EP#05
+https://youtu.be/oJJZfVse7J0&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+HOW TO DOWNLOAD AND INSTALL UNITY3D STEP BY STEP GUIDE 2017 ( EASIER & FASTER ) By LazyTrio - EP#01
+https://youtu.be/fz6doNFx1pA&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+How To Make A 2D Game Building Game Logic Unity C# Scripting List Of Unique Random Numbers EP#07
+https://youtu.be/xJt_h4BBOMM&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+How To Make A 2D Game In Unity - C# Scripting, GetComponent & Making UI Responsive In Unity - EP#04
+https://youtu.be/9tVoAyy5ufQ&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+How To Make A 2D Game In Unity - Slicing Sprite Sheet In Sprite Editor & Animation w Animator-EP#02
+https://youtu.be/SK1IImaUQjE&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+How To Make A 2D Game In Unity-Physics 2DRigidbody,Circle & Box Collider 2D,Detect Collision- EP#03
+https://youtu.be/MGMbBP-OyKY&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+Introduction to Unity Android Game Development by LazyTrio
+https://youtu.be/qVvwEhBQiOE&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+iTween Unity 5  How To Install Plugin Unity  Duplicating a Whole Unity Project  LazyTrio - EP#08
+https://youtu.be/MFADU-UU-GI&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+PlayerPrefs Unity  Save & Load Game Data In Unity PlayerPrefs  PlayerPrefs Save  LazyTrio - EP#11
+https://youtu.be/-ru1DM_EmxY&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+PolygonCollider2D  Manually Editing Polygon Collider 2D Points  Unity Triangle Collider 2D - EP#06
+https://youtu.be/9oqJ0GiweBI&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+Unity AudioSource  Unity AudioClip  Unity Audio  Unity Play Two Sounds At Once  LazyTrio - EP#10
+https://youtu.be/OXP9KS8Us7E&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+
+Unity UI Canvas & TextHow To Import and Use FontsCount & Display Score In Unity C# LazyTrio-EP#09
+https://youtu.be/9h78hogKN-w&list=PLNz0gsU8GcGsBgMNWMGdv89uNRgZBOrlf
+How To Build A Game In Unity

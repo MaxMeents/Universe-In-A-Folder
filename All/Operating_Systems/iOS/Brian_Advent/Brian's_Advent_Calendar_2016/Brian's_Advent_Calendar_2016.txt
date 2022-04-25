@@ -1,0 +1,64 @@
+
+iOS Design Tutorial Designing with standard UIKit components - A Christmas App 2124 🎄
+https://youtu.be/c-69OF2pSVo&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Animations with Auto Layout 1524 🎄
+https://youtu.be/Di6tGjYAl2M&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Brian's Advent Calendar - UIButton Tips and Tricks 0124  🎄
+https://youtu.be/NEf0uUIKPIo&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Brian's Advent Calendar - UIView, XIB Files and more 0224  🎄
+https://youtu.be/tvQxXoV527w&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Brian's Advent Calendar 2016 - 24 Days of UIKit 🎄
+https://youtu.be/vijjJRwrfmI&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Cool Animated Checkbox Control 0824 🎄
+https://youtu.be/juMWo5wniKg&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Create a Counting UILabel Animation 0424  🎄
+https://youtu.be/Wz6-IQV_qDw&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Create a Feature Slider with UIScrollView 0324  🎄
+https://youtu.be/Tl0ZbKR23LE&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Create Custom Segue Transition Animations 1124 🎄
+https://youtu.be/jn-93qElOT4&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Customize Table Views 1424 🎄
+https://youtu.be/WTxOsh3z6vw&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial From Sketch Design to Real App with Standard Components - 2424 🎄
+https://youtu.be/D1JMZIJrmKw&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Get started with UITableView 1324 🎄
+https://youtu.be/cWtCt8GFSDg&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Getting started with Auto Layout in 10 minutes  0724  🎄
+https://youtu.be/3lXFtSlt160&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Learn how to recognize gestures with UIGestureRecognizer 0624  🎄
+https://youtu.be/gAU3VE7T21M&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Paging through multiple ViewControllers with UIPageViewController 0524  🎄
+https://youtu.be/jVBtDH6jjl8&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial UIAlertController Tips & Tricks 1624 🎄
+https://youtu.be/lwhGTS2hPeQ&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial UINavigationBar Customization - Tips & Tricks
+https://youtu.be/gUhhFPTKCrE&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial UITextView Tips and Tricks 1224 🎄
+https://youtu.be/oienPcLcbkA&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Use Segues for Visual Transitions between View Controllers 1024 🎄
+https://youtu.be/OZix7etsd8g&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Working with Camera & Photo Library - UIImagePickerController 1724 🎄
+https://youtu.be/4CbcMZOSmEk&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+
+iOS Swift Tutorial Working with multiple UIViewControllers 0924 🎄
+https://youtu.be/-Rsr3hoSRes&list=PLY1P2_piiWEbWAmILtGHnFde7nVLZxcN0
+Brian's Advent Calendar 2016

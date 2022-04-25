@@ -1,0 +1,76 @@
+
+10 Kotlin Tricks in 10 ish minutes by Jake Wharton
+https://youtu.be/0sPzDwS55wM&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Apache OpenWhisk by Animesh Singh and John Zaccone
+https://youtu.be/phsSvI7JB48&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Bean Validation 2 0 by Emmanuel Bernard
+https://youtu.be/pNmzT4K9aTw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Blurring the line between Developer and Data scientist with PixieDust by David Taieb
+https://youtu.be/VaC-NI-Ey5c&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Building reactive microservices with Vert.x 3.3 by Erwin de Gier
+https://youtu.be/ho9QSSPVJVU&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Cassandra - an introduction by Hanneli Tavante
+https://youtu.be/fnl_F2nBt9U&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+CDI 2.0 New & Noteworthy by John Ament
+https://youtu.be/Zm7KueTn000&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Cloud Native Java with Josh Long
+https://youtu.be/cX7_I58NiAI&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab
+https://youtu.be/hWwbPguayNA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Deep Android Integrations by Ty Smith
+https://youtu.be/Ou9jJrL1A88&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+HTTP2 Two Years Later by Jesse McConnell and Simone Bordet
+https://youtu.be/6tNqAFQ_gAc&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Implementing IoT Architectures with Open Source by Benjamin Cabe
+https://youtu.be/LK_a1RtCspo&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Is your JavaScript ready for the Enterprise by Chadwick Chow
+https://youtu.be/yeIsmNsvGag&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Lean and Easy IoT applications with OSGi and Eclipse Concierge by Jan Rellermeyer
+https://youtu.be/rnWvpPy5F7c&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Migrating to Java 9 Modules by Paul Bakker
+https://youtu.be/TEoexFsDP6A&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Navigating the React Solar System by Ben Ilegbodu
+https://youtu.be/JMUDhLz-QkU&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl
+https://youtu.be/uS-QAv400ps&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Purikura culture in Japan and our web app architecture by Koichi Sakata
+https://youtu.be/Kcs2t7_VeQs&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Robots for the Kids in All of Us by Nikhil Nanivadekar
+https://youtu.be/nlRhL892hXw&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Scaling Reliability So You Want to Add a 9 by Moses Nakamura
+https://youtu.be/Zl164zcY4ME&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The ISS position in real time on my mobile in less than 15mn  Yes, we can. by Audrey Neveu
+https://youtu.be/rNhujVaZf2M&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Typing in Java, Kotlin and Scala by Hanneli Tavante and Breandan Considine
+https://youtu.be/9h0XjuU0Ipk&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Understanding Dagger 2's Codegen implementation by Gregory Kick
+https://youtu.be/-UWWFBEhW3Q&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+What's New in Java EE Security JSR-375 and Beyond by Will Hopkins
+https://youtu.be/D0SfxPvUj18&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Writing an InfoQ mini book with Asciidoctor by Matt Raible
+https://youtu.be/_1QzrojHnic&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+Videos 76-100

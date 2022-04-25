@@ -1,0 +1,76 @@
+
+Advanced Python Import Techniques and Managing Users in Django  Real Python Podcast #19
+https://youtu.be/Hhm5VRbfE3k
+
+Advice on Getting Started With Testing in Python  Real Python Podcast #11
+https://youtu.be/6tTI2Y8Xsd4
+
+Building PDFs in Python with ReportLab  Real Python Podcast #20
+https://youtu.be/Ajy5gXVOj_c
+
+Creating an Intermediate Python Project Choosing a Platform
+https://youtu.be/FD4xR3Rmg2Q
+
+Dealing With Python Time in Seconds
+https://youtu.be/jip9izmjpnQ
+
+Exploring K-means Clustering and Building a Gradebook With Pandas  Real Python Podcast #21
+https://youtu.be/XyGg8AZHGGw
+
+Generators in Python
+https://youtu.be/1t_NUJFh33Y
+
+Getting a Directory Listing in Python
+https://youtu.be/-oXG7p5Dq3E
+
+Getting Started with Pip and PyPI in Python
+https://youtu.be/bPSfNKvhooA
+
+Going Serverless with Python  Real Python Podcast #14
+https://youtu.be/amHbhsBLcIo
+
+How Do You Read a Python Traceback
+https://youtu.be/3p3p6kp39to
+
+Linear Programming, PySimpleGUI, and More  Real Python Podcast #17
+https://youtu.be/8qOl1aZuQCo
+
+Make a Discord Bot With Python
+https://youtu.be/LIge5zfH-g0
+
+Misspelling, Missing, or Misusing Python Keywords Invalid Python Syntax
+https://youtu.be/o0DTRGEPif8
+
+PDFs in Python and Projects on the Raspberry Pi  Real Python Podcast #13
+https://youtu.be/xDVIbvcgPP0
+
+Python Job Hunting in a Pandemic  Real Python Podcast #10
+https://youtu.be/ytY753acKFU
+
+Python Regular Expressions, Views vs Copies in Pandas, and More  Real Python Podcast #15
+https://youtu.be/XVw9qPhBcyg
+
+Python's zip() Function for Parallel Iteration
+https://youtu.be/Kn6GRtiY4eM
+
+Representing Integers in Python
+https://youtu.be/CAOJPoSzJA0
+
+Ten Years of Flask Conversation With Creator Armin Ronacher  Real Python Podcast #18
+https://youtu.be/saW18UvYLQg
+
+Thinking in Pandas Python Data Analysis the Right Way  Real Python Podcast #16
+https://youtu.be/NOBn8r5t5A4
+
+Unicode in Python
+https://youtu.be/kxx_T8_V2us
+
+Variables in Python vs C
+https://youtu.be/54NWGAYhfbc
+
+Web Scraping in Python Tools, Techniques, and Legality  Real Python Podcast #12
+https://youtu.be/VLrc929JaOg
+
+What is None and How to Test for It
+https://youtu.be/4c7tXkqPk54
+Videos 176-200

@@ -1,0 +1,28 @@
+
+Data Preprocessing for Deep Learning
+https://youtu.be/g_Vj1ASBcYo&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Deploy YOLOv2 to an NVIDIA Jetson
+https://youtu.be/fD-PKiqYNKo&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Design and Train a YOLOv2 Network in MATLAB
+https://youtu.be/xOvuQ6DY_4w&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Designing Digital Filters with MATLAB
+https://youtu.be/VFt3UVw7VrE&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Estimating Direction of Arrival with MATLAB
+https://youtu.be/Sz_4jJKjPIQ&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Import Pretrained Deep Learning Networks into MATLAB
+https://youtu.be/5bnIYH6P-vE&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Labeling Ground Truth for Object Detection
+https://youtu.be/ow_B_30WU1s&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Sensor Fusion for Orientation Estimation
+https://youtu.be/UZsxFpjmdAs&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+
+Training and Validating Object Detectors
+https://youtu.be/UnXDQmjYvDk&list=PLn8PRpmsu08qNhzC219pLDcfIN8dHJ2WF
+Perception MATLAB and Simulink Robotics Arena

@@ -1,0 +1,52 @@
+
+Python Basics Divisors
+https://youtu.be/ZoQnU0G-N8w&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Factor List Comprehension
+https://youtu.be/G4JRgHDs_dI&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Factors with  For Loop
+https://youtu.be/ufZYG6tBgfI&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics GCD Best Practice
+https://youtu.be/2Z1LLsUg6sY&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics GCD Part 1
+https://youtu.be/Zvrn7_IsBaM&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Gcd pt 2
+https://youtu.be/pxMtT97g-3I&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics How to Find Any Prime Number  nth Prime Number
+https://youtu.be/rH9VFA7cHN4&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Is Even Function
+https://youtu.be/FI1uS1sRyis&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Lowest Common Denominator (LCD)
+https://youtu.be/yoPxYHDI4XQ&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Modulo To Find The Remainder of Division
+https://youtu.be/1WY5o1uluzg&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Prime Numbers  Pt. 2 The Better way
+https://youtu.be/joPlhzYCzpw&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Prime Numbers
+https://youtu.be/4CMHEQjjgqo&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Round to closest 5 Part 1
+https://youtu.be/FnG-8nEF3cs&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Round to closest 5 pt 2
+https://youtu.be/mRNqLHCN0zI&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Round to closest 5 pt 3
+https://youtu.be/CjBSyQItUik&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Round to closest 5 Uncut
+https://youtu.be/21sStkhaBp4&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+
+Python Basics Seconds Conversion
+https://youtu.be/1NDBmpEd3Y0&list=PLaYT64KWZAEO5QPRVRoln9w04EWQUKWEF
+modulo

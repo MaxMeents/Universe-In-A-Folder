@@ -1,0 +1,7 @@
+
+Pay gem - Getting Started
+https://youtu.be/hYlOmqyJIgc&list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
+
+Stripe Checkout in Rails with the Pay gem
+https://youtu.be/MKWq_soCzsQ&list=PLm8ctt9NhMNXCvYPahPCuR3K-q_tsEi-A
+Pay gem for Rails

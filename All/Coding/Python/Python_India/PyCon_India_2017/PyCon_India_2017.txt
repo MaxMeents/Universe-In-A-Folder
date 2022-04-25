@@ -1,0 +1,73 @@
+
+avc Geospatial data science and analysis using ArcGIS API for Python
+https://youtu.be/vu78bemil3o&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Boosting Python Web Applications with Protocol Buffers and GRPC
+https://youtu.be/Zgkq3KdC2vE&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Building microservices with firefly
+https://youtu.be/ih4tm6jE0Pc&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Building single page javascript apps with Django, Graphql, Relay and React!
+https://youtu.be/FLPeOs6owec&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Clean Architecture Applications in Python
+https://youtu.be/p1D-jM4ca2w&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Django on Steroids    Building Applications at Web Scale
+https://youtu.be/rmoErFEN-eg&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Getting Started with Embedded Python MicroPython and CircuitPython
+https://youtu.be/BuJ3j3wohrw&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+How import works in Python
+https://youtu.be/-mL5WBMseD4&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+How is   metaclass  used in real life
+https://youtu.be/tvaEyEPjWes&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+How to Boost your Tensorflow model inference performance using Asyncio
+https://youtu.be/F9AAZqtViiI&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+HTTP Bottom Up   Live!
+https://youtu.be/Gzvn1Zwj9Sk&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Keynote - Python And Data Past, Present And Future By Peter Wang
+https://youtu.be/E8MSxcfqZSA&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Liberating tabular data from the clutches of PDFs
+https://youtu.be/nVrNt97Bv9Y&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Machine learning & NLP at Goibibo Keytopic extraction and contextual sentiment analysis of 20 millio
+https://youtu.be/UWqfUa39cHM&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Making Of NextGen Fintech Insights From Visible Alpha Tech Stack
+https://youtu.be/to78eaSyaGM&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Mentoring   keynote   Noufal Ibrahim
+https://youtu.be/-3O19k_-cQM&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+OLMONK  Data validation package
+https://youtu.be/46F8BW_mYS4&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Panel discussion  Women in Open source
+https://youtu.be/vwKi3S0FD5w&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+PyBeacon Eddystone Protocol implementation in Python
+https://youtu.be/mZVqUJucu74&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+python community principle   keynote   Elizabeth Ferrao
+https://youtu.be/5sG9c4lb3n0&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Reducing dead code ratio of your project with vulture
+https://youtu.be/sxw58WJpWKg&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Spinning local DNS server sourcing responses over HTTPS to combat Man in the middle attack
+https://youtu.be/JIsjTpFDM5w&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+tools to define Machine Learning
+https://youtu.be/ih8XoeZxVJ4&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+
+Using Python and microservices to fuel WebPush at Mozilla
+https://youtu.be/73vyvoJW5G8&list=PL6GW05BfqWIebMtGTSzrafZi2HWORxzu0
+PyCon India 2017

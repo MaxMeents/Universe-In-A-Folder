@@ -1,0 +1,76 @@
+
+A Dozen Cool Things We Can Do With Popular JVM Languages by Venkat Subramaniam
+https://youtu.be/-8ISVgl7Qm0&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Applying (D)DDD and CQ(R)S to Cloud Architectures by Benjamin Nothdurft
+https://youtu.be/ZfxcjFXLxHk&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Building event-driven Java applications using Redis Streams by Mark Paluch
+https://youtu.be/NUwrSrYxFGg&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Creating event-driven microservices the why, how and what by Andrew Schofield
+https://youtu.be/ksRCq0BJef8&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Exploring GraphQL-Braid Leaving RESTish world and building a distributed GraphQL system
+https://youtu.be/iNtxkbzopDg&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Exploring Microservices boundaries through network science by Nicki Watt
+https://youtu.be/IvQGT1Yv3wE&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+From null to security, a developers tale by Louis Hansen
+https://youtu.be/d6cA-dg9yGs&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Functional Programming Design using Morphisms by Uberto Barbini
+https://youtu.be/L8tc9KDwcwM&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Get to Know the Real World Discovering Connected Data by Jennifer Reif
+https://youtu.be/UDDXNhLPTx8&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Going Pro 5 simple strategies to raise your personal profile by Koffi Sessi
+https://youtu.be/0iDsyJf3Irg&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+GraalVM Run Programs Faster Everywhere by Oleg Šelajev
+https://youtu.be/6hd7UFlsIsg&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Helm your way with Kubernetes by Ana Maria Mihalceanu
+https://youtu.be/Ol4tbo_tLbM&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+How To Fail At Kafka by Peter Godfrey
+https://youtu.be/xsdoQkoao2U&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Information Storage in DNA by Nick Goldman
+https://youtu.be/NsfuBSsF1Fk&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Infrastructure craftsmanship. Keeping the lights on for Everyone by Siren Hofvander
+https://youtu.be/jWyxMv6h3S4&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Machine learning and link prediction by Mark Needham & Jennifer Reif
+https://youtu.be/9MDHuNRhvcg&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Moving Fast and Breaking Everything by Maurice Naftalin
+https://youtu.be/L-ZvespjeNg&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Reactive Relational Database Connectivity by Ben Hale
+https://youtu.be/4Rwp1sIqkLA&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Rust 101 by Alessio Coltellacci
+https://youtu.be/xG3RoiglDIY&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Sincerely Allan, Tales of a Woman in Tech by Heather Wilde
+https://youtu.be/Kvl3Khxo6II&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Spearheading the future of programming by Venkat Subramaniam
+https://youtu.be/1sjoiBA0MTw&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Switching on DevSecOps by Brian Vermeer
+https://youtu.be/hnN3ZQYlysU&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+The Diabolical Developer promises that Java is Still Free by Martijn Verburg
+https://youtu.be/T5Qg9tL81Ik&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+THINK-ing Big, THINK-ing Diverse, THINK-ing Forward by Grace Jansen
+https://youtu.be/olpymdlhJxc&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Zookeeper in action by Alexandre Berthaud
+https://youtu.be/Vv4HpLfqAz4&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+Videos 1-25

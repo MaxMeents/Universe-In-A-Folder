@@ -1,0 +1,76 @@
+
+A bot to rule them all - Diego Kuperman
+https://youtu.be/8QbdZgCKl5U
+
+Bothead as a service - Matt S Trout
+https://youtu.be/PZtCwGGGWas
+
+Communication Aikido - Philippe Bruhat
+https://youtu.be/Y41sZIVteeQ
+
+Context?Singleton? - Branislav Zahradník
+https://youtu.be/KBQ0prTu5ys
+
+Cross Compiling For Perl Hackers? - Jens Rehsack
+https://youtu.be/41br1hWdEZA
+
+Day 1 Lightning Talks
+https://youtu.be/ERcN7jGeEzA
+
+Day 2 Lightning Talks
+https://youtu.be/EDQu0msc63E
+
+Day 3 Lightning Talks
+https://youtu.be/c5y4MhtJMek
+
+Dealing with dependencies - from development to deployment” - Matt S Trout
+https://youtu.be/jsPsUY4uk4Y
+
+Docker (&-compose) for (Perl) Developers? - Marc Egea i Sala
+https://youtu.be/TcaM3Nsj_TE
+
+Docker 101 - Claudio Ramirez
+https://youtu.be/M60LnU1Zxig
+
+Getting gutsy with perl5 - Todd Rinaldo
+https://youtu.be/irkeZJqPE0s
+
+Modeling a Universe - Curtis Poe
+https://youtu.be/UmLwYLSmTSs
+
+Pakket - An Unopinionated Meta-Packaging System - Sawyer X
+https://youtu.be/-WBL0QoQ3kw
+
+Perl 5.26 and the Blue-Blue Shiny Ball of Eternal Transparency - Sawyer X
+https://youtu.be/7_r1gpTkFYo
+
+Perl 6 Superglue for the 21st Century - Brian Duggan
+https://youtu.be/q8stPrG1rDo
+
+Processing tens of TB of data daily - Michal Jurosz
+https://youtu.be/j73JjYCriug
+
+Testing the waters - Tom Bloor
+https://youtu.be/M7QvM1l7jig
+
+The Pleasures and Perils of a Programming Polyglot - Ruth Holloway
+https://youtu.be/NehoDpaLBO8
+
+The power of raw SQL - Thomas Klausner
+https://youtu.be/Q6dT7sGxxF8
+
+The Shoulders Of Giants 400 Years Of Perl 6? - Damian Conway
+https://youtu.be/g8xXrhjqOZM
+
+Three Little Words - Damian Conway
+https://youtu.be/e1T7WbKox6s
+
+Unicode Internals of Perl 6 - Samantha McVey
+https://youtu.be/9Vv7nUUDdeA
+
+Using Perl 5 to make a program several hundred times faster - Laurent Rosenfeld
+https://youtu.be/WerQEqKH880
+
+Using Perl to translate one computer language into another - Marton Papp
+https://youtu.be/bVFO0Xp9UWM
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Conference Opening
+https://youtu.be/AMkrib9JB7M&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Discoverability and Composability Writing an ECS for Fun and Profit - José Joaquín Atria
+https://youtu.be/s8SVkmxj1OQ&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+DistZilla and My Bundle - Dave Rolsky
+https://youtu.be/h0Xx-KdAMGk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Elasticsearch Data Exploration in Your Terminal - Brad Lhotsky
+https://youtu.be/cexwpN3N2j0&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Exploring Text-Based Protocols - Joel Berger
+https://youtu.be/8fjYawHyNZY&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Generating Rust from C with Perl  - Dave Rolsky (lightning talk)
+https://youtu.be/HBoHv8-TZfk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Introduction to Perl Data Types - William N. Braswell, Jr.
+https://youtu.be/go7Ru3QQYYs&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Life after Perl (and Raku) - Peter Sergeant
+https://youtu.be/kxMfnk3fQlY&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Local dev setup for a complex app using docker-compose - Thomas Klausner
+https://youtu.be/aDUxaBsDcDg&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Making Life Better with Software - Joelle Maslak
+https://youtu.be/J2tVdWyqzNs&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+meta cpan theme - lnation (lightning talk)
+https://youtu.be/XdGZmmr6jWk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+My big year of Github Actions - tib (lightning talk)
+https://youtu.be/LacGq8NB9Y4&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Open Food Facts - Stéphane (lightning talk)
+https://youtu.be/imugl2dSdnU&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+perlimports or Where did that symbol come from - Olaf Alders
+https://youtu.be/fKqxdTbGxYY&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Programming Lessons from Conlangs - Daniel (lightning talk)
+https://youtu.be/Xl6GRJitLuQ&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Raku syntax I miss in other languages - Leon Timmermans
+https://youtu.be/elalwvfmYgk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Raku, the Big - Bruce Gray
+https://youtu.be/lRGRL_sVRSk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Refactoring your EXPORTS Rescuing a client from global-variable-hell - Steven Lembark
+https://youtu.be/Jyamk3d-KDE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Sequential Consistency & Perl & perl - B. Estrade
+https://youtu.be/ypkPDUI-E-0&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Sequential Consistency & perl & Perl - Part 2 - B. Estrade
+https://youtu.be/XOnPF5GnhHE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Space - Chris Jack (lightning talk)
+https://youtu.be/sLsudYhFskc&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+The Irregularity of Regular Expressions - Jordan Adler
+https://youtu.be/yfYqE3-Wy-g&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+TPF Summer Activities - Makoto and JmacJason  (lightning talk)
+https://youtu.be/vNRgiuqNiLs&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Well Formed Catalyst - John Napiorkowski
+https://youtu.be/lKmQDqoYRF4&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+What's new in Perl - Ricardo Signes
+https://youtu.be/FlGpiS39NMY&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+Videos 1-25

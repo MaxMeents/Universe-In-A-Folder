@@ -1,0 +1,76 @@
+
+Flask Web Development in Python - 1 - Intro
+https://youtu.be/mr90d7fp3SE
+
+Flask Web Development in Python - 2 - Your first Flask Web App
+https://youtu.be/_80H2WIuA7w
+
+Flask Web Development in Python - 3 - Variables in your HTML
+https://youtu.be/4vvHkziL3oQ
+
+Flask Web Development in Python - 4 - HTML Logic
+https://youtu.be/n_oTm2_EYHs
+
+Flask Web Development in Python - 5 - Twitter Bootstrap
+https://youtu.be/tPoSIfOke7w
+
+Flask Web Development in Python - 6 - js Plugin - Highcharts example
+https://youtu.be/9Ic79kOBj_M
+
+Flask Web Development in Python 7 - Extends for templates
+https://youtu.be/eZ5XKaNYTiw
+
+Game Development in Python 3 With PyGame - 1 - Intro
+https://youtu.be/ujOTNg17LjI
+
+Game Development in Python 3 With PyGame - 10 - Start Menu
+https://youtu.be/3RJx34kGRGk
+
+Game Development in Python 3 With PyGame - 11 - Buttons p. 1
+https://youtu.be/jh_m-Eytq0Q
+
+Game Development in Python 3 With PyGame - 12 - Button interaction
+https://youtu.be/1hlaMPzAUZ0
+
+Game Development in Python 3 With PyGame - 13 - Text on Buttons
+https://youtu.be/OsbyjYuvQk4
+
+Game Development in Python 3 With PyGame - 14 - Button Function
+https://youtu.be/kK4xhHr1QeQ
+
+Game Development in Python 3 With PyGame - 15 - Button Events
+https://youtu.be/P-UuVITG7Vg
+
+Game Development in Python 3 With PyGame - 16 - Convert to executable
+https://youtu.be/EY6ZCPxqEtM
+
+Game Development in Python 3 With PyGame - 2 - Display Images
+https://youtu.be/ZFo4mtLJEWs
+
+Game Development in Python 3 With PyGame - 3 - Moving an Image
+https://youtu.be/xh4SV3kF-zk
+
+Game Development in Python 3 With PyGame - 4 - Adding Boundaries
+https://youtu.be/NjvIooRpuH4
+
+Game Development in Python 3 With PyGame - 5 - Display Text on Screen
+https://youtu.be/dX57H9qecCU
+
+Game Development in Python 3 With PyGame - 6 - Drawing Objects  moving objects
+https://youtu.be/zMN9kRLD1DA
+
+Game Development in Python 3 With PyGame - 7- Crashing
+https://youtu.be/Vom-Tuo0rcU
+
+Game Development in Python 3 With PyGame - 8 - Score, challenge, conclusion
+https://youtu.be/16LkXpZ4mKU
+
+Game Development in Python 3 With PyGame - 9 - Drawing
+https://youtu.be/nszkfvOXv4w
+
+Python 3 Programming Tutorial - Sockets client server system
+https://youtu.be/WrtebUkUssc
+
+Raspberry Pi Camera Module Streaming to Browser
+https://youtu.be/VTZMOHE8v-Q
+Videos 776-800

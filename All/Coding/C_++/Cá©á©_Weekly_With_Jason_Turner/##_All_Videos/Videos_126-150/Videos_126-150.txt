@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep - 198 - Surprise Uses For `explicit` Constructors
+https://youtu.be/Q4SXFkTzD28
+
+C++ Weekly - Ep 194 - From SFINAE To Concepts With C++20
+https://youtu.be/dR64GQb4AGo
+
+C++ Weekly - Ep 195 - C++20's `constinit`
+https://youtu.be/o0z3KT4gW7k
+
+C++ Weekly - Ep 196 - What is `requires requires`
+https://youtu.be/tc0hVIOJk_U
+
+C++ Weekly - Ep 197 - 25 Years of Best Practices
+https://youtu.be/ayIJ4b6z-7g
+
+C++ Weekly - Ep 199 - [[nodiscard]] Constructors And Their Uses
+https://youtu.be/E_ROB_xUQQQ
+
+C++ Weekly - Ep 200 - Christmas Class 2019 - Chapter 1 of 5 - Understanding Lambdas
+https://youtu.be/3hGSlUGEXtA
+
+C++ Weekly - Ep 201 - Christmas Class 2019 - Chapter 2 of 5 - Building On Lambdas
+https://youtu.be/DolVujl_EUw
+
+C++ Weekly - Ep 202 - Christmas Class 2019 - Chapter 3 of 5 - Utilizing Lambdas
+https://youtu.be/VEqOOKU8RjQ
+
+C++ Weekly - Ep 203 - Christmas Class 2019 - Chapter 4 of 5 - The Evolution of Lambdas
+https://youtu.be/tpGPVrTudLA
+
+C++ Weekly - Ep 204 - Christmas Class 2019 - Chapter 5 of 5 - Lambdas To The Limits
+https://youtu.be/TKPDW--AzWo
+
+C++ Weekly - Ep 205 - Christmas Class 2019 - Chapter 5 of 5 Answers
+https://youtu.be/i2HyDHAVBsk
+
+C++ Weekly - Ep 206 - Surprising Conversions with CTAD
+https://youtu.be/IhjvznH9GvI
+
+C++ Weekly - Ep 207 - C++20's jthread and stop_token
+https://youtu.be/-yaz4n5zWZs
+
+C++ Weekly - Ep 208 - The Ultimate CMake  C++ Quick Start
+https://youtu.be/YbgH7yat-Jo
+
+C++ Weekly - Ep 209 - An RPG in C++20 - Part 0 The Plan
+https://youtu.be/kwFcRvxy0D0
+
+C++ Weekly - Ep 210 - An RPG in C++20 - Part 1 Getting Started With SFML & Dear ImGui
+https://youtu.be/av0SYeUxVMU
+
+C++ Weekly - Ep 211 - C++20's Bit Manipulation Functions
+https://youtu.be/8EyZ6mRDlx8
+
+C++ Weekly - Ep 212 - An RPG In C++20 - Part 2 Finding Errors As Soon As Possible
+https://youtu.be/sZBVLDbJRwg
+
+C++ Weekly - Ep 213 - CTRE Compile Time Regular Expressions
+https://youtu.be/8aRfJp1oZGA
+
+C++ Weekly - Ep 214 - Epic 10 Hour Port of Doom to C++
+https://youtu.be/0dkzLdqH9V4
+
+C++ Weekly - Ep 215 - An RPG in C++20 Part 3 - Handling Command Line Parameters
+https://youtu.be/U_2WDRTdImk
+
+C++ Weekly - Live Stream 1 - Code Reviews
+https://youtu.be/rFnRzW3vvsQ
+
+C++ Weekly - Live Stream 2 - Code Review
+https://youtu.be/qXhC3tEB4Fc
+
+C++ Weekly - Live Stream 3 - Porting Doom to C++
+https://youtu.be/d1BwjUlwYeg
+Videos 126-150

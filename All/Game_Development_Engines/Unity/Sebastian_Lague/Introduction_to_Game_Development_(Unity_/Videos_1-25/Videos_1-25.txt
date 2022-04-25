@@ -1,0 +1,76 @@
+
+Introduction to Game Development (E01 variables and methods)
+https://youtu.be/9iCnjdXEfMA&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E02 classes)
+https://youtu.be/XT_CtYN1OOU&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E03 Unity overview)
+https://youtu.be/L9zlZjxmwXU&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E04 writing code)
+https://youtu.be/zQPyGjPUDVE&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E05 operators and if statements)
+https://youtu.be/FvBSwwCGur0&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E06 a simple game)
+https://youtu.be/jitkNxnn-s8&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E07 vectors)
+https://youtu.be/m7VY1T6f8Ak&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E08 movement)
+https://youtu.be/nWuekr5rUcg&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E09 space, parenting, rotation)
+https://youtu.be/Q1xZGt41N80&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E10 collision detection)
+https://youtu.be/B0aGFBo_Ki0&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E11 prefabs and instantiation)
+https://youtu.be/G_KB60cy_hk&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E12 script communication)
+https://youtu.be/vDrYDAMdpuc&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E13 falling blocks game 14)
+https://youtu.be/OspvMh3UWPU&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E14 falling blocks game 24)
+https://youtu.be/5vov9H7RuF8&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E15 falling blocks game 34)
+https://youtu.be/beWwwxn7dLQ&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E16 falling blocks game 44)
+https://youtu.be/6nfaPDPA-Y8&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E17 reference vs value types)
+https://youtu.be/XSUBp-EZhBE&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E18 raycasting)
+https://youtu.be/fFq5So-UB0E&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E19 arrays and lists)
+https://youtu.be/INbqu9JvZHw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E20 loops)
+https://youtu.be/9eS2a4eoahA&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E21 coroutines)
+https://youtu.be/Eq6rCCO2EU0&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E22 trigonometry)
+https://youtu.be/-dGi2Ffdiuk&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E23 stealth game 13)
+https://youtu.be/jUdx_Nj4Xk0&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development (E24 stealth game 23)
+https://youtu.be/TfhPBAe9Tt8&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+
+Introduction to Game Development with Unity and C#
+https://youtu.be/_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw
+Videos 1-25

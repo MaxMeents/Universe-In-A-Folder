@@ -1,0 +1,76 @@
+
+Alejandro Garcia - Python Gamedev MLG
+https://youtu.be/PIcCsZ3Nk8I&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Alejandro Guirao Rodríguez - Extending and embedding Ansible with Python
+https://youtu.be/qLoBHbVb0Fw&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Armin Rigo - The GIL is dead PyPy-STM
+https://youtu.be/e8wUiGDDVno&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Brecht Machiels - RinohType, a document processor inspired by LaTeX
+https://youtu.be/HLRQPZI4L5Y&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Claudiu Popa - 12 years of Pylint (or How I learned to stop worrying about bugs)
+https://youtu.be/0jKbNpEjkhI&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ekaterina Tuzova - NumPy vectorize your brain
+https://youtu.be/wSsuggB6dCM&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Fabian Kreutz - TDD - the why, the how and the when not
+https://youtu.be/NSkW26eUwKg&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Fabio PligerOier Beneitez - Welcome
+https://youtu.be/NrLKOEhnb7w&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Fabrizio Romano - TDD is not about tests!
+https://youtu.be/uWDNvWvlw7I&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ignacio Elola - Everyone can do Data Science in Python
+https://youtu.be/67SZeV1iSL4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Igor Davydenko - Asyncio Stack & React.js or Development on the Edge
+https://youtu.be/WCez3zbM2eU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Jean-Philippe Caissy - Static type-checking is dead, long live static type-checking in Python!
+https://youtu.be/xuY7qlDY6_s&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Jyrki Pulliainen - How-To Build a local Python community
+https://youtu.be/BJ_1ROah-lI&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Max Tepkeev - Big Data with Python & Hadoop
+https://youtu.be/ymJZri_-4qo&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Mikey Ariel - FOSS DOCS 101 (keep it simple, present!)
+https://youtu.be/FopnpwK6ALw&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ola SitarskaOla Sendecka - Keynote It's Dangerous To Go Alone, Take This The Power of a Community
+https://youtu.be/DUgYznUfwyo&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Patrick Mühlbauer - Building nice command line interfaces - a look beyond the stdlib
+https://youtu.be/BdQClprjdjU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Paul Hallett - What it's really like building RESTful APIs with Django
+https://youtu.be/NAr8XCPGLMM&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Peter Hoffmann - PySpark - Data processing in Python on top of Apache Spark.
+https://youtu.be/ukW89Dbt5hk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Raphael Pierzina - Come to the Dark Side! We have a whole bunch of Cookiecutters!
+https://youtu.be/yxXio-jzAMQ&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Romain Guillebert - PyPy and the future of the Python ecosystem
+https://youtu.be/Axm14JH8XlY&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Sebastian Buczyński - Distributed locks with Python and Redis
+https://youtu.be/udhV84W3-Jg&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Takayuki Shimizukawa - Sphinx autodoc automated API documentation
+https://youtu.be/mdtxHjH2wog&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Vincent Warmerdam - PySpark and Warcraft Data
+https://youtu.be/AOwP2xq_ceE&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Vlad Temian - gitfs - building a filesystem in Python
+https://youtu.be/LEJb1VZxRoE&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+Videos 101-125

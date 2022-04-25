@@ -1,0 +1,76 @@
+
+20 Years of Java - A Video Retrospective by Stephen Chin
+https://youtu.be/pPmAm37k9Yg
+
+Deep Learning for common mortals. by Sam Bessalah
+https://youtu.be/Xd20m8yQR80
+
+Devoxx 2015 Interview Arun Gupta
+https://youtu.be/19nmbNDqfs4
+
+Devoxx 2015 Interview Geertjan Wielinga
+https://youtu.be/PFTUILlw-7w
+
+Devoxx 2015 Interview Johan Vos
+https://youtu.be/Vq0tJLvHvVs
+
+Devoxx 2015 Reception
+https://youtu.be/c4tzIQZKKZc
+
+Devoxx Belgium 2015 Interview Michael Hoffer
+https://youtu.be/-SR4TQGbrbw
+
+Devoxx Live 2015 Behind the Scenes Exploration
+https://youtu.be/SWnYWqXpNl4
+
+Devoxx Live 2015 Day 1 Wrap up
+https://youtu.be/2_DeQ6KYgFQ
+
+Devoxx Live 2015 EXPO Pit Lane Walk
+https://youtu.be/nm5X2i-i_tY
+
+Devoxx Live 2015 Welcome
+https://youtu.be/1uh1zLsdxsE
+
+Fixing performance problems with someone else's toolbox by Mike Croft
+https://youtu.be/9DzzeJyh3H0
+
+Getting started with Spring Cloud by Josh Long
+https://youtu.be/SFDYdslOvu8
+
+Hinting around Android text demystified by Sebastiano PoggiEugenio Marletti
+https://youtu.be/VS7co3TrgKE
+
+It started with a whiteboard in the kitchen by Saskia Vermeer - Ooms
+https://youtu.be/SIb_3OLQaMQ
+
+JSF with PrimeFaces, From Ugly Duckling to a Beautiful Swan by Cagatay Civici
+https://youtu.be/B_lYGUtCd0g
+
+Keynote session by Mark Reinhold
+https://youtu.be/l1s7R85GF1A
+
+Looking good Typography and programming languages by Michael Wiedeking
+https://youtu.be/m8tyv7W2xpQ
+
+Open Source Workflows, Business Rules and Case Management live and in action by Bernd Rücker
+https://youtu.be/x9ceAoZt8xw
+
+Prepare for JDK 9! by Mark ReinholdAlan Bateman
+https://youtu.be/KZfbRuvv5qc
+
+Principles Of Microservices by Sam Newman
+https://youtu.be/PFQnNFe27kU
+
+Start using CSS Grid Layout by Rachel Andrew
+https://youtu.be/Felq4z_rdPQ
+
+Swimming upstream in the container revolution by Bert Jan Schrijver
+https://youtu.be/kE5rxGUFsXU
+
+The Borg is docking your system; testing is futile! Or is it by Alex SotoAslak Knutsen
+https://youtu.be/n3h4LJwkKhM
+
+With BIG data comes BIG responsibility; The curious case of BOL.COM by Mark Nijenhuis
+https://youtu.be/obywVgN3xIg
+Videos 2426-2450

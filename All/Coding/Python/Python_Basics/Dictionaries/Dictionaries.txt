@@ -1,0 +1,37 @@
+
+Python Basics Dictionary Comprehension
+https://youtu.be/YD8g6xSBYEw&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Dictionary pt  2
+https://youtu.be/tDySJkWtrUQ&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Dictionary pt  3
+https://youtu.be/RDUZo9RzSQs&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Dictionary
+https://youtu.be/n-qDYceBRd0&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics M.I.T Chicken Nugget Problem
+https://youtu.be/-pbB8mz3rOo&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics String Value Using a Dictionary
+https://youtu.be/UPpz08tKINA&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Tutorial Data Structures  Dictionaries
+https://youtu.be/pnEdUGLo3RU&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Tutorial Dictionary Print Formatting  Fstring Formatting
+https://youtu.be/_O_HHQGc2RA&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Tutorial How to Handle Unlimited Number Of Variables
+https://youtu.be/paD8X1426i0&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Tutorial What's the difference between Lists and Dictionaries
+https://youtu.be/h-D5A3mj5KI&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Unpack Dictionary with Items Method
+https://youtu.be/AJ9mi2pk7jw&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+
+Python Basics Zip A Dictionary
+https://youtu.be/rBZztwzvkys&list=PLaYT64KWZAENPdtL4N4uQ1SQeHzYidu5p
+Dictionaries

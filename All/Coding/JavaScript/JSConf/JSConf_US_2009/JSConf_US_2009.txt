@@ -1,0 +1,37 @@
+
+Brian LeRoux PhoneGap Mobile Applications with HTML, CSS, and JavaScript
+https://youtu.be/B6TfflHYmPI&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Chris and Laura Williams Welcome to JSConf
+https://youtu.be/uiNdLvFV5jE&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Chris Anderson and Jan Lehnardt CouchDB to the Edge
+https://youtu.be/vu7wST7m_1Y&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Francisco Tolmasky Objective-J Language and Cappuccino Frameworks
+https://youtu.be/UwSaR5PsJBQ&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Jack Moffitt The Real Time Web with XMPP
+https://youtu.be/WktC6vc4WQs&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+James Duncan The Smart Platform. A JavaScript P.a.a.S.
+https://youtu.be/6R6UYTxzFyc&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Jason Huggins Hacking Selenium
+https://youtu.be/r1wK-eBWi9g&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+John Resig Measuring Performance, JavaScript Games, and Distributed Testing
+https://youtu.be/WWY5CQkINqc&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Mike Subelsky Introduction to SproutCore
+https://youtu.be/vanqTERb_I8&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Nick Campbell Axiom Stack Server Side JavaScript
+https://youtu.be/_lw9WgVPUNY&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Peter Higgins dojo.Patterns for Lovers of JavaScript
+https://youtu.be/8BhGC7Rs3ec&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+
+Stoyan Stefanov High Performance Kick-Ass Web Apps
+https://youtu.be/DriK-7NAz5U&list=PL37ZVnwpeshG3BtM8BM1M9BXIriD6IEND
+JSConf US 2009

@@ -1,0 +1,76 @@
+
+Python Basics Tutorial 5K Views Random Seed Video
+https://youtu.be/TbyQ36UBXNo
+
+Python Basics Tutorial Add An Explosion Sprite for Pygame
+https://youtu.be/QS5OnNO8WR4
+
+Python Basics Tutorial Calendar Is Leap Year Function
+https://youtu.be/cg34uz-tnQI
+
+Python Basics Tutorial Calendar Month Calendar Method
+https://youtu.be/ygJ3cSpwd_M
+
+Python Basics Tutorial Calendar Print Calendar
+https://youtu.be/-tu-kc7BtBg
+
+Python Basics Tutorial Deep Dive Requested Video Comma Separation Error
+https://youtu.be/cEuf8xCszPo
+
+Python Basics Tutorial Difference Between Tk and Ttk from Tkinter
+https://youtu.be/U6gYIBHUeuI
+
+Python Basics Tutorial How to Find the Name of the tables in Sql DataBase
+https://youtu.be/X5oSSbM-1kw
+
+Python Basics Tutorial Indexing With Boolean Array for Numpy
+https://youtu.be/t-13p3OCjoc
+
+Python Basics Tutorial Kivy TextInput Widget
+https://youtu.be/cP2WvQ7borI
+
+Python Basics Tutorial Kivy Widget Spacing & Text Alignment
+https://youtu.be/yxSmUzjcA3s
+
+Python Basics Tutorial Matplotlib Set ylim Method To Control Height
+https://youtu.be/OVz0I0tyyy4
+
+Python Basics Tutorial Matplotlib Text Annotation
+https://youtu.be/nHt6wTEL-wA
+
+Python Basics Tutorial More with Numpy Arange Function
+https://youtu.be/wjJeOnO8niA
+
+Python Basics Tutorial More With Pandas DataFrame Describe Method
+https://youtu.be/P7xRjxROX58
+
+Python Basics Tutorial Numpy Vstack Function
+https://youtu.be/93kq9tQyxmQ
+
+Python Basics Tutorial Pandas DataFrame dtype Attribute
+https://youtu.be/QD9rS9HI8Y8
+
+Python Basics Tutorial Programming is Hard
+https://youtu.be/3Md1uvmj_Os
+
+Python Basics Tutorial Pygame Sprite Update Method With Keyboard Input
+https://youtu.be/-HQK_psmaR0
+
+Python Basics Tutorial Requested Deep Dive Numpy Random Uniform Size Attribute
+https://youtu.be/1kUcW7GFgaI
+
+Python Basics Tutorial Sql Keyword Where With Sqlite
+https://youtu.be/ah0meJtJSs0
+
+Python Basics Tutorial Sqlite One Column Sql Query
+https://youtu.be/cZPO62qJOmU
+
+Python Basics Tutorial Tkinter Menu Tearoff Argument
+https://youtu.be/RBbmE_0QpR4
+
+Python Basics Tutorial Tkinter Text Entry Widget
+https://youtu.be/Yk3J9tB7dDU
+
+Python Basics Tutorial Using Height DP Argument For Kivy BoxLayout Widget
+https://youtu.be/A4f2lnM15uY
+Videos 401-425

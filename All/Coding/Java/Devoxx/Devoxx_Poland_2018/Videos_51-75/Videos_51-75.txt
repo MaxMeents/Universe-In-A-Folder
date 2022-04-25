@@ -1,0 +1,76 @@
+
+A Hitchhiker's Guide to the Functional Exception Handling in Java - Grzegorz Piwowarek
+https://youtu.be/zko8R_alQgw&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+A Look Back at Enterprise Integration Patterns and Their Use into Today's... - Bruno Borges
+https://youtu.be/EbTZ5nSJQwI&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+A Visual Introduction to Inner-Workings of the JVM - Douglas Hawkins
+https://youtu.be/JLFjY6Ixct8&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Blockchain scaling - Lightning Network - Tomasz Konieczny
+https://youtu.be/pL5TuQFaQmk&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Building responsive, scalable systems with asynchrony and flow control - Christopher Batey
+https://youtu.be/FttlADiAqzo&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Closing - Grzegorz Duda
+https://youtu.be/JJJdglxjWaE&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Clustered Event Sourcing and CQRS with Akka and Java - Hugh McKee
+https://youtu.be/15sWtXtKTr8&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Dismantling a Progressive Web App - AMahdy Abdelaziz
+https://youtu.be/jeCOP4IhFrI&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Do not walk away from Complexity, Run - Venkat Subramaniam
+https://youtu.be/nZcLHkORdHE&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Docs in the self-documenting world - Wojtek Erbetowski
+https://youtu.be/2tfzU98B29g&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Don’t use Reactive Streams in Java 9+ - Jacek Kunicki
+https://youtu.be/_stAxdjx8qk&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Eclipse collections by example - Pawel Klaczewski
+https://youtu.be/mx_DEuKP398&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Fn Project – an open source container native serverless platform - Matthew Gilliard
+https://youtu.be/xwLxHB_FSjY&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Go Kotlin Go! - Uberto Barbini
+https://youtu.be/KQWQGNnAjLA&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+IPFS and how to distribute the web - Fredrik Rubensson
+https://youtu.be/4zS396s_-s4&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Java Performance Puzzlers 2018 -- New Performance Puzzles - Douglas Hawkins
+https://youtu.be/zdz_pf22nOI&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Lean WebApps with Skinny Miniservices #usetheplatfom - Adam Bien
+https://youtu.be/BoMT17rbd-k&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Level-up your culture - Tomasz Dubikowski
+https://youtu.be/0lj4bjJqXIU&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Models vs Reality Quest for the Roots of Complexity - Julian Warszawski
+https://youtu.be/HALhnqnOgbk&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Processing Streaming Data with KSQL - Tim Berglund
+https://youtu.be/LM-aQQQes4Q&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Progressive Web Apps Your web app on steroids - Maxence Poutord
+https://youtu.be/6Qids36T7DA&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Staying pure and functional with Spring 5 - Jarek Ratajski
+https://youtu.be/VwjvXLb2SqQ&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+The Art of Web API Design - Paweł Zajączkowski
+https://youtu.be/lUbompq-Muc&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+The Database Unbundled Commit Logs in an Age of Microservices - Tim Berglund
+https://youtu.be/KU-GV6k-1AY&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Thinking Architecturally - Nate Schutta
+https://youtu.be/EfKT1dgsLFA&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+Videos 51-75

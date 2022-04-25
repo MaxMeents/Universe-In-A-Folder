@@ -1,0 +1,22 @@
+
+Color Contrast for Accessibility
+https://youtu.be/V6YY0fmaocc&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Deep dive into Swift Literal
+https://youtu.be/NpPLmSVWMAc&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Generics in protocol extension
+https://youtu.be/Urt1VJShbL4&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Introduction to Swift Keypaths
+https://youtu.be/z4lTKBS0ZbQ&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Limited import clarification and its effect
+https://youtu.be/8OMQ2DiS-zA&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Native macOS application, or the world of AppKit
+https://youtu.be/lSiwCAQVKQk&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Swift as Light
+https://youtu.be/XfDCGvnoLhs&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+Videos 26-32

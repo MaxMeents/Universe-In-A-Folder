@@ -1,0 +1,76 @@
+
+#1 - upgrade to Ruby 2.1, service object gems - Rails Refactoring Podcast
+https://youtu.be/PEdPwRBCQk0
+
+#2 - The Rails Way, rails DNA, rails community history - Rails Refactoring Podcast
+https://youtu.be/Pj-dB8g0m40
+
+#3 - mutation testing, mutant, test coverage - Rails Refactoring Podcast
+https://youtu.be/HsV1b3R5PiU
+
+#4 - improving the Ruby ecosystem - Rails Refactoring Podcast
+https://youtu.be/tA34BR3Tt7Y
+
+#5 - React.Js - Rails Refactoring Podcast
+https://youtu.be/BeGBOhb64Ao
+
+#6 - Frontend-Friendly Rails - Rails Refactoring Podcast
+https://youtu.be/V7LYpA4PYNM
+
+2 stories of event sourcing from the real life (made with Spreaker)
+https://youtu.be/iKe17-NDJCU
+
+Am I worried that developers will be replaced by robots  Async Andrzej #1
+https://youtu.be/NIW7NC5tWSo
+
+Andrzej Krzywda advice on conference talk pre organization
+https://youtu.be/XKQeixOZzjg
+
+Ask Andrzej Anything - 21.04.2016
+https://youtu.be/5RK0DIKnpAg
+
+Book creation process at Arkency - Rails Meets React
+https://youtu.be/Mqz3b02-CpE
+
+Communicate via published Domain Events between Bounded Contexts (Submodules)
+https://youtu.be/OfKQxYvqyDA
+
+DDD basics exploring a domain based on DNA and Hamming Distanc
+https://youtu.be/h5UF4LkGBSk
+
+DDD basics Ruby modules as bounded contexts
+https://youtu.be/4j3IEUdgrv8
+
+From an idea to a Rails 5 production application on Heroku
+https://youtu.be/YdJrONlZ8cU
+
+How to deal with RubyRails magic
+https://youtu.be/hVlW1N34Gr8
+
+Isolate bounded contexts
+https://youtu.be/PECoXdb4YBc
+
+Lessons learnt from introducing DDD in RubyRails projects
+https://youtu.be/nzU_I79kzEw
+
+Robert Pankowecki  - fuckin' startups - TRUG [in Polish language, from Periscope]
+https://youtu.be/-c2hlBe-ERM
+
+Ruby DDD refactoring - extract a domain class
+https://youtu.be/MEpD7ZQwpCw
+
+Ruby line coverage vs mutation coverage
+https://youtu.be/YXFqiwNjDzY
+
+Ruby magic - an example
+https://youtu.be/06i8hblLvpU
+
+The HEAD and TAIL of your Startup
+https://youtu.be/palfmK5p5i0
+
+What's inside Rails meets React.js
+https://youtu.be/TxZRJNezvtk
+
+Why I love React
+https://youtu.be/np3Fj_27oi8
+Videos 176-200

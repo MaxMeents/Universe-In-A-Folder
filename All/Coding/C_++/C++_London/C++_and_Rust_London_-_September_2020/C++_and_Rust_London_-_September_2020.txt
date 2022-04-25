@@ -1,0 +1,10 @@
+
+A Friendly Introduction to Rust - Henrik Niemeyer
+https://youtu.be/NpBk_H7S3zM&list=PLB8iG1kbmdEOWdUHhnW-0wnIskd6RN_RL
+
+Are Graphs Hard in Rust - Payas Rajan
+https://youtu.be/kGaU5kU-5rw&list=PLB8iG1kbmdEOWdUHhnW-0wnIskd6RN_RL
+
+C++ && Rust Ldn - Sept 2020 - Intro
+https://youtu.be/YbVvKhYrrzU&list=PLB8iG1kbmdEOWdUHhnW-0wnIskd6RN_RL
+C++ and Rust London - September 2020

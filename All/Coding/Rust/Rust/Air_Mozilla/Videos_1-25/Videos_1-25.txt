@@ -1,0 +1,76 @@
+
+A Work-stealing Runtime for Rust - Aaron Todd
+https://youtu.be/4DQakkJ8XLI&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+An IO System for Rust
+https://youtu.be/rObyeqXC5nk&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meet-Up
+https://youtu.be/l1wPltXV1m8&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup April 2015
+https://youtu.be/nuK5TljXQbA&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup August 2014
+https://youtu.be/6i2yQh1g4zs&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup August 2015
+https://youtu.be/pv4P4uhSouA&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup December 2014
+https://youtu.be/fO_ox-DGDqw&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup February 2015
+https://youtu.be/h93W4NhPpGM&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup February 2016
+https://youtu.be/EqJ74QViavg&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup January 2016
+https://youtu.be/eHvGQ2qbnRE&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup March 2014
+https://youtu.be/TPS-Lm0e72w&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Bay Area Rust Meetup September 2014
+https://youtu.be/hJaeUDP7puI&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Ben Blum from the Research team presents Types of Types in Rust
+https://youtu.be/MPktBZhJ_xU&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Default Methods in Rust
+https://youtu.be/mvSPL4p_OSQ&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+DXR 2.0 (Part 1 Dog & Pony Show)
+https://youtu.be/nlqMpNPzHI0&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Faster Rust Builds
+https://youtu.be/qQXuAeb7oss&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Friday Plenary Rust and the Community
+https://youtu.be/u7bzkrVb8k0&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Intern Presentation Handsome Macros in Rust
+https://youtu.be/v7i6YSmxPhw&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Intern Presentation Message Passing in Rust
+https://youtu.be/xSoD-CSR9Bk&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Intern Presentation Parallel Programming with Failure in Rust
+https://youtu.be/4QHCenVIQXY&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Intern Presentation Rust Typeclasses
+https://youtu.be/DSR7EHeySlw&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Intern Presentations GC in Rust
+https://youtu.be/qDzZjFHFoZk&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Meetup Rust Paris #5 RustLex by Leo Testard.
+https://youtu.be/TjIir9bNOtk&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+Rust Release Party
+https://youtu.be/BvIx90ic6YA&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+
+RustMeetupParis@Mozilla What New in Rust by Felix S Klock II special MutApocalypse
+https://youtu.be/9iuwRO6cEwA&list=PL85XCvVPmGQhVmdpz9VtAV7EAWk3uvStG
+Videos 1-25

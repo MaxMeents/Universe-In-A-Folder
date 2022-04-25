@@ -1,0 +1,76 @@
+
+100 UE4 Tips and Tricks   Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/zX0gilGIpRQ
+
+Advanced Niagara  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/-UPZuuikYZ0
+
+ARK on iOS Leveraging UE4 for 98% Content Reduction  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/yf4V_E_gbdE
+
+Async Loading Screens and Transition Levels  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/ON1_dEHoNDg
+
+Backend Solution for The Cycle  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/q9Za2e6hfYE
+
+Beyond Authentic Pixel Art in Unreal Engine  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/TLbXNYK4928
+
+Blueprints Blending System Architecture and Creativity  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/gz1ryNs8S04
+
+Blueprints In-depth - Part 2  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/0YMS2wnykbc
+
+Causing Chaos The Future of Physics and Destruction  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/mwbSi2R49ZY
+
+Colour Management – A Bird’s Eye View for Digital Artists  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/PXcTaB5cAoM
+
+Data-Driven Sound Design  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/5RFoz_YVt7s
+
+Digital Material with the Substance Tools  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/ukRt9iRQUOY
+
+Enabling a Look Development Workflow for UE4  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/70uNXZbUJVE
+
+Fantastic Bottlenecks and Where to Find Them  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/0SwlwgV-cz8
+
+Growing a Healthy UE4 Ecosystem   Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/CXhYFwurKL4
+
+Hero AI – Gameplay Abilities Meet Behavior Trees  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/1Dm1G6fUuFs
+
+Integrating an FEM Physics System into Unreal Engine  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/IYClvszCCPA
+
+Introduction to Niagara  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/2CtBa3zEaYU
+
+Layered Materials for Environments  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/dl5fe-DAXRI
+
+Making the Most of Animation Blueprints  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/Oe7fYS9qxmk
+
+New Animation Features in Unreal Engine  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/Zwc9uuOYfFg
+
+Refactoring the Mesh Drawing Pipeline  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/UJ6f1pm_sdU
+
+UE4 Pixel Streaming  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/6r9OZ5RfRJg
+
+Using Plugins to Share Code Among Several UE4 Projects  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/bAQEnOWHJdU
+
+Using Python to Streamline Asset Workflows  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/FOSwlDQY6N0
+Videos 801-825

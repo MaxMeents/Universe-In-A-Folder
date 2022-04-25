@@ -1,0 +1,49 @@
+
+Connecting MATLAB to Raspberry Pi to prototype an image processing algorithm
+https://youtu.be/oqjitgPM2f0&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Creating a Cloud Based People Counter Using MATLAB
+https://youtu.be/G9IdzMcWIbw&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Creating a Visual Theremin Using Raspberry Pi and Simulink
+https://youtu.be/rW1FGzDRPtg&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Getting Started with MATLAB Support Package for Raspberry Pi
+https://youtu.be/32ByiUdOwsw&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Getting Started with Simulink Support Package for Raspberry Pi
+https://youtu.be/wWLBugWJLwQ&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Image Classification on ARM CPU SqueezeNet on Raspberry Pi
+https://youtu.be/WAmGYq1E0qI&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Install the MATLAB Support Package for Raspberry Pi
+https://youtu.be/Z9V4Xcxlc9Q&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Private video
+https://youtu.be/tmMySPPLVGw&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Programming Raspberry Pi with Simulink for robot motor control
+https://youtu.be/kTXzaBOrEXY&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using MATLAB and Raspberry Pi for Face Detection
+https://youtu.be/A2LY-Fu5yAU&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using MATLAB and Raspberry Pi with an Accelerometer
+https://youtu.be/gp6tPcPqJZE&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using MATLAB and Raspberry Pi with an I2C Sensor
+https://youtu.be/olkZBDDiv4k&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using MATLAB and Simulink in the world of IoT
+https://youtu.be/30iuXPIxp18&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using MATLAB with a Raspberry Pi Camera Board
+https://youtu.be/HP0x5iH8g6k&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using Raspberry Pi with MATLAB and Simulink
+https://youtu.be/QYM-5iJwPSk&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+
+Using Simulink to Program Raspberry Pi for Image Inversion
+https://youtu.be/3Bcw2VzlFA0&list=PLn8PRpmsu08rl1WhIlK-gj2H-6koUAHoh
+Raspberry Pi Tutorials

@@ -1,0 +1,31 @@
+
+Arun Gupta - Refactor your Java EE application using Microservices and Containers
+https://youtu.be/Jogdz6gvodU&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Core Design Principles for Software Developers by Venkat Subramaniam
+https://youtu.be/llGgO74uXMI&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam
+https://youtu.be/1OpAgZvYXLQ&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Getting Single Page Application Security Right by Philippe De Ryck
+https://youtu.be/UFPGOvDrTOk&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Good and Wicked Fairies, and the Tragedy of the Commons by Maurice NaftalinKirk Pepperdine
+https://youtu.be/uIHskJc0X8I&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+JavaScript build pipelines with Gulp.js by Stefan Baumgartner
+https://youtu.be/AcCtLUZZkvE&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Lean Startup for Developers conference by Sebastien Arbogast
+https://youtu.be/gLHn8SXPTYg&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+React, a new way to create web components by Mathieu Ancelin
+https://youtu.be/p99NwRgkTl4&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Spring Boot for the web tier by Brian ClozelStéphane Nicoll
+https://youtu.be/7cemYpV1fNI&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+
+Spring Boot for the Web Tier
+https://youtu.be/D0sPK5v8GG4&list=PLRsbF2sD7JVqLEWLgTR8_66RJPs0x-dKl
+Top Talks Tuesday - Devoxx BE 2015

@@ -1,0 +1,76 @@
+
+Advanced Indexing Operation in NumPy Arrays  Python Tutorials
+https://youtu.be/2WTDrSkQBng&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Arithmetic Operation in NumPy Arrays  Python Tutorials
+https://youtu.be/cNIWve1xEU4&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Array Manipulation  flatten and ravel  NumPy Tutorials  Python Programming
+https://youtu.be/6XLXmzv6ajQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Array Manipulation  Insert and Delete Function  NumPy Tutorials  Python Programming
+https://youtu.be/6Z98UzGc-Us&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Array Manipulation  reshape and resize  NumPy Tutorials  Python Programming
+https://youtu.be/KehyltXMrZE&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Array Manipulation  Splitting and Joining Arrays  NumPy Tutorials  Python Programming
+https://youtu.be/rpmp_-Xq0kU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Array Manipulation  transpose and swapaxes  NumPy Tutorials  Python Programming
+https://youtu.be/5vT553CSxas&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Broadcasting  NumPy Tutorials  Python Programming
+https://youtu.be/0u9OzBSRZec&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+DataType in NumPy Library  Python Tutorials
+https://youtu.be/NXu5rYWtOCU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Determinant Of A Matrix  NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/MsRQCmVCzcw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Format String in Plot Function   Matplotlib  Python Tutorials
+https://youtu.be/kwKznZOQRK8&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Indexing Operation in NumPy Arrays  Python Tutorials
+https://youtu.be/bFv66_RXLb4&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Inverse Of A Matrix  NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/ADiR9RNZ5Qk&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Keyword Arguments in Plot Function  Matplotlib  Python Tutorials
+https://youtu.be/jiQ5fBSkkwY&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Matrix in NumPy  Python Tutorials
+https://youtu.be/X5BX0B-YAC0&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Power Of A Matrix  NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/wuEdpAxgbyc&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Program For Matrix Addition and Subtraction
+https://youtu.be/Qmhjg8qVbX8&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Program For Matrix Multiplication
+https://youtu.be/QHWJONiTbmQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Program To Find Transpose Of A Matrix
+https://youtu.be/z_HSnmnDVgA&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorials - Introduction to matplotlib
+https://youtu.be/c47ZFbAWaNg&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorials - Plot Function  pyplot module  matplotlib
+https://youtu.be/cGA22EEOT9A&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Attributes of NumPy Array
+https://youtu.be/9g5HNfNjfJQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Making a Simple Plot Using pyplot module  matplotlib
+https://youtu.be/flwF6aJtmJs&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Slicing Operation in NumPy Array  Python Tutorials
+https://youtu.be/fIXh-gmR7mQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Solve Linear Equation Using NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/0WOY0LcLjUE&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+Videos 126-150

@@ -1,0 +1,76 @@
+
+Episode #017 - Dependent Fields Rails
+https://youtu.be/arAU9pt4fNU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #018 - Caching with Dalli
+https://youtu.be/X_T-gbTo2hg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #019 -  Deleting and Undeleting with Paranoia
+https://youtu.be/Wo8fZK0ePf4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #020 - Not RJS and Turbolinks
+https://youtu.be/7rhSdrY2NEM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #021 - Not RJS and Turbolinks Part 2
+https://youtu.be/3gCsdlwpdCA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #022 - Faye WebSockets - Part 1
+https://youtu.be/IOav0Uju_DQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #023 - UUID in Rails with ActiveUUID
+https://youtu.be/dduZYVufuB8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #024 - Fragment Caching
+https://youtu.be/vNNlNMZXjqc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #025 -  Faye WebSockets   Part 2
+https://youtu.be/4zY_ADCphcA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #026 - Meta Tags
+https://youtu.be/QDD4RfYZESA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #027 - WYSIWYG Editor with Summernote
+https://youtu.be/A3vDRdfEyKs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #028 - WYSIWYG Editor with Trix
+https://youtu.be/bjeXVDOurbc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #029 - Infinite Scrolling
+https://youtu.be/kmRMP1FrKLk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #030 - Eager Loading with Goldiloader
+https://youtu.be/zia2TTkRD0Q&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #031 - Production Deployment on Ubuntu
+https://youtu.be/jHNOcUqiD2g&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #032 - Client Side Validations
+https://youtu.be/PYl2Tz6o-3I&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #033 - Progressive Render
+https://youtu.be/Wj6ISc_oUH8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #034 - Playing with JSON
+https://youtu.be/gvJq257Drp0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #035 - Importing and Exporting CSV Data
+https://youtu.be/qR042JH9Cb4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #036 - ActionControllerRenderer
+https://youtu.be/KXLoxh3o_W0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #037 - ActionCable - Part 1 - Configuration and Basics
+https://youtu.be/66Ro6BA1olM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #038 - ActionCable - Part 2 - More Complex Example
+https://youtu.be/PzGOTyZy3GQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #040 - puma-dev replacement for pow and prax
+https://youtu.be/CJQrYJTlA8w&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #041 - DRY up your Javascript
+https://youtu.be/LVWitgNuSd4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #39 - ActionCable - Part 3 - Securing Your WebSockets
+https://youtu.be/aKVqxvKOFIc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 301-325

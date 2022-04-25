@@ -1,0 +1,13 @@
+
+Amazon Corretto, A Journey into Latency Reduction  Yishai Galatzer - Amazon
+https://youtu.be/pmlAJ31opwM&list=PLrnGDC_amFqUp7qt9Sghmss38wrzfMlOA
+
+Java After 8  Gil Tene - Azul [Hebrew]
+https://youtu.be/XJWgzMVi1MM&list=PLrnGDC_amFqUp7qt9Sghmss38wrzfMlOA
+
+Java.IL UnMeetup - May 2019
+https://youtu.be/yTg373XcXsg&list=PLrnGDC_amFqUp7qt9Sghmss38wrzfMlOA
+
+[Hebrew] Kafka’s New Architecture - Replacing Zookeeper with KafkaesqueGwen Shapira - Confluent
+https://youtu.be/AFookNBtkzU&list=PLrnGDC_amFqUp7qt9Sghmss38wrzfMlOA
+Special Events

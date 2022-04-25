@@ -1,0 +1,76 @@
+
+Animate a Wind Farm with MATLAB (Part 1)
+https://youtu.be/EB2EH5y3wgU
+
+Animate a Wind Farm with MATLAB (Part 2)
+https://youtu.be/Dh-LUp90xVE
+
+Build Your First Circuit Envelope Model
+https://youtu.be/XjUsTNDFhds
+
+Controlling Simulation Performance with Solver Settings
+https://youtu.be/qhtAIpwrhII
+
+Creating Customized Block Libraries
+https://youtu.be/KrenaWTW_SU
+
+Find Variables Used by a Simulink Model
+https://youtu.be/6H-1Z1_xhJ4
+
+Fly a 747 with MATLAB
+https://youtu.be/02C9iUSPcwg
+
+Generate executable for prototyping using MATLAB Coder
+https://youtu.be/QmIaVmoCHdU
+
+Getting Started with Fuzzy Logic Toolbox (Part 1)
+https://youtu.be/O348HnWPm7A
+
+Getting Started with Simulink (Release 2012b)
+https://youtu.be/p9wNjOB9l_M
+
+Getting Started with Simulink 3D Animation (Part 1) - Build a Simulink Model
+https://youtu.be/2kK__pD-6_k
+
+Getting Started with Simulink 3D Animation (Part 2) - Build a 3D World in VRML
+https://youtu.be/WhYA6RvOea0
+
+Getting Started with Simulink 3D Animation (Part 3) - Connect Simulink Model with 3D World
+https://youtu.be/xITaSozcq00
+
+Getting Started with Simulink 3D Animation (Part 4) - Damped Oscillations
+https://youtu.be/YtUnzmmaEpM
+
+Getting Started with Simulink 3D Animation (Part 5) - Temperature Visualization
+https://youtu.be/YHVNQevoQGo
+
+Loading and Logging Data (Release 2012b)
+https://youtu.be/RagtN9zNZ2w
+
+Optimizing a Flight Control System
+https://youtu.be/N3Tm__-77ak
+
+Optimizing Suspension System Performance
+https://youtu.be/Y0MweL_bwEo
+
+PID Controller Design for a DC Motor (Previous Release)
+https://youtu.be/IjEH1k3yrYc
+
+Running Multiple Simulink Simulations in Parallel - MATLAB R2012b
+https://youtu.be/HlsRBzrhr_o
+
+Setting Up a Circuit Envelope Simulation
+https://youtu.be/_D68vISZTQI
+
+Smart Signal Routing
+https://youtu.be/cip-uhC6A_A
+
+State Transition Tables
+https://youtu.be/wVr92hl39jw
+
+Using Bode Plots, Part 1 Closed-Loop Systems
+https://youtu.be/qa02gTTSpVk
+
+Vehicle Dynamics Visualization with Video Output
+https://youtu.be/om4oauPV2Ic
+Videos 2176-2200

@@ -1,0 +1,22 @@
+
+[Unity] Procedural Planets (E01 the sphere)
+https://youtu.be/QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
+[Unity] Procedural Planets (E02 settings editor)
+https://youtu.be/LyV7cEQyZMk&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
+[Unity] Procedural Planets (E03 layered noise)
+https://youtu.be/uY9PAcNMu8s&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
+[Unity] Procedural Planets (E04 multiple noise filters)
+https://youtu.be/H4g-TC__cvg&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
+[Unity] Procedural Planets (E05 shader)
+https://youtu.be/itnLOlQ2QFo&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
+[Unity] Procedural Planets (E06 simple biomes)
+https://youtu.be/Nxr0z6zKhOI&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
+[Unity] Procedural Planets (E07 ocean depth)
+https://youtu.be/OULxvDLojic&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+Procedural Planet Generation

@@ -1,0 +1,16 @@
+
+PHP i18n with gettext 15 The options for storing translations in separate files
+https://youtu.be/363wrIjz9vU&list=PLFbnPuoQkKsfWCNxuWrK90soYPR2BGUXt
+
+PHP i18n with gettext 25 The PHP gettext extension and gettext function
+https://youtu.be/fORDl7Aectk&list=PLFbnPuoQkKsfWCNxuWrK90soYPR2BGUXt
+
+PHP i18n with gettext 35 Create the folders to store the gettext translation files
+https://youtu.be/3Wmu9g7uCME&list=PLFbnPuoQkKsfWCNxuWrK90soYPR2BGUXt
+
+PHP i18n with gettext 45 Install the Poedit editor and create a .po translation file
+https://youtu.be/0GWYdXhj1bI&list=PLFbnPuoQkKsfWCNxuWrK90soYPR2BGUXt
+
+PHP i18n with gettext 55 Configure gettext to use the translation file and show the translations
+https://youtu.be/2UXSdTNPlPA&list=PLFbnPuoQkKsfWCNxuWrK90soYPR2BGUXt
+Using gettext with PHP

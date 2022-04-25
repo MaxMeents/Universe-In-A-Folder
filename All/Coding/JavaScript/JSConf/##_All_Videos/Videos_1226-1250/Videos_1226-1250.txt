@@ -1,0 +1,76 @@
+
+Alex Dickson Emulating With JavaScript - JSConf.Asia 2013
+https://youtu.be/jg6XDY5imZY
+
+Andy Hall Server Side Node.JS Programming With... Photoshop - JSConf.Asia 2013
+https://youtu.be/wqmMqB91zdI
+
+Andy Wingo DIY Internet Snappy, Secure Networking with MinimaLT -- JSConf EU 2013
+https://youtu.be/mik7AwHOVcA
+
+Brian Chirls Getting Serious with Web Video - JSConf.Asia 2013
+https://youtu.be/be6UGdUbcjY
+
+Charlie Crane Building Fast Scalable Game Server in Node.JS (updated) - JSConf.Asia 2013
+https://youtu.be/h3GEagIG47U
+
+Charlie Crane Game server development in node.js -- JSConf EU 2013
+https://youtu.be/NpC1GbPw-fk
+
+Christoph Burgmer A panoramic tour through HTML5 rendering itself -- JSConf EU 2013
+https://youtu.be/vR_fuZDwlZI
+
+DHTMLConf!
+https://youtu.be/p9xucJWqSvo
+
+Dmitry Jemerov Static types in JavaScript what, how and why -- JSConf EU 2013
+https://youtu.be/0r9HPRJUaFo
+
+Eiji Kitamura Making The Mobile Website Faster - JSConf.Asia 2013
+https://youtu.be/Ntjo00m-Be8
+
+Jason Frame Acceptable in the 80s - Revisiting Microworlds -- JSConf EU 2013
+https://youtu.be/mFo6eyEsDoA
+
+John Britton Ops For Everyone - JSConf.Asia 2013
+https://youtu.be/HXhGlgtjcHE
+
+JP de Guzman Fun With Websockets - JSConf.Asia 2013
+https://youtu.be/P16xxzdqze8
+
+JSConf.Asia 2013 Opening
+https://youtu.be/iOQRhZHkbTg
+
+Julien Genestoux Streaming Algorithms in Javascript and Node.js -- JSConf EU 2013
+https://youtu.be/e9httij2RG0
+
+Lea Verou CSS in the 4th Dimension - JSConf.Asia 2013
+https://youtu.be/NTJUFQmHbvc
+
+Michal Budzynski Once Upon A Time, Somewhere Between Your Console And Browser - JSConf.Asia 2013
+https://youtu.be/-nn_0y8jI10
+
+Nat Buckley Make world less shit. NOW. -- JSConf EU 2013
+https://youtu.be/xbIPyBoitCA
+
+Nick Small and Edward Ocampo-Gooding What We Learned by Teaching(.js) -- JSConf EU 2013
+https://youtu.be/nkQaW0hFjcA
+
+Richard Layte & Daniel Perez Alverez circuit-breaker.js -- JSConf EU 2013
+https://youtu.be/DOocsQj4M9o
+
+Shi Chuan Web Movements in China - JSConf.Asia 2013
+https://youtu.be/EgdTjvFmxAg
+
+Simon Tennant The API is dead. Long live the protocol! -- JSConf EU 2013
+https://youtu.be/uwQsU0PwtaE
+
+Tim Messerschmidt Getting to know your users -- JSConf EU 2013
+https://youtu.be/YTlgMXqsuhM
+
+Tim Park The Rise of Things - JSConf.Asia 2013
+https://youtu.be/bHSrSi70s0o
+
+[Reject.JS 2013] Jan Monschke - Making Music With JavaScript and Gamepads
+https://youtu.be/0MigafMWLh0
+Videos 1226-1250

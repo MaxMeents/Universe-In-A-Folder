@@ -1,0 +1,73 @@
+
+Admin - Django Web Development with Python 9
+https://youtu.be/xVAbW1G64bM&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Admin and Apps - Django Web Development with Python p.3
+https://youtu.be/BJfyATa9nX0&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Beginning Blog - Django Web Development with Python 6
+https://youtu.be/uI2KW8K_eks&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Blog View and Template - Django Web Development with Python 7
+https://youtu.be/uGsmuCjZBSU&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Bootstrap HTML CSS - Django Web Development with Python 4
+https://youtu.be/p8qpu9WscFU&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Creating App - Django Web Development with Python 2
+https://youtu.be/iZ5my3krEVM&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Database & Migrations - Django Web Development with Python 8
+https://youtu.be/hU5QSQt6yQc&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Deploying Django to a server - Django Web Development with Python p.12
+https://youtu.be/4FLb1ulb64o&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Django Web Development with Python Introduction
+https://youtu.be/yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Dynamic sidebar - Django Web Development with Python p.11
+https://youtu.be/ZSzGIXYuE1I&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Individual blog pages - Django Web Development with Python 10
+https://youtu.be/W66TcJ7i-Bk&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Introduction - Django Web Development with Python 1
+https://youtu.be/FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Jinja Templating - Django Web Development with Python 3
+https://youtu.be/3tf8XlhsQAo&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Linking models with Foreign Keys - Django Web Development with Python p.9
+https://youtu.be/Rju5qdU0e58&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Messages and Includes - Django Web Development with Python p.7
+https://youtu.be/0VGJPg0SQIY&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Models - Django Web Development with Python p.2
+https://youtu.be/aXxIjeGR6po&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Passing variables from python to html - Django Web Development with Python 5
+https://youtu.be/nWRboXrcipU&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Publishing to a Web Server - Django Web Development with Python 11
+https://youtu.be/Y-CT_l1dnVU&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+SSL for HTTPS with nginx - Django Web Development with Python 12
+https://youtu.be/z0L3u2Vn3Wo&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+Styling w CSS - Django Web Development with Python p.5
+https://youtu.be/a3d_nyccpM8&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+User Login and Logout - Django Web Development with Python p.8
+https://youtu.be/79A1YoQ5ZJc&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+User Registration - Django Web Development with Python p.6
+https://youtu.be/riXD5lSInJ4&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Views and Templates - Django Web Development with Python p.4
+https://youtu.be/j9elKTmCEhY&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+
+Working with Foreign Keys - Django Web Development with Python p.10
+https://youtu.be/NqHX4eF2tw8&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+Django Web Development with Python

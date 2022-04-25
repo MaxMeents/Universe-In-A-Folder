@@ -1,0 +1,76 @@
+
+Args and Kwargs - Intermediate Python Programming p.25
+https://youtu.be/gZB_ENJD34E
+
+Artificial Intelligence - Q&A #9
+https://youtu.be/O9IlAWooibw
+
+Automating getting the S&P 500 list - Python Programming for Finance p.5
+https://youtu.be/C--57BP79EM
+
+Basic Stock data Manipulation - Python Programming for Finance p.3
+https://youtu.be/QAkOnV1-lIg
+
+Combining S&P 500 into one DataFrame - Python Programming for Finance p. 7
+https://youtu.be/j0zW_KXyQJ4
+
+Creating machine learning target function - Python Programming for Finance p. 10
+https://youtu.be/0IHy7J44Xxo
+
+Decorators - Intermediate Python Programming p.18
+https://youtu.be/rPCeCPT-f28
+
+Detecting collisions - Intermediate Python Programming p.20
+https://youtu.be/MF4NWqArewo
+
+Entrepreneurship, support, & finance - Q&A #5
+https://youtu.be/Jk2C3ipXzfI
+
+Error Handling - Intermediate Python Programming p.23
+https://youtu.be/7-2rNHi9EfU
+
+Getting all company pricing data in the S&P 500 - Python Programming for Finance p.6
+https://youtu.be/baCAFPHb1o4
+
+Handling Data and Graphing - Python Programming for Finance p.2
+https://youtu.be/0e-lsstqCdY
+
+Hobbies and Procrastination - Q&A #10
+https://youtu.be/wjPls4leeJI
+
+How I choose topics - Q&A #8
+https://youtu.be/U8cK13rNpws
+
+How I plan my day and tutorials - Q&A #7
+https://youtu.be/JPbK60dP9-M
+
+Installing CPU and GPU TensorFlow on Windows
+https://youtu.be/r7-WPbx8VuY
+
+Intro and Getting Stock Price Data - Python Programming for Finance p.1
+https://youtu.be/2BrpKpWwT2A
+
+Logging - Intermediate Python Programming p.22
+https://youtu.be/-RcDmGNSuvU
+
+More stock manipulations - Python Programming for Finance p.4
+https://youtu.be/19yyasfGLhk
+
+Operator overloading - Intermediate Python Programming p.19
+https://youtu.be/Qhj21B7kTkM
+
+Preprocessing data for Machine Learning - Python Programming for Finance p. 9
+https://youtu.be/Z-5wNWgRJpk
+
+Programming languages, Sentdex history, and more - Q&A #6
+https://youtu.be/GQ0JegrLr64
+
+S&P 500 company correlation table - Python Programming for Finance p. 8
+https://youtu.be/PxUzcDJBEZ4
+
+Special Methods, OOP, Iteration - Intermediate Python Programming p.21
+https://youtu.be/jucLTJCM5jA
+
+__str__ and __repr__  - Intermediate Python Programming p.24
+https://youtu.be/vOqrMPcF7xQ
+Videos 376-400

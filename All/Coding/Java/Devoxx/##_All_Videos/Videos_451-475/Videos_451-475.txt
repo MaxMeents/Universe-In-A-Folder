@@ -1,0 +1,76 @@
+
+12 Ways of the Cloud Native Warrior - Burr Sutter - part 12
+https://youtu.be/M7yNrA82eU8
+
+12 Ways of the Cloud Native Warrior - Burr Sutter - part 22
+https://youtu.be/bujAAujYjJg
+
+Automating your development experience with Atomist - Lieven Doclo
+https://youtu.be/64VL9N8XNl0
+
+Best practices from agile development Why is positive thinking so important for ... - André Grunow
+https://youtu.be/KMZe4D_YbUM
+
+Code Shrinking Techniques with Jakarta EE and MicroProfile #slideless - Adam Bien
+https://youtu.be/FKYetddHz1E
+
+Evolution of Visual Studio Code Java Ecosystem - Xiaokai He, Adi Polak
+https://youtu.be/sVDizUZesZk
+
+Harnessing Complex Event Processing for fraud detection - Daniel Żmuda
+https://youtu.be/aT-WTmYqWG8
+
+Jak przekonać moją firmę żeby wysłała mnie na konferencję - Piotr Przybył
+https://youtu.be/Tm-OFmY68fU
+
+Kubernetes – DOs and DONTs - Michał Ambroziewicz
+https://youtu.be/VqfFuVFBKsE
+
+Micro Frontends – a Strive for Fully Verticalized Systems - David Leitner
+https://youtu.be/BdogUPEC27w
+
+Move over JDBC ADBA and R2DBC are coming! - Frank Lyaruu
+https://youtu.be/34HWqXSeN90
+
+My love-hate relationship with Android Studio - Nishant Srivastava
+https://youtu.be/sl9qMGpEJp8
+
+Ontrack, how to keep track of your CICD mess - Damien Coraboeuf
+https://youtu.be/kYMEbkO31lo
+
+Opening Intro - Voxxed Days Singapore 2019
+https://youtu.be/v8UpRobGUZs
+
+Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka [13]
+https://youtu.be/OdSZ6mOQDcY
+
+Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka [23]
+https://youtu.be/noeWdjO4fyU
+
+Reactive Relational Database Connectivity - Mark Paluch
+https://youtu.be/JKC-sHF6r1c
+
+Site Reliability Engineering & distributed services design - Jessica Man
+https://youtu.be/SVv4FuhhULY
+
+Small things make huge impact at big scale - lessons learned from creating a ... - Jakub Kubal
+https://youtu.be/jdxz094js_Q
+
+Taking Serverless to the Next Level - Danilo Poccia
+https://youtu.be/hpuCLKAyUv4
+
+Voxxed Days Micro Services (21 - 23 Oct 2019 in Paris)
+https://youtu.be/z0htCYjEi5s
+
+WebAssembly for the masses - Sendil Kumar
+https://youtu.be/7WV84L0s7zg
+
+Why we should be scared of Shor's Algorithm right now - James Birnie
+https://youtu.be/8EcLYB6VD4s
+
+YAML Considered Harmful - Philipp Krenn
+https://youtu.be/WQurEEfSf8M
+
+Zmotywuj swój zespół - Anita Przybył
+https://youtu.be/rMXZMKRow3M
+Videos 451-475

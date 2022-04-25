@@ -1,0 +1,13 @@
+
+Making Control System Development Easier with MATLAB and Simulink, Part 2  Plant Modeling
+https://youtu.be/1TQ1i6DtFDY&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3
+
+Making Control System Development Easier with MATLAB and Simulink,Part 3 Control Design
+https://youtu.be/dqFmCJwwWKU&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3
+
+Making Control System Development Easier with MATLAB and Simulink,Part 4 Real Time Testing
+https://youtu.be/__LePVW9D1s&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3
+
+Making Control System Development Easier with MATLAB and Simulink-Introduction to Dynamic Simulation
+https://youtu.be/c8Fjk9TF6Y8&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3
+Making Control System Development Easier with MATLAB and Simulink

@@ -1,0 +1,76 @@
+
+Data Science Tutorial  Creating Text Classifier Model using Naive Bayes Algorithm
+https://youtu.be/sujx3MjEH_0
+
+Data Science Tutorial  Introduction of Text Analytics in R  R Programming Tutorial
+https://youtu.be/bZoC-UW50sI
+
+Data Science Tutorial  Text Analytics in R  - Creating a Stunning Word Cloud in R - Part 1
+https://youtu.be/Y2sAH0Iuu_I
+
+Data Science Tutorial  Text analytics with R  Cleaning Data and Creating Document Term Matrix
+https://youtu.be/qjSeedeF4KQ
+
+dplyr tutorial  how to calculate difference between values of same column  lead and lag function
+https://youtu.be/M5ZTNzEvD3U
+
+dplyr tutorial  how to create new value with mutate function  R Programming tutorial
+https://youtu.be/lRt_Mbsr5zw
+
+dplyr tutorial  how to create nicer data frame using dplyr tbl_df function  R Programming tutorial
+https://youtu.be/t39_nHRFEYg
+
+dplyr tutorial  how to do custom summary of datasets with summarise func  R Programming tutorial
+https://youtu.be/PCqhZ9FCSTE
+
+dplyr tutorial  how to do data sampling using dplyr sampling functions    R Programming tutorial
+https://youtu.be/taAnj3dQ9w8
+
+dplyr tutorial  how to do sort data in R using dplyr arrange function   R Programming tutorial
+https://youtu.be/B_559tl0c2g
+
+dplyr tutorial  how to filter data using filter function  R Programming tutorial
+https://youtu.be/yrVhA8GXvrc
+
+dplyr tutorial  how to find distinct values using dplyr distinct function   R Programming tutorial
+https://youtu.be/04nDi4qj_aI
+
+dplyr tutorial  how to use dplyr pipe operator  R Programming tutorial
+https://youtu.be/P8idxYm8m64
+
+dplyr tutorial  what is tally function and how to use it   R Programming tutorial
+https://youtu.be/GUcTm4nJFyQ
+
+R Shiny Tutorial  How popular your shiny app  Creating a counter to know user visit
+https://youtu.be/Grd3CtxMHhc
+
+R Shiny Tutorial  How to create Dynamic User Interface in shiny
+https://youtu.be/0S8b-TdSvd4
+
+R Shiny Tutorial  How to integrate PDF Document in Shiny
+https://youtu.be/C3OqtcYeZRA
+
+R Shiny Tutorial  UpdateSelectInput Single value filter issue and default value selection
+https://youtu.be/4GkdnhseW8E
+
+Shiny Tutorial  Updating filter values based on previous filter selection  Data Science Tutorial
+https://youtu.be/RLoWB4dUFU0
+
+Shiny web app Tutorial  How to add videos and images in shiny  R Programming Tutorial
+https://youtu.be/Ka2pWqXS1WA
+
+Shiny web app Tutorial  How to create reactive functions in shiny  R Programming Tutorial
+https://youtu.be/emAemGzma7o
+
+Shiny web app Tutorial  How to create tabs in Shiny Web App  R Programming Tutorial
+https://youtu.be/VQdA7XoA-lY
+
+Shiny web app Tutorial  How to download data and plot in shiny  R Programming Tutorial
+https://youtu.be/Y5arqZ9Bp0A
+
+Shiny web app Tutorial  How to hold reactivity using submit button  R Programming Tutorial
+https://youtu.be/JtJgAHrPKNk
+
+Shiny web app Tutorial  How to upload a file in shiny app  R Programming Tutorial
+https://youtu.be/A6VYSCB0TZM
+Videos 776-800

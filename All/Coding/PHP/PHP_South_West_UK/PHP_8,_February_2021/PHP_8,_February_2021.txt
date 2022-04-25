@@ -1,0 +1,7 @@
+
+Developer mindset - which comes first, the test or the code - Naomi Gotts - PHPSW PHP 8, Feb 2021
+https://youtu.be/_6Y3C9lzW8o&list=PLrEpsyNSHj03eEuJjmmyOqJkdwYgdjZDx
+
+Exploring PHP 8.0 - Larry Garfield - PHPSW PHP 8, February 2021
+https://youtu.be/YGiPdX29CrQ&list=PLrEpsyNSHj03eEuJjmmyOqJkdwYgdjZDx
+PHP 8, February 2021

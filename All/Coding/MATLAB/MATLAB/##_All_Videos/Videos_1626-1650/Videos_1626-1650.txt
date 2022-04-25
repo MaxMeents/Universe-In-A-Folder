@@ -1,0 +1,76 @@
+
+3D Volumetric Image Processing Demo - MATLAB Video
+https://youtu.be/RD5cEoPIgOg
+
+Automate Accelerometer Acquisition with National Instruments CompactDAQ Hardware
+https://youtu.be/ZQArjdri7nA
+
+Control LBR Manipulator Motion Through Joint Torque Commands - MATLAB Video
+https://youtu.be/zWLleKqhXHo
+
+Control PR2 Arm Movements Using ROS Actions and Inverse Kinematics - MATLAB Video
+https://youtu.be/l6j9deRD93g
+
+Embedded Web View - Simulink Report Generator
+https://youtu.be/NfG9ixeRPGQ
+
+Essential Tools for Machine Learning - MATLAB Video
+https://youtu.be/k_BrPj3TcTE
+
+HDL Verifier FPGA Data Capture
+https://youtu.be/eHebToNdLpU
+
+Importing CAD Assemblies into Simscape Multibody
+https://youtu.be/gSgWYXBZc0M
+
+Introduction to Deep Learning Machine Learning vs. Deep Learning
+https://youtu.be/-SgkLEuhfbg
+
+Introduction to Deep Learning What Are Convolutional Neural Networks
+https://youtu.be/ixF5WNpTzCA
+
+Introduction to Deep Learning What Is Deep Learning
+https://youtu.be/3cSjsTKtN9M
+
+Introduction to Simulink Hardware Support for Android and iOS Mobile Devices
+https://youtu.be/q4nc-VkC83I
+
+Log Temperature Data from Arduino into MATLAB
+https://youtu.be/-5UUI_Mb7Ls
+
+MATLAB and Simulink Mobile Devices Challenge 2017
+https://youtu.be/FK9cTEiWkBU
+
+MATLAB for New Users
+https://youtu.be/Nw7r4i6Ixio
+
+Measure Angular Position with a Rotary Encoder Using National Instruments DAQ Hardware
+https://youtu.be/gayPmHOcqH0
+
+Mission on Mars Robot Challenge 2016 France - MATLAB and Simulink Video
+https://youtu.be/JDjKOeBt-kY
+
+Optimal State Estimator Algorithm  Understanding Kalman Filters, Part 4
+https://youtu.be/VFXf1lIZ3p8
+
+Read a Waveform from an Oscilloscope Using the Test and Measurement Tool
+https://youtu.be/CGZvTvfLZwU
+
+Read LSM303 Accelerometer Data from Arduino with a MATLAB Add-On Library
+https://youtu.be/mVnsONl89oI
+
+Signal Analysis Made Easy
+https://youtu.be/9aTuzwYJI8g
+
+Simplified Programming of Function Generators Using the Quick Control Interface
+https://youtu.be/km-c5XpGvvc
+
+Temporal Logic Operators - Stateflow Video
+https://youtu.be/ss4IH3b8Mis
+
+Volume Visualization App - MATLAB Video
+https://youtu.be/ZaYH2bAz2go
+
+Wireless Connectivity in Simulink Hardware Support Packages
+https://youtu.be/GPxM8qXyJqg
+Videos 1626-1650

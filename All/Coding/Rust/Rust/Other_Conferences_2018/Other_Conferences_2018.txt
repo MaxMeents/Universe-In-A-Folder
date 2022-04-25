@@ -1,0 +1,31 @@
+
+Ian Hobson - An introduction to Rust for audio developers
+https://youtu.be/Yom9E-67bdI&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Interactive Data Visualization Leveraging Jupyter, Rust and WebAssembly  SciPy 2018   Munk
+https://youtu.be/5dl_m_6T2bU&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Mozilla - How Rust Does Open Development - June 13, 2018
+https://youtu.be/rdmpOktHLmM&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Rust Async Programming in 2018 • Katharina Fey • GOTO 2018
+https://youtu.be/j0SIcN-Y-LA&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Rust Programming Techniques
+https://youtu.be/vqavdUGKeb4&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+RustBelt Securing the Foundations of the Rust Programming Language
+https://youtu.be/Cy9NUVaiYUg&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Scale By The Bay 2018 Bryan Cantrill, Rust and Other Interesting Things
+https://youtu.be/2wZ1pCpJUIM&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Should you rewrite in Rust
+https://youtu.be/6jqy-Dizd0I&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Three years of Rust - A look around - Florian Gilcher [ACCU 2018]
+https://youtu.be/S6vIekisOJA&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+
+Zen and the Art of Convincing Your Company to Use Rust • Ashley Williams • GOTO 2018
+https://youtu.be/Pn-1so-Ibsg&list=PL85XCvVPmGQicFBseoxMnSb0Z5kjS50mo
+Other Conferences 2018

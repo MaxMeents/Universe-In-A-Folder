@@ -1,0 +1,76 @@
+
+8 Tableau Shortcuts - Increase your Productivity in Tableau using this important tableau shortcuts
+https://youtu.be/XA2io8HHaJg
+
+Data Exploratory Analysis (EDA) in Python using Jupyter Notebook
+https://youtu.be/T_K6MTWYzf4
+
+Explore Entire Dataset in Python with just One Line of Code
+https://youtu.be/F50HiRggl8o
+
+How to Tune Parameters Hyperparameters How to do Data Science Projects Machine Learning in Python
+https://youtu.be/WsT4T6Zo1cE
+
+Julia Tutorial -  Intro to Julia  How to download  How to install Julia and Jupyter notebooks
+https://youtu.be/n4mTctw3ERs
+
+Machine Learning Algorithms
+https://youtu.be/weAp7EPLOVw
+
+Power BI Line and Column Stack Bar Chart
+https://youtu.be/V-vTyjknnNg
+
+Predicting Boston Housing Prices in Python using sklearn, statmodels libraries
+https://youtu.be/aBQzZ7NO-z4
+
+Python Data Science Complete Course for Beginners - Part 1 - Analyze, Visualize and Predict
+https://youtu.be/L4KKeLbGDsI
+
+Python Lambda Expressions (Anonymous Functions)  Python Tutorial for Beginners [Full Tutorial]
+https://youtu.be/ue8UICrzwVI
+
+Python Matplotlib Tutorial  Matplotlib Tutorial  Python Tutorial  Python Training  Part 1
+https://youtu.be/0seDdLDvqB4
+
+Python Matplotlib Tutorial  Matplotlib Tutorial  Python Tutorial  Python Training  Part 2
+https://youtu.be/R8lDGu-P_eI
+
+Qlik Sense Complete Tutorial For Beginners [Full Course] - Part 1
+https://youtu.be/mQ1imMzoTE8
+
+SQL for Data Science Course - What topics you would like to learn
+https://youtu.be/v9gOLq2jk5Q
+
+Tableau Dashboard Basic Tutorial for Beginners [Complete Tutorial]
+https://youtu.be/6KF2yD2WSFM
+
+Tableau Data Analytics Case Study  Data Visualization  How to do data science Projects
+https://youtu.be/cdhhso9vVig
+
+Tableau projects for practice - Step by Step Solution for Beginners  TABLEAU PRACTICE PROJECT #2
+https://youtu.be/QOdF9yqWQCk
+
+Tableau Step by Step Data Science Project From Scratch
+https://youtu.be/KEjft-J0thA
+
+Time Series Analysis & Forecasting  How to Check if the Time Series is Stationary or Not
+https://youtu.be/HR4kiiaKTDM
+
+Time Series Analysis and Forecasting in Python - Forecasting Sales  Interview Question
+https://youtu.be/qwEimCJoGQQ
+
+Time Series Analysis in Python  Time Series Forecasting Project [Complete]  Python Data Science
+https://youtu.be/MmC4b7gPY0Q
+
+Time Series Analysis in Python 2  Data Science Project [Complete]  Python Data Science
+https://youtu.be/-z_3W1Xypro
+
+Time Series Analysis in Python 3  Data Science Project [Complete]  Python Data Science
+https://youtu.be/TKkjHz8JYPI
+
+Working and managing Julia Environment and using Julia in built Help
+https://youtu.be/2Z7bB-Rvp-Y
+
+Your First Program in Julia - Writing Calculations and Printing Strings - Hello World
+https://youtu.be/bb5dpfH9M_8
+Videos 401-425

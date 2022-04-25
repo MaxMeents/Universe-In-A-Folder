@@ -1,0 +1,49 @@
+
+DFS Implementation Using Stack Data Structure  Graph Traversal Algorithm
+https://youtu.be/pBasV9jlQ0w&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+DFS Recursive Function Working  Python Program  Data Structure
+https://youtu.be/SOlUb4eMbMQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graph Operations - Deletion  Data Structure  Python Tutorials
+https://youtu.be/96pQDQ11cBo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graph Traversal Algorithm  Depth First Search  Data Structure  Part 2
+https://youtu.be/FwiQs0es1lQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graph Traversal Algorithm  DFS  Data Structure
+https://youtu.be/QUlkiLgFdHU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graphs With Multiple Edges  Data Structure
+https://youtu.be/ZepvInQ4ESE&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Number Pattern - Reverse Floyd's Triangle
+https://youtu.be/tk3btsY1Rao&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program For Graph Deletion Operation  Delete Edge  Adjacency List  Data Structure
+https://youtu.be/g0P6wBz7Y-I&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program For Graph Deletion Operation  Delete Edge  Adjacency Matrix  Data Structure
+https://youtu.be/0JEnNTPjHM0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program For Graph Deletion Operation  Delete Node  Adjacency List  Data Structure
+https://youtu.be/Am3g025nqXA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program For Graph Deletion Operation  Delete Node  Adjacency Matrix  Data Structure
+https://youtu.be/S8diyK9XsRQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement DFS Using Iterative Approach  Using Stack  Data Structure
+https://youtu.be/dqnZShCbQiI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement DFS Using Recursion  Data Structure
+https://youtu.be/Y-I9b3rOo3Q&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Graph Insertion Operation  Add Edge  Adjacency List  Data Structure
+https://youtu.be/9RB-DB3kUm0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Graph Insertion Operation  Add Edge  Adjacency Matrix  Data Structure
+https://youtu.be/QlHzz_NR3zg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Graph Insertion Operation  Add Node  Adjacency List  Data Structure
+https://youtu.be/mDSoQbQYuSk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 351-366

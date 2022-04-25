@@ -1,0 +1,76 @@
+
+Advanced physics and effects  Feature Highlight  Unreal Engine
+https://youtu.be/8uRi7bKPTes
+
+Chaos Fundamentals  Live from HQ  Inside Unreal
+https://youtu.be/hx9dHgcN0bE
+
+Creating Unreal Visualizations with Twinmotion  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/Yfa1wMcAeCI
+
+Digital Domain - Building a Real-Time Digital Human Framework for Live Events  SIGGRAPH 2019
+https://youtu.be/L1cG2gba6v8
+
+Enhanced pipeline integration  Feature Highlight  Unreal Engine
+https://youtu.be/kcvdRPzrhlI
+
+Event Recap   SIGGRAPH 2019  Unreal Engine
+https://youtu.be/klANye5JeUA
+
+Fox VFX Lab - Virtual Production and Collaborative Filmmaking  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/ai6PH61PMvM
+
+Framestore - Next-Gen Rides  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/4dwFgrNnio8
+
+Fundamentals of Ray Tracing  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/wHnz0YKaZYU
+
+GiantStep - Digital Humans 101 The Process Behind Project Vincent  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/YqzAwCFDXFo
+
+Halon Entertainment - A Rewarding Journey  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/0s3omYjmHjs
+
+HOK - Gaming the Future of Architecture  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/-5bt1Rmu7hs
+
+ILMxLAB - Inside Vader Immortal  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/0ZTUr0wJodg
+
+Magic Leap - Spatial Computing and the Future of Enterprise  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/4jpFGGqND5A
+
+News and Community Spotlight  August 22, 2019  Unreal Engine
+https://youtu.be/S_ivJWJ-NVY
+
+News and Community Spotlight  August 29, 2019  Unreal Engine
+https://youtu.be/Tu_v8kc5bIg
+
+PBR Workflows  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/DGrnJ1Ar-tI
+
+Quixel - Rebirth Leveraging Scan Data in UE4  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/K1cpRZ8BUF8
+
+Real-Time Archviz  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/DTd2jaR1scg
+
+Sequencer for Linear Animation Workflows  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/JtBWWG_2zFc
+
+Sequin - Planning Choreographed AR Performances  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/db1vKgTG590
+
+Unreal Editor enhancements  Feature Highlight  Unreal Engine
+https://youtu.be/mjlaqQLUI6Y
+
+Unreal Insights  Live from HQ  Inside Unreal
+https://youtu.be/TygjPe9XHTw
+
+Variant Management - Part 1  Tips & Tricks  Unreal Engine
+https://youtu.be/VHQdS3QnMow
+
+Variant Management - Part 2  Tips & Tricks  Unreal Engine
+https://youtu.be/BfgLsPcb0hs
+Videos 701-725

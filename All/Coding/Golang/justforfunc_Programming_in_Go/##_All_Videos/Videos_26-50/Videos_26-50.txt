@@ -1,0 +1,76 @@
+
+justforfunc #10 implementing the context package
+https://youtu.be/8M90t0KvEDY
+
+justforfunc #10k thanks!
+https://youtu.be/kuted8F2KJw
+
+justforfunc #11 code review of an IRC package's API
+https://youtu.be/nhElL62BSn0
+
+justforfunc #12 a Text to Speech server with gRPC and Kubernetes
+https://youtu.be/XaMr--wAuSI
+
+justforfunc #13 more text to speech with cgo and Docker multistage builds! (4k)
+https://youtu.be/yuW6BwOS8Eg
+
+justforfunc #14 a twitter bot and systemd (that runs free on GCP)
+https://youtu.be/SQeAKSJH4vw
+
+justforfunc #15 a code review with logging, errors, and signals
+https://youtu.be/c5ufcpTGIJM
+
+justforfunc #16 unit testing HTTP servers
+https://youtu.be/hVFEV-ieeew
+
+justforfunc #17 contributing to the Go project
+https://youtu.be/DjZMKKfNVMc
+
+justforfunc #18 understanding Go's type aliases
+https://youtu.be/Vg603e9C-Vg
+
+justforfunc #19 mastering io.Pipes
+https://youtu.be/LHZ2CAZE6Gs
+
+justforfunc #20 code reviewing ursho (part 1)
+https://youtu.be/SWKuYLqouIY
+
+justforfunc #21 reviewing ursho II - using PostgreSQL
+https://youtu.be/zBc338CZRpk
+
+justforfunc #22 using the Go execution tracer
+https://youtu.be/ySy3sR1LFCQ
+
+justforfunc #23 plotting latency distributions with gonum
+https://youtu.be/77ZFKuMLkp4
+
+justforfunc #24 what's the most common identifier in the Go stdlib
+https://youtu.be/k23xhJoTbI4
+
+justforfunc #25 deeper program analysis with goparser
+https://youtu.be/YRWCa84pykM
+
+justforfunc #26 why are there nil channels in Go
+https://youtu.be/t9bEg2A4jsw
+
+justforfunc #3 The Magic Gate (part 2)
+https://youtu.be/uIA1s3Rhpv8
+
+justforfunc #4 Code Review for a Twitter client
+https://youtu.be/MnbMWNR_XZc
+
+justforfunc #5 Defining a Color Flag in Go
+https://youtu.be/4D506W1AjeM
+
+justforfunc #6 Flappy Gopher
+https://youtu.be/aYkxFbd6luY
+
+justforfunc #7 Flappy Gopher II - Handling Events
+https://youtu.be/tX_Fgt0gVbQ
+
+justforfunc #8 Flappy Gopher III - Collision detection
+https://youtu.be/jy9XKfYjtwE
+
+justforfunc #9 The Context Package
+https://youtu.be/LSzR0VEraWw
+Videos 26-50

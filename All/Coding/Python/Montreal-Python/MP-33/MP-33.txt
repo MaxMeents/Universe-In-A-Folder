@@ -1,0 +1,22 @@
+
+Introduction to using Jenkins CI to test your Python code #MP33
+https://youtu.be/iGtM_OP01FU&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+
+La plateforme de création Fabric Engine #MP33
+https://youtu.be/AR8sbabx02c&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+
+Module of The Month itertools #MP33
+https://youtu.be/VxPoJbpqAzI&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+
+Présentation sommaire de OpenERP  #MP33
+https://youtu.be/BpagyMZTm2U&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+
+PyCon Canada Wrapup #MP33
+https://youtu.be/ppHrKyukYNY&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+
+Python and SAP #MP33
+https://youtu.be/eFX3gCUtoWM&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+
+Writing OpenERP modules in Python  #MP33
+https://youtu.be/JoanllMbmGw&list=PLQIcnBElABavvYkNxB8dE1__t9Do4DAZJ
+MP-33

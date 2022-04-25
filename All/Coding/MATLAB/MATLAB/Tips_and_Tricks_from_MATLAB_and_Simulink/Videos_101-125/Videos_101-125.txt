@@ -1,0 +1,76 @@
+
+Approximate Functions with HDL-Optimized Lookup Tables
+https://youtu.be/Vl0dBWn9CiI&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Automate Scheduling with the Schedule Editor API
+https://youtu.be/ifaOa1EV3Pk&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Build a Map and Localize a Vehicle from Lidar Data
+https://youtu.be/aQboIGftYiY&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Call C++ Libraries from MATLAB
+https://youtu.be/fJCvGHfrSYA&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Component-Based Modeling in Simulink
+https://youtu.be/fLVmzhCltHo&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Customize Your Object Display
+https://youtu.be/UZfaCIWZ7B4&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Data-Free Parameter Pruning and Quantization
+https://youtu.be/4xhRcOvHxzY&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Defining AUTOSAR Component Interfaces
+https://youtu.be/nEUcoG9jZ_I&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Design and Deployment of an Automated Parking Valet on ROS and ROS2 Networks
+https://youtu.be/xKyY7jK0GPw&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Enforce Constraints for PID Controllers
+https://youtu.be/SLM_yjMHw5o&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Estimate Phone Orientation Using Sensor Fusion
+https://youtu.be/J-9Z3pMUrdI&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+How to Automatically Detect Design Errors in Your Simulink Models
+https://youtu.be/Jj5nlb0dA8c&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+How to Build a Linux Executable from an AUTOSAR Adaptive Model in Simulink
+https://youtu.be/kjt3s1pqT7k&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+How to Import C Code into Simulink for Testing
+https://youtu.be/atfO_3Wt2t8&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+How to Use BERT Models for Natural Language Processing (NLP) Tasks in MATLAB
+https://youtu.be/wqIyBTiKulA&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Improvements to Multiple Block and Line Editing
+https://youtu.be/e6oRl3ZB5JA&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Material Classification Using Vibration Data and Machine Learning
+https://youtu.be/P1D0VUbFsQY&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+MATLAB Online Server – Host MATLAB Online on Your Infrastructure
+https://youtu.be/x1a82LH8cJs&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Model Surgery in Action
+https://youtu.be/rRcXcdvlx_E&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Performing Parametric Analysis with System Composer
+https://youtu.be/Hrrr1gsoOXE&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Prototype FPGA Design on Hardware from the MATLAB Command Line
+https://youtu.be/SBxVgySjg0Q&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Scheduling for AUTOSAR Architecture Models in Simulink
+https://youtu.be/XnU91m-AMPk&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Shift Left with Polyspace Find Bugs as You Code
+https://youtu.be/ui48-EW8jYs&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Supercharge Your App Designer Apps with Your Own Custom UI Components
+https://youtu.be/yWZEN9VhBXU&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Using MATLAB with Python
+https://youtu.be/6Ji4vuJg2dw&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+Videos 101-125

@@ -1,0 +1,76 @@
+
+Episode #125 - Turbolinks 5  Preview
+https://youtu.be/4Ss55NoKp4M
+
+Episode #126 - Turbolinks iOS Hybrid App  Preview
+https://youtu.be/Qkbmv2drgwE
+
+Episode #127 - ActiveRecord Tricks
+https://youtu.be/1ZkwvPMiq4Q
+
+Episode #128 - Blockchain in Ruby on Rails  Preview
+https://youtu.be/Kr5xBlKPI6A
+
+Episode #129 - Preparing for General Data Protection Regulation  Preview
+https://youtu.be/z4xkiG7Z6YI
+
+Episode #130 Debugging with Remote Pry  Preview
+https://youtu.be/Li4wwKIpRhU
+
+Episode #131 - Web Interactions with Mechanize  Preview
+https://youtu.be/XCQGCSAseBA
+
+Episode #132 - Ruby on Rails Development on Microsoft Windows 10
+https://youtu.be/j3AQhqXCuAo
+
+Episode #133 - Dynamic Select Fields  Preview
+https://youtu.be/IvzODSXkST0
+
+Episode #134 - Ruby Go Lang Extensions  Preview
+https://youtu.be/S-zsQYvXBAA
+
+Episode #135 - Using GitLab Runner for CICD  Preview
+https://youtu.be/pk6u6TJ_yF8
+
+Episode #136 - User Notifications
+https://youtu.be/6HYi_VUuegM
+
+Episode #137 - Multistep Form with Wicked  Preview
+https://youtu.be/0xwrNIME03Y
+
+Episode #138 - Rails API App - Authentication with JWT  Preview
+https://youtu.be/H6ez8YvOAoc
+
+Episode #139 - Search Encrypted Attributes with Blind Index  Preview
+https://youtu.be/Kt_QznC8r9s
+
+Episode #140 - Editors
+https://youtu.be/c7FKlz3C5jI
+
+Episode #141 - Observer Patterns  Preview
+https://youtu.be/4hkl3BkGOZc
+
+Episode #142 - Rails API Versioning  Preview
+https://youtu.be/2LfE0Ie_sI4
+
+Episode #143 - iOS authentication with a Rails API  Preview
+https://youtu.be/qy2yyAVj0OU
+
+Episode #144 - Creating PDF Files with WickedPDF  Preview
+https://youtu.be/IMOtbqd4aCQ
+
+Episode #145 - Improving Partial Loading Performance
+https://youtu.be/fP4zMF6lRDM
+
+Episode #146 - Rails API Documentation  Preview
+https://youtu.be/rI2dRWqp8FY
+
+Episode #147 - State Machines with AASM  Preview
+https://youtu.be/qozeaaVZGSI
+
+Episode #148 - ActiveRecord Callbacks  Preview
+https://youtu.be/K_nMVWxZTyY
+
+Episode #149 - Rails Presenters
+https://youtu.be/_MLqWy81Kkc
+Videos 201-225

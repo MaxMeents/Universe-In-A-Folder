@@ -1,0 +1,76 @@
+
+A Crash Course on Worker Threads - Rich Trott  JSConf Hawaii 2020
+https://youtu.be/GRb-XQ5JRA8
+
+A Seat at the Table Building Inclusive Ecosystems - Erica Stanley  JSConf Hawaii 2020
+https://youtu.be/YqLFTQs4RDg
+
+Advanced Design System Considerations - Alex Sexton  JSConf Hawaii 2020
+https://youtu.be/EDyiaDJJu-4
+
+Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015
+https://youtu.be/QCBXt6ixnLE
+
+Custom Hooks in React The Ultimate UI Abstraction Layer - Tanner Linsley  JSConf Hawaii 2020
+https://youtu.be/J-g9ZJha8FE
+
+Digital Witchcraft Magical Thinking for Digital Design - Danae Valentina  JSConf Hawaii 2020
+https://youtu.be/eX5iBE2Zu4I
+
+Functional UIs and Unidirectional Dataflow by Mikael Brevik at JSConf Budapest 2015
+https://youtu.be/Pbqratnt9Io
+
+Getting started with three js and WebGL by Jaume Sanchez Elias at JSConf Budapest 2015
+https://youtu.be/aeEhGBtgtXo
+
+How to Wait - Max Goodhart  JSConf Hawaii 2020
+https://youtu.be/UTol97sYpSI
+
+How you can fix your community in one day by Anika Lindtner at JSConf Budapest 2015
+https://youtu.be/tSssv1Df2JE
+
+Impactful Accessibility The Changes that Mean the Most - Lindsey Dragun  JSConf Hawaii 2020
+https://youtu.be/z2BhxxbKJ_E
+
+Invisible Code by Martin Kleppe at JSConf Budapest 2015
+https://youtu.be/Ychs0T-4xoU
+
+JavaScript for Virtual Reality by Liv Erickson at JSConf Budapest 2015
+https://youtu.be/YF-osnGDqE0
+
+Kill All Mutants! (Introduction to Mutation Testing) - Dave Aronson  JSConf Hawaii 2020
+https://youtu.be/yNMBOj7JUPs
+
+Look What You MIDI Me Do! - Rachel White  JSConf Hawaii 2020
+https://youtu.be/ywKWAxMVd3Q
+
+Progressive Rendering Improve Performance on Slower Networks - Dinesh Pandiyan  JSConf Hawaii 2020
+https://youtu.be/iYW7vKCqN6g
+
+React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane  JSConf Hawaii 2020
+https://youtu.be/vEQkgBzunRc
+
+TC39 Panel, Moderated by Cassidy Williams  JSConf Hawaii 2020
+https://youtu.be/7UmhSRWQq9M
+
+The Art of Code Comments - Sarah Drasner  JSConf Hawaii 2020
+https://youtu.be/yhF7OmuIILc
+
+The disconnected ensemble scattered clouds, underground by Soledad Penades at JSConf Budapest 2015
+https://youtu.be/ZKFE19AbbvE
+
+Transform your codebase without breaking a sweat by Sufian Rhazi at JSConf Budapest 2015
+https://youtu.be/U4vEKRffIFE
+
+Using Machine Learning to Improve UIUX - Milecia McGregor  JSConf Hawaii 2020
+https://youtu.be/3lcsAWLf6yk
+
+Very Responsive Typography with Variable Fonts - Mandy Michael  JSConf Hawaii 2020
+https://youtu.be/kl72S-eBiTk
+
+What if the user was a function  by Andre Staltz at JSConf Budapest 2015
+https://youtu.be/gG2S0tLrZCE
+
+Your Tests Lack Vision Adding Eyes to Your Automation Framework - Angie Jones  JSConf Hawaii 2020
+https://youtu.be/Tx7L-33Po2o
+Videos 76-100

@@ -1,0 +1,7 @@
+
+Firebase Authentication Tutorial - Anonymous Sign In (CODE EXAMPLE)
+https://youtu.be/eYqHUgWNjXg&list=PL_csAAO9PQ8ZqOuC1khL4Sb1Reons4g3o
+
+Firebase Authentication Tutorial - Anonymous Sign In
+https://youtu.be/m_TyAgt762A&list=PL_csAAO9PQ8ZqOuC1khL4Sb1Reons4g3o
+Anonymous Sign in with Firebase in Swift 5

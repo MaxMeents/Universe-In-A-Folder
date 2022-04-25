@@ -1,0 +1,58 @@
+
+3D sound - the easy way [Game Maker Studio 2  Basics]
+https://youtu.be/BfFE_Yw04Kc&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Access data structures + arrays [Game Maker  Basics]
+https://youtu.be/hnYtW4ang4I&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Animation control [Game Maker Studio 2  Basics]
+https://youtu.be/YruUm8SnfZQ&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Blurry text [Game Maker Studio 2  Basics]
+https://youtu.be/16LVo-fdDDs&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Easy to do tileset collision [Game Maker Studio 2  Basics]
+https://youtu.be/b4WNJOsDLTM&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Fakevirtual input threshold [Game Maker Studio 2  Basics]
+https://youtu.be/KGevdZKu_Nk&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Heat effect - quick n dirty  [GameMaker Studio 2  Vfx]
+https://youtu.be/0rHLIh4dR8s&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+How to change the window title [Game Maker Studio 2  Basics]
+https://youtu.be/9LNTEk8Ongo&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+How to make a world map [Game Maker Studio 2  Basics]
+https://youtu.be/xSGCJk2JtAI&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+How to move diagonal correctly [Game Maker Studio 2  Basics]
+https://youtu.be/y7SHWtjeqAM&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Html5 export [Game Maker Studio 2  Basics]
+https://youtu.be/95CiTScrY_E&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Nine slices ninja style [GameMaker Studio Update 2.32]
+https://youtu.be/ivtutJDAIdI&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Orbiting bubble shield Megaman style [Game Maker Studio 2  Basics]
+https://youtu.be/w3EV4HAvpHs&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Pathfinding #1 - One line [Game Maker Studio 2  Basics]
+https://youtu.be/RmOqnp5d33Q&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Pathfinding #2 - Better one liner [Game Maker Studio 2  Basics]
+https://youtu.be/UZhLV13HAno&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Ps3 controller in Gms2 [Game Maker Studio 2  Basics]
+https://youtu.be/5WwDuvdqSfQ&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+The holy trinity of creation [Game Maker Studio 2  Basics]
+https://youtu.be/05I23Y5mswI&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+Traps A sharp saw blade  [Game Maker Studio 2  Basics]
+https://youtu.be/uQM5Xu1Gs18&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - A must know! - Fonts + chars + language
+https://youtu.be/QIfgwtgSl4s&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+Videos 126-144

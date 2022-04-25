@@ -1,0 +1,19 @@
+
+Python Basics Tutorial More Numpy Slicing
+https://youtu.be/sNSJEsu36IA&list=PLaYT64KWZAEMx9KgC5xJL0WaLBk3wi_Nc
+
+Python Basics Tutorial Numpy Advance Indexing Broadcast
+https://youtu.be/XjlBthw-KV4&list=PLaYT64KWZAEMx9KgC5xJL0WaLBk3wi_Nc
+
+Python Basics Tutorial Numpy Array Tolist Method
+https://youtu.be/jn2KEsKk2dw&list=PLaYT64KWZAEMx9KgC5xJL0WaLBk3wi_Nc
+
+Python Basics Tutorial Numpy Intro Linear Algebra Package
+https://youtu.be/z4Csce88jc8&list=PLaYT64KWZAEMx9KgC5xJL0WaLBk3wi_Nc
+
+Python Basics Tutorial Numpy Linear Algebra Inv And Dot Functions
+https://youtu.be/2w-364DUSbg&list=PLaYT64KWZAEMx9KgC5xJL0WaLBk3wi_Nc
+
+Python Basics Tutorial Numpy Linear Algebra Solve Function
+https://youtu.be/Zbhtm6vCurE&list=PLaYT64KWZAEMx9KgC5xJL0WaLBk3wi_Nc
+Videos 26-31

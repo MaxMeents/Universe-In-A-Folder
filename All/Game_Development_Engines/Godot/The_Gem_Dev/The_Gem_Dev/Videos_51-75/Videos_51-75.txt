@@ -1,0 +1,76 @@
+
+#1 Platformer Game - Basic Movement  GDevelop 5
+https://youtu.be/zTFZ8nJNZyo&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#2 Platformer Game - Smooth Camera & Parallax Background  GDevelop 5
+https://youtu.be/NbKakNEMcUc&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#3 Platformer Game - Adding enemies  GDevelop 5
+https://youtu.be/dj6-AdyBQlQ&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#4 Platformer Game - Adding Player Lives  GDevelop 5
+https://youtu.be/6bh0Bsur1YM&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#5 Platformer Game - Adding Score  #GDevelop 5
+https://youtu.be/Uu_5O6uW0qY&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#6 Platformer Game - Player Attack (Super Mario Style)  #GDevelop 5
+https://youtu.be/tZcZyqILY-Q&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#7 Platformer Game - Moving Platforms  GDevelop 5
+https://youtu.be/4-F_soA3m7U&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+#8 Platformer Game - Ladders and Jumpthru Platforms  GDevelop 5
+https://youtu.be/0XEAvpstAAE&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Air Hockey  GDevelop 5
+https://youtu.be/_VJqiA66-vk&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Death Animation  GDevelop 5
+https://youtu.be/R2hZwmnkCdY&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Enemy Follow Player  GDevelop 5
+https://youtu.be/JzO3WheufxQ&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Export for Mobile  GDevelop 4
+https://youtu.be/Qk4daNN8HGs&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Fade Extension  GDevelop 5
+https://youtu.be/W3jeg8JxdQA&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+GDevelop 5 beta 101 Released! - New assets store and many more…
+https://youtu.be/3WuN3DQirH4&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+GDevelop Beta 104 Released! - New Tilemap Feature
+https://youtu.be/xkv98PSmATk&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+GDevelop Tilemap Object Sneak Peek
+https://youtu.be/gYRe0tXNEt4&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+How to create a Digital Clock  GDevelop 5
+https://youtu.be/IXgUtdoAn3k&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+How to create a Password System  GDevelop 5
+https://youtu.be/LVBhY7_m408&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+How to Create an Online Multiplayer Game in GDevelop 5  Peer-to-Peer! [Easiest Way]
+https://youtu.be/3cf5Z5l9gvk&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+How to Share your GDevelop Game Score to a Social Media  GDevelop
+https://youtu.be/cP7ffXQzLs0&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+How To Use The Light Object   GDevelop 5
+https://youtu.be/NaeOsm1TKiM&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+I Made Among Us in GDevelop 5  -  Source Code Included
+https://youtu.be/iQrJjjd0Te0&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Internet Connectivity Extension  GDevelop 5
+https://youtu.be/10-cnMfhfdw&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Rider Game  GDevelop 5
+https://youtu.be/HhDmNIHu3fU&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+
+Rock, Paper, Scissors Game  GDevelop 5
+https://youtu.be/3f2Wpog-ZwI&list=PLcSb9PUsw6p1fFw1MfDbvvLbg55L1YzhM
+Videos 51-75

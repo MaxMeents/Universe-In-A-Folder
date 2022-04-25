@@ -1,0 +1,19 @@
+
+Decision Tree – 머신러닝의 6가지 기법 #4
+https://youtu.be/IFGP0mqdL5w&list=PLn8PRpmsu08p95V08po75Y5AUzw-ZPcoE
+
+K-means Clustering– 머신러닝의 6가지 기법 #1
+https://youtu.be/41f4VKEPev8&list=PLn8PRpmsu08p95V08po75Y5AUzw-ZPcoE
+
+K-NN(k-nearest neighbors)– 머신러닝의 6가지 기법 #3
+https://youtu.be/-tJFx_5Kzrg&list=PLn8PRpmsu08p95V08po75Y5AUzw-ZPcoE
+
+Linear Regression – 머신러닝의 6가지 기법 #6
+https://youtu.be/FolyzEKJIO4&list=PLn8PRpmsu08p95V08po75Y5AUzw-ZPcoE
+
+SVM (Support Vector Machine)– 머신러닝의 6가지 기법 #2
+https://youtu.be/_7yZed_O4Js&list=PLn8PRpmsu08p95V08po75Y5AUzw-ZPcoE
+
+판별 분석– 머신러닝의 6가지 기법 #5
+https://youtu.be/mrnyHS4B9Fc&list=PLn8PRpmsu08p95V08po75Y5AUzw-ZPcoE
+머신러닝의 6가지 기법

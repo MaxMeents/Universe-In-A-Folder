@@ -1,0 +1,76 @@
+
+JS Quick Hits 41 - Immutable Maps
+https://youtu.be/FVq5-zAfBTY
+
+JS Quick Hits 42 - Code Refactoring With FizzBuzz!
+https://youtu.be/qPLnLX-ZisA
+
+JS Quick Hits 43 - Semicolon Insertion
+https://youtu.be/ZdroVZg-x44
+
+JS Quick Hits 44 - Node File System Part 1
+https://youtu.be/_cwRg2bw6uw
+
+JS Quick Hits 45 - Node.js File System Part 2
+https://youtu.be/7R4foKgq50U
+
+JS Quick Hits 46 - Recursion Demystified
+https://youtu.be/_8ROa4aGHQc
+
+JS Quick Hits 47 - Recursion Continued
+https://youtu.be/7eu0bNyltSA
+
+JS Quick Hits 48 - An Introduction to GraphQL
+https://youtu.be/V6SIgSfmhP4
+
+JS Quick Hits 49 - Querying GraphQL
+https://youtu.be/5yceNkYSRSE
+
+JS Quick Hits 50 - Enhanced GraphQL Queries
+https://youtu.be/w9D9av4QuU0
+
+JS Quick Hits 51 - GraphQL Mutations
+https://youtu.be/G-8jhRsGkdc
+
+JS Quick Hits 52 - Intro to Express
+https://youtu.be/ZQuM6xnAC7M
+
+JS Quick Hits 53 - Express App.js
+https://youtu.be/vbMb9F5r_TU
+
+JS Quick Hits 54 - Express Routes
+https://youtu.be/n7KScdl2N8c
+
+JS Quick Hits 55 - Express Views
+https://youtu.be/yamjBieKnDM
+
+JS Quick Hits 56 - Express Middleware
+https://youtu.be/2dFN2EAkw9U
+
+JS Quick Hits 57 - Event Listeners
+https://youtu.be/9RsYVpyHasc
+
+JS Quick Hits 58 - Working with the Querystring
+https://youtu.be/Ib4bbtB1cK8
+
+JS Quick Hits 59 - Interview Gotchas 1
+https://youtu.be/Q1uxUUIj_tQ
+
+JS Quick Hits 60 - Full-Stack Project Part 1 - Setup
+https://youtu.be/892S4AYC6n0
+
+JS Quick Hits 61 - Full-Stack Project Part 2 - Validation
+https://youtu.be/dPNZ3APe05w
+
+JS Quick Hits 62 - Full-Stack Project Part 3 - Handling POSTs
+https://youtu.be/DoGW6dNQKKo
+
+JS Quick Hits 63 - Full-Stack Project Part 4 - XHR
+https://youtu.be/uGGTurjoxdU
+
+JS Quick Hits 64 - Full-Stack Project Part 5 - SMTP
+https://youtu.be/Z8uyYtrJqSw
+
+JS Quick Hits 65 - Full Stack Project Part 6 - .env Demystified
+https://youtu.be/gUlQyoASWHU
+Videos 51-75

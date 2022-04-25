@@ -1,0 +1,76 @@
+
+Andrew Mleczko - Take Back Control Over Your Work. Agile Tips For Python Developers
+https://youtu.be/7o7WqOqiQ0U
+
+Christophe Pettus - Extending Python into PostgreSQL
+https://youtu.be/BpLz_5x_vTo
+
+Cody Somerville - OpenStack on OpenStack Deploying OpenStack using OpenStack
+https://youtu.be/mWhruFejlxU
+
+Davide Corio - Kivy, Python RAD per lo sviluppo di applicazioni mobile e non solo
+https://youtu.be/QycE3RJjA8g
+
+Domen Kožar - Tools for successful project development
+https://youtu.be/wNBLD5tXHu4
+
+Edward Easton - Python Packaging on the Enterprise
+https://youtu.be/IacmaNwU458
+
+Enrico Franchi - Scegliere le armi per la battaglia del calcolo intensivo
+https://youtu.be/9RPXU2TleD8
+
+Extra Lightning Talks 03 July - 1
+https://youtu.be/eoPbA1iMfRg
+
+Extra Lightning Talks 03 July - 2
+https://youtu.be/Yvd38Tjw7k0
+
+F  Frenguelli An intro to Blender modeling and scripting Part 1
+https://youtu.be/4e6z3Ada00I
+
+G  Aubert Developing multi platform apps with Python in 2013
+https://youtu.be/f909GqJvDnE
+
+G  Dubus Pyramid advanced configuration tactics for nice apps and libs
+https://youtu.be/VmfWkeUOuYY
+
+H  Král Beyond Search
+https://youtu.be/_lVijLepOAM
+
+H. Krosing Python and PostgreSQL for Huge Data Warehouses
+https://youtu.be/TGv33xl-HUs
+
+J  Hallén Testing for beginners
+https://youtu.be/-sCaA-ILuoQ
+
+Joe Gordon - Very Large Development How to run code review for 800+ Open Source Python Developers
+https://youtu.be/w0Y91qRaxhQ
+
+Marc-André Lemburg - Designing Large-Scale Applications in Python
+https://youtu.be/DQkbth9RF08
+
+Mike Müller - The Python Paradox
+https://youtu.be/s9X9CaLAYSc
+
+N  Zupan, D  Kožar Getting started with Plone CMS development part 1
+https://youtu.be/3wN1JeWD3Vo
+
+Petr Viktorin - Terminals, command lines, and text interfaces
+https://youtu.be/BErOaezd4Hw
+
+Radomir Dopieralski - Magical attributes
+https://youtu.be/rj4mf5aNhh0
+
+S  Trygubenko Functional programming in Python and even Haskell Part 2
+https://youtu.be/86EL6XUci-Q
+
+S. Deponti - Server side story
+https://youtu.be/j-o2M_whft4
+
+S. Trygubenko - Functional programming in Python and even Haskell Part 1
+https://youtu.be/AxvhzYzhQEA
+
+T.  Perl - Affordable Off The Shelf Augmented Reality in Python
+https://youtu.be/Hn-XCv7rc7U
+Videos 1201-1225

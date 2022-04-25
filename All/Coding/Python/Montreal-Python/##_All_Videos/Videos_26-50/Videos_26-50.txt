@@ -1,0 +1,76 @@
+
+10 points pour comprendre les containers - Éric Araujo
+https://youtu.be/oUOe6E2YTPE
+
+A dive into the mind sensory stimulation and brain signal analysis - Mavi Ruiz-Blondet - MP64
+https://youtu.be/hWybIXdXKeg
+
+Analyse de survie pour les taux de conversion - Tristan Boudreault
+https://youtu.be/yxgA8q68zew
+
+Automate All The Things with Home Assistant - Philippe Gauthier
+https://youtu.be/SA2TVeQoZ4s
+
+Blocked on IO The Pitfalls of Event-Driven Programming - Greg Ward
+https://youtu.be/rAk4kuO9tak
+
+Characterizing cameras with python - Federico Ariza
+https://youtu.be/sLWeAZ7bMJs
+
+Data Science at Shopify - Françoise Provencher
+https://youtu.be/I_ZWWkxIRy8
+
+DIY Drone Controller - Max Golubev
+https://youtu.be/TJ_PYeoSjNY
+
+Domo arigato, Mr. Roboto calibrating robots with Python - Nicholas Nadeau
+https://youtu.be/wgKoGA69YXQ
+
+Inclusive Python - David Larlet
+https://youtu.be/krpIdo_mP2c
+
+Keep It Simply Annotated, Stupid - Sébastien Portebois
+https://youtu.be/GPE_EzjID24
+
+Multiprocessing how to run Blockly generated code in Python - Nicole Parrot
+https://youtu.be/l5lc0nHD98E
+
+Numpy to PyTorch - Shagun Sodhani
+https://youtu.be/XHefGxjq2yI
+
+Passeriez-vous une entrevue de data scientist junior - Nicolas Coallier
+https://youtu.be/rQUjJaWMCaM
+
+Probabilistic Programming and Bayesian Modeling with PyMC3 - Christopher Fonnesbeck
+https://youtu.be/M-kBB2I4QlE
+
+Python packaging for everyone - Eric Araujo
+https://youtu.be/4BD-I9zYlzM
+
+SikuliX automatise tout ce que tu vois avec 1 seul outil (Windows, Mac, Linux)
+https://youtu.be/hXMlWvh3sm8
+
+So you want to be a wizard - Julia Evans
+https://youtu.be/zUihajla2SE
+
+Socket in Python - Éric Lafontaine
+https://youtu.be/PHIRBeyTgwc
+
+The GNU philosophy Ethics beyond ethics - Marianne Corvellec
+https://youtu.be/_M6jjZcuOYM
+
+The microbit and the worldwide rush to teach coding - Claude Arpin
+https://youtu.be/Bl6nl-fUc_4
+
+The talk would be about Rasa, an open-source chatbots platform - Nathan Zylbersztejn
+https://youtu.be/0hZay4KSLFw
+
+Va debugger ton Python! - Stéphane Wirtel
+https://youtu.be/cb_cNEIIb-4
+
+Why are robots becoming Pythonistas - Maxime St-Pierre
+https://youtu.be/Xnyzou5bSZ0
+
+Writing a Python interpreter in Python from scratch - Zhentao Li
+https://youtu.be/dCCcDj8YtDI
+Videos 26-50

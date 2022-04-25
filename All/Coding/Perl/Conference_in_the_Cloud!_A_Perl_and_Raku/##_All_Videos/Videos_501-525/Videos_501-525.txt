@@ -1,0 +1,76 @@
+
+Andrew Grangaard (?spazm?) - ?Computer science for the self taught hacker? (20
+https://youtu.be/UVWIEYga_l4
+
+Andrew Rodland (?hobbs?) - ?Parsing Made Easyish?
+https://youtu.be/XaScLywH2CI
+
+Arthur Schmidt (?fREW?) - ?DBIxClass - The Perl ORM?
+https://youtu.be/hUD1RMsYrjM
+
+Augustina Ragwitz (?auggy?) - ?DIY Hangover Show and Tell?
+https://youtu.be/w1-O_do-U7g
+
+Augustina Ragwitz (?auggy?) - ?Perl Out Of Order Why Timeout Today What You Can Return Tomorrow?
+https://youtu.be/VYBLCvMu_pA
+
+Charlie Stross - ?Keynote? at YAPCNA 2014
+https://youtu.be/EPQLKTcJ26s
+
+Curtis Jewell (?CSJewell?) - ?I need a web framework, but which one?
+https://youtu.be/NN-juCnZNy0
+
+Dave M - ?Go GUI or Go Home?
+https://youtu.be/gTyE-fiHDuQ
+
+Henry Van Styn (?vanstyn?) - ?RapidApp turn-key ajaxy web apps?
+https://youtu.be/ryVvSjaw3Jk
+
+Hugh Esco - ?Bootstrapping a useful development environment in 20 minutes?
+https://youtu.be/QUHFg1IW_UA
+
+Jake Goldsborough (?ducks?) - ?Coffee RIY Roast It Yourself?
+https://youtu.be/9qKnXaHO3gU
+
+Jay Hannah (?jhannah?) - ?Scuba diving my grandpa's WWII ship in Indonesia?
+https://youtu.be/ASk284LbD24
+
+Kevin Falcone (?jibsheet?) - ?State of rt.cpan.org and rt.perl.org?
+https://youtu.be/Ig3hrGDnlb4
+
+Kevin Metcalf - ?student Perl code, head-desk injuries, and you?
+https://youtu.be/rVz-09rCBBM
+
+Logan Bell - ?Templates as a service - with swig.js?
+https://youtu.be/kFS9wSgTAgM
+
+Mark Allen (?mallen?) - ?Deploying Perl apps with Docker?
+https://youtu.be/uyE-SUUMgU8
+
+Mark Allen (?mallen?) - ?Writing Web Service Clients with Roles?
+https://youtu.be/eLqoi9-ursw
+
+Mark Fowler (?Trelane?) - ?Mac and Perl?
+https://youtu.be/wHQEwUpDFLQ
+
+Matt S Trout (?mst?) - ?SotV?
+https://youtu.be/MDZ666YH84Y
+
+Michael McClennen - ?Designing and Implementing Web Data Services in Perl?
+https://youtu.be/Gbv20RM2xuo
+
+R Geoffrey Avery (?rGeoffrey?) - ?Lightning Talks Day 2?
+https://youtu.be/YJrTaMUvjVA
+
+Ricardo Signes (?rjbs?) - ?1.21 Gigawatts?
+https://youtu.be/IG425RMEkRo
+
+Sawyer X - ?MetaCPAN API?
+https://youtu.be/AfH7-DCrlNY
+
+Steven Lembark - ?Getting testy with Perl?
+https://youtu.be/IXNwofjIZUM
+
+Todd Rinaldo (?toddr?) - ?perlcc made easy or, how to make a CGI Moose app?
+https://youtu.be/PkvaqgyGDEc
+Videos 501-525

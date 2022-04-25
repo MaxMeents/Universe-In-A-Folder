@@ -1,0 +1,76 @@
+
+Caching - Code Efficiency Tut
+https://youtu.be/sKZJRXMJL30&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+MonoDevelop Options
+https://youtu.be/qZKpdj870tY&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 1 - Setup and Movement Syncing
+https://youtu.be/NLnzlwCRjgc&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 10 - Player Destruction!
+https://youtu.be/3OKvGiGzdx8&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 11 - Player Resurrection
+https://youtu.be/eSWuQhW3J-4&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 12 - Zombies!
+https://youtu.be/7Kk1D4v3vIg&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 13 - Zombie Identity
+https://youtu.be/AjKkBsR0yS4&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 14 - Shoot Those Zombies!
+https://youtu.be/3SNNTxjF5jQ&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 15 - Zombies Bite Back!
+https://youtu.be/yxqs3kkHVvA&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 16 - Zombie Motion Sync
+https://youtu.be/9Gbd5hC0j_k&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 17 - Better Spawning
+https://youtu.be/DebeNkFS3tI&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 18 - Fixing my bugs 1
+https://youtu.be/3wQmdYtsnSU&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 19 - Matchmaking First Attempt
+https://youtu.be/kAIWWC6b6Po&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 2 - Rotation Syncing
+https://youtu.be/PVUT6SR70wg&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 20 - UI & Custom Net Manager
+https://youtu.be/9w2kwGDZ6wM&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 21 - Network Animator
+https://youtu.be/ZsZiHe8yN9A&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 3 - Being a bit more efficient
+https://youtu.be/61KVmlwGDJY&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 4 - Latency Simulation!
+https://youtu.be/CdbzZSHPN4E&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 5 - Almost Time Travel!
+https://youtu.be/mIeQhEhi1QQ&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 6 - Efficient Rotation Syncing
+https://youtu.be/hgIByCgvq48&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 7 - Unique Identity
+https://youtu.be/eKkE7ki0XbA&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 8 - Shooting
+https://youtu.be/_u_0IphF33o&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Part 9 - Taking Damage!
+https://youtu.be/R14oxS3IY3A&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+UNET Project Folder
+https://youtu.be/BOfJTUQnf3s&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+
+Variables and Cheating
+https://youtu.be/D9R6LXHLvhc&list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG
+Videos 1-25

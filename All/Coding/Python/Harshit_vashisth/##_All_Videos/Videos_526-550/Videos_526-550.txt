@@ -1,0 +1,76 @@
+
+Finishing up IMPRESSIVE SEPARATE DIFFERENT FILES program  Python tutorial in Hindi 49
+https://youtu.be/RMT_L5WSvNI
+
+How to make software  program for pc with python modules + mini project overview
+https://youtu.be/LA9pf9c2ohM
+
+NOT A TUTORIAL  it's overview discussion only for e-mail sending program
+https://youtu.be/XdDRzRz5UVI
+
+Python  Write 2nd useful program part 1  separate different types of files
+https://youtu.be/g1-78y-8eF8
+
+Python tutorial in  Hindi 42  Nesting dictionaries , list and looping
+https://youtu.be/B-kMXvzdgGs
+
+Python tutorial in Hindi 36 string and list comparison , find element in list , program
+https://youtu.be/aoew19WCFxU
+
+Python tutorial in Hindi 37 Exponent , modulus operator , continue statement in list
+https://youtu.be/10fNXNfUhxM
+
+Python tutorial in Hindi 38  Tuples
+https://youtu.be/AW4fGbJsCrs
+
+Python Tutorial in Hindi 39   Dictionaries Basic concept
+https://youtu.be/W4dLOoBsYzA
+
+Python tutorial in Hindi 40  Dictionaries keys and value method , looping
+https://youtu.be/Xf9V7BBb5-w
+
+Python tutorial in Hindi 41  Dictionaries items method and more !!
+https://youtu.be/0bv1_XlNSIo
+
+Python tutorial in Hindi 43  Sets
+https://youtu.be/EkyJ1tdNSOg
+
+Python tutorial in Hindi 44  Lets write our first  program  delete common files
+https://youtu.be/TZGTOd-1Ius
+
+Python tutorial in Hindi 45  batch file, command prompt ,shebang line ,  and much more
+https://youtu.be/k0naWAMqW2c
+
+Python tutorial in Hindi 46  How to choose right module and function to delete files and folders
+https://youtu.be/PXayB-a89Pg
+
+Python tutorial in Hindi 47 - open website with webbrowser module .
+https://youtu.be/CCunhOLmIuQ
+
+python tutorial in Hindi 48  How to read text files
+https://youtu.be/obyVMcsa1ZY
+
+Python tutorial in Hindi 48  move files , make folders , how to make your own programs
+https://youtu.be/cvVSEVu6_qM
+
+Python tutorial in Hindi 49  How to write text files
+https://youtu.be/JTto2JuAYtM
+
+Python tutorial in Hindi 50  Make text file from user input , cwd , cd
+https://youtu.be/8NmqAzqgmIs
+
+Python tutorial in Hindi 51  Create Your Own  E-mail sending program software 01
+https://youtu.be/FQN_4sylvF4
+
+Python tutorial in Hindi 52  Error Handling with try , except
+https://youtu.be/qHVZUi_uErE
+
+Python tutorial in Hindi 53  How to use infinite loop while using try ,  except
+https://youtu.be/LeDT0FGSJQ4
+
+Python tutorial in Hindi 54  Modification  of E-mail sending program
+https://youtu.be/EjS9gSOOMqA
+
+Short video on how to run previous program with command line
+https://youtu.be/Tr_X-PlPA1Q
+Videos 526-550

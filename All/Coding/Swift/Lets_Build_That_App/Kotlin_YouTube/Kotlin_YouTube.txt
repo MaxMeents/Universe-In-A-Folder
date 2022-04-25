@@ -1,0 +1,19 @@
+
+Android Kotlin YouTube How to load web pages with WebView (Ep 6)
+https://youtu.be/UAyGjQBBsys&list=PL0dzCUj1L5JGfHj1lwxOq67zAJV3e1S9S
+
+Android Kotlin YouTube Pass Data Between Activity through Intent (Ep 5)
+https://youtu.be/2W41M9fWf6I&list=PL0dzCUj1L5JGfHj1lwxOq67zAJV3e1S9S
+
+Kotlin Youtube - How to Quickly Fetch Parse JSON with OkHttp and Gson (Ep 2)
+https://youtu.be/53BsyxwSBJk&list=PL0dzCUj1L5JGfHj1lwxOq67zAJV3e1S9S
+
+Kotlin YouTube - Load and Cache Images Picasso (Ep 3)
+https://youtu.be/CGZsfpst8pU&list=PL0dzCUj1L5JGfHj1lwxOq67zAJV3e1S9S
+
+Kotlin YouTube Intro to RecyclerView (Ep 1)
+https://youtu.be/jS0buQyfJfs&list=PL0dzCUj1L5JGfHj1lwxOq67zAJV3e1S9S
+
+Kotlin YouTube OnClickListener to Start Activity with Intent (Ep 4)
+https://youtu.be/ukh3zOLNhmY&list=PL0dzCUj1L5JGfHj1lwxOq67zAJV3e1S9S
+Kotlin YouTube

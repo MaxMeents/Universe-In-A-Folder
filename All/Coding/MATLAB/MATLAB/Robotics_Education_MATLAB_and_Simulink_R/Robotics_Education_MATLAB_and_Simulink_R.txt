@@ -1,0 +1,49 @@
+
+BEST Simulink Design Award Winners 2017
+https://youtu.be/e4c7PZuIRf4&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Debugging of VEX Simulink Models Using External Mode
+https://youtu.be/Jrm3-dXjta8&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Getting Started with Simulink and VEX EDR V5
+https://youtu.be/Kz_VtvKmwxs&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Installing Hardware Support Packages for MATLAB and Simulink
+https://youtu.be/FDhRYwa4HYk&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Learning Robotics with MATLAB and Simulink
+https://youtu.be/rn5nEkMbsnI&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+LEGO Workshop for Mobile Robotics -- MATLAB and Simulink PASS Competitions Hub
+https://youtu.be/t1dliJ7CpUQ&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Obstacle Detection for VEX Robots Using Simulink
+https://youtu.be/8ksYl8Fl_1E&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Programming the VEX ARM-Cortex Using Simulink
+https://youtu.be/6Q9fDpob9vY&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Programming VEX EDR V5 Smart Motors Using Simulink
+https://youtu.be/GMpn-BJ_Baw&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Robot Navigation Using VEX Encoders and Simulink
+https://youtu.be/HVzxVaV2gz4&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Simulating Mobile Robotics Using Virtual Worlds
+https://youtu.be/tTWGg12XI1Q&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Simulink Quick Start for Student Competition Teams
+https://youtu.be/ajVN2Pd-p20&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Stateflow Quick Start for Student Competition Teams
+https://youtu.be/jvEqrmA-t0w&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Switching Between Driver and Autonomous Control of VEX Robots
+https://youtu.be/0TfaDmOUsyw&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Using Infrared Sensors for Robot Navigation
+https://youtu.be/V78mN7Sg85s&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+
+Using Vision Sensors for Robot Autonomy
+https://youtu.be/atlhcauQ-40&list=PLn8PRpmsu08qVJayVibu8Yr0uYCwWkLVP
+Robotics Education MATLAB and Simulink Robotics Arena

@@ -1,0 +1,76 @@
+
+Alex Willmer - Taking the pain out of passwords and authentication
+https://youtu.be/YSTsgldazSU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Alexander Sibiryakov - Frontera open source large-scale web crawling framework
+https://youtu.be/Km7poOD8ybU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Andrey Vlasovskikh - How you can benefit from type hints
+https://youtu.be/lqkj3PgdLWU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Andrii Chaichenko - Building a RESTful real-time analytics system with Pyramid
+https://youtu.be/UcR5JvAsNh8&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Arrested Development - surviving the awkward adolescence of a microservices-based application
+https://youtu.be/z3_HorshzJ4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Benoît Calvez - Python and elasticsearch 101
+https://youtu.be/BzmjfXzj1LA&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Georges Dubus - Through the lens of Haskell exploring new ideas for library design
+https://youtu.be/22lmEdB9QyU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Giuseppe Cammarota - Activity Map from space supporting mine clearance with Python
+https://youtu.be/Oen84UnCvNM&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Julian Berman - Just Because You Can, Doesn't Mean You Should
+https://youtu.be/HXwBsnFjqn0&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Marco Buttu - Lessons learned about testing and TDD
+https://youtu.be/41RzcHNfdSo&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Matthieu Rigal - Bringing PostgreSQL towards zero downtime migration with Python
+https://youtu.be/QFLeb6wbnQ8&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Michał Bultrowicz - Python microservices on PaaS done right
+https://youtu.be/WYXkpiaGBms&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Naomi Ceder - Antipatterns for Diversity
+https://youtu.be/kdl5odf-sMc&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Nicholas Tollervey - Lessons learned with asyncio (Look ma, I wrote a distributed hash table!)
+https://youtu.be/yw_Y8-BGOz4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Panel Discussion Code Review Tools
+https://youtu.be/9kgiApzKDMw&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Philipp Mack - Python in the world of retail and mail order
+https://youtu.be/5Ij0w2pk-fQ&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Piotr Dyba - with modern_peripherals Python and Flask
+https://youtu.be/LJgDGh-6xJs&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ravi Vagadia - Python & Internet of Things
+https://youtu.be/oS_5FK-KJag&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Richard Wall - Faking It - The Art of Testing Using Verified Fakes
+https://youtu.be/62wkprXlFJY&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Rob Collins - DumbDev -- eight rules for dumb development
+https://youtu.be/HEOI8y0qHMk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Sebastian Neubauer - A Pythonic Approach to Continuous Delivery
+https://youtu.be/Ad9qSbrfnvk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Shahriar Tajbakhsh - Parallelism Shootout threads vs asyncio vs multiple processes
+https://youtu.be/B0Qfe3U_hKU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Vasilij Litvinov - Tuning Python applications can dramatically increase performance
+https://youtu.be/OAemUvFGhE4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Victor Stinner - asyncio community, one year later
+https://youtu.be/ulFUwi_Ge8E&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Wojciech Lichota - Continuous Deployment for webapps based on Django
+https://youtu.be/WhRfr7r5tYQ&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+Videos 126-150

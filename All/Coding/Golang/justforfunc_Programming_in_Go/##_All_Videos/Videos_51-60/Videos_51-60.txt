@@ -1,0 +1,31 @@
+
+ChromeGoDoc a simple Chrome extension
+https://youtu.be/gA4vf6NQxh0
+
+Cross Compilation in Go
+https://youtu.be/w0610MoPv3g
+
+Go Meetups Building an app from scratch
+https://youtu.be/iXyC5-4nKfk
+
+Go Object Oriented and Concurrent (just not the usual way)
+https://youtu.be/Ng8m5VXsn8Q
+
+Go Tooling  in Action
+https://youtu.be/uBjoTxosSys
+
+justforfunc #0 Hello, World!
+https://youtu.be/0NTKMKDsCTE
+
+justforfunc #1 A Code Review
+https://youtu.be/eIWFnNz8mF4
+
+justforfunc #2 The Magic Gate (part 1)
+https://youtu.be/mTd3hHUy9OU
+
+Using gcloud with tab completion on zsh
+https://youtu.be/ezod_8QDT7Q
+
+Wrapping Clojure Tooling in Containers
+https://youtu.be/pDxLyl0Yu5I
+Videos 51-60

@@ -1,0 +1,76 @@
+
+Brendan Graham  Using R Bridge the Gap in Electronic Medical Record Reporting  RStudio (2020)
+https://youtu.be/SVAszk2zZ7o
+
+Carl Howe & Greg Wilson  Data Science Education in 2022  RStudio (2020)
+https://youtu.be/8peiyXIrvjY
+
+Caroline Ledbetter  Rproject templates to automate and standardize your workflow  RStudio (2020)
+https://youtu.be/c2l-GF6RaYI
+
+Colin Fay  Production-grade Shiny Apps with golem  RStudio (2020)
+https://youtu.be/SE6TnUV4nC4
+
+Colin Rundel  `livecode` broadcast your live coding sessions from and to RStudio  RStudio (2020)
+https://youtu.be/-srGSVuhZaA
+
+Daniel Falbel  What's new in TensorFlow for R  RStudio (2020)
+https://youtu.be/Oi8k8_Dyc3k
+
+Dr. Amelia McNamara  Making a tidy dress  RStudio (2020)
+https://youtu.be/82Byshg0Z-k
+
+Hunter Glanz  The Five Principles of Data Science Education  RStudio (2020)
+https://youtu.be/Gb1BcUx6CGk
+
+Jared Lander  R Then and Now  RStudio (2020)
+https://youtu.be/zGe90rct8RQ
+
+Javier Luraschi  Datasets in Reproducible Research with 'pins'  RStudio (2020)
+https://youtu.be/xwItECnphRU
+
+Jeff Leek  Data science education as a public health intervention in E. Baltimore  RStudio (2020)
+https://youtu.be/GG5Vl7N5vCo
+
+Jesse Sadler  vctrs Creating custom vector classes with the vctrs package  RStudio (2020)
+https://youtu.be/UHwp8T_fmEI
+
+Jon Harmon  Learning by Teaching Mentoring at the R4DS Online Learning Community  RStudio (2020)
+https://youtu.be/-lzVF_hfL3Q
+
+Katie Masiello  Professional Case Studies  RStudio (2020)
+https://youtu.be/LJzfZSlfw_w
+
+Kelly Bodwin  Course Material Creation in the R Ecosystem  RStudio (2020)
+https://youtu.be/2lGednFDq6c
+
+Lauren Chadwick  Meet You Where You R  RStudio (2020)
+https://youtu.be/25b3-To41Yc
+
+Lionel Henry  Interactivity and Programming in the Tidyverse  RStudio (2020)
+https://youtu.be/SW_TUkPXSmA
+
+Mike K Smith  Learn to teach, for goodness sake  RStudio (2020)
+https://youtu.be/zEvN0_9i-vs
+
+Miriah Meyer  Effective Visualizations  RStudio (2020)
+https://youtu.be/BEnLLQaUyzQ
+
+Nima Safaian  Rpanda trading simulation - from an idea to a multi-user shiny app  RStudio (2020)
+https://youtu.be/mWAFBUyHsXk
+
+Rebecca Barter  Becoming an R blogger  RStudio (2020)
+https://youtu.be/fT1nLGDvaPA
+
+Riva Quiroga  The development of datos package for the R4DS Spanish translation RStudio (2020)
+https://youtu.be/kuHjpdgkSxg
+
+Tina Cormier  Embracing R in the Geospatial Community  RStudio (2020)
+https://youtu.be/v9JdAJXqvAg
+
+William Chase  The Glamour of Graphics  RStudio (2020)
+https://youtu.be/h5cTacaWE6I
+
+Yihui Xie  One R Markdown Document, Fourteen Demos  RStudio (2020)
+https://youtu.be/qLEkUjxk7e8
+Videos 276-300

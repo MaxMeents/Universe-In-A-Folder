@@ -1,0 +1,13 @@
+
+GopherCon UK 2019 Adrian Hesketh - A Go Security Journey
+https://youtu.be/hTfxc4qcCC0&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Alan Braithwaite - Advanced Testing Techniques
+https://youtu.be/_NKQX-TdNMc&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Julie Qiu - Finding Dependable Go Packages
+https://youtu.be/urarTyKn9cg&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Naga Sowjanya Sutherland - Building APIs in Go   The Stack Without a Framework
+https://youtu.be/EWvBIp93n8k&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+Videos 26-29

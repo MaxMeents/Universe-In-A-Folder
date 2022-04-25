@@ -1,0 +1,76 @@
+
+Episode #168 - Getting Started with VueJS  Preview
+https://youtu.be/_dMtUoAQOlw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #169 - Rails Scaffold with VueJS  Preview
+https://youtu.be/EQY7LqPEiDk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #170 - Managing Terminal Windows  Preview
+https://youtu.be/IXEFA8ZxF2c&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #171 - What the RegEx
+https://youtu.be/pP79v6zcEP8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #172 - API Authentication with Omniauth  Preview
+https://youtu.be/QuP2BgvIzYY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #173 - Simple and Complex Database Migrations  Preview
+https://youtu.be/oBx4DmqtTZ8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #174 - React Native and Ruby on Rails API Only Applications  Preview
+https://youtu.be/qxVpTzmKqMI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #175 - What's New in Rails 6
+https://youtu.be/hE-ruL0_bxc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #176 - Ecommerce Store with Solidus  Preview
+https://youtu.be/gLNaFLOIptE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #177 - Interview with Jesus Castello
+https://youtu.be/wJPKYdWPFs8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #178 - Using Webpacker in Rails 6  Preview
+https://youtu.be/tTqA6jT0Qio&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #179 - Creating a Gem From Existing Code  Preview
+https://youtu.be/PmU6H2NoOeM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #180 - 3 Different Perspectives of Importing Records  Preview
+https://youtu.be/mNOEwmGM7f4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #181 - Introduction to Kubernetes
+https://youtu.be/cNLJTuTGn3k&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #182 - Interview Questions  Preview
+https://youtu.be/7jxJQOsmMxQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #183 - Interview Frank Rietta
+https://youtu.be/GrLArW82R0Q&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #184 - Load Testing with JMeter  Preview
+https://youtu.be/qXJNTYcLswU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #185 - Application Performance Monitoring in Rails  Preview
+https://youtu.be/ffBJiqpxu74&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #186 - Nested Forms from Scratch with StimulusJS
+https://youtu.be/qM4ZK0uuZUE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #187 - Extending the Rails Core Form Builder  Preview
+https://youtu.be/UFHe353WImQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #188 - Interview with Riaz Virani
+https://youtu.be/yCJLMcY-iiw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #189 - Saving Individual Attributes with StimulusJS  Preview
+https://youtu.be/ey_6qIPI1h4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #190 - Realtime Client Updates from Background Jobs Using Stimulus  Preview
+https://youtu.be/Zu7ObZ8Ob08&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #191 - Inline Editing Records
+https://youtu.be/DPivelvL6Gg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #192 - Persistent Referral Links with Devise  Preview
+https://youtu.be/oNj7fxvy9ms&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 151-175

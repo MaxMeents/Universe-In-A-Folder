@@ -1,0 +1,7 @@
+
+Cool Compiler Tidbits - Matt Godbolt
+https://youtu.be/lPnrM67afPk&list=PLB8iG1kbmdEMS8Z3fqNwKD04W4vT21zYW
+
+Improve Test Automation Efficiency by Recording Test Failures - Chris Croft-White
+https://youtu.be/f45Wrn4sMR4&list=PLB8iG1kbmdEMS8Z3fqNwKD04W4vT21zYW
+C++ London - August 2021

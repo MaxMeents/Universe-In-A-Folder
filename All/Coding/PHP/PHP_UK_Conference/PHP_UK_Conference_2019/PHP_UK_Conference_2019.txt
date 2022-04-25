@@ -1,0 +1,61 @@
+
+Building first-class REST APIs with Symfony - Michael Cullum - PHP UK Conference 2019
+https://youtu.be/zvl5__Wov9o&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Controlling the Variables - Thijs Feryn - PHP UK Conference 2019
+https://youtu.be/f3EU-sd9KPY&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Database Encryption in a GDPR World - Scott Dutton - PHP UK Conference 2019
+https://youtu.be/RTZXgxYGOWA&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Dive Deep Into Blockchain - Tomasz Kowalczyk -  PHP UK Conference 2019
+https://youtu.be/CD_t5jZtX48&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Does Your Code Measure Up - Adam Culp - PHP UK Conference 2019
+https://youtu.be/dVu1AShtuQo&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Everything is Awesome - Paul Verbeek Mast - PHP UK Conference 2019
+https://youtu.be/gzUL5cPhD8Q&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+From Dev to Prod with GitLab CI - Stephan Hochdorfer - PHP UK Conference 2019
+https://youtu.be/Fx0yYvK-aRE&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+From Good To SOLID How to Become a Better PHP Developer - Katerina Trajchevska - PHP UK 2019
+https://youtu.be/ILFcofVJUF4&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Get GOing with a New Language - Kat Zien - PHP UK Conference 2019
+https://youtu.be/grHWdBzQKG4&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+How De-normalizing Your Data with JSON Can Boost Query Performance - David Stokes - PHP UK 2019
+https://youtu.be/Y7Z1vwbG7rY&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+I Deploy on Fridays (And Maybe You Should Too) Michiel Rook - PHP UK Conference 2019
+https://youtu.be/clbnkvJb_mM&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Learning The Hows and Whys of Machine Learning - Liam Wiltshire - PHP UK Conference 2019
+https://youtu.be/hr6l9g2Fbis&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Massively Scaled High Performance Web Services with PHP -  Demin Yin - PHP UK Conference 2019
+https://youtu.be/_Yjk7EcZ2dI&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Microservices Gone Wrong - Anthony Ferrara - PHP UK Conference 2019
+https://youtu.be/5QIpzNPVDaY&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+More Secrets of Cryptography - Chris Riley - PHP UK Conference 2019
+https://youtu.be/Nny7xf-anfU&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+MySQL 8.0 Not Only Good, it's GREAT - Gabriela D'Avila Ferrara - PHP UK Conference 2019
+https://youtu.be/tADkhBB-oIg&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Running Your PHP Site on AWS Lambda - Neal Brooks - PHP UK Conference 2019
+https://youtu.be/TTyIBOnpI9s&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Storing Non-Scalar Data - Derick Rethans - PHP UK Conference 2019
+https://youtu.be/sIJithgF6f0&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Test to Break Principles  - Rob Waller - PHP UK Conference 2019
+https://youtu.be/JDwFyRXbVHQ&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+
+Your App Lives on a Network Networking for Web Developers - Wim Godden - PHP UK Conference 2019
+https://youtu.be/t0JdGOYuQzc&list=PL_aPVo2HeGF9Hf1dr6lI7f6jJ48zqcz_f
+PHP UK Conference 2019

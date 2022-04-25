@@ -1,0 +1,25 @@
+
+Building our Neural Network - Deep Learning and Neural Networks with Python and Pytorch p.3
+https://youtu.be/ixathu7U-LQ&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+Convnet Intro - Deep Learning and Neural Networks with Python and Pytorch p.5
+https://youtu.be/9aYuQmMJvjA&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+Data - Deep Learning and Neural Networks with Python and Pytorch p.2
+https://youtu.be/i2yPxY2rOzs&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+Introduction - Deep Learning and Neural Networks with Python and Pytorch p.1
+https://youtu.be/BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+Model Analysis - Deep Learning and Neural Networks with Python and Pytorch p.8
+https://youtu.be/UuteCccDXCE&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+On the GPU - Deep Learning and Neural Networks with Python and Pytorch p.7
+https://youtu.be/6gk7giKER6s&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+Training Convnet - Deep Learning and Neural Networks with Python and Pytorch p.6
+https://youtu.be/1gQR24B3ISE&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+
+Training Model - Deep Learning and Neural Networks with Python and Pytorch p.4
+https://youtu.be/9j-_dOze4IM&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh
+Pytorch - Deep learning w Python

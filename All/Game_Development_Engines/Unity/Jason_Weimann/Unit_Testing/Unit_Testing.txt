@@ -1,0 +1,13 @@
+
+10 Steps I use to Design and Code Big Game Systems in Unity3D
+https://youtu.be/Yg4yeLgj9uc&list=PLB5_EOMkLx_VHxcf7SgPVZM7a3rtCOTmV
+
+Everything you need to know about Testing In Unity3D (even if you've never written a unit test)
+https://youtu.be/qCghhGLUa-Y&list=PLB5_EOMkLx_VHxcf7SgPVZM7a3rtCOTmV
+
+Fixing big classes in Unity3D
+https://youtu.be/bU0TE88hv-A&list=PLB5_EOMkLx_VHxcf7SgPVZM7a3rtCOTmV
+
+Unit Testing in Unity3D - Testing Against Monobehaviors using Mocks
+https://youtu.be/r7VkbV0PRC8&list=PLB5_EOMkLx_VHxcf7SgPVZM7a3rtCOTmV
+Unit Testing

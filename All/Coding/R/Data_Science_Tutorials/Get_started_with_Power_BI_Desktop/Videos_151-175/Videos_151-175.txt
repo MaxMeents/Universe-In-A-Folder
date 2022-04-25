@@ -1,0 +1,76 @@
+
+Excel’s countif sumif and averageif in Power BI
+https://youtu.be/q7NH_uzkWJ4&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Excel’s countifs sumifs and avergaeifs in power bi
+https://youtu.be/Si364zvD1Yc&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Exporting a Power BI Report or Dashboard into PDF Document
+https://youtu.be/X9s1J_pfSjY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Exporting Power BI Report or Dashboard into PowerPoint
+https://youtu.be/bkmWLijOeM0&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Format the DAX Code to Clean and Easily Read It
+https://youtu.be/XwclWwqj6tk&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Group By DAX FunctionTo Create New Grouped Tables in Power BI
+https://youtu.be/OcSh_qcTc9k&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Conditionally Create New Table in Power BI using DAX Function
+https://youtu.be/6OqXv3t9tN8&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create a Custom Power BI Table using in built create table feature
+https://youtu.be/FL0yDE-VLP4&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create a measure table in power bi to keep all measures at one place
+https://youtu.be/GWEi-HczFyk&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create a New Summarized Table from Existing Table in Power BI
+https://youtu.be/-q-k3r_mNkE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Dashboard Design Project Tutorial for Visualizing HR Diversity
+https://youtu.be/eshO9EDgvDw&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Formula on How to find best selling product Name and display it in visualization
+https://youtu.be/sAqJ2D-akiQ&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Function ISEmpty with IF Condition to test with the table is empty or not
+https://youtu.be/OMf8mwmA59Y&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Function To Find Unique or Duplicate Values in Power BI
+https://youtu.be/0oXThzJLkWg&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI DAX Shortcuts to Increase Productivity
+https://youtu.be/8FEfmdPoqNM&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI ISError Function with IF condition to Identify and Process Errors
+https://youtu.be/Fuogn6pXk5E&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI KPI Dashboard Design for Financial Complaints
+https://youtu.be/YU3Gd2fX1Ac&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI KPI Dashboard Project for HR Analytics
+https://youtu.be/KYP3jWq5w0o&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Switch Function to Process Multiple Conditions Effectively
+https://youtu.be/3zm3xsHrtOo&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Understanding Workspace in Power BI to Publish Workbooks and Datasets
+https://youtu.be/N-g-hHAbI9o&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Using Power BI Variables for Debugging or Testing DAX Code
+https://youtu.be/5h8E5mmcoNg&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Validating Blank Value in Power BI using ISBlank DAX Function with IF Condition
+https://youtu.be/mbPn460AV14&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Variables in Power BI to Manage DAX Code
+https://youtu.be/oHPCBAYoX90&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+[DAX] How to Create a new table from existing table in Power BI with Distinct Values
+https://youtu.be/R3oTbCQu8RE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+[Power BI] How to Calculate the Sales Value of Best Selling Product using DAX
+https://youtu.be/y6EEI9lVbR8&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+Videos 151-175

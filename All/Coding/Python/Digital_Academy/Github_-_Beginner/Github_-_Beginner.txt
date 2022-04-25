@@ -1,0 +1,19 @@
+
+Digital Academy - Welcome
+https://youtu.be/z_wVYgjHk0Y&list=PLNnG2akFozlLLoFWZ4lIW8Duv46yOB-O7
+
+Git Tutorial Diff and Merge Tools
+https://youtu.be/iCGrKFH2oeo&list=PLNnG2akFozlLLoFWZ4lIW8Duv46yOB-O7
+
+Git Tutorial Difference between add -A, add -u, add ., and add 
+https://youtu.be/tcd4txbTtAY&list=PLNnG2akFozlLLoFWZ4lIW8Duv46yOB-O7
+
+Git Tutorial Fixing Common Mistakes and Undoing Bad Commits
+https://youtu.be/FdZecVxzJbk&list=PLNnG2akFozlLLoFWZ4lIW8Duv46yOB-O7
+
+Git Tutorial for Beginners Command-Line Fundamentals
+https://youtu.be/HVsySz-h9r4&list=PLNnG2akFozlLLoFWZ4lIW8Duv46yOB-O7
+
+Git Tutorial Using the Stash Command
+https://youtu.be/KLEDKgMmbBI&list=PLNnG2akFozlLLoFWZ4lIW8Duv46yOB-O7
+Github - Beginner

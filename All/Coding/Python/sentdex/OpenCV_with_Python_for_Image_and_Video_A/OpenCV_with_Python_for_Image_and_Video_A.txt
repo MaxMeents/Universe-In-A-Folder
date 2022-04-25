@@ -1,0 +1,64 @@
+
+Blurring and Smoothing - OpenCV with Python for Image and Video Analysis 8
+https://youtu.be/sARklx6sgDk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Cleaning images and creating description files - OpenCV with Python for Image and Video Analysis 19
+https://youtu.be/t0HOVLK30xQ&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Color Filtering - OpenCV with Python for Image and Video Analysis 7
+https://youtu.be/CCOXg75HkvM&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Corner Detection - OpenCV with Python for Image and Video Analysis 13
+https://youtu.be/6e6NbNegChU&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Drawing and Writing on Image - OpenCV with Python for Image and Video Analysis 3
+https://youtu.be/U6uIrq2eh_o&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Edge Detection and Gradients - OpenCV with Python for Image and Video Analysis 10
+https://youtu.be/CJMCoAsK-h0&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Feature Matching (Homography) Brute Force - OpenCV with Python for Image and Video Analysis 14
+https://youtu.be/UquTAf_9dVA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Gathering Images for Haar Cascade - OpenCV with Python for Image and Video Analysis 18
+https://youtu.be/z_6fPS5tDNU&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+GrabCut Foreground Extraction - OpenCV with Python for Image and Video Analysis 12
+https://youtu.be/qxfP13BMhq0&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Haar Cascade for image & video object classification - OpenCV w Python for Image  Video Analysis 21
+https://youtu.be/-Mhy-5YNcG4&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Haar Cascade Object Detection Face & Eye - OpenCV with Python for Image and Video Analysis 16
+https://youtu.be/88HdqNDQsEk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Image arithmetics and Logic - OpenCV with Python for Image and Video Analysis 5
+https://youtu.be/_gfNpJmWIug&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Image Operations - OpenCV with Python for Image and Video Analysis 4
+https://youtu.be/1pzk_DIL_wo&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Intro and loading Images  - OpenCV with Python for Image and Video Analysis 1
+https://youtu.be/Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Loading Video Source - OpenCV with Python for Image and Video Analysis 2
+https://youtu.be/Jvf5y21ZqtQ&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Making your own Haar Cascade Intro - OpenCV with Python for Image and Video Analysis 17
+https://youtu.be/jG3bu0tjFbk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+MOG Background Reduction - OpenCV with Python for Image and Video Analysis 15
+https://youtu.be/8-3vl71TjDs&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Morphological Transformations - OpenCV with Python for Image and Video Analysis 9
+https://youtu.be/YA5u2PI3hF0&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Template Matching - OpenCV with Python for Image and Video Analysis 11
+https://youtu.be/2CZltXv-Gpk&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Thresholding - OpenCV with Python for Image and Video Analysis 6
+https://youtu.be/jXzkxsT9gxM&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+
+Training Haar cascade object detection - OpenCV with Python for Image and Video Analysis 20
+https://youtu.be/eay7CgPlCyo&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+OpenCV with Python for Image and Video Analysis

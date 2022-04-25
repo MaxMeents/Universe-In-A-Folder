@@ -1,0 +1,76 @@
+
+Alexander Steffen - Writing unit tests for C code in Python
+https://youtu.be/zW_HyDTPjO0
+
+Alexys JacobGuillaume Gelin - Planning for the worst
+https://youtu.be/Q8JRs_hPuZA
+
+Andrii Soldatenko - What is the best full text search engine for Python
+https://youtu.be/Dq4ubrwMl9U
+
+Anna Wszeborowska - Music transcription with Python
+https://youtu.be/9boJ-Ai6QFM
+
+Catherine Holloway - Simplifying Computer Art in Python
+https://youtu.be/8GIZW--41oE
+
+Daniele Procida - Documentation-driven development
+https://youtu.be/31Uhdd1efYA
+
+Fabien Bochu - Grocker, a Python build chain for Docker
+https://youtu.be/SZ_7Z7s6-H0
+
+Fabio Pliger - OMG, Bokeh is better than ever!
+https://youtu.be/T3vPQrUrRgs
+
+Fabio PligerMarc-André Lemburg - EPS General Assembly
+https://youtu.be/fEbHimq0Wic
+
+Fabio PligerMarc-André Lemburg - EuroPython 2017 Help us build the next edition!
+https://youtu.be/AQdWIp6rkcI
+
+Floris Bruynooghe - Build your Microservices with ZeroMQ
+https://youtu.be/BC4aSBhBAKA
+
+Helen Sherwood-Taylor - Managing Mocks
+https://youtu.be/Ahnw72diels
+
+Iwan Vosloo - What's the point of Object Orientation
+https://youtu.be/M179-VQ2kxI
+
+iztok kucanJoris Peeters - Algorithmic Trading with Python
+https://youtu.be/dDMptG5YYyY
+
+Joe Drumgoole - A deep dive into the Pymongo MongoDB driver
+https://youtu.be/2gee5oUAO14
+
+Lauris Jullien - Asynchronous network requests in a web application
+https://youtu.be/LfbmcZ_NNVU
+
+Miguel RegueroRodrigo Núñez - Cybersecurity in the financial sector with Python
+https://youtu.be/Gv8KaK8j2KE
+
+Naomi Ceder - Come for the Language, Stay for the Community
+https://youtu.be/cCCiA-IlVco
+
+Raphael Pierzina - Pytest 3.0
+https://youtu.be/HPUg31eylds
+
+Rudy Sicard - Leveraging documentation power for better web APIs
+https://youtu.be/3o9lgJ1pZms
+
+Sławomir Piasecki - Python in Astronomy
+https://youtu.be/TU5DvG7Fl04
+
+Valeria Pettorino - Unveiling the Universe with python
+https://youtu.be/1H5uU_lcdWQ
+
+Valerio Maggio - Data Formats for Data Science
+https://youtu.be/QgNDi1vsrtQ
+
+Various speakers - Lightning Talks
+https://youtu.be/QWskFM3zHNg
+
+Yury Selivanov - asyncawait in Python 3.5 and why it is awesome
+https://youtu.be/m28fiN9y_r8
+Videos 776-800

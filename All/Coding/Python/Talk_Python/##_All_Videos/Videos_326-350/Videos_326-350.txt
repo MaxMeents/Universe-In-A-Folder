@@ -1,0 +1,76 @@
+
+#20 Interactive Python and Teaching Python Beyond Text Books
+https://youtu.be/Uq2XVWv99xI
+
+#25 Effective Python
+https://youtu.be/yTRvgPhin4g
+
+#26 Deploying Python Web Applications
+https://youtu.be/7Tnp3yDpGF0
+
+#34 Continuum Scientific Python and The Business of Open Source
+https://youtu.be/LajqsMU2Trw
+
+#35 Turbogears and the future of Python web frameworks
+https://youtu.be/sBJcm8tT7JI
+
+#36 Python IDEs with the PyCharm team
+https://youtu.be/le8EQQ34l6k
+
+#37 Python Cybersecurity and Penetration Testing
+https://youtu.be/ZGn1iJMf9Uk
+
+#38 Continuous Integration and Delivery at Codeship
+https://youtu.be/W58K-nt0bUA
+
+#40 Top 10 Data Science Stories from 2015
+https://youtu.be/vf4k8CPxamw
+
+Episode #16 Python at Netflix
+https://youtu.be/pjbTnt7bYB8
+
+Episode #17 Python on bare metal with MicroPython
+https://youtu.be/5_GCek4aFvY
+
+Episode #18 Python Anti-patterns and other mistakes
+https://youtu.be/J2qVEv4pjew
+
+Episode #19 Automate the Boring Stuff with Python
+https://youtu.be/7e9druzvJK8
+
+Episode #21 PyPy - The JIT Compiled Python Implementation
+https://youtu.be/R97gA8pfCy4
+
+Episode #22 CPython Internals and Learning Python with pythontutor.com
+https://youtu.be/jsrpXQqvdLc
+
+Episode #23 3D Printing with Python at Authentise
+https://youtu.be/dEUpbB8Et6k
+
+Episode #24 Fluent Python
+https://youtu.be/uM8kFTWWVcE
+
+Episode #27  Four Years of Python for High Schoolers
+https://youtu.be/8Tw9covzOxU
+
+Episode #28 Making Python Fast Profiling Python Code
+https://youtu.be/EL1bu7wb8_I
+
+Episode #29 Python at the Large Hadron Collider and CERN
+https://youtu.be/-vY0AUwNjB8
+
+Episode #30 Python Community and Python at Dropbox
+https://youtu.be/JtqmlAdy4Pg
+
+Episode #31 Machine Learning with Python and scikit-learn
+https://youtu.be/rRwT5HqvAVk
+
+Episode #32 PyPy.js - PyPy Python in Your Browser
+https://youtu.be/zGieh33_D4E
+
+Episode #33 OpenStack Cloud computing built on Python
+https://youtu.be/9gIArtJm9fo
+
+Getting your first Python dev job (part 1) - Talk Python To Me episode
+https://youtu.be/crH2O7RvA9k
+Videos 326-350

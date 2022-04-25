@@ -1,0 +1,76 @@
+
+Chapert 1  part 7  The Rectified Linear Unit ( Deep Learning for Computer Vision )
+https://youtu.be/GTadVhyFaE4&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part10  Softmax ( Deep Learning for Computer Vision )
+https://youtu.be/HmSOU4kZEWk&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part11  Artificial neural network ( Deep Learning for Computer Vision )
+https://youtu.be/_-OROW42tZo&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part2  Understanding deep learning (Deep Learning for Computer Vision )
+https://youtu.be/QOckIThXRM8&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part3  Perceptron (Deep Learning for Computer Vision )
+https://youtu.be/6mtosS2Kf3U&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part4  Activation functions (Deep Learning for Computer Vision )
+https://youtu.be/a-wL258ByWM&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part5  Sigmoid ( Deep Learning for Computer Vision )
+https://youtu.be/VgYbYcM5XXw&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part6  The hyperbolic tangent function (Deep Learning for Computer Vision )
+https://youtu.be/Y-jvo5hpLYM&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part8  Artificial neural network ( Deep Learning for Computer Vision )
+https://youtu.be/4r8vVsEz7_M&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapert1  part9  One hot encoding (Deep Learning for Computer Vision )
+https://youtu.be/AXgb4wU4MQw&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1   part1  Introduction for Deep Learning for Computer Vision Course
+https://youtu.be/fEATULpmGzM&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1   part21 Classification
+https://youtu.be/RnPS5PcxzO8&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part13  Training neural networks
+https://youtu.be/tRjZiEVNehw&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part14  visualization of gradient descent ( Deep Learning for Computer Vision )
+https://youtu.be/frqRVw0osGU&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part15  Playing with TensorFlow playground ( Deep Learning for Computer Vision )
+https://youtu.be/nm5JGUc43oI&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part16  Convolutional neural network  ( Deep Learning for Computer Vision )
+https://youtu.be/sUbV0udyxWE&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part17   kernel ( Deep Learning for Computer Vision )
+https://youtu.be/DqkZAbinmPo&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part18  max pooling ( Deep Learning for Computer Vision )
+https://youtu.be/EDEh6qi5z4Q&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part19  Recurrent neural networks
+https://youtu.be/Bdff7uW5zFg&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part20  Long short term memory
+https://youtu.be/bc55WWIc15E&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part22  Detection or localization and segmentation
+https://youtu.be/2MitkTa4hlQ&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part23  Similarity learning
+https://youtu.be/bU-s9SRBmy0&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part24  Image captioning
+https://youtu.be/1JQH12nGp_8&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part25  Generative models
+https://youtu.be/9AvyVNGUT_Y&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1 part12 Cross entropy Dropout bacth normalization L1 and L2 normalization
+https://youtu.be/zB4O9JIc7To&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+Videos 1-25

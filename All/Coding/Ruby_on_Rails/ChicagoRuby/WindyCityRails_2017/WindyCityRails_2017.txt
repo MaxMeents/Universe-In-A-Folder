@@ -1,0 +1,61 @@
+
+Beyond Active Record - Pan Thomakos, Strava
+https://youtu.be/QyDep9TUTrw&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Breaking the Law of Demeter - Natasha Jones, Fractured Atlas
+https://youtu.be/IU29HF6ZEJ4&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Common Rails Idioms That Kill Database Performance - Starr Horne Honeybadger
+https://youtu.be/xzMmiQ5iuCw&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Delightful Stylesheets - Aly Fluckey, TableXI
+https://youtu.be/t6qmZUAUwnc&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+DevOps Sauce for your Rails Pizza - Yan Pritzker, Reverb
+https://youtu.be/ImNg_LpJSKo&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Dilemma - Sam Phippen
+https://youtu.be/_FUa01nCE-o&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Finding Beauty in the Mundane - Megan Tiu, CallRail
+https://youtu.be/SheQp9Gw9Dc&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Functional Lingo - Amanda Laucher
+https://youtu.be/TWfu2KHnYhA&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Hexes and the Magic of Base 16 - Vaidehi Joshi, Tilde, Inc
+https://youtu.be/skBp4AftWWQ&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+How Does JavaScript Math - Meara Charnetzki, TableXI
+https://youtu.be/c0oND91zwjM&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+How Open Source and the Cubs won the World Series - Christopher Aji Slater, UL llc
+https://youtu.be/A0lvdEPCB_4&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Lightning Talks - Day One
+https://youtu.be/X5dzyoHAMv0&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Lightning Talks - Day Two
+https://youtu.be/Q_6-gOBg3sc&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Rails Anti Patterns How Not to Design your Database - Brad Urani, Procore
+https://youtu.be/hVaj1ZIKv4k&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Scaling Your Rails App Codebase with CBRA - Ben Klang, Power Home Remodeling
+https://youtu.be/tkL9On9HVHQ&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+Seven Months in React The Perilous Art of Swimming Upstream - Brandon Hays
+https://youtu.be/kLQaJUMtma8&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+The Hitchhikers Guide to Machine Learning - Randall Thomas, Thunderbolt Labs
+https://youtu.be/LKC8tuQs6es&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+The Road To Legacy Is Paved With Good Intentions - Noel Rappin, Table XI
+https://youtu.be/NGIhW3nREac&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+To Package or Not to Package - Nell Shamrell Harrington, Chef
+https://youtu.be/vrIcumXmnOM&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+
+UX for Developers - Eva PenzeyMoog, 8th Light
+https://youtu.be/CWiHUU5HOpA&list=PLP0HXAd1Anx3xVPvdnKXtlsqJhoZHBFF_
+WindyCityRails 2017

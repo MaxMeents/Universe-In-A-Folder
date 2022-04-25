@@ -1,0 +1,22 @@
+
+Adding the ODBC connection string for mySQL
+https://youtu.be/F933Y7uD4PI&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+
+AutoHotkey Webinar 112018 Hour 1- SQLite
+https://youtu.be/Qq-Ic2-L0XE&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+
+AutoHotkey Webinar 112018 Hour 2-SQLite  Q&A
+https://youtu.be/QQNMzPVOo_k&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+
+Automating prep work for SQL in list query of hundreds-thousands of items
+https://youtu.be/4thoC2cmqT0&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+
+Avoid SQL queries by using aggregate data on local files (Real Examples)
+https://youtu.be/7ZWVMWdFmoE&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+
+Take thousands of items and push into inlist for SQL Query (2021)
+https://youtu.be/2X9nuIWJuUw&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+
+Use Webscraping to help Write SQL queries (2021)[Real-World Example]
+https://youtu.be/D_-6qMfsicY&list=PL3JprvrxlW27BgLjeRJHB7VdvBI12Fs_O
+Amazing SQL tips & tricks

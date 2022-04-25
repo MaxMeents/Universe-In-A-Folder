@@ -1,0 +1,28 @@
+
+RustLab 2019 An unfair battle • Federico Dolce
+https://youtu.be/eI7u7NC0yKA&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 Asynchronous networking • Pierre Krieger
+https://youtu.be/q31tTVtIv54&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 Conference introduction birth of RustLab - Giovanni Bajo
+https://youtu.be/nWEOcUMLes4&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 From C to Rust and back • Luca Barbato
+https://youtu.be/DnFFds_zsFI&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 How to write Rust instead of C, and get away with it • F. Raynaud, A. Verardi
+https://youtu.be/BFHUDA3GCmE&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 Lightning talks
+https://youtu.be/I9nD0oQCA-Y&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 Machine Learning is changing - is Rust the right tool for the job • Luca Palmieri
+https://youtu.be/odI_LY8AIqo&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 Neobuffer Safe, Lock Free, Cross-Process Channels in Rust • Bernardo Meurer
+https://youtu.be/3NVev3FhGgk&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+
+RustLab 2019 Open Sesame! A simple majordomo system built with Rust • Antonio Piraino
+https://youtu.be/IF8ZQZfo6LQ&list=PLkgYzo_ZZ7KBuiIE1JGl_P7ErLiXzAnul
+RustLab 2019 Day 1 - 28062019

@@ -1,0 +1,76 @@
+
+GameMaker Language An In-Depth Guide
+https://youtu.be/BmSHV-WGa68
+
+Hidden GameMaker Gems Accessors
+https://youtu.be/gTPCVR0Cq_Q
+
+Hidden GameMaker Gems ini Files
+https://youtu.be/JnZH7YUF6Wk
+
+Hidden GameMaker Gems Macros
+https://youtu.be/oevKqX_FE4w
+
+Hidden GameMaker Gems Mod and Div
+https://youtu.be/X0g9PxdzaaE
+
+[Game Maker Tutorial] RTS [6] Health and Enemy Lasers!
+https://youtu.be/gTcwMWeGwlM
+
+[GameMaker Live-Stream] Draw GUI Basics
+https://youtu.be/FTK1PrqWJiQ
+
+[GameMaker Live-stream] Easy Menus
+https://youtu.be/NDrkamz3ISY
+
+[GameMaker Tutorial] GameMaker Physics (No Experience Required!)
+https://youtu.be/rfdH0_cGw4k
+
+[GameMaker Tutorial] GameMaker Physics (Truck & Terrain)
+https://youtu.be/QT3pix0m4wg
+
+[GameMaker Tutorial] Magic RPG 3D [P2]
+https://youtu.be/7lLHALPi5F4
+
+[GameMaker Tutorial] Magic RPG 3D
+https://youtu.be/pNHFaSOVboU
+
+[GameMaker Tutorial] Platform Animations
+https://youtu.be/13cLUL8VO2A
+
+[GameMaker Tutorial] RTS [7] Mining Crystals
+https://youtu.be/Gjd8C9vOKuo
+
+[GameMaker Tutorial] RTS [8] Unit Creation!
+https://youtu.be/LvaZEZyhoQg
+
+[GameMaker Tutorial] Simple Inventory with 1D Arrays
+https://youtu.be/IhUPBpgo2HQ
+
+[GameMaker Tutorial] Smooth Perfect Platformer!
+https://youtu.be/_punqJC-b64
+
+[GameMaker Tutorial] Stacking Inventory with 1D Arrays [2]
+https://youtu.be/jHyJ-6ga2jw
+
+[GameMaker Tutorial] Surfaces (Basics)
+https://youtu.be/iOljy91Lhwk
+
+[GameMaker Tutorial] Timelines and State Based A.I.
+https://youtu.be/QKv4KZliLEc
+
+[GameMaker Tutorial] Why Parent Objects
+https://youtu.be/vteX3BfXnek
+
+[GameMaker Update] Pixel Monsters Series
+https://youtu.be/WrCb6c8gKOU
+
+[HeartBeast Plays] Hyper Light Drifter [1]
+https://youtu.be/X2ysRUbRp74
+
+[HeartBeast Plays] Hyper Light Drifter [2]
+https://youtu.be/8RxDJSuCljA
+
+[Let's Pixel] Flame Colossus
+https://youtu.be/LEcLsF0dreU
+Videos 301-325

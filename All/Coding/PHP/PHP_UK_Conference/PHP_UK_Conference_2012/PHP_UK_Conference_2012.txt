@@ -1,0 +1,52 @@
+
+PHP UK Conference 2012 - Big Data webscience... by James Littlejohn
+https://youtu.be/IOkBcgnrdNg&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Building... apps with Phing, by Michiel Rook
+https://youtu.be/OOdrMwkQnMo&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Creative Coding - why doing nothing doesn't mean you're not working
+https://youtu.be/YTa2s6ytCOg&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Keynote A look at PHP in 2012, by Rasmus Lerdorf
+https://youtu.be/V1O4H5pz-c8&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Keynote Challenges at scale...at eBay, by Hugh Williams
+https://youtu.be/06-__gzz8tg&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Masterizing PHP Data Structure 102, by Patrick Allaert
+https://youtu.be/h6LOtN2RgEU&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Monitoring your back-end for speed and profit by Andy 'Bob' Brockhurst
+https://youtu.be/iTveazbmzF8&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - PHP 5.4 the new bits, by Davey Shafik
+https://youtu.be/I6QtuLBwux4&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - PHP under the hood, by Johannes Schlüter
+https://youtu.be/bxxIXPc9IR8&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Profiling PHP applications, by Derick Rethans
+https://youtu.be/nFBQNQ1_5vI&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Recognising smelly code, by Harrie Verveer
+https://youtu.be/wmgnFbsaPvo&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Scaling communication with Continuous Integration, by LB Denker
+https://youtu.be/d5E0wPkpGUo&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Security audits as an integral part of PHP app dev - Sijmen Ruwhof
+https://youtu.be/K33AleVS64o&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - Teaching your machine to find fraudsters, by Ian Barber
+https://youtu.be/xvujYOErFqM&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - The journey towards Continuous Integration, by Sebastian Marek
+https://youtu.be/eRfQ9M9TDRs&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - The Misguided Manager, by Zoë Slattery
+https://youtu.be/LPbp2UeGGgQ&list=PLE757588AF8F4CA53
+
+PHP UK Conference 2012 - To a thousand servers and beyond... by Nikolay Bachiyski
+https://youtu.be/FJA-bqHuKNk&list=PLE757588AF8F4CA53
+PHP UK Conference 2012

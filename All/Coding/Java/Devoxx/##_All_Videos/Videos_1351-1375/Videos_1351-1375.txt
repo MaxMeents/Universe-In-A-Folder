@@ -1,0 +1,76 @@
+
+(Deep) Learning to Fly by Krzysztof Kudrynski & Blazej Kubiak
+https://youtu.be/p3AayvQSQ10
+
+A Thorough Look into Spatial Mapping with HoloLens by Rafał Legiędź
+https://youtu.be/vycKsVJ1eAA
+
+Advanced Pipelines for Hypothesis-Driven Development Smart Routers... by Edson Yanaga
+https://youtu.be/uH-mPVFVVRA
+
+Advanced search for your legacy application by David Pilato
+https://youtu.be/3aK5vnPPRcw
+
+Back to the CompletableFuture Concurrency in Action by Dmitry Vinnik
+https://youtu.be/i3iDIP4PTLk
+
+Developing for Mixed Reality with HoloLens by Rafał Legiędż
+https://youtu.be/5paqNTfmUU4
+
+Embracing Database Diversity with Kafka and Debezium by Frank Lyaruu
+https://youtu.be/QddFVJgdE1Y
+
+Flying services with a drone by Krzysztof Kudrynski
+https://youtu.be/z50r9jo9pyw
+
+Fn Project – an open source container native serverless platform by David Delabassée
+https://youtu.be/yzmHIOIA0x4
+
+Interview with Ana Maria Mihalceanu at Voxed Days Bucharest 2018
+https://youtu.be/pbAwAsb0XUs
+
+Interview with Burr Sutter at Voxxed Days Bucharest 2018
+https://youtu.be/GBFPrlui4KY
+
+Interview with Catagay Civici at Voxxed Days Bucharest 2018
+https://youtu.be/3wt5NtL3T4I
+
+Interview with Danilo Poccia at Voxxed Days Bucharest 2018
+https://youtu.be/ngrCTahUgnQ
+
+Interview with David Dellabasse at Voxxed Days Bucharest 2018
+https://youtu.be/7O_s0lyHt_Y
+
+Interview with Krzysztof Kudrynski at Voxxed Days Bucharest 2018
+https://youtu.be/Jbh33bu2pJs
+
+Interview with Mark Heckler at Voxxed Days Bucharest 2018
+https://youtu.be/9GM44h-Mt7g
+
+Interview with Stephan Janssen at Voxxed Days Bucharest 2018
+https://youtu.be/Qx8BFt6v5eQ
+
+Is there anybody out there by Manuel Bernhardt
+https://youtu.be/Wt-iEuwMPVc
+
+Java 9 security enhancements in practice by Martin Toshev
+https://youtu.be/LhmFGEIqAWE
+
+JPA Essentials Workshop – Fundamental Concepts and Common Pitfalls by Victor Rentea
+https://youtu.be/r_E6W2d9x5w
+
+Keynote Dockerizing legacy apps by Sergey Pronin & Eugene Dounar
+https://youtu.be/iDFV0yHR8Mc
+
+Legacy, for lack of a better word, is good by Uberto Barbini
+https://youtu.be/skXD60x-rEM
+
+Machine Learning without the Hype by Philip Krenn
+https://youtu.be/MN1hwcH8NnI
+
+Transaction Synchronization and Spring Application Events by Bartłomiej Słota
+https://youtu.be/h8TWQM6fKNQ
+
+Using Git as a NoSql Database by Kenneth Truyers
+https://youtu.be/nPPlyjMlQ34
+Videos 1351-1375

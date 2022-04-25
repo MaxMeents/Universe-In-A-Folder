@@ -1,0 +1,76 @@
+
+Aroon Oscillator Calculation, Programming in Python, and Graphing in Matplotlib
+https://youtu.be/0dGhDXGg0GQ
+
+How to modify data granularity in Python for Graphing data in Matplotlib or another application
+https://youtu.be/INf7VUHUpjk
+
+How to reverse the order of a Python list
+https://youtu.be/ya2dJi6Eb2g
+
+MySQL Database with Python Tutorial Part 1 - Intro
+https://youtu.be/lhU2OZCKXhQ
+
+MySQL Database with Python Tutorial Part 2 - creating tables and inserting data
+https://youtu.be/vemWWj8THK8
+
+MySQL Database with Python Tutorial Part 3 - UPDATE, DELETE, AND SELECT
+https://youtu.be/1iHtAj85vcs
+
+MySQL Database with Python Tutorial Part 4 - Inserting Variables as Data
+https://youtu.be/i6PVshqAUGw
+
+Python Bollinger Bands 1 Programming in Python, and Graphing in Matplotlib
+https://youtu.be/CSZEB20cGVo
+
+Python Calculating Bollinger Bands 2 Programming in Python, and Graphing in Matplotlib
+https://youtu.be/IlKJSfyG_z4
+
+Python Center of Gravity Stock Indicator 1
+https://youtu.be/5k5g3VOiNBY
+
+Python Chaikin Money Flow Trading Indicator 1
+https://youtu.be/hxHABjeEdlE
+
+Python Graphing Bollinger Bands 3 Programming in Python, and Graphing in Matplotlib
+https://youtu.be/u34HNFMp8Fw
+
+Python Graphing The Aroon Indicator in Matplotlib - Mathematics and stock indicators 18
+https://youtu.be/gbX8rxLhJC8
+
+Python Graphing the Center of Gravity Stock Indicator in Matplotlib
+https://youtu.be/AvnFfPsnBeQ
+
+Python How to Graph the Chaikin Money Flow Trading Indicator in Matplotlib
+https://youtu.be/-mOwdyAoNrg
+
+Python How to Program the Chaikin Money Flow Trading Indicator
+https://youtu.be/-Z4FwGEU2Uc
+
+Python math and stocks Chaikin Volatility intro
+https://youtu.be/GfPPv4_HG_E
+
+Python math and stocks How to program the Chaikin Volatility for Matplotlib graphing
+https://youtu.be/czq4jVm43fo
+
+Python math and stocks How to program the Chaikin Volatility
+https://youtu.be/vc57ofwrEdI
+
+Python Percent change calculation how to tutorial
+https://youtu.be/7fIY_5m1yH0
+
+Python Programming Center of Gravity Stock Indicator 2
+https://youtu.be/Tu_GsixAxVQ
+
+Python Programming The Aroon Indicator - Mathematics and stock indicators 17
+https://youtu.be/FbNYNRjalEc
+
+Python Standard Deviation part 1 Programming in Python, and Graphing in Matplotlib
+https://youtu.be/ZCvdPjxFkrE
+
+Python Standard Deviation part 2 Programming in Python, and Graphing in Matplotlib
+https://youtu.be/YJ68AUu2LQA
+
+Streaming Tweets from Twitter API v1.1 into MySQL Database with Python
+https://youtu.be/LC8VpW03Ksw
+Videos 1001-1025

@@ -1,0 +1,76 @@
+
+Automate formatting and linting your code with pre-commit - Arthur Rio
+https://youtu.be/Es-DDn2Wcew
+
+Automation using Python -  Gobind Agarwal
+https://youtu.be/XliVsWZS_9Y
+
+AWSimple - a simple API for basic AWS services (S3, DynamoDB, SNSSQS) - James Abel
+https://youtu.be/JtB_GYVC5p8
+
+Building a Brand as a Python Programmer - Cory Althoff
+https://youtu.be/sbjjA4d-Sf8
+
+Building An API With FastAPI and Deta - Josh Grant
+https://youtu.be/VTmLMpbITPU
+
+Building your first REST API with AWS’s Open Data Sets and Chalice - Christian Weber
+https://youtu.be/VKUoL3IL3-w
+
+Data Hut A directory of data science  data engineering libraries - Jeff Fischer
+https://youtu.be/u6A_Hj55bT0
+
+Demystifying Flask's Application and Request Contexts with Pytest - Patrick Kennedy
+https://youtu.be/90nMybVBI9s
+
+Empowering your Analytic Engineering with DBT -  Raul Maldonado
+https://youtu.be/5eGRWjliWzI
+
+Full-Stack Web With Nothing But Python - Meredydd Luff
+https://youtu.be/OS4lEY-mPAs
+
+High Availability MySQL using Python - Nathan Coffield
+https://youtu.be/8ETR2ENQgaE
+
+How to deal with poor code analysis support - Vladimir Losev
+https://youtu.be/YRJTRvzDUKA
+
+How to debug like Feynman and Bayes - Andy Schriner
+https://youtu.be/fjQhcB3G2wI
+
+Identity-Based Security in Decoupled Applications with Python and DANE - Ash Wilson
+https://youtu.be/xaaRwW7QXoc
+
+Idiomatic Pandas 5 best-practices for pandas - Matt Harrison
+https://youtu.be/4E-wBxE8mmU
+
+Make Awesome def Decorators Now - Phebe Polk
+https://youtu.be/ZQTIA75TtBc
+
+Oso An open-source policy engine for authorization - Sam Scott
+https://youtu.be/UsigUU1wu8w
+
+PySpark Combining Machine Learning & Big Data - Avon Roy
+https://youtu.be/rgVJYLF7egE
+
+Python Memory Deep Dive for Speed and Efficiency - Michael Kennedy
+https://youtu.be/zB-NlVWAKX4
+
+PyWebIO A python-based NoJS Web App Development Framework - Helin Cao
+https://youtu.be/ACRtlcsGRpM
+
+See what your functions are doing with Memory Profiler - Cory Atkins
+https://youtu.be/CBTWacTfPuc
+
+Three ways to test S3 in Python - Sanjay Siddhanti
+https://youtu.be/D5Ab3dM2CFU
+
+Traversing GraphQL with ease using Ariadneb - Daniel Pyrathon
+https://youtu.be/Nn4NR28cb-g
+
+Working with dates and times in Pandas - Reuven Lerner
+https://youtu.be/xNOBtj5okb8
+
+You Are Unique and We Can Tell By your Gait - John Whaley
+https://youtu.be/sUQtgi_BmSA
+Videos 26-50

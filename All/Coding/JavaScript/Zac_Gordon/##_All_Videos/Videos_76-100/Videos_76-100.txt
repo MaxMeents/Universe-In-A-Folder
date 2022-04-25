@@ -1,0 +1,76 @@
+
+2018 Learn Gutenberg with Zac Gordon at WordPress DC  NOVA Meetup at Squidix
+https://youtu.be/zuGM_OXpuiM
+
+Adv Gutenberg Course Planning - React on a Block Frontend
+https://youtu.be/dmRAOYTDtxY
+
+Adv Gutenberg Course Planning - Saving Map API Key Component
+https://youtu.be/Q6rRMVOdlVE
+
+Adv Gutenberg Course Planning - Toggling Sidebar Open
+https://youtu.be/CUJPXlIHC6M
+
+Advanced Gutenberg Course Planning - Filter Updates and Data API Intro
+https://youtu.be/fr5_xUU5jlM
+
+Advanced Gutenberg Course Planning - Style Variations and Block Filters
+https://youtu.be/S3rgzaA6kQU
+
+Advanced Gutenberg Course Prep - Finishing Working Through Data API Selectors
+https://youtu.be/0w28bbFNM0o
+
+Advanced Gutenberg Course Prep - Introduction to Data API
+https://youtu.be/YeZKKiUGMBQ
+
+Advanced Gutenberg Course Prep - More Work with the Data API
+https://youtu.be/qbDisZvssA8
+
+AJAX in WordPress using admin-ajax.php
+https://youtu.be/Z0Jw226QKAM
+
+Atom Editor Tutorial - A Review of Packages and Themes [3232]
+https://youtu.be/A6cp0efvDlU
+
+Atom Editor Tutorial - Block Travel [1332]
+https://youtu.be/Gt610fAnG3w
+
+Atom Editor Tutorial - Goto Definition [1432]
+https://youtu.be/rqoc5DCBo-Q
+
+Atom Editor Tutorial - JavaScript Snippets [1832]
+https://youtu.be/3Eif0pyq4pc
+
+Atom Editor Tutorial - Jumpy [1532]
+https://youtu.be/NrWWD754OkM
+
+Atom Editor Tutorial - Language Packages [1732]
+https://youtu.be/0aLPiRweX2Q
+
+Atom Editor Tutorial - Styling Packages [2732]
+https://youtu.be/A6dNqfUffao
+
+Decoupled [Headless] Authentication with WordPress Course Trailer
+https://youtu.be/Q5YuHrUGeCs
+
+Enqueuing JavaScript & Localize Scripts in WordPress Themes
+https://youtu.be/omTuBUS1Tvo
+
+Enqueuing JavaScript in a WordPress Plugin
+https://youtu.be/cEX43Q8onzg
+
+Overview of The WordPress Data API (w Redux & React)
+https://youtu.be/OQczO6VOMkY
+
+React on a WordPress Block Frontend - Gutenberg
+https://youtu.be/jauZCeLrGFA
+
+The Gutenberg Live Show
+https://youtu.be/iGMPcIAFJGY
+
+WordCamp Seattle JavaScript Workshop
+https://youtu.be/TP4vOIskeVo
+
+WordPress Block Editor Sidebars (w Plugin API & JavaScript)
+https://youtu.be/QJAH05Drkzc
+Videos 76-100

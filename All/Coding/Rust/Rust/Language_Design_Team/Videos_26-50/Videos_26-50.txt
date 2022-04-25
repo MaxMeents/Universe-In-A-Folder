@@ -1,0 +1,76 @@
+
+2020-04-27 Design Meeting (more edition planning)
+https://youtu.be/AmKn5uCRx6M&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+2020-07-06 Triage Meeting
+https://youtu.be/Cajj5L7fHzw&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+2020-07-08 Lang Team Design Meeting Path to membership
+https://youtu.be/SeH-hZgDG1Y&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+2020.03.05 Lang Team Triage Meeting
+https://youtu.be/z7nKVXlHq7A&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+2020.03.12 Triage Meeting
+https://youtu.be/AaQVxOPQf9Q&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+2020.03.19 Triage Meeting
+https://youtu.be/suUXf05Osws&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+2020.04.20 Lang team 2021 Edition design meeting
+https://youtu.be/uDbs_1LXqus&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Design Meeting 2020-07-22 Const generics MVP
+https://youtu.be/e3cWvpEPWrA&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Design meeting 2020.02.03 Specialization overview
+https://youtu.be/7_7gUxnbenU&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Design Meeting Const eval skill tree + unsafe code
+https://youtu.be/b3p2vX8wZ_c&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team 2020.05.27 Design Meeting Roadmap  2021 Edition planning
+https://youtu.be/6d2b7Y_UohY&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Design Meeting 2020-03-16 ffi-unwind
+https://youtu.be/ZZzTMyHsStA&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Design Meeting 2020.03.26 Sealed Rust
+https://youtu.be/_DsxXz3vssI&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Design Meeting Proposal procedure (2020-05-14)
+https://youtu.be/V7WPULsMe1I&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Design Meeting Resolving the Pin unsoundness (2020.01.06)
+https://youtu.be/MX_GRNLhlY8&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Triage 2020-07-20
+https://youtu.be/9RC8su7AxhY&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Triage 2020.06.22
+https://youtu.be/_ZSlR4X7IPY&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Triage Meeting 2020.04.02
+https://youtu.be/-TXnbYVogzs&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Triage Meeting 2020.05.07
+https://youtu.be/1mqyLD-z_fA&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang Team Triage Meeting 2020.06.01
+https://youtu.be/dUp5uN_D7yU&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Lang-team triage meeting 2020.03.26
+https://youtu.be/uLNUrBtlRJM&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Safe Transmute  Typic Design Meeting (2020-07-01)
+https://youtu.be/3aw-5Fcyo7s&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Triage Meeting 2020-06-29
+https://youtu.be/QE4MbWkJxYQ&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Triage Meeting 2020.04.09
+https://youtu.be/N8XfRSpPZus&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+
+Triage Meeting 2020.06.15
+https://youtu.be/WB1EywAs0I4&list=PL85XCvVPmGQg-gYy7R6a_Y91oQLdsbSpa
+Videos 26-50

@@ -1,0 +1,76 @@
+
+Python Basics Install Numpy and Pandas
+https://youtu.be/wU1ZZg-_Aic&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Boolean Indexing
+https://youtu.be/bic9NM8kfUk&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame Describe Method
+https://youtu.be/D8Dl9KJBroc&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame Groupby Method
+https://youtu.be/y9oFL0EHlz0&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame Head Method
+https://youtu.be/TlkcYSZ187A&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame iloc Method
+https://youtu.be/knBw_-Jrwhg&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Dataframe Info Method
+https://youtu.be/LVx_IraQyVo&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame loc Method
+https://youtu.be/40I1FDJPX0A&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame Sort Values Method
+https://youtu.be/I50PNhY14DA&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame Tail Method
+https://youtu.be/j8EphrkzS8Q&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrame Transform Method and Add Column
+https://youtu.be/Ecd1sKoNDNY&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas DataFrames Columns
+https://youtu.be/VFzCVDWdHcQ&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Excel Sheets
+https://youtu.be/aCnCACUXLhI&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Library
+https://youtu.be/TNeKc4b1zHk&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Options and Settings Max Columns
+https://youtu.be/csE1SK7SI1A&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Read CSV Method
+https://youtu.be/ayporggHz4U&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pandas Read Excel Function Skiprows Argument
+https://youtu.be/E8B5FOK6ZUM&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pickling With Pandas
+https://youtu.be/PkFNse0TZiY&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Pyplot with Pandas Series
+https://youtu.be/wjcrsYnXr3I&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas Concatenate Function
+https://youtu.be/qqq3csVj-1g&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas Concatenate Pt  2
+https://youtu.be/ehkWJXPzlRM&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame dtype Attribute
+https://youtu.be/QD9rS9HI8Y8&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Set Index Method
+https://youtu.be/7CTFHIk6Gs8&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas ExcelFile Object
+https://youtu.be/SSuq3V5fUBg&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Requested Video Pandas DataFrame to excel Function
+https://youtu.be/Tcr3jnpk6tw&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+Videos 1-25

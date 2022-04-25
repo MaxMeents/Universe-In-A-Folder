@@ -1,0 +1,76 @@
+
+Adinata Thayib - Running Unit Test on Top of Serverless Service
+https://youtu.be/3pdZalofKnI
+
+Alejandro Saucedo - Meditations on First Deployment A Practical Guide to Responsible Development
+https://youtu.be/nA6qPL4ag7k
+
+Alexander Condello - Building quantum applications with D-Wave's Leap
+https://youtu.be/oovofn0QPno
+
+Alexander Hultnér - API-schema-based testing with schemathesis
+https://youtu.be/9FHRwrv-xuQ
+
+Cheuk Ho - How to be Pythonic Design a Query Language in Python
+https://youtu.be/foEChBTSeQw
+
+Elizaveta Shashkova - The Hidden Power of the Python Runtime
+https://youtu.be/mAnOBOrgFdM
+
+EuroPython 2020  - Lightning Talks 0723
+https://youtu.be/M7BocaqnqF0
+
+EuroPython Ask me Anything - 2020-09-24
+https://youtu.be/AWYiK0G0JNE
+
+Fernando Masanori Ashikaga - Python Emergency Remote Teaching
+https://youtu.be/b3O6fZEQYrI
+
+Guido van Rossum - Guido van Rossum Q&A
+https://youtu.be/uatPpcnrLaI
+
+Gunjan Dewan - Developing a match-making algorithm between customers and Go-Jek products!
+https://youtu.be/m8-9Q8gI5eQ
+
+Ian Ozsvald - Making Pandas Fly
+https://youtu.be/JgBV7p9jNo0
+
+J.M. Ortega - Python Memory Management 101
+https://youtu.be/udhpbenZlAg
+
+Joseph Song - Durable Functions A More Durable Azure Function
+https://youtu.be/GGxHfqcpl0g
+
+Lidi Zheng, Pau Freixes - gRPC Python, C Extensions, and AsyncIO
+https://youtu.be/VtxdY9YtN-4
+
+Mario Corchero, Marianna Polatoglou - Growing a Python Community at an Enterprise Scale
+https://youtu.be/okPbkPkZz_I
+
+Miloslav Pojman - HTTP3 – Why should I care
+https://youtu.be/vXbP7EmpErE
+
+Nicolas Kuhaupt - Probabilistic Forecasting with DeepAR and AWS SageMaker
+https://youtu.be/zQvHESgqFcU
+
+Petertc Chu - Speak Python with Devices
+https://youtu.be/BpgtN8GK1M8
+
+Sarah Gibson - Sharing Reproducible Python Environments with Binder
+https://youtu.be/wTVMHallSSA
+
+Smit Thakkar - Writing Clean Abstractions
+https://youtu.be/Lgof_5yxw3Q
+
+Tam-Sanh Nguyen - Writing and Scaling Collaborative Data Pipelines with Kedro
+https://youtu.be/4sCpfCiJLgs
+
+Vijay Sajjanar - Reduce hardware costs in Internet of Things using Python
+https://youtu.be/OBUEiuzIASQ
+
+Vinayak Mehta - The Hitchhiker's Guide to CLIs in Python
+https://youtu.be/i_MIVNqqaxo
+
+Wei Lee - Python Table Manners Cut the Cookie Gracefully
+https://youtu.be/m6rF3Kah928
+Videos 151-175

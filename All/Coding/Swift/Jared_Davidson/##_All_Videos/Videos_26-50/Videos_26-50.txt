@@ -1,0 +1,76 @@
+
+Animations in SwiftUI 2.0! (Xcode)
+https://youtu.be/51UVSCNoA5I
+
+Bootcamp Success Rate & Average Salary  DevMountain Vlog #5
+https://youtu.be/WFj1-AwGHGY
+
+Creating a Music App! (Pt. 1  Planning & Design w Sketch)
+https://youtu.be/NouNqNdJAUY
+
+Designing the Player View for our Music App! (Part 2  SwiftUI)
+https://youtu.be/EPg1WFCPJPc
+
+Desk Setup Tour 2018! (Fully Jarvis SitStand Desk)
+https://youtu.be/C-HSuqdRlUA
+
+Edit Your App's UI From Anywhere! (UIDesignManager  Swift  Xcode)
+https://youtu.be/NBBP47vMPOg
+
+Expanding Table View Cells! (Swift 4 in Xcode)
+https://youtu.be/ClrSpJ3txAs
+
+How to Create Interchangeable App Icons! (SwiftUI  Xcode)
+https://youtu.be/ZRg7JDnYAQ8
+
+How to Enable Paging in SwiftUI!  - Building the App Store (Pages  Xcode)
+https://youtu.be/ahUNAK4LnsQ
+
+How to Generate a QRCode in Swift! (SwiftUI  Xcode)
+https://youtu.be/bKOdFVirgU0
+
+How to Make a Task List App w SwiftUI! (Xcode)
+https://youtu.be/LQ-S43P1P1Q
+
+I Made Instagram in 24 Hours! (Here's How)
+https://youtu.be/10GCT-V3LHk
+
+I Make a Music Streaming App in One Day! ( Part 1  Swift  Xcode)
+https://youtu.be/hkmnQcsz1Bs
+
+Let's Design the App Store w SwiftUI! (Part 1)
+https://youtu.be/-3V8ogbcCaE
+
+Let's Design the App Store! (Part 2  SwiftUI  Xcode)
+https://youtu.be/dfH9rBJOOrA
+
+Make a Portal using ARKit! (Swift 4 in Xcode  SceneKit)
+https://youtu.be/uuxXHAKA1WY
+
+Make Beautiful Device Mockups w Angle! (Sketch  Figma  Adobe XD)
+https://youtu.be/7lydrU44zBo
+
+Massive iOS Developer Giveaway! (Thank You)
+https://youtu.be/bRri2yl0Z2Q
+
+Programming our Music App Design! (Pt. 2  Swift in Xcode)
+https://youtu.be/g2QzPwTOE9k
+
+Scroll View Parallax Effect! (Pt 1  Swift 4 in Xcode)
+https://youtu.be/IUT0WByY7HI
+
+Sizing UITableView Cells to Fit Images! (Swift in Xcode)
+https://youtu.be/JvjEqWHcyIw
+
+TAG. - Our New Startup Explained!
+https://youtu.be/3V8eC16a7Vw
+
+UITableView  Custom Cells! (Swift 4 in Xcode)
+https://youtu.be/YwE3_hMyDZA
+
+Using Hex Color Codes! (Swift 4 in Xcode)
+https://youtu.be/HPhqO0D1tG4
+
+Where Have I Been! - Teresina Brazil Mission Montage.
+https://youtu.be/gMzC8FJaUPM
+Videos 26-50

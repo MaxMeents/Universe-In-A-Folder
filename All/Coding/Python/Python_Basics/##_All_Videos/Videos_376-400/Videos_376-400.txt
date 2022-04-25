@@ -1,0 +1,76 @@
+
+Python Basics Tutorial 600th Episode
+https://youtu.be/s-IDlgGvjVY
+
+Python Basics Tutorial Calendar Set First Week Day Function
+https://youtu.be/XzWKIK5-X_0
+
+Python Basics Tutorial Calendar Weekheader
+https://youtu.be/AG7yKfTHNlo
+
+Python Basics Tutorial Find What Works For You
+https://youtu.be/5xeF7-NwptA
+
+Python Basics Tutorial Install Django
+https://youtu.be/GxLTwiwPhxE
+
+Python Basics Tutorial Kivy Binding TextInput
+https://youtu.be/6VltTVe-XvM
+
+Python Basics Tutorial Kivy TextInput Text
+https://youtu.be/Ka6bRD3ynnE
+
+Python Basics Tutorial Matplotlib 3D Preview
+https://youtu.be/sCPjMPpEcXI
+
+Python Basics Tutorial Matplotlib Interactive Mode
+https://youtu.be/SpClxAd5jac
+
+Python Basics Tutorial Matplotlib Two Types of Plot with Legend Box to Anchor and Data Control
+https://youtu.be/39sJ-QzJGzk
+
+Python Basics Tutorial Numpy Array Tolist Method
+https://youtu.be/jn2KEsKk2dw
+
+Python Basics Tutorial Numpy Linspace Function
+https://youtu.be/fMOzV3-L1s8
+
+Python Basics Tutorial Pandas DataFrame Fillna Method
+https://youtu.be/ZDrY5-_e4b0
+
+Python Basics Tutorial Pandas DataFrame Reset Index Method
+https://youtu.be/lbQZfh7XukA
+
+Python Basics Tutorial Playlist Resources
+https://youtu.be/lUOtrZiIupY
+
+Python Basics Tutorial Pygame Add Explosion Sound
+https://youtu.be/HQypu5zWxFo
+
+Python Basics Tutorial Pygame Sprite Boundary
+https://youtu.be/VELxYEY3CfM
+
+Python Basics Tutorial Pygame Sprite Collide
+https://youtu.be/bQnEQvyS1Ns
+
+Python Basics Tutorial Repeat Pattern With One For Loop
+https://youtu.be/s7xZ8ugvYhU
+
+Python Basics Tutorial Requested Video Method to My Madness
+https://youtu.be/Xzazk35pB9s
+
+Python Basics Tutorial Sqlite SQL Keyword Order
+https://youtu.be/RScIj2N7vfs
+
+Python Basics Tutorial Sqlite3 Row Object
+https://youtu.be/lSNDsCajYD8
+
+Python Basics Tutorial Tkinter TTK Button Press
+https://youtu.be/sBQQtvIOmXU
+
+Python Basics Tutorial Tkinter Yes or No Pop Up Window to Exit
+https://youtu.be/i894k4OBXHU
+
+Python Basics Tutorial Week Off and Record Setting
+https://youtu.be/BX1JrgZPfgg
+Videos 376-400

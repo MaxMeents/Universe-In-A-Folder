@@ -1,0 +1,76 @@
+
+JS Quick Hits 15 - Async  Await
+https://youtu.be/BvTeHs9Nabs
+
+JS Quick Hits 16 - DOM Query Selectors
+https://youtu.be/ngCv-HHu0tU
+
+JS Quick Hits 17 - Document Methods
+https://youtu.be/r9tW6cR1R1Y
+
+JS Quick Hits 18 - Nodelist vs. Array
+https://youtu.be/gCfx8MVXvDk
+
+JS Quick Hits 19 - Import  Export
+https://youtu.be/Cc2o55i8E7U
+
+JS Quick Hits 21 - Object.assign Issues
+https://youtu.be/CCgffQHeZsk
+
+JS Quick Hits 22 - Prototypes Part 1
+https://youtu.be/MVMsqBfUBNU
+
+JS Quick Hits 23 - Prototypes Part 2
+https://youtu.be/PXPO-lC-Y9s
+
+JS Quick Hits 24 - Property Enumerability
+https://youtu.be/wSiVkvuTVq0
+
+JS Quick Hits 25 - Array.forEach
+https://youtu.be/JE77_Jr1w5c
+
+JS Quick Hits 26 - ES2015 String Methods
+https://youtu.be/KazVcweIil0
+
+JS Quick Hits 27 - ES2015 Number Improvements Part 1
+https://youtu.be/YCdJA3BmdkA
+
+JS Quick Hits 28 - ES2015 Number Improvements Part 2
+https://youtu.be/191DRL8R4gA
+
+JS Quick Hits 29 - Bubble Sort
+https://youtu.be/_YEPQghMHLY
+
+JS Quick Hits 30 - Array.sort
+https://youtu.be/1ppGIKYva7w
+
+JS Quick Hits 31 - Node Module 1 - Node Basics
+https://youtu.be/abAoT0wpjl4
+
+JS Quick Hits 32 - Node Module 2 - Building the Module
+https://youtu.be/iPLBPI1RvJo
+
+JS Quick Hits 33 - Node Module 3 - Package the Module
+https://youtu.be/KW4I8LXHLuw
+
+JS Quick Hits 34 - Reader Question - Array.reduce
+https://youtu.be/KH9qW2yjcow
+
+JS Quick Hits 35 - Array.push and Array.pop
+https://youtu.be/qoVTdM-EMeM
+
+JS Quick Hits 36 - Comparisons with Logical Operators
+https://youtu.be/yoPJkh8myFg
+
+JS Quick Hits 37 - Immutability Basics
+https://youtu.be/A8V8D46mqXo
+
+JS Quick Hits 38 - Immutable Approaches
+https://youtu.be/0Oknt9Cy6fM
+
+JS Quick Hits 39 - Intro to Immutable.js
+https://youtu.be/Nf-DVU39qHc
+
+JS Quick Hits 40 - Increment  Decrement Operators
+https://youtu.be/oY3NL9PhLFc
+Videos 76-100

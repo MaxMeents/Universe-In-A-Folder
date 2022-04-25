@@ -1,0 +1,76 @@
+
+Accessibility of Python and  Data Science - Rishab, Shakul, Abhisar, Sunil
+https://youtu.be/hp--dmT5MvE
+
+Anomaly Detection in Cyber Security for loT using Federated Learning - Bargava Subramanian
+https://youtu.be/xcncDsMXKJo
+
+Demystifying Web Map Servers The Invisible side of geographic Information Systems - Shivashis Padhi
+https://youtu.be/yWSCGuIIQNI
+
+Exploring Augmented Reality with Python - Srikar Mutnuri
+https://youtu.be/pLRk3ya38Y8
+
+Extracting tabular data from PDF'S with Camelot & Excalibur - Vinayak Mehta
+https://youtu.be/m6xKhzp54-E
+
+Generators Explained - Rajat Vadiraj Dwaraknath
+https://youtu.be/X9rqrF9Kpaw
+
+How is   metaclass  used in real life
+https://youtu.be/tvaEyEPjWes
+
+How we built a State Machine to keep up with a 1200+ Txssecond blockchain protocol - Anomit Ghosh
+https://youtu.be/xZmcTXmYeUc
+
+Indeed's Endeavor to Push on Green - Amulya Bandikatla
+https://youtu.be/wJLizAqy9ak
+
+IndicNLP - Adam Shamsudeen, Kamal Raj, Selva Kumar
+https://youtu.be/rgCXWaKzMKU
+
+Keynote - David Beazley
+https://youtu.be/VUT386_GKI8
+
+Keynote - Python And Data Past, Present And Future By Peter Wang
+https://youtu.be/E8MSxcfqZSA
+
+Let's Hunt a Memory Leak - Sanket
+https://youtu.be/u0qVRm8Hjb4
+
+Lifting Up Deep Learning For Implementing Anti-hunger and Anti-poverty Programs - Usha Rengaraju
+https://youtu.be/yPgW4eU53fE
+
+Lightning Talk -  Eshan Singh
+https://youtu.be/ggQNZnY04Z0
+
+Lightning Talk - Gokul
+https://youtu.be/f_-NGIGOIqo
+
+Lightning Talk - Mohamed Javed - Jetbrains
+https://youtu.be/rt2P6FgkqvQ
+
+Lightning Talk - Subin Siby  Selfie a Day Project
+https://youtu.be/zIWdH1cV88s
+
+Machine learning Algorithms from scratch in Python - Arjun Kathuria
+https://youtu.be/uxKtuWDKmMc
+
+Making Of NextGen Fintech Insights From Visible Alpha Tech Stack
+https://youtu.be/to78eaSyaGM
+
+Maps, Delimitation, and Gerrymandering with Python - Anand S
+https://youtu.be/ql3Kz8ZjhRg
+
+Micropython Building a Physical Inventory Search Engine - Vinay Keerthi
+https://youtu.be/aEYftBZz6ag
+
+Natural Language Generation with Python - Jaidev Deshpande
+https://youtu.be/kaz3o6_2vsA
+
+Performance Optimization with Python Elasticsearch - Anisha Swain & Manaswini Das
+https://youtu.be/z8TC7U0QEAM
+
+Using Vulture to improve used-to-unused code ratio of your Python Programs - Rahul Jha
+https://youtu.be/r19k-RYVHas
+Videos 176-200

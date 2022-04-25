@@ -1,0 +1,37 @@
+
+Ashley Williams - How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!
+https://youtu.be/GCsxYAxw3JQ&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Emily Dunham - Keynote Spreading The Rust
+https://youtu.be/dS9fIphTJfM&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Fletcher Nichol - Taking Rust to Production Lessons Learned From the Habitat Project
+https://youtu.be/zAXbPnfTJg4&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Geoffroy Couprie - Sōzu, a hot reconfigurable reverse HTTP proxy
+https://youtu.be/y4NdVW9sHtU&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Ingvar Stepanyan - Interaction with real-world JavaScript from compiled Rust
+https://youtu.be/zxIbTfsOJZE&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Lee Baillie - The Illustrated Adventure Survival Guide for New Rustaceans
+https://youtu.be/iF-FgJvDl6w&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Lisa Passing - Making a game in Rust
+https://youtu.be/Ktwl97Ph-SI&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Manish Goregaokar - Keynote Open as in Welcoming Facilitating Contributions
+https://youtu.be/AHprJNUCgQ0&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Pascal Hertleif - Writing Idiomatic Libraries in Rust
+https://youtu.be/0zOg8_B71gE&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Paul Colomiets - Vagga - containerization without daemons
+https://youtu.be/bCSP5adDPJk&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Pierre-Étienne Meunier - Building SSH servers in minutes
+https://youtu.be/TKQoPQcKKTw&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+
+Sebastian Dröge & Luis de Bethencourt - GStreamer & Rust – A perfect match
+https://youtu.be/W_mnFFqpMpQ&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
+RustFest Kyiv 2017

@@ -1,0 +1,76 @@
+
+5 Primary Key Mappings Every Developer Should Know with JPA & Hibernate
+https://youtu.be/xqHUxn36Y4k&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Advanced Queries 11 JPA & Hibernate query hints every developer should know
+https://youtu.be/6NH8icjPCgY&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Best Practices for Many-to-Many Associations with  Hibernate & JPA
+https://youtu.be/808pWqjuhMo&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+CockroachDB How to use it with Hibernate
+https://youtu.be/04idSDuaTeI&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Database Migration Update your schema without a downtime
+https://youtu.be/zpM-lIRscXM&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Enum Mappings with Hibernate – The Complete Guide
+https://youtu.be/xIvPDZnaFpM&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate and JPA Working with Fluent Entities
+https://youtu.be/UgX529R0NFQ&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Query API
+https://youtu.be/fRgB4D2wOV8&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Speed up Your Query With Parameter Padding
+https://youtu.be/4pJMfYH6KZU&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip Best way to remove entities from a many-to-many association
+https://youtu.be/vYNdjtf7iAQ&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip Create an EntityGraph with multiple SubGraphs
+https://youtu.be/TGdL9_9BxU8&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip Prevent the Removal of a Parent Entity with Children
+https://youtu.be/Jmcord4_ghY&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Implementing the Repository pattern with JPA and Hibernate
+https://youtu.be/LRJz0mHPfSc&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+JPA & Hibernate Basic Annotations You Need To Know
+https://youtu.be/GKIXI_Vc28k&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+JPA & Hibernate How to use Ehcache as 2nd Level Cache
+https://youtu.be/G6Y5wDF6h5Q&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+JPA & Hibernate Using the Optimal Query Approach & Projection
+https://youtu.be/IPRfz97-NqA&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+LazyInitializationException What it is and the best way to fix it
+https://youtu.be/6p-fuwVxryg&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Mapping BLOBs & CLOBs with JPA and Hibernate
+https://youtu.be/uZXfZZ59cjU&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Microservices & Data Implementing the Outbox Pattern with Hibernate
+https://youtu.be/cY50MlUuun0&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Old Advanced Queries 11 JPA & Hibernate query hints every developer should know Old
+https://youtu.be/8TkrIS9crHs&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Pagination with JPA and Hibernate
+https://youtu.be/p_sFYoJ4A_E&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Private video
+https://youtu.be/WdRMHWKcugQ&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Projections with JPA and Hibernate
+https://youtu.be/jevTat_Jkgg&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Ternary Associations Modelling Associations between 3 Entities
+https://youtu.be/vCHWem81E5g&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Ultimate Guide to Implementing Equals & HashCode with Hibernate & JPA
+https://youtu.be/YoF3RcxbVQ4&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+Videos 51-75

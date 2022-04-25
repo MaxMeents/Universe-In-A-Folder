@@ -1,0 +1,76 @@
+
+Aesthr Rain on Titan – Artist Performance — RustFest Global 2020
+https://youtu.be/FzLNnd1q7CM
+
+Aki - Using Rust in Metal Fabrication — RustFest Global 2020
+https://youtu.be/v376Ds9_ITs
+
+Anastasia Opara - Rust for Artists. Art for Rustaceans. — RustFest Global 2020
+https://youtu.be/9tHTCNr5H8s
+
+Andrew Dona-Couch - Tier 3 Means Getting Your Hands Dirty — RustFest Global 2020
+https://youtu.be/By9FgUzkQTc
+
+Aïssata Maiga - Build your own (Rust-y) robot! — RustFest Global 2020
+https://youtu.be/K2n3uS5BAR8
+
+Christian Poveda - Miri, Undefined Behavior and Foreign Functions — RustFest Global 2020
+https://youtu.be/ltayS6B8kGM
+
+Dahlia Fae – Artist Performance — RustFest Global 2020
+https://youtu.be/o1NCobuRa8U
+
+Diane Hosfelt & Daan Sprenkels - RFC Secret types in Rust — RustFest Global 2020
+https://youtu.be/RSrZzrLAO8A
+
+Dibs  Immersive Afrobeats – Artist Performance — RustFest Global 2020
+https://youtu.be/S63_wMzodQk
+
+Earth to Abigail The Forest – Artist Performance — RustFest Global 2020
+https://youtu.be/MeSnhip7Rac
+
+Every Rhymed Talk Intro by Andre Bogus (llogiq) the Rust Bard
+https://youtu.be/EWldB-KXLeY
+
+Gavin & Matthijs - Rust as foundation in a polyglot development environment — RustFest Global 2020
+https://youtu.be/YJMxLIwEl6c
+
+glowcoil - Ochre Highly portable GPU-accelerated vector graphics — RustFest Global 2020
+https://youtu.be/9MAC3bojeyo
+
+Jin Mingjian - Architect a High-performance SQL Query Engine in Rust — RustFest Global 2020
+https://youtu.be/1tiBw6izFNk
+
+Linalab && !ME – Artist Performance — RustFest Global 2020
+https://youtu.be/HhKU2DkKiCg
+
+Max Orok - Considering Rust for scientific software  — RustFest Global 2020
+https://youtu.be/PEoPrMkg8W4
+
+Nikita Baksalyar - Learnable Programming with Rust — RustFest Global 2020
+https://youtu.be/8-ole_0rqLM
+
+Sean Chen - The Anatomy of Error Messages in Rust — RustFest Global 2020
+https://youtu.be/oMskswu1SxM
+
+Tarun Pothulapati - Piecing together Rust It is more than just writing code — RustFest Global 2020
+https://youtu.be/rYp0bUmcbMs
+
+tkat0 - エッジとクラウドでRustを使いこなす ～AIIoTでの事例～ — RustFest Global 2020
+https://youtu.be/jUvLk_U6ymk
+
+Vivian Band - Rust for Safer Protocol Development — RustFest Global 2020
+https://youtu.be/MPXGHc93bkY
+
+Yosuke Onoue - Think About Front-end Web Development with Rust — RustFest Global 2020
+https://youtu.be/m_zGSFyINhY
+
+Zac Burns - Everything is serialization — RustFest Global 2020
+https://youtu.be/vHmsugjljn8
+
+[MONRHEA] – Artist Performance — RustFest Global 2020
+https://youtu.be/V7udELlabkI
+
+κeen - 言語自作を通して学んだRust — RustFest Global 2020
+https://youtu.be/GtcZ0ZOcO5w
+Videos 151-175

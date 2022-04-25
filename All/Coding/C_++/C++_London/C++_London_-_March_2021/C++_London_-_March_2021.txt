@@ -1,0 +1,7 @@
+
+Conan Package Manager for C++ in Practice - Jerry Wiltse
+https://youtu.be/fu-ayefRqWM&list=PLB8iG1kbmdENILVSZKsfMKz6WAJFdVRLm
+
+The Compound Block LOOP - and some implications - Frank Haferkorn
+https://youtu.be/lz3OwOUhtb0&list=PLB8iG1kbmdENILVSZKsfMKz6WAJFdVRLm
+C++ London - March 2021

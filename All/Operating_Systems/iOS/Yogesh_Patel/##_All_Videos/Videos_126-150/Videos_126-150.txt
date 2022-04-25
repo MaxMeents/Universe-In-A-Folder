@@ -1,0 +1,73 @@
+
+AutoLayout [PART-6]- Content Hugging And Content Compression Resistance Priorities in iOS Hindi.
+https://youtu.be/g7Hlf7U0A9w
+
+Autolayout[Part-7] - Introducing UIStackView in Swift iOS Hindi.
+https://youtu.be/n-1XfSUVpNk
+
+Bye Bye 2018 & All the best For 2019
+https://youtu.be/lOY_A__kbS8
+
+iOS Swift 4 Tutorials - How to use Sqlite Database Using FMDB in iOS Hindi.
+https://youtu.be/Dxz6ABHedXg
+
+Sunday Live - Yogesh Patel
+https://youtu.be/-SeFUXwszWI
+
+Sunday Live Yogesh Patel
+https://youtu.be/K55V0MfcSpk
+
+Swift - Basics Functions withwithout Parameter And Multiple Return type in iOS Hindi.
+https://youtu.be/_KHZeXX2bF8
+
+Swift - UITextField Validation of EmailPasswordPhoneNumber in iOS Hindi.
+https://youtu.be/X6Z9uO6Kksc
+
+Swift 4 & Xcode 10 - How to Make Separate Storyboard For iPhone And iPad in Hindi.
+https://youtu.be/qVsGO7saoPs
+
+Swift 4 & Xcode 10 - How to Send an Email With PDF File Attachment in iOS Hindi.
+https://youtu.be/ZOr7JyREitc
+
+Swift 4 & Xcode 10 - UISplitViewController Tutorial Best For iPad in Hindi.
+https://youtu.be/6aIecWG3NnY
+
+Swift 4 & Xcode 10 [Part - 1] - How to Create & Customize UITabBarController in iOS Hindi.
+https://youtu.be/LFx0jziCRnU
+
+Swift 4 - Class vs Struct in iOS Hindi.
+https://youtu.be/1w7ELcpmx3o
+
+Swift 5 Tutorials - How to use Enumerations or Enum in iOS Hindi.
+https://youtu.be/6LIbmPe3Bv4
+
+Swift 5 Tutorials - Reduce code using Extension with example in iOS Hindi.
+https://youtu.be/N2NU82ekuf8
+
+Swift 5 Tutorials - UITextField Auto-Capitalization Type in iOS Hindi.
+https://youtu.be/tWBaFsfwOjI
+
+Swift4[Part-2] - Model View Controller(MVC) With Example in iOS Hindi.
+https://youtu.be/bi8MyPE5vIM
+
+Xcode - Most Usable Xcode Tips And Tricks in iOS Hindi.
+https://youtu.be/6GeKIZnpz20
+
+Yogesh Patel - Sunday Live
+https://youtu.be/ZjZf8rfao4o
+
+Yogesh Patel iOS Sunday Live
+https://youtu.be/aKLGGTrEoFA
+
+Yogesh Patel Live Stream
+https://youtu.be/UftwmkIsIjc
+
+Yogesh Patel Sunday Live -)
+https://youtu.be/Cf2o3q5_sAc
+
+Yogesh Patel Sunday Live
+https://youtu.be/qmGh4lPZUbc
+
+[Part-5]Adaptive Autolayout Tutorials Portrait and Landscape Different UI Design in Swift iOS hindi
+https://youtu.be/z54aU8ZYBaA
+Videos 126-150

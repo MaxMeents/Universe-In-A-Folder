@@ -1,0 +1,28 @@
+
+Aga Napolcha & Marta Sztybor The human aspects of CSS   CSSConf Budapest 2017
+https://youtu.be/ON4Xj8gkAVE&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Anton McConville Natural Language Analysis of Song Lyrics  CSSConf Budapest 2017
+https://youtu.be/PQl_GTjZJqQ&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Charlie Owen Web development isn't about you, dude  CSSConf Budapest 2017
+https://youtu.be/91u_3ya3sKw&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Denys Mishunov Debugger for developers  CSSConf Budapest 2017
+https://youtu.be/fvCbMBPka8s&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Harry Roberts Why Fast Matters  CSSConf Budapest 2017
+https://youtu.be/JoGR6Lh8EFc&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Heidi Olsen The Shady Web Using CSS for Good, not Evil  CSSConf Budapest 2017
+https://youtu.be/1Q5Wmh8japA&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Manuel Matuzovic Writing CSS with Accessibility in Mind  CSSConf Budapest 2017
+https://youtu.be/EOiC2M47GBY&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Mauricio Palma CSS Variables A New Hope  CSSConf Budapest 2017
+https://youtu.be/kSpIK6nx-XA&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+
+Sara Soueudan The [svg] of .svg  CSSConf Budapest 2017
+https://youtu.be/hhISb-cpFgM&list=PL37ZVnwpeshEif54oBYCQhN8KE-vTWPTi
+CSSConf Budapest 2017

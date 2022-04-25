@@ -1,0 +1,19 @@
+
+Controlling the Car and getting Camera Sensor Data - Self-driving cars with Carla and Python p.2
+https://youtu.be/2hM44nr7Wms&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+
+Longer-term model results - Self-driving cars with Carla and Python p.6
+https://youtu.be/6pEyGbCMl4U&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+
+Programming Autonomous self-driving cars with Carla and Python
+https://youtu.be/J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+
+Reinforcement Learning Agent - Self-driving cars with Carla and Python p.4
+https://youtu.be/hWLurYddo88&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+
+Reinforcement Learning Environment for Car Agent - Self-driving cars with Carla and Python p.3
+https://youtu.be/PRsp5p1l7DI&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+
+Running our Reinforcement Learning Agent - Self-driving cars with Carla and Python p.5
+https://youtu.be/MynOPIJi4VY&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
+Self-driving cars with Carla and Python

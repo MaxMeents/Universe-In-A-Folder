@@ -1,0 +1,76 @@
+
+Creating Bins in Power BI from numerical values for Histogram Visualization
+https://youtu.be/zaabCYZ_Ebo&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Displaying all months or quarter on X Axis of power BI Line Chart
+https://youtu.be/CsyMg78qrV4&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Finding employees in hierarchy that is at a particular position Power BI using PathItem Function
+
+
+How to Calculate Last N Days Value or Future N values in Power BI Using Dax Function DateADD
+
+
+How to Calculate Monthly Running Total using Power BI DAX Function DatesMTD
+https://youtu.be/zZUoVcdMsSk&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Calculate or Summarize Values Between Two Dates using Power BI DAX function DatesBetween
+
+
+How to Calculate Quarterly Running Total using Power BI DAX Function DatesQTD
+https://youtu.be/vCQQVDH1mdw&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Calculate Values in Specific Time Period using DatesInPeriod Power BI DAX Function
+
+
+How to create Parent Child Relationship in New Column in Power BI
+https://youtu.be/BCiYOQ1-y0Q&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to find a hierarchy item from last node in Power BI using PathItemReverse DAX function
+
+
+How to find a parent in parent child hiearchy column of Power BI using PathContains DAX Function
+
+
+How to find the value at the last day of quarter using Power BI Dax Function ClosingBalanceQuarter
+
+
+How to find the value on last day of every month using Power BI DAX function ClosingBalanceMonth
+
+
+How to Save Data Connection Settings in Power BI using PBIDS file
+https://youtu.be/zosq4bqdt2M&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to use Treemap Visualization as an interactive slicer
+https://youtu.be/0oywgk4pLVU&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI Business Dashboard Design Example for Analyzing Superstore Sales Performance
+https://youtu.be/JeH8Bf3r528&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI calcuation to visualize percentage difference between one and rest of the categories
+
+
+Power BI Customer Analytics KPI Dashboard Example for Superstore Sales  Practice Project
+https://youtu.be/TqPHKaw9vdg&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI DAX Function ClosingBalanceYear to Capture Values on the Last of Year
+https://youtu.be/rmFFplN6yKM&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI DAX function to Find Length of Hierarchy
+https://youtu.be/Y7J8hKE6gbM&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI Quick Measure Calculation for Year to Date [YTD] and Comparing it with Total
+https://youtu.be/jANs8vc_BO8&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI Quick Measure Calculation to find difference between one and rest of the other categories
+
+
+Power BI Quick Measure for Comparing one chart category with rest of the other chart categories
+
+
+Power BI Smart Narrative Table for Analytical Commentary - For Custom Summary
+https://youtu.be/Bm-7YDFDJjs&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI YoY Quick Mesaure Calculation Proudcuing incorrect output
+https://youtu.be/znDaUYqwn08&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+Videos 126-150

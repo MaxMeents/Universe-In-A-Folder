@@ -1,0 +1,76 @@
+
+A Python Takeover
+https://youtu.be/k-wbWT8KwAI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Beyond Python Enhanced Generators
+https://youtu.be/yWR00Y6tkC8&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Building a Scientific Software Application with the Enthought Tool Suite
+https://youtu.be/F4qHeJqlYbk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Combining Embedded and Interactive Python in a Debugger  A Case Study
+https://youtu.be/a6oHHGIV3r4&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Data Driven Cache Invalidation
+https://youtu.be/U_IZVEZImq4&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Deploying web applications to the cloud with Python
+https://youtu.be/zvwi-PLrCgE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Derivatives Analytics with Python & Numpy
+https://youtu.be/c4WltP4-Xlk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Developing Desktop and mobile apps with PySide and QML
+https://youtu.be/isDQXSv5kGw&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Django productivity tips and tricks
+https://youtu.be/l5E3BZOZ7Qg&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+EuroPython 2011 Video Reportage!
+https://youtu.be/eu_vAisNHVA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Fun with Python's newer tools
+https://youtu.be/twrNGyl1sbc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Healthcare process management in Python a use case
+https://youtu.be/btyuUwcfLW0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Introduction to Qt
+https://youtu.be/oY0h-ZKrdA8&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+JSON data + RML template = PDF report
+https://youtu.be/yf34NCtdxVI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Man Page of the Warrior of Light
+https://youtu.be/uh92G5RDiiA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system
+https://youtu.be/Lil248rRPYw&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Refactoring PyChart
+https://youtu.be/Av6KcdWvWnU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Scraping Techniques to Extract Advertisements from Web Pages
+https://youtu.be/IL4o0HSGOsU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Snakes on a cloud the OpenStack project
+https://youtu.be/k9NGWSqcmDI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Sqlkit empowering database access
+https://youtu.be/UwV2Hdb8XQQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+sqlmap - security development in Python
+https://youtu.be/O3mdKNjsdlQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+The London Python Code Dojo - an Education in Developer Education
+https://youtu.be/vMjnjmUcldA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+The political implications of having fun (while programming open source)
+https://youtu.be/SVXq0LfuPUE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+What is Google App Engine
+https://youtu.be/YiimQ3zyxRQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+What makes Python so AWESOME
+https://youtu.be/u1sVfGEBKWQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+Videos 1-25

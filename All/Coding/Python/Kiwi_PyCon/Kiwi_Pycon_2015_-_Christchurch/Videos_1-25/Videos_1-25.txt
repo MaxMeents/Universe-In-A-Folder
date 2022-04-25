@@ -1,0 +1,76 @@
+
+A practical guide to web security
+https://youtu.be/54E8GVe8m0o&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Allison Kaptur Effective Learning for Programmers (Keynote)
+https://youtu.be/Mcc6JEhDSpo&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+An introduction to Wagtail (CMS)
+https://youtu.be/glIIF-kBXf0&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Blind Analytics - getting insight from data without seeing the data
+https://youtu.be/zgCCtof4kkY&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Build a Better Hat Rack All Contributions Welcome
+https://youtu.be/wQxFKxbWcFM&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Connascence in Python
+https://youtu.be/iwADIlIgDNA&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Custom Python Applications in Neuroscience
+https://youtu.be/F50H3Co7Jng&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Cython get the benefits of C without leaving Python
+https://youtu.be/L-FyCT02gqc&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Database migrations using alembic
+https://youtu.be/xzsbHMHYI5c&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Integrating Python Apps with Centralised Identity Management Systems
+https://youtu.be/YwWC7DOC3tE&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Keynote Brenda Wallace - Copyright
+https://youtu.be/crWXUgWKMrI&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Lightning Talks
+https://youtu.be/_35tn0KrVMo&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Message Passing Interface and Inversion of Control
+https://youtu.be/h4gYrAuKgqM&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Mezzanine a brief primer
+https://youtu.be/TGLTaBDhXGI&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Micro-Services Is HTTP the only way
+https://youtu.be/O1qaoykYIXY&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+My own Platform as a Service in Python, which you can do too
+https://youtu.be/AxTeVemFBkQ&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Playing to lose making sensible security decisions by assuming the worst
+https://youtu.be/dcDrsKX2ULU&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Python and Elasticsearch (Add Full Text Search to your legacy application)
+https://youtu.be/FM2e2J7OJpM&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Python in Classrooms
+https://youtu.be/cKcL7-IxEwg&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Python's New Type Hints in Action… In JavaScript
+https://youtu.be/N-Upha2YFNs&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+The Pythonista's 3D printing toolchain
+https://youtu.be/hZygJwOcQng&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Using Python to Test
+https://youtu.be/eQQ2uxMedGw&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Why Python is awesome – and some other languages are cool too
+https://youtu.be/L2JDiduangk&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+You Don’t Care About Efficiency Synchronous Code Is Dying
+https://youtu.be/7b4z7y6Lohw&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+
+Zaqar Message and Notification service of OpenStack
+https://youtu.be/v-y2tJbM0xw&list=PLBGl1tVyiWQTimQA8ZVUTO7HipxJqYwm0
+Videos 1-25

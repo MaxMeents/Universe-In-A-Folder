@@ -1,0 +1,10 @@
+
+Sessions in PHP completely destroy a session, even without closing the browser
+https://youtu.be/JKHuhvBBhBQ&list=PLFbnPuoQkKsdZlbASVzsfEFBlwq5yKd0T
+
+Sessions in PHP make the web browser remember you
+https://youtu.be/DgeOavl-jWs&list=PLFbnPuoQkKsdZlbASVzsfEFBlwq5yKd0T
+
+Sessions in PHP prevent session fixation attacks
+https://youtu.be/UYLie3JEV2Y&list=PLFbnPuoQkKsdZlbASVzsfEFBlwq5yKd0T
+PHP Sessions

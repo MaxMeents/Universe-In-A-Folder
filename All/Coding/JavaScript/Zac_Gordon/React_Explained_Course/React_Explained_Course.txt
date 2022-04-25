@@ -1,0 +1,25 @@
+
+A High Level Overview of React
+https://youtu.be/FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+A React Project Introduction
+https://youtu.be/4q2Ww5x3SAI&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+Adding State to a React Component
+https://youtu.be/dHSSft69xn0&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+Create React App Explained
+https://youtu.be/397Xlx-Amlo&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+Creating a React Element
+https://youtu.be/T2z-swUtIr8&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+Introduction to Props in React
+https://youtu.be/byd-GQSxMAU&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+The Component Lifecycle - React Explained
+https://youtu.be/_8HU2ZFJEmU&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+
+What is JSX
+https://youtu.be/9GtB5G2xGTY&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR
+React Explained Course

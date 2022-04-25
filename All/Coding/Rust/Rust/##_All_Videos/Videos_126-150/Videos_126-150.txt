@@ -1,0 +1,76 @@
+
+2021 02 23 Lang Team Triage
+https://youtu.be/EgXSe7b7V0E
+
+2021-01-08 RFC 2229
+https://youtu.be/ZXboDkBh1k8
+
+2021-01-12 Lang Team Triage meeting
+https://youtu.be/4dRVeTn5-jQ
+
+2021-01-13 Lang Team Triage
+https://youtu.be/3PdEScp1HcM
+
+2021-01-15 RFC 2229
+https://youtu.be/mJbv4rM9Yt8
+
+2021-01-19 Lang Team Triage Meeting
+https://youtu.be/4BLeux-YgzE
+
+2021-01-20 Lang Team Design Meeting RFC 2229
+https://youtu.be/PiB571GRsc0
+
+2021-01-26 Lang Team Triage Meeting
+https://youtu.be/y00EbVRxYWw
+
+2021-01-27 RFC 2229 Sync
+https://youtu.be/raj16-ImwmQ
+
+2021-02-02 Lang Team Triage Meeting
+https://youtu.be/XXuARxRMByQ
+
+2021-02-03 Lang Team Planning Meeting
+https://youtu.be/r1c2tFMAYQs
+
+2021-02-03 RFC 2229 Sync
+https://youtu.be/pVclMTuySOU
+
+2021-02-09 Lang Team Triage Meeting
+https://youtu.be/KNemhVm8kgA
+
+2021-02-16 Lang Team Triage
+https://youtu.be/T4TEU1pCMA4
+
+2021-02-17 Design Meeting Increasing Trust in the Rust Compiler
+https://youtu.be/o896qSpTigg
+
+2021-02-17 RFC 2229
+https://youtu.be/qUsgv0LlmvQ
+
+2021-02-24 Design Meeting Lints and Editions
+https://youtu.be/4FTofh3CjBY
+
+2021-03-02 Lang Team Triage Meeting
+https://youtu.be/Yu23X4bsK1A
+
+2021-03-03 Lang Team Planning Meeting
+https://youtu.be/l4EQmsowvU0
+
+One Factor Authentication (2020-02-04) - Rust Hungary Meetup
+https://youtu.be/s5zfGWKK37w
+
+Rust Linz, February 2021 - Celia Lewis - Getting started with Open Source
+https://youtu.be/P3X3J-8ICAo
+
+Rust Linz, February 2021 - Will Hawkins - Comparing performance of range- and counter-based loops
+https://youtu.be/pP66t16BfUA
+
+Rust Linz, January 2021 - Aram Drevekenin - Mosaic, A Rusty Terminal Workspace
+https://youtu.be/Q-te_UBzzjo
+
+Rust Linz, January 2021 - Karl Grasegger - Unleash the power of your comments!
+https://youtu.be/Uy6lrEbB5ug
+
+wg-incr-comp mtg 12, 2021-02-09
+https://youtu.be/z2rwiGF46Y8
+Videos 126-150

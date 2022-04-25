@@ -1,0 +1,34 @@
+
+Evolving API design in Rust — Simon Nicholas Heath
+https://youtu.be/Xt1JOVeQ5hw&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Lightning Talks Announcing the Ann Arbor Meetup — Esty Thomas
+https://youtu.be/qtxvwermthE&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Lightning Talks Personal Wiki — James Sacksteder
+https://youtu.be/3i3gdxD_opM&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Lightning Talks Rust In Space — myrrlyn
+https://youtu.be/xYDKcoS26ZM&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Lightning Talks Rust Quiz — Alex Crichton and David Tolnay
+https://youtu.be/QtDj9R6vtA8&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Lightning Talks Rust's Family Tree — Jenny Manning
+https://youtu.be/u3vZia0NB1I&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Lightning Talks Rustbots - Robots powered by Rust — Rahul Thakoor
+https://youtu.be/HoD-PrkaGUU&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Maintaining the Rust Community — Arshia Mufti
+https://youtu.be/1YR3TbrC3r4&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Move fast and don't break things High-performance networking in Rust — Joshua Liebow-Feeser
+https://youtu.be/UfMOOxOGCmA&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+Percy Isomorphic Web Apps with Rust + WebAssembly — Chinedu Francis Nwafili
+https://youtu.be/M6RLvGqQU10&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+
+State of the crates.io — Sean Griffin
+https://youtu.be/QjQPNZPSlqA&list=PL85XCvVPmGQjquKA7O0LafltQFNGTKNdj
+Rust Belt Rust 2018

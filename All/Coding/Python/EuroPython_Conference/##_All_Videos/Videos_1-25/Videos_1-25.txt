@@ -1,0 +1,76 @@
+
+Abby Carey - Developing Flask Applications for Google Cloud
+https://youtu.be/9vGlPIaX9BE
+
+Alon Nir - Sliding into Causal Inference, with Python!
+https://youtu.be/3m4h3ApujGg
+
+Augusto Stoffel - Graph neural networks for information extraction with PyTorch
+https://youtu.be/LxCeMJXuFpo
+
+Cristián Maureira-Fredes - Learn CPython by breaking it
+https://youtu.be/WThKZDUt_UM
+
+Eduardo Blancas - Develop and deploy a Machine Learning pipeline in 30 minutes with Ploomber
+https://youtu.be/O8tqiCkIWPs
+
+Eli Holderness - Pointers In my Python It's more likely than you think
+https://youtu.be/Nu6hy1Vgr90
+
+EuroPython 2021  - Closing Session
+https://youtu.be/aj8kIiugAlg
+
+Harshit Prasad - High Performance Data Processing with Python, Kafka and Elasticsearch
+https://youtu.be/Lh8sYRiM71k
+
+Jeremiah Paige - Formalizing a Language
+https://youtu.be/I89ZuZYgzok
+
+Jessica Temporal - Traveling through a secure API in Python
+https://youtu.be/Ckz6FcUaGLA
+
+Joannah Nanjekye - Python the Bad Parts
+https://youtu.be/dBpxdaDo12I
+
+Joost Lek - How I helped fly a helicopter on Mars
+https://youtu.be/23ZKzSAc8gg
+
+Kirill Borisov - Code From Nothing Procedural Generation of Python Source Code
+https://youtu.be/9sBlAQ229Co
+
+Lim H. - Reproducible and Deployable Data Science with Open-Source Python
+https://youtu.be/-FedSW2SN7A
+
+Marc Päpper - Speeding up the deep learning development life cycle for cancer diagnostics
+https://youtu.be/-bshQNux7ms
+
+Matteo Bertucci - Learn Python automation by recreating Git Commit from scratch
+https://youtu.be/Oazm8f7H2F4
+
+Michał Wodyński - Python security best practices
+https://youtu.be/gpZKBJjB_0s
+
+Miki Lombardi - A crowdsourced map for checking supermarket wait times worldwide
+https://youtu.be/CXrUAJoyTbk
+
+Rabeea Emad - Analyzing COVID Vaccine Popularity in Europe Using FastAPI, Postgres & Azure
+https://youtu.be/DHPqi70cjQU
+
+Roberto Polli - Designing secure APIs
+https://youtu.be/Y1Z2gpX3_ls
+
+Sam Thursfield - Simple, open, music recommendations
+https://youtu.be/7APk4GqIlD0
+
+Stefanie Stoppel - The Myth of Neutrality How AI is widening social divides
+https://youtu.be/bw-JH3-uDM0
+
+Steven Kolawole - Streamlit The Fastest Way to build Data Apps
+https://youtu.be/BjMzi4-coDg
+
+Utkarsh Mishra - Python and Flutter application for Colouring and Enhancing Old Photos
+https://youtu.be/J3WURGVoeyM
+
+Vinayak Mehta - A Tale Of Python C Extensions And Cross-Platform Wheels
+https://youtu.be/IkzZmJ4t6KE
+Videos 1-25

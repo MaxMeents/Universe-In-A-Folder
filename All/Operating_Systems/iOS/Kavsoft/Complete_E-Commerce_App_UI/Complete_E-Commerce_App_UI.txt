@@ -1,0 +1,13 @@
+
+Complete E-Commerce App UI - Ep 1 - Onboarding Screen + Sign In Screen - SwiftUI
+https://youtu.be/4t_oV9ovGgI&list=PLimqJDzPI-H8Hj_IPVBqtQOqenFvXBEoy
+
+Complete E-Commerce App UI - Ep 2 - Home Screen + Custom Tab View - SwiftUI
+https://youtu.be/OR3At42Jt3I&list=PLimqJDzPI-H8Hj_IPVBqtQOqenFvXBEoy
+
+Complete E-Commerce App UI - Ep 3 - Animated Search Bar With Combine + Profile Screen - SwiftUI
+https://youtu.be/SxqbE-TxpPY&list=PLimqJDzPI-H8Hj_IPVBqtQOqenFvXBEoy
+
+Complete E-Commerce App UI - Final Ep 4 - Matched Geometry Effect - Detail Screen - Cart Screen
+https://youtu.be/-TUFjFQRhBM&list=PLimqJDzPI-H8Hj_IPVBqtQOqenFvXBEoy
+Complete E-Commerce App UI

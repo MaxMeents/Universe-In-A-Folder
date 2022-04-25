@@ -1,0 +1,76 @@
+
+2021-05-12 Generator Design Meeting
+https://youtu.be/jzaU7Braljo
+
+2021-05-18 Triage Meeting
+https://youtu.be/DnVLTeY9i0Y
+
+2021-06-02 RFC 2229
+https://youtu.be/kSOY6McudF8
+
+2021-06-15 Lang Team Triage
+https://youtu.be/SLQ6uLc31V8
+
+2021-06-16 RFC 2229
+https://youtu.be/DlSVcSSpETI
+
+2021-06-21 Cross Team Collaboration Fun Times (CTCFT)
+https://youtu.be/ksSuXNmGZNA
+
+2021-06-30 RFC 2229
+https://youtu.be/DEWmIolphEs
+
+2021-07-07 RFC 2229 sync
+https://youtu.be/w4v7kbw3XgQ
+
+2021-07-19 Cross Team Collaboration Fun Times (CTCFT)
+https://youtu.be/9CEgmlfCVa0
+
+Rust Linz, August 2021 - Rainer Stropek - Rust iterators
+https://youtu.be/R0ufQe5DRaw
+
+Rust Linz, Interlude - A Love Letter To Rust
+https://youtu.be/pW4yuT2Gk54
+
+Rust Linz, July 2021 -  Rainer Stropek - Traits, not your grandparents' interfaces
+https://youtu.be/B0fL3WmJZsc
+
+Rust Linz, July 2021 - Stefan Baumgartner - Serverless Rust
+https://youtu.be/EXqqsCss8Gk
+
+Rust Linz, June 2021 - JT - A new path for your shell
+https://youtu.be/pNPQ4_tTKuc
+
+Rust Linz, June 2021 - Tim McNamara - How to learn Rust
+https://youtu.be/sDtQaO5_SOw
+
+Rust Linz, May 2021 - Harald Reingruber - Rust for Medical Visualization
+https://youtu.be/mf_dbFHdpt0
+
+RustConf 2021 -  Supercharging Your Code With Five Little-Known Attributes by Jackson Lewis
+https://youtu.be/8d7DqeYXq7A
+
+RustConf 2021 - Fuzz Driven Development by Midas Lambrichts
+https://youtu.be/qUu1vJNg8yo
+
+RustConf 2021 - Hacking rustc Contributing to the Compiler by Esteban Kuber
+https://youtu.be/9H9SO2u6Q20
+
+RustConf 2021 - How I Used Rust to Become Extremely Offline by Luke Westby
+https://youtu.be/b0I4vP2CP88
+
+RustConf 2021 - Identifying Pokémon Cards by Hugo Peixoto
+https://youtu.be/BLy_YF4nmqQ
+
+RustConf 2021 - Move Constructors Is it Possible by Miguel Young de la Sota
+https://youtu.be/UrDhMWISR3w
+
+RustConf 2021 - The Importance of Not Over-Optimizing in Rust by Lily Mara
+https://youtu.be/CV5CjUlcqsw
+
+RustConf 2021 - Whoops! I Rewrote It in Rust by Brian Martin
+https://youtu.be/m-Qg3OoPIdc
+
+RustConf 2021 - Writing the Fastest GBDT Library in Rust by Isabella Tromba
+https://youtu.be/D1NAREuicNs
+Videos 51-75

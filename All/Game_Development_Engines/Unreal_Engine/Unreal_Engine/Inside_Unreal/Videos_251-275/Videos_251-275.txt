@@ -1,0 +1,76 @@
+
+4.13 Animation Features  02  Feature Highlight  Unreal Engine
+https://youtu.be/atZGLKr5-oA&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+4.13 Animations Features & Sept #ue4jam Kickoff  01  Feature Highlight  Unreal Engine
+https://youtu.be/h2egrj1pXzw&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+4.14 Preview  Feature Highlight  Unreal Engine
+https://youtu.be/6kfMVxNSowM&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Blueprint Drawing to Render Targets Overview  Live Training  Unreal Engine
+https://youtu.be/1Z-V1Buk6z8&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Blueprint Implementing Local Multiplayer  Live Training  Unreal Engine
+https://youtu.be/ZOc9fV6Sap4&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+C++ Plugin Based State Machine Fighting Game   03  Live Training  Unreal Engine
+https://youtu.be/R2V_D5Krdy4&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+C++ Plugin Based State Machine Fighting Game Polish  04  Live Training  Unreal Engine
+https://youtu.be/Gruh9adP6pE&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+C++ Plugin Based State Machine Game Code   01  Live Training  Unreal Engine
+https://youtu.be/hr9ybCCPw9Y&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+C++ Plugin Based State Machine Game Code   02  Live Training  Unreal Engine
+https://youtu.be/0MhL9O09ZsM&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Epic MegaJam Deadline & Live at Steam Dev Days  News  Unreal Engine
+https://youtu.be/xmAryjQr5kI&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Epic MegaJam Winners 2016  News  Unreal Engine
+https://youtu.be/5PkIdQVefDg&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+FBX ImportExport with Sequencer & Sept #ue4jam Winners 2016  Feature Highlight  Unreal Engine
+https://youtu.be/QLgMsaS8JXE&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Hierarchical Level of Detail  Live Training  Unreal Engine
+https://youtu.be/WhcxGbKWdbI&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Learning Resources Fireside Chat & Giveaway  News  Unreal Engine
+https://youtu.be/NakhQS943tQ&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Nvidia VR Funhouse Mod Kit Released & Aug #ue4jam Winners 2016  News  Unreal Engine
+https://youtu.be/3Z08LF_owuo&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Particle Effect Collision  Live Training  Unreal Engine
+https://youtu.be/7kaVFLThYRI&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Pawn Movement Techniques  Live Training  Unreal Engine
+https://youtu.be/lFpXqggbUP4&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Physical Animations  Live Training  Unreal Engine
+https://youtu.be/N1tDjbFXeOo&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Procedural Mesh Slicing  Live Training  Unreal Engine
+https://youtu.be/1zJM1gKoU14&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Robo Recall Announcement & Epic Megajam 2016 Kickoff  News  Unreal Engine
+https://youtu.be/HY2PVB6iAJA&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Stereo Panoramic Plugin  Live Training  Unreal Engine
+https://youtu.be/VfuQv_5RDRA&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Story-Driven Gameplay and Cinematics with Sequencer  Live Training  Unreal Engine
+https://youtu.be/TTn7AkpFbbk&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Streamline by Proletariat  Developer Interview  Unreal Engine
+https://youtu.be/E7l2UxrSVQc&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+Unreal Dev Grants Updates & Nov #ue4jam Kickoff News  Unreal Engine
+https://youtu.be/AStLe35WgIs&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+
+VR Editor Updates  Live Training  Unreal Engine
+https://youtu.be/Jtj7nklbTXU&list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB
+Videos 251-275

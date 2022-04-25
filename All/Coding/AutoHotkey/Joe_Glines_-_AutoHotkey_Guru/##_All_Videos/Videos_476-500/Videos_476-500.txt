@@ -1,0 +1,76 @@
+
+Alt Tab to other programs with my Mouse's Middle button
+https://youtu.be/FjlwBLdpVpc
+
+AutoHotkey Podcast 058 Are Programs Getting Harder To Automate
+https://youtu.be/MdAHuBBpiVY
+
+AutoHotkey Podcast 059 What are API Calls
+https://youtu.be/qBO2zx-Ul_4
+
+AutoHotkey Webinar 052020 Hour 1- Tools and review
+https://youtu.be/H8X0FYsDQi8
+
+Detecting where DropBox is installed with AutoHotkey
+https://youtu.be/LKFuiGlX7nQ
+
+Disabling Spelling and Grammar check in MS Word with AutoHotkey
+https://youtu.be/qvoptWrtsQM
+
+Easily pushing delimited data into a ListView in AutoHotkey
+https://youtu.be/XdHqE6v4Ov8
+
+How Hotkeys can be tied to only work in a given setting
+https://youtu.be/_9g_U7JRQJk
+
+How to automate pulling WordPress Statistics with AutoHotkey
+https://youtu.be/tqYchH8vsXg
+
+How to easily adjust computer volume with mouse with this AutoHotkey script
+https://youtu.be/XwzqF13kSVI
+
+How to easily connect to the Zoom API V2  APIs are fun!
+https://youtu.be/G2Sm3dY7rr4
+
+How to easily create a Resizable GUI in AutoHotkey
+https://youtu.be/vYawLR5TtJA
+
+How to easily run multiple Google searches on different sites at one time
+https://youtu.be/kntOZKvisWw
+
+How to use AutoHotkey to write on a computer and perform OCR on the handwriting
+https://youtu.be/HZ43aOdjdLE
+
+Launching your AutoHotkey script in a specific bitness
+https://youtu.be/80vcFJKDvAU
+
+Learn to level-up by watching a genius refactor my code
+https://youtu.be/raTUwjF7pwc
+
+Maestrith & I were playing with XML, Treeviews, &Objects in AutoHotkey
+https://youtu.be/Mdbg67_a4JU
+
+Quickly edit, reload, etc, your running AutoHotkey scripts (Even those wo a system tray icon)
+https://youtu.be/6sZs-oJKFTk
+
+Quickly share code  Text with AHK Pastbin
+https://youtu.be/Dgi44702l2E
+
+Replace Windows Start Menu button with a Clock
+https://youtu.be/H-PwHINBTHc
+
+Simple Webscraping example with AutoHotkey
+https://youtu.be/W2E-lqgM_lQ
+
+SplitPath as a Function and Maestrith's Messagebox Function  Class
+https://youtu.be/OZP7_uIdl5g
+
+Suspend,Hibernate, and Shutdown Windows with AutoHotkey
+https://youtu.be/xjtjeeUeyrI
+
+Using commas and Parens to condense code in AutoHotkey
+https://youtu.be/pPihFlL32vs
+
+Windows Steps Recorder tool in Windows 10
+https://youtu.be/L_nuQUFyE44
+Videos 476-500

@@ -1,0 +1,67 @@
+
+A Channel About Game Development  iHeartGameDev Channel Trailer 2020
+https://youtu.be/YEF8sumYRn4&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+Character Movement in Unity 3D  New Input System + Root Motion Explained
+https://youtu.be/IurqiqduMVQ&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+Everything you need to know about prefabs in Unity  Prefabs Explained ft. Lego Microgame
+https://youtu.be/EH5epbeX3ek&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How To Animate Characters In Unity 3D  Animation Layers Explained
+https://youtu.be/W0eRZGS6dhQ&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Animate Characters in Unity 3D  Animation Retargeting Explained
+https://youtu.be/BEZHVYk6Fa4&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Animate Characters in Unity 3D  Animation Transitions With Booleans
+https://youtu.be/FF6kezDQZ7s&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Animate Characters in Unity 3D  Animator Explained
+https://youtu.be/vApG8aYD5aI&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Animate Characters in Unity 3D  Blend Trees Explained One Dimensional
+https://youtu.be/m8rGyoStfgQ&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Animate Characters in Unity 3D  Importing Free Characters and Animations from Mixamo
+https://youtu.be/-FhvQDqmgmU&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Animate Characters in Unity 3D  Two Dimensional Blend Trees Explained
+https://youtu.be/_J8RPIaO2Lc&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Move Characters In Unity 3D  Character Controllers Explained
+https://youtu.be/e94KggaEAr4&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Move Characters in Unity 3D Animated Movement Explained [Built-In Character Controller #2]
+https://youtu.be/bXNFxQpp2qk&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Move Characters in Unity 3D Built-In Character Controller Explained [#1]
+https://youtu.be/UUJMGQTT5ts&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Program in Unity Command Pattern Explained
+https://youtu.be/oLRINAn0cuw&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Program in Unity Hierarchical State Machine Refactor [Built-In Character Controller #5]
+https://youtu.be/kV06GiJgFhc&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to Program in Unity State Machines Explained
+https://youtu.be/Vt8aZDPzRjI&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to use Cameras in Unity Cinemachine Overview and Brain Explained!
+https://youtu.be/P_ibDJhFVMU&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+How to use Cameras in Unity Cinemachine Virtual Cameras Explained
+https://youtu.be/asruvbmUyw8&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+Intro to Game Development with Unity  Lego Microgame Behavioral Bricks Explained [#2]
+https://youtu.be/9fFfOObLHIY&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+Intro to Game Development with Unity  Lego Microgame Setup & Walkthrough [#1]
+https://youtu.be/62d5ZHo-pNc&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+Private video
+https://youtu.be/qAv5dmoXOuE&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+
+YOU helped make our State Machine BETTER!
+https://youtu.be/amSzqkMEcbU&list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC
+Let's Learn Unity!

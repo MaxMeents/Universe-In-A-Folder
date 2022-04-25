@@ -1,0 +1,55 @@
+
+Broadcasting with bcast tutorial - Supercomputing and Parallel Programming in Python and MPI 8
+https://youtu.be/i2dvGVTl7Vw&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 1 - About Supercomputers
+https://youtu.be/13x90STvKnQ&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 2 - Supplies needed
+https://youtu.be/sU867vMHzqE&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 3 - Installing operating system
+https://youtu.be/agHKSkuJlz4&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 4 - DownloadingInstalling an MPI
+https://youtu.be/LgdBaARF1Q8&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 5 - Testing supercomputer process
+https://youtu.be/Mk7Hx_q2jrU&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 6 - Copying Master Node
+https://youtu.be/A0ZPfRd_UGg&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 7 - Setting up Master Login
+https://youtu.be/rlguQb1ILqI&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Build Your Own Supercomputer 8 - Completing our 2-Node supercomputer
+https://youtu.be/WHGn7t402Nw&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Conditional Statements tutorial - Supercomputing and Parallel Programming in Python and MPI 3
+https://youtu.be/XdIwXDmxHLM&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Data tagging tutorial - Supercomputing and Parallel Programming in Python and MPI 7
+https://youtu.be/umDORTtqMfo&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Dynamically sending and receiving tutorial - Parallel Programming in Python and MPI 6
+https://youtu.be/CT9tqR7XeX0&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Gather tutorial - Supercomputing and Parallel Programming in Python and MPI 10
+https://youtu.be/GvNiP1yfbsc&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Getting MPI4py and MPI tutorial-  Supercomputing and Parallel Programming in Python and MPI 1
+https://youtu.be/3F7P2lAD6hw&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Getting Node Rank tutorial - Supercomputing and Parallel Programming in Python and MPI 2
+https://youtu.be/DWzXucbna4c&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Network Size tutorial- Supercomputing and Parallel Programming in Python and MPI 4
+https://youtu.be/fCr3mqSSFC0&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Scatter tutorial - Supercomputing and Parallel Programming in Python and MPI 9
+https://youtu.be/ZewAcbTfX0s&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+
+Sending and Receiving data tutorial - Supercomputing and Parallel Programming in Python and MPI 5
+https://youtu.be/PA-TVHARu4w&list=PLQVvvaa0QuDf9IW-fe6No8SCw-aVnCfRi
+Build your Own Supercomputer

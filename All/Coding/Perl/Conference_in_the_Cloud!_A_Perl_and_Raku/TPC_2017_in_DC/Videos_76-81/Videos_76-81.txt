@@ -1,0 +1,19 @@
+
+Joel Berger - Vue.js, Mojolicious, and Postgres chat in less than 50 lines
+https://youtu.be/dDH10srLgVc&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Julka Grodel - The Variable Crimes We Commit Against JavaScript
+https://youtu.be/1aLoq9XzufU&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Keynote by Damian Conway - Three Little Words
+https://youtu.be/ob6YHpcXmTg&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lee Johnson - OAuth2 is DOne
+https://youtu.be/kkd9hYC3xok&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Mark Prather - A Great Huge Love (Community Advocacy)
+https://youtu.be/rxzD_Ijt8dE&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Q & A with Larry Wall
+https://youtu.be/EwQoSZdEl2s&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+Videos 76-81

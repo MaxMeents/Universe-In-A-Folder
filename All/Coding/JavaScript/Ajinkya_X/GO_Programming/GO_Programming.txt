@@ -1,0 +1,28 @@
+
+2D RPG Game Development with Go (Tilemap editor)
+https://youtu.be/sKQWshq-Lpk&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+2D RPG Game in GO (GoLang) DEVLOG 02
+https://youtu.be/lCOGEE-lu84&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+BAD GUY composing in Firefox (Chrome Sound Maker)
+https://youtu.be/3TIFl2MatCo&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+Develop 2D Game in GO with Pixel (GoLang) 03
+https://youtu.be/GhrFbhAl_ZA&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+Ep.01  GO Web ScrapperCrawler
+https://youtu.be/2wmkHFTaXfA&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+Game of life with GoLang (Go programming) Ebiten
+https://youtu.be/RWkvQe7zKf0&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+GoLang Game Programming (2D RPG Game in GO - pixelgl)
+https://youtu.be/XBQ6jMGGk_Y&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+GoLang Setup with PostgreSQL + Hello World project
+https://youtu.be/8XtC4ha7SfI&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+
+jRPG 2D Game in GO (GoLang) DEVLOG 01
+https://youtu.be/yZpoXFUG6nc&list=PLq5m66kIJ5Z_B9nMkPCifu-VbsNWfX5cG
+GO Programming

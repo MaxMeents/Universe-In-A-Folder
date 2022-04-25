@@ -1,0 +1,73 @@
+
+10 things I learned making the fastest JS server runtime in the world by Paulo Lopes  JSConf EU
+https://youtu.be/-npTuvzflh4&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+About life, robots and cats! by Constanza Yáñez Calderón  JSConf EU 2019
+https://youtu.be/GJ7zLofY1V8&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Animations — Learning from Cartoons by Martin Sonnenholzer  JSConf EU 2019
+https://youtu.be/Bpu_WQXONlM&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Block, unblock, block! How ad blockers are being circumvented… by Shwetank Dixit  JSConf EU 2019
+https://youtu.be/Vk9bPDaZELQ&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Build an end-to-end IoT system using JavaScript with GDPR awareness by Ziran Sun  JSConf EU 2019
+https://youtu.be/2YDI2GUmmFI&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Building WebApps Like It's 1972 🧙?♂️by Leandro Ostera  JSConf EU 2019
+https://youtu.be/yuk7n43xU4g&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Designing a Rich Content Editor for a Third of the Web by Ella van Durpe  JSConf EU 2019
+https://youtu.be/ZNWNhUPrqB4&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+GraphQL Towards a universal query language by Michael Mifsud  JSConf EU 2019
+https://youtu.be/Xi3sxygtDc4&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+HTTP headers for the responsible developer by Stefan Judis  JSConf EU 2019
+https://youtu.be/Mjqf2kkFLy8&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+In the land of the JavaScripters by Havi Hoffman  JSConf EU 2019
+https://youtu.be/1gL8u0gmWdg&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Javascript is for Everyone! by Meya Stephen Kenigbolo  JSConf EU 2019
+https://youtu.be/4WuZozUZuHM&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+JavaScript, JavaScript…. Rocks You! by Vitalii Bobrov  JSConf EU 2019
+https://youtu.be/_yt89v0S1MA&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Making of this Stage by { live  js }  JSConf EU 2019
+https://youtu.be/jae837XA82Q&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Offline-first data Getting Bigger by Kevin Doran  JSConf EU 2019
+https://youtu.be/_deWuTbHb5I&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+OpenJS Foundation Panel at JSConf EU 2019
+https://youtu.be/FQek3WAjpBM&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Promises API in Node.js core where we are and where we’ll get to by Joe Sepi  JSConf EU 2019
+https://youtu.be/-4p_qLYjUDc&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Recreating Retro Computer Art with JS! by Sher Minn Chong  JSConf EU 2019
+https://youtu.be/nC5q5JxLjnY&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Simulating Sand Building Interactivity With WebAssembly by Max Bittker  JSConf EU 2019
+https://youtu.be/-dD-EaZ29hs&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Teaching Kids to Code by a 13 year-old with Michael & Jason Straughan  JSConf EU 2019
+https://youtu.be/26hois9cs-o&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+TensorFlow.js Bringing Machine Learning to the Web and Beyond by Nick Kreeger & Nikhil Thorat
+https://youtu.be/imzedQr2tTc&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+The Case for Augmented Reality on the Web by Marley Rafson  JSConf EU 2019
+https://youtu.be/Jk4tEMBJleE&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+Web APIs in Node.js Core Past, Present, and Future by Joyee Cheung  JSConf EU 2019
+https://youtu.be/ceiUozUFF3Y&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+You should start a tech community too by Roshan Gautam  JSConf EU 2019
+https://youtu.be/xZrfXATxJ38&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+
+করো Translating Code to Other (Human) Languages, and Back Again by Aditya Mukerjee  JSConf EU 2019
+https://youtu.be/-0WQCs2JsFY&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu
+Videos 26-50

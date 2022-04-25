@@ -1,0 +1,25 @@
+
+FOSDEM 2015  CockroachDB Towards an Open-Source Spanner with Tobias Schottdorf
+https://youtu.be/ndKj77VW2eM&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  Finding Bad Needles in Worldwide Haystacks with Dmitry Savintsev
+https://youtu.be/12vPCJrWwxA&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  Go and the Modern Enterprise with Peter Bourgon
+https://youtu.be/GM39Be_OhLM&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  Go at CoreOS with Kelsey Hightower
+https://youtu.be/UNulSprd2Ng&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  HTTP2 for Go with Brad Fitzpatrick
+https://youtu.be/gAfoLwog_MA&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  Lightning Talks - Go Devroom
+https://youtu.be/oM-MfeflUZ8&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  Moving MongoDB components to Go with Norberto Leite
+https://youtu.be/Ck1bRyYxJCQ&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+
+FOSDEM 2015  The State of Go with Andrew Gerrand
+https://youtu.be/Kd8EqTvW5EQ&list=PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb
+FOSDEM 2015 Go Devroom

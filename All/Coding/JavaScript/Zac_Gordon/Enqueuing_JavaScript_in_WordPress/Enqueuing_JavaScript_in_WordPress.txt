@@ -1,0 +1,4 @@
+
+Enqueuing JavaScript & Localize Scripts in WordPress Themes
+https://youtu.be/omTuBUS1Tvo&list=PLruo2gSoqleg-1cd8Zev66h0BzhIV3tGF
+Enqueuing JavaScript in WordPress

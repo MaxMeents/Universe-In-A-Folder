@@ -1,0 +1,76 @@
+
+Before You Learn SwiftUI, You Need To Hear This...
+https://youtu.be/H9XyZ_F1tPI
+
+Building Entire App - Viper, ReactiveCocoa, & FireStore
+https://youtu.be/iINefSdnT9c
+
+Call In Test & Scheduling Content
+https://youtu.be/I7AchN9lDFM
+
+Design Or Code First
+https://youtu.be/CyfFxQ9AmZk
+
+Diffable Data Source  Swift 5, Xcode 11
+https://youtu.be/o6hUFEXkf9w
+
+Fathers In Swift
+https://youtu.be/v8ztQTNbym0
+
+Getting Started With Kitura  Web Wednesday
+https://youtu.be/CWf0Z2e1by4
+
+Getting Started With Swift Package Manager (SwiftPM)  Swift 5, Xcode 11
+https://youtu.be/xu9oeCAS8aA
+
+Hired as a Software Engineer at an Amazing Company
+https://youtu.be/KFFHEuzdMgI
+
+How To Not Piss Off Developers
+https://youtu.be/sdmsRd-7KFk
+
+Intro To SwiftUI Simple State Management  Swift 5, Xcode 11
+https://youtu.be/AWPiup9fE2c
+
+Learning Authentication for Vapor & Swift
+https://youtu.be/5ASkOWzKdIc
+
+Learning Flutter With Firebase (Second Attempt)
+https://youtu.be/bVxDugHF7yU
+
+Learning Scoped Model In Flutter
+https://youtu.be/rKsq4O7Y4uQ
+
+Learning Web Sockets With Vapor & Swift  Web Wednesday
+https://youtu.be/6Zx9zZOR71w
+
+List  SwiftUI Weekly
+https://youtu.be/iAXLRV3H9r0
+
+Making Social Media Feed With Firebase In Swift
+https://youtu.be/oLlouQpwUD8
+
+One Time Code Text Field  Swift 5, Xcode 10
+https://youtu.be/mHxAvSs914g
+
+Saving JSON To The Device With Core Data  Swift 5, Xcode 10
+https://youtu.be/nv4ucc4Ogd8
+
+Sign In With Apple [UIKit]  Swift 5, Xcode 11
+https://youtu.be/vuygdr0EcGM
+
+Stacks  SwiftUI Weekly
+https://youtu.be/rv_ba-49LP0
+
+SwiftUI Presenting Data In A Scroll View & List
+https://youtu.be/wjqDQ3X5Vos
+
+Using Both UIKit And SwiftUI In Your Project  Swift 5, Xcode 11
+https://youtu.be/ch_vKP9vlgk
+
+Welcome To SwiftUI Weekly
+https://youtu.be/UMOHc31geoU
+
+Why I Choose Flutter
+https://youtu.be/19_6FBMTagI
+Videos 101-125

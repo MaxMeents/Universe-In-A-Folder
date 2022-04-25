@@ -1,0 +1,76 @@
+
+Design Motor Controllers with Simscape Electrical, Part 5 Alternative Implementation of PWM Control
+https://youtu.be/_abK4wVDL4Y&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Cluster Data in MATLAB
+https://youtu.be/ln8qyGKEmVs&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Connect Simscape Networks to Simscape Multibody Joints
+https://youtu.be/op89TncmioM&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Debug MATLAB Code
+https://youtu.be/VEqevFAZIQo&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Design Motor Controllers with Simscape Electrical, Part 3 Modeling Commutation Logic
+https://youtu.be/NH0O1-mjysU&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Design Motor Controllers with Simscape Electrical, Pt 4 Model PWM-Controlled Buck Converters
+https://youtu.be/bMJVmyv76Bs&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Generate Code from MATLAB
+https://youtu.be/qYEOwRws7ao&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to High Throughput Sequencing
+https://youtu.be/UIz7cVlOTR4&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Implement a Kalman Filter in Simulink
+https://youtu.be/BCaheDNVt_o&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Implement Units of Measurement in MATLAB
+https://youtu.be/GXcncCT1k-g&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Index Data Sets in MATLAB
+https://youtu.be/2BvbrcCiF1g&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Make an Interactive App in MATLAB
+https://youtu.be/SpAp7QACF34&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Parse and Plot Sensor Data in MATLAB
+https://youtu.be/el6erQ6V5nw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Perform Curve Fitting Using the Curve Fitting App in MATLAB
+https://youtu.be/9ikmTD0bpOc&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Plot Data with MATLAB
+https://youtu.be/XsrhAO3r3VY&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Read Web Data from MATLAB
+https://youtu.be/NCGxAos4TpE&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Understand Code Generated from Simulink
+https://youtu.be/Q1lnQNslnkA&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Understand Scalar and Vector Operations in MATLAB
+https://youtu.be/3aiDmUZQaYo&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Base and Model Workspaces
+https://youtu.be/4OFdeh7NlO0&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Built-In ODE Solvers in MATLAB
+https://youtu.be/-DmTK868J4A&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use MATLAB System Objects
+https://youtu.be/8V2TBf4j920&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to use Parallel Computing in MATLAB
+https://youtu.be/HSuSHl-30WY&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Powertrain Blockset to Track Acceleration
+https://youtu.be/VeOHH_VmRGo&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to use Sensor Fusion and Multi Object Tracker
+https://youtu.be/yWyl6sbmvs8&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to use Stateflow Events
+https://youtu.be/qpfXm4FYgVc&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+Videos 1-25

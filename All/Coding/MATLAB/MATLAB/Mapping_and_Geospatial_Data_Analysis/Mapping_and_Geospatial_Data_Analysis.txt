@@ -1,0 +1,10 @@
+
+An Interactive Tool for Using Landsat 8 Data in MATLAB
+https://youtu.be/_nPXiU1GtEk&list=PLn8PRpmsu08rdCKJ_2LfTXdNeKSgcyGbz
+
+Developing Quantitative Skills Using Geoscience Data with MATLAB
+https://youtu.be/1rlsjcjxJZ0&list=PLn8PRpmsu08rdCKJ_2LfTXdNeKSgcyGbz
+
+MATLAB for Analyzing and Visualizing Geospatial Data
+https://youtu.be/42ZAVJRFLP8&list=PLn8PRpmsu08rdCKJ_2LfTXdNeKSgcyGbz
+Mapping and Geospatial Data Analysis

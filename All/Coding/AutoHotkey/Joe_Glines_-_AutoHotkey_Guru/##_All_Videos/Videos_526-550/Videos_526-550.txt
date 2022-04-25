@@ -1,0 +1,76 @@
+
+AutoHotkey Podcast 027 Communicating with users of your script
+https://youtu.be/02KgWnkFOFI
+
+AutoHotkey Podcast 052 Automation Anywhere Ad
+https://youtu.be/qzrkaryRrKg
+
+AutoHotkey Podcast 053 AutoHotkey Podcasts Year In Review
+https://youtu.be/j2hOQSn50Dw
+
+AutoHotkey Podcast 054  Corona virus and the Future of the world
+https://youtu.be/UcxIJg-f1o8
+
+AutoHotkey Podcast 055 Adapting OCR to not require File
+https://youtu.be/8mkGe2PnWNs
+
+AutoHotkey Webinar 022020 Robotics Process Automation (RPA) and the New Economy
+https://youtu.be/PVgnNtMH1Js
+
+Creating bitmaps with AutoHotkey GDI+ library and HellbentCivReborn
+https://youtu.be/qFxjIab4sAE
+
+Display alerts with this autohotkey function  Maestrith's cool Notify function (2021)
+https://youtu.be/6oTFXN5GA2E
+
+Excel automation without macro is easy  Perform mail-merge in Excel
+https://youtu.be/uOU41C1B6y4
+
+Free windows screen capturing software with built-in OCR
+https://youtu.be/YO--VBqJW7o
+
+How to automate Pasting with SendMessage in AutoHotkey
+https://youtu.be/bu2NvSjqRLI
+
+How to configure zoom meetings  Watch this to learn how to set up Zoom on your PC
+https://youtu.be/We6fQshvUjM
+
+How to easily change your AutoHotkey Script Icon
+https://youtu.be/gTY2sXZvGnk
+
+How to Notify Users with a GUI in AutoHotkey
+https://youtu.be/EdM_ERaw6Qc
+
+How to send text with Text Magic Easily send personalized texts in mass
+https://youtu.be/GsPmfkmSBVY
+
+Intro to Hotkeys & HotString with Hellbent from CivReborn channel
+https://youtu.be/RkBXbb60UBU
+
+Push Image into Clipboard with this simple AutoHotkey script
+https://youtu.be/14MS8L7Wn6U
+
+RGB, Decimals and Hexadecimals in AutoHotkey
+https://youtu.be/7Ucl2fPBpag
+
+Sending the clipboard as a paste
+https://youtu.be/-tnVSHaDJ34
+
+Skipping YouTube Ads with FindText and Control-Clicking
+https://youtu.be/Hij_L6CaGYM
+
+Small Biz Marketing Getting thousands of Likes on Facebook Business Page
+https://youtu.be/LwsbPT60Kkg
+
+Troubleshooting weird problem in PowerPoint
+https://youtu.be/No7u0rtD7io
+
+Using a Regular Expression (RegEx) to Find a URL and not an email address
+https://youtu.be/hmx-CGLBVSQ
+
+Using a Safe Array in Excel with AutoHotkey
+https://youtu.be/z87jOcokWnc
+
+Using AutoHotkey to Automate Texts with the Pushbullet API
+https://youtu.be/Q-vcBAODvoA
+Videos 526-550

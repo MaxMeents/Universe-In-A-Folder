@@ -1,0 +1,10 @@
+
+Create a Horizontal UIPickerView! (iOS, Xcode 8, Swift 3)
+https://youtu.be/8EuoHAw_PBk&list=PLHDMmeIMXj8XJXbavSt8z7g3tpQwPryAm
+
+Customizing UIPickerView (iOS, Xcode 8, Swift 3)
+https://youtu.be/6Qd3CdWYeJ8&list=PLHDMmeIMXj8XJXbavSt8z7g3tpQwPryAm
+
+Using Notification Center (iOS, Xcode 8, Swift 3, UIPickerView)
+https://youtu.be/3UUfEaVAOoc&list=PLHDMmeIMXj8XJXbavSt8z7g3tpQwPryAm
+Customizing and Working with the UIPickerView

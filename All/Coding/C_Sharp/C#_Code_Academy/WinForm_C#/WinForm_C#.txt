@@ -1,0 +1,19 @@
+
+C# SQL Database  Insert Query (visual Studio 2015)  winform application
+https://youtu.be/dUntK3EGJcY&list=PLBRjmHe78giUviB7E_1Xjna9FqXJ4rk0b
+
+Create Database and Table in SQL Server Management Studio without Query
+https://youtu.be/GyvxY_VYGok&list=PLBRjmHe78giUviB7E_1Xjna9FqXJ4rk0b
+
+Create Modern UI Login Form with SQL Server Database in C#
+https://youtu.be/a4apo9OUJns&list=PLBRjmHe78giUviB7E_1Xjna9FqXJ4rk0b
+
+DataGridView  C# (windows Form)
+https://youtu.be/rXku7NugTk8&list=PLBRjmHe78giUviB7E_1Xjna9FqXJ4rk0b
+
+dynamic Config SQL Connection For C# Apps
+https://youtu.be/jpriyYhQlqA&list=PLBRjmHe78giUviB7E_1Xjna9FqXJ4rk0b
+
+How to Create RDLC Reports and DataSet [Confiuration]  C# (winforms)
+https://youtu.be/YeFA5VUBy0w&list=PLBRjmHe78giUviB7E_1Xjna9FqXJ4rk0b
+WinForm C#

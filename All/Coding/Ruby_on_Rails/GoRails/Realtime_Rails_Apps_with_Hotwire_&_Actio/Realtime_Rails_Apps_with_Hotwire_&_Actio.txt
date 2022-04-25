@@ -1,0 +1,13 @@
+
+Realtime Rails with Hotwire & ActionMailbox  Part 1
+https://youtu.be/WSuFaY7-q3g&list=PLm8ctt9NhMNVVToMA3dmaGGP2CD3VR_TY
+
+Realtime Rails with Hotwire & ActionMailbox  Part 2  Preview
+https://youtu.be/g4L0lnh78ro&list=PLm8ctt9NhMNVVToMA3dmaGGP2CD3VR_TY
+
+Realtime Rails with Hotwire & ActionMailbox  Part 3  Preview
+https://youtu.be/aXmxDkxgoAY&list=PLm8ctt9NhMNVVToMA3dmaGGP2CD3VR_TY
+
+Realtime Rails with Hotwire & ActionMailbox  Part 4  Preview
+https://youtu.be/pyNjd7YO5jA&list=PLm8ctt9NhMNVVToMA3dmaGGP2CD3VR_TY
+Realtime Rails Apps with Hotwire & ActionMailbox

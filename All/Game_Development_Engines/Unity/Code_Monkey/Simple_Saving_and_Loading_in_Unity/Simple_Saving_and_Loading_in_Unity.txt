@@ -1,0 +1,13 @@
+
+Simple Saving and Loading from a File (Unity Tutorial for Beginners)
+https://youtu.be/lJ9nArexsfA&list=PLzDRvYVwl53vRrMuPBkNNZUmnl1jCHcHs
+
+Simple Saving and Loading with JSON to a File (Unity Tutorial for Beginners)
+https://youtu.be/6uMFEM-napE&list=PLzDRvYVwl53vRrMuPBkNNZUmnl1jCHcHs
+
+Simple Saving and Loading with PlayerPrefs (Unity Tutorial for Beginners)
+https://youtu.be/donIirlj074&list=PLzDRvYVwl53vRrMuPBkNNZUmnl1jCHcHs
+
+What is JSON (Unity Tutorial for Beginners)
+https://youtu.be/4oRVMCRCvN0&list=PLzDRvYVwl53vRrMuPBkNNZUmnl1jCHcHs
+Simple Saving and Loading in Unity

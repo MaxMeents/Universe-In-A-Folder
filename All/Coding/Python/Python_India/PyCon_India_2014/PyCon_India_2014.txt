@@ -1,0 +1,73 @@
+
+Async Programming and Python
+https://youtu.be/aR_EgOzW-xg&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Asyncio for Dummies
+https://youtu.be/-iB4M-H3z_8&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Auth as a service with Lastuser
+https://youtu.be/FsoJWGuFMR0&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Building highly scalable web services with Gevent   experiences at Plivo
+https://youtu.be/fRRd7_TBfOw&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Day 1   Lightning Talks
+https://youtu.be/J6up0y7fAR4&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Development to Production
+https://youtu.be/ilXdEwkAWQA&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Django Design Patterns
+https://youtu.be/6tnMdqbZBHM&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Faster data processing in Python
+https://youtu.be/ylBslijJexw&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+GPU accelerated high performance computing primer
+https://youtu.be/U_Nf7VVs8UA&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Introduction to BinPy   An Electronic Simulation Library
+https://youtu.be/BLVFQ7FuVWw&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Key Note   Michael Foord
+https://youtu.be/TXQDQFq3AAo&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Key Note Day1 -  Kushal Das
+https://youtu.be/er5ZcDJKELQ&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Medusa   A much faster Python implementation based on the Dart Virtual Machine
+https://youtu.be/Jql0Xu4zmww&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Meet ElasticSearch   My Pet Crunch Monster @Directi
+https://youtu.be/ckTfoRBmtKw&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Messing with government data using Python
+https://youtu.be/xqOFeZVPSt8&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Neo4J and Python Playing with graph data
+https://youtu.be/sqwQV5hldD8&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+New Scientific Plotting in Python
+https://youtu.be/W3TKZNspM1o&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Panel Discussion   Flask vs Django vs web py
+https://youtu.be/TYutt4qs8NQ&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Python + Spark   Lightning Fast Cluster Computing
+https://youtu.be/1KuqWuuAazM&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Python, Arduino and connected objects
+https://youtu.be/L7m2Sk64ftM&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Python, the eyes of real world computer applications
+https://youtu.be/XP8SV42YcDo&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+SHARQ   An API queueing system built at Plivo!
+https://youtu.be/TLWnhnJ3Vcg&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Transfer Pipeline at DreamWorks
+https://youtu.be/gyWXEfi0ju0&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+
+Which messaging layer should you use if you want to build a loosely coupled distributed Python app
+https://youtu.be/dFhX6SvAkGQ&list=PL6GW05BfqWIfX0-YkKI7Ge5f9IKjOxirf
+PyCon India 2014

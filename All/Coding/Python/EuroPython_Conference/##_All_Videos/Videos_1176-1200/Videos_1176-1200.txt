@@ -1,0 +1,76 @@
+
+A.Pelme - Testing Django applications with pytest
+https://youtu.be/aUf8Fkb7TaY
+
+Alessandro Molina - Fast, documented and reliable JSON based webservices with Python
+https://youtu.be/OZJzRYxxpMs
+
+Alessandro Pisa   Python da programmatore a domatore
+https://youtu.be/r_-3usncq-4
+
+Alexys Jacob - Write a Fault Tolerant web service using gevent + uwsgi
+https://youtu.be/AIYsV5scL7A
+
+Andrea Crotti - Emacs and shell as your best friends
+https://youtu.be/0cZ7szFuz18
+
+B.  Bryon - PEP 423 issues, best practices, tools about names
+https://youtu.be/Cj37txHR988
+
+C  Di Mauro x86x64 assembly + Python = new CPU architecture to rule the world)
+https://youtu.be/S0tirdmJrZI
+
+C  Kerstiens Going beyond the Django ORM limitations with Postgres
+https://youtu.be/S-kbfpRpVsY
+
+D.  Jemerov- Why Python Sucks
+https://youtu.be/PlXEsrhF1iE
+
+Domen Kožar  - Nixos Operating System Declarative Configuration Distribution
+https://youtu.be/DtOBROowzDg
+
+Ezio Melotti   Capire le codifiche e Unicode
+https://youtu.be/lZ5Bw8iS3OY
+
+F  Frenguelli An intro to Blender modeling and scripting Part 2
+https://youtu.be/U1K19GoLMuk
+
+Gabriel Nistor - Rest API Framework
+https://youtu.be/RWFpMMfECeg
+
+Holger Krekel - P2PNSA Idea Gathering
+https://youtu.be/DDaOBv8GQKk
+
+L.  Hastings - All Singing All Dancing Python Bytecode
+https://youtu.be/0IzXcjHs-P8
+
+M  Hrnjadovic Get up to speed with OpenStack! Part 3
+https://youtu.be/PV6-pgemKRA
+
+M.  Di Pierro - Web2Py
+https://youtu.be/LsLgZUGM3kg
+
+Marc-André Lemburg - Efficient Python development with small teams
+https://youtu.be/gaLt619FjuE
+
+N  Zupan, D  Kožar Getting started with Plone CMS development part 2
+https://youtu.be/hxkyIIGluSw
+
+Oltjano Terpollari - Python for hackers and Penetration testing
+https://youtu.be/s_vwqBaCgOc
+
+P.  Szabó - EuroPython 2013 Google Jam Quiz Solutions
+https://youtu.be/HqqfWgbHr4I
+
+P. Büchler- Introducing Python as a main programming language in a company
+https://youtu.be/nDXK63YmAYE
+
+R.  Bauer - Pymove 3D
+https://youtu.be/7f-yVOEtPjM
+
+Radomir Dopieralski - Game Development Tools
+https://youtu.be/tNfkslQnFjc
+
+Thomas Waldmann - PGPGPG Keysigning
+https://youtu.be/jO0bKgdbb2M
+Videos 1176-1200

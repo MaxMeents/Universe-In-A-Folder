@@ -1,0 +1,19 @@
+
+Python Code Review Adding Pytest Tests to an Existing Python Web Scraper
+https://youtu.be/03Ki2WpVRBc&list=PLP8GkvaIxJP2kFnZE14YKDNtzw9gTB0lK
+
+Python Code Review Debugging and Refactoring Conway's Game of Life +  Automated Tests
+https://youtu.be/Tf70szZwWgA&list=PLP8GkvaIxJP2kFnZE14YKDNtzw9gTB0lK
+
+Python Code Review Flask Web Security Tutorial + Virtualenvs, requirements.txt
+https://youtu.be/ul_i2TzHLuA&list=PLP8GkvaIxJP2kFnZE14YKDNtzw9gTB0lK
+
+Python Code Review LibreOffice Automation and the Python Standard Library
+https://youtu.be/Fyf0CalFr6I&list=PLP8GkvaIxJP2kFnZE14YKDNtzw9gTB0lK
+
+Python Code Review Refactoring a Web Scraper, PEP 8 Style Guide Compliance, requirements.txt
+https://youtu.be/sarl7bi50xw&list=PLP8GkvaIxJP2kFnZE14YKDNtzw9gTB0lK
+
+Python Refactoring while True Infinite Loops & The input Function
+https://youtu.be/ez-qYc0NlMk&list=PLP8GkvaIxJP2kFnZE14YKDNtzw9gTB0lK
+Python Code Review Unplugged – Real Feedback on Your Python Code

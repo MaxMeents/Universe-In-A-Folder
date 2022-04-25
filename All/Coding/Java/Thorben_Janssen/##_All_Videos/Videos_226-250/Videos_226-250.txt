@@ -1,0 +1,76 @@
+
+5 Hibernate 5 features every developer should know
+https://youtu.be/bEjKBeB0QKQ
+
+5 Tips To Write Efficient Queries With JPA And Hibernate
+https://youtu.be/hsJ_P-uSPpE
+
+An Introduction to JPA FetchTypes
+https://youtu.be/Zs8Dse_Mpyk
+
+Create type-safe queries with JPA’s static metamodel
+https://youtu.be/i-82qbj3cOU
+
+Getting Started with Hibernate Envers
+https://youtu.be/aPGLwjCHWvI
+
+Hibernate Envers How To Query Data From Your Audit Log
+https://youtu.be/x9F7JZ33vgk
+
+Hibernate Tip How to automatically add Metamodel classes to your classpath
+https://youtu.be/fj7MX5oIg-E
+
+Hibernate Tip How to automatically validate entity attributes
+https://youtu.be/_OzXRPJQSs4
+
+Hibernate Tip How to Call a Stored Procedure
+https://youtu.be/aEkhfmVO_tk
+
+Hibernate Tip How to call a user-defined function in a CriteriaQuery
+https://youtu.be/WMC3cIle9Ms
+
+Hibernate Tip How to Exclude Unchanged Columns From Generated Update Statements
+https://youtu.be/f0W9phy6_L4
+
+Hibernate Tip How to filter entities from a mapped association
+https://youtu.be/n-UYDhdUO64
+
+Hibernate Tip How to log the execution time of a query
+https://youtu.be/MVtd1-8QL80
+
+Hibernate Tip How to map a bidirectional many-to-many association
+https://youtu.be/ZOUSa4I9ReI
+
+Hibernate Tip How to Map a Bidirectional Many-to-One Association
+https://youtu.be/cI4jYr_iv3Y
+
+Hibernate Tip How to map a java.util.Date
+https://youtu.be/1Q5GSfKdfOw
+
+Hibernate Tip How to map an Enum to a database column
+https://youtu.be/mT6I11cVXCs
+
+Hibernate Tip How to use query comments to identify a query
+https://youtu.be/chHXbSiGmx0
+
+Hibernate Tips How to cascade a persist operation to child entities
+https://youtu.be/Gy-qZ1GksNs
+
+Hibernate Tips How to use Hibernate's native bootstrapping API
+https://youtu.be/VXIzxAOBAcQ
+
+How to automatically validate entity attributes with Hibernate Validator
+https://youtu.be/yuOkFk14sLM
+
+How to map an association as a java.util.Map
+https://youtu.be/D1xnl-yxjuA
+
+How to Persist Creation and Update Timestamps with Hibernate
+https://youtu.be/ZGKg1j72pdA
+
+JPA 2.1 Implement bulk update and delete operations with the Criteria API
+https://youtu.be/PsqduScuH4E
+
+Should You Use JPA and Hibernate for Your next Project
+https://youtu.be/uVLujq7_35E
+Videos 226-250

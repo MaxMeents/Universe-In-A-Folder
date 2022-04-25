@@ -1,0 +1,76 @@
+
+Angelina Fabbro Improving 2D & 3D Canvas Performance on the Web, One Frame at a Time [JSConf2014]
+https://youtu.be/NG5uDXCOr8s
+
+Bodil Stokke Reactive Game Development For The Discerning Hipster [JSConf2014]
+https://youtu.be/x8mmAu7ZR9Y
+
+Christoph Burgmer Hacking a HTML renderer in plain browser-side JS  [JSConf2014]
+https://youtu.be/X4NP6DnVOsk
+
+Christopher Chedeau Why does React Scale [JSConf2014]
+https://youtu.be/D-ioDiacTm8
+
+Dan Silvestru Distributed Complex Computing Using Node.js [JSConf2014]
+https://youtu.be/V3mPEnBa8D0
+
+David Nolen Immutability Putting The Dream Machine To Work [JSConf2014]
+https://youtu.be/SiFwRtCnxv4
+
+Forrest L Norvell Learning ES6 as a Community [JSConf2014]
+https://youtu.be/MjrP-P6Pv4I
+
+Jake Verbaten NPM-style Frontend [JSConf2014]
+https://youtu.be/8w0_Xw7PPFQ
+
+John-David Dalton Fearless Browser Testing [JSConf2014]
+https://youtu.be/QK8at4CMJoU
+
+Jordan Matthiesen Modern mobile app tool-chains [JSConf2014]
+https://youtu.be/adLlCFbz49w
+
+Jordan Santell Signal Processing with the Web Audio API [JSConf2014]
+https://youtu.be/YBQ5pzvgbOE
+
+Kevin Whinnery Designing Modules for the Browser and Node with Browserify [JSConf2014]
+https://youtu.be/rx3O64is50g
+
+Marcus Phillips Asynchronous Execution and Event Systems [JSConf2014 Training]
+https://youtu.be/NFydErbK0eE
+
+Marcus Phillips Code Sharing Techniques [JSConf2014 Training]
+https://youtu.be/qn_wCHoIheU
+
+Marcus Phillips Crash Course in BackboneJS [JSConf2014 Training]
+https://youtu.be/gd57Z-B38W8
+
+Marcus Phillips Crash Course in NodeJS [JSConf2014 Training]
+https://youtu.be/vD1wBTSDltk
+
+Marcus Phillips Prototype Chains [JSConf 2014 Training]
+https://youtu.be/Konu9sHl-nk
+
+Marcus Phillips Scopes and Closures [JSConf2014 Training]
+https://youtu.be/7NzRLMNf4ys
+
+Marcus Phillips Secrets and Lies about JavaScript classes [JSConf2014 Training]
+https://youtu.be/_JJgSbuj5VI
+
+Marcus Phillips WTF is 'this' [JSConf2014 Training]
+https://youtu.be/J02sSxn-bPs
+
+Marcy Sutton Accessibility of Web Components [JSConf2014]
+https://youtu.be/BgvDZZ8Ms8c
+
+Oytun Sengul Architecture of Cross-Platform Native App Development [JSConf2014]
+https://youtu.be/WbIsjGHK0oQ
+
+Ryan Florence Embularactymerbone [JSConf2014]
+https://youtu.be/CBhDdWY1uv8
+
+Spike Brehm Building Isomorphic Apps  [JSConf2014]
+https://youtu.be/CH6icJbLhlI
+
+[Reject.JS 2013] Timelapse
+https://youtu.be/JU6ZwKuEqFY
+Videos 1176-1200

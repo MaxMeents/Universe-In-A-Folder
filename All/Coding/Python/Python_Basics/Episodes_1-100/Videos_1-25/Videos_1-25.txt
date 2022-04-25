@@ -1,0 +1,76 @@
+
+Python Basics Adding Strings
+https://youtu.be/AIVgi1ZXCdU&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Args
+https://youtu.be/MELHO7R4YgA&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Conditional  Statements if - else pt 2
+https://youtu.be/rzBp4VujpS0&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Conditional  Statements nested  if - else pt 3
+https://youtu.be/rx31W3y6LDA&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Conditional Statements  True - False
+https://youtu.be/nOIld_OMQL8&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics For Loop with List
+https://youtu.be/3p-eT-Vsqec&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Functions in a Script file
+https://youtu.be/0-yA3DOG4Pw&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Functions in Shell(IDLE)
+https://youtu.be/Ajd2cpRuX2w&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Functions Part 2
+https://youtu.be/13q4S6get3g&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Functions with return
+https://youtu.be/jZQayL5X_WY&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics In Not In
+https://youtu.be/7xZ7s2M6EIs&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Is Even Function
+https://youtu.be/FI1uS1sRyis&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Keywords
+https://youtu.be/S3n-ipF6m0Q&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Lists Append and Extend Methods
+https://youtu.be/3_HLQfSPiZM&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Lists Method Sort
+https://youtu.be/5gDs_ifF25o&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Modulo To Find The Remainder of Division
+https://youtu.be/1WY5o1uluzg&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Nested For loop
+https://youtu.be/LMmPuS07-f4&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Range function with a for loop
+https://youtu.be/wiAMJeaUYDk&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Slicing Strings
+https://youtu.be/QDg4NYQxd-k&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Strings Lower and Capitalize
+https://youtu.be/_QVNzHegrcw&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Tutorial String Assignment
+https://youtu.be/L130KJV8ITk&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics What Are Floats
+https://youtu.be/Q5G8DA1Pano&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics What Are Integers
+https://youtu.be/3okc2kiiijA&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics While Loop
+https://youtu.be/c3_Pa5PackU&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Why elif
+https://youtu.be/VpsBRHUDkrQ&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+Videos 1-25

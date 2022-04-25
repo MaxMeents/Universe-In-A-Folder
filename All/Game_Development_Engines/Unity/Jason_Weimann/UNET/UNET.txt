@@ -1,0 +1,13 @@
+
+Debugging and fixing a UNET Project
+https://youtu.be/F6mkpvVtwDE&list=PLB5_EOMkLx_WMSWu5FDjXzgxucx34x_ZJ
+
+My #1 Unity Multiplayer Asset - Don't build a multiplayer project without this
+https://youtu.be/9r-hwXPJIMo&list=PLB5_EOMkLx_WMSWu5FDjXzgxucx34x_ZJ
+
+UNET Basics - How to get started with Unity3D Networking
+https://youtu.be/0H_ikQp9aTI&list=PLB5_EOMkLx_WMSWu5FDjXzgxucx34x_ZJ
+
+Unity3D - UNET - How to Build a Custom UI
+https://youtu.be/zba40qn2M2w&list=PLB5_EOMkLx_WMSWu5FDjXzgxucx34x_ZJ
+UNET

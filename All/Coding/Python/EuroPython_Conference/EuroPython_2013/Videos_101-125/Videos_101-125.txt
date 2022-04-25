@@ -1,0 +1,76 @@
+
+A.  Amici  - Solving Google Code Jam problems with PyPy Part 2
+https://youtu.be/ANTKdlxlYl0&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+A.  Amici -   Solving Google Code Jam problems with PyPy Part 1
+https://youtu.be/ufpe0WKinHY&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+A.  Mleczko - Lost in OAuth Learn Velruse And Get Your Life Back
+https://youtu.be/a-mzJ7wFIcA&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Alessandro Pisa - Python from programmer to tamer
+https://youtu.be/4PKUZxN-GkE&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Andrea Crotti - Decorators and context managers
+https://youtu.be/EGPkxmJdS7M&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+D.  Matthews - PostgreSQL for Pythonistas
+https://youtu.be/SB1KfMEgrXk&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Daniel Greenfeld - Thinking Hard About Python
+https://youtu.be/7TImWbnUDeI&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+David Cramer - Scalable SQL Patterns - part 1
+https://youtu.be/X7kBzIhtDeY&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+David Cramer - Scalable SQL Patterns - part 2
+https://youtu.be/twMAodddp4Q&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Emanuele Palazzetti - Speed up your Django apps with Jython and SPDY
+https://youtu.be/DD1zLltB1RQ&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Erik Janssens - Data model patterns with SQLAlchemy
+https://youtu.be/m5Udg79uiMo&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+G.  Hentsch - Coding for the Modern Warzone
+https://youtu.be/9tiY-Sni04w&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+G.  Peretin - Greenlet based concurrency
+https://youtu.be/b9vTUZYmtiE&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Giles Thomas - Lessons learned from serving 14 million in-browser Python consoles with Tornado
+https://youtu.be/U_qp8u_BH_E&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+H  Percival Obey the Testing Goat! Rigorous Test Driven Web Development with Django and Selenium Pt2
+https://youtu.be/UBvinPQX1Tk&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+H.  Krosing - plpython now as powerful as C
+https://youtu.be/cVmArXkFjaY&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Jyrki Pulliainen - Taming Pythons with ZooKeeper
+https://youtu.be/Zd0bXwVwgGM&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Lynn Root - Introduce Django to your old friends
+https://youtu.be/FdeFQblT9V4&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+R.  Polli - Will ipython replace bash
+https://youtu.be/tq5yjkihBL8&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+R.  Sherwood, D  Sale - The 'Agile Movement'
+https://youtu.be/A-Ng73NXcTI&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Robeto De Ioris - Corso di sopravvivenza per sviluppatori OpenSource
+https://youtu.be/hseVV0nXZ6M&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+S  Shankar Introduction to machine learning using Python tools
+https://youtu.be/n-_o5Vd9ceM&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+S.  Citron - Pousty   Python in the cloud with PaaS Part 1
+https://youtu.be/vv9JRWYyMJ0&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+S.  Citron Pousty -   Python in the cloud with PaaS Part 2
+https://youtu.be/ykQ2BvHWLek&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Thomas Waldmann - Passwords - the server side
+https://youtu.be/84ZBXc3IgFY&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+Videos 101-125

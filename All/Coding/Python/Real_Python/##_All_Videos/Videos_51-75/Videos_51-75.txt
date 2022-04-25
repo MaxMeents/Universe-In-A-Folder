@@ -1,0 +1,76 @@
+
+Accepting Input With Python and Starting a Rock, Paper, Scissors Game
+https://youtu.be/MffCYVyyZvc
+
+Advantages of Completing Small Python Projects  Real Python Podcast #77
+https://youtu.be/q8N3GaN0H4A
+
+Building Game Models and Starting an Asteroids Game in Pygame
+https://youtu.be/hbXadm-VIz4
+
+Building With CircuitPython & Constraints of Python for Microcontrollers  Real Python Podcast #75
+https://youtu.be/gVBp5X8IwSU
+
+Defining Python Data Classes
+https://youtu.be/Ivqr-lfwQc4
+
+Exploring Python's math Module - Constants, Factorials, Rounding
+https://youtu.be/TBc29BdhgE0
+
+Exploring the New Features of Python 3.10  Real Python Podcast #81
+https://youtu.be/BjajuRgp8Yo
+
+Graphing Your Data Like ggplot in Python With plotnine
+https://youtu.be/cEQRIL1Z69M
+
+Harnessing Python's math Module and Exposing Practical Pandas Functions   Real Python Podcast #76
+https://youtu.be/aoUlxYHI7sI
+
+Learning Python Through Illustrated Stories  Real Python Podcast #78
+https://youtu.be/oMSk9t_eI9I
+
+Make Your Python App Interactive With a Text User Interface (TUI)  Real Python Podcast #80
+https://youtu.be/nmMFV0qXMnY
+
+Measuring Your Python Learning Progress  Real Python Podcast #79
+https://youtu.be/x3J0WD4Nhb4
+
+More Helpful and Precise Error Messages With Python 3.10
+https://youtu.be/DGIYC-CR6dU
+
+Passing Parameters Introduction - C++ vs Python
+https://youtu.be/2I8AuXFksGQ
+
+Python's Assignment Expressions and Fixing a Botched Release to PyPI  Real Python Podcast #74
+https://youtu.be/qzubpSKTeOY
+
+Reading and Writing Files With Pandas - CSV and Excel Files
+https://youtu.be/kpnXMdc3lgE
+
+Splitting Datasets in Python With scikit-learn and train_test_split()
+https://youtu.be/Q2W5OWAd0PA
+
+Start Using a Debugger With Your Python Code  Real Python Podcast #71
+https://youtu.be/wrbJEe947L4
+
+Starting With FastAPI and Examining Python's Import System  Real Python Podcast #72
+https://youtu.be/7mLa2SGBAT0
+
+Supporting Python Open Source Projects and Maintainers  Real Python Podcast #73
+https://youtu.be/ijR1mqJNXX8
+
+The Python return Statement Implicit and Explicit return
+https://youtu.be/e2pqhCNxQ6A
+
+Transcribe Audio and Use Speech Recognition in Python
+https://youtu.be/L0N2Ve9vhPk
+
+Using Python's sleep() to Create a Simple Uptime Bot
+https://youtu.be/EHFRmRLdp-U
+
+What Can You Do With Python and Counting Objects Using Counter  Real Python Podcast #70
+https://youtu.be/7W4kBJWKijQ
+
+Working With DataFrames In Pandas
+https://youtu.be/VBIhKLAKHZI
+Videos 51-75

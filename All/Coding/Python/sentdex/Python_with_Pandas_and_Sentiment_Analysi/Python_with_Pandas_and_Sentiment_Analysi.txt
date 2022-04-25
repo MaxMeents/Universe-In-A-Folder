@@ -1,0 +1,37 @@
+
+Python and Pandas for Sentiment Analysis and Investing 1 - Download and Installing
+https://youtu.be/0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 10 - testing
+https://youtu.be/mKvwcqKbqO0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 11
+https://youtu.be/R5ut78P6-GQ&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 12
+https://youtu.be/1k_ug-bcjPY&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 2 - Pandas Basics
+https://youtu.be/hxLdlx_aNrs&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 3 - Looking at our Data
+https://youtu.be/cR-bqEicUps&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 4 - Data manipulation
+https://youtu.be/u4Gvml5FtWE&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 5 - Removing Outlier Data Plots
+https://youtu.be/qAHiLrpAUOQ&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 6 - Basics for a Strategy
+https://youtu.be/FT1oUKefDhs&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 7 - Dynamic Moving Averages
+https://youtu.be/SHBFDSch3WE&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 8 - Strategy Function
+https://youtu.be/eqmoQNQNZgo&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+
+Python and Pandas for Sentiment Analysis and Investing 9 - Mapping Function to Dataframe
+https://youtu.be/NukLa-RSIfM&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7
+Python with Pandas and Sentiment Analysis for Investing

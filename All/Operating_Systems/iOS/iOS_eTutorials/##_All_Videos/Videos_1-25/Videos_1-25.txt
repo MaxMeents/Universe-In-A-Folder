@@ -1,0 +1,151 @@
+
+5 Things You Need to Know about iOS 10.3 as an iOS Developer
+https://youtu.be/SG2iRbSGD7Q
+
+Convert movie file to gif in one command line
+https://youtu.be/QKtRMFvvDL0
+
+Detailed Explanation on What's New in Swift 4.1 #iOSBySheldon #iOSQuickBite
+https://youtu.be/e4WZhI3uXlE
+
+iOS Air Print (UIPrintInteractionController) in Swift
+https://youtu.be/NAmj9v-CBGg
+
+iOS CollectionView Basics, Layout and UI Design in Swift
+https://youtu.be/ZYpRtJMqsm8
+
+iOS Documentation Tutorial Document Your Code like a Senior Developer
+https://youtu.be/b92mr0QxvNs
+
+iOS Paypal Integration Objective-C
+https://youtu.be/w0ck42HlQPg
+
+iOS SiriKit Tutorial with Swift 3 in Xcode 8
+https://youtu.be/lWQhmcXm_sI
+
+iOS Swift 3 JSON Downloading Into PickerView
+https://youtu.be/vBDfIucdIgA
+
+iOS Swift 4 new feature - String Multi-line Literal #iOSQUICKBITES
+https://youtu.be/58oGNixlx5s
+
+iOS Swift 4 Tutorial - Print 💖 in String Using Unicode #iOSQUICKBITES
+https://youtu.be/HXJuqHoKRHI
+
+iOS Swift 4 Tutorial JSON Downloading into TableView ft  iPhone X in Xcode 9
+https://youtu.be/d9LtFtia4vc
+
+iOS Swift 4 Tutorial Search Bar in TableView #IOSbySheldon
+https://youtu.be/4RyhnwIRjpA
+
+iOS Swift Customize TextField with Subclassing and Enum
+https://youtu.be/yWQq_5oU4Pc
+
+iOS Swift Helper Class Device Manager System Manager
+https://youtu.be/FdHe9AAq4VM
+
+iOS Swift String Basics
+https://youtu.be/49lYqgNepso
+
+iOS Swift Tableview Dynamic Cell Height & Dynamic Header Height Xcode 8
+https://youtu.be/dI-DqNLm7mQ
+
+iOS Swift Tuorial - How to Use Do-Try-Catch with the Best Practice #iOSBySheldon
+https://youtu.be/o4WvH-C_TeQ
+
+iOS Swift Tutorial Visualize & Solve the Memory Leak! (Memory Graph in Xcode 8)
+https://youtu.be/WWM0_kPcLLA
+
+iOS Swift Tutorials - How to Blur your ImageView or Image! Gussian Blur Explained
+https://youtu.be/Kfs5AdivwzI
+
+iOS swift UITest (automation test)
+https://youtu.be/mAOcUMNqwe0
+
+iOS Swift3 Load Your TableView with Animation
+https://youtu.be/gTqVqFRiV00
+
+iOS Swift3 Rotate your TableView Cells! Simple Core Animation Guide
+https://youtu.be/tNACwN73784
+
+iOS Swift4 - I found another UITableView Bug by Apple #iOSBySheldon
+https://youtu.be/UOzA3raei2I
+
+iOS Third Party Frameworks Basics, Cocoapods vs. Carthage, How to choose Reliable Frameworks
+https://youtu.be/vNOoE0LBKsM
+
+iOS Tutorial - Easy Animation with Lottie and CABasicAnimation #iOSBySheldon
+https://youtu.be/4uBJQyu8xXY
+
+iOS Tutorial All you need to know about Auto Layout in Xcode 8
+https://youtu.be/_FyU2O0q1t4
+
+iOS Tutorial CoreData in Swift 3 with Xcode 8 Part 1 Save & Fetch
+https://youtu.be/bmNDw5GUHP8
+
+iOS Tutorial CoreData in Swift 3 with Xcode 8 Part 2 Delete, Filtered Fetch & Filtered Delete
+https://youtu.be/L_l8KU0HENE
+
+iOS Tutorial Download Json  Download Image (with ProgressBar) with Alamofire in Swift 3
+https://youtu.be/uM0kjwXkx_4
+
+iOS Tutorial download JSON into TableView with MVC in Swift 3
+https://youtu.be/U8M7FZbP2Qc
+
+iOS Tutorial Downloading JSON into Table View in Swift 3
+https://youtu.be/ea6_a_zbQrY
+
+iOS Tutorial Make a PDF Downloader and Reader from scratch in Swift 3 - Part 1
+https://youtu.be/sgCKbmLYwQY
+
+iOS Tutorial Make a PDF Downloader and Reader from scratch in Swift 3 - Part 2
+https://youtu.be/s39JZPV_jBQ
+
+iOS Tutorial Make a Stop Watch in Swift
+https://youtu.be/47_boy9Ci_g
+
+iOS Tutorial Multi-Threading Basics Image downloading in Objective-C
+https://youtu.be/nBKERbhW-U8
+
+iOS Tutorial Multi-Threading Basics Image downloading in Swift 3
+https://youtu.be/rudFV6hW1r4
+
+iOS Tutorial Reactive Programming Basic - KVO & KVC
+https://youtu.be/xS7bvtGPiuU
+
+iOS Tutorial Read and Write data from .txt file, .json file and .plist file (local storage guide)
+https://youtu.be/PWgRz4jqICI
+
+iOS Tutorial SearchBar in TableView - fetch and filter from CoreData in Swift 3 Xcode 8
+https://youtu.be/8mDc8O3QJ5Q
+
+iOS Tutorial SearchBar in TableView - Filter Your Array of Model Objects in Swift 3
+https://youtu.be/TMo7PuggHlc
+
+iOS Tutorial TableView Lazy Loading (Lazy downloading) using NSCache in Swift 3
+https://youtu.be/31C7u-pFUjU
+
+iOS Tutorial [Advanced] Down-Scaling Image with the Best Practice - Swift
+https://youtu.be/UpVFLuttVn4
+
+iOS Unit Test Async Task Objective-C
+https://youtu.be/drHhwq9ZlLU
+
+iOS Unit Test Basics Objective-C
+https://youtu.be/Yh8k-i9V34E
+
+Must-have app for iOS developers - Image Pixel Adjuster
+https://youtu.be/vQpj3tVSSdk
+
+Setup Local JSON Server to Test Your App!
+https://youtu.be/GHDR7lECoQU
+
+Web Tutorial How to make Supreme and Palace Shopping Easier with Sold-Out-Tag Always Shown
+https://youtu.be/6sI1yDk1O0g
+
+What's new in iOS 10.2!
+https://youtu.be/tqdcVg5h1mc
+
+WWDC2018 KeyNote Highlights For Developers #iOSBySheldon
+https://youtu.be/uOjDRVcbenQ
+Videos 1-25

@@ -1,0 +1,70 @@
+
+Call, Raise or Fold - Python for Simulating Poker Games - Abhijit Gadgil
+https://youtu.be/07F9FPk82z8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Exploring Augmented Reality with Python - Srikar Mutnuri
+https://youtu.be/pLRk3ya38Y8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+How we are building Smart Reply for Chat - Nirant Kasliwal
+https://youtu.be/UM56FDjSx9g&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Keynote - David Beazley
+https://youtu.be/VUT386_GKI8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Keynote - Ines Montani
+https://youtu.be/Ivb4AAuj5JY&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk -  Eshan Singh
+https://youtu.be/ggQNZnY04Z0&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk -  Vishwesh K - Mad Street Den
+https://youtu.be/CERyEvMU1r4&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Bhuvana
+https://youtu.be/TGIEOSrEyD8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Gokul
+https://youtu.be/f_-NGIGOIqo&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Mohamed Javed - Jetbrains
+https://youtu.be/rt2P6FgkqvQ&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Pradeek - Happyfox
+https://youtu.be/Zo8lN4rm2jM&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Praveen J - AWS
+https://youtu.be/KDCZB4Uck18&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Rohan Bhindwale - Bloomberg
+https://youtu.be/KWM6B4KSxjg&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Srinivasan
+https://youtu.be/BEH1p2XWvD4&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Subin Siby  Selfie a Day Project
+https://youtu.be/zIWdH1cV88s&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Lightning Talk - Sunil Kumar - Ericsson
+https://youtu.be/1lHRY6qOVPI&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Natural Language Generation with Python - Jaidev Deshpande
+https://youtu.be/kaz3o6_2vsA&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Practical Introduction to Graph DBs, Graph Traversals in Python - Srimathi H
+https://youtu.be/7iUDsy2J5S8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Private video
+https://youtu.be/VL5oUpyoEyQ&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Ragabot - Music Encoded - Vikrant Patil, Harsh Vinjamoor
+https://youtu.be/LQNzvpKYax8&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Smart lock Nah dude. Pwning a smart lock with Python - Anirudh & Raghav
+https://youtu.be/5I3e_y7S2fs&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Solving Industrial Problem with Machine Learning and Image Processing - Sonam Pankaj
+https://youtu.be/6XpoaZcoPBg&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Using Vulture to improve used-to-unused code ratio of your Python Programs - Rahul Jha
+https://youtu.be/r19k-RYVHas&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+Videos 1-25

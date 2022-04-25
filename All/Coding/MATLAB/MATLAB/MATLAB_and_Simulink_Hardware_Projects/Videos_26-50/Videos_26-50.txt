@@ -1,0 +1,70 @@
+
+#MATLABHW2k16 Testing Ultrasonic Module on Raspberry Pi using  Simulink
+https://youtu.be/i4zwhtYzIIk&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+3D Printed Inverted Pendulum Robot 2016 Matlab & Simulink Hardware Challenge #MATLABHW2k16
+https://youtu.be/bBDBOt8wlIQ&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+3D Virtual Reality Design of Vehicles (MATLAB and Simulink Student Design Challenge)
+https://youtu.be/qQvADA1JGVw&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+A Robot Walks Into A Bar  #MATLABHW2k16
+https://youtu.be/gfRs-B0u3oI&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Automotive Suspension Configurable Testbed
+https://youtu.be/boMgKYUJRpI&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Color Recognition for Autonomous Control over a Mechanochemical Reaction #MATLABHW2k16
+https://youtu.be/ji0Gew96Eg4&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Control of a Ball and Beam System Using Fuzzy Logic and Reinforcement Learning     #MATLABHW2k16
+https://youtu.be/XinzhPoA3Sk&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Dc motor control using matlab simmechanics
+https://youtu.be/c1rLFos_57w&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Exploration Robot Based on SLAM #MATLABHW2k16
+https://youtu.be/aIzbYNCgXEM&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Filtro de Kalman fusão de sensores (MatLab, Arduino, i2c, IMU MPU6050)
+https://youtu.be/FwQG_DPOCVY&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+HIL(Hardware in the Loop ) for Engine Management system using Simulink on Raspberry Pi
+https://youtu.be/biTZmiKCKPY&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Inverted Pendulum with MATLAB and Simulink #MATLABHW2k16
+https://youtu.be/dOCW15oof34&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Lane Detection MatLab
+https://youtu.be/-nvexoDwC3s&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Light Bulb Temperature Control Using Simulink and Matlab (P Control)
+https://youtu.be/aMsytGgt0zI&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Microbioreactor control system
+https://youtu.be/WLnX3Vuy8cg&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Navigation of a Guide  Guard Robot
+https://youtu.be/0EdytJyvoDs&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+NOTE RECOGNITION AND COUNTING USING IMAGE PROCESSING #MATLABHW2k16
+https://youtu.be/ZOHhnyRgtgw&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Optimization of Roads 3D using Machine Learning  #MATLABHW2k16 (Snake in Cube LED 16x16x16)
+https://youtu.be/hCuPY6FZ8yw&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Photovoltaic Cell Temperature Measurement Monitoring System #MATLABHW2k16
+https://youtu.be/3OxwXIOUdMI&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Private video
+https://youtu.be/n7mwA-W_qec&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+Robot with differential drive control with 3 neural networks #MATLABHW2k16
+https://youtu.be/tjBz4YrIPuw&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+sixth sense based led control from elive technologies
+https://youtu.be/f5n8XYpAOww&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+
+The PERFECT Egg Using Arduino and Simulink #MATLABHW2k16
+https://youtu.be/HLNiOv3wRSA&list=PLn8PRpmsu08qRedXRVUsvAe7dgFX97Qcc
+Videos 26-50

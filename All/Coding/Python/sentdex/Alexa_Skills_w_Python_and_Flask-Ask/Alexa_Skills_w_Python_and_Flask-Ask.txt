@@ -1,0 +1,10 @@
+
+Headlines Function - Alexa Skills w Python and Flask-Ask Part 2
+https://youtu.be/RvShjCBoYfQ&list=PLQVvvaa0QuDe3E0TlV7q7bFyMqbnO5-TL
+
+Intro and Skill Logic - Alexa Skills w Python and Flask-Ask Part 1
+https://youtu.be/DFiCsMcipr4&list=PLQVvvaa0QuDe3E0TlV7q7bFyMqbnO5-TL
+
+Testing our Skill - Alexa Skills w Python and Flask-Ask Part 3
+https://youtu.be/WYYxafb1A6E&list=PLQVvvaa0QuDe3E0TlV7q7bFyMqbnO5-TL
+Alexa Skills w Python and Flask-Ask

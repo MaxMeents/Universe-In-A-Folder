@@ -1,0 +1,37 @@
+
+20 years of Perl
+https://youtu.be/Wq33l6HId4E&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Functional Programming in Perl 6
+https://youtu.be/7bs01sOo_Oo&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+High End Unicode in Perl 6
+https://youtu.be/LzFUFZTVKDY&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+It's in the bag How to cheat at interviews using Perl 6
+https://youtu.be/f4QS15GkaC8&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Lightning Talks Day 1  The Perl Conference in Amsterdam 2017
+https://youtu.be/B5KVLlnxN2Q&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Lightning Talks Day 2  The Perl Conference in Amsterdam 2017
+https://youtu.be/24cCjo6_sXc&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Lightning Talks Day 3  The Perl Conference in Amsterdam 2017
+https://youtu.be/7UdsK5PRSBo&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Low-end Perl
+https://youtu.be/Agk2hEcVPCw&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Opening the Perl Conference in Amsterdam 2017
+https://youtu.be/pwsIgSmOlyw&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Perl 6 Superglue for the 21st Century
+https://youtu.be/DnsUSkwnRfA&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Three Little Words
+https://youtu.be/nvUzH3taS6I&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+
+Unicode Internals of Perl 6
+https://youtu.be/Edsyjz-ZWuI&list=PLfyGEwlEhJmUzPhE4RPJ8P8L3okxiRJ3p
+Live streams from The Perl Conference in Amsterdam 2017

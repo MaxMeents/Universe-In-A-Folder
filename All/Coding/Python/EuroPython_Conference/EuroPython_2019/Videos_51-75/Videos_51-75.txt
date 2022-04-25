@@ -1,0 +1,73 @@
+
+Anton Caceres - How To Build a Python Microservice Without Losing a Job
+https://youtu.be/uYgla2-mxMc&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Antonio Cuni - How to write a JIT compiler in 30 minutes
+https://youtu.be/DKns_rH8rrg&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Daniele Procida - The world's cheapest, simplest plotter
+https://youtu.be/Rn4X2ZgZvsk&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Hynek Schlawack - Maintaining a Python Project When It’s Not Your Job
+https://youtu.be/os_daySYRFs&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Iulia Avram - Gamifying the study of algorithms
+https://youtu.be/KDb-dW0FqZE&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Jeff Hollan  - Deploy Python to the cloud faster with Azure Serverless
+https://youtu.be/Top7eYEpQSI&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Joe Drumgoole - Introduction to Python and MongoDB
+https://youtu.be/VJ_d8jENWmo&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Johnny Dude - How Thinking in Python Made Me a Better Software Engineer
+https://youtu.be/jGseHScYdSg&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Jon Nordby - Audio Classification with Machine Learning
+https://youtu.be/QEEBNF0aeeg&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Marc-Andre Lemburg - EPS General Assembly 2019
+https://youtu.be/jTy-tyFvou0&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Marc-Andre Lemburg - EuroPython 2020 Help us build the next edition!
+https://youtu.be/2LQ_ytrxDEs&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Maria Molina-Contreras - “When a biologist met Python”
+https://youtu.be/CHpSsVcrVME&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Mario Corchero - Exceptional Exceptions
+https://youtu.be/ac5b8LyHJcQ&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Michał Karzyński - From Python script to Open Source Project
+https://youtu.be/25P5apB4XWM&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Miroslav Šedivý - A Day Has Only 24±1 Hours
+https://youtu.be/mHaz5laPyHE&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Nar Kumar Chhantyal - Building Data Workflows with Luigi and Kubernetes
+https://youtu.be/41ubI6a3jzI&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Patrick Arminio - GraphQL in Python 🍓
+https://youtu.be/38uCu6ZEvfo&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Paul Everitt - Python 1994
+https://youtu.be/vyz7zdGiPVY&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Paul Hughes - Building Data-Driven Client Relationship Management in Banking with Python
+https://youtu.be/4KKjo9WwvVA&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Philipp Thomann - PlotVR - walk through your data
+https://youtu.be/O1y96EG0bTw&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Raphael Pierzina - Advanced pytest
+https://youtu.be/gJtE-anbcww&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Reuven Lerner - Practical decorators
+https://youtu.be/xRxKXvYtAyI&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Ronan Lamy - Opening PyPy's magic black box
+https://youtu.be/knj2-VcF2d8&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Tin Marković - Refactoring in Python
+https://youtu.be/dF9ZH3_fQ-Y&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+Videos 51-75

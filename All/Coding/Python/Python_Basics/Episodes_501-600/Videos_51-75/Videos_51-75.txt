@@ -1,0 +1,151 @@
+
+Python Basics Tutorial 5K Views Random Seed Video
+https://youtu.be/TbyQ36UBXNo&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Add An Explosion Sprite for Pygame
+https://youtu.be/QS5OnNO8WR4&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Calendar Is Leap Year Function
+https://youtu.be/cg34uz-tnQI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Calendar Month Calendar Method
+https://youtu.be/ygJ3cSpwd_M&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Calendar Print Calendar
+https://youtu.be/-tu-kc7BtBg&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Calendar Set First Week Day Function
+https://youtu.be/XzWKIK5-X_0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Collections OrderedDict Object
+https://youtu.be/CkkNVyQJLg0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Deep Dive Pygame Sprite Update Method
+https://youtu.be/V0H9wq-2tek&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Deep Dive Requested Video Comma Separation Error
+https://youtu.be/cEuf8xCszPo&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Difference Between Tk and Ttk from Tkinter
+https://youtu.be/U6gYIBHUeuI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial How to Find the Name of the tables in Sql DataBase
+https://youtu.be/X5oSSbM-1kw&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial How to Make a Copy Of A List
+https://youtu.be/s-iega_17-I&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Indexing With Boolean Array for Numpy
+https://youtu.be/t-13p3OCjoc&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Kivy Binding TextInput
+https://youtu.be/6VltTVe-XvM&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Kivy BoxLayout Button on press logic
+https://youtu.be/vncPfVeCKBI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Kivy TextInput Widget
+https://youtu.be/cP2WvQ7borI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Kivy Widget Spacing & Text Alignment
+https://youtu.be/yxSmUzjcA3s&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Grouped Bar Chart
+https://youtu.be/DCr5p95hfWk&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Interactive Mode
+https://youtu.be/SpClxAd5jac&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Set ylim Method To Control Height
+https://youtu.be/OVz0I0tyyy4&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Text Annotation
+https://youtu.be/nHt6wTEL-wA&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Two Types of Plot with Legend Box to Anchor and Data Control
+https://youtu.be/39sJ-QzJGzk&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial More with Numpy Arange Function
+https://youtu.be/wjJeOnO8niA&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial More With Pandas DataFrame Describe Method
+https://youtu.be/P7xRjxROX58&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Numpy Linspace Function
+https://youtu.be/fMOzV3-L1s8&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Numpy Median Function
+https://youtu.be/sfzSoy5tLYs&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Numpy Vstack Function
+https://youtu.be/93kq9tQyxmQ&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pandas Concatenate Pt  2
+https://youtu.be/ehkWJXPzlRM&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pandas DataFrame dtype Attribute
+https://youtu.be/QD9rS9HI8Y8&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pandas DataFrame Reset Index Method
+https://youtu.be/lbQZfh7XukA&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pandas DataFrame Set Index Method
+https://youtu.be/7CTFHIk6Gs8&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Programming is Hard
+https://youtu.be/3Md1uvmj_Os&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pygame Sprite Boundary
+https://youtu.be/VELxYEY3CfM&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pygame Sprite Group add draw update Method
+https://youtu.be/AYM_dFK87sc&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pygame Sprite Update Method With Keyboard Input
+https://youtu.be/-HQK_psmaR0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Requested Deep Dive Numpy Random Uniform Size Attribute
+https://youtu.be/1kUcW7GFgaI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Requested Double UnderScore File Method
+https://youtu.be/fpZntM7S0r0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Requested Os Rename Outside of Current Directory
+https://youtu.be/5pKWrM2a9Cw&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Requested Video Pandas DataFrame to excel Function
+https://youtu.be/Tcr3jnpk6tw&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial So Many Requested Videos
+https://youtu.be/pnzxG5B9lWE&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sql Keyword Where With Sqlite
+https://youtu.be/ah0meJtJSs0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sqlite Cursor Description Attribute
+https://youtu.be/V6r3uUdzA_k&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sqlite One Column Sql Query
+https://youtu.be/cZPO62qJOmU&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sqlite SQL Keyword Order
+https://youtu.be/RScIj2N7vfs&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sum of Square Roots
+https://youtu.be/hLgNA_wwZXs&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Tkinter Menu Tearoff Argument
+https://youtu.be/RBbmE_0QpR4&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Tkinter Tk Destroy Method
+https://youtu.be/oCWPo5pzFcI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Tkinter TTK Button Press
+https://youtu.be/sBQQtvIOmXU&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Using Height DP Argument For Kivy BoxLayout Widget
+https://youtu.be/A4f2lnM15uY&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial What Episode Did You Get The Most From
+https://youtu.be/KqkLtl7y_HQ&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+Videos 51-75

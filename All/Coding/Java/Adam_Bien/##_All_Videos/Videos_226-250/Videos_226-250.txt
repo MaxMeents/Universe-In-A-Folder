@@ -1,0 +1,76 @@
+
+25th airhacks.tv Questions and Answers
+https://youtu.be/Vl7B-umq7Sk
+
+26th airhacks.tv Questions and Answers
+https://youtu.be/L4amIPJnfzg
+
+27th airhacks.tv Questions and Answers
+https://youtu.be/WPf44u71YgE
+
+28th airhacks.tv Questions and Answers
+https://youtu.be/0AsyLVd6yV4
+
+29th airhacks.tv Questions and Answers
+https://youtu.be/CzPoCjIpcwA
+
+30th airhacks.tv Questions and Answers
+https://youtu.be/k32NLqiTEjE
+
+31st airhacks.tv Questions and Answers
+https://youtu.be/U_v0Fb4-slE
+
+32nd airhacks.tv Questions and Answers
+https://youtu.be/u-cMeGgchhs
+
+@Stateless As JAX-RS Resource
+https://youtu.be/BnUsNlPnZZo
+
+A No-Dependencies JavaScript  HTML 5 App With Java EE Backend
+https://youtu.be/Gndr4pBFRm0
+
+Building A React App With Java EE Backend
+https://youtu.be/A800BaLBB2k
+
+Building Angular 2 App With Java EE Backend
+https://youtu.be/HhroyiYFmjc
+
+Building Mobile First Services With The Killer Microservices Platform
+https://youtu.be/pvF5-s_h7_w
+
+DI, IoC and MVP With Java FX -- afterburner.fx Deep Dive
+https://youtu.be/WsV7kSSSOGs
+
+High Performance Java EE
+https://youtu.be/Nyq4vcEB6oc
+
+Implementing Health Checks With Docker
+https://youtu.be/_CVewEfVQAo
+
+Java EE Microservices Communication
+https://youtu.be/QO2321eMNYE
+
+Java EE, Thin WARs And The Docker Image Size
+https://youtu.be/hoqJdH87e7g
+
+JsonObject Validation And JAX-RS 2.1
+https://youtu.be/egVkFYj6xYw
+
+Load Balancing Java EE Microservices
+https://youtu.be/3Lw9YO5oU0U
+
+Memory Footprint TomEE vs. Tomcat on Docker
+https://youtu.be/8iY_K4vuDhM
+
+Payara Micro And Docker
+https://youtu.be/8Da5jOMaNtk
+
+Running A Stock Java EE Application On Docker
+https://youtu.be/P6Bk3Eiz3kE
+
+Staging External Resources With Dockerized Java EE Applications
+https://youtu.be/OZI9a9H9tgc
+
+yarn vs. npm
+https://youtu.be/RPqxNsLHT3c
+Videos 226-250

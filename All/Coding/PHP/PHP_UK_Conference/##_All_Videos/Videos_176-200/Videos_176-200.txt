@@ -1,0 +1,76 @@
+
+Aaron Jorbin - Modernizing The WordPress Toolbox
+https://youtu.be/8CyeaQzwn-A
+
+Ben Waine  - My Debugging And Performance Toolbox
+https://youtu.be/_JIFvGYsyxo
+
+Chris Levy - The Power of Modern Version Control
+https://youtu.be/EBxfXgUHVRI
+
+Dan Miller - HHVM at Etsy Harder, Better, Faster, Stronger
+https://youtu.be/75j1RRxxARI
+
+Gabriela D’Ávila - Database Wizardry for Legacy Applications
+https://youtu.be/85E0hNWKIi0
+
+Gary Hockin  - Understanding the OWASP Top 10
+https://youtu.be/qMkiZ3Ehv5M
+
+Gordon Skinner - Hexagonal Architecture in DDD
+https://youtu.be/u6oTg5oRH24
+
+Javier Lopez - Continuously delivering PHP projects
+https://youtu.be/HOwPJg-F4h0
+
+Jeremy Quinton - Devops for PHP Developers
+https://youtu.be/SL9FEDaXutE
+
+Jordi Boggiano - Composer Best Practices
+https://youtu.be/mNFKZeYRdto
+
+Liam Wiltshire - PHP's biggest bottleneck, MySQL
+https://youtu.be/drYy2T23eII
+
+Lorna Mitchell - What's new in PHP
+https://youtu.be/MgkON_RR8ic
+
+Michelle Sanver - Accessibility Done Right
+https://youtu.be/g3snB6Kev-A
+
+Nate Abele - The Future of Programming
+https://youtu.be/tq7wKcwbUN8
+
+PHP Conference 2014 - Keynote - Juozas 'Joe' Kaziukenas - What Makes Technology Work
+https://youtu.be/yX0u8PFAOQ0
+
+PHP UK Conference 2014 - Glen Campbell - FAIL The Best Ways To Bring Down Your Website
+https://youtu.be/OxAg5H2Xw8I
+
+PHP UK Conference 2014 - Morgan Tocker - Locking And Concurrency Control
+https://youtu.be/aGQZtBy9J5I
+
+PHP UK Conference 2014 - Morgan Tocker - My SQL 5 6 - Online Operations and Improved Diagnostics
+https://youtu.be/lqmn6_PD9Qo
+
+PHP UK Conference 2014 - Nate Abele - Weild AngularJS Like A Pro
+https://youtu.be/uh6ExeXfnFg
+
+PHP UK Conference 2014 - Ole Michaelis - Service Oriented Architecture for Robust & Scalable Systems
+https://youtu.be/ZcHV4nc_DTM
+
+PHP UK Conference 2014 - Ricard Clau - Scaling with Symfony2
+https://youtu.be/FpeAPnmFs_w
+
+Ricard Clau - Modern Software Architectures
+https://youtu.be/qj4xZZYltI4
+
+Rob Allen - Building an API with Apigility
+https://youtu.be/D_mcntk4tXI
+
+Sarah Khalil - Build RESTful APIs easily with Symfony
+https://youtu.be/MPQrNuwdpMU
+
+Thijs Feryn - Reverse caching proxies Varnish or Nginx
+https://youtu.be/KldPhbWqy2U
+Videos 176-200

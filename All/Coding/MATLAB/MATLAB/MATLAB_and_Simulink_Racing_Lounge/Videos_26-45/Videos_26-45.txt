@@ -1,0 +1,61 @@
+
+Battery Modeling with Simulink
+https://youtu.be/OFWCFefmvnM&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+CAN Communication with Your ECUs and the Vehicle Network Toolbox
+https://youtu.be/JZy0fLeVkUs&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Data Acquisition and Analysis
+https://youtu.be/1TU-Yubamu4&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Determining Chassis Stiffness with MATLAB
+https://youtu.be/iWzG8Uqu_dY&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Developing a New Control Unit Using an FPGA
+https://youtu.be/9s40JK_uwxA&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Driver-in-the-Loop Simulations
+https://youtu.be/63-d7jdHoMs&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Embedded Code Generation for Your Vehicle Control Systems
+https://youtu.be/kU7iRYMlaYo&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+From Model to Racing in Five Minutes
+https://youtu.be/cIKaPUaOptg&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+From Telemetry Data to Suspension Modeling
+https://youtu.be/ldsWe0gU1uU&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Import CAD Assembly into SimMechanics - MATLAB and Simulink Racing Lounge
+https://youtu.be/MjqHTYX-z4Y&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Interview with Owen Carless, Chief Judge, FSG 2014 - MATLAB and Simulink Racing Lounge
+https://youtu.be/JLvMxNS8rjg&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Lap Time Simulation; Essential Part of Concept Development
+https://youtu.be/kDXt9X7VpBQ&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+MATLAB Tips and Tricks
+https://youtu.be/eVfDdmwbYeU&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Modeling Physical Components, Part 1 Mathematical Models
+https://youtu.be/alFPhyrfmC4&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Modeling Physical Components, Part 2 Data-Driven Concepts
+https://youtu.be/F_D2kUCFDno&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Principles of Control Design
+https://youtu.be/stiDxFSKMNI&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Reduce Testing Time by Vehicle Modeling
+https://youtu.be/4qszgexqX4s&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Tire Modeling; Extracting Results from a Large Data Set
+https://youtu.be/WW1qCuuleTQ&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Torque Vectoring - Controller Design, Tuning, and Testing
+https://youtu.be/tcmJMzLDrkU&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+
+Versioning Simulink Projects with Git
+https://youtu.be/AJynESuE1dc&list=PLn8PRpmsu08p693oV_qfJOWh8yBdrCZV0
+Videos 26-45

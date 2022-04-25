@@ -1,0 +1,7 @@
+
+Designing a Datapath from an FPGA to a Processor with SoC Blockset Modeling and Simulation
+https://youtu.be/1OU1482n1QQ&list=PLn8PRpmsu08ox4xitWGZAqApWFCUd4XEp
+
+Designing a Datapath from an FPGA to a Processor with SoC Blockset Xilinx Deployment
+https://youtu.be/TVv_NPHj_q0&list=PLn8PRpmsu08ox4xitWGZAqApWFCUd4XEp
+Designing a Datapath from an FPGA to a Processor with SoC Blockset

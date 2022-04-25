@@ -1,0 +1,76 @@
+
+12 Ways of the Cloud Native Warrior.  Burr Sutter, Red Hat
+https://youtu.be/o7M9P9WXi40
+
+Bilding an effective identity and access management architecture with Keycloak
+https://youtu.be/RupQWmYhrLA
+
+Centralized Logging Patterns.  Philipp Krenn, Elastic
+https://youtu.be/kNp61Lh_TpA
+
+Continuous Delivery like you know no fear. Christian Uhl, Mathmatch gmbh
+https://youtu.be/WtLqv8eC0kI
+
+Contract Tests in the Enterprise.  Marcin Grzejszczak, Pivotal
+https://youtu.be/yQjcDlibdWM
+
+Don't be a Homer Simpsonwith your Reactor! Sergei Egorov, Pivotal
+https://youtu.be/OCGwPvVXw0o
+
+How to build Reactive Server under an hour Oleh Dokuka, Netifi, Inc
+https://youtu.be/3m9RN4aDh08
+
+Java 4.12, Kotlin, Code Coverage and their best friend - bytecode
+https://youtu.be/vYsUKA3L_SE
+
+Jenkins X Continous Delivery for Kubernetes. Carlos Sanchez, Cloud Bees
+https://youtu.be/wb2PK5uf5uI
+
+Keynote Serverles Functions Containers and Beyond. Arun Gupta, Principial Open Source Technologis
+https://youtu.be/ud5Ax21Obic
+
+Making it rain Truly Cloud Native JVM Applications. Justin Lee, Red Hat.
+https://youtu.be/6eXZXISzVwU
+
+Mixed Paradigms  The Method to Madness.  Venkat Subramaniam, Agile developer, Inc
+https://youtu.be/QYBRifsWHD0
+
+New opportunities for Java developers with GraalVM. Alina Yurenko, Oracle
+https://youtu.be/FenOzLslj4c
+
+Perfomance tuning Twitter services with Graal and Machine Learning. Chris Thalinger, Twitter
+https://youtu.be/sKBMY9vJmBE
+
+Productionizing Data Platform Best Practices Self Service. Roman Novik, Epam System
+https://youtu.be/tmzRLeKaTDc
+
+Reacting Zen in Your Coordination Layer. Philipp Krenn, Elastic
+https://youtu.be/CSmE2OFyhWU
+
+Reactive for the Impatient  - A Gentle Intro to Reactive Programming and Systems (Java Edition)
+https://youtu.be/6CZvMLgz_kc
+
+Ruling the universe with gRPC and coroutines. Marharyta Nedzelska, Wix
+https://youtu.be/9f7GuZVZ9fo
+
+Serialization protocols for distibutedsystems. Christian Uhl, Mathmatch gmbh
+https://youtu.be/SMUwytr0q9U
+
+Social implications of Bias in Machine Learning. Fiona Coath, Thoughtworks
+https://youtu.be/L7DGwiwkgEs
+
+Supersonic, Subatomic Java with Quarkus.  Burr Sutter, Red Hat
+https://youtu.be/iJBh2NoSCKM
+
+Under the hood of Serverless platforms. Monika Nawrot, Marek Biskup, Google
+https://youtu.be/VQB4Yfyffbs
+
+Undercover Kotlin Using Kotlin without tipping your hand. Justin Lee, Red Hat
+https://youtu.be/q8dQZvCIBwI
+
+Using Many Worlds to Solve the Unsolvable. James Birnie, Thoughtworks
+https://youtu.be/6rflHoK_f9Y
+
+Writing cleancode withmodern Java.  Miro Cupak, Dnastack
+https://youtu.be/uEHJ5CHaF08
+Videos 551-575

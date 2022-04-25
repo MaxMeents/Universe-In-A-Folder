@@ -1,0 +1,73 @@
+
+A MATLAB Robot Control Interface for Education and Research
+https://youtu.be/P91EBveYv8I
+
+Battery Data Acquisition and Analysis Using MATLAB
+https://youtu.be/dbP5k4Rl5s8
+
+Computer Vision Made Easy
+https://youtu.be/X15Dza0hsww
+
+Connecting Hardware to MATLAB and Simulink
+https://youtu.be/S4VY03CLVvI
+
+Developing Modular, PXI, and AXIe Test Systems using MATLAB
+https://youtu.be/dFpzsvxDj-s
+
+From MATLAB and Simulink to FPGAs in Five Easy Steps
+https://youtu.be/yapF8MLWORY
+
+Hybrid Electric Vehicle Control Optimization using PC and Cloud Based Parallel Computing
+https://youtu.be/qGbTJHEN7Ds
+
+LEGO MINDSTORMS EV3 Programming Using Simulink
+https://youtu.be/dm428Q3GL6A
+
+Making Control System Development Easier with MATLAB and Simulink, Part 2  Plant Modeling
+https://youtu.be/1TQ1i6DtFDY
+
+Making Control System Development Easier with MATLAB and Simulink,Part 3 Control Design
+https://youtu.be/dqFmCJwwWKU
+
+Making Control System Development Easier with MATLAB and Simulink,Part 4 Real Time Testing
+https://youtu.be/__LePVW9D1s
+
+Making Control System Development Easier with MATLAB and Simulink-Introduction to Dynamic Simulation
+https://youtu.be/c8Fjk9TF6Y8
+
+Managing and Sharing MATLAB Code
+https://youtu.be/9u8W-G5Jd_I
+
+MATLAB to C Made Easy
+https://youtu.be/hziEhHYURU8
+
+Mobile Robot Simulation for Collision Avoidance with Simulink
+https://youtu.be/WpoZBSltk2k
+
+Modeling Logic for Robot Control
+https://youtu.be/eItHrviVUps
+
+Spectral Analysis with MATLAB
+https://youtu.be/qrU2jsSqWD8
+
+Teaching Mechatronics with MATLAB, Simulink, and Low Cost Hardware   Simulink Webinar
+https://youtu.be/harH7iRYaUM
+
+Teaching Physics with MATLAB  Simulations and Experiments
+https://youtu.be/O_MxZV2eMpk
+
+Teaching PK PD and Mechanistic Modeling with MATLAB and SimBiology
+https://youtu.be/8Uyj8x34MTQ
+
+Thermal Analysis with MATLAB and FLIR cameras
+https://youtu.be/OtEWxn1Ybqg
+
+Using MATLAB, Simulink, and ISE Design Suite to Develop DSP Applications on Xilinx FPGA based System
+https://youtu.be/I4BqpJo9dCg
+
+Using Speedgoat Target Computer Hardware for Simulink Real Time
+https://youtu.be/oIwbdG7KVwI
+
+What’s New in MATLAB and Simulink R2014b
+https://youtu.be/ybQALVvW8x0
+Videos 26-50

@@ -1,0 +1,25 @@
+
+An HTML WiKi The Interesting Parts
+https://youtu.be/eoaqnuKmlOk
+
+Automating Your CRUD
+https://youtu.be/DerO3IkZEIY
+
+Becoming a Daemon
+https://youtu.be/qMyj0Yujb8k
+
+Getting Started with Optimization and Profiling
+https://youtu.be/OOFS3NwkRlM
+
+itSentinel
+https://youtu.be/m9xInmMuXz8
+
+Vim for Perl Development
+https://youtu.be/zItaMaJjygI
+
+Web Scraping Techniques
+https://youtu.be/SFnNMQ_6mQw
+
+Writing GUI Applications with wxPerl and XRC
+https://youtu.be/kQ-b2nlAcOo
+Videos 51-58

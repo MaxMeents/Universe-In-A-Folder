@@ -1,0 +1,16 @@
+
+Using Bode Plots, Part 1 Closed-Loop Systems
+https://youtu.be/qa02gTTSpVk&list=PLn8PRpmsu08qbUh-mLHxDYAW8ClPdE1H6
+
+Using Bode Plots, Part 2 Open Loop Shaping
+https://youtu.be/BlS6SwvuiVk&list=PLn8PRpmsu08qbUh-mLHxDYAW8ClPdE1H6
+
+Using Bode Plots, Part 3 Phase and Gain Margins
+https://youtu.be/9POY47JXIWo&list=PLn8PRpmsu08qbUh-mLHxDYAW8ClPdE1H6
+
+Using Bode Plots, Part 4 Lead, Lag, PID Controllers
+https://youtu.be/Ap8z05aZwYk&list=PLn8PRpmsu08qbUh-mLHxDYAW8ClPdE1H6
+
+Using Bode Plots, Part 5 DC Motor Control Example
+https://youtu.be/13HGR4YB2yU&list=PLn8PRpmsu08qbUh-mLHxDYAW8ClPdE1H6
+Using Bode Plots

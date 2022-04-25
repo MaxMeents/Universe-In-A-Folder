@@ -1,0 +1,58 @@
+
+How to change Background Color (Scene View and Camera  Unity Tutorial)
+https://youtu.be/VrsOgNz-NP4&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+How to Enable SSAO in URP! (Better Unity Graphics  Screen Space Ambient Occlusion)
+https://youtu.be/z7LwThH-Ayc&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Simple Framerate FPS Counter in 30 SECONDS!
+https://youtu.be/I2r97r9h074&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+SMOOTH with LERP! (Move, Rotate, Float) #shorts
+https://youtu.be/jAN2IoWdPzM&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Minimap in 60 SECONDS! #shorts
+https://youtu.be/pd17u2SFdSk&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Compact or Verbose  #shorts #unity #gamedev
+https://youtu.be/AUcpONOhTps&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Constant Movement VS Fast then Slow #shorts #unity #gamedev
+https://youtu.be/bQFTnlpt1b0&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Custom Icons for your Game Objects! #shorts #unity #gamedev
+https://youtu.be/z_wRdoGMKoY&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Don't go insane! Learn about these buttons! #shorts #unity #gamedev
+https://youtu.be/qa5WBatZ830&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Don't waste your memory! Copy Paste Component Values! #shorts #unity #gamedev
+https://youtu.be/zcNWuOA8jQw&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Easy Visuals with White Pixel! #shorts #unity #gamedev
+https://youtu.be/2dXP8N9ujS4&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Having trouble dragging multiple references Lock Inspector #shorts #unity #gamedev
+https://youtu.be/7CCZpxmfho8&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Inspector Multi-tips! (Double, Lock, Debug) #shorts #unity #gamedev
+https://youtu.be/9Sq5MDrSAPk&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Keep your Project Clean! NO unused Assets! #shorts #unity #gamedev
+https://youtu.be/URHoCQ-_WLc&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Magic Numbers! #shorts #unity #gamedev
+https://youtu.be/CQ5xHgRZGQo&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Moving Faster Diagonally 1.4 #shorts #unity #gamedev
+https://youtu.be/YMwwYO1naCg&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Test EVERY Framerate! #shorts #unity #gamedev
+https://youtu.be/Jl6lvICnMJE&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Text or Visual Better Data Representation! #shorts #unity #gamedev
+https://youtu.be/fFyujnpvob4&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+
+Unity Tip Unity Crashed! Why (Log files) #shorts #unity #gamedev
+https://youtu.be/2ta9-N3kvYs&list=PLzDRvYVwl53uHV36abTLYNmg5jHGQ7SI4
+Quick Unity Tips #shorts #unity #gamedev

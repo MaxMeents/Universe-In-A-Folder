@@ -1,0 +1,73 @@
+
+building a ReactJS Infinite scroll datatable from scratch
+https://youtu.be/Pj_wYgCkjqI
+
+Building Websites using NextJS and TailwindCSS - Installation and Setup  [JavaScript 20201]
+https://youtu.be/Ak31wWRidRQ
+
+Common JavaScript Interview Challenges Solved!
+https://youtu.be/sG-SM3VoPo0
+
+Creating Complex Forms in ReactJS - Collections, Validations, Flow
+https://youtu.be/oHG8ql2rPE4
+
+Deconstructing and building array from scratch in JavaScript (Data Structures and Algorithms)
+https://youtu.be/o3mNj2N5m2U
+
+Dump MomentJS! Use THIS instead! [JavaScript 20201]
+https://youtu.be/mfG4BVCRkEQ
+
+EASY Authentication for NextJS Apps! NextAuth.js
+https://youtu.be/Ei-qKP3B49E
+
+FREE Intro to ReactJS Course! Build an online store, local storage, using react context! (DAY 2)
+https://youtu.be/YTTXHGUKsIQ
+
+Free ReactJS Course - Build a spa website using react js, react router, json, usestate (Day 1)
+https://youtu.be/_1YojDFZEfU
+
+Free ReactJS Course - Online Store - Cart Page, Checkout page, React Context (Day 3)
+https://youtu.be/wzQBhLcbU1k
+
+Hosting your own NodeReactNext App using a VPS - LinodeDigital Ocean
+https://youtu.be/6OAv52NEvfo
+
+How to think like a programmer (JavaScriptReactJS) TETRIS - DAY 1!
+https://youtu.be/arX8I7H3zlM
+
+Let's Build a Calendar using our custom JavaScript Generators and date-fns library  [2021]
+https://youtu.be/LlBnZnYek_Q
+
+Let's build a POLL with ReactJS (Part 1)
+https://youtu.be/3vKzqI7NsiU
+
+Let's build a POLL with ReactJS (Part 2)
+https://youtu.be/9tFSPjbdDHk
+
+Node + ReactJS Chat! Persisting Messages to MongoDB
+https://youtu.be/RyRVaXp2d3w
+
+React Chat Custom Hook! Websockets and NodeJS + React 17
+https://youtu.be/sPVS2Z5dI8A
+
+React Chat! Websockets and NodeJS + React 17
+https://youtu.be/3ulUHKx3dx4
+
+ReactJS DataTables - Render Props, Sorting (Part 1)
+https://youtu.be/70wozHFsZFo
+
+ReactJS Form State in 3 techniques! (useState, useReducer, custom react hook)
+https://youtu.be/DdWW_U6caMY
+
+ReactJS Online Store - Checkout using Stripe (with hooks api)
+https://youtu.be/I6ucrA3Ktfw
+
+SearchFilter DataTables (Virtualization) in ReactJS
+https://youtu.be/RI1Q1XcHicQ
+
+Solving Interview Questions in JavaScript
+https://youtu.be/RTZ1OEcujts
+
+Tetris, Block Movement and Rotation
+https://youtu.be/iAGokSQQxI8
+Videos 1-25

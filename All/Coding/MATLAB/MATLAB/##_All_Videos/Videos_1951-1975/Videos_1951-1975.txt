@@ -1,0 +1,76 @@
+
+An Interactive Tool for Using Landsat 8 Data in MATLAB
+https://youtu.be/_nPXiU1GtEk
+
+Calibrating Simulated Response of Generation Equipment to Real Response, Part 1 Overview
+https://youtu.be/qOCpZNeAMhE
+
+Calibrating Simulated Response of Generation Equipment to Real Response, Part 2 Offline Bump Tests
+https://youtu.be/934zpoF8Fnw
+
+CAN Communication with Your ECUs and the Vehicle Network Toolbox
+https://youtu.be/JZy0fLeVkUs
+
+Continental Automotive Components Adopts MILSILPIL Testing Mechanisms for Models and Software
+https://youtu.be/ndg4EUNkw9w
+
+Developing a New Control Unit Using an FPGA
+https://youtu.be/9s40JK_uwxA
+
+From Model to Racing in Five Minutes
+https://youtu.be/cIKaPUaOptg
+
+Generating DPI C Models from MATLAB Using HDL Verifier
+https://youtu.be/ujSBTA3v8eA
+
+Getting Started with MATLAB System Block
+https://youtu.be/2oRCoaJiWUo
+
+Getting Started with the Simulink Data Dictionary
+https://youtu.be/6fOSCzoDhT4
+
+Introduction to Embedded Coder for BeagleBone Black
+https://youtu.be/K6Uzv_AitEQ
+
+Model a Discrete Event System, Part 8 Resources
+https://youtu.be/Tsas4o6JEqc
+
+Modeling Physical Components, Part 1 Mathematical Models
+https://youtu.be/alFPhyrfmC4
+
+Principles of Control Design
+https://youtu.be/stiDxFSKMNI
+
+Signal Processing Design Using MATLAB and CC++
+https://youtu.be/WvlXQ5TH8q8
+
+State Space Models, Part 1 Creation and Analysis
+https://youtu.be/wXzlhUzhqao
+
+State Space Models, Part 2 Control Design
+https://youtu.be/RC7_nRZKGgE
+
+STM32F4 Discovery Board Programming with Embedded Coder
+https://youtu.be/qNWsp3TyI1Y
+
+Torque Vectoring - Controller Design, Tuning, and Testing
+https://youtu.be/tcmJMzLDrkU
+
+Transfer Functions in MATLAB
+https://youtu.be/7-IsUm0hDMg
+
+Using MATLAB and Arduino for Motor Control
+https://youtu.be/H1KPlms7s90
+
+Using MATLAB and Arduino to Acquire Analog Signals
+https://youtu.be/zzrV32z1jnU
+
+Using MATLAB and Raspberry Pi for Face Detection
+https://youtu.be/A2LY-Fu5yAU
+
+Using Simulink to Program Raspberry Pi for Image Inversion
+https://youtu.be/3Bcw2VzlFA0
+
+When to Use a Data Dictionary
+https://youtu.be/gEkjVAqv_2M
+Videos 1951-1975

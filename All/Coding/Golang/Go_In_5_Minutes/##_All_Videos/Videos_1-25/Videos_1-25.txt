@@ -1,0 +1,76 @@
+
+Advanced Uses of nethttp (Episode 32)
+https://youtu.be/kbQApnjjYbU
+
+An Introduction to Go Modules (Episode 27)
+https://youtu.be/71hgdExuCbg
+
+Buffalo Series #1 - Getting Started with Buffalo to Build Awesome Websites (Episode 21)
+https://youtu.be/ZIVt9nghY3Y
+
+Buffalo Series #2 - Advanced Routing with Buffalo - (Episode 22)
+https://youtu.be/HOSDxHMiHLk
+
+Buffalo Series #3 - Resource Paths in Buffalo (Episode 24)
+https://youtu.be/GZAH1qlcwdU
+
+Buffalo Series #4 - Templating in Buffalo with Plush (Episode 25)
+https://youtu.be/VMi0mDtLCq4
+
+Building REST APIs in Go Separating Concerns (Episode 11)
+https://youtu.be/xRF0xdouqT8
+
+Building Web Pages Using the htmltemplate Package (Episode 14)
+https://youtu.be/Fr5cdsOZfGw
+
+Commonly used & popular packages and Frameworks for Real Life Go Development (Episode 23)
+https://youtu.be/nO2JtrMvTQE
+
+Concurrency in Go Eating Tapas (Episode 12)
+https://youtu.be/O8c8kDB8Iy8
+
+Concurrency in Go The Daily Walk (Episode 10)
+https://youtu.be/ylWpMN3UREo
+
+Implementing Login with GitHub in your Buffalo Webapp (Episode 29)
+https://youtu.be/Ov_8LXZmX6A
+
+Integrating a Database into your Buffalo Webapp (Episode 30)
+https://youtu.be/2moKP-FBPnw
+
+Parsing Unknown JSON Input (Episode 19)
+https://youtu.be/52yMK6p_cAg
+
+Profiling Your Go Programs (Episode 8)
+https://youtu.be/7LCgsfHlMv4
+
+The Optional Singleton Pattern in Go (Episode 9)
+https://youtu.be/kZ1YwEH-OdQ
+
+Using Go Modules with Module Servers and the Athens Project (Episode 28)
+https://youtu.be/P3P9NINDW1k
+
+Using Subtests in your Go Programs (Episode 16)
+https://youtu.be/vwPPuEjXY-A
+
+Using the databasesql Package (Episode 13)
+https://youtu.be/nros7z5z-7M
+
+Using the Echo Web Framework to Write Quick Webapps (Episode 31)
+https://youtu.be/aCMcKq5G_xM
+
+Using the error Interface for Richer APIs (Episode 17)
+https://youtu.be/R3Dp2x7BrtE
+
+Vendoring Your Dependencies in Go (Episode 7)
+https://youtu.be/AIo0UBcvnPg
+
+Writing Better Tests with Suites (Episode 20)
+https://youtu.be/z-LFbV8kiMM
+
+Writing Command Line Applications in Go (Episode 18)
+https://youtu.be/oeFrGpAjm8s
+
+Writing REST API Clients with Go (Episode 26)
+https://youtu.be/yJbrjz00COk
+Videos 1-25

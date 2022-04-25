@@ -1,0 +1,37 @@
+
+How to Build a Ruby Web Application Without Rails
+https://youtu.be/tt6JMIMdU4k&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+How to Implement a Search Feature in Ruby on Rails
+https://youtu.be/s88Uc0InOAM&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+How to Use Rails Helper Methods
+https://youtu.be/jASswaHkCbk&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+How to Use Scopes in Ruby on Rails
+https://youtu.be/j_r6QcqLWAc&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+HTTP Overview For Ruby Developers
+https://youtu.be/dgbsOMtjQCg&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+Rails Fundamentals MVC (Model-View-Controller) + Routing
+https://youtu.be/FCkWggKBugA&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+Rails Methods Explained Blank & Present (With Examples)
+https://youtu.be/USCQZ8Fjbhk&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+Rails Methods Sum, Average, Maximum & Group
+https://youtu.be/lgh6uGvlz7o&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+Ruby on Rails What's The Difference Between Joins & Includes
+https://youtu.be/hfPCQgOQ7jI&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+Understanding Rails find_by & where
+https://youtu.be/vFwemoi4UYs&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+Understanding The Rails Asset Pipeline
+https://youtu.be/maTYAac1ESI&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+
+What's Inside The Rails Database Folder
+https://youtu.be/_ZX4rzsBdhU&list=PL6Eq_d2HYExehPsZdaO_ak5FJTfjwmy5n
+Ruby Web Applications

@@ -1,0 +1,76 @@
+
+Excel’s countif sumif and averageif in Power BI
+https://youtu.be/q7NH_uzkWJ4
+
+Excel’s countifs sumifs and avergaeifs in power bi
+https://youtu.be/Si364zvD1Yc
+
+Finding First Order Date in Entire data or by each category in Power BI
+https://youtu.be/lBVKKpmNDf4
+
+How to Calculate Last N Days Value or Future N values in Power BI Using Dax Function DateADD
+https://youtu.be/7IovvYaEe20
+
+How to Calculate Monthly Running Total using Power BI DAX Function DatesMTD
+https://youtu.be/zZUoVcdMsSk
+
+How to Calculate or Summarize Values Between Two Dates using Power BI DAX function DatesBetween
+https://youtu.be/RH785pBFwDI
+
+How to Calculate Quarterly Running Total using Power BI DAX Function DatesQTD
+https://youtu.be/vCQQVDH1mdw
+
+How to Calculate Values in Specific Time Period using DatesInPeriod Power BI DAX Function
+https://youtu.be/bPfRu6gtMd0
+
+How to Calculate Yearly Running Total using Power BI DAX Function DatesYTD
+https://youtu.be/WNMwTCtjeZc
+
+How to Create a Custom Power BI Table using in built create table feature
+https://youtu.be/FL0yDE-VLP4
+
+How to Create a New Summarized Table from Existing Table in Power BI
+https://youtu.be/-q-k3r_mNkE
+
+How to find the value at the last day of quarter using Power BI Dax Function ClosingBalanceQuarter
+https://youtu.be/ccZ1C2J7uHg
+
+How to Find Unique and Duplicate Values Count in Power BI Based on Multiple Conditions
+https://youtu.be/DMHNGfcHzZ8
+
+How to Summarize Values in Power BI Regardless of Filter using DAX Function AllExcept
+https://youtu.be/KQq988-_Cyg
+
+Power BI Business Dashboard Design Example for Analyzing Superstore Sales Performance
+https://youtu.be/JeH8Bf3r528
+
+Power BI Customer Analytics KPI Dashboard Example for Superstore Sales  Practice Project
+https://youtu.be/TqPHKaw9vdg
+
+Power BI Dashboard for Twitter for Analyzing Tweets  Design  Idea  Project
+https://youtu.be/A8bTMHIOnzE
+
+Power BI DAX Formula on How to find best selling product Name and display it in visualization
+https://youtu.be/sAqJ2D-akiQ
+
+Power BI DAX Function ClosingBalanceYear to Capture Values on the Last of Year
+https://youtu.be/rmFFplN6yKM
+
+Power BI DAX Function To Find Unique or Duplicate Values in Power BI
+https://youtu.be/0oXThzJLkWg
+
+Power BI KPI Dashboard Design for Financial Complaints
+https://youtu.be/YU3Gd2fX1Ac
+
+Power BI KPI Dashboard Project for HR Analytics
+https://youtu.be/KYP3jWq5w0o
+
+Tableau Dashboard for Organizational Human Resource Diversity Metrics and Charts
+https://youtu.be/h8EDSywZlHc
+
+Tableau HR Analytics KPI Dashboard Project for Beginners
+https://youtu.be/_Q6HXSZ7UyM
+
+[Power BI] How to Calculate the Sales Value of Best Selling Product using DAX
+https://youtu.be/y6EEI9lVbR8
+Videos 26-50

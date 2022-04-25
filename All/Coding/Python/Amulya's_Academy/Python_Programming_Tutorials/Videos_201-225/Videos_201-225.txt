@@ -1,0 +1,76 @@
+
+Circular Linked List  Data Structures
+https://youtu.be/YcAa4JFvkbM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Delete Any Node By Value in Linked List  Delete At the End  Python Program
+https://youtu.be/wjW6Zhf-bqw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Delete The First Node in Linked List  Delete At the Beginning  Python Program
+https://youtu.be/LiWt1PUxBbQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Delete The Last Node in Linked List  Delete At the End  Python Program
+https://youtu.be/ApqPeIi_gJk&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Doubly Linked List  Data Structures
+https://youtu.be/jDCEOqY_Uuw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Doubly Linked List  Program  Deletion Operation  Data Structures
+https://youtu.be/50vOpFLB428&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Doubly Linked List  Program  Insertion Operation  Part 1  Data Structures
+https://youtu.be/bsVWTyMVRME&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Doubly Linked List  Program  Insertion Operation  Part 2  Data Structures
+https://youtu.be/gQmbLw007bI&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Doubly Linked List  Program  Traversing Operation  Data Structures
+https://youtu.be/yZf7XqFYU24&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Guess The Output 14  Python Programs And Answers  Interview Questions
+https://youtu.be/zBjELri487I&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Guess The Output 15  forwhile else  Python Programs And Answers  Interview Questions
+https://youtu.be/p49p2gFcW6g&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Guess The Output 16  List And Tuple  Python Programs And Answers  Interview Questions
+https://youtu.be/1ck7uDkiIH4&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Guess The Output 17  While Loop and Empty String  Python Programs  Interview Questions
+https://youtu.be/ZIn50pLEOMk&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+InsertingAdding Elements After The Given Node in The Linked List  Python Program
+https://youtu.be/enRNwavYa9U&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+InsertingAdding Elements At The Beginning Of The Linked List  Python Program
+https://youtu.be/B-zO18TJKYQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+InsertingAdding Elements At The End Of The Linked List  Python Program
+https://youtu.be/o8tWJCFWEPU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+InsertingAdding Elements Before The Given Node in The Linked List  Python Program
+https://youtu.be/8-liQuPp34A&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+InsertingAdding Elements To The Empty Linked List  Python Program
+https://youtu.be/jLLR0W_XeGw&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Program To Change The Case Of The Given String
+https://youtu.be/hYIL0tof3oQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Program To Print All The Factors Of Given Number
+https://youtu.be/nUhF4-QoP34&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Program To Reverse And Add Until A Palindrome
+https://youtu.be/JIvwgX69_Ds&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Happy Numbers
+https://youtu.be/tNOYnyPnSlk&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Star Pattern  Python Pattern Program
+https://youtu.be/zPaSrA9jaMI&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+String Pattern  Python Pattern Programs
+https://youtu.be/HNJLx6h7ffI&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+User Input For List  Python Programs
+https://youtu.be/INDmGRIiyZg&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+Videos 201-225

@@ -1,0 +1,76 @@
+
+Advance Function Practice 1  Python tutorial 158
+https://youtu.be/inXF1cRRNYA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Advance min() and max()  Python tutorial 162
+https://youtu.be/06jKP9eOODo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Advance sorted function  Python tutorial 163
+https://youtu.be/hkAYlhf0zjA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+any and all function  Python tutorial 160
+https://youtu.be/FaF7qgNjfcw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+any and all practice  Python tutorial 161
+https://youtu.be/cz7vpBnP974&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 11 summary  Python tutorial 149
+https://youtu.be/HT3qWsQCWd8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 14 Exercise 1  Python tutorial 173
+https://youtu.be/RRw-KfJp_Og&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 14 Intro
+https://youtu.be/67zrT8w9Elk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Closures Practice  Python tutorial 168
+https://youtu.be/weYKgSCQMis&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Decorators Intro  Python tutorial 169
+https://youtu.be/7pgo4gV38fE&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Decorators Part 2  Python tutorial 170
+https://youtu.be/Y4g41W4ZM4I&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Decorators part 3  Python tutorial 171
+https://youtu.be/osiEiq3J0Y4&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Decorators Practice  Python tutorial 172
+https://youtu.be/dUffZZxSoXc&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Enumerate function  Python tutorial 152
+https://youtu.be/5Rdf5T5rbCM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 2 Solution  Python tutorial 148
+https://youtu.be/AupqwyDFjrw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Filter Function Python tutorial 154
+https://youtu.be/ms13AMj3yVk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Function returning function  Python tutorial 167
+https://youtu.be/Y2l2BjjlMzI&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Iterator vs Iterable  Python tutorial 155
+https://youtu.be/oONgcBDMA_8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Lambda Expression  Python tutorial 150
+https://youtu.be/4m0_xiqebKA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Lambda Expression Practice  Python tutorial 151
+https://youtu.be/jTVjc-GzFLw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Map function Python tutorial 153
+https://youtu.be/PHF9G4HxHIU&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+More about functions  Python tutorial 164
+https://youtu.be/EspD76k4Jro&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Pass function as argument  Python tutorial 166
+https://youtu.be/gSbno-64ETc&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Zip function  Python tutorial 156
+https://youtu.be/lyho3hHE1tM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Zip function part 2  Python tutorial 157
+https://youtu.be/JJpfaaf9DhM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+Videos 151-175

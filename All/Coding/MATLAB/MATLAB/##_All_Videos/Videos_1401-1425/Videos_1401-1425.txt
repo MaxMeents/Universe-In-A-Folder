@@ -1,0 +1,76 @@
+
+Building Graphical Aircraft Design Tools
+https://youtu.be/Bn3tM-orTd8
+
+Comparing Different Fixed Point Data Types for Efficient Design - MATLAB Tutorial
+https://youtu.be/G-eBfcFzTuA
+
+Converting Double Precision Design to Embedded Efficient Fixed Point Design - MATLAB Tutorial
+https://youtu.be/zX44UvyLeAc
+
+Deploying Standalone ROS Nodes from Simulink
+https://youtu.be/muqdz7PGzgE
+
+Embedded PID Autotuner - Simulink Tutorial
+https://youtu.be/lOOxVE5RtsU
+
+Explore, Pick, Iterate Three Steps for Antenna Design - MATLAB and Simulink Tutorial
+https://youtu.be/FaXYhg9Ur4E
+
+Generate CUDA Code for a Fog Rectification Algorithm
+https://youtu.be/5mcoWAzgxj8
+
+Generating FPGA Implementation Metrics for an LTE HDL Toolbox Block - MATLAB and Simulink Tutorial
+https://youtu.be/jzHE35tW4DM
+
+Getting Started Using Xilinx Zynq with Computer Vision System Toolbox
+https://youtu.be/C0ra9MF04GM
+
+Getting Started with MATLAB and ROS
+https://youtu.be/KPlzSsWWfLE
+
+Getting Started with Portfolio Optimization
+https://youtu.be/d7tnNKTh_A4
+
+Getting Started with Simulink and ROS
+https://youtu.be/nHVGhwDD4VU
+
+How to Model Run-Time Software with Simulink
+https://youtu.be/EbxKEpHJrY8
+
+How to Model Software Services with Simulink Functions
+https://youtu.be/pWYUh5YEmSo
+
+How to Use a Kalman Filter in Simulink  Understanding Kalman Filters, Part 6
+https://youtu.be/ouRM4sgoVs8
+
+How to Use an Extended Kalman Filter in Simulink  Understanding Kalman Filters, Part 7
+https://youtu.be/bCsOdnADuAM
+
+How to Use the Database Explorer App - MATLAB Tutorial
+https://youtu.be/AzuBUGpYjsY
+
+Image Segmentation App - MATLAB and Simulink Tutorial
+https://youtu.be/fRLKneSxazE
+
+PCB Antenna Design Simulation and Fabrication with MATLAB
+https://youtu.be/toRYAHkrqyU
+
+Signal Tracing - Simulink Tutorial
+https://youtu.be/6k6cQu6v_4Y
+
+Simulation Manager - Simulink Tutorial
+https://youtu.be/1OwTU7twHw8
+
+Stateflow Quick Start for Student Competition Teams
+https://youtu.be/jvEqrmA-t0w
+
+Vehicle Modeling Using Simscape Multibody
+https://youtu.be/VWLpZk9s5FA
+
+What is Fixed Point Designer - Fixed Point Designer Overview
+https://youtu.be/umnIxhuU5tE
+
+What is Simulink Control Design -  Simulink Control Design Overview
+https://youtu.be/jJbmQkgVClA
+Videos 1401-1425

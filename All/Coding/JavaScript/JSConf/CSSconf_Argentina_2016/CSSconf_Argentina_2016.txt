@@ -1,0 +1,31 @@
+
+Alice in Web Animations API Land - Rachel Nabors
+https://youtu.be/q6F-2t4mv6U&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+Building and maintaining messenger.com - Horia Dragomir
+https://youtu.be/eWIwQFqjVxU&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+CSS Grids or How I learned to Stop Worrying and love the new spec - Ariel Wiznia
+https://youtu.be/rOB6fVQVvsw&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+CSSconf Argentina 2016
+https://youtu.be/n1ibVVoMpEM&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+Game Dev for Web Designers - Werther Azevedo
+https://youtu.be/tjnk1zjsWUY&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+Practical Blend Modes - Una Kravets
+https://youtu.be/4opL0dLJMGA&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+Refactoring CSS Without Losing Your Mind - Harry Roberts
+https://youtu.be/kbGYPm9uYfk&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+Slippy Map Style Geo-canvas design with CartoCSS - Aurelia Moser
+https://youtu.be/NxxDE5EEItY&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+Speed up! Critical CSS to the rescue (Spanish) - Ami Reynoso
+https://youtu.be/VLobYS2ILpg&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+
+What NOT to do in CSS (Spanish) - Sergio Behrends
+https://youtu.be/WRnf0n2FSz4&list=PL37ZVnwpeshH43ChP2G5cBWoCniUj5LHa
+CSSconf Argentina 2016

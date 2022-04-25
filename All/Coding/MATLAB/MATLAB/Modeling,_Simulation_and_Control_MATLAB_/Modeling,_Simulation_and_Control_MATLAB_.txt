@@ -1,0 +1,52 @@
+
+Control Design for Robot Throwing Systems
+https://youtu.be/1yQ8iuHAm0o&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Controlling Robot Manipulator Joints
+https://youtu.be/cmgOqrd2yiY&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Deep Reinforcement Learning for Walking Robots - MATLAB and Simulink Robotics Arena
+https://youtu.be/6DL5M9b2j6I&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Designing Robot Manipulator Algorithms
+https://youtu.be/5DnKot3mMSc&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Estimating Bouncing Ball Contact Parameters
+https://youtu.be/o5NLrhK2lnM&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+LQR Control of an Autonomous Underwater Vehicle - MATLAB and Simulink Robotics Arena
+https://youtu.be/py4ZFnMfu5E&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Model-Based Control of Humanoid Walking
+https://youtu.be/jnJbXdp2wak&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Modeling and Simulation of an Autonomous Underwater Vehicle
+https://youtu.be/ogSQXPyt504&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Modeling and Simulation of Walking Robots
+https://youtu.be/qMx1nbi5lUs&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Programming Robot Swarms
+https://youtu.be/4BdY8MPud48&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Programming Soccer Robot Behavior
+https://youtu.be/7Lsnwux6d0Y&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Simulating Mobile Robots with MATLAB and Simulink
+https://youtu.be/7p2McZCKvus&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Simulating Pneumatic Robot Actuators
+https://youtu.be/g_TeErlJJX0&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Simulating Robot Throwing Mechanisms
+https://youtu.be/EvBOd1t97kE&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+System Identification of Blue Robotics Thrusters
+https://youtu.be/RU_LOtrE0Bo&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Trajectory Planning for Robot Manipulators
+https://youtu.be/Fd7wjZDoh7g&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+
+Walking Robot Pattern Generation
+https://youtu.be/axK-YVEGReo&list=PLn8PRpmsu08rdL7jwgrQjewdFXxDHbyIV
+Modeling, Simulation and Control MATLAB and Simulink Robotics Arena

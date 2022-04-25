@@ -1,0 +1,61 @@
+
+Alphabet Pattern - Printing Alphabet in Right Triangle Shape  Python Programs
+https://youtu.be/5605NysRJCU&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Guess The Output 14  Python Programs And Answers  Interview Questions
+https://youtu.be/zBjELri487I&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Guess The Output 15  forwhile else  Python Programs And Answers  Interview Questions
+https://youtu.be/p49p2gFcW6g&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Guess The Output 16  List And Tuple  Python Programs And Answers  Interview Questions
+https://youtu.be/1ck7uDkiIH4&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Guess The Output 17  While Loop and Empty String  Python Programs  Interview Questions
+https://youtu.be/ZIn50pLEOMk&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Number Pattern  Part 1  Python Pattern Programs
+https://youtu.be/n1iyraKXykY&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Number Pattern  Part 2  Python Pattern Programs
+https://youtu.be/-DUycgfaQVM&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Number Pattern - Reverse Floyd's Triangle
+https://youtu.be/tk3btsY1Rao&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Pattern Program - Printing stars and Numbers in Diamond Shape  Right Triangle Shape
+https://youtu.be/w3VmqwxfTlU&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Program To Change The Case Of The Given String
+https://youtu.be/hYIL0tof3oQ&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Program To Check Power of 2  Bitwise Shift Operator  Programming Challenge 3
+https://youtu.be/QCV2mRuC8zc&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Program To Convert Given Integer To Roman Numerals  Programs
+https://youtu.be/onNZOEEVSRw&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Program To Print All The Factors Of Given Number
+https://youtu.be/nUhF4-QoP34&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Program To Print All The Non-Empty Substring Of Given String
+https://youtu.be/8qHVcp3gYoc&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Program To Reverse And Add Until A Palindrome
+https://youtu.be/JIvwgX69_Ds&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Python Tutorials - Happy Numbers
+https://youtu.be/tNOYnyPnSlk&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Reverse The Given String Using Recursion  Python Programs  Interview Question And Answer
+https://youtu.be/FsKTGp97HwE&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+Star Pattern  Python Pattern Program
+https://youtu.be/zPaSrA9jaMI&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+String Pattern  Python Pattern Programs
+https://youtu.be/HNJLx6h7ffI&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+
+User Input For List  Python Programs
+https://youtu.be/INDmGRIiyZg&list=PLzgPDYo_3xulOYHoVsg7uASoF-OE3GE-S
+Videos 76-95

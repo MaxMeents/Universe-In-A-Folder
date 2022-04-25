@@ -1,0 +1,76 @@
+
+Authentication in SwiftUI App Using JSON Web Token (JWT)
+https://youtu.be/iXG3tVTZt6o
+
+AWSAmplify DataStore with
+https://youtu.be/JQiCCdDUBcQ
+
+Building a NearMe App in SwiftUI Using MVVM Pattern
+https://youtu.be/Rhni99ZrLd4
+
+Composable Views Using @ViewBuilders in SwiftUI
+https://youtu.be/gISy5DWGmI8
+
+Core Data Debug Flags and SQLite
+https://youtu.be/zou3BvxBoP0
+
+Core Data in SwiftUI Using MVVM Design Pattern
+https://youtu.be/ehV2gp5uVhs
+
+Enums as Models in Swift Language
+https://youtu.be/VYvnYvaq7b8
+
+Getting Started with GraphQL in SwiftUI
+https://youtu.be/EYh78v8ay14
+
+Gradients in SwiftUI
+https://youtu.be/pHtNwgIhUm4
+
+Implementing @FetchRequest in SwiftUI
+https://youtu.be/AhT1dJM8WvY
+
+Implementing Apollo GraphQL Server Using Node with SwiftUI Client
+https://youtu.be/fTasFRbsEnQ
+
+iOS DC Meetup Talk - Architecting SwiftUI Apps Using MVVM Pattern
+https://youtu.be/W7InaBpdm8o
+
+Multi-Column Picker View in SwiftUI
+https://youtu.be/tRGxp-8mHnY
+
+My Talk on MVVM and SwiftUI Apps from Swift Heroes Digital 2020
+https://youtu.be/UpfyYfXgYMs
+
+NEW COURSE - Core Data in iOS
+https://youtu.be/PDrKvQrgAQQ
+
+NEW COURSE - Passive Income for Developers
+https://youtu.be/cZf7sI8b4wY
+
+SwiftUI & GraphQL - Showing Country Details
+https://youtu.be/ZaUGgQz0u-8
+
+Weather App Using SwiftUI - Part 1 (Introduction)
+https://youtu.be/J6k4cVhbu6w
+
+Weather App Using SwiftUI - Part 2 (Decoding JSON)
+https://youtu.be/V5EDE5CNKvc
+
+Weather App Using SwiftUI - Part 3 - Implementing View Models
+https://youtu.be/Bc7yJyW035s
+
+Weather App Using SwiftUI - Part 4 - Presenting Sheets for WeatherListScreen and AddCityScreen
+https://youtu.be/HWR5ikCSTmo
+
+Weather App Using SwiftUI - Part 5 - Adding Weather to Environment Object
+https://youtu.be/4l7uuBtFniM
+
+Weather App Using SwiftUI - Part 6 - Displaying Weather on Screen
+https://youtu.be/8azMfDfSvXg
+
+Weather App Using SwiftUI - Part 7 - Saving Temperature Unit
+https://youtu.be/NhVBn1Tgqu8
+
+Weather App Using SwiftUI - Part 8 (Last Part) - Displaying Converted Temperature on Screen
+https://youtu.be/koP6uPDtIRo
+Videos 101-125

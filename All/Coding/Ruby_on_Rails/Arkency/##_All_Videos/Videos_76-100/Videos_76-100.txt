@@ -1,0 +1,76 @@
+
+Are other industries avoiding programmers
+https://youtu.be/hCeWOq5CVQw
+
+B2D Business to Developers explained
+https://youtu.be/9TYTPbZPtRE
+
+Bounded Contexts Domain Exploration Productivity App
+https://youtu.be/PJkGcAX8myE
+
+Duck typing - Rails Architect MasterClass
+https://youtu.be/59TKT5EMUJo
+
+How a new Ruby conference Saint Petersburg Ruby Conf came to be a big success
+https://youtu.be/9RoTdy3zfSs
+
+How Arkency works in the Ruby economy
+https://youtu.be/doI5F9cKbB0
+
+How many people are needed to build an advanced Ruby IDE
+https://youtu.be/LkR6jSFV-aE
+
+How many Ruby developers are there in the world
+https://youtu.be/XzaGHzTJoe0
+
+Is Ruby a We don't need an IDE community
+https://youtu.be/96klScgf4To
+
+Is Ruby community ready for commercial products
+https://youtu.be/Hzo0htFsJUw
+
+Is RubyMine the most advanced Ruby IDE
+https://youtu.be/l2zIve9v3WM
+
+Rails + CQRS == MVC
+https://youtu.be/czfJfs-Oz10
+
+RESCON 2018 — Sending messages to the future by Szymon Pobiega
+https://youtu.be/WW9xVY3S7jo
+
+Ruby market explained by a professional marketer
+https://youtu.be/85g0kutywJM
+
+Ruby Refactoring Kata - Tennis Game
+https://youtu.be/swokhWHKDmc
+
+Ruby Refactoring Remove the FooOrBar smell + Extract Rules objects
+https://youtu.be/MynMVuWftjs
+
+Ruby Refactoring Replace Conditional with Polymorphism + Replace Object Creation with Factory
+https://youtu.be/Xb_t85MELxc
+
+Ruby Refactoring Replace cryptic boolean predicates with english-like sentences
+https://youtu.be/GmkW37wMIcs
+
+Where do Ruby devs switch to [hint It’s not Elixir]
+https://youtu.be/n6OuLpRMStY
+
+Which RailsEventStore starter applications would you like to see
+https://youtu.be/NTRIPiXCUCw
+
+Why Elixir is not the same kind of revolution as RubyRails
+https://youtu.be/CXC2fpNmNLk
+
+Why every developer struggles with their backlog tool
+https://youtu.be/Ua1bcNJbaBo
+
+Why Ruby is different than Python or Java [hint it’s mostly webdev] 
+https://youtu.be/WE-4P3FStsU
+
+Why would I need RailsEventStore
+https://youtu.be/Dl-S9PV8AqQ
+
+WrocLove.rb 2019 Andrzej Krzywda's Summary
+https://youtu.be/dbjPDTAlwO4
+Videos 76-100

@@ -1,0 +1,76 @@
+
+Alex Gold  Deploying End-To-End Data Science with Shiny, Plumber, and Pins  RStudio
+https://youtu.be/oEcJkBgA5J8&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Alicia Schep  Auto-magic Package Development  RStudio (2020)
+https://youtu.be/LGy5kPWMJnQ&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Amanda Gadrow  Lessons about R I learned from my cat  RStudio (2020)
+https://youtu.be/kee91QUJfBI&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Andrew Mangano  Growth Hacking - Product Analytics at Scale using R and RStudio  RStudio (2020)
+https://youtu.be/_cqdGK1wsVY&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Colin Fay  Production-grade Shiny Apps with golem  RStudio (2020)
+https://youtu.be/SE6TnUV4nC4&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Danielle Navarro  Toward a grammar of psychological experiments  RStudio (2020)
+https://youtu.be/BQMDOxWGrQg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+David Smith  MLOps for R with Azure Machine Learning  RStudio (2020)
+https://youtu.be/Q8xhZ2rLr5g&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Dr. Carson Sievert  Reproducible Shiny apps with shinymeta  RStudio (2020)
+https://youtu.be/HK0Y40bX7JI&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Dr. Sydeaka Watson  Neural Networks for Longitudinal Data Analysis  RStudio (2020)
+https://youtu.be/-XCLkzKvr4c&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Evangeline Reynolds  Flipbooks  RStudio (2020)
+https://youtu.be/9Sgg1lJRM8c&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Fernanda Viegas & Martin Wattenberg  Data, visualization, and designing AI  RStudio (2020)
+https://youtu.be/jvhxHYKzfa8&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Frank Harrell  R for Graphical Clinical Trial Reporting  RStudio (2020)
+https://youtu.be/4gXWQxaBbac&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Hadley Wickham  State of the Tidyverse 2020  RStudio (2020)
+https://youtu.be/OwwYfxB8CA0&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+J.J. Allaire  Open Source Software for Data Science  RStudio (2020)
+https://youtu.be/DskltmWKOVY&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jenny Bryan  Object of type ‘closure’ is not subsettable  RStudio (2020)
+https://youtu.be/vgYS-F8opgE&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Joe Cheng  Styling Shiny apps with Sass and Bootstrap 4  RStudio (2020)
+https://youtu.be/GHBwprI_Py4&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Max Kuhn  Total Tidy Tuning Techniques  RStudio (2020)
+https://youtu.be/amg8bByYwSY&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Mine Çetinkaya-Rundel  Making the Shiny Contest  RStudio (2020)
+https://youtu.be/Tx90IBAmd-s&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Miriah Meyer  Effective Visualizations  RStudio (2020)
+https://youtu.be/BEnLLQaUyzQ&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Nick Strayer  Stochastic Block Models with R Statistically rigorous clustering  RStudio (2020)
+https://youtu.be/_-Z3WLkH_es&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Panel Career Advice for Data Scientists  RStudio (2020)
+https://youtu.be/cF1JvbWtcj8&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Pim Bongaerts  Using data science to help save coral reefs  RStudio (2020)
+https://youtu.be/XlEdUNRnoTg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Podcast  Not So Standard Deviations Episode 100  RStudio (2020)
+https://youtu.be/1KT3eLcOIL4&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Ryan Timpe  Learning R with humorous side projects  RStudio (2020)
+https://youtu.be/oOG-aXP_ICI&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+William Chase  The Glamour of Graphics  RStudio (2020)
+https://youtu.be/h5cTacaWE6I&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+Videos 1-25

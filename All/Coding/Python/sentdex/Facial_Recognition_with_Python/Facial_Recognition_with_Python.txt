@@ -1,0 +1,7 @@
+
+Facial Recognition on Video with Python
+https://youtu.be/PdkPI92KSIs&list=PLQVvvaa0QuDcDqgpLLJJM15NpIGNfrKY5
+
+Facial Recognition with Python and the face_recognition library
+https://youtu.be/535acCxjHCI&list=PLQVvvaa0QuDcDqgpLLJJM15NpIGNfrKY5
+Facial Recognition with Python

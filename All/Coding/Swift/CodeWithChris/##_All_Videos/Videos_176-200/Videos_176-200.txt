@@ -1,0 +1,76 @@
+
+(2020) Swift Tutorial for Beginners Lesson 10 Subclassing and Inheritance
+https://youtu.be/uPw8ankqEOw
+
+(2020) Swift Tutorial for Beginners Lesson 11 UIKit
+https://youtu.be/8r1njDKLs90
+
+(2020) Swift Tutorial for Beginners Lesson 12 Initializers
+https://youtu.be/9GoKcRmy-G0
+
+(2020) Swift Tutorial for Beginners Lesson 13 Optionals
+https://youtu.be/IG_JCxSPa_k
+
+(2020) Swift Tutorial for Beginners Lesson 14 Properties
+https://youtu.be/kDWDTg_RpLA
+
+(2020) Swift Tutorial for Beginners Lesson 15 Designated and Convenience initializers
+https://youtu.be/LxKZf0LyRbA
+
+(2020) Swift Tutorial for Beginners Lesson 2 Data Types
+https://youtu.be/zcLMOTEDd8Y
+
+(2020) Swift Tutorial for Beginners Lesson 2.1 Swift Math Operators
+https://youtu.be/hWqx7p0TF3Q
+
+(2020) Swift Tutorial for Beginners Lesson 3 IF Statements
+https://youtu.be/H_xErt38mWg
+
+(2020) Swift Tutorial for Beginners Lesson 4 Switch Statements
+https://youtu.be/R4U42rkmHDk
+
+(2020) Swift Tutorial for Beginners Lesson 5 Loops (Part 1)
+https://youtu.be/KV7Ts9sm850
+
+(2020) Swift Tutorial for Beginners Lesson 6 Loops (Part 2)
+https://youtu.be/36ipzqIQKIk
+
+(2020) Swift Tutorial for Beginners Lesson 7 Functions (Part 1)
+https://youtu.be/CLmZxVkN9gw
+
+(2020) Swift Tutorial for Beginners Lesson 8 Functions (Part 2)
+https://youtu.be/AT5_lx4PbVM
+
+(2020) Swift Tutorial for Beginners Lesson 9 Classes
+https://youtu.be/43UOxoOuAag
+
+Add Rounded Corners to your Buttons (UIButtons) in One Minute
+https://youtu.be/Mtxqwdjunoo
+
+How To Add an Onboarding  Help Sequence to Your App
+https://youtu.be/mCRW7SlkHeQ
+
+How To Connect a Swift Tableview (UITableView) in One Minute
+https://youtu.be/tKQJN_jc5AY
+
+How To Display Data in a Tableview (UITableView) in One Minute
+https://youtu.be/cJUmrdfgbbA
+
+How To Set The Delegate & Data Source of a Tableview (UITableView) in One Minute
+https://youtu.be/hw9RrXvxuUc
+
+Introducing Badges and Emojis for YouTube Membership!
+https://youtu.be/HxinhmQ0CKg
+
+iOS Training For Schools and Students (Perfect for EdTech teachers)
+https://youtu.be/vzocxVPPfxM
+
+iOS Tutorial (2020) How To Make Your First App
+https://youtu.be/09TeUXjzpKs
+
+SwiftUI - How to do Navigation in your Swift UI app
+https://youtu.be/wbFuAs_UNYg
+
+SwiftUI Basics for Beginners (2020)
+https://youtu.be/IIDiqgdn2yo
+Videos 176-200

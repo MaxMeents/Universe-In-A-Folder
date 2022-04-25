@@ -1,0 +1,76 @@
+
+Android and the Seven Dwarfs by Murat Yener
+https://youtu.be/ut1umHfJ0cc&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Beyond the CAP theorem, consistency without consensus with CRDTs by Sam Bessalah
+https://youtu.be/d8GJMyIGhLw&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Design Patterns in the Light of Lambda Expressions by Subramaniam
+https://youtu.be/e4MT_OguDKg&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Docker platform and ecosystem build, ship and run distributed applications by Patrick Chanezon
+https://youtu.be/6DPBS4yNVpw&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Frege, a Haskell for the JVM by Dierk König
+https://youtu.be/1P1-HXNfFPc&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Getting started with Spring Cloud by Josh Long
+https://youtu.be/SFDYdslOvu8&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Hinting around Android text demystified by Sebastiano PoggiEugenio Marletti
+https://youtu.be/VS7co3TrgKE&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+How to stop wasting your time and start performing useful code reviews by Maria Khalusova
+https://youtu.be/VRnMzMpSeag&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Introduction to Modular Development by Mark ReinholdAlan Bateman
+https://youtu.be/qr4O4SbzihQ&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+It started with a whiteboard in the kitchen by Saskia Vermeer - Ooms
+https://youtu.be/SIb_3OLQaMQ&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Java & DevOps @Global Scale by Ryan McGuinness
+https://youtu.be/QXlRrYeuEq8&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+JSF with PrimeFaces, From Ugly Duckling to a Beautiful Swan by Cagatay Civici
+https://youtu.be/B_lYGUtCd0g&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+JShell An Interactive Shell for the Java Platform by Robert Field
+https://youtu.be/jziVaht480w&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Let's have fun with Pepper robot and Java by Nicolas RigaudJean-Philippe Chatain
+https://youtu.be/LaTqWgfV4hk&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Making Events for local dev Communities by Celestino BelloneFederico Yankelevich
+https://youtu.be/-2efPor33hI&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Open Source Workflows, Business Rules and Case Management live and in action by Bernd Rücker
+https://youtu.be/x9ceAoZt8xw&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Prepare for JDK 9! by Mark ReinholdAlan Bateman
+https://youtu.be/KZfbRuvv5qc&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Principles Of Microservices by Sam Newman
+https://youtu.be/PFQnNFe27kU&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Start using CSS Grid Layout by Rachel Andrew
+https://youtu.be/Felq4z_rdPQ&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Swimming upstream in the container revolution by Bert Jan Schrijver
+https://youtu.be/kE5rxGUFsXU&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+The Borg is docking your system; testing is futile! Or is it by Alex SotoAslak Knutsen
+https://youtu.be/n3h4LJwkKhM&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+The Spring Framework Roadmap by Juergen Hoeller
+https://youtu.be/xNUcR4DSDz0&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+The UI Scripting Language Shootout by Michael Heinrichs
+https://youtu.be/xA2D1X14bvg&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+With BIG data comes BIG responsibility; The curious case of BOL.COM by Mark Nijenhuis
+https://youtu.be/obywVgN3xIg&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Young Pups New Collections APIs for Java 9 by Stuart Marks
+https://youtu.be/OJrIMv4dAek&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+Videos 76-100

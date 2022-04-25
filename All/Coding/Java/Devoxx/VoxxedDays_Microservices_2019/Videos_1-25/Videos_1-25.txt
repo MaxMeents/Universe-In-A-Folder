@@ -1,0 +1,76 @@
+
+7 Reasons why your microservices should use Event Sourcing & CQRS by Hugh Mckee
+https://youtu.be/L9_bMIx0A9o&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Ahead of Time Data Access with Micronaut by Graeme Rocher
+https://youtu.be/CEXb6tnf-EI&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+All you need to know to get started with microservices on Kubernetes by Alain Regnier
+https://youtu.be/YEjzH4iGbHw&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Cloud Native why, oh why by Emmanuel Bernard
+https://youtu.be/85DefrkuLJc&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Cloud Run, serverless containers in action by Guillaume Laforge
+https://youtu.be/trfNtt04KZ4&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Containerization crossroads Experiences-Experiments-Expectations by Ana-maria Mihalceanu
+https://youtu.be/NhR_F0OvWFs&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Creating event-driven microservices the why, how and what by Katherine Stanley
+https://youtu.be/M_ahLEb_fI4&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Deploying Spring Boot microservices on Azure by Julien Dubois
+https://youtu.be/QHSuO922zOU&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Event-Driven Microservices, the Sense, the Non-sense and a Way Forward by Allard Buijze
+https://youtu.be/tdd8w9d_d-c&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+From Zero to Hero with Kafka Connect by Robin Moffatt
+https://youtu.be/Jkcp28ki82k&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+GraalVM and MicroProfile A Polyglot Microservices Solution by Roberto Cortez
+https://youtu.be/V--KSWHwFjk&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Helm your way with Kubernetes by Ana-maria Mihalceanu
+https://youtu.be/8zAwfT7MM0E&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Jakarta EE - Not just for Servers by Chris Bailey
+https://youtu.be/xQsevBWgdxI&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Kubernetes Native JHipster microservices by Pierre Besson
+https://youtu.be/TkUFU4OunTA&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Micro Frontend the microservice puzzle extended to frontend by Audrey Neveu
+https://youtu.be/ptgw9rXt6-U&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Micronaut Deep Dive by Graeme Rocher
+https://youtu.be/Ga7viEefWO0&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Panel on Microservices with M. Rigabert Lemée, S. Stormacq, E. Bernard, A-M. Mihalceanu
+https://youtu.be/P8cymCtvvHA&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Past, Present and Future of Microservices by Sebastien Stormacq
+https://youtu.be/bBmZfg8_lNQ&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Private video
+https://youtu.be/0Jnt_vwLIsk&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Quarkus why, how and what by Emmanuel Bernard
+https://youtu.be/Us4gjBRJo1I&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Supercharge product development with cloud best practices by Sebastien Stormacq
+https://youtu.be/wtx4HqWeRqM&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+The Evolution From Monolith to Microservices to Serverless and Beyond by Hugh Mckee
+https://youtu.be/arxm7llvDdg&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Transactions in your micro-services architecture by Rudy de Busscher
+https://youtu.be/9B21Dc84r8w&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Transforming a monolith to an API platform by Abderrazak Bouadma, Philippe Anes
+https://youtu.be/m66zEpoKtLc&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+
+Welcome to Voxxed Days Microservices 2019 (Antonio Goncalves)
+https://youtu.be/tPQmDLo4voA&list=PLRsbF2sD7JVpajOzt2_6g8IfsoBxGPOwh
+Videos 1-25

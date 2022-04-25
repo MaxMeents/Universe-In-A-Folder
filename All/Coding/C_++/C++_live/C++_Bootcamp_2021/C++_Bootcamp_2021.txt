@@ -1,0 +1,28 @@
+
+C++ Arrays
+https://youtu.be/RDFa5435p_0&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+C++ Classes intro
+https://youtu.be/c_lrzrw90VU&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+C++ Functions
+https://youtu.be/fc2_tgdK498&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+C++ Heap memory
+https://youtu.be/5gRpFLyHnvE&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+C++ Operator overloading
+https://youtu.be/9AznzlpFDeE&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+C++ Preprocessor
+https://youtu.be/T3-bHv46HWg&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+C++ Type overflow, type casting, enums ...
+https://youtu.be/Cd4hzMWAgv4&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+OOP examples
+https://youtu.be/m6g74lBAu8Y&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+
+OOP Polymorphism
+https://youtu.be/TwzynNydWFY&list=PLz_8_OkECqo4PUSUL_NRw0IkZdVnhC_P7
+C++ Bootcamp 2021

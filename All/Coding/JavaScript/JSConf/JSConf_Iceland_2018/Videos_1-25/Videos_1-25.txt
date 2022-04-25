@@ -1,0 +1,76 @@
+
+Abhinav Rastogi Scaling NodeJS beyond the ordinary  JSConf Iceland 2018
+https://youtu.be/K8spO4hHMhg&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Andy Mockler A whirlwind introduction to TypeScript (Lightning Talk)  JSConf Iceland 2018
+https://youtu.be/rJTzA6ohHQA&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Anna Henningsen Node.js Where are we now, where are we going  JSConf Iceland 2018
+https://youtu.be/O3MYg3Tp36s&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Arun Michael Dsouza Houdini - What lies ahead  JSConf Iceland 2018
+https://youtu.be/BalUlHBwwlM&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Bryan Hughes “Works for Me”  JSConf Iceland 2018
+https://youtu.be/M5jb2eEWr0A&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Burke Holland The Best UX Is No UI At All (Lightning Talk)  JSConf Iceland 2018
+https://youtu.be/xEvXhHxTTD8&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Carolyn Stransky Humanizing Your Documentation  JSConf Iceland 2018
+https://youtu.be/FvPXMUuUCS4&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Catherine Meade GitHub Pull Requests for Everyone  JSConf Iceland 2018
+https://youtu.be/LqOcx-CtN0w&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Dan Abramov Beyond React 16  JSConf Iceland
+https://youtu.be/nLF0n9SACd4&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Dan Gebhardt Give Apps Online Superpowers by Optimizing them for Offline  JSConf Iceland 2018
+https://youtu.be/hr135pFCLU8&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+David Khourshid Simplifying Complex UIs with Finite Automata & Statecharts  JSConf Iceland 2018
+https://youtu.be/RqTxtOXcv8Y&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Dominik Kundel XSS, CSRF, CSP, JWT, WTF IDK ¯_(ツ)_¯  JSConf Iceland 2018
+https://youtu.be/c6mqdsfWdmE&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Halldór & Þórður Paint Splatter The making of an interactive artwork  JSConf Iceland 2018
+https://youtu.be/5CljHnVQWUQ&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Istvan Szmozsanszky 2,560 bytes ought to be enough for anyone! (Lightning Talk)
+https://youtu.be/d9PuOyth0Pg&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Kate Compton Creating generative art with Javascript  JSConf Iceland 2018
+https://youtu.be/tJ49bTJ6fbs&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Kristján Oddsson Wouldn’t it be cool if GitHub could… (Lightning Talk)  JSConf Iceland
+https://youtu.be/JRSW4gdzEcg&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Laurens Aarnoudse Hacking the future (Lightning Talk)  JSConf Iceland 2018
+https://youtu.be/-GoYLIc8oNo&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Maja Wichrowska Do the Right (to Left) Thing Directional Content in React  JSConf Iceland 2018
+https://youtu.be/A_3BfONFRUc&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Martin Jurča Accessible select with customizable UI (Lightning Talk)  JSConf Iceland 2018
+https://youtu.be/i5wqXlr3TLk&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Michael Henretty VoiceHTML - Speech Recognition as a Progressive Enhancement  JSConf Iceland 2018
+https://youtu.be/rka9y6yJyX4&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Nicole Chung Sharing is Caring build a peer-to-peer network with WebRTC  JSConf Iceland 2018
+https://youtu.be/ZGPOQOLv1p0&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Opher Vishnia Wait, you can do that with JavaScript…!  JSConf Iceland 2018
+https://youtu.be/JCATu2WkOq8&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Raisa Cuevas Augmented Reality Past, Present, Future  JSConf Iceland 2018
+https://youtu.be/vOy8Qaml5yY&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Sarrah Vesselov How to style in React and not lose friends  JSConf Iceland 2018
+https://youtu.be/V-flI7ui52M&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+
+Will Klein End to End Testing The Game Has Changed  JSConf Iceland 2018
+https://youtu.be/C1D94jWy8uE&list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
+Videos 1-25

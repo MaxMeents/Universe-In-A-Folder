@@ -1,0 +1,19 @@
+
+C++ Log Viewer in C++ [part 2] UI representation
+https://youtu.be/7YEqtaxeyi8&list=PLz_8_OkECqo4tiSU6slhhxzMIhBxdV-Ck
+
+C++ Log Viewer [part 1] Log parser
+https://youtu.be/5Yp34LIse5o&list=PLz_8_OkECqo4tiSU6slhhxzMIhBxdV-Ck
+
+C++ LogViewer [part 3] QML DropArea
+https://youtu.be/Y6wVHLbV3i4&list=PLz_8_OkECqo4tiSU6slhhxzMIhBxdV-Ck
+
+C++ LogViewer [part 4] Support any log file internal format
+https://youtu.be/3zF2j4aIUiM&list=PLz_8_OkECqo4tiSU6slhhxzMIhBxdV-Ck
+
+C++ QML LogViewer [part 5] Set custom titles for table's columns
+https://youtu.be/GWlJLk8zn2M&list=PLz_8_OkECqo4tiSU6slhhxzMIhBxdV-Ck
+
+Writing a logger in C++
+https://youtu.be/7ArjLiB4L8Q&list=PLz_8_OkECqo4tiSU6slhhxzMIhBxdV-Ck
+C++ Logger and QML LogViewer

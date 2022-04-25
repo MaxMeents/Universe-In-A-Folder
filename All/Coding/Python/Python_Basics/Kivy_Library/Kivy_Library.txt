@@ -1,0 +1,61 @@
+
+Python Basics First Kivy App
+https://youtu.be/bkJF_fF8mK4&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Install Kivy Library
+https://youtu.be/pg9eEInZM2A&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Kivy App Class
+https://youtu.be/9UGJpMhXgos&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Kivy BoxLayout Widget
+https://youtu.be/KKCSKteI2mo&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Kivy File
+https://youtu.be/-rea8gBuulk&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Kivy Setup
+https://youtu.be/DWzHyKaYBTA&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial How to Switch Screen in Kivy With ScreenManager
+https://youtu.be/4Buh0A9IbEY&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial How to Tab Between Kivy TextInput
+https://youtu.be/J0VfiimpP08&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy Binding TextInput
+https://youtu.be/6VltTVe-XvM&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy BoxLayout Button on press logic
+https://youtu.be/vncPfVeCKBI&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy BoxLayout Size hint and Orientaion
+https://youtu.be/Dtl6wo2vR68&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy Button Widget
+https://youtu.be/qon0Y7zvNZE&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy Password and Password Mask
+https://youtu.be/5ZZjk3FZVFk&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy TextInput Text
+https://youtu.be/Ka6bRD3ynnE&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy TextInput Widget
+https://youtu.be/cP2WvQ7borI&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Kivy Widget Spacing & Text Alignment
+https://youtu.be/yxSmUzjcA3s&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Requested Video Method to My Madness
+https://youtu.be/Xzazk35pB9s&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Set Kivy Screen to BoxLayout
+https://youtu.be/dVySFXCdO00&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Using Height DP Argument For Kivy BoxLayout Widget
+https://youtu.be/A4f2lnM15uY&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+
+Python Basics Tutorial Write to Sqlite Database from Kivy TextInput
+https://youtu.be/XY8E0QVmwII&list=PLaYT64KWZAEMlwlUWAnUd2K1fUYkLTRiO
+Kivy Library

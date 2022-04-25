@@ -1,0 +1,76 @@
+
+#1 Introduction
+https://youtu.be/wvb8y8iZHrg
+
+#2 MVC Architecture
+https://youtu.be/QFyYJN3hFXY
+
+#3 MVVM Architecture
+https://youtu.be/2w62zAf-5Oc
+
+androidstudio
+https://youtu.be/N2nt0J8MQU0
+
+AR browsing
+https://youtu.be/eq66l9jsExU
+
+Become a Swift Developer - #1 Introduction
+https://youtu.be/TV0X8LGHgmA
+
+Become a Swift Developer - #2 Downloading Xcode
+https://youtu.be/Nt32ruLdkfo
+
+Become a Swift Developer - #3 Xcode Playgrounds
+https://youtu.be/nWcUF7uQUVA
+
+Blockchain in iOS Demo
+https://youtu.be/vGmc5BjU1-k
+
+blockchain javascript
+https://youtu.be/lAUWsnRZPEg
+
+Blockchain Programming in iOS Using Swift
+https://youtu.be/7QNh99fU18k
+
+Blockchain
+https://youtu.be/vUBilHTgK8w
+
+Building Chat App Using Vapor Framework
+https://youtu.be/p-9PyJM1jTo
+
+Chat App Using sockets.io
+https://youtu.be/AOJDQkqy_gs
+
+Custom Machine Learning Model Trained Using Turi Create
+https://youtu.be/h3mhWfPiB1M
+
+hash
+https://youtu.be/7F5SR_SggaY
+
+Implement Loading, Placement, Orienting and Scaling Virtual Objects in iOS Using ARKit
+https://youtu.be/m31x4Tnq-Uc
+
+Mastering MVVM for iOS - Implementing Live Binding Between View and View Model
+https://youtu.be/rD9-ktWI1rs
+
+Mastering MVVM for iOS Udemy Course Released
+https://youtu.be/a3AfnBO7DHE
+
+Portal Using ARKit
+https://youtu.be/FFysuJEHYrA
+
+Progressive Web Apps
+https://youtu.be/pqH4bH8bkQI
+
+Scaling, Rotating and Moving Virtual Objects Using ARKit
+https://youtu.be/fC56Iu4JyaQ
+
+Smart Contracts Using Swift
+https://youtu.be/lSqin2ZHCkY
+
+Understanding Blockchain, Mining, Centralized and Decentralized Ledgers
+https://youtu.be/3UVI6OFCk4w
+
+Vapor Cloud Bug
+https://youtu.be/IsZpUJAVcW4
+Videos 501-525

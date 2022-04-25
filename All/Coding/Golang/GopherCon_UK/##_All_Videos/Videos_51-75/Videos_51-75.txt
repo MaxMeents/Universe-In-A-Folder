@@ -1,0 +1,76 @@
+
+GopherCon UK 2018 Alexandre González - From source code to Kubernetes, a Continuous Deployment tale
+https://youtu.be/MuxkMzFVkKI
+
+GopherCon UK 2018 Amy Chen - Code, Content, & Crafting Your Voice
+https://youtu.be/C5wkhwBhYzI
+
+GopherCon UK 2018 Andre Carvalho - Understanding Go's Memory Allocator
+https://youtu.be/3CR4UNMK_Is
+
+GopherCon UK 2018 Bernd Rucker - Orchestration of Microservices
+https://youtu.be/NBo7d5AG-3s
+
+GopherCon UK 2018 Brian Ketelsen - Athens The Center of Knowledge
+https://youtu.be/_wXf5Oixz28
+
+Gophercon UK 2018 Carmen Ruiz Vicente - Using Go for Healthcare
+https://youtu.be/YWdJlXxFO-U
+
+GopherCon UK 2018 Cassandra Salisbury - Growing a Community of Gophers
+https://youtu.be/awmsp2N6trY
+
+GopherCon UK 2018 Christopher Biscardi - Going GraphQL
+https://youtu.be/FdURVezcdcw
+
+Gophercon UK 2018 Contributor Workshop
+https://youtu.be/jOIS60UVqr0
+
+GopherCon UK 2018 David Hernandez - Secrets about using Machine Learning and Go
+https://youtu.be/rsrRZ8mN5Kk
+
+GopherCon UK 2018 Diana Carolina Ortega Munoz - Deep Learning, Ready Go!
+https://youtu.be/-icuVKErWbA
+
+GopherCon UK 2018 Dmitry Matyukhin - Component & Integration Tests for Micro-services
+https://youtu.be/Hm10y2tP5QQ
+
+GopherCon UK 2018 Eleanor Deal - Go's role in publishing data at the Office for National Statistics
+https://youtu.be/-VxJ7XLdrO4
+
+GopherCon UK 2018 Grant Griffiths - Black Box Monitoring in Go
+https://youtu.be/MAopsd6kdY0
+
+GopherCon UK 2018 Grant Griffiths - Building Resilient Data Pipelines in Go
+https://youtu.be/gm34Aph9v0M
+
+GopherCon UK 2018 Jelmer Snoeck - Experimental Refactoring with Go
+https://youtu.be/9MW4H6kFb7M
+
+GopherCon UK 2018 Kat Zien - How do you structure your Go apps
+https://youtu.be/VQym87o91f8
+
+GopherCon UK 2018 Liz Rice - Debuggers From Scratch
+https://youtu.be/ZrpkrMKYvqQ
+
+GopherCon UK 2018 Mahdi Jelodari - GoPro More Concurrent than Parallel!
+https://youtu.be/IzyEKH8N4aE
+
+GopherCon UK 2018 Matthew Campbell - Blockchain Apps in Go
+https://youtu.be/BzDUl9UrLRg
+
+GopherCon UK 2018 Michael Hausenblas - Three Billy GOats Gruff A Dev's Tale from VMs to Serverless
+https://youtu.be/GUGYJup0xLc
+
+GopherCon UK 2018 Nathan Davies - Reducing Fragmentation in System Architectures
+https://youtu.be/FiMEgS6fGqc
+
+GopherCon UK 2018 Pawel Slomka - Documenting Go Code with Beautiful Tests
+https://youtu.be/TGg6cc0QCzw
+
+GopherCon UK 2018 Sean Kelly - Broadcasting Channels
+https://youtu.be/nG2djhqmSQk
+
+GopherCon UK 2018 Sean Kelly - Go Test Under the Hood
+https://youtu.be/wvDvhFgX7Z8
+Videos 51-75

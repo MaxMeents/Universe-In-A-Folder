@@ -1,0 +1,7 @@
+
+Deploying PHP Applications with Fabric - Oliver Davies - PHPSW Devops, September 2017
+https://youtu.be/HIuTipg4wOA&list=PLrEpsyNSHj00sjyEMgznJ3Gq8TTJGVVCe
+
+Meet Terraform - Michael Heap - PHPSW Devops, September 2017
+https://youtu.be/OzfsM2lPl2w&list=PLrEpsyNSHj00sjyEMgznJ3Gq8TTJGVVCe
+Devops, September 2017

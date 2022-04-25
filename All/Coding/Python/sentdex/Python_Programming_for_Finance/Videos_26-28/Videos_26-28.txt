@@ -1,0 +1,10 @@
+
+Custom Data Panel - Zipline Tutorial local backtesting and finance with Python p.3
+https://youtu.be/ZEULPvS_eeI&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ
+
+Trading Custom Markets (bitcoin example) - Zipline Tutorial finance with Python p.4
+https://youtu.be/rYV102VfG7o&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ
+
+Visualizing Strategy Metrics - Zipline Tutorial local backtesting and finance with Python p.2
+https://youtu.be/GJJzsfJUiB8&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ
+Videos 26-28

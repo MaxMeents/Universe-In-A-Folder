@@ -1,0 +1,76 @@
+
+Adam Dutko (?StylusEater?) - First Time CPAN Contributor
+https://youtu.be/dCMHQQgg_Eo
+
+Arthur Schmidt (?fREW?) - DetectingExamining Databases 101
+https://youtu.be/-CwaObbSK88
+
+Ashley Willis (?ashley?) - ?Calendars Hate the Living?
+https://youtu.be/2L1WJTBcI_8
+
+Daina Pettit - Streamlining and simplifying your Perl code using Map, Grep, and Sort
+https://youtu.be/qU-Yxn5hdzM
+
+Dave Rolsky (?autarch?) - ?A Date with Perl?
+https://youtu.be/nusC1TnwOlg
+
+David Bury - ?Threading and Perl -- avoiding insanity and managing the clones effectively?
+https://youtu.be/IFUTSPeuMZA
+
+Doug Hoyte (?fractal?) - ?Blocking Operations, Exceptions, and Logging in Asynchronous Servers?
+https://youtu.be/bmKiiqk8XKw
+
+Graham Ollis (?plicease?) - Foreign Function Interface (FFI) Never Need to Write XS Again
+https://youtu.be/cY-yqQ_nmtw
+
+Heath Bair (?Candybar?) - How to run a Perl Workshop or Conference
+https://youtu.be/tGYunP5b38M
+
+Jesse Luehrs (?doy?) - Introduction to Rust
+https://youtu.be/5EFCMaEbgX4
+
+Karen Pauley - Working with Volunteers
+https://youtu.be/zXAz3gZnR_s
+
+Leon Timmermans (?leont?) - Reading the layercake, an introduction to PerlIO
+https://youtu.be/ybTFXG9HWUk
+
+Mike Friedman (?friedo?) - Building Your First App with MongoDB and Perl
+https://youtu.be/LsY1ShOKY-4
+
+Mike Friedman (?friedo?) - The Perl API for the Mortally Terrified
+https://youtu.be/-XITNDvqoTo
+
+Nathan Gray (?kolibrie?) - ?Increasing Performance and Satisfaction Through Scrum?
+https://youtu.be/9EmdMVJV3NQ
+
+Nicholas Perez (?nperez?) - Growing Perl Developers
+https://youtu.be/sviIW3Tqe8I
+
+Nick Patch (?patch?) - Unicode Beyond Just Characters Localization with the CLDR
+https://youtu.be/DcPpUnlENAs
+
+Peter Rabbitson (?ribasushi?) - ?SQL for accountants understanding the beast via SpreadSheets?
+https://youtu.be/63_MGcsXEzs
+
+Phil Wells (?kyoob?) - ?Object Oriented Selenium Test Suites?
+https://youtu.be/ZesUiDBjXcA
+
+Sawyer X - XS Fun
+https://youtu.be/sD1-bgKm36c
+
+Scott Walters (?scrottie?) - Programming the Atari 2600 Video Computer System
+https://youtu.be/Ulcq0pVlQ1c
+
+Shawn Moore (?sartak?) - DTrace War Stories
+https://youtu.be/P88qXvU2RUA
+
+Sudeep Hazra - Perl On NetBeans
+https://youtu.be/EpGFIgTgBi0
+
+Timm Murray - Make Flying Robots Do Your Bidding With UAVPilot
+https://youtu.be/CJJDOrs6v-Y
+
+Wendy Van Dijk (?woolfy?) - Marketing for Perl is easy because Perl is awesome
+https://youtu.be/B39gZXxfroM
+Videos 526-550

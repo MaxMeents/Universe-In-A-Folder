@@ -1,0 +1,13 @@
+
+Building Noticed Raising exceptions when deliveries fail
+https://youtu.be/ldyF6jOvJRM&list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO
+
+Building Notificiations in Rails Handling unsuccessful API requests
+https://youtu.be/R2QD7XxS-Dc&list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO
+
+Contributing to open source Adding features to CableReady
+https://youtu.be/g6Wo0IIq_3Q&list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO
+
+Rails PR Code Review with Kasper Timm Hansen
+https://youtu.be/I6MWhGiNPPg&list=PLm8ctt9NhMNWfnXIK_EaHaMkDGNYrOJlO
+Live Coding Streams

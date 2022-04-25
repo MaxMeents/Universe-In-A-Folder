@@ -1,0 +1,70 @@
+
+Akka, kickstarting into 2018 with Konrad Malawski
+https://youtu.be/_k3em9PsV_c
+
+Always Be Running long running and fault tolerant java services with Mike Duigou
+https://youtu.be/agXce0lSo60
+
+Building a high-performance Future for the JVM with Flavio Brasil
+https://youtu.be/grz4uIi0McI
+
+Building your own language on the JVM with Ted Neward
+https://youtu.be/HnmXxxXmaLA
+
+Changes to the JDK Release Model with Sharat Chander
+https://youtu.be/YauqubC8FKM
+
+Cloud Native Java with Josh Long (@starbuxman)
+https://youtu.be/KB9PtRREgjg
+
+Escape Analysis in V8 with Tobias Tebbi
+https://youtu.be/KiWEWLwQ3oI
+
+Falcon a new JIT compiler in Zing JVM with Ivan Krylov and Artur Pilipenko
+https://youtu.be/XovFnMw_eGk
+
+Fn Project – an open source Java friendly serverless platform with David Delabassée
+https://youtu.be/rVcT_N8w4II
+
+JCP and you - interview with Andrés Almiray at jSpirit 2018
+https://youtu.be/DjRIl_Qhi3A
+
+Jfokus VM Tech Summit
+https://youtu.be/rtTBnHEn6dw
+
+MethodHandles Everywhere! with Charlie Nutter
+https://youtu.be/NGnuIAd0VHY
+
+Mob programming - interview with Ixchel Ruiz at jSpirit 2018
+https://youtu.be/MWgDpe-ZN-s
+
+Organizing unconferences - interview with Dmitry Vyazelenko at jSpirit 2018
+https://youtu.be/5DU0Rzp1JCQ
+
+Pause-Less GC for Improving Java Responsiveness with Charlie Gracie
+https://youtu.be/wFjmn-mbjy0
+
+Project Loom Fibers and Continuations for the Java Virtual Machine with Ron Pressler
+https://youtu.be/fpyub8fbrVE
+
+Restful Services with the Play Framework, MySQL, and a Security Level with JWT by Mercedes Wyss
+https://youtu.be/N59_Ta88kW0
+
+Services Assemble! Create Microservices with Spring CloudNetflix OSS with Mark Heckler
+https://youtu.be/b6myDXDXofg
+
+Shenandoah GC What We Know In 2018 with Aleksey Shipilev
+https://youtu.be/qBQtbkmURiQ
+
+Teaching kids how to program - interview with Melissa McKay at jSpirit 2018
+https://youtu.be/p7sw7i5vlDk
+
+Ways to Ally for Women in Technology with Heather VanCura and Yolande Poirier
+https://youtu.be/qODTg5cQZic
+
+Welcome to JUnit 5 with Billy Korando
+https://youtu.be/CC2ZdESKZNM
+
+ZGC - Low Latency GC for OpenJDK with Stefan Karlsson and Per Liden
+https://youtu.be/tShc0dyFtgw
+Videos 51-75

@@ -1,0 +1,61 @@
+
+How to  load  a scene in Unity - Unity Basics Part 12
+https://youtu.be/Pj-AJwi6rUE&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How To Add Particles In Your Unity Games Unity Basics Part 15
+https://youtu.be/_bCxilFqO-Y&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How to add Sound Effects and Background Music In Unity - Unity Basics Part   11
+https://youtu.be/GyOOxzg9ZDU&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How to Build a Unity Game For PC And Android - Unity Basics Part 14
+https://youtu.be/xHYnXcW28kQ&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How to Create a Simple Health Bar In Unity3D
+https://youtu.be/4L-tL_y0DfY&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How To Detect a Collision In Unity - Unity Basics Part 8
+https://youtu.be/KH73Wy-6akE&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How To Rotate 3D Object Using Mouse Or Touch In Unity3D
+https://youtu.be/Jxz5wbv7z3k&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How to save data in Unity - Unity Basics Part 13
+https://youtu.be/y6eb-BzcFBw&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How To Shoot A Bullet In Unity - Unity Basics Part 7
+https://youtu.be/k1xzQML1qgc&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+How To Upload Unity Game on Google Play Store - Unity Basics Part 16
+https://youtu.be/v_azQTlUnBA&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Moving Object Using Arrow Keys With Unity - Unity Basics Part 6
+https://youtu.be/Jo8FIPwsSUo&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!
+https://youtu.be/azq0S0DKS50&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Simple Object Pooling In Unity Part 2 - Unity Basics Part 10
+https://youtu.be/-Ad4sp9QhtI&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Simple Object Pooling In Unity Part1 -  Unity Basics Part 10
+https://youtu.be/UcQ376DGq7M&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Simple UI Score System In Unity - Unity Basics Part 9
+https://youtu.be/oVF_SGpkJrc&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Unity's Interface (Views) - Unity Basics Part 1
+https://youtu.be/QiHhez1OM4s&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Your First Very Simple Calculator With Unity - Unity Basics Part 5
+https://youtu.be/CMedNg5qF-s&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Your First Very Simple Code With Unity - Unity Basics Part 4
+https://youtu.be/J-nKTGVgBSo&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Your First Very Simple Prefab With Unity - Unity Basics Part 3
+https://youtu.be/A2KmbPzn53I&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+
+Your First Very Simple UI With Unity - Unity Basics Part 2
+https://youtu.be/3pyov0gxINU&list=PLWpuujpCaAv77z85qEoA_KBNGF6VroNjL
+Unity Basics

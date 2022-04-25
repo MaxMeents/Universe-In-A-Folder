@@ -1,0 +1,76 @@
+
+Building a Flappy Bird Game in Unity - Livestream Archive
+https://youtu.be/omSWGElRg_8
+
+Five Nights At Freddy's 4 with Pamela - Spooky Scary Animatronic Skeletons!
+https://youtu.be/DiHErRsPt1U
+
+Shovel Knight Plague of Shadows - Let's be evil!
+https://youtu.be/vDp4SW8VqB4
+
+Super Mario Bros - Playing Games With Pamela
+https://youtu.be/2D_vLGh9OHQ
+
+Unity Endless Runner Tutorial #11 - Death & Restarting
+https://youtu.be/d06ljVEAd78
+
+Unity Endless Runner Tutorial #12 - Score & High Score System
+https://youtu.be/9HvTwtfBaYM
+
+Unity Endless Runner Tutorial #13 - Picking Up Coins For Points
+https://youtu.be/FaX4B_FMPIg
+
+Unity Endless Runner Tutorial #14 - Random Coin Placement
+https://youtu.be/mvBWNw8TU1g
+
+Unity Endless Runner Tutorial #15 - Jump Bug Fix & Double Jump
+https://youtu.be/N0T7vwGL4Qg
+
+Unity Endless Runner Tutorial #16 - Making A Main Menu
+https://youtu.be/zXCJF8cBVdE
+
+Unity Endless Runner Tutorial #17 - Making An After Death Menu
+https://youtu.be/FPXxTyJqIWU
+
+Unity Endless Runner Tutorial #18 - Making a Pause Menu
+https://youtu.be/SFOQy6l1DVU
+
+Unity Endless Runner Tutorial #19 - Adding Sound Effects
+https://youtu.be/E2UTNUuRpi4
+
+Unity Endless Runner Tutorial #20 - Extra Danger Spikes
+https://youtu.be/GjfYKQgPXmo
+
+Unity Endless Runner Tutorial #21 - Creating Powerups
+https://youtu.be/oQ58w0sx-io
+
+Unity Endless Runner Tutorial #22 - More About Powerups!
+https://youtu.be/X6-r94JtXA0
+
+Unity Endless Runner Tutorial #23 - Final Powerup Fix
+https://youtu.be/wxG061EmK78
+
+Unity RPG #5 - Fixing Lines & Camera Control
+https://youtu.be/J6BQ4Fcy4cc
+
+Unity RPG Tutorial #1 - Setting Up The Basics
+https://youtu.be/Pk3GCgaNVTY
+
+Unity RPG Tutorial #2 - Player Movement
+https://youtu.be/Tm2L-_0eIeY
+
+Unity RPG Tutorial #3 - Animating the Player
+https://youtu.be/Oao-A7bkve0
+
+Unity RPG Tutorial #4 - Blend Tree Animation
+https://youtu.be/M1bEtHOE8z8
+
+Unity RPG Tutorial #6 - Making Tile Maps
+https://youtu.be/sVCXgN5_XmY
+
+Unity RPG Tutorial #7 - More Mapping Goodness
+https://youtu.be/03-zRkJsoUw
+
+Unity Tips & Tricks - Parallax Scrolling
+https://youtu.be/30OuWY1UfcQ
+Videos 301-325

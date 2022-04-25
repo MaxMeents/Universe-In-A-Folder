@@ -1,0 +1,76 @@
+
+asyncio.get_event_loop() → what is that #MP55
+https://youtu.be/2DmUvBtSdnI
+
+Automating microscopy data analysis using Django and Scipy #MP49
+https://youtu.be/luecsqQ636c
+
+CEPH - A Simple Understanding #MP54
+https://youtu.be/pn-cud8Ek8w
+
+Chorogrid - A Python Module For Vector Choropleth Mapping #MP54
+https://youtu.be/LTkhSNvzfgA
+
+Datacratic's Machine Learning Database (MLDB) #MP53
+https://youtu.be/ZOx5vWXiYi8
+
+Deep dive into Docker storage drivers  #MP53
+https://youtu.be/9oh_M11-foU
+
+Golang for Pythonistas #MP49
+https://youtu.be/ZT5QbvoY91g
+
+How to Write Reusable Code #MP52
+https://youtu.be/ov8UXvBXUio
+
+Importation des données ouvertes de la Ville de Montréal dans #OpenStreetMap #MP49
+https://youtu.be/4Xg0P1_-scw
+
+Introduction to new matplotlib toolbar #MP55
+https://youtu.be/DtJZgeYOsUo
+
+Introduction to the statsmodel library #MP51
+https://youtu.be/1u3Ec6lRD4s
+
+Le mystère des tests unitaires #MP54
+https://youtu.be/2ESMfyswuV8
+
+Learning Python When You're Ten #MP55
+https://youtu.be/WaB1HL2XR20
+
+Mercurial, with real python bites #MP53
+https://youtu.be/LUlXWskjVAs
+
+NHL goal celebration hack with light show and machine learning #MP55
+https://youtu.be/KU86lwojGl0
+
+PuDB, the IDE debugger without an IDE! #MP54
+https://youtu.be/IEXx-AQLOBk
+
+Python et PostgreSQL, un mariage merveilleux #MP54
+https://youtu.be/zVoihPQhfdc
+
+R, shiver me Python #MP51
+https://youtu.be/C280F9573wA
+
+Ramses build pyramid apps with a sneer of cold command #MP52
+https://youtu.be/oVE6OF-d1oQ
+
+Scalable Machine Learning in Python using GraphLab Create #MP53
+https://youtu.be/we3GVUUrg34
+
+Starting on a GUI WXpython vs Kivy #MP55
+https://youtu.be/AGMvn1dP6mU
+
+Systems programming as a swiss army knife #MP52
+https://youtu.be/OXPYYshcsAw
+
+Technical Debt - The code monster in everyone's closet #MP53
+https://youtu.be/-s3pUWTQHSM
+
+What's new in scikit-learn 0.16 and what's cooking... #MP53
+https://youtu.be/dzKmGFSEsp4
+
+Why Mac sysadmins love Python #MP52
+https://youtu.be/G2kSD3MU5uM
+Videos 51-75

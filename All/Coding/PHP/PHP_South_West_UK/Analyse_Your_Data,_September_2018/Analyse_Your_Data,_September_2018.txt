@@ -1,0 +1,7 @@
+
+Squash Bugs with Static Analysis - Dave Liddament - PHPSW Analyse Your Data, September 2018
+https://youtu.be/KxTjYqloVFg&list=PLrEpsyNSHj03_pu6hKSwTuzQijpT_ppdX
+
+The Devil in our Data - Thierry Draper - PHPSW Analyse Your Data, September 2018
+https://youtu.be/LZRUzibFDSo&list=PLrEpsyNSHj03_pu6hKSwTuzQijpT_ppdX
+Analyse Your Data, September 2018

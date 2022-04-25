@@ -1,0 +1,76 @@
+
+10 Filters Selection States and Selection Options
+https://youtu.be/XJJaUtYDEXg
+
+11 Smart Search in QlikSense
+https://youtu.be/Tg9-k7Di3TE
+
+12 Qlik Sense Charts Overview
+https://youtu.be/migaVnT1p9w
+
+13 Qlik Sense Data Manager Overview
+https://youtu.be/An7SJcglmS4
+
+14 Qlik Sense Data Model Viewer
+https://youtu.be/2Hb4bCO0JyY
+
+15 Qlik sense Data Editor Overview
+https://youtu.be/ZmOEOxi4VAE
+
+16 Qlik Sense Dimension and Measures
+https://youtu.be/jKN_LCZO1ug
+
+17 Qlik Sense Master Items
+https://youtu.be/qeYddIhHFCg
+
+18 Qlik Sense Master Items Exercise
+https://youtu.be/50kDfk8kl_c
+
+19 How to Create Bar Chart in QlikSense
+https://youtu.be/QJerwBJ9JNY
+
+20 Qlik Sense Bar Chart Exercise 1
+https://youtu.be/cNuN7MeZpZI
+
+21 Tableau - Bar Chart Exercise No 2
+https://youtu.be/pcBj6TAKqyI
+
+22 Sorting Data in Qlik Sense
+https://youtu.be/imR63f-c_34
+
+23 Alternative Dimension in QlikSense  - how to group dimension in qliksense
+https://youtu.be/o2Rgh77th30
+
+24 Alternative Measure in Qlik Sense
+https://youtu.be/DZwqpA4d2yI
+
+25 How to Add Labels in Qlik Sense Charts
+https://youtu.be/C2LxYdiH6os
+
+26 How to add Reference Lines in Qlik Sense Bar Chart
+https://youtu.be/H0CPotiZUPQ
+
+3 Qlik Sense Tutorial -  Different Type of Selections In Qlik Sense
+https://youtu.be/bFkJPJt2_oc
+
+4 QlikSense Tutorial   Selection States
+https://youtu.be/GY94p-_Nkm8
+
+5 Qlik Sense Architecture
+https://youtu.be/znSRGcZQ36o
+
+6 Qlik Sense Desktop Overview
+https://youtu.be/acFTTgremhs
+
+7 Creating First Qlik Sense Application and Generating some Insights
+https://youtu.be/MDyk_SS5hzQ
+
+8 Creating new Qlik Sense Sheets and Exploring Sheet Options
+https://youtu.be/8mcM8OsOess
+
+9 Creating Filters in Qlik Sense
+https://youtu.be/QpctVtfEnd4
+
+How to Successfully Get a Job in Data Analytics
+https://youtu.be/R3qOYYC35k4
+Videos 451-475

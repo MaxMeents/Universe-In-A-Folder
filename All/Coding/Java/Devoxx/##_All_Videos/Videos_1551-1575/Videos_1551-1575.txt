@@ -1,0 +1,76 @@
+
+7 essential softskill survival secrets for developers by Nick Vanderhoven and Jeroen Horemans
+https://youtu.be/yU1P31muBNs
+
+A year of mob programming   tips and tricks by Tommy Tynjä
+https://youtu.be/f-TMKH5VJgY
+
+Angular for Java Developers by Yakov Fain
+https://youtu.be/7Ott2mwtp9c
+
+Build, Deploy, Debug and Tune Serverless Microservices by Randall Hunt
+https://youtu.be/F7HFAdUvZVk
+
+Build, Scale, & Create IoT and Mobile connected applications with the Cloud by Tara Walker
+https://youtu.be/I7k-5MQIqdw
+
+Building Serverless AI powered Applications on AWS by Adrian Hornsby
+https://youtu.be/-izfBVlHkSc
+
+CERN, from an IT Perspective by Derek Mathieson
+https://youtu.be/0QI60O_AjSU
+
+Consumer driven development with Spring cloud contract by Ben Ooms
+https://youtu.be/_DkvVtDPiFM
+
+Fighting fraud with graph databases by Vandy Berten
+https://youtu.be/5u4hyNOh0Tc
+
+How Uber Audits Real time Infrastructure of Trillion+ Messages by Ankur Bansal
+https://youtu.be/5NCiygjT2B4
+
+Migrating to Java 9 Modules with ModiTect by Gunnar Morling
+https://youtu.be/BhuOSGrNBek
+
+Move Slow and Mend Things by Kevlin Henney
+https://youtu.be/1kklyq4XYpw
+
+Moving Java Forward Faster by Mark Reinhold & Brian Goetz
+https://youtu.be/x7pkWlost64
+
+Offline first applications, syncing with PouchDB & CouchDB by François Gengler
+https://youtu.be/0LzORC0U6uQ
+
+QWERTY or DVORAK Debunking the Keyboard Layout Myths by Hanno Embregts
+https://youtu.be/blRn9U9Fapg
+
+Sencha Ext JS   a framework for building enterprise data intensive web applications by Olga Petrova
+https://youtu.be/7RxH9Cz99WY
+
+Serverless Architecture Patterns and Best Practices by Chris Munns
+https://youtu.be/_mB1JVlhScs
+
+Serverless Machine Learning a beginner's guide by Bret McGowen and Yufeng Guo
+https://youtu.be/Fu8Sdh_wkQM
+
+Spring Framework 5 Hidden Gems by Juergen Hoeller
+https://youtu.be/LQN2ptVdaJE
+
+Supercharging user experience with machine learning by Ilgun Ilgun
+https://youtu.be/VOt0taO37VQ
+
+Top Elasticsearch tips by Nicolas Buisson
+https://youtu.be/ALa11tIIOCM
+
+Twitter's quest for a wholly Graal runtime by Chris Thalinger
+https://youtu.be/ZbccuoaLChk
+
+Using Android Things to detect & exterminate Reptilians by Gautier Mechling
+https://youtu.be/6XY94XZMPG4
+
+Welcome to Devoxx Belgium 2017 by Stephan Janssen
+https://youtu.be/6ethbpVl4eo
+
+What Developers should Know about Design by Erwin de Gier
+https://youtu.be/vsEoFAMxLNU
+Videos 1551-1575

@@ -1,0 +1,76 @@
+
+C# Codility Binary Gap Problem
+https://youtu.be/4HkfCENN14o
+
+C# Codility Cyclic Rotation Problem
+https://youtu.be/iA1AqOnnmuc
+
+C# Codility Find Missing Element
+https://youtu.be/vNS2A2pWm3s
+
+C# Codility Frog Jump Problem
+https://youtu.be/qytab3mJfVw
+
+C# Codility OddOccurrencesInArray Problem
+https://youtu.be/SvhzHOjwmw4
+
+C# Codility Tape Equilibrium
+https://youtu.be/Sr9WxwjwQSQ
+
+C# HackerRank Reverse Array
+https://youtu.be/dY1yxE2R_Uk
+
+C# Hands On - Arrays
+https://youtu.be/hiHpAvBkosQ
+
+C# Hands On - Bool Data Type
+https://youtu.be/36qn4a4Fcoo
+
+C# Hands On - Classes
+https://youtu.be/M4OaDn8CMIA
+
+C# Hands On - Delegates
+https://youtu.be/tewRRsSoAhI
+
+C# Hands On - Exception Handling
+https://youtu.be/ta4AYiaabi4
+
+C# Hands On - HashSet
+https://youtu.be/OjpOZzN9DgM
+
+C# Hands On - If Else condition
+https://youtu.be/KKMlKAVdwZ8
+
+C# Hands On - Interfaces
+https://youtu.be/1fv_9MtpmDE
+
+C# Hands On - List Collection
+https://youtu.be/N0B-i85Dp0o
+
+C# Hands On - Loops
+https://youtu.be/9LOQtT7Cy34
+
+C# Hands On - Overloading vs Overriding
+https://youtu.be/zJGV1G5_mtQ
+
+C# Hands On - Queues
+https://youtu.be/huzE208-ha8
+
+C# Hands On - Singleton
+https://youtu.be/yjH5szMk9As
+
+C# Hands On - Stacks
+https://youtu.be/3E8ktxoHi1E
+
+C# Hands On - Strings
+https://youtu.be/l0_UxA3d6qs
+
+C# Hands On - Threads
+https://youtu.be/AYYzZS-kjJM
+
+C# Hands On Extension Methods
+https://youtu.be/5zTAPpUso08
+
+C3 Hands On - Inheritance
+https://youtu.be/hXxnl9rqklM
+Videos 1-25

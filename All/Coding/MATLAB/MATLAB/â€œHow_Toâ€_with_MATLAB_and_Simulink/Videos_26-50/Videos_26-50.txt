@@ -1,0 +1,76 @@
+
+Build a Solar Tracking System Using Simulink and ThingSpeak for Arduino
+https://youtu.be/57GxzjSaKhA&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Automatically Tune PID Controllers
+https://youtu.be/ENhFepqjFOY&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Bring Data from MATLAB Into Simulink   Hear from MATLAB & Simulink Developers
+https://youtu.be/kM2qL__YxBQ&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Collect Sensor Data on Your iPhone or Android Device Using MATLAB Mobile
+https://youtu.be/LCk9gV0ooxI&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Design Motor Controllers with Simscape Electrical, Part 1 Simulate Back-EMF Voltage
+https://youtu.be/JDgvBZbnfPw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Design Motor Controllers with Simscape Electrical, Part 2 Modeling a Three-Phase Inverter
+https://youtu.be/dghUC_IAj1Q&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Get Started with Control Systems in MATLAB
+https://youtu.be/MylJIqVVNr0&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Implement Object-Oriented Programming Principles in MATLAB
+https://youtu.be/kz4zYECb8AA&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Import Excel Data into MATLAB
+https://youtu.be/0hArv-UBKQQ&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Improve Simulation Performance Using the Solver Profiler
+https://youtu.be/-EQI2Osbeug&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Interact with Simulink Models from MATLAB Scripts
+https://youtu.be/pLYZRCY-RO8&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Optimize Control System Parameters in Simulink
+https://youtu.be/lyLffjAwOyQ&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Optimize Model Parameters in Simulink
+https://youtu.be/b0jNOXZKuj8&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Preprocess Time Series Data with MATLAB
+https://youtu.be/CsqtMGDnMBw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Solve Math Problems Using Symbolic Math Toolbox
+https://youtu.be/yYyRUH1idWg&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Tune the Parameters of Algorithms Running on Hardware
+https://youtu.be/hcg-nJ7pfX4&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Buses in Simulink
+https://youtu.be/LWnZXSuRt0I&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Custom Automation Algorithms for Data Labeling
+https://youtu.be/Y36D1fJZkT0&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use for-Loops to Visualize Data in MATLAB
+https://youtu.be/iI6T7quAqXw&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Function Handles in MATLAB
+https://youtu.be/Ud7buvncHQ0&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Lookup Tables with Simulink
+https://youtu.be/HmfwKoFHrO4&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Model Callbacks with Simulink
+https://youtu.be/1JjV4BlxZe4&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Use Source Control in MATLAB with GitHub
+https://youtu.be/O7A27uMduo0&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Visualize Multivariable Functions in MATLAB
+https://youtu.be/G9THGoGjNlo&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+
+How to Visualize Results for Autonomous Driving Scenarios in Simulink  MATLAB & Simulink Developers
+https://youtu.be/DcXZrbsBAJM&list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr
+Videos 26-50

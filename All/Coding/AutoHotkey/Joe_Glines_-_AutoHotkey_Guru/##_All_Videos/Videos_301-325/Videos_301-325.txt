@@ -1,0 +1,76 @@
+
+#88 AutoHotkey podcast How to use shell hooks with AHK
+https://youtu.be/ysZbOzuBb1Q
+
+#89 AutoHotkey Podcast Automating texting with PushBullet
+https://youtu.be/AMMoeuZfbyo
+
+#90 the-Automators Podcast What To Do Before You Write One Line Of Code
+https://youtu.be/VYwaqGPz-no
+
+#91-Automator's Podcast How long should your variable name be
+https://youtu.be/fvALn0797Z8
+
+17 Ways to Automate Windows Programs  Learn all the approaches in AHK
+https://youtu.be/rN8uOMAv1yQ
+
+APIs compared to  Human Interfaces How do you use AutoHotkey
+https://youtu.be/p-NlPtABtTA
+
+AutoHotkey Classes, Functions, Scope, Super Global & Global Variables
+https://youtu.be/2jVkEoHCYEk
+
+AutoHotkey Webinar 022021 Hour 1-Pulover's Macro Creator
+https://youtu.be/vdLDWFavW2Y
+
+AutoHotkey Webinar 022021 Hour 2-Pulover's Macro Creator
+https://youtu.be/O5wpSRxsRio
+
+Creating Beautiful GUIs with AutoHotkey  HTML GUIs are amazing!
+https://youtu.be/280aiNRmh5Y
+
+Easily share your scripts by Creating a GIST with your GitHub account
+https://youtu.be/wiv9oMQqRx8
+
+How and why to use In-place #Includes in AHK Studio with Maestrith
+https://youtu.be/9yPMlNv-IAQ
+
+Learn Text Expansion  HotStrings for free!  Half of our Udemy course!
+https://youtu.be/g7YGViVHRZA
+
+Mentorship Matching - Working session with AutoHotkey Arrays & Objects
+https://youtu.be/dowqhMszGvc
+
+Nearly 13rd of our Intro to GUIs AutoHotkey Udemy course for FREE!
+https://youtu.be/oQHz1E7j4i0
+
+Nesting Arrays in AutoHotkey  Ease the scaling of your script
+https://youtu.be/j0IhGaIb7N4
+
+Productivity tip #1  Work from lists
+https://youtu.be/Cqr9ckeh704
+
+Productivity Tip #1 Working from lists  #Shorts
+https://youtu.be/tA0-EmkatV8
+
+productivity tip #2 have a goal & take a nap #Shorts
+https://youtu.be/-j-dz91aN2c
+
+productivity tip #3 Work with No distractions  #Shorts
+https://youtu.be/LyfKXvzx7Qs
+
+productivity tip #4 Be Decisive   #Shorts
+https://youtu.be/zlys9WbdwN8
+
+the-Automators AHK-talk How to distribute AutoHotkey scripts that rely on other programs
+https://youtu.be/Cp4ahcyuwbY
+
+the-Automators AHK-talk Various ways to store data and their uses
+https://youtu.be/Xs6gxQBj9gk
+
+the-Automators' Talk  How to deal with Dynamic webpages
+https://youtu.be/2awdT6QGh1o
+
+Zoom API- Extracting meeting attendees in recursive loop
+https://youtu.be/7nBClIipmhM
+Videos 301-325

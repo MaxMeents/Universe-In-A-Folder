@@ -1,0 +1,73 @@
+
+Aroon Indicator - Mathematics and stock indicators in Python 16
+https://youtu.be/-TUK_FJclck
+
+Crontab Tutorial - VPS with AWS  EC2 and Python Intro to AWS
+https://youtu.be/r6TY7TDOci0
+
+How to Sort CSV files and lists in Python
+https://youtu.be/VvKn3Y7qAKs
+
+Nohup - Keeping scripts alive after logout - AWS EC2 and Python Tutorial
+https://youtu.be/aBXJO_MqIP4
+
+Python Accumulative Swing Index (ASI) 1 Mathematics and Stock Indicators
+https://youtu.be/ntiMypljVJE
+
+Python Accumulative Swing Index (ASI) 2 Mathematics and Stock Indicators
+https://youtu.be/vT0lmb73c1o
+
+Python Accumulative Swing Index (ASI) 3 Mathematics and Stock Indicators
+https://youtu.be/TtdG5uhoHVw
+
+Python Anywhere with pythonanywhere - Simplified Python VPS hosting
+https://youtu.be/fjBImEt17AU
+
+Python Average Directional Index (ADX) 2 Directional Movement System Calculation
+https://youtu.be/joOWm-GcHTw
+
+Python Average Directional Index (ADX) 3 Directional Movement System Calculation
+https://youtu.be/Xcqt9JKp4tI
+
+Python Average Directional Index (ADX) 4 Directional Movement System Calculation
+https://youtu.be/v-OOcU5KKhw
+
+Python Average Directional Index (ADX) Directional Movement System Calculation
+https://youtu.be/laMart4lKcU
+
+Python Average True Range (ATR) 1 Mathematics and Stock Indicators
+https://youtu.be/53fnUG6Dvmw
+
+Python Exponential Moving Average (EMA) Mathematics and Stock Indicators
+https://youtu.be/3y9GESSZmS0
+
+Python Generator Functions for massive Performance Improvements with Lists
+https://youtu.be/07-K4LFhBMc
+
+Python Graphing Accumulative Swing Index (ASI) in Matplotlib 4
+https://youtu.be/bVZLnkWQjAA
+
+Python Graphing Average Directional Index (ADX) 5 Directional Movement System Calculation
+https://youtu.be/Yuzi_OI8cLQ
+
+Python Graphing Average True Range (ATR) 3 Mathematics and Stock Indicators
+https://youtu.be/PEUiooP2p9U
+
+Python Mathematics and Stock Indicators Intro
+https://youtu.be/TY-itPqAqHQ
+
+Python Programming Average True Range (ATR) 2 Mathematics and Stock Indicators
+https://youtu.be/IuhLfRJTHmY
+
+Python Simple Moving Average (SMA) Mathematics and Stock Indicators
+https://youtu.be/5-SV_xXQ_wE
+
+Running multiple scripts at the same time in background - VPS with AWS  EC2 and Python Intro to AWS
+https://youtu.be/3vNIfBbibgE
+
+VPS with AWS  EC2 and Python Intro to AWS - Navigating The Terminal
+https://youtu.be/dYOfhaAFp2g
+
+VPS with AWS  EC2 and Python Intro to AWS
+https://youtu.be/Vm8ARd5SKLE
+Videos 1026-1050

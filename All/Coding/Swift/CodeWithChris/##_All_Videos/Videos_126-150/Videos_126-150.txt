@@ -1,0 +1,76 @@
+
+Basic SwiftUI Layout Containers and UI Elements
+https://youtu.be/rmTQcILJRcY
+
+Figma Tutorial for Mobile Design (2020)
+https://youtu.be/R5KoTZY0esk
+
+How to Add an Activity Indicator View in One Minute
+https://youtu.be/W-WMZ0nNBE8
+
+How to Align 3 Images in SwiftUI in One Minute
+https://youtu.be/0CSQUj3gjpk
+
+How to Ask for Help in One Minute (and a little more)
+https://youtu.be/ZgSb5nwsHVI
+
+How to Create a Killer App Mockup in (a little more than) One Minute
+https://youtu.be/ouOC0L_m1GU
+
+How to Get the Current Date and Time in Swift in One Minute
+https://youtu.be/BlTFA_Er70A
+
+How to Play Sounds in Swift in One Minute
+https://youtu.be/1htq-c4kVdA
+
+How to Set Up the UIStepper in One Minute
+https://youtu.be/7lATmhBIRsM
+
+How to Simplify Code in One Minute
+https://youtu.be/WvcOUUt2nu4
+
+How to Submit Your App to the App Store (2020)
+https://youtu.be/YPLs3xrDcm0
+
+Prototype a Mobile App and Build an App Landing Page Using Webflow
+https://youtu.be/KWsOR5aplXI
+
+SFSymbols - Why use them
+https://youtu.be/HjX4cAcvAWc
+
+Some of Xcode's Best Shortcuts in One Minute
+https://youtu.be/bIrDFpr0eMU
+
+State Properties in SwiftUI - Lesson 4
+https://youtu.be/wQLOWv8l7yI
+
+SwiftUI App Tutorial War Card Game
+https://youtu.be/lIxq4TCdlRU
+
+SwiftUI Modifiers (Customize Your SwiftUI Elements) - Lesson 3
+https://youtu.be/MJP60XnN4us
+
+SwiftUI vs UIKit (See UI built 3 different ways)
+https://youtu.be/R017vWz7FOY
+
+Thank you.
+https://youtu.be/Z7_wAflmdDg
+
+The SwiftUI Button in One Minute
+https://youtu.be/LYZESJei5oM
+
+Top 11 iOS Developer Skills (that employers are looking for!)
+https://youtu.be/x9tv-bDQi5Q
+
+What's New in Xcode 11
+https://youtu.be/WhLL3sJ8Tsg
+
+Xcode 11 No Storyboard Fix In One Minute
+https://youtu.be/ea9fCSXGhSU
+
+Xcode 11 Where is the Assistant Editor  In One Minute
+https://youtu.be/rTn02yqIj6w
+
+Xcode Tutorial for Beginners - (using the new Xcode 11)
+https://youtu.be/_YvAUgV6GYM
+Videos 126-150

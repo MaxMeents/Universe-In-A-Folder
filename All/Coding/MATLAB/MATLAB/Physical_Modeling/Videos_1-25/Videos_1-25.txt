@@ -1,0 +1,121 @@
+
+Actuating and Sensing Joints
+https://youtu.be/9BOUn9nUND8&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Analyzing and Documenting Results
+https://youtu.be/5PtC7brPww4&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Animating Power Flow Through a Dual-Clutch Transmission
+https://youtu.be/NjjnrpZWck8&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Applications and Tasks in SimHydraulics
+https://youtu.be/K9v4X_yDOEk&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Applications and Tasks in SimMechanics
+https://youtu.be/qLSfhRicSQU&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Balancing Model Fidelity and Simulation Speed
+https://youtu.be/yyBEm8TR0oE&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Defining Rigid Bodies
+https://youtu.be/LpwkEKK3V2g&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Estimating Parameters of a Battery
+https://youtu.be/lZmdzV-9Wp0&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Estimating Parameters of a DC Motor (Previous Release)
+https://youtu.be/ywpuYde8avE&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Exploring SimMechanics Models
+https://youtu.be/k1J-34BIWJU&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Finding Causes of Slow Simulations
+https://youtu.be/UD47b_UB4cA&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Guiding Mechanism Assembly
+https://youtu.be/ndQvKLGp7zw&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+How to Model Custom Physical Components in Simscape
+https://youtu.be/trjJdfw8bCw&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Importing Measured Data to Estimate Fuel Economy
+https://youtu.be/Fdfv-IytyUg&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Logging Simulation Data
+https://youtu.be/_qDywQfOy34&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Maximizing Fuel Economy
+https://youtu.be/61dthJNNRPk&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling a Custom Hydraulic Valve - Previous Release
+https://youtu.be/Ui5ysOyceRY&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling a DC Motor - Previous Release
+https://youtu.be/ESE2vw92nbA&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling a Fuel Supply System
+https://youtu.be/GVltbW95jqI&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling a Ratchet Mechanism with Leadscrew
+https://youtu.be/EwNWgQdflZ0&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling a Vehicle Powertrain - MATLAB and Simulink Video
+https://youtu.be/G7WX1VPbNX0&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling an Aileron
+https://youtu.be/uIXm2spDjKQ&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling an Automatic Transmission and Controller
+https://youtu.be/KH26fcbFYFk&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling an Engine Cooling System
+https://youtu.be/YoMzH4tdAC8&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Modeling an Engine
+https://youtu.be/QoPqFiehq90&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Optimizing Shift Schedule to Maximize Fuel Economy
+https://youtu.be/6leQvk6XLnI&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Physical Modeling Introduction
+https://youtu.be/QtQI4RAYLrM&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Private video
+https://youtu.be/n4wwBU0Ep6w&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Protecting Intellectual Property in Subsystems
+https://youtu.be/-5jItQOPp60&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Protecting Simscape Language Components
+https://youtu.be/KK7FqRDeAQI&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Running Parallel Simulations Aileron Parameter Sweep
+https://youtu.be/HqpaQSKJyEs&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Sharing Models Using Simscape Editing Mode
+https://youtu.be/lv0JEVHI-yk&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+SimMechanics Introduction
+https://youtu.be/YTaF5iiB4TY&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Simscape Add-on Libraries in MATLAB R2013a
+https://youtu.be/2cm8uPmYZyg&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Simulating in Real Time Backhoe
+https://youtu.be/Dh7Rp4dohFg&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Simulating In Real Time Hybrid Electric Vehicle
+https://youtu.be/1KFIHVTFq08&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Simulating in Real Time Hydraulic Actuator
+https://youtu.be/H6UJRJC48YI&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Simulating In Real Time Pneumatic Example
+https://youtu.be/VEQ1DrEWyl0&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Translating SimDriveline Models
+https://youtu.be/n_UEHKLNBi0&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+
+Tune Parameters to Match Simulation Results
+https://youtu.be/pwJRq-QewEE&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4
+Videos 1-25

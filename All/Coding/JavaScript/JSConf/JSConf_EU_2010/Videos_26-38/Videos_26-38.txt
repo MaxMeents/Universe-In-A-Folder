@@ -1,0 +1,40 @@
+
+[JSConfEU 2010] Peter Higgins Your library sucks, and why you should use it
+https://youtu.be/JxTA9DrvqC8&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Philip Hofstetter node.js in production use - tempalias.com
+https://youtu.be/jInvF1wR8U8&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Rebecca Murphey The jQuery Divide
+https://youtu.be/9stnzDIk68U&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Robert Nyman HTML5 APIs - The New Frontier
+https://youtu.be/BQmS7mbhO8A&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Rostislav Hristov The Art of Deep Linking and AJAX Crawling
+https://youtu.be/6tHWSxcS9Fg&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Ryan Dahl Techniques for a single stack world
+https://youtu.be/Yb9rnP2MhYc&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Sebastian Deutsch & Stephan Seidt If it moves they will watch it
+https://youtu.be/WbhmuJ-EdFo&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Sebastian Werner Introducing Unify - A Framework for Cross Platform Applications
+https://youtu.be/_opRKu67qsc&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Stoyan Stefanov Performance Patterns
+https://youtu.be/FDCSXQV3Q48&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Thomas Steiner Pirating the Semantic Web with JavaScript
+https://youtu.be/4538YKp0ppI&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Tim Caswell Techniques and Tools for Taming Tangled Twisted Trains of Thought
+https://youtu.be/yhCA14HB4Tk&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Tom Hughes-Croucher Don't write spaghetti code in server side JavaScript
+https://youtu.be/VqHkzbHEUd0&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+
+[JSConfEU 2010] Ulrike Mueller Server-side JavaScript the untold story
+https://youtu.be/jk3Gs5CsiT0&list=PL37ZVnwpeshHnZ3hH3RYFD_rgSGSCcim5
+Videos 26-38

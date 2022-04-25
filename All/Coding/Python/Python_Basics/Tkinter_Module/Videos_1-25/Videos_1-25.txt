@@ -1,0 +1,76 @@
+
+Python Basics Intro tkinter Module
+https://youtu.be/Dxk1Ugr5au4&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter Geometry and Configure Methods
+https://youtu.be/2qUiPiD6tyI&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter Label Module
+https://youtu.be/UlJflSfjeyI&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter Tk Function
+https://youtu.be/ur77XQE8OqY&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter Tk Mainloop Method
+https://youtu.be/blcPB5JGSWw&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter TTK Button Widget
+https://youtu.be/yHgpYl7hxfs&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter TTK Checkbutton
+https://youtu.be/5j0ozvOyDIg&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter TTK Label Widget
+https://youtu.be/2HqQMhJbntE&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tkinter Window Title and Size
+https://youtu.be/VaJkXDvEz-c&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics TTK from Tkinter
+https://youtu.be/Ecexdzy5h0c&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Calculator Tkinter Entry Justify How to Control Cursor
+https://youtu.be/en_6htkdXbs&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Difference Between Tk and Ttk from Tkinter
+https://youtu.be/U6gYIBHUeuI&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Calculator StringVar Object
+https://youtu.be/Tes3hhJYgPA&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Calculator Text Input - Button Fill Frame with Columnspan and Sticky
+https://youtu.be/Ablzx_Izaxc&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Calculator with TTK Button Grid Method
+https://youtu.be/L0ujDpG3DaY&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Menu Command Logic and Separator Method
+https://youtu.be/ckT7lLgOhro&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Menu Tearoff Argument
+https://youtu.be/RBbmE_0QpR4&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Menu
+https://youtu.be/kYYFHUy8VP0&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Messagebox Ask Yes No Cancel
+https://youtu.be/IGwf9HmXBXw&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Multi  and Multi key Button Binding
+https://youtu.be/VxOG-MUZqBc&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Text Entry Widget
+https://youtu.be/Yk3J9tB7dDU&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Tk Destroy Method
+https://youtu.be/oCWPo5pzFcI&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Tk IntVar  Create empty check button
+https://youtu.be/4PYs-vGO1Kc&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter TTK Button Press
+https://youtu.be/sBQQtvIOmXU&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+
+Python Basics Tutorial Tkinter Yes or No Pop Up Window to Exit
+https://youtu.be/i894k4OBXHU&list=PLaYT64KWZAEM-PJr0B-6kbxkLpHYcEKfB
+Videos 1-25

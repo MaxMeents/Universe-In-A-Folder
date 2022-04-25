@@ -1,0 +1,10 @@
+
+Python Basics Collections Intro
+https://youtu.be/bh_ncj3mwDk&list=PLaYT64KWZAEPjlW56cmRtqiHGd412oq_O
+
+Python Basics Tutorial Collections Counter Object
+https://youtu.be/aDBzeabqMDY&list=PLaYT64KWZAEPjlW56cmRtqiHGd412oq_O
+
+Python Basics Tutorial Collections OrderedDict Object
+https://youtu.be/CkkNVyQJLg0&list=PLaYT64KWZAEPjlW56cmRtqiHGd412oq_O
+Collections Module

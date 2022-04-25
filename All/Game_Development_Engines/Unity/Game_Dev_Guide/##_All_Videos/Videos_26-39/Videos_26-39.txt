@@ -1,0 +1,43 @@
+
+Building a Camera Controller for a Strategy Game
+https://youtu.be/rnqF6S7PfFA
+
+Building A Camera System For Turn-Based Battles in Unity
+https://youtu.be/eJZyMY80bl8
+
+Building a Localization Tool in Unity - Part 1
+https://youtu.be/c-dzg4M20wY
+
+Building a Localization Tool in Unity - Part 2
+https://youtu.be/E-PR0d0Jb5A
+
+Building a Traffic System in Unity
+https://youtu.be/MXCZ-n5VyJc
+
+Creating a Custom Tab System in Unity
+https://youtu.be/211t6r12XPQ
+
+Easy Editor Windows in Unity with Serialized Properties
+https://youtu.be/c_3DXBrH-Is
+
+Getting Started With 2D Tiles in Unity
+https://youtu.be/hZMD5dK4jIE
+
+How to Build A Save System in Unity
+https://youtu.be/5roZtuqZyuw
+
+How To Build An Event System in Unity
+https://youtu.be/gx0Lt4tCDE0
+
+How to create Progress Bars in Unity
+https://youtu.be/J1ng1zA3-Pk
+
+How To Extend Unity's Toolbar
+https://youtu.be/NBARPT-APCg
+
+How To Use Scriptable Objects in Unity
+https://youtu.be/lJxy3oTZeCs
+
+Why you should use code to animate your UI in Unity.
+https://youtu.be/Ll3yujn9GVQ
+Videos 26-39

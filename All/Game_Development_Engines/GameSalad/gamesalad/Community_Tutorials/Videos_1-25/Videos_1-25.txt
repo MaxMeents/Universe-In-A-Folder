@@ -1,0 +1,76 @@
+
+2021 - AndroidPlay Store publishing with GameSalad - Setting up your Mac
+https://youtu.be/6XmzwWkGd-U&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+2021 - Creating a keystore for Google Play Publishing with GameSalad
+https://youtu.be/xdvQ0oU5QVk&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+2021 - How to create an apk in GameSalad for Google Store publishing
+https://youtu.be/ggURFiR1k0g&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+GameSalad Chartboost Reward Video Tutorial 2021
+https://youtu.be/pw9BcfbuSvM&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Elevators and Moving Platforms
+https://youtu.be/1w48sW2DJ8Q&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Endless Runner Sample
+https://youtu.be/AF47UYgMNnA&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Linked Character Health Bars
+https://youtu.be/Md6AKClnwOo&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Pickups (Collectables)
+https://youtu.be/yp5cOdd67vM&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 001 Basic Platformer Movement
+https://youtu.be/5LTblq4Ou2o&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 002 Graphics and Animation
+https://youtu.be/D36k0cSLfeE&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 003 Enemy Collisions (detecting a head jump vs a side collision)
+https://youtu.be/s8PsI668sHY&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 004 Advanced Platform Character Movement (featuring double jumping)
+https://youtu.be/7l3_0mGUKwE&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 006 PowerUps (double jump, shield, shrink and hidden 'mario' block)
+https://youtu.be/6JszB2RYA_Q&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 007 Enemy Behavior -- Patrolling
+https://youtu.be/1h0vvbAmESY&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 008 Enemy Behaviors -- Waypoints
+https://youtu.be/D-Bmu6IyR44&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Recipe 009 Enemy Behaviors -- Chasing
+https://youtu.be/Yn9B4vvnR5A&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad RPG Chasing Enemies (AI)
+https://youtu.be/0cjMKj6DWZE&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad RPG--Enter Buildings
+https://youtu.be/hi71UHt3eww&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad RPG–NPC Conversation
+https://youtu.be/tuSsXSzqOUM&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad RPG—Connecting the Rooms of a Dungeon
+https://youtu.be/Bg6E90xZSH8&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Gamesalad Super Simple Health Bar
+https://youtu.be/XBeLot2Mi2g&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+GS Jumping Through Platforms From Below
+https://youtu.be/--98vXHNeFI&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+GS recipe 005 Scrolling Your Level (camera scrolling)
+https://youtu.be/66Zr5Q2kG3g&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Making a 10 minute GameSalad game - summit workshop
+https://youtu.be/Mr8Q_EO_c_8&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+
+Platformer Tutorial Demo
+https://youtu.be/vcgTa8noH2M&list=PLkULNLXbIenkzaZ6bXeKCPlSGxBXGu7Jb
+Videos 1-25

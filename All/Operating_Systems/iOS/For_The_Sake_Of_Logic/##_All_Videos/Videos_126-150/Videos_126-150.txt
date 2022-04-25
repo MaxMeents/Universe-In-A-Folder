@@ -1,0 +1,76 @@
+
+Conditional Code - Boxed In
+https://youtu.be/33O_djsobQE
+
+Conditional Code - Checking for Switches
+https://youtu.be/HisgayzJ8Hg
+
+Conditional Code - Conditional Climb
+https://youtu.be/YtOdDyGVgDw
+
+Conditional Code - Decision Tree
+https://youtu.be/ZttCFfoydPY
+
+Conditional Code - Defining Smarter Functions
+https://youtu.be/LwM69EPwmAY
+
+Conditional Code - Looping Conditional Code
+https://youtu.be/2GYgD7Ja7EY
+
+Conditional Code - Using Else IF
+https://youtu.be/tkfnIWcT6VE
+
+For Loop - Using Loops
+https://youtu.be/cRSHsOUXZH4
+
+For Loops - Branch Out
+https://youtu.be/1jvxFGKj-fQ
+
+For Loops - Four Stash Sweep
+https://youtu.be/Cp9RmYhjOU4
+
+For Loops - Looping All the Sides
+https://youtu.be/clEBWIkyK8Q
+
+Logical Operators - Checking This AND That
+https://youtu.be/r9X6bOClDMM
+
+Logical Operators - Checking This OR That
+https://youtu.be/cuOZbp-H3bE
+
+Logical Operators - Spiral of NOT
+https://youtu.be/F6dBY67KAzA
+
+Logical Operators - Using the NOT Operator
+https://youtu.be/ONpha9_3coo
+
+Logical Operators -Logical Labyrinth
+https://youtu.be/PTwtlC5-iXM
+
+While Loops - Choosing The Correct Tool
+https://youtu.be/fc8_xTu31WQ
+
+While Loops - Creating Smarter While Loops
+https://youtu.be/Zq-3qPn9yns
+
+While Loops - Four by Four
+https://youtu.be/hDLC-z5cP30
+
+While Loops - Land of Bounty
+https://youtu.be/Jtn2FBf5oI0
+
+While Loops - Nesting Loops
+https://youtu.be/Cpzk9iihImA
+
+While Loops - Random Rectangles
+https://youtu.be/KY26VWHgCsQ
+
+While Loops - Running Code While
+https://youtu.be/il_w3MnhJJw
+
+While Loops - turned Around
+https://youtu.be/rco5_mg53Ig
+
+While Loops - You're Always Right
+https://youtu.be/GJvxa7cRde0
+Videos 126-150

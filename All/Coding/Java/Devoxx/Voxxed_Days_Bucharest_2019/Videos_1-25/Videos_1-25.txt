@@ -1,0 +1,76 @@
+
+Arun Gupta - Serverless Functions, Containers and beyond
+https://youtu.be/NZg6MJrkW_M&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Cecilia Fernandez de Cordoba - DevOps – How to deliver great products faster
+https://youtu.be/oLaW1iP_Bsw&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Chris Thalinger - Performance tuning Twitter services with Graal and Machine Learning
+https://youtu.be/W-5kUG8_mbk&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+David Delabassee - Project Helidon Java Libraries for Microservices
+https://youtu.be/Y481kPbSW1Q&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Dmitry Alexandrov - Webassembly for Java Developers
+https://youtu.be/93z9SaLQVVw&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Doug Sillars - Delivering Fast and Beautiful Images and Video
+https://youtu.be/rUw4sAV-dJw&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Emily Jiang - Creating a cloud-native microservice – which programming mode should I use
+https://youtu.be/RSJ0i1TKuq4&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Ferd Scheepers - A sheriff in the wild west How to govern open source data technology
+https://youtu.be/sHfd-JeYDrE&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Graham Charters - Cutting through the fog of microservices – lightsabers optional
+https://youtu.be/6O5W4gacO3U&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Hanno Embregts - Entering the Fourth Dimension of OCR with Tesseract
+https://youtu.be/THgFc9pwyJ0&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Ivan Lopez - Alexa, nice to meet you
+https://youtu.be/zeJ7qFVKa4E&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Mark Heckler - Building Reactive Pipelines How to go from scalable apps to scalable systems
+https://youtu.be/oIKBqnYdR9Q&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Mark Heckler - Drinking from the Stream How to Use Messaging Platforms for Scalability&Performance
+https://youtu.be/POCVdJ2hCLw&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Mark Paluch - Reactive Relational Database Connectivity
+https://youtu.be/yU3Hf2krxF4&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Markus Winand - The Mother of all Query Languages SQL in the 21st Century
+https://youtu.be/8Fb5Qgpr03g&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Martin Toshev - Java Security Animated
+https://youtu.be/6eWKS5FMESI&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Oleh Dokuka - RSocket – new Reactive cross-network Protocol
+https://youtu.be/OEHf04VqdEA&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Peter Palaga - Quarkus the supersonic and subatomic Java
+https://youtu.be/BcPLbhC9KAA&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Radu Caprescu - Building An User Account Activation System From (Almost) Scratch
+https://youtu.be/l_TqjXFCDiI&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Rafael Benevides - How not suck at Microservices
+https://youtu.be/8TAo9pw7mMA&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Rafał Legiędź - Augmented Reality – The State of Play
+https://youtu.be/KWHBKk-NXX4&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Sebastian Daschner - 7 Principles of Productive Software Developers
+https://youtu.be/qIv70nRdtS0&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Serhat Can - Building a healthy on-call culture
+https://youtu.be/55ZtB9Mc-a8&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Sven Ruppert - Proxy Deep Dive with Core Java
+https://youtu.be/QdB3enPXSso&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Vlad Mihalcea -  Transactions and Concurrency Control Patterns
+https://youtu.be/2qXJI7kG1ig&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+Videos 1-25

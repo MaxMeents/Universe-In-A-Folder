@@ -1,0 +1,28 @@
+
+[8-bit Glory]Tetris - 01 Intro
+https://youtu.be/HNZGmKhwRSc&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 02 The Grid
+https://youtu.be/c4m7Kx08F3s&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 03 Block Piece
+https://youtu.be/OqFXyDQkaOw&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 04 Borders
+https://youtu.be/IV43KmdA8mM&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 05 Respawn
+https://youtu.be/mRvecXXw_4I&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 06 Rotation
+https://youtu.be/4KN9KlcRKSE&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 07 Array Mechanics
+https://youtu.be/SLHz35NXD8Y&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 08 Lines
+https://youtu.be/t7WqnAboZ_w&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+
+[8-bit Glory]Tetris - 09 HUD, Score & Lines counter
+https://youtu.be/jIT1JuEg0vM&list=PLOFk0YyEmMmd5Tlh8A1sv7Xg6dY640RoZ
+[8-bit Glory]Tetris - Construct2

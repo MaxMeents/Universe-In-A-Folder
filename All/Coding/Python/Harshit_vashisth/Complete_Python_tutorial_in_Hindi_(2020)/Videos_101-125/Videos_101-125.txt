@@ -1,0 +1,76 @@
+
+Add and delete data from dictionaries  Python tutorial 116
+https://youtu.be/row0gYl0xTs&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5  Exercise 4  Python tutorial 101
+https://youtu.be/nEDRhJ2mJeI&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5  Exercise 5  Python tutorial 103
+https://youtu.be/b__1zf9-USg&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5  Exercise 6  Python tutorial 106
+https://youtu.be/t3K-D8JMe6s&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5 Exercise 3  Python tutorial 99
+https://youtu.be/0FpAvR2jBSI&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5 Summary  Python tutorial 108
+https://youtu.be/1M2Z4qqSQbY&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 6 Summary  Python tutorial 113
+https://youtu.be/b5KM4sjER8o&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 7 Exercise 1  Python tutorial 120
+https://youtu.be/o4RsQSrlKOM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 1 solution  Python tutorial 121
+https://youtu.be/jakFGJdcz2E&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 2 solution  Python tutorial 98
+https://youtu.be/u0KvGTSu1mM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 3 Solution  Python tutorial 100
+https://youtu.be/Xgh86ESetHk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 4 solution  Python tutorial 102
+https://youtu.be/yMkTBUl1xRo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 5 Solution  Python tutorial 104
+https://youtu.be/kjhc3JUjyqo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 6 solution  Python tutorial 107
+https://youtu.be/4VLXE1UiZVA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+fromkeys get copy clear method  Python tutorial 118
+https://youtu.be/K5od4OklmNM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Function returning two values  Python tutorial 111
+https://youtu.be/2FVv5EO8b64&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Intro to dictionaries  Python tutorials 114
+https://youtu.be/W5jYsRkQ6ns&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Looping and In Kyeword in dictionary  Python tutorial 115
+https://youtu.be/bjH0vmyGqgQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Min and max function  Python tutorial 105
+https://youtu.be/Ifr-vyBDlU4&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+More about get() Method  Python tutorial 119
+https://youtu.be/LhEYEJw-BZg&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+More about tuples  Python tutorial 110
+https://youtu.be/eC0zpmv0tYo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tuples 4th video  Python tutorial 112
+https://youtu.be/v0q3KrtRHO0&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Tuples Intro  Python tutorial 109
+https://youtu.be/erFBYsbahjk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Update Dictionary  Python tutorial 117
+https://youtu.be/13YcsnDZw4U&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Word Counter Dictionary  Python tutorial 122
+https://youtu.be/PRKsyAPKf8s&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+Videos 101-125

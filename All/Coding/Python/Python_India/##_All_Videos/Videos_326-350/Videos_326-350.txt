@@ -1,0 +1,76 @@
+
+00105
+https://youtu.be/Nz0L1x55alI
+
+00106
+https://youtu.be/C9EYuDDfwOg
+
+00108
+https://youtu.be/PkVsq2Bx9DA
+
+Build your next python project Super fast,distributed and infinetely scalable, Using ZeroMQ
+https://youtu.be/luQkcKhpd0c
+
+Data Visualization in PowerPoint with Python by Anand S
+https://youtu.be/aKCXj1DyEhM
+
+Enhanced Network Port Scanning with Python by Abhay - June Bangpypers meetup
+https://youtu.be/QHbzuu4K0nM
+
+Experience in writing Python to Javascript compiler - pyjs by Anand Chitipothu
+https://youtu.be/m6xlPTC3AQs
+
+Features of Python 3 by Anand C - July 2013, Bangpypers
+https://youtu.be/-9ibZ5w776Q
+
+Flash talk by Arvind jayaprakash about Graphite - June Bangpypers meetup
+https://youtu.be/v12NnLLIzrc
+
+Introduction to Decorators by Saurabh - July 2013, Bangpypers
+https://youtu.be/RLbEh7MEKSs
+
+Introduction to GUI programming with wxPython by Jonathan Toomim - June bangpypers meetup
+https://youtu.be/W5Z-dG6FBbw
+
+Introduction to mapreduce by Anand chitipothu - May Meetup
+https://youtu.be/Vf3eAKtGsts
+
+IPython and Pandas by Lakshman Prasad - July 2013, BangPypers
+https://youtu.be/DsYxOOqgveE
+
+IronWASP
+https://youtu.be/aotkZjoym1A
+
+Jonathan Toomin  HEGnear-infrared
+https://youtu.be/1BkhLI6YxY4
+
+Let's talk testing with Selenium by Anisha Narang
+https://youtu.be/CZsl15aIq2Y
+
+Lighting talks - Feb Meetup, Bangalore
+https://youtu.be/AoO2ATlTSFw
+
+March lightning talk - Bangpypers, 23-03-2013
+https://youtu.be/EMrLKlmm4LY
+
+Mobile apps with Python, Quick! - part3
+https://youtu.be/f8dbzZDrp-Y
+
+Mobile apps with Python, Quick! - part4
+https://youtu.be/YHm4Vpjj4Gw
+
+Python for Humans - Remix! by Kenneth Reitz
+https://youtu.be/ri_gJ-Q9GlM
+
+Python In Raspberry Pi - Sudar Muthu
+https://youtu.be/dv6W4EuB_1c
+
+Run python in browser by Kracekumar - May meetup
+https://youtu.be/tLnx7JzeH3I
+
+Scrape the web using Scrappy by Anuvarat Parashar
+https://youtu.be/JqabCQkJF3g
+
+The Paradox of Code Asset vs. Liability (Keynote Talk) by Kiran Jonnalagadda
+https://youtu.be/_stsJlNgGfA
+Videos 326-350

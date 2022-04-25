@@ -1,0 +1,76 @@
+
+A Hitchhiker's Guide to the Functional Exception Handling in Java by Grzegorz Piwowarek
+https://youtu.be/919dHYHldkc
+
+CommitStrip live drawing at VDZ18
+https://youtu.be/78EHYa8wbeI
+
+DROP DATABASE - galactic story by Jarosław Ratajski
+https://youtu.be/QR0hK7rqkGM
+
+Interview with Aleksey Shipilev at Devoxx Belgium 2017
+https://youtu.be/87eNnyLa2BE
+
+Interview with Bert Jan Schriver & Tim van Eijndhoven at Devoxx Belgium 2017
+https://youtu.be/MAYKWHYnZ5g
+
+Interview with Britt Barak at Devoxx Belgium 2017
+https://youtu.be/ycd2DFq_2J0
+
+Interview with David Delabassee at Devoxx Belgium 2017
+https://youtu.be/xI_J1cpOTBM
+
+Interview with Deepu K Sasidharan & Julien Dubois at Devoxx Belgium
+https://youtu.be/dl6LtO2yveA
+
+Interview with Ivar Grimstad at Devoxx Belgium 2017
+https://youtu.be/Z9JN6p8816g
+
+Interview with James Weaver and Johan Vos at Devoxx Belgium 2017
+https://youtu.be/lPV2xFcCArA
+
+Interview with Jen Tong at Devoxx Belgium 2017
+https://youtu.be/IVWYD6YhE0g
+
+Interview with Jisha Abubaker at Devoxx Belgium 2017
+https://youtu.be/MgGLJUDNXF0
+
+Interview with Juergen Hoeller at Devoxx Belgium 2017
+https://youtu.be/r9KtDqJuIOQ
+
+Interview with Katy Anton at Devoxx Belgium 2017
+https://youtu.be/_DpMDGWoYfE
+
+Interview with Lars Grigori at Devoxx Belgium 2017
+https://youtu.be/ySosBMfReG8
+
+Interview with Martin Görner at Devoxx Belgium 2017
+https://youtu.be/0r1Ea84rgO8
+
+Interview with Spring team members Stéphane Nicoll & Brian Clozel
+https://youtu.be/NI4jYZ7MhBo
+
+Interview with Yakov Fain at Devoxx Belgium 2017
+https://youtu.be/pqIUkFberjc
+
+Legacy, for lack of a better word, is good by Uberto Barbini
+https://youtu.be/zljE_duWZnI
+
+Not Your Father's Complexity Performance in a New Machine Age by Maurice Naftalin
+https://youtu.be/6Pk4w5GehWc
+
+One size fits all by Ix-chel Ruiz Flores
+https://youtu.be/7dYTrmmP54o
+
+Real world serverless - architecture, patterns and lessons learned by David Schmitz
+https://youtu.be/uMCtcZ46gns
+
+Sequencing dance music with Clojure by Piotr Jagielski
+https://youtu.be/wlSHi-GY5KA
+
+Troubleshooting & Debugging Production Applications in Kubernetes by Ray Tsang and Galder Zamarreño
+https://youtu.be/t8eXXrUZ54Y
+
+Why Spring ❤ Kotlin by Sebastien Deleuze
+https://youtu.be/tVZOtxianKI
+Videos 1426-1450

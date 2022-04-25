@@ -1,0 +1,76 @@
+
+Creating our GUI Main Menu - Tkinter tutorial Python 3.4 part 11
+https://youtu.be/sBZ8C-RAIKg
+
+Customizing embedded graph - Tkinter GUI development series p. 10
+https://youtu.be/kfMSN7JEtAA
+
+Functions with Parameters with Tkinter GUI buttons - Tkinter tutorial Python 3.4 p. 3
+https://youtu.be/Y6cir7P3YUk
+
+Game Development in Python 3 With PyGame - 17 - Pause function
+https://youtu.be/Et--T7SKHnk
+
+Game Development in Python 3 With PyGame - 18 - Game Over
+https://youtu.be/yogDvU10Mlo
+
+Game Development in Python 3 With PyGame - 19 - PyGame Icon
+https://youtu.be/RipQndiUDfQ
+
+Game Development in Python 3 With PyGame - 20 - Sounds and Music
+https://youtu.be/8sCQQlqeOKY
+
+How to add a Matplotlib Graph to Tkinter Window in Python 3 - Tkinter tutorial Python 3.4 p. 6
+https://youtu.be/Zw6M-BnAPP0
+
+How to Put a Computer in Your Car with the Raspberry Pi
+https://youtu.be/V_fSoViiNOo
+
+Live Matplotlib Graph in Tkinter Window in Python 3 - Tkinter tutorial Python 3.4 p. 7
+https://youtu.be/JQ7QP5rPvjU
+
+Many Cubes! - OpenGL with PyOpenGL Python and PyGame - 6
+https://youtu.be/BrRSnvm2XqE
+
+Moving Cubes - OpenGL with PyOpenGL Python and PyGame - 4
+https://youtu.be/SYz74jPK7H0
+
+Multiple WindowsFrames in Tkinter GUI with Python - Tkinter tutorial Python 3.4  p. 4
+https://youtu.be/jBUpjijYtCk
+
+Object Oriented Programming Crash course with Python 3 - Tkinter tutorial Python 3.4  p. 2
+https://youtu.be/A0gaXfM1UN0
+
+Oculus Rift DK2 Review
+https://youtu.be/jWbsvaUv1Sk
+
+OpenGL with PyOpenGL Python and PyGame p.2 - Coloring Surfaces
+https://youtu.be/D57J48UAQCs
+
+OpenGL with PyOpenGL Python and PyGame p.3 - Movement and Navigation
+https://youtu.be/cK30eDwVIOI
+
+OpenGL with PyOpenGL tutorial Python and PyGame p.1 - Making a rotating Cube Example
+https://youtu.be/R4n4NyDG2hI
+
+Organizing our GUI window - Tkinter tutorial Python 3.4 p. 8
+https://youtu.be/eJRLftYo9A0
+
+Plotting live bitcoin price data - Tkinter GUI development series p. 9
+https://youtu.be/uK7wAvS8C0U
+
+Python 2to3 - Convert your Python 2 to Python 3 automatically!
+https://youtu.be/8qxKYnAsNuU
+
+Random Cube Position - OpenGL with PyOpenGL Python and PyGame - 5
+https://youtu.be/2UcyH8EbXFI
+
+Styling GUIs and windows in Python 3 - Tkinter tutorial Python 3.4 p. 5
+https://youtu.be/oV68QJJUXTU
+
+Subscribe For Tons of Python Programming videos and tutorials!
+https://youtu.be/sGcEAInD9Sc
+
+Tkinter tutorial Python 3.4, creating a full scale Program GUI part 1
+https://youtu.be/HjNHATw6XgY
+Videos 751-775

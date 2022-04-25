@@ -1,0 +1,19 @@
+
+iOS Tutorial CoreData in Swift 3 with Xcode 8 Part 1 Save & Fetch
+https://youtu.be/bmNDw5GUHP8&list=PLyLxRAoqE6zHR6LDEkFJ0PVQIvhbnRdz1
+
+iOS Tutorial CoreData in Swift 3 with Xcode 8 Part 2 Delete, Filtered Fetch & Filtered Delete
+https://youtu.be/L_l8KU0HENE&list=PLyLxRAoqE6zHR6LDEkFJ0PVQIvhbnRdz1
+
+iOS Tutorial Make a PDF Downloader and Reader from scratch in Swift 3 - Part 1
+https://youtu.be/sgCKbmLYwQY&list=PLyLxRAoqE6zHR6LDEkFJ0PVQIvhbnRdz1
+
+iOS Tutorial Make a PDF Downloader and Reader from scratch in Swift 3 - Part 2
+https://youtu.be/s39JZPV_jBQ&list=PLyLxRAoqE6zHR6LDEkFJ0PVQIvhbnRdz1
+
+iOS Tutorial Read and Write data from .txt file, .json file and .plist file (local storage guide)
+https://youtu.be/PWgRz4jqICI&list=PLyLxRAoqE6zHR6LDEkFJ0PVQIvhbnRdz1
+
+iOS Tutorial SearchBar in TableView - fetch and filter from CoreData in Swift 3 Xcode 8
+https://youtu.be/8mDc8O3QJ5Q&list=PLyLxRAoqE6zHR6LDEkFJ0PVQIvhbnRdz1
+iOS eTutorials Local Storage

@@ -1,7 +1,0 @@
-
-Swift Tutorial Create a Simple Web App with Vapor and Swift.url
-https://youtu.be/G_4YfwJHcKI&list=PLY1P2_piiWEbR6pUmBZKOgalSuUZ9p0Hx
-
-Swift Vapor Tutorial Deploy Your Web App to an Ubuntu Server with NGINX and Supervisor.url
-https://youtu.be/B7y_8vMg5Hw&list=PLY1P2_piiWEbR6pUmBZKOgalSuUZ9p0Hx
-Vapor

@@ -1,0 +1,13 @@
+
+asyncio what's next  Yury Selivanov @ PyBay2018
+https://youtu.be/vem5GHboRNM&list=PL85KuAjbN_gtsQXvgNkWWggwvnF54efRr
+
+Building AI Powered Twitter Bot that Guesses Locations of Pictures ...  Randall Hunt @ PyBay 2018
+https://youtu.be/ck5EcMpho9U&list=PL85KuAjbN_gtsQXvgNkWWggwvnF54efRr
+
+Building Conversational AI w Rasa Stack  Alan Nichol @ PyBay2018
+https://youtu.be/zpdLFR3sWZ4&list=PL85KuAjbN_gtsQXvgNkWWggwvnF54efRr
+
+Clearer Code at Scale - Static Types at Zulip and Dropbox  Greg Price @ PyBay 2018
+https://youtu.be/eSJTXC7Ixgg&list=PL85KuAjbN_gtsQXvgNkWWggwvnF54efRr
+Videos 51-54

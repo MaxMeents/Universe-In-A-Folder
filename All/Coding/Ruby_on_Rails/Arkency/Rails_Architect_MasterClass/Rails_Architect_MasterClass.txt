@@ -1,0 +1,10 @@
+
+Bounded Contexts Domain Exploration Productivity App
+https://youtu.be/PJkGcAX8myE&list=PLr2F5WUnrawsb3QPA1bgOAeXzr6P5kMyo
+
+Duck typing - Rails Architect MasterClass
+https://youtu.be/59TKT5EMUJo&list=PLr2F5WUnrawsb3QPA1bgOAeXzr6P5kMyo
+
+Rails is a detail
+https://youtu.be/70koWenhqaM&list=PLr2F5WUnrawsb3QPA1bgOAeXzr6P5kMyo
+Rails Architect MasterClass

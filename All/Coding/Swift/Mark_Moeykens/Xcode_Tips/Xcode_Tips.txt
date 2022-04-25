@@ -1,0 +1,10 @@
+
+3 Quick Xcode Tips (iOS, Xcode 8, Swift 3)
+https://youtu.be/FrR4C-XGcjA&list=PLHDMmeIMXj8XqweU2qXPa-EQ23Auh8f4y
+
+Xcode Tip Autocomplete - A Better Way (iOS, Xcode 8, Swift 3)
+https://youtu.be/_Fe7jm_epJM&list=PLHDMmeIMXj8XqweU2qXPa-EQ23Auh8f4y
+
+Xcode Tip Split Code View (iOS, Xcode 8)
+https://youtu.be/DVXl2MgCFqc&list=PLHDMmeIMXj8XqweU2qXPa-EQ23Auh8f4y
+Xcode Tips

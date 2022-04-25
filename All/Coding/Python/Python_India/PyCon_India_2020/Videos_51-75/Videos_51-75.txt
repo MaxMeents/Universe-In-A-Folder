@@ -1,0 +1,76 @@
+
+Diversity Talk Climbing the corporate ladder - Pramita Gupta
+https://youtu.be/zwxs1Htr0Rg&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Diversity Talk Diversity and Inclusion for Algorithmic Bias Considerations - Dr. Ansgar Koene
+https://youtu.be/MkC_ET9_79o&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Diversity Talk Why we need more Women in Tech - Neha Bagaria
+https://youtu.be/gjgs23SPju4&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Diversity Talk Winning your way through Tech Conferences and Grants - Niharika Krishnan
+https://youtu.be/teuWYw3_WPA&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Diversity Talk Women and Communities  A super power - Lakshya Sivaramakrishnan
+https://youtu.be/CVbni6-To7o&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Diversity Talk Yet Another Career Approach (YACA) - Muskan Kedia
+https://youtu.be/XCF3nireUk8&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Keynote Algorithms Cheat - Terri Oda
+https://youtu.be/vnwcWoghnZ8&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Keynote What Does It All Really Mean - James Powell
+https://youtu.be/clRGJ6jMbLw&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+PyCon India 2020 Closing Session - Sayan Chowdhury
+https://youtu.be/d1hBWMSsN2E&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Sponsored Talk  Authorised is Not a Yes No Question - Ben Dechrai Auth0
+https://youtu.be/E2SP2p8xqnk&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Sponsored Talk Fun with Melding Java and Python  - Stephen Payne (D  E  Shaw)
+https://youtu.be/B682WWucdKs&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Sponsored Talk Python Serialization and the Hallows of Parallel Computing - Saim Raza (D E Shaw)
+https://youtu.be/u3QyAGVE2n4&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Sponsored Talk To Identity and Beyond  - Ben Dechrai (Auth0)
+https://youtu.be/3qAoV-pzDJ8&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Advanced Visualization in Jupyter Notebooks - Kalyan Prasad  .extend()
+https://youtu.be/5QTaenGWe3U&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Building an Home Automation system using PyQt, MQTT and Arduino - Harsh Mittal
+https://youtu.be/0zTF9Yi_igg&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Building scalable and robust Data Science Solutions - Ankit Agarwal  .extend()
+https://youtu.be/77CX8CQHNYQ&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Combining NLP with Structured Data - Sagar Dawda
+https://youtu.be/0M_GQA5ancg&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Developing a Single Sign On Service using Django - Vibhu Agarwal
+https://youtu.be/JOMHAJNiQg8&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Fetchcode A smart code downloader - Tushar Goel and Philippe Ombredanne  .extend()
+https://youtu.be/JkcJzdJ1ZwA&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Logging the right way - Devi A S L
+https://youtu.be/5Ti7FP1QQjE&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Narrative focused video games development with Ren Py -  Susan Shu Chang
+https://youtu.be/T2TqJSJEzvE&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Python and cffi   Visualizing Network Traces - Abhijit Gadgil
+https://youtu.be/8iIOdraIyCU&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Reproducible Scalable Workflows with Nix Papermill and Renku - Rohit Goswami
+https://youtu.be/2GX9TK4uNfU&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Resource Utilization as a Metric for Machine Learning - Akshay Bahadur
+https://youtu.be/Hy7NWx80jDk&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Static Typing in Python - Sanchit Balchandani
+https://youtu.be/UHvNgimuEuk&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+Videos 51-75

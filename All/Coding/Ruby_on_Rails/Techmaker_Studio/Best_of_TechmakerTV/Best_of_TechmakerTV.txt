@@ -1,0 +1,19 @@
+
+Rails Tutorial  Action Cable Basics in Rails 6
+https://youtu.be/t9iubpbqmnM&list=PLjItgYqIzJ9XarkYOnqyl-e8r2BB9GIPU
+
+Rails Tutorial  Building a Link Shortener with Rails 6  Part 1
+https://youtu.be/ZBs1a6Y25bY&list=PLjItgYqIzJ9XarkYOnqyl-e8r2BB9GIPU
+
+Rails Tutorial  Building a Real Messenger App with Rails 6 and Action Cable
+https://youtu.be/s3CmHhDjuWc&list=PLjItgYqIzJ9XarkYOnqyl-e8r2BB9GIPU
+
+Rails Tutorial  How to build a blog with Rails 5 and Bootstrap 4 - Part 1
+https://youtu.be/VpNBCpAgEsY&list=PLjItgYqIzJ9XarkYOnqyl-e8r2BB9GIPU
+
+Scraping the web with Ruby tutorial - Part 1
+https://youtu.be/4TpBH5z8EXA&list=PLjItgYqIzJ9XarkYOnqyl-e8r2BB9GIPU
+
+[React JS Project from Scratch] Build a Stock Market Tracker with React (Part 1)
+https://youtu.be/onSKOD3RPo8&list=PLjItgYqIzJ9XarkYOnqyl-e8r2BB9GIPU
+Best of TechmakerTV

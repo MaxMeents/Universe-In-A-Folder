@@ -1,0 +1,76 @@
+
+An exploration of Rugby Data using Python and Bayesian Statistics, Peadar Coyle
+https://youtu.be/CSYzq8_IB3s&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+An introduction to GPU programming using Theano - Paul O'Grady
+https://youtu.be/21yGNXhkmdo&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+An introduction to machine learning on small scale datasets, Conor Lynch
+https://youtu.be/d5SpcE8lUZc&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Analysing user behaviour - from histograms to random forests, David Brodigan
+https://youtu.be/VY3YFYQLBA8&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Build Infrastructure What It Is, Why You Need It, Na'Tosha Bard
+https://youtu.be/Et2iXQiaSNM&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Creating safe learning experiences for all of our community members - Juliana Arrighi
+https://youtu.be/025XWvoq5vQ&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Data analysis and visualisation in Python, Grazia D’Aversa
+https://youtu.be/l9fgAgHTWCU&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Django Tales and how the Django community can change lives - Anna Ossowski
+https://youtu.be/6dMzq-4yFVg&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Exploring our Python Interpreter - Stéphane Wirtel
+https://youtu.be/2ocFsTtGyT4&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Increase response rate with predictive analytics, Conor Duke
+https://youtu.be/8SaFFQNBTh8&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+My 25 year lovehate relationship with databases, Paul Barry
+https://youtu.be/_m4O8NwZC68&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Probabilistic programming with Lea, Pierre Denis
+https://youtu.be/UJylqfL8pxY&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+PyCon Ireland 2015 Opening Ceremony, Niamh Breslin
+https://youtu.be/FKsPZCVxK5k&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Python & PostgreSQL, a Wonderful Wedding - Stéphane Wirtel
+https://youtu.be/e-0ZyyuJJ40&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Python's Infamous GIL - Larry Hastings
+https://youtu.be/sxMl4DsYgpw&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Recruitment Session Pycon Ireland 2015
+https://youtu.be/_zFLwa1MP-A&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Redis, the new black - Jonathan Frawley
+https://youtu.be/4kSYeMh78EE&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Spark Distributed Computing - Leveraging the Functional Model, Johannes Ahlmann
+https://youtu.be/f8cthzz4K5Q&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Starting to Use the Jupyter Notebook - Steve Holden
+https://youtu.be/1jknSk9cCLU&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Test Driven Documentation, Nicolas Laurance
+https://youtu.be/kgR6pEQDhNY&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Turning what you wanted into what you got, David McIlwee
+https://youtu.be/tmwSwxJ1YuE&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Using MongoDB and Python for data analysis pipelines, Eoin Brazil
+https://youtu.be/Mjbff6oPyhI&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Using Python for data, Bence Faludi
+https://youtu.be/ptpJFXGP81k&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+Using Python to access web service information to support machine learning, Hicham Rifai
+https://youtu.be/j_nS9tJU0nc&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+
+What if those words don't mean what we think they mean - Daniele Procida
+https://youtu.be/8Qt2RgXYDkw&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
+Videos 1-25

@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 29 - C++17's [[maybe_unused]] Attribute
+https://youtu.be/WSPmNL9834U
+
+C++ Weekly - Ep 30 - C++17's [[nodiscard]] Attribute
+https://youtu.be/l_5PF3GQLKc
+
+C++ Weekly - Ep 31 - IncludeOS
+https://youtu.be/HB__A7-tu2U
+
+C++ Weekly - Ep 32 - Lambdas For Free
+https://youtu.be/_CbBfuQQQI8
+
+C++ Weekly - Ep 33 - Start Using Default Member Initializers
+https://youtu.be/-qNNAMH9LHA
+
+C++ Weekly - Ep 34 - Reading Assembly Language - Part 1
+https://youtu.be/my39Gpt6bvY
+
+C++ Weekly - Ep 35 - Reading Assembly Language - Part 2
+https://youtu.be/R3HZJ1h2BVY
+
+C++ Weekly - Ep 36 - Reading Assembly Language - Part 3
+https://youtu.be/KpH6ypYfoNs
+
+C++ Weekly - Ep 37 - Stateful Lambdas
+https://youtu.be/_1X9D8Z5huA
+
+C++ Weekly - Ep 38 - C++17's Class Template Argument Type Deduction
+https://youtu.be/dEBQL4KPSk8
+
+C++ Weekly - Ep 39 - C++17's Deduction Guides
+https://youtu.be/-3fVp0U4xi0
+
+C++ Weekly - Ep 40 - Inheriting From Lambdas
+https://youtu.be/W-xTpqj31mI
+
+C++ Weekly - Ep 41 - C++17's constexpr Lambda Support
+https://youtu.be/kmza9U_niq4
+
+C++ Weekly - Ep 42 - Clang's Heap Elision
+https://youtu.be/FWD1msG8YU4
+
+C++ Weekly - Ep 43 - Stack Elision
+https://youtu.be/5e3m2cppQ6M
+
+C++ Weekly - Ep 44 - constexpr Compile Time Random
+https://youtu.be/rpn_5Mrrxf8
+
+C++ Weekly - Ep 45 - Compile Time Maze Generator (and Solver)
+https://youtu.be/3SXML1-Ty5U
+
+C++ Weekly - Ep 46 - Start Using Visual C++
+https://youtu.be/yTAHfKGMOEM
+
+C++ Weekly - Ep 47 - My Visual C++ Pet Peeve
+https://youtu.be/SnTV5BU9x6k
+
+C++ Weekly SE - g++ 2.4.5 (1993) Review
+https://youtu.be/3Ud9HryMUqA
+
+C++ Weekly SE - Visual C++ 1.52 (1993) Review
+https://youtu.be/tr-D10nQedc
+
+C++ Weekly Special Edition - Borland Turbo C++ 3.0 Review - Part 2
+https://youtu.be/7vKv6MJUNZY
+
+C++ Weekly Special Edition - Borland Turbo C++ 3.0 Review
+https://youtu.be/RWavTVo7D3M
+
+Commodore 64 Column Shimmer After Transport
+https://youtu.be/HIutsKjCUeA
+
+[Re-upload] C++ Weekly - Ep 28 - C++17's [[fallthrough]] Attribute
+https://youtu.be/vZLc7BXSLXE
+Videos 301-325

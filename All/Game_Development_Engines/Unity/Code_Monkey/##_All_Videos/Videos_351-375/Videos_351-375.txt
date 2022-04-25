@@ -1,0 +1,76 @@
+
+100,000 Units Animated in Unity ECS!
+https://youtu.be/t1f8ZreCuuQ
+
+3 ways to do a Ground Check in Unity
+https://youtu.be/c3iEl5AwUF8
+
+Battle Royale Tycoon is out now on Steam!
+https://youtu.be/O4rhlExO5-E
+
+Control Units and Give Orders in Unity ECS!
+https://youtu.be/3Xjc7NjL0Gc
+
+Cool Heatmap in Unity
+https://youtu.be/mZzZXfySeFQ
+
+Endless Runner Level Generator (Difficulty + Highscores) in Unity
+https://youtu.be/gsDSEUOLGHE
+
+Grid System in Unity (Heatmap, Pathfinding, Building Area)
+https://youtu.be/waEsGu--9P8
+
+Highlights from Unite Copenhagen 2019 Keynote (DOTS, 2D, Multiplayer, AR and more)
+https://youtu.be/MoW7iXb7ypA
+
+How to Launch a Game on Steam - After Release
+https://youtu.be/riGE76RZVrQ
+
+How to Launch a Game on Steam - Before Release
+https://youtu.be/CAQsIDxI7rU
+
+How to make RPG Radar Chart (Unity Tutorial)
+https://youtu.be/twjMW7CxIKk
+
+How to make Text Writing Effect in Unity
+https://youtu.be/ZVh4nH8Mayg
+
+I made a RPG in 2 weeks!
+https://youtu.be/rmeSwk6AOO4
+
+Join the Community Discord Server!
+https://youtu.be/580GbEELpvc
+
+Learn Unity and C# from a Professional Indie Game Developer
+https://youtu.be/fMnzAju5YNg
+
+Make Awesome Effects with Meshes in Unity  How to make a Mesh
+https://youtu.be/11c9rWRotJ8
+
+Making Flappy Bird in Unity 2019 (Complete Unity Tutorial for Beginners)
+https://youtu.be/b5Wpni9KPik
+
+Making Progress on Battle Royale Tycoon! (Steam Game Devlog)
+https://youtu.be/7bk0jT6V1aA
+
+Money, Restaurant, Double Damage! (Steam Game Devlog, Battle Royale Tycoon)
+https://youtu.be/XYhhHzXv3UQ
+
+Powerful Generics Added! Grid System in Unity (Terraria, Minesweeper, Tilemap)
+https://youtu.be/8jrAWtI8RXg
+
+Quadrant System in Unity ECS (Find TargetObstacle AvoidanceBoids)
+https://youtu.be/hP4Vu6JbzSo
+
+Simple Turn-Based RPG Battle System (Unity Tutorial)
+https://youtu.be/0QU0yV0CYT4
+
+Super Fast ECS, Marines Vs Zombies, Hearts System! (Unity Tutorials May 2019)
+https://youtu.be/aHKIod6XhWI
+
+Trading Cards! Scenarios! (Steam Game Devlog, Battle Royale Tycoon)
+https://youtu.be/JYPAPIZQm3w
+
+Unity Layers, Layer Mask, Bitmask, Bitwise Operators, Raycasts
+https://youtu.be/uDYE3RFMNzk
+Videos 351-375

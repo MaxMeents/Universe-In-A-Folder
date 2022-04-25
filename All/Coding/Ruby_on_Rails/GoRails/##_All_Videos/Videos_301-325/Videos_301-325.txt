@@ -1,0 +1,76 @@
+
+Advanced Counter Caching  Preview
+https://youtu.be/TYn7iEnSfik
+
+Analytics with Segment  Preview
+https://youtu.be/ia_UpvQTaq4
+
+Charts with Chartkick and Groupdate
+https://youtu.be/XLP43z9Df14
+
+Code Review Run Number Refactoring  Preview
+https://youtu.be/G9gssx_zL7A
+
+Debugging Ruby How to Interpret a Stacktrace
+https://youtu.be/xwRao5OZzSU
+
+Decorator Pattern with the Draper gem
+https://youtu.be/V76l8DxkHdo
+
+Deploying Rails to your own servers with Hatch
+https://youtu.be/uwiAgiQAGcA
+
+Feature Flags with Rollout  Preview
+https://youtu.be/uNX1lsqkcIE
+
+Fixing Counter Cache Bugs with Paranoia  Preview
+https://youtu.be/bLebC0WBRlw
+
+Form Object Pattern  Preview
+https://youtu.be/O_ME4UaHvik
+
+Global Autocomplete Search with Rails
+https://youtu.be/ibxlNN73UTY
+
+How to use Vue.js and Turbolinks together
+https://youtu.be/lGToT9RyDxc
+
+iTunes Controller Code Review Part 1  Preview
+https://youtu.be/n00bw_v2TnY
+
+iTunes Controller Code Review Part 2  Preview
+https://youtu.be/z8mZh7jJr7k
+
+iTunes Controller Code Review Part 3  Preview
+https://youtu.be/BQeE6sLJ_fA
+
+Metrics with Ahoy and Blazer
+https://youtu.be/nJRupUjyO08
+
+Migrating From jQuery to Vanilla Javascript
+https://youtu.be/jUCsUIm5_6w
+
+Primer on Rails 5.1's new UJS library  Preview
+https://youtu.be/PvdZQzF2OGU
+
+Select or Create Field with Selectize.js
+https://youtu.be/cTbHCrm6uOU
+
+Stripe Elements (v3) Javascript Library  Preview
+https://youtu.be/OxAVGAXNFkQ
+
+User Preferences & Settings with ActiveRecordStore  Preview
+https://youtu.be/IOOthkMgZ1M
+
+Using VueJS for Nested Forms with Rails  Part 1
+https://youtu.be/3Vt20jpoUiI
+
+Using VueJS for Nested Forms with Rails  Part 2
+https://youtu.be/C3nug3Xo0D8
+
+Using Webpack in Rails with the Webpacker gem
+https://youtu.be/Szs1DwEMhPg
+
+When to use Callbacks and Dependencies in Rails  Preview
+https://youtu.be/hci4zQEBz6Q
+Videos 301-325

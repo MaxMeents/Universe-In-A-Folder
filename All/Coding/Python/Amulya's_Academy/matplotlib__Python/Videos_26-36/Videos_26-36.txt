@@ -1,0 +1,34 @@
+
+Bar Graph  Bar Chart  Matplotlib  Python Tutorials
+https://youtu.be/Go0jBRVqmEI&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Histogram  Part 1  Matplotlib  Python Tutorials
+https://youtu.be/r-Dihn9-uTU&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Histogram  Part 2  Matplotlib  Python Tutorials
+https://youtu.be/My2lVj74q0s&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Horizontal Bar Graph  Bar Chart  Matplotlib  Python Tutorials
+https://youtu.be/KGlrNGgJXQI&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+How To Add Annotation To The Plot  Annotate Function in Matplotlib  Python Tutorials
+https://youtu.be/jWXZ5z8oEMk&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+How To Add Box Around The Text in The Plot  bbox Keyword Argument  Matplotlib  Python Tutorials
+https://youtu.be/a8q3Dq74BxY&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+How To Change The Color Of Individual Bars In Histogram  Matplotlib  Python Tutorials
+https://youtu.be/mmjMQkUych8&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Multiple Bar Chart  Grouped Bar Graph  Matplotlib  Python Tutorials
+https://youtu.be/ZjQCPMO7LBE&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Stacked Bar Graph  Matplotlib  Python Tutorials
+https://youtu.be/fOJycZMxuoQ&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Stacked Histogram  Matplotlib  Python Tutorials
+https://youtu.be/pRfs9tx-OcA&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+
+Types of Plot  Line Plot  Matplotlib  Python Tutorials
+https://youtu.be/C3h0tVoo944&list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm
+Videos 26-36

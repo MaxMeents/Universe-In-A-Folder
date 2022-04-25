@@ -1,0 +1,40 @@
+
+Python Web Frameworks 1 Install Bottle
+https://youtu.be/YbPw-3SJWSw&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 10 bottle item 1
+https://youtu.be/VKs9NPgYAzU&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 11 bottle item 2
+https://youtu.be/k9Huu6IQG7g&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 12 Bottle Edit Task 1
+https://youtu.be/fAgSPmHOHCY&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 2 Bottle Todo Application
+https://youtu.be/4Z4Ed3E4O8A&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 3 Bottle Todo Overview
+https://youtu.be/Wk5BFsHN7Ng&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 4 Bottle Todo Templates 1
+https://youtu.be/1o0WNa3aqrc&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 5 Bottle Todo Templates 2
+https://youtu.be/mY8DynrzIzk&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 6 Bottle Todo Database
+https://youtu.be/WP01FY-I2C8&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 7 Bottle Todo newtask 1
+https://youtu.be/3F9MREG4ANs&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 8 bottle newtask 2
+https://youtu.be/b1yFXpimLY0&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks 9 Bottle Newtask 3
+https://youtu.be/Q5G2OrBKOpI&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+
+Python Web Frameworks
+https://youtu.be/N0Pd83eDt7s&list=PLBBLzLT9U_rTzVednxB1VhTkgoEkF5xDz
+Python Web Frameworks Using Bottlepy

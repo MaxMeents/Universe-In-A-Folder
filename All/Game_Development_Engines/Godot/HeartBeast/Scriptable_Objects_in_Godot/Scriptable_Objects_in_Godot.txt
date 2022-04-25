@@ -1,0 +1,7 @@
+
+Godot Engine 3 - Scriptable Objects P1
+https://youtu.be/wuxal3C0800&list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ
+
+Godot Engine 3 - Scriptable Objects P2
+https://youtu.be/nkMj4Is81zs&list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ
+Scriptable Objects in Godot

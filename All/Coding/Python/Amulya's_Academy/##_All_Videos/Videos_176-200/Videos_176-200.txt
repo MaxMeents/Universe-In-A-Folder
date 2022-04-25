@@ -1,0 +1,76 @@
+
+Arithmetic Operation in NumPy Arrays  Python Tutorials
+https://youtu.be/cNIWve1xEU4
+
+Array Manipulation  flatten and ravel  NumPy Tutorials  Python Programming
+https://youtu.be/6XLXmzv6ajQ
+
+Array Manipulation  Insert and Delete Function  NumPy Tutorials  Python Programming
+https://youtu.be/6Z98UzGc-Us
+
+Array Manipulation  reshape and resize  NumPy Tutorials  Python Programming
+https://youtu.be/KehyltXMrZE
+
+Array Manipulation  Splitting and Joining Arrays  NumPy Tutorials  Python Programming
+https://youtu.be/rpmp_-Xq0kU
+
+Array Manipulation  transpose and swapaxes  NumPy Tutorials  Python Programming
+https://youtu.be/5vT553CSxas
+
+Broadcasting  NumPy Tutorials  Python Programming
+https://youtu.be/0u9OzBSRZec
+
+FLAMES Game - Python Program  Interview Question
+https://youtu.be/9L-gnvlgYDM
+
+Guess The Output 07  Python Programs And Answers  Interview Questions
+https://youtu.be/kEeSjq_ftYE
+
+Guess The Output 08  Python Programs And Answers  Interview Questions
+https://youtu.be/BG-RUkUrk7I
+
+Guess The Output 09  Python Programs And Answers  Dictionaries
+https://youtu.be/YP9ThG3q0hQ
+
+Leap Year Program  Python Tutorials
+https://youtu.be/yy70kqfKpbs
+
+Matrix Class in NumPy  Python Tutorials
+https://youtu.be/v4rLFj-lm_4
+
+Matrix in NumPy  Python Tutorials
+https://youtu.be/X5BX0B-YAC0
+
+Palindrome Date Program  Python Tutorials  ddmmyyyy format
+https://youtu.be/pfjcCrm0L2c
+
+Palindrome Dates  Python Tutorials  mmddyyyy  Date Formats
+https://youtu.be/gGjbpT5w-sw
+
+Program To Print All the Palindrome Dates in The Given Year  Python Tutorials
+https://youtu.be/R08zDBQjxRc
+
+Program To Print Next Palindrome Date  Python Tutorials
+https://youtu.be/VUGAtoyW9Kg
+
+Python Pattern Programs - Printing Numbers in Triangle Shape  Column wise  Interview Question
+https://youtu.be/-vEZSOsWER0
+
+Python Pattern Programs - Printing Stars '' and A in Right Angle Triangle Shape  Star Pattern
+https://youtu.be/TdgoIdDvGIw
+
+Python Program For Matrix Addition and Subtraction
+https://youtu.be/Qmhjg8qVbX8
+
+Python Program For Matrix Multiplication
+https://youtu.be/QHWJONiTbmQ
+
+Python Program To Find Transpose Of A Matrix
+https://youtu.be/z_HSnmnDVgA
+
+Python Tutorials - Multiplication Table Program
+https://youtu.be/h_4AQzP3FsI
+
+Valid Date Program  Python Tutorials
+https://youtu.be/-Z5qhTocLSo
+Videos 176-200

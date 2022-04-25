@@ -1,0 +1,76 @@
+
+Advance Function Practice 1  Python tutorial 158
+https://youtu.be/inXF1cRRNYA
+
+Advance Function Practice 2  Python tutorial 159
+https://youtu.be/F9LQEstQdH0
+
+Advance min() and max()  Python tutorial 162
+https://youtu.be/06jKP9eOODo
+
+Advance sorted function  Python tutorial 163
+https://youtu.be/hkAYlhf0zjA
+
+any and all function  Python tutorial 160
+https://youtu.be/FaF7qgNjfcw
+
+any and all practice  Python tutorial 161
+https://youtu.be/cz7vpBnP974
+
+Chapter 14 Exercise 1  Python tutorial 173
+https://youtu.be/RRw-KfJp_Og
+
+Chapter 14 Intro
+https://youtu.be/67zrT8w9Elk
+
+Chapter 15 Exercise 1  Python tutorial 179
+https://youtu.be/7eUsifP9dwg
+
+Closures Practice  Python tutorial 168
+https://youtu.be/weYKgSCQMis
+
+Decorators Intro  Python tutorial 169
+https://youtu.be/7pgo4gV38fE
+
+Decorators Part 2  Python tutorial 170
+https://youtu.be/Y4g41W4ZM4I
+
+Decorators part 3  Python tutorial 171
+https://youtu.be/osiEiq3J0Y4
+
+Decorators Practice  Python tutorial 172
+https://youtu.be/dUffZZxSoXc
+
+Decorators Practice 2  Python tutorial 175
+https://youtu.be/JyYdy18ZhlI
+
+Decorators with arguments  Python tutorial 176
+https://youtu.be/f9XPvGmmkVc
+
+Exercise 1 solution  Python tutorial 174
+https://youtu.be/CNn7m1e11eo
+
+Function returning function  Python tutorial 167
+https://youtu.be/Y2l2BjjlMzI
+
+Generator example  Python tutorial 178
+https://youtu.be/0KU6SpdZfuw
+
+Intro to generators  Python tutorial 177
+https://youtu.be/EjlfUE_6-ec
+
+Iterator vs Iterable  Python tutorial 155
+https://youtu.be/oONgcBDMA_8
+
+More about functions  Python tutorial 164
+https://youtu.be/EspD76k4Jro
+
+Pass function as argument  Python tutorial 166
+https://youtu.be/gSbno-64ETc
+
+Zip function  Python tutorial 156
+https://youtu.be/lyho3hHE1tM
+
+Zip function part 2  Python tutorial 157
+https://youtu.be/JJpfaaf9DhM
+Videos 301-325

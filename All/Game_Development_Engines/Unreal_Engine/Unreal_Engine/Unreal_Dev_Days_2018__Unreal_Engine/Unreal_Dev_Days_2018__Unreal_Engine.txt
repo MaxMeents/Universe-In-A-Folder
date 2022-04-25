@@ -1,0 +1,13 @@
+
+Adjusting Your Content to Perform on Target Hardware  Dev Days 2018  Unreal Engine
+https://youtu.be/Ln8PCZfO18Y&list=PLZlv_N0_O1gbPE_HARYHQAx2oqWEo3YOZ
+
+Introduction to Niagara  Dev Days 2018  Unreal Engine
+https://youtu.be/GIzwxwrM9Mk&list=PLZlv_N0_O1gbPE_HARYHQAx2oqWEo3YOZ
+
+Making the Most of Animation Blueprints  Dev Days 2018  Unreal Engine
+https://youtu.be/YjQRBHvltOk&list=PLZlv_N0_O1gbPE_HARYHQAx2oqWEo3YOZ
+
+What’s New for Animation in UE4  Dev Days 2018  Unreal Engine
+https://youtu.be/nkFaHyqvK4w&list=PLZlv_N0_O1gbPE_HARYHQAx2oqWEo3YOZ
+Unreal Dev Days 2018  Unreal Engine

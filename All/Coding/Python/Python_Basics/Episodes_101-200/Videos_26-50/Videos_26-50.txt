@@ -1,0 +1,76 @@
+
+Python Basics 25 Horse Race Test Pt 1
+https://youtu.be/TSrQMFTf94E&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics 25 Horse Race Test pt 2
+https://youtu.be/qS8hUo84HX4&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics 25 Horse Race Test pt 3
+https://youtu.be/jxL9LmrS2SI&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics 25 Horse Race Test Uncut
+https://youtu.be/TDRHNEbvvYs&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Doc String
+https://youtu.be/aCswFZ0L-Fg&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Keyword Del Pt 2
+https://youtu.be/l440I9hh_Nw&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Keyword Del
+https://youtu.be/EIR20c9BWT0&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Lambda
+https://youtu.be/JIle-V_5TUE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics List Index Method
+https://youtu.be/usi6-H3F2jw&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Longest Substring pt 1
+https://youtu.be/s7DuhqgJWKA&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Longest Substring pt 2
+https://youtu.be/30RpOIJ6IQM&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Longest Substring Uncut
+https://youtu.be/TxyWZ3pEcjU&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Packing and Unpacking
+https://youtu.be/ElK1sCg79zo&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Random Shuffle
+https://youtu.be/Jiv9zVeIRBY&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Re Module Pt  1
+https://youtu.be/Qa10ieyKPMM&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Scope Local and Global Variables
+https://youtu.be/D18izsX-IPM&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Sort List of Lists pt 3
+https://youtu.be/1g0ne8YC4BA&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Sort List of Lists Uncut
+https://youtu.be/oReW9YQc3DE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Method Join
+https://youtu.be/qMfUyDsbDMg&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Module Pt. 2
+https://youtu.be/K2ZhI2aRDOU&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Sum All Positive Numbers
+https://youtu.be/30nPCSkVPgA&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics SyntaxError
+https://youtu.be/4JpAIrwDVmo&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Time Module
+https://youtu.be/2_psoPwyEuE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Tip Calculator
+https://youtu.be/XVPz9CDga2M&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Try and Except
+https://youtu.be/s7f4fs0Png8&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+Videos 26-50

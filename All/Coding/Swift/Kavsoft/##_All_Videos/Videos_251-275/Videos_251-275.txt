@@ -1,0 +1,76 @@
+
+Designing Dashboard App UI Using SwiftUI - Stylish Dashboard App UI - SwiftUI Complex UI Tutorials
+https://youtu.be/Ncxrch0T500
+
+iOS 14 Beta 6 File Importer & File Exporter - SwiftUI 2.0 Document Picker
+https://youtu.be/tnOVnwbkAA0
+
+SwiftUI 2.0 Apple Music Header Animation [ Parallax Effect ] - SwiftUI Parallax Effect - SwiftUI 2.0
+https://youtu.be/9s9O0mzXIXg
+
+SwiftUI 2.0 Apple Wallet Circular Slider - SwiftUI Circular SliderSeeker - SwiftUI 2.0 Tutorials
+https://youtu.be/80SHJeeiJ50
+
+SwiftUI 2.0 Circular Audio Visualizer - SwiftUI Custom Audio Player - AVKit - SwiftUI 2.0 Tutorials
+https://youtu.be/vpgcjPRr5PE
+
+SwiftUI 2.0 Complex UI Tutorials - Analog Clock App - SwiftUI - SwiftUI 2.0 Tutorials
+https://youtu.be/BTtERko7j1Y
+
+SwiftUI 2.0 Complex UI Tutorials - Custom Shapes - Messaging App UI - SwiftUI 2.0 Tutorials
+https://youtu.be/Vcz_v35VuvQ
+
+SwiftUI 2.0 Complex UI Tutorials - Recipe App UI - Custom Tab Bar - SwiftUI 2.0 Tutorials
+https://youtu.be/MORBfE1RQyY
+
+SwiftUI 2.0 Course App - SwiftUI 2.0 Custom Tab Bar With Navigation Views - Xcode 12 - SwiftUI 2.0
+https://youtu.be/imzxFHB2_gI
+
+SwiftUI 2.0 Custom Navigation Menu - Custom Side Bar Menu - SwiftUI 2.0 Tutorials
+https://youtu.be/4JPaSJlrE6k
+
+SwiftUI 2.0 Custom Tab Bar - Preserving State When Ever Tab Changes In SwiftUI - SwiftUI 2.0
+https://youtu.be/3psB2i2Ondo
+
+SwiftUI 2.0 Integrating Login Page With Firebase Authentication - Part 2 - SwiftUI MVVM Pattern
+https://youtu.be/ZZY42MDU5Aw
+
+SwiftUI 2.0 JSON Parsing Using Our Own Kavsoft API - SwiftUI 2.0 Grids - SwiftUI 2.0 Tutorials
+https://youtu.be/BCk2RBKuylo
+
+SwiftUI App Lock Using @AppStorage  SwiftUI 2.0 Custom Number Pad - SwiftUI 2.0 AppStorage
+https://youtu.be/7Zwow8FptYA
+
+SwiftUI Bottom Sheet  SwiftUI Apple Maps Bottom Sheet  Drawer - SwiftUI 2.0 Tutorials
+https://youtu.be/Win3QHXgGMk
+
+SwiftUI Chat App With Firebase - Global Chat App - Firebase Cloud Firestore - SwiftUI 2.0 Tutorials
+https://youtu.be/PrasbHixcpU
+
+SwiftUI Complex UI Tutorials - Nike Shoe App UI With Animations - SwiftUI 2.0 Tutorials
+https://youtu.be/6kUgTmusgR4
+
+SwiftUI GIPHY API - Opening GIF Files In SwiftUI 2.0 Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/pOYomjaAOBU
+
+SwiftUI Package Manager [ SPM ] For Firebase Beta Using SwiftUI 2.0 - Installing Firebase Using SPM
+https://youtu.be/J1ybz7LJqEM
+
+SwiftUI REST API's - Building Own REST API's Using Sails.js In SwiftUI - RESTFul APIs Using Sails.js
+https://youtu.be/1g-6DutThK0
+
+SwiftUI Share Sheet - Sharing Images Using SwiftUI - SwiftUI UIActivityViewController - SwiftUI 2.0
+https://youtu.be/WZOvroeUuxI
+
+SwiftUI Social Media App - EP 1 - Login And Register Page Using Firebase Phone Auth - SwiftUI 2.0
+https://youtu.be/OTOKC4vEIcA
+
+SwiftUI Social Media App - EP 2 - Custom Tab Bar - Profile  Setting View - SwiftUI 2.0
+https://youtu.be/aembwt89xbU
+
+SwiftUI Social Media App - EP 3 Final - Create - Update - Delete Posts - SwiftUI 2.0 Tutorials
+https://youtu.be/yTWPsC6DJFo
+
+SwiftUI Stacked Carousel Slider - Custom Carousel List - SwiftUI 2.0 Tutorials
+https://youtu.be/_mWfRKyhMIk
+Videos 251-275

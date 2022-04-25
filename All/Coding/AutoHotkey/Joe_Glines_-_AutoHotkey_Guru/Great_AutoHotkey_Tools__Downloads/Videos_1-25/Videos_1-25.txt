@@ -1,0 +1,76 @@
+
+Access 1,317 file attributes with FileExPro from SKAN
+https://youtu.be/Ec73zHpxK84&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Add to startup Easily add  remove programs from Windows Startup
+https://youtu.be/RoHxDLb7uso&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Adding HotStrings in AutoHotKey
+https://youtu.be/ejl6hvWaWiY&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Auto bolder- Quickly change the format of what you click  select
+https://youtu.be/g2u9_6oEdw8&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Automatically Search & Replace your clipboard with the Old Swaparoo!
+https://youtu.be/VCEYKVczHs0&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Calculating Time and Money savings from automating a process
+https://youtu.be/UrShop9m054&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Clean Phone numbers with RegEx
+https://youtu.be/bPkM-nmL-rQ&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Directory Opus meets Quick Access Popup - Discussing 2 great productivity tools
+https://youtu.be/4HGl09aVFgA&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Easily create button images with HellBent's Button theme creator
+https://youtu.be/LDpemGzcPS8&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Easily rename many files with Multi-Rename Script in AutoHotkey
+https://youtu.be/dlWeFhPOnDE&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Fiddler Everywhere API AutoHotkey Syntax Writer
+https://youtu.be/mpmG6hTCkyg&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Fixing the Windows 10 Clipboard manager Using Enter instead of Space
+https://youtu.be/p_tSwrbIE-U&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Free Random Code Generator built in AutoHotkey
+https://youtu.be/2xpBl69VtIY&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Free version of MS Office on every Windows 10 machine!
+https://youtu.be/Z2PIvUyNYkI&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Hotkeys for Pasting Images Easily paste images with this tool
+https://youtu.be/p4DI28ick6I&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+How to Compare Mic Levels before recording
+https://youtu.be/7Cr0RP0Ntt4&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+How to easily Apply Styles to AHK GUIs - throw some lipstick on them!
+https://youtu.be/hqdMuRK-KOw&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+How to easily create Bar Charts with AutoHotkey and the GDI library
+https://youtu.be/YaCuxGpMtmU&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+How to use the Google API to translate texts
+https://youtu.be/6l6mO28zaGY&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+How to work with images but no image files
+https://youtu.be/NqlzenpEqgI&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Is AutoHotkey Safe- How to evaluate an AutoHotkey Script
+https://youtu.be/RaAD1kNMZCo&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Recording Audio with AutoHotkey and BASS dll
+https://youtu.be/60x-9Jn7Krg&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+the Naked Clipboard Adding a GUI to Paste Plain Text AutoHotkey script
+https://youtu.be/DK3xWHkUNi4&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+VLC Notes and packing up functions from an AutoHotkey library
+https://youtu.be/U05A33FMw1E&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+
+Windows Management Instrumentation (WMI) and AutoHotkey
+https://youtu.be/K-OvdFEgMhQ&list=PL3JprvrxlW25ZB5idEqSCN1CG_1vl-RJU
+Videos 1-25

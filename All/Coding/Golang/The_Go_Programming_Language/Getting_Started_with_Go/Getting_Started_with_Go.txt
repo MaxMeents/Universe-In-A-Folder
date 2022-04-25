@@ -1,0 +1,4 @@
+
+How to install Go on Windows (Golang)
+https://youtu.be/kE2DIabB10k&list=PLtLJO5JKE5YBh4MI0KpgzYTgS0kN-RYwA
+Getting Started with Go

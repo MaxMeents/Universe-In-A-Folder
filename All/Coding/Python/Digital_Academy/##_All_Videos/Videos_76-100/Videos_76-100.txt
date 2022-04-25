@@ -1,0 +1,76 @@
+
+Arithmetic Operators in Python - Python Tutorial for Beginners
+https://youtu.be/F3ET7-faVuU
+
+Assignment Operators in Python - Python Tutorial for Beginners
+https://youtu.be/OMQu89GgnQ4
+
+Comparison Operators in Python - Python Tutorial for Beginners
+https://youtu.be/6EPvxL_ELnU
+
+Data Types Conversion in Python (Casting) - Python Tutorial for Beginners
+https://youtu.be/XlKnfVodep8
+
+Data Types in Python Number, String, List, Dictionary, Tuple, Set (Overview) - Python for Beginners
+https://youtu.be/EXnA95QZGE0
+
+Dictionaries in Python (Overview) - Data Types in Python - Python Tutorial for Beginners
+https://youtu.be/JDAfy5kn0is
+
+Digital Academy - FREE Tutorials #SHORTS
+https://youtu.be/epUfL3Xe8gU
+
+Download & Install Python - Windows, Linux, macOS, Android, iOS - Python Tutorial for Beginners
+https://youtu.be/QjrTCY7p6fw
+
+How to Write your 1st Python Program (and Save your Script) - Python Tutorial for Beginners
+https://youtu.be/rax3tAmvHGI
+
+Lists in Python (Overview) - Data Types in Python - Python Tutorial for Beginners
+https://youtu.be/GTUqD6Vp3_U
+
+Logical Operators in Python (AND, OR, NOT) - Python Tutorial for Beginners
+https://youtu.be/mbkMJdg3sMY
+
+Mutable vs Immutable Data Types (Mutability in Python) - Python Tutorial for Beginners
+https://youtu.be/zVFz2cwqvVk
+
+Naming Convention & Coding Style in Python (PEP8 + Best Practices) - Python Tutorial for Beginners
+https://youtu.be/GYpK4Ep-3DA
+
+Numbers in Python (Int, Float, Complex, Boolean) - Python Data Types - Python Tutorial for Beginners
+https://youtu.be/4qRksXq23u8
+
+Object References & Object Identity - Variables in Python - Python Tutorial for Beginners
+https://youtu.be/H0Zbnv9J2Qc
+
+Python Integrated Development Environment (IDE) & Python Code Editor - Python Tutorial for Beginners
+https://youtu.be/qyH-sL4J93U
+
+Python Interactive Shell (Integrated Development Learning Environment) - Python for Beginners
+https://youtu.be/jLunPU-SzPg
+
+Reserved Keywords in Python - Python Tutorial for Beginners
+https://youtu.be/VI1LqwZi7lM
+
+Sets in Python (Overview) - Data Types in Python - Python Tutorial for Beginners
+https://youtu.be/cr-G5gYCRU8
+
+Strings in Python - Data Types in Python - Python Tutorial for Beginners
+https://youtu.be/ZpcEx2T9h4A
+
+Tuples in Python (Overview) - Data Types in Python - Python Tutorial for Beginners
+https://youtu.be/iLTwIfIbTYM
+
+Variable Scope and Lifetime in Python (Local vs Global) - Python Tutorial for Beginners
+https://youtu.be/JCj65UslPpw
+
+Variable Types in Python - Python Tutorial for Beginners
+https://youtu.be/8nj2McHfkvk
+
+Variables in Python - Definition & Declaration - Python Tutorial for Beginners
+https://youtu.be/e5Yv5uG4kZk
+
+What is an Operator in Python - Python Tutorial for Beginners
+https://youtu.be/P2FLK6dqfxY
+Videos 76-100

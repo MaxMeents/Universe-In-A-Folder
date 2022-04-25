@@ -1,0 +1,76 @@
+
+Abdur-Rahmaan Janhangeer - Django Clone From Scratch With Flask
+https://youtu.be/rkzXQOC1T0Q&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Adrian Meyer - Detecting and Analyzing Solar Panels in Switzerland using Aerial Imagery
+https://youtu.be/h0mmpcBAYfA&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Alejandro Saucedo - Real Time Stream Processing for Machine Learning at Massive Scale
+https://youtu.be/Kkt986ZhKxs&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Aly Sivji - Pluggable Architecture
+https://youtu.be/mR9LgU_Pakc&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Chase Stevens - Painless Machine Learning in Production
+https://youtu.be/8Zn4hV9xE1I&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Chin Hwee Ong - Speed Up Your Data Processing
+https://youtu.be/PB7_5BQp1SU&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+D. R. Manrique - Roadmap to an Open Source Artificial Pancreas & Diabetes monitoring with Flask
+https://youtu.be/8s4_zDMey30&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Eran Friedman - Boosting simulation performance with Python
+https://youtu.be/HHTd-eCnQ-8&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Eyal Trabelsi - Elegant Exception Handling
+https://youtu.be/6sVDuFQRGgo&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Eyal Trabelsi - Practical Optimisations for Pandas
+https://youtu.be/RXMiMpMfzXw&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Jessica McKellar - Python in Prison how open source can change a criminal justice system
+https://youtu.be/H7oZuz0bc1w&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Laurent PICARD - Building smarter solutions with no expertise in machine learning
+https://youtu.be/FTFfgTpMjfc&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Lilian Nandi - Taking Part in the Greatest Experiment in History
+https://youtu.be/Nyypj0KYXaU&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Mattia Ferrini - Decision Science with Probabilistic Programming
+https://youtu.be/kc6D7aSFpaM&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Michał Wodyński - Difficulties of Python code developmentpackages,virtualenvs and package mangers
+https://youtu.be/NZ8K1GXI94M&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Naoise Holohan - Diffprivlib Privacy-preserving machine learning with Scikit-learn
+https://youtu.be/LWneaO94esk&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Nicholas Tollervey - How to Run a Corridor Track in a Remote Conference with Python
+https://youtu.be/0FC5T396NVk&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Olga Matoula - Social distancing from your system’s dependencies An API’s Story
+https://youtu.be/sgGOqb85VSU&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Philip Jones - An ASGI Server from scratch
+https://youtu.be/FNBxYyeti-s&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Priscila Gutierres - Radio Astronomy with Python
+https://youtu.be/zHMR5gWSFCw&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Ruud van der Ham - Attractive GUIs with PySimpleGUI
+https://youtu.be/YIIlqIVBMek&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Shreya Khurana - Train. Serve. Deploy! Story of a NLP Model ft. PyTorch, Docker, Uwsgi and Nginx
+https://youtu.be/BSDW8PWUVF0&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Szymon Pyżalski - Full Stack Type Safety
+https://youtu.be/hAzg2iBe6cg&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+William Arias - Deploy your Machine Learning Bots like a boss with CICD
+https://youtu.be/0nmk_0kD8C0&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+William Horton - A Brief History of Jupyter Notebooks
+https://youtu.be/kFhhCOeYcGw&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+Videos 26-50

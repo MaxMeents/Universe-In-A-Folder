@@ -1,0 +1,16 @@
+
+Building a Quadcopter p.1 - Introduction
+https://youtu.be/g7SjuTzH44c&list=PLQVvvaa0QuDfp4GmCdhbPhPwWt4O_TBmB
+
+Building a Quadcopter p.2 - Parts
+https://youtu.be/aZltBzPUPKI&list=PLQVvvaa0QuDfp4GmCdhbPhPwWt4O_TBmB
+
+Building a Quadcopter p.3 - Assembly
+https://youtu.be/ExhH_swIIYU&list=PLQVvvaa0QuDfp4GmCdhbPhPwWt4O_TBmB
+
+Building a Quadcopter p.4 - ESC Calibration with Hobbypower KK2.15
+https://youtu.be/B5XDI85T1qo&list=PLQVvvaa0QuDfp4GmCdhbPhPwWt4O_TBmB
+
+Building a Quadcopter p.5 - First flight and other Info
+https://youtu.be/wXYZHfZVY-4&list=PLQVvvaa0QuDfp4GmCdhbPhPwWt4O_TBmB
+Building and Programming a Quadcopter

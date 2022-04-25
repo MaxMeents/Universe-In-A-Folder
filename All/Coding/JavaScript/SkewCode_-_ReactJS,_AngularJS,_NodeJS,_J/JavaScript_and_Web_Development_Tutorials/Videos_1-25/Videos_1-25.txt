@@ -1,0 +1,67 @@
+
+Advanced JavaScript (ES6) Tutorial - Part 1
+https://youtu.be/7-ACE9Y_GSs&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Advanced JavaScript (ES6) Tutorial - Part 2
+https://youtu.be/78plH8hSKKo&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Angular 4 Components & Data Binding Tutorial
+https://youtu.be/icCDiptKPzY&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Bootstrap Tutorial For Beginners
+https://youtu.be/jzRrF3yOAMI&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Building REST APIs with NodeJS and ExpressJS  REST API Tutorial
+
+
+CSS Preprocessors Tutorial  Understanding SASS and LESS
+
+
+Evolution of JavaScript Modules
+https://youtu.be/pFTWiUMaJQU&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Functional Programming in JavaScript
+https://youtu.be/BRC-r6l1zYE&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Git and Github Tutorial For Beginners
+https://youtu.be/gznSBhKegWg&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+HTML and CSS Tutorial For Beginners
+https://youtu.be/VEEdyQJ584s&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Introduction to Angular  Angular tutorial for beginners
+
+
+JavaScript - More Tricky Interview Questions And Answers
+
+
+JavaScript - Tricky Interview Questions And Answers
+
+
+JavaScript Tutorial For Beginners
+https://youtu.be/JcLOXV2jk4U&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+JS Webinar #1 Introduction to Webpack by Naveen Pete
+
+
+MongoDB Tutorial for Beginners  Introduction to MongoDB
+
+
+Node.JS Tutorial For Beginners
+https://youtu.be/_9tcueGoDW8&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+ReactJS Tutorial  ReactJS For Beginners
+https://youtu.be/NheixtwQ4vE&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Redux Tutorial  State management for ReactJS apps
+
+
+SQL Tutorial For Beginners
+https://youtu.be/FvJL1Xj5-9w&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+
+Unit Testing in Angular Apps  Karma and Jasmine Tutorial
+
+
+Using Modules in Angular  NgModules Tutorial
+https://youtu.be/sDC3QwuwQH0&list=PLVz1UWMtyw51n7FLxcSbh9S23oDUiisc0
+Videos 1-25

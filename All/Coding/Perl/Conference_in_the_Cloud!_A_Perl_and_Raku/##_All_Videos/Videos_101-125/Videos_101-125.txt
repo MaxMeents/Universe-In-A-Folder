@@ -1,0 +1,76 @@
+
+Andrea Telatin - Conda install my-module - Lightning Talks - Day 2
+https://youtu.be/zorouyVaGuE
+
+Artem Golubev - What is Autonomous Testing
+https://youtu.be/CBkxgrFh0JI
+
+Bruce Gray - Refactoring and Readability Crouching Regex, Hidden Structures
+https://youtu.be/wZZtrtoTjt4
+
+domm - Writing a good Dockerfile for Perl apps
+https://youtu.be/ARpLPQWblAM
+
+Doug Bell - Web Dev Generations
+https://youtu.be/AXhosJLAeUs
+
+E. Choroba - Schema Updates and How to Make Them Zero Downtime
+https://youtu.be/oseyOt6AFYQ
+
+Fritz Zaucker - Yes YOU can ! - Lightning Talks - Day 1
+https://youtu.be/r7JyximgP-k
+
+Graham Ollis - Perl + WebAssembly
+https://youtu.be/T_o51JnI11U
+
+Hassiba 'Bennie' Bendali - Music and Software Management Skill Transfer
+https://youtu.be/GzVxHk-RwN4
+
+J.E. Turcotte - Min-Maxing your Diet wRaku - Lightning Talks - Day 1
+https://youtu.be/iAUUb7QU51I
+
+James Keenan - Further Adventures in QA for the Perl 5 Core Distribution
+https://youtu.be/pmr9VYTTfiA
+
+Jim Bacon - Using Moo In Modulinos
+https://youtu.be/Yuc-Fb_Y7Eo
+
+Joel Berger - Awaiting Mojolicious
+https://youtu.be/I5xS2NcMzJU
+
+Juan Julián Merelo Guervós - Doccing Raku
+https://youtu.be/jYfMxDv3RE8
+
+Kevin A. McGrail - A Cyber Security Expert's Guide to Secure Programming
+https://youtu.be/wwMnPoW_uek
+
+Kevin McGrail - Talk to your Duck - Lightning Talks - Day 1
+https://youtu.be/CzXbp1C5zKs
+
+Max Maischein - 80% now, 20% never - Lightning Talks - Day 2
+https://youtu.be/Bh3q4tWUizc
+
+Nigel Hamilton - #srcpans - Lightning Talks - Day 1
+https://youtu.be/VS_IS_omAV8
+
+Stephen Roe - Why raku The PhysicsUnit edge.
+https://youtu.be/OaWLTddTNzc
+
+Thomas Klauser - NetMatrixWebhook - Lightning Talks - Day 2
+https://youtu.be/Fby5i2sDHCY
+
+TPF panel - come talk to us
+https://youtu.be/fxW1mEMfxjg
+
+Vadim Belman - Asynchronously Parallelish Testing in Raku - Lightning Talks - Day 2
+https://youtu.be/gMjZ3nBcGWs
+
+Will Braswell - The Perl Community Roadmap - Lightning Talks - Day 2
+https://youtu.be/xS6FseHf3lo
+
+Zak Zebrowski - Perl on your iPhone - Lightning Talks - Day 1
+https://youtu.be/3nGCNrHXuqQ
+
+Zakariyya Mughal - MSYS2 and You - Lightning Talks - Day 2
+https://youtu.be/s43DLnzoYeg
+Videos 101-125

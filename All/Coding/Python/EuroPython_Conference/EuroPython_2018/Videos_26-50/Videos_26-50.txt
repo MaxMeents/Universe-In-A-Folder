@@ -1,0 +1,76 @@
+
+Anastasiia Tymoshchuk - Python Decorators Gift or Poison
+https://youtu.be/JiikQ6Hg-Ac&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Andrey Vlasovskikh - What makes coding for MicroPython different
+https://youtu.be/Hy0W8tBpZu4&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Anmol Krishan Sachdeva - Understanding and Implementing Recurrent Neural Networks using Python
+https://youtu.be/bSdBG7hToOg&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Cheuk Ting Ho - Fuzzy Matching   Smart Way of Finding Similar Names Using Fuzzywuzzy
+https://youtu.be/NRAqIjXaZvw&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Craig Kerstiens - Postgres at any scale
+https://youtu.be/RJ5kRaBCV78&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Dan Taylor - From Zero to Azure with Python, Docker containers, and Visual Studio Code
+https://youtu.be/I1cG1FRjFOQ&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Elisabetta Bergamini - Bad hotel again Find your perfect match!
+https://youtu.be/ih2reTLOzWI&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Emmanuel Leblond - Trio A pythonic way to do async programming
+https://youtu.be/DK4SwlyWm-k&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Eulalia Veny - Recipe for text analysis in social media
+https://youtu.be/-S2sVhZ92PU&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+EuroPython 2018 - Lightning talks on Wednesday, July 25
+https://youtu.be/hgPH19nBlrk&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Florian Wilhelm - Bridging the Gap from Data Science to Production
+https://youtu.be/ItcMqTR7Cds&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Franziska Schropp - How do I get the job I want
+https://youtu.be/jR-i5RS0Hy0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Hrafn Eiriksson - Asyncio in production
+https://youtu.be/zM3cMTcmmk0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Jukka Lehtosalo - Getting Started with Mypy and Type Checking
+https://youtu.be/18nZ5xMeGno&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Marco Buttu - White Mars   living far away from any form of life
+https://youtu.be/9s0AUlyIbUU&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Michele Simionato - Python in scientific computing what works and what doesn't
+https://youtu.be/d9voTkxk2lA&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Naomi Ceder - Iteration Inside Out   Python's Iteration Protocol
+https://youtu.be/kXd1sIbdM8w&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Nicola Iarocci - My Story with Python and Open Source
+https://youtu.be/7c-2I3vYkhw&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Nicole Harris - PyPI Past, Present and Future
+https://youtu.be/scum5a_mqBc&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Peter Hoffmann - Using Pandas and Dask to work with large columnar datasets  in Apache Parquet
+https://youtu.be/fcPzcooWrIY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Radoslav Georgiev - Django structure for scale and longevity
+https://youtu.be/yG3ZdxBb1oo&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Raniere Silva, Tania Sanchez Monroy - A Jupyter Enhancement Proposal Story
+https://youtu.be/G_OFsgPhtB0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Romain Dorgueil - Using Bonobo, Airflow and Grafana to visualize your business
+https://youtu.be/FCKrfWXBPE4&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Stefan Behnel - Cython to speed up your Python code
+https://youtu.be/4xpeJYWvbuU&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Yenny Cheung - Washing away code smells
+https://youtu.be/-8ljgLLlyZw&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+Videos 26-50

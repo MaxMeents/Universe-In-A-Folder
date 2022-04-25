@@ -1,0 +1,16 @@
+
+モデル予測制御（MPC）とは？ Part1 ～ 基本的な考え方
+https://youtu.be/i68MkFz9L38&list=PLn8PRpmsu08qYSM56kAM98p4084822417
+
+モデル予測制御（MPC）とは？ Part2 ～ Model Predictive Control Toolbox例題
+https://youtu.be/47LzXHOXwtU&list=PLn8PRpmsu08qYSM56kAM98p4084822417
+
+【モデル予測制御を学ぶ】Part 1 モデル予測制御(MPC)のメリット
+https://youtu.be/ZoAM_0vLvUI&list=PLn8PRpmsu08qYSM56kAM98p4084822417
+
+【モデル予測制御を学ぶ】Part 2 モデル予測制御(MPC)とは？
+https://youtu.be/3cZvuPWQRzA&list=PLn8PRpmsu08qYSM56kAM98p4084822417
+
+【モデル予測制御を学ぶ】Part 3 モデル予測制御(MPC)設計パラメータ
+https://youtu.be/rwZDLxBF3Vs&list=PLn8PRpmsu08qYSM56kAM98p4084822417
+モデル予測制御

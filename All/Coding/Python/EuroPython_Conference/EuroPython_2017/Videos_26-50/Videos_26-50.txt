@@ -1,0 +1,76 @@
+
+Adam Dangoor - But how do you know your mock is valid Verified fakes of web services
+https://youtu.be/bYtA1WK7aLM&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Alberto Berti - Get over the boundaries between client and server in web app development
+https://youtu.be/saQsCY1MUBM&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Alessandro Molina - Kajiki, the fast and validated template engine you were looking for
+https://youtu.be/aHt5-WCaJyA&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Alex Martelli - Testing in Layers
+https://youtu.be/VzOOZxuqSVk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Alexys Jacob - Leveraging consistent hashing in your python applications
+https://youtu.be/erINlrgygEk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Anand Chitipothu - Writing Beautiful Code
+https://youtu.be/QIRyr6qvGrY&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Anton Caceres - Using the right Async tool, present day
+https://youtu.be/ZXrdqq7nc1I&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Antonio Verardi - Write more decorators (and fewer classes)
+https://youtu.be/VLlLIL5ZYLI&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Céline Boudier - Inspiring all children, a journey diversity and computing education
+https://youtu.be/UqRR1pG12ao&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Jakub Wasielak - Python Packaging - current state and overview
+https://youtu.be/xSbezLCJ87E&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Jan Willem Tulp - How to create inspiring data
+https://youtu.be/D6kU7kJeX_s&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Ki-Hwan Kim - GPU Acceleration of a Global Atmospheric Model using Python based Multi-platform
+https://youtu.be/XMcNFBKNWKg&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Kyle Knapp - Serverless Applications with Chalice
+https://youtu.be/33-0xdxp9-I&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Leblond Emmanuel - Bringing Python to Godot game engine
+https://youtu.be/SK0BtxHROdg&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Leonardo Giordani - Abstract Base Classes a smart use of metaclasses
+https://youtu.be/I9nXiJQnGsk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Lynn Root - Tracing, Fast and Slow Digging into & improving your web service’s performance
+https://youtu.be/pprCOMmGnS0&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Michal Wysokinski - Running Python code in parallel and asynchronously
+https://youtu.be/ZKzCx4D5c3g&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Nikola Đipanov - How Facebook uses Python to build (and operate) datacenters at scale
+https://youtu.be/AJZPSvD19mU&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Patrick Arminio - Django and Graphql
+https://youtu.be/9y3zD1UxLZs&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Peter Hoffmann - Infrastructure as Python Code Run your Services on Microsoft Azure
+https://youtu.be/w3eCVRsY0Hw&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Piotr Dyba - CyberSecurity.bootcamp()
+https://youtu.be/Mu-hWspzdxI&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Sebastian Buczyński - Why you don't need design patterns in Python
+https://youtu.be/G5OeYHCJuv0&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Stephane Wirtel - Django From a nightmare to a dream with Best Practices.
+https://youtu.be/szclRga-hDk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Takuro Wada - OpenAPI development with Python
+https://youtu.be/OYTtlEUSDBE&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Will Foster - Skynet your Infrastructure with QUADS
+https://youtu.be/nT8k3ykGeJQ&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+Videos 26-50

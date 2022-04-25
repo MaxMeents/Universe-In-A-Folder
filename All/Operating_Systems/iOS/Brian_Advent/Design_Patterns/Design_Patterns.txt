@@ -1,0 +1,10 @@
+
+iOS Swift Tutorial Guide to Using JSON Data from the Web
+https://youtu.be/_c0pAz3UPEs&list=PLY1P2_piiWEZaK2t9HIEnROoAlinBwv7D
+
+Live stream UIKit and the Model-View-Controller design pattern
+https://youtu.be/UhX_Xvc3fKU&list=PLY1P2_piiWEZaK2t9HIEnROoAlinBwv7D
+
+Simple UI, Custom Delegate and TableViewCells Swift Tutorial
+https://youtu.be/VxAlvrwIeQM&list=PLY1P2_piiWEZaK2t9HIEnROoAlinBwv7D
+Design Patterns

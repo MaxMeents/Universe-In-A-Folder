@@ -1,0 +1,55 @@
+
+Adding our Historical Earnings to Chart Data Python - Programming for Fundamental Investing Part 17
+https://youtu.be/hTfPelEmLdI&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Adding Price to earnings - Using Programming for Fundamental Investing Part 6
+https://youtu.be/qKUhSoOF7RM&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Adding the graphing to the Screener - Programming and Fundamental Investing Part 15
+https://youtu.be/38rxOJSpuxc&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+All Russell 3000 symbols p.2 - Using Programming for Fundamental Investing Part 8
+https://youtu.be/2h99_0us1wA&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Completing our basic stock screener - Using Programming for Fundamental Investing Part 10
+https://youtu.be/LC7RzzBXgdw&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Completing our fundamental investing stock screener - Programming for Fundamental Investing Part 18
+https://youtu.be/b0nQ_cPN3Hk&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Connecting with Quandl for Annual earnings data - Programming and Fundamental Investing Part 11
+https://youtu.be/SHZjQoiJZKY&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Finishing the Graphing - Programming and Fundamental Investing Part 14
+https://youtu.be/JZdyG6qLSMA&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Getting All Russell 3000 ticker symbols - Using Programming for Fundamental Investing Part 7
+https://youtu.be/cBLSS0Xs3xc&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Getting Company Information - Using Programming for Fundamental Investing Part 2
+https://youtu.be/YLT2oyIgUHY&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Graphing Finance Data - Programming and Fundamental Investing Part 13
+https://youtu.be/kq0TkGRZXHw&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+More stock screening - Using Programming for Fundamental Investing Part 9
+https://youtu.be/RJYCWtQ6OIw&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Organizing Earnings Data - Programming and Fundamental Investing Part 12
+https://youtu.be/W16i4vYjN2o&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Preparing our figure to accept Finance Data - Using Programming for Fundamental Investing Part 16
+https://youtu.be/4ARKna-Mv08&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Price to Book Ratio Example - Using Programming for Fundamental Investing Part 3
+https://youtu.be/K2zyPby4034&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Screening for PEG ratio - Using Programming for Fundamental Investing Part 5
+https://youtu.be/wu_nUppNQhw&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Stock screener with Price to Book - Using Programming for Fundamental Investing Part 4
+https://youtu.be/xMy4lttlvFk&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+
+Using Programming for Fundamental Investing - Intro and Python
+https://youtu.be/fBEMfugH3OA&list=PLQVvvaa0QuDejNczz7dbpyu3JnwUBvNch
+Programming to Aid Fundamental Investing

@@ -1,0 +1,40 @@
+
+Group Chat Part 6 Browser notifications  Preview
+https://youtu.be/q8pPlYul_uE&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat Revised - Part 4 - Realtime Unread Message Updates  Preview
+https://youtu.be/e8y2WUaV0v0&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group chat revised Part 5 - User @ mentions  Preview
+https://youtu.be/hcFypWXcWYg&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat with ActionCable Part 1
+https://youtu.be/HEGeoELGTnU&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat with ActionCable Part 2
+https://youtu.be/2F_2whstOy4&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat with ActionCable Part 3
+https://youtu.be/L7stlK3zKEQ&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat With ActionCable Part 4
+https://youtu.be/TvzzaMhF_h0&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat with ActionCable Part 5
+https://youtu.be/6V_NVh550TI&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Group Chat with ActionCable Part 7  Preview
+https://youtu.be/7Z3wx1YNZbk&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Realtime Group Chat with Rails Revised - Part 1
+https://youtu.be/kTeRu40NaV8&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+Realtime Group Chat with Rails Revised - Part 2  Preview
+https://youtu.be/xtps6Nmjz8E&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+User Last Read Timestamps - Group Chat Revised Part 3  Preview
+https://youtu.be/-r8_FZgKN7E&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+
+User Last Read Timestamps - Group Chat Revised Part 3
+https://youtu.be/gmmJClVCRlE&list=PLm8ctt9NhMNU_grvQZNR7rU3DE7Zqq2Gg
+Group Chat with ActionCable

@@ -1,0 +1,31 @@
+
+Andrew Gerrand Go it's that simple! - OSDC 2011
+https://youtu.be/LWpm1qpWRwA&list=FLO3LEtymiLrgvpb59cNsb8A
+
+Cuddle, A go AppEngine Demo - Andrew Gerrand
+https://youtu.be/HQtLRqqB-Kk&list=FLO3LEtymiLrgvpb59cNsb8A
+
+golang, practical Go Programming
+https://youtu.be/2-pPAvqyluI&list=FLO3LEtymiLrgvpb59cNsb8A
+
+Google IO 2010 - Go Programming
+https://youtu.be/jgVhBThJdXc&list=FLO3LEtymiLrgvpb59cNsb8A
+
+Google IO 2011 Writing Web Apps in Go
+https://youtu.be/-i0hat7pdpk&list=FLO3LEtymiLrgvpb59cNsb8A
+
+IO BootCamp 2011 Real World Go
+https://youtu.be/7QDVRowyUQA&list=FLO3LEtymiLrgvpb59cNsb8A
+
+Lexical Scanning in Go - Rob Pike
+https://youtu.be/HxaD_trXwRE&list=FLO3LEtymiLrgvpb59cNsb8A
+
+OSCON 2010  Rob Pike, Public Static Void
+https://youtu.be/5kj5ApnhPAE&list=FLO3LEtymiLrgvpb59cNsb8A
+
+The Go Programming Language
+https://youtu.be/rKnDgT73v8s&list=FLO3LEtymiLrgvpb59cNsb8A
+
+Using SVGo, A Go Language Library for SVG Generation
+https://youtu.be/ze6O2Dj5gQ4&list=FLO3LEtymiLrgvpb59cNsb8A
+Favorites

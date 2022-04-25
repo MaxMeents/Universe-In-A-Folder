@@ -1,0 +1,76 @@
+
+Matplotlib Tutorial 1 - Introduction and Line
+https://youtu.be/q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 10 - basic customizations, rotating labels
+https://youtu.be/cLNOADl17b4&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 11 - handling unix time
+https://youtu.be/aRQxMYoCOuI&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 12 - more customization of colors and fills
+https://youtu.be/7DK70jLZBzY&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 13 - spines and horizontal lines
+https://youtu.be/Blw7OF_-hXk&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 14 - candlestick OHLC graphs
+https://youtu.be/S5Dn1HjBPA4&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 15 - styles
+https://youtu.be/ZpvQrCEufpw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 16 - Live graphs
+https://youtu.be/ZmYPzESC5YY&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 17 - annotations and placing text
+https://youtu.be/xLw9wf9uNuw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 18 - annotating last price to edge of matplotlib graph example
+https://youtu.be/FPkHecI3y_4&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 19 - subplots
+https://youtu.be/afITiFR6vfw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 2 - Legends titles and labels
+https://youtu.be/aCULcv_IQYw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 20 - implementing subplots to our stock chart
+https://youtu.be/T6y2LRcX9qM&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 21 - adding more indicator data to our charts
+https://youtu.be/e53tmzo-U3g&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 22 - cleaning chart, custom fills, pruning
+https://youtu.be/rkzpx5Bkbek&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 23 - sharex axis
+https://youtu.be/UlygQI2eSdg&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 24 - multi y axis plotting volume on stock chart
+https://youtu.be/OebyvmZo3w0&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 25 - customizing Matplotlib Legends
+https://youtu.be/XBksHCvObhQ&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 3   bar charts and histograms
+https://youtu.be/ZyTO4SwhSeE&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 4 - Scatter Plots
+https://youtu.be/WbTOutpwPHs&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 5 - stack plots
+https://youtu.be/Z81JW1NTsO8&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 6 - Pie Charts
+https://youtu.be/Oh2Dkkswy30&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 7 - loading data from files
+https://youtu.be/QyhqzaMiFxk&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 8 - getting data from the internet
+https://youtu.be/IbUa1tTT-7k&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+Matplotlib Tutorial 9 - converting data from the internet
+https://youtu.be/83-_3x2AjXI&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+Videos 1-25

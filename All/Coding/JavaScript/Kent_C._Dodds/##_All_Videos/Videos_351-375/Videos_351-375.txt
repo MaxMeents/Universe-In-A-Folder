@@ -1,0 +1,76 @@
+
+AMA answers Learning, growth, workshops, faith, productivity, and more
+https://youtu.be/4Yq6PO0r-fU
+
+API Flexibility through Inversion of Control and Composition
+https://youtu.be/5k2YasGFX7o
+
+Array methods vs loops
+https://youtu.be/Ux4g3E2VkIo
+
+Automated setup of a new MacBook for devs
+https://youtu.be/hg_V4k98Cig
+
+Create a from-html-testing-library using dom-testing-library
+https://youtu.be/OLA1xZ4-tmQ
+
+Debug Jest Tests
+https://youtu.be/m42MxzxHj1E
+
+Debug React's Event System
+https://youtu.be/WqFlnolg7mo
+
+DOM MutationObservers and dom-testing-library's waitForElement
+https://youtu.be/kVS78Ztq9RY
+
+How to find out which of my node_modules recently changed
+https://youtu.be/q9nuAVP1Iz0
+
+How toolkits (like react-scripts) work
+https://youtu.be/ZWfY-v1DCTE
+
+Make a stateful react component without a class
+https://youtu.be/kxuimioI4mI
+
+Quick Emojis input methods on Mac
+https://youtu.be/ayVanacVcAI
+
+Reduce bundle size with @babelplugin-transform-runtime
+https://youtu.be/O_wbkFdr3WM
+
+Should you test child components or parent components Or both
+https://youtu.be/0qmPdcV-rN8
+
+Simply React practice run
+https://youtu.be/woA9h3oqCLw
+
+Stepping through React's code for lifecycles and setState
+https://youtu.be/qKITFYvbIcg
+
+Test a componentDidCatch ErrorBoundary component in React
+https://youtu.be/dxWrHEOD5DU
+
+Test React Portals
+https://youtu.be/aejwiTIBXWI
+
+Testing React with Kent C. Dodds and Jack Franklin
+https://youtu.be/z4DNlVlOfjU
+
+Testing React Workshop @ PayPal 2018-09 Part 2
+https://youtu.be/OP2c0gs369U
+
+Using Chrome DevTools snippets
+https://youtu.be/_pxRodW4zbs
+
+Using CodeSandbox to make PRs to GitHub projects
+https://youtu.be/3PAQbhdkTtI
+
+Using polyfill.io
+https://youtu.be/v9VPGvG2KiM
+
+What is MDX
+https://youtu.be/d2sQiI5NFAM
+
+What is `...` (the restspread syntax) in JavaScript
+https://youtu.be/1KQ4QJ_gzrs
+Videos 351-375

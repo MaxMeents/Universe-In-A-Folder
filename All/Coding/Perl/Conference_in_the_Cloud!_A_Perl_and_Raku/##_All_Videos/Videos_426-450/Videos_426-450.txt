@@ -1,0 +1,76 @@
+
+2016 - A Brief Overview of Resources for the Perl Programmer? - David Adler
+https://youtu.be/C_Tz6U5jJ9M
+
+2016 - On The Shoulders Of Giants - Damian Conway
+https://youtu.be/Nq2HkAYbG5o
+
+2016 - RefUtil accurate functions in XS for checking references? - Sawyer X
+https://youtu.be/gv-DCM9I8v0
+
+2016 - Test2 for test writers - Chad Granum
+https://youtu.be/MmUVPLrtD-g
+
+2016 - Testing with TestClassMoose? - Dave Rolsky
+https://youtu.be/r_3kt_tJsjI
+
+2016 - Welcome to The Perl Conference?  Perl Foundation  SOTV  - Dan Wright
+https://youtu.be/73e6quzJU9U
+
+2016 - Writing XS in plain C -  Bulk 88
+https://youtu.be/3arnEXLykDc
+
+2016 - ?Solving WordBrain - A Depth First Search of a Problem Of Great Breadth? - Robert Stone
+https://youtu.be/_1fnTyJg7uA
+
+Andrew Grangaard Effective Git
+https://youtu.be/oS-mMKnAAL0
+
+Brad Lhotsky Lessons from High Velocity Logging?
+https://youtu.be/6gXxBgGEv_I
+
+Brian Gottreau If you can't remember history rewrite it so you can
+https://youtu.be/6ByzqrG2Nsc
+
+bulk 88 Writing XS in plain C
+https://youtu.be/Iu6RV2wKQwo
+
+Dana Jacobsen  ?BigNums When 64 bits just is not enough
+https://youtu.be/Dhl4_Chvm_g
+
+Henry Van Styn (vanstyn) - RapidApp by example - database web apps on steroids
+https://youtu.be/hWk1PjvKXX0
+
+Ivan Kohler ?How Perl helped us make a million dollars?
+https://youtu.be/D9fzN18F8iQ
+
+Jason McIntosh ?The True Story of Plerd
+https://youtu.be/5X4VaeoCSe8
+
+John McDonald HPCI manage cluster cloud computing
+https://youtu.be/fb7XZj__Pqg
+
+Joseph Hall and A Series of Unfortunate Requests
+https://youtu.be/wbaH_jxcA7g
+
+Lightning Talks Day 1
+https://youtu.be/q4LFSD3HPrI
+
+Lightning Talks, Phil Windley, YAPC 2015 Closing
+https://youtu.be/e5_7v7q98-g
+
+Neil Mansilla ?Building Smarter Microservices with Scale Oriented Architecture?
+https://youtu.be/USXSnfilG4g
+
+Shawn Moore ?Lifting Moose
+https://youtu.be/w9HHHNVrmOs
+
+Thomas Sibley (?trs?) - Highlights.  ?It slices, dices, and makes julienne data!?
+https://youtu.be/Zjqb0RJEasc
+
+Walt Mankowski Making movies for fun and science
+https://youtu.be/xf2UHZu9NJA
+
+YAPCNA2015 Highlights
+https://youtu.be/HAXGD3JE7pU
+Videos 426-450

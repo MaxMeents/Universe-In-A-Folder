@@ -1,0 +1,76 @@
+
+CPP program of function overloading, area
+https://youtu.be/eDnjlUHXJF4&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to calculate area of circle
+https://youtu.be/vJYpysTJ1h4&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP program to check leap year
+https://youtu.be/t-utAfBiZPo&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP program to define Time class
+https://youtu.be/mu4qtXQwQxk&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to delete a record from a file
+https://youtu.be/yxqWc1qrec0&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement ArrayADT part 1
+https://youtu.be/460xM6LlZiw&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement ArrayADT part 2
+https://youtu.be/UBGrTcE4-ik&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement ArrayADT part 3
+https://youtu.be/5wOuukA_y2s&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement ArrayADT part 4
+https://youtu.be/xT3GWODTWkA&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement LinkedListADT part 1 Hindi
+https://youtu.be/KTpj080u0r0&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement LinkedListADT part 2 Hindi
+https://youtu.be/40faiIAhN74&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement LinkedListADT part 3 Hindi
+https://youtu.be/3-j5XKIfYgQ&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement LinkedListADT part 4 Hindi
+https://youtu.be/8Z0awum7ja4&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement LinkedListADT part 5 Hindi
+https://youtu.be/dyJ_j2EchJc&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement Two Way Stack part 1 of 2
+https://youtu.be/0d1AwF6J9uw&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to implement Two Way Stack part 2 of 2
+https://youtu.be/yFcUOS16meo&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to overload + operator in Time class
+https://youtu.be/GjLuoL6P5xc&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP Program to print HELLO on the screen
+https://youtu.be/wHPzpOX2vo8&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP program to read all records from a file
+https://youtu.be/zqqNKqPxyZE&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP program to search a record in a file
+https://youtu.be/iKF8xwEySa4&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+CPP program to update a record in a file
+https://youtu.be/wwmEIbr2Suc&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+File Handling in CPP Store Object Data in a file
+https://youtu.be/5UkVzQPxvAw&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+Inheritance Example Program in C++
+https://youtu.be/w-NUP6EW-RQ&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+Overloading of parenthesis   operator in C++
+https://youtu.be/yA91pg5meb4&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+
+Overloading of subscript  operator in C++
+https://youtu.be/OMbsnA7c0lk&list=PLLYz8uHU480i1pSs2w_Vzp671ea95PeWY
+Videos 1-25

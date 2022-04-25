@@ -1,0 +1,76 @@
+
+Coding on iPad Air (2020) - SwiftUI
+https://youtu.be/cSUSeO8r3yw
+
+How to Convert SwiftUI View to UIKit View in 3 Simple Steps - SwiftUI to UIKit Integration
+https://youtu.be/H9Tj0s-hxSk
+
+iOS 14.5  Record iOS Simulator video as mp4 and GIF with Xcode 12.5. Capture Simulator for Preview
+https://youtu.be/IaYh5miP-_I
+
+SwiftUI 2.0 Auto Sizing TextField With Input Accessory View (Done Button) - SwiftUI Tutorials
+https://youtu.be/Jf8SzGLaRdA
+
+SwiftUI 2.0 Complex App UI - Food Ordering App UI - Custom Tab Bar - Custom Menu - SwiftUI Tutorials
+https://youtu.be/bO7VTH5Q9hQ
+
+SwiftUI 2.0 Complex App UI - Wallet App UI - Custom Segmented Picker - Shapes - SwiftUI Tutorials
+https://youtu.be/wQXF-KCC9QA
+
+SwiftUI 2.0 Complex UI - Custom Horizontal Wheel Picker - Custom Animations - SwiftUI Tutorials
+https://youtu.be/dW3mL4iDDms
+
+SwiftUI 2.0 Complex UI - Instagram Profile Sticky Header - Animated Segmented Picker - SwiftUI
+https://youtu.be/6XwWtWG3ZP0
+
+SwiftUI 2.0 Complex UI - Spotify Redesign App UI - Side Tab Bar - SwiftUI Tutorials
+https://youtu.be/EVlbNP47ZXQ
+
+SwiftUI 2.0 Login Page - Firebase Phone Auth - Firebase + Stream SDK - SwiftUI Tutorials
+https://youtu.be/M9d91niAidE
+
+SwiftUI 2.0 Material Design TextField - How to limit text In TextField - SwiftUI Tutorials
+https://youtu.be/Gp2rhMApiqA
+
+SwiftUI 2.0 Mobile Wallet Card Animation - Matched Geometry Effect - SwiftUI Tutorials
+https://youtu.be/y_zYvrJ_dkg
+
+SwiftUI 2.0 Photo Editor App  SwiftUI View to Image  Adding Text Over the Image  SwiftUI Tutorial
+https://youtu.be/g-lJ2ODJD8E
+
+SwiftUI 2.0 Refreshing Content View - Pull to Refresh In 10 Min - SwiftUI Tutorials
+https://youtu.be/jaMWq0_s8vs
+
+SwiftUI 2.0 Scroll To Top With Floating Action Button - ScrollView Offset - SwiftUI Tutorials
+https://youtu.be/TCpZwZ9MiMY
+
+SwiftUI 2.0 Twitter Profile Page Parallax Animation + Sticky Headers - SwiftUI Tutorials
+https://youtu.be/U5UbLFmLUpU
+
+SwiftUI 2.0 Welcome Page - Custom Animated Carousel Slider  Page Indicator - SwiftUI Tutorials
+https://youtu.be/F6pob0xb5ak
+
+SwiftUI Animation Challenge - Pulse Animation - NearBy People Pulse Ring Animation - SwiftUI 2021
+https://youtu.be/7Crm717QCSY
+
+SwiftUI Bottom Sheet Drawer - Custom Action Sheet - Drag Gesture - SwiftUI Tutorials
+https://youtu.be/CyMtjSspJZA
+
+SwiftUI Custom Carousel Slider - Complex UI - Custom Shapes - SwiftUI Tutorials
+https://youtu.be/tlas2AE_Few
+
+SwiftUI Emitting Particles Using CAEmitterLayer - Animating Particles - SwiftUI Tutorials
+https://youtu.be/eXc0q714dGg
+
+SwiftUI Login Page UI - Complex UI - SwiftUI Tutorials
+https://youtu.be/Ohr5oZW03Ok
+
+SwiftUI Matched Geometry Effect Transitions - iOS 14 Control Center - Animation's - SwiftUI Tutorial
+https://youtu.be/39Yd6eDCOqw
+
+SwiftUI Popovers in Menu Bar for macOS - Menu Bar Apps For macOS - SwiftUI Tutorials
+https://youtu.be/Fn4YZFFVq2E
+
+SwiftUI Scratch Card Effect - Custom Masking - Animation's - View Builder - SwiftUI Tutorials
+https://youtu.be/1m8_kg6Cb6I
+Videos 126-150

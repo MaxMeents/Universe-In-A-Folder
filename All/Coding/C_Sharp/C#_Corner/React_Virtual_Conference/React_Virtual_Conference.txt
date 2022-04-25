@@ -1,0 +1,22 @@
+
+A Gentle Introduction to Building Serverless Apps by Joe Karlsson  React Virtual Conference
+https://youtu.be/cqCirMTuic8&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+
+Building Maps with Impact on React and the JAMstack by Colby Fayock  Rect Virtual Conference
+https://youtu.be/NYQEyfeWdt0&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+
+Design-first APIs with OpenAPI spec by Nano Vazquez  React Virtual Conference
+https://youtu.be/vUBammSNDpM&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+
+Keynote - Applying Agile Outside of Development by Amber Vanderburg  React Virtual Conference
+https://youtu.be/7AFHy9GH2M0&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+
+Microsoft 365 Fast track Development in React by Abhijeet Jadhav  React Virtual Conference
+https://youtu.be/ITZlzEs_QX8&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+
+Sneak Peak of React Router V6 by Devlin Duldulao  React Virtual Conference
+https://youtu.be/FadZGT0gQpg&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+
+Using Hooks in React by Vipul Jain  React Virtual Conference
+https://youtu.be/q7tKmGjodG8&list=PLEy5IbO-F1-l-ZCHC_jzJ7vYYbMbCZY1F
+React Virtual Conference

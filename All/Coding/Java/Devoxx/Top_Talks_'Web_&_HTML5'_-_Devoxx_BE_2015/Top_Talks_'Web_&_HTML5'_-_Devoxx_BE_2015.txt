@@ -1,0 +1,28 @@
+
+From Jurassic Web to offline-first and more with Service Workers by Hubert Sablonnière
+https://youtu.be/SltjVpgTaCo&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+Get Hip with JHipster Spring Boot + AngularJS + Bootstrap by Matt Raible
+https://youtu.be/baVOGuFIe9M&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+JavaScript build pipelines with Gulp.js by Stefan Baumgartner
+https://youtu.be/AcCtLUZZkvE&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+Modern JavaScript debugging Christophe Jollivet
+https://youtu.be/mfcantzLOCA&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+React, a new way to create web components by Mathieu Ancelin
+https://youtu.be/p99NwRgkTl4&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+Start using CSS Grid Layout by Rachel Andrew
+https://youtu.be/Felq4z_rdPQ&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+The never-ending REST API design debate by Guillaume Laforge
+https://youtu.be/48azd2VqtP0&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+Thymeleaf by Daniel Fernández
+https://youtu.be/GVq0uzpHYoQ&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+
+WebRTC Security is web-based peer-to-peer ready for primetime by Lieven Desmet
+https://youtu.be/YunkATJKLLs&list=PLRsbF2sD7JVq8jOsRRwWSyykRSz2uwZvy
+Top Talks 'Web & HTML5' - Devoxx BE 2015

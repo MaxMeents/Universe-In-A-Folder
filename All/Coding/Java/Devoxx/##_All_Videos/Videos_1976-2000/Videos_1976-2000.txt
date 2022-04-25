@@ -1,0 +1,76 @@
+
+10 Kotlin Tricks in 10 ish minutes by Jake Wharton
+https://youtu.be/0sPzDwS55wM
+
+10 simple rules for writing great testcases by Steve Poole and Stuart Marks
+https://youtu.be/n6Nde8TgB2Y
+
+Bean Validation 2 0 by Emmanuel Bernard
+https://youtu.be/pNmzT4K9aTw
+
+Building reactive microservices with Vert.x 3.3 by Erwin de Gier
+https://youtu.be/ho9QSSPVJVU
+
+Cassandra - an introduction by Hanneli Tavante
+https://youtu.be/fnl_F2nBt9U
+
+CDI 2.0 New & Noteworthy by John Ament
+https://youtu.be/Zm7KueTn000
+
+Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab
+https://youtu.be/hWwbPguayNA
+
+Containerless in the cloud with AWS Lambda by Ryan Cuprak
+https://youtu.be/RES_QaRdgh0
+
+Deep Android Integrations by Ty Smith
+https://youtu.be/Ou9jJrL1A88
+
+HTTP2 Two Years Later by Jesse McConnell and Simone Bordet
+https://youtu.be/6tNqAFQ_gAc
+
+IDE Tooling for JavaScript by Ryan Cuprak
+https://youtu.be/bsAwTLU_g88
+
+Interview with Adam Pilkington at Voxxed Days Bristol
+https://youtu.be/JiU0b9XP6IQ
+
+Interview with Joost den Boer at Voxxed Days Bristol
+https://youtu.be/1ZLb7G6HkeU
+
+Introduction to ML with Apache Spark MLib by Taras Matyashovskyy
+https://youtu.be/szpcW-SEJK4
+
+Migrating to Java 9 Modules by Paul Bakker
+https://youtu.be/TEoexFsDP6A
+
+Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl
+https://youtu.be/uS-QAv400ps
+
+Reactive programming in Angular by Yakov Fain
+https://youtu.be/hrm8FCEbH54
+
+Robots for the Kids in All of Us by Nikhil Nanivadekar
+https://youtu.be/nlRhL892hXw
+
+Scaling Reliability So You Want to Add a 9 by Moses Nakamura
+https://youtu.be/Zl164zcY4ME
+
+Scientific Visualization Integrated into Eclipse Workbenches by Robert Smith
+https://youtu.be/NHRIeni2g_c
+
+The ISS position in real time on my mobile in less than 15mn  Yes, we can. by Audrey Neveu
+https://youtu.be/rNhujVaZf2M
+
+Typescript 2 and failing faster by Paul Everitt
+https://youtu.be/pa1Fx64AteI
+
+Typing in Java, Kotlin and Scala by Hanneli Tavante and Breandan Considine
+https://youtu.be/9h0XjuU0Ipk
+
+What's New in Java EE Security JSR-375 and Beyond by Will Hopkins
+https://youtu.be/D0SfxPvUj18
+
+Writing an InfoQ mini book with Asciidoctor by Matt Raible
+https://youtu.be/_1QzrojHnic
+Videos 1976-2000

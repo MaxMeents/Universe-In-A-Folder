@@ -1,0 +1,73 @@
+
+Little Town - Session 01 - 00 Welcome
+https://youtu.be/GrwCeAUcW78&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 01 Getting Started
+https://youtu.be/MrvgKlTExvU&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 02 First Object
+https://youtu.be/2K41dUJioBc&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 03 About Sprite Strips
+https://youtu.be/AsCyHD45koc&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 04 Sprite Properties
+https://youtu.be/Dnd1KrrvruI&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 05 Applying a Sprite to an Object
+https://youtu.be/CsevFl4Gedg&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 06 Setting Up a Room
+https://youtu.be/WrJPG-UVtzk&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 07 Running the Game
+https://youtu.be/CJIVzmR-hsg&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 08 Events
+https://youtu.be/udsLmnzKR6s&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 09 Writing GML Code
+https://youtu.be/W8y8riJ9uKU&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 10 Using Keyboard Events
+https://youtu.be/Jrn94U0FwX4&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 11 The Step Event
+https://youtu.be/k_Sur1L-jMo&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 12 Moving our player Object
+https://youtu.be/HRDPFZ0e6jA&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 13 Adding Vertical Movement
+https://youtu.be/NZV2otfz1ME&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 14 Changing All Our Movement Events to Code
+https://youtu.be/Kjfzh8E7wVk&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 15 Changing our player Sprites
+https://youtu.be/heR9ubS4iTQ&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 16 Preparing Tile Sets
+https://youtu.be/veyKqj_UFqc&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 17 Designing Our Town
+https://youtu.be/1Do6GrW5fGQ&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 18 Placing Tiles
+https://youtu.be/-OxvYtizqrk&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 19 Room with a View
+https://youtu.be/Pi8ZvU2mtck&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 20 Adding Objects
+https://youtu.be/t2kaTNwoi4s&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 21 Simple Depth Sorting
+https://youtu.be/tcIfMOSKJBQ&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 22 Object Parenting
+https://youtu.be/fsxPwWBDfzo&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+
+Little Town - Session 01 - 23 End of Session 01
+https://youtu.be/QvXt4wmfhGk&list=PLhIbBGhnxj5KOV5iR9G7q9cTFONS909j3
+Little Town - Session 01

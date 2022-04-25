@@ -1,0 +1,61 @@
+
+Creating Machine Learning Classifier Feature Sets - Python for Finance 15
+https://youtu.be/PP9qPL_zJJM&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+Testing our Machine Learning Strategy - Python for Finance 17
+https://youtu.be/YfCh2atatSE&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Accessing Fundamental company Data - Programming for Finance with Python - Part4
+https://youtu.be/-BnOmULm2gQ&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Achieving Targets and Shorting - Python for Finance with Zipline and Quantopian 8
+https://youtu.be/vkD4iKpXYbk&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Back-testing our strategy - Programming for Finance with Python - part 5
+https://youtu.be/swTmU86wYIc&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Building Machine Learning Framework - Python for Finance 14
+https://youtu.be/SqLcTkzaz0Y&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Creating our Machine Learning Classifiers - Python for Finance 16
+https://youtu.be/IzDPLu1oKfo&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Leverage - Python for Finance with Quantopian and Zipline 18
+https://youtu.be/N71gf1sMhfc&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Paper Trading a Strategy on Quantopian - Python for Finance 12
+https://youtu.be/YQY0gCgkGzo&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Pipeline API Intro - Python for Finance with Quantopian and Zipline 19
+https://youtu.be/4dUNafVIpvE&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Pipeline Tutorial - Python for Finance with Quantopian and Zipline 20
+https://youtu.be/cXDpuigSsjg&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Programming for Finance Part 2 - Creating an automated trading strategy
+https://youtu.be/_nMoCsPI-IA&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Programming for Finance Part 3 - Back Testing Strategy
+https://youtu.be/kEJiGT-ZS1w&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Programming for Finance with Python and Quantopian and Zipline Part 1
+https://youtu.be/RxjIOXstxCk&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Quantopian Fetcher - Python for Finance with Zipline and Quantopian 9
+https://youtu.be/_j8FqFg_lVw&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Shorting based on Sentiment Analysis signals - Python for Finance 11
+https://youtu.be/BMHiNwJmqAA&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Stop-Loss in strategy - Python for Finance with Quantopian and Zipline 7
+https://youtu.be/t2VXXDMZ22w&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Strategy Sell Logic with Schedule Function with Quantopian - Python for Finance 6
+https://youtu.be/tWDcFZzj_CM&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Trading Logic with Sentiment Analysis Signals - Python for Finance 10
+https://youtu.be/Iscwah5kSTM&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+
+[See Description] Understanding Hedgefund and other financial Objectives - Python for Finance 13
+https://youtu.be/GgMwSCndePM&list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN
+Python for Finance with Zipline and Quantopian

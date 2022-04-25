@@ -1,0 +1,76 @@
+
+Adrian Mönnich - useFlask() - or how to use a React frontend for your Flask app
+https://youtu.be/r0_n9d9x97Y
+
+Alessandro Molina - Python Standard Library, The Hidden Gems
+https://youtu.be/fhn0p8uS788
+
+Alexys Jacob - How we run GraphQL APIs in production on our Kubernetes cluster
+https://youtu.be/pLPWSR0lKAg
+
+Andrei Neagu - Better WebSockets - Server-Sent Events, a carefree alternative
+https://youtu.be/oKOcBXTyHCM
+
+Batuhan Taşkaya - Hack The CPython
+https://youtu.be/yJPpFDM_0NE
+
+Ben Nuttall - Astro Pi Python on the International Space Station
+https://youtu.be/MJePVWbu5g4
+
+Danny Engelbarts - And now for something completely different.
+https://youtu.be/uI6fmAuOjc8
+
+Dmitry Figol - Optimizing Docker builds for Python applications
+https://youtu.be/eRzMJuwuYpU
+
+EuroPython 2020 - Sprints Saturday Afternoon Stream - 2020-07-25
+https://youtu.be/fgsdl_g90qM
+
+EuroPython 2020 - Sprints Saturday Opening Stream - 2020-07-25
+https://youtu.be/z9J1IVNIc-Y
+
+EuroPython 2020 - Sprints Sunday Open Space Stream - 2020-07-26
+https://youtu.be/ekRqcv_ul1I
+
+EuroPython 2020 - Sprints Sunday Stream - 2020-07-26
+https://youtu.be/cxsuE5YCNwI
+
+Grzegorz Kocjan - Don't start with a database
+https://youtu.be/ypgJkISlbLM
+
+Ivana Kellyerova - import bacon 🥓
+https://youtu.be/JCmPa42rov4
+
+Jan Wagner - Docker meets Python - A look on the Docker SDK for Python
+https://youtu.be/SMv2iLwf3tU
+
+Justin Mayer - Zen of Python Dependency Management
+https://youtu.be/asL0dbN6pAY
+
+Lennart Regebro - Moving big projects to Python 3
+https://youtu.be/jFO1IYEulJM
+
+Michal Wysokinski - AsyncIO in production - War Stories
+https://youtu.be/EL5sg3A67mI
+
+Nisarg Shah - Developing GraphQL API in Django using Graphene
+https://youtu.be/voR_YknH6uo
+
+Pablo Salgado - The soul of the beast
+https://youtu.be/1_23AVsiQEc
+
+Peter Bittner - Modern Continuous Delivery for Python Developers
+https://youtu.be/MC30D_sVD6Y
+
+Pierre Glaser - Parallel computing in Python Current state and recent advances
+https://youtu.be/UVL4LFy8ch0
+
+Radomir Dopieralski - Game Development with CircuitPython
+https://youtu.be/3lACaWE9h7M
+
+Stefan Baerisch - Go(lang) to Python
+https://youtu.be/ILfPgkqdSYc
+
+Wojciech Rząsa - From HTTP to Kafka-based microservices
+https://youtu.be/YsQ7Ps0qH7k
+Videos 251-275

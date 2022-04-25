@@ -1,0 +1,76 @@
+
+An Introduction to Sinatra & Sinatra Chassis by Richard Rissanen - Atlanta Ruby User's Group 2013
+https://youtu.be/1gEjS-cGFJM&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Bacon.js - Functional Reactive Programming - Thomas Holmes - ATLRUG 2014
+https://youtu.be/eFEvGS6pOWk&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Calvin Yu - RackSwitchboard - Processing 404 Redirects - Atlanta Ruby User's Group 2013
+https://youtu.be/E-V6UJHw4kU&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+DbCharmer - Developer Happiness with SQL - Atlanta Ruby User's Group 2013
+https://youtu.be/mD1YucPeET8&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Developer Happiness Through MongoDB by Luigi Montanez - Atlanta Ruby User's Group 2013
+https://youtu.be/ch07bP0WOOc&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Developing Apps for Google Glass with Ruby and JavaScript - Lance Gleason - ATLRUG 2014
+https://youtu.be/nnilRqX-oCg&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Elastic Search with James Dabbs - Atlanta Ruby Users' Group
+https://youtu.be/bMCSdZwPM6M&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+How a RubyRails developer can help prevent a Data Breach - Atlanta Ruby Users' Group - 2014
+https://youtu.be/w-4U3Eyb6xg&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+How to interact with your front-end developer on your Ruby Project - Natalie Kozlowski - ATLRUG 2014
+https://youtu.be/JWG7S4f0SPg&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+How We Write Software at Dealermatch - Paul Daigle (2013)
+https://youtu.be/fS7OVPnCjXI&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Intermediate Ruby Background Jobs by James Dabbs - ATLRUG - 2014
+https://youtu.be/GzpOw8u6OV8&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+PANAMAX.IO Docker Management for Humans - Rupak Ganguly - Atlanta Ruby Meetup Group - 2014
+https://youtu.be/Nj_Jn6pjLPA&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Raft Consensus for Rubyists - Patrick Van Stee - Atlanta Ruby User's Group 2013
+https://youtu.be/r8nA5_K5nq4&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Red Hat Open Shift - Ernie Ellingson - Atlanta Ruby Users' Group 2014
+https://youtu.be/j7vMy7FM5NA&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Search with Asari with the ActiveAsari gem - Lance Gleason (2013)
+https://youtu.be/6zwLkqq4Zho&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Simple & Full text Search with PostgreSQL - Kylie Stradley - Atlanta Ruby Users' Group
+https://youtu.be/-2Df3yeueU4&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Solving a Highly Concurrent Problem in Go - Randall McPherson - Atlanta Ruby Users' Group 2013
+https://youtu.be/tYe2zk5ROq4&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Speech Enabling Web Apps - Ben Klang - Atlanta Ruby Users' Group 2013
+https://youtu.be/galM4Fe4E5s&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+test-queue, makes your TESTS RUN FAST - Will Farrington - Atlanta Ruby Users’ Group
+https://youtu.be/9Oo-vzwmAGs&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+The Wisper Gem (with why John Saddington's talk was great) - Obie Fernandez - ATLRUG - 2014
+https://youtu.be/q0LtzYTrmMY&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Using MongoDB and Ruby to Grow a B2B Marketplace - Nick Padgett (2013)
+https://youtu.be/7p13ebS_AWc&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Using Solr on Rails with Sunspot  - Harold Dost - Atlanta Ruby Users' Group 2014
+https://youtu.be/yfFtCno4sfw&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Why & How We Remote Pair Program - Atlanta Ruby User's Group 2013
+https://youtu.be/WgklU5pUDZA&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Why Every Developer Should Consider Blogging to Make Them Even More Competitive
+https://youtu.be/TsEwQMEAWW0&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+You'll Never Believe Which Web Framework Powers Upworthy -  Luigi Montanez -  ATLRUG, July 2014
+https://youtu.be/3tRVfO1kEnY&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+Videos 26-50

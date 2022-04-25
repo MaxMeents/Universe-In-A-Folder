@@ -1,0 +1,76 @@
+
+Adding Footstep Sounds to your Unity game with Animation Events
+https://youtu.be/Bnm8mzxnwP8
+
+Building a basic Binary MiniGame in Unity
+https://youtu.be/tSXg76CDSiw
+
+Building a simple Unity3D Snap To Grid System
+https://youtu.be/VBZFYGWvm4A
+
+Clean your Unity3D Code with Enums
+https://youtu.be/OB4a0yjuYSA
+
+Creating a custom Unity3D Machine Learning Agent
+https://youtu.be/61_FtB1PhaM
+
+Easy way to control your Unity3D weapon firing direction
+https://youtu.be/1JdalnhmpXI
+
+How To Add Context Aware Cursors to your Unity Game in 2 minutes
+https://youtu.be/hV4fBMRRbRw
+
+How to Build Flappy Bird in Unity
+https://youtu.be/soUg0HfpSlg
+
+How to use Unity3D Timeline in 10 minutes
+https://youtu.be/E5EYO3w-Xco
+
+MS Mixed Reality  Acer Headset - Fail
+https://youtu.be/8obN2KKgN7g
+
+My favorite place for free animations & characters
+https://youtu.be/cujSvZ-zfHY
+
+Playing around with multiple Xbox One Controllers & Input in Unity3D
+https://youtu.be/WIZz2oiZyqU
+
+Playing around with some Space Game Mechanics
+https://youtu.be/OFN1tjQ-MeA
+
+Practical use for the Unity OnValidate() Method
+https://youtu.be/G4jVTBA49Rc
+
+Simple System for Passing Balls in Unity
+https://youtu.be/2SZNuzU3-us
+
+Unity3D Machine Learning - Building and Training the First Example (3DBall)
+https://youtu.be/-YWts_GlHCY
+
+Unity3D Machine Learning Setup for ML-Agents on Windows 10 with Tensorflow
+https://youtu.be/qxicgknzUG8
+
+Unity3D Rant - Why Good Development Tools are Important
+https://youtu.be/K1JuihaB-L4
+
+Unity3D Rants - Using LINQ in Unity (how I use it and what to watch out for)
+https://youtu.be/1MEIAGoxafE
+
+Using scaling in your game design for fun in Virtual Reality with Unity3D
+https://youtu.be/pME123lfnEI
+
+Using Triggers and Colliders in Unity3D (with a little Rigidbody mixed in)
+https://youtu.be/RxG7YYEdmVE
+
+Varying your footsteps based on the terrain in Unity
+https://youtu.be/5fBKnZM1XE8
+
+VR User Interfaces - Health UI on the Controller
+https://youtu.be/pp8hCI1Wrtw
+
+Why and how to use Encapsulation in Unity with a simple example
+https://youtu.be/BV64ir5cgvE
+
+Why I hate Comments & How to make your code not need them (most of the time)
+https://youtu.be/pGeoQdyWtB4
+Videos 426-450

@@ -1,0 +1,76 @@
+
+API Design Don’t expose your JPA entities in your REST API
+https://youtu.be/1O3FyRxDvLY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Database Migration Update your schema without a downtime
+https://youtu.be/zpM-lIRscXM&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Distributed Transactions Don’t use them for Microservices
+https://youtu.be/jGJT1FRYGcY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Dual Writes The Unknown Cause of Data Inconsistencies
+https://youtu.be/V08YbM_yvXU&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Enum Mappings with Hibernate – The Complete Guide
+https://youtu.be/xIvPDZnaFpM&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate & JPA Date & Time Mappings
+https://youtu.be/aMjVAfVkKpM&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate 6 Mappings to Avoid for High-Performance Applications
+https://youtu.be/fKZnw_3D-5c&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Best way to fetch an association defined by a subclass
+https://youtu.be/rEzwgL5jcMM&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Common Exceptions Every Developer Must Know
+https://youtu.be/6htsqYYhlGQ&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate How to Cache DTO Projections
+https://youtu.be/uuPoKipYZl4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Ordering vs Sorting – What should you use
+https://youtu.be/Xm5Ax9D7kyk&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Java Records How to use them with Hibernate and JPA
+https://youtu.be/033eo4t2mBY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Java Text Blocks Using Multiline Strings with Hibernate & JPA
+https://youtu.be/0xwH_pxUjKs&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA & Hibernate Basic Annotations You Need To Know
+https://youtu.be/GKIXI_Vc28k&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA & Hibernate Entity Lifecycle Model
+https://youtu.be/Y7PpjerZkc0&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA & Hibernate How to use Ehcache as 2nd Level Cache
+https://youtu.be/G6Y5wDF6h5Q&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA & Hibernate Using the Optimal Query Approach & Projection
+https://youtu.be/IPRfz97-NqA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+LazyInitializationException What it is and the best way to fix it
+https://youtu.be/6p-fuwVxryg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Lombok & Hibernate How to Avoid Common Pitfalls
+https://youtu.be/j_hEdLPDczI&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Microservices & Data Implementing the Outbox Pattern with Debezium
+https://youtu.be/6nU9i022yeY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Naming Strategies in Hibernate 5
+https://youtu.be/tKmQimKRlMI&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Projections with JPA and Hibernate
+https://youtu.be/jevTat_Jkgg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Spring Data JPA How to Use Named Queries
+https://youtu.be/XWf8xYZncJY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Spring Data JPA Query Projections
+https://youtu.be/sLo6if5puC8&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Your 2 best options to fix Hibernate's MultipleBagFetchException
+https://youtu.be/8IHUFYVgRe4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+Videos 51-75

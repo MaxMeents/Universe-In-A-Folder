@@ -1,0 +1,76 @@
+
+C# 01 Introduction to C#
+https://youtu.be/4gp1PYsGmnw&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 02 Installing Visual Studio Express 2013 for Windows Desktop
+https://youtu.be/yG2ORMNn_Os&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 03 Creating Your First C# Program
+https://youtu.be/8jkdFbrLWug&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 04 Understanding the First C# Program You Created
+https://youtu.be/2G8E6744gvI&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 05 Quick Overview of the Visual C# Express Edition IDE
+https://youtu.be/SfBWst6c03M&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 06 Declaring Variables in C# and Assigning Values Duration in C#.
+https://youtu.be/5gcc6jjIn5g&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 07 Branching with the if Decision Statement in C# and the Condition in C#
+https://youtu.be/yRf4WbA30vE&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 08 Operators, Expressions, and Statements Duration in C#
+https://youtu.be/LxsOopHrS_M&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 09 For Iterations in C#.
+https://youtu.be/RHQpjvzD9G4&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 10 Creating Arrays of Values in C#
+https://youtu.be/0YL4KSxD5rM&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 11 Creating and Calling Simple Overloaded Helper Methods in C#
+https://youtu.be/NH7E0yaDIgc&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 12 While Iterations in C# and Reading Data from a Text File in C#
+https://youtu.be/cTieHYNxHVs&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 13 Working with Strings in C#
+https://youtu.be/CLsmRBmteas&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 14 Working with DateTime in C#.
+https://youtu.be/nyy2C83u-Xk&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 15 Understanding and Creating Classes in C#.
+https://youtu.be/ZDIMg-yZhfc&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 16 More About Classes and Methods in C#
+https://youtu.be/_3SR01eG07k&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 17 Working with Classes and Inheritances in the  NET Framework
+https://youtu.be/epMWsbd5KCM&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 18 Understanding Namespaces and Adding References to Assembly in Visual Studio
+https://youtu.be/HrTbkHDJGtw&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 19 Understanding Scope and Utilizing Accessibility Modifiers in C#.
+https://youtu.be/_cxXBdQ-Cf8&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 20 Enumerations and the switch Decision Statement in C#
+https://youtu.be/adksihRqg8E&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 21 Handling Exceptions in C#
+https://youtu.be/uCIJTmtPOcw&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 22 Working with Collections in C#
+https://youtu.be/Xi5AJtRltXU&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 23 Filtering and Managing Data Collections Using LINQ
+https://youtu.be/RmoeDPUoYr8&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 24 Understanding Event Driven Programming in C#.
+https://youtu.be/wS6enlBuYN8&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+
+C# 25 Where to Go from Here
+https://youtu.be/Aq_nPl7UmE4&list=PLviV1f6wPMeRVKSBxxM4rvLW_k9O7QMIo
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Hibernate Tip Apply DISTINCT to Your JPQL But Not Your SQL Query
+https://youtu.be/afd1XBRv980&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Best way to remove entities from a many-to-many association
+https://youtu.be/vYNdjtf7iAQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Control cache invalidation for native queries
+https://youtu.be/UNlxYLBVDMs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Create an EntityGraph with multiple SubGraphs
+https://youtu.be/TGdL9_9BxU8&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Customize the association mappings using a composite key
+https://youtu.be/syePgeQDTOQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Difference between @JoinColumn & @PrimaryKeyJoinColumn
+https://youtu.be/X9Jmn02WxBg&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Difference between @NotNull and @Column(nullable = false)
+https://youtu.be/i4CNH8pi3X4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to activate an entity listener for all entities
+https://youtu.be/goil35wkPGY&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Customize a Constructor Expression for Different Subclasses
+https://youtu.be/95bnQwTPvGY&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Exclude Deactivated Elements from an Association
+https://youtu.be/3GEizBtB4XY&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Handle NULL Values while Ordering Query Results in a CriteriaQuery
+https://youtu.be/9mhT-xd9Da0&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to integrate an external query builder
+https://youtu.be/Tc-1i9PzZOw&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Join Unassociated Entities in a Criteria Query
+https://youtu.be/wBD66qYcKuU&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to lazily load one-to-one associations
+https://youtu.be/qRWhFkB1D8c&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map a Boolean to YN
+https://youtu.be/DHzWtX2qUwQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How To Map an Entity to a Query
+https://youtu.be/4deURytlQLI&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to override column mappings of a superclass
+https://youtu.be/GtldqkjNN-c&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Many-to-Many Association with additional Attributes
+https://youtu.be/RVlSVPATJio&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Map a bidirectional one-to-one association with shared composite primary key
+https://youtu.be/gISfIcLMykE&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Perform different validations for persist and update
+https://youtu.be/7Y9nEh887no&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Prevent the Removal of a Parent Entity with Children
+https://youtu.be/Jmcord4_ghY&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip SINGLE_TABLE strategy without discriminator column
+https://youtu.be/elG0EBQCW8o&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip The best way to work with scalar projections
+https://youtu.be/g34V7V6Ic_c&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Validate that only 1 of 2 associations is not null
+https://youtu.be/VYkje7ng_ac&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip What’s the Difference Between @Column(length=50)  and @Size(max=50)
+https://youtu.be/dk8XfhrHFuc&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Insertion Sort Algorithm in Python Programming  Beginners Tutorials
+https://youtu.be/ltqbC8x9lWg
+
+Merge Sort in Python Programming  Example
+https://youtu.be/_EPZCbjdqTk
+
+Merge Sort in Python Programming  Program  Detailed Explanation
+https://youtu.be/_trEkEX_-2Q
+
+Palindromic Prime Numbers in Python Programming
+https://youtu.be/1U0Rx4KZaNA
+
+Python Pattern Programs - Printing Numbers in Right Triangle Shape  Column wise
+https://youtu.be/MQ_8iDZYPtM
+
+Python Pattern Programs - Printing Numbers in Right Triangle Shape 2  Column wise
+https://youtu.be/hM8hn-ZHWyw
+
+Python Pattern Programs - Printing Stars '' in Different Shapes  Star Pattern
+https://youtu.be/gDQG2RicE5A
+
+Python Program To Count The Vowels in Given Sentence  Python Programs
+https://youtu.be/2tHxfu1qKZU
+
+Python Program To Print Every Index of Duplicate Elements in List
+https://youtu.be/8a9wwsUT-o4
+
+Python Programming  - Insertion Sort Program  Beginners Tutorials
+https://youtu.be/0GQRhOzUVRI
+
+Python Programming - Shell Sort Program
+https://youtu.be/C4vvMj2r_1o
+
+Python Tutorials - Class method and Static method Decorators  Instance and Class Variable
+https://youtu.be/aLBnKIu_WVU
+
+Python Tutorials - Closure  Nested Functions
+https://youtu.be/tvWRhMkUcoU
+
+Python Tutorials - Copy  Part 1  Assignment Operators  Example
+https://youtu.be/EkZR1-D2ASY
+
+Python Tutorials - Copy  Part 2  Shallow Copy  Example
+https://youtu.be/zHMViQcLFjE
+
+Python Tutorials - Copy  Part 3  Deep Copy  Example
+https://youtu.be/Riv6UJ6GFDM
+
+Python Tutorials - Decorators Part 1  Introduction  Functions  Example
+https://youtu.be/71n2aCWMgwA
+
+Python Tutorials - Decorators Part 2  Multiple Decorators  General Decorators   Parameters
+https://youtu.be/LBhKYNFzWMw
+
+Python Tutorials - Decorators Part 3  Class Decorators
+https://youtu.be/rXLhnlP5sMY
+
+Python Tutorials - LEGB Rule  Local And Global Scope  global and non local Keyword
+https://youtu.be/hKoQhK3AS_I
+
+Python Tutorials - Linear Search  Searching key Element in the List Of Numbers
+https://youtu.be/ap8YSOIXWME
+
+Python Tutorials - Namespace and Variable Scope
+https://youtu.be/60BhDMIm5vk
+
+Python Tutorials - Property Decorators Part 1
+https://youtu.be/5-S_B6nAzO8
+
+Python Tutorials - Property Decorators Part 2  Properties
+https://youtu.be/yAuCp2aZUEI
+
+Shell Sort Algorithm in Python Programming  Beginners Tutorials
+https://youtu.be/1E9fY7EuJmI
+Videos 226-250

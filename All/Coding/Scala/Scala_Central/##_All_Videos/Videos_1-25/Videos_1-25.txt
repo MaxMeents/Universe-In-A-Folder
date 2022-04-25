@@ -1,0 +1,76 @@
+
+[Scala Central] - Bruno Bonanno - mockito-scala
+https://youtu.be/bSv2l8ALJlk
+
+[Scala Central] - Carlos Teixeira - Application monitoring and metric collection for Scala
+https://youtu.be/KVLYb9uqzwA
+
+[Scala Central] - Hosam Aly- Running a simple app in AWS Lambda (demo)
+https://youtu.be/ws4TZSpQlcU
+
+[Scala Central] - Igal Levis - Typeclasses & Akka Http
+https://youtu.be/QqyGa-H4idI
+
+[Scala Central] - Jacob Taylor Hindle - Load testing with Gatling
+https://youtu.be/RF07dUEjbd4
+
+[Scala Central] - Leszek Sliwko - Cluster Schedulers Borg and Kubernetes
+https://youtu.be/lyWBpP52MlI
+
+[Scala Central] - Magnus Valle - Value Classes
+https://youtu.be/lNZcaOJRyr0
+
+[Scala Central] - Manuel Santiago - Clusterfunk - Finite State Machine Clustering 1
+https://youtu.be/4l7Ba1mYHW4
+
+[Scala Central] - Martin Gwarada - Apache Spark using Scala
+https://youtu.be/G49eHJo8G7g
+
+[Scala Central] - Richard Ashworth - Functional Design Patterns with Scala
+https://youtu.be/6GA9cXgidBs
+
+[Scala Central] - Steve Sitton - Learning Scala as an Engineering Manager
+https://youtu.be/ofdgGXv_vO4
+
+[Scala Central] - Xiayun Sun - Neural Network from scratch in Scala
+https://youtu.be/lHBViwM-L-8
+
+[Scala Central] - Yeshwanth Kumar - Data Engineer - ING
+https://youtu.be/TxXQ2JkAMzA
+
+[Scala Central] Ben Parker - Help me get a job
+https://youtu.be/iG8dOh7zG14
+
+[Scala Central] Daniel Ciocîrlan - Type-Level Sorting in Scala
+https://youtu.be/L5puOO4IM3Q
+
+[Scala Central] David Virgil - Akka Streams vs Spark Streams
+https://youtu.be/T7kz5WLSAMY
+
+[Scala Central] Greg Beech - Principal Engineer - Deliveroo - To err is human
+https://youtu.be/Riiw5g8Rj_E
+
+[Scala Central] Greg Dorrell - Effect Types What Why Which one
+https://youtu.be/AEScmarqa80
+
+[Scala Central] Greg McKay - You already know Category theory
+https://youtu.be/L3s2N1P4KlI
+
+[Scala Central] Hugh Simpson - Kamon, Jaeger! From context propagation to tracing
+https://youtu.be/BggMhONTSbI
+
+[Scala Central] John Cragg and Robert Erdin - Depop - Distributed Schema Management
+https://youtu.be/ztkyVHPaPgY
+
+[Scala Central] Jonathan Moore - Collecting cross-thread stack traces
+https://youtu.be/AoF9aletDiA
+
+[Scala Central] Leszek Sliwko - Drone Delivery Queue
+https://youtu.be/8ARNNArtwW0
+
+[Scala Central] Manu T S - Software Consultant - Call Handling
+https://youtu.be/dbFfqccHmbI
+
+[Scala Central] Vasileios Lampridis -  Expressing polymorphism for immutable object hierarchies
+https://youtu.be/Fjy1H67Uuk8
+Videos 1-25

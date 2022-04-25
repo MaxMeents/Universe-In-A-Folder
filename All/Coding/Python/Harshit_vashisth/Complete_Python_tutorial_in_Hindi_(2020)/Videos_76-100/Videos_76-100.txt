@@ -1,0 +1,76 @@
+
+Add data to list  Python tutorial 83
+https://youtu.be/5-RwsV6KJ8s&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 4 Exercise 1  Python tutorial 73
+https://youtu.be/2xRTTWASE_w&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5  Exercise 1  Python tutorial 95
+https://youtu.be/-z3OThAvLtE&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 5  Exercise 2  Python tutorial 97
+https://youtu.be/Bjz5KYvvePM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chater 4 Exercise 2  Python tutorial 77
+https://youtu.be/X-9UbbbVrlc&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Default Parameters  Python tutorial 80
+https://youtu.be/ImcgRuellM4&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Define greatest  Python tutorial 75
+https://youtu.be/_Ftlzvh98Xk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Delete data from list  Python tutorial 85
+https://youtu.be/yY-vvrgAmlc&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 1 solution  Python tutorial 74
+https://youtu.be/WEpELlL3DnM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 1 Solution  Python tutorial 96
+https://youtu.be/LR4jpWA2gfg&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 2 solution  Python tutorial 78
+https://youtu.be/Lrg5LXRbJEs&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Fibonacci series program  Python tutorial 79
+https://youtu.be/n-coPmoNRd8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Function inside function  Python tutorial 76
+https://youtu.be/Gq2JoZCtiFo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+In keyword with list  Python tutorial 86
+https://youtu.be/GTxOMADZNGQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Intro to list  Python tutorial 82
+https://youtu.be/q4zS1YRltdM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+is vs equals  Python tutorial 88
+https://youtu.be/E_LZ7YBcrEA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+join and split method  Python tutorial 89
+https://youtu.be/U2xhtrJx8aM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+List inside List  Python tutorial 93
+https://youtu.be/pMgrd0wabDU&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+List vs Array  Python tutorial 90
+https://youtu.be/Z5bE95OPzEI&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+List vs String  Python tutorial 91
+https://youtu.be/8mXWgXN_4Gg&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Looping in list  Python tutorial 92
+https://youtu.be/2boT65qhOk8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+More about lists  Python tutorial 94
+https://youtu.be/cso8mTi7LpM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+More methods to add data  Python tutorial 84
+https://youtu.be/_owj9BIUXKk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Some more list methods Python tutorial 87
+https://youtu.be/X2d6j-6SRm0&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Variable Scope  Python tutorial 81
+https://youtu.be/vqGohdiCuF4&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+Videos 76-100

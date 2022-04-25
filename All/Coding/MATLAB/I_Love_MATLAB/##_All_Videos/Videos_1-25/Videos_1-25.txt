@@ -1,0 +1,76 @@
+
+CALCULATE THD FROM CSV FILE USING SIMULINK
+https://youtu.be/EcTKExarhFw
+
+Creating high quality waveforms using Matlab
+https://youtu.be/gMSIhK5anrk
+
+Deep learning for beginners  Image classification (machine learning)
+https://youtu.be/ReWaczNcH2U
+
+Deep learning for beginners  Understanding classification process
+https://youtu.be/OAfzkJgA3AY
+
+Evaluating only a portion of matlab code
+https://youtu.be/P79PiIOZJVE
+
+For loop in simulink matlab
+https://youtu.be/Lcvz3wCJrSA
+
+IMPORTING A CSV FILE IN MATLAB
+https://youtu.be/g-64H8xgP4w
+
+importing a text file in matlab
+https://youtu.be/yHLOjgbuNW0
+
+Importing C code in matlab simulink
+https://youtu.be/ChXKIWmeThw
+
+Importing python code in matlab
+https://youtu.be/ZQ5_BZWAqko
+
+Installing MATLAB on LINUX based system
+https://youtu.be/Nfg4KdIwEnM
+
+Interface C2000 processor with matlab
+https://youtu.be/j7H0wT6XGJY
+
+Kalman Filter in matlab
+https://youtu.be/sInNTb7-vOI
+
+matlab function in simulink
+https://youtu.be/btYNAIKEiQE
+
+Matrix in simulink matlab
+https://youtu.be/mludOjzCPts
+
+Parallel Computing or Multi threading in matlab
+https://youtu.be/Uw28CjssdA8
+
+Parallel Simulink Models
+https://youtu.be/dSlaQRLO1uo
+
+Real-time interfacing of c2000 processor with matlab
+https://youtu.be/bgVpU-WhUKY
+
+SINE WAVE PPROBLEM
+https://youtu.be/Z86DZ3qhTf4
+
+Solving Differntial equation in MATLAB
+https://youtu.be/ZJL2RZUAQWw
+
+Stream a video from mobile camera in matlab
+https://youtu.be/gMzVIMZNeqo
+
+Total Harmonic Distortion (THD) using matlab code
+https://youtu.be/wW_WV5qotBM
+
+Using Droidcam
+https://youtu.be/BWu8zjwXDjU
+
+Using equations with variables in matlab
+https://youtu.be/cnPosvow0Yk
+
+Using MATLAB R2020a online without installing
+https://youtu.be/ONdoY_j39kk
+Videos 1-25

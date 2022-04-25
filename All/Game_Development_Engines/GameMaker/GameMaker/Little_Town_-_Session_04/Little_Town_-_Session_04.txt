@@ -1,0 +1,55 @@
+
+Little Town - Session 04 - 01 Making Item Objects
+https://youtu.be/hwwJhtEcrTk&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 02 Creating Items
+https://youtu.be/IJMDzhgm8cQ&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 03 Recognizing Items
+https://youtu.be/hq9KzWyw4Uc&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 04 States and Enums
+https://youtu.be/EoZSsVUTlWE&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 05 Setting Up Player States
+https://youtu.be/Mh4sYLBCEjk&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 06 Creating a Simple Array
+https://youtu.be/v0HteahPsqo&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 07 Using Arrays with Sprites
+https://youtu.be/RuODh5kgWTw&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 08 Applying States to Items
+https://youtu.be/KZ-GWvkqlAE&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 09 Picking Up an Item
+https://youtu.be/ZdFLHX9PPWE&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 10 Returning Results from Functions
+https://youtu.be/bBiNc-g8EYY&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 11 Putting the Item Back Down
+https://youtu.be/pMYTVAWCDig&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 12 Limiting Item Prompts
+https://youtu.be/tl14d_ZhbOU&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 13 Affecting Speed
+https://youtu.be/maIPwyVP2pI&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 14 Creating Other Items
+https://youtu.be/XrppRWiOmv4&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 15 Adding a Run
+https://youtu.be/IR290vXsobg&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 16 Adding a Dust Cloud Effect
+https://youtu.be/Y1hvbMy5HKQ&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 17 Dust Cloud Effect
+https://youtu.be/V9FJ76CZvEs&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+
+Little Town - Session 04 - 18 End of Session 04
+https://youtu.be/kptro55ouPg&list=PLhIbBGhnxj5KGuHGV8AfIxWzqWM9LXSrb
+Little Town - Session 04

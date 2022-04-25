@@ -1,0 +1,76 @@
+
+CSSconf EU 2014  Jed Schmidt Intro
+https://youtu.be/bdQ-Okw9gPY
+
+David Catuhe Unleash 3D games with Babylon.js [JSConf2014]
+https://youtu.be/8qiLVKGobRE
+
+Edward Kim Engineers as Makers, Not Order Takers [JSConf2014]
+https://youtu.be/CxSiwimIf6s
+
+Felix Niklas – Image Processing in JavaScript [Reject.JS 2014]
+https://youtu.be/R0K3YWaT9fU
+
+Jake Archibald The ServiceWorker is coming, look busy  JSConf EU 2014
+https://youtu.be/SmZ9XcTpMS4
+
+Jan Monschke Using the web for music production and for live performances  JSConf EU 2014
+https://youtu.be/cqtBpCqgOgM
+
+Johannes Weber – Debugging War Stories & Strategies to Survive [Reject.JS 2014]
+https://youtu.be/UtOnLEXDV64
+
+Jonathan Martin – Teach JS About Aesthetics with Machine Learning [Reject.JS 2014]
+https://youtu.be/fNeY3W28CTE
+
+Kamil Ogórek – Ampersand.js – Minimalistic Approach to not so minimalistic Problems [Reject.JS 2014]
+https://youtu.be/2Rzxn-xaFkg
+
+Kate Hudson Contributors Wanted Encouraging Diversity in Your Open Source Project [JSConf2014]
+https://youtu.be/xcRakXhQP2Q
+
+Kyle Lambert Make It Pop Visual Design Simplified [JSConf2014]
+https://youtu.be/OlWat9zmnHw
+
+Lena Reinhard This is bigger than us Building a future for Open Source  JSConf EU 2014
+https://youtu.be/-thLNvxFUu4
+
+Matthew Bergman Health Myths We Tell Ourselves in Tech [JSConf2014]
+https://youtu.be/tt8jjB5gyV4
+
+Matthew Whittemore Social Tables Swaziland [JSConf2014]
+https://youtu.be/4JACepji9kI
+
+Mouse Braun – Punk DIY Ethics in Programming [Reject.JS 2014]
+https://youtu.be/Z_0ap2nkRek
+
+Raquel Velez & Friends NodeBots LIVE! [JSConf2014]
+https://youtu.be/QbfYUa-u8YI
+
+Romain Gauthier – WebRTC - A tale of Beekeeping [Reject.JS 2014]
+https://youtu.be/pyIIkUV3moM
+
+Ron Evans Cylon.js The JavaScript Evolution Of Open Source Robotics [JSConf2014]
+https://youtu.be/bnFWskconEg
+
+Stefanie Taepke – Location-based Pokémon with Node.js [Reject.JS 2014]
+https://youtu.be/VeJh6NlDVwU
+
+Stephan Bönnemann – Stop Scratching Your Own Itch [Reject.JS 2014]
+https://youtu.be/RkfloUkDeQk
+
+The Semicolons – We are the rejects; [Reject.JS 2014]
+https://youtu.be/5N7FzgBn268
+
+Tina Umlandt – Localize your frontend! [Reject.JS 2014]
+https://youtu.be/Lu4mholN2lA
+
+What the heck is the event loop anyway  Philip Roberts  JSConf EU
+https://youtu.be/8aGhZQkoFbQ
+
+WTF is happening JSConf EU 2014 Opening
+https://youtu.be/pkjwUOk_iCk
+
+Zach Carter Armchair Type Theory [JSConf2014]
+https://youtu.be/Y3PyAaTgX_0
+Videos 1126-1150

@@ -1,0 +1,76 @@
+
+Binary Search Algorithm in Python  Searching Algorithms  Programming In Python
+https://youtu.be/TpPi5TCSE5Q
+
+Bubble Sort algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/AthG28-_RuM
+
+Domain to IP Converter app Python GUI TKInter  Programming In Python
+https://youtu.be/RgHZkewejS4
+
+Floyd's Triangle Pattern in Python  Pattern Programming  programminginpython.com
+https://youtu.be/kLN6rYJkDgY
+
+How to check whether a number is an Armstrong number or not in Python
+https://youtu.be/uBsn5U3BV_Y
+
+Insertion Sort Algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/ry5MoH0Qigk
+
+Largest and Smallest element in the list - Python Programming
+https://youtu.be/WMWDhKx5bpo
+
+Linear Search Algorithm in Python  Searching Algorithms  Programming In Python
+https://youtu.be/nt48BOyBsR8
+
+Merge Sort Algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/tRTu9vM7wIw
+
+Pyramid Pattern in Python   Pattern Programming  programminginpython.com
+https://youtu.be/3EvzO8tW8uE
+
+Python Datatype SET -  Set Operations in Python  Data types  programminginpython.com
+https://youtu.be/sDyOLjixXT0
+
+Python Program  to count vowels in a string  programminginpython.com
+https://youtu.be/e0H37OZ5Pm0
+
+Python program to check whether a number is Palindrome or not
+https://youtu.be/3VQNdXA2IPI
+
+Python Program to find LCM of 2 numbers  programminginpython.com
+https://youtu.be/pMDEZYRtkeM
+
+Python Program to find reverse of a number  Programming In Python
+https://youtu.be/o9-1cjNWsio
+
+Python Program to find the Biggest and Smallest of 3 numbers
+https://youtu.be/Cz6q5u4iW5w
+
+Python Program to print Fibonacci sequence  Programming In Python
+https://youtu.be/sDhsFEZy1xs
+
+Python program to print pattern of letter A  Pattern Programming
+https://youtu.be/PfhTvGB5RCY
+
+Python program to print pattern of letter B  Pattern Programming
+https://youtu.be/rGcVQZNNoBo
+
+Python Program to Print Pattern of Letter C  Pattern Programming
+https://youtu.be/XmBPSyEyLW0
+
+Python Program to Print Pattern of Letter D  Pattern Programming
+https://youtu.be/2YPl0vt5ypI
+
+QuickSort algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/hxEBHcwqwSo
+
+Selection Sort Algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/5PjDmeNwoOE
+
+Square root of a number in Python  Programming In Python
+https://youtu.be/5wF73IFjQpg
+
+Square root of a number using exponential operation in Python
+https://youtu.be/Cvxoc1H2qAI
+Videos 26-50

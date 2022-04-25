@@ -1,0 +1,76 @@
+
+A Postmortem on Implementing AutoPlay in UE4  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/uQVBCJiHedg
+
+Aggregating Ticks to Manage Scale in Sea of Thieves  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/CBP5bpwkO54
+
+Architecting Content for a Live Service Game  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/uAg1SETGhEU
+
+ARK on iOS Coding and Design Tips  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/U6bXKXSX4Sc
+
+Automated Testing at Scale in Sea of Thieves  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/KmaGxprTUfI
+
+Blueprints In-depth - Part 1  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/j6mskTgL7kU
+
+Design, Production, Ballistics for Insurgency Sandstorm  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/LmLwlMLcgaw
+
+Developing with Blueprints and Marketplace assets  Inside Unreal
+https://youtu.be/-ZdEMYlGxl4
+
+Engine Tools for Performance on Open World Games  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/VTjALz6dhvw
+
+News and Community Spotlight  May 16, 2019  Unreal Engine
+https://youtu.be/AorG6IN8Kx4
+
+News and Community Spotlight  May 9, 2019  Unreal Engine
+https://youtu.be/vU4RsOR68Ys
+
+Overcoming Early Challenges in Unreal  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/Lz5z0nF1WRU
+
+Panel - Being an Artist on a UE4 Team  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/f71PsBmYivE
+
+Panel - Getting More Design Done in UE4  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/k7_gLFV0i3w
+
+Panel - UE4 Pipelines, Teams and Tools  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/u7ZhyCnSS10
+
+Replication Graph For Optimizing Real-Time Strategy Games  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/VusAHXoHF3Y
+
+The Fusion of Nostalgia and Novelty in Octopath Traveler  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/K6wW0pO08LE
+
+The Visual Logger For All Your Gameplay Needs!  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/hWpbco3F4L4
+
+Tips and Tricks on Developing an Open World Game  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/W_yiopwoXt0
+
+UE4 Raytracing for Games  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/ZrJodtJ3b3U
+
+Using the Gameplay Ability System  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/_713CSOWkTU
+
+Using UE4 to Develop for Oculus Rift and Oculus Quest  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/hEtu-ciPc7g
+
+Vulkan! Powering AAA Experiences on Android  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/piDcBkUY7aQ
+
+We’ve Got Your Back Engineering Optimization Ease  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/EaIIagd1Quc
+
+Workflow on Fortnite  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/p4RcDpGQ_tI
+Videos 826-850

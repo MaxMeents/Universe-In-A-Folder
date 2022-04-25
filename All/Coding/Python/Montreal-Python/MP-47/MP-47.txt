@@ -1,0 +1,28 @@
+
+A hobbist introduction to the kivy framework #MP47
+https://youtu.be/fAK74eBCIBk&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Easy network hacking with scapy #MP47
+https://youtu.be/EnuF9ZR6MVc&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Exploration des CPython internals avec ctypes #MP47
+https://youtu.be/vknjFZDMOlM&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Identifying latencies in your code #MP47
+https://youtu.be/pV0O2TCj6AI&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Module of the Month configparser #MP47
+https://youtu.be/MRupY_nRNgA&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Montreal Python Totpcgi Lab redux
+https://youtu.be/mxSINQqzR0M&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Totpcgi OATH server #MP47
+https://youtu.be/PoFPuxdp61Q&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Vagrant-Control  une interface web #MP47
+https://youtu.be/x0Mw0wpX5zA&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+
+Why choose Python for neuroscience data analysis #MP47
+https://youtu.be/Ev8BUeha0gM&list=PLQIcnBElABasehXNSGk25skYbAaVSPx4C
+MP-47

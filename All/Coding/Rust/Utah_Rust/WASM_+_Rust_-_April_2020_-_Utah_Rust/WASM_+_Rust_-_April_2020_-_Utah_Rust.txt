@@ -1,0 +1,19 @@
+
+WASM + Rust [Part 1] What is Web Assembly - April, 2020 - Utah Rust
+https://youtu.be/gpaNGlka7FY&list=PLDWmoWFf46gj7htqRU1yNwM3SeaqfLKhH
+
+WASM + Rust [Part 2] WAT (WebAssembly Text Format) - Utah Rust
+https://youtu.be/4inDfLNX9lg&list=PLDWmoWFf46gj7htqRU1yNwM3SeaqfLKhH
+
+WASM + Rust [Part 3] Bindgen - Utah Rust
+https://youtu.be/RhlwWFg97z0&list=PLDWmoWFf46gj7htqRU1yNwM3SeaqfLKhH
+
+WASM + Rust [Part 4] Frameworks - Utah Rust
+https://youtu.be/V3NPWVeTKPE&list=PLDWmoWFf46gj7htqRU1yNwM3SeaqfLKhH
+
+WASM + Rust [Part 5] Q&A - Utah Rust
+https://youtu.be/xYyn_X_KOK4&list=PLDWmoWFf46gj7htqRU1yNwM3SeaqfLKhH
+
+WASM + Rust [Part 6] Chatter - Utah Rust
+https://youtu.be/SJgeEVyJGjk&list=PLDWmoWFf46gj7htqRU1yNwM3SeaqfLKhH
+WASM + Rust - April 2020 - Utah Rust

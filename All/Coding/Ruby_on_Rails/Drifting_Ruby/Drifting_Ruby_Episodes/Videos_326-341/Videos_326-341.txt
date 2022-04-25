@@ -1,0 +1,49 @@
+
+Episode #001 - Pow
+https://youtu.be/FI8uZ8jqr94&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #002 - Impressionist
+https://youtu.be/YgPAZUw7wfk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #003 -  ActionCable in Production
+https://youtu.be/4dum1S-RxpU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #004 -  Serialized Attributes
+https://youtu.be/uSxN2W1hCOk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #005 -  Florrick
+https://youtu.be/FQW_7sBjBu0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #006 -  attr_encrypted
+https://youtu.be/XkMGVJ3Cosk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #007 - Sitemap Generator
+https://youtu.be/NGn2QCC85yQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #008 - Sending Emails
+https://youtu.be/ZUXYE4kMaWs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #009 - ActiveJob
+https://youtu.be/KIg0cZWFaGE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #010 - Invisible Captcha
+https://youtu.be/H8NpV3klg9A&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #011 - Annotate
+https://youtu.be/nUpC086BUCU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #012 - Static Pages with High Voltage
+https://youtu.be/obv_9EZWPwI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #013 - File Uploads with Refile
+https://youtu.be/dT4ux3Q4Hxg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #014 - Securing File Uploads
+https://youtu.be/QougDpAPfYw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #015 - Refile Uploads with Progress Bar
+https://youtu.be/P1d2xV0rXx0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #016 - Complex Strong Params
+https://youtu.be/SX6_qGxNSGo&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 326-341

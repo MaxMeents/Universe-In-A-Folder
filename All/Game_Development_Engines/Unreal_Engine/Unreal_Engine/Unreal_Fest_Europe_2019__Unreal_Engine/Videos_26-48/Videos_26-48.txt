@@ -1,0 +1,70 @@
+
+Advanced Niagara  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/-UPZuuikYZ0&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+ARK on iOS Coding and Design Tips  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/U6bXKXSX4Sc&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+ARK on iOS Leveraging UE4 for 98% Content Reduction  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/yf4V_E_gbdE&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Async Loading Screens and Transition Levels  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/ON1_dEHoNDg&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Backend Solution for The Cycle  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/q9Za2e6hfYE&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Beyond Authentic Pixel Art in Unreal Engine  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/TLbXNYK4928&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Blueprints Blending System Architecture and Creativity  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/gz1ryNs8S04&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Causing Chaos The Future of Physics and Destruction  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/mwbSi2R49ZY&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Colour Management – A Bird’s Eye View for Digital Artists  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/PXcTaB5cAoM&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Data-Driven Sound Design  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/5RFoz_YVt7s&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Digital Material with the Substance Tools  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/ukRt9iRQUOY&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Enabling a Look Development Workflow for UE4  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/70uNXZbUJVE&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Hero AI – Gameplay Abilities Meet Behavior Trees  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/1Dm1G6fUuFs&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Integrating an FEM Physics System into Unreal Engine  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/IYClvszCCPA&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Introduction to Niagara  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/2CtBa3zEaYU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Layered Materials for Environments  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/dl5fe-DAXRI&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Making the Most of Animation Blueprints  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/Oe7fYS9qxmk&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+New Animation Features in Unreal Engine  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/Zwc9uuOYfFg&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Panel - Being an Artist on a UE4 Team  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/f71PsBmYivE&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Panel - Getting More Design Done in UE4  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/k7_gLFV0i3w&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Panel - UE4 Pipelines, Teams and Tools  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/u7ZhyCnSS10&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Refactoring the Mesh Drawing Pipeline  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/UJ6f1pm_sdU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Tips and Tricks on Developing an Open World Game  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/W_yiopwoXt0&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+Videos 26-48

@@ -1,0 +1,76 @@
+
+Hibernate Tip  How to Call a Standard Function in JPQL
+https://youtu.be/tB0M1uZpnv4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip  How to override the primary key generation strategy
+https://youtu.be/ftU-sUhaNdI&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip - How to bootstrap Hibernate with Spring Boot
+https://youtu.be/QEDIAqx6i7M&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip - How to map an association to a java.util.Map
+https://youtu.be/ZgHYPx4-fXg&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to automatically add Metamodel classes to your classpath
+https://youtu.be/fj7MX5oIg-E&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to automatically set an attribute before persisting it
+https://youtu.be/OvhDvjYbbqc&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to automatically validate entity attributes
+https://youtu.be/_OzXRPJQSs4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Call a Stored Procedure
+https://youtu.be/aEkhfmVO_tk&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to call a user-defined function in a CriteriaQuery
+https://youtu.be/WMC3cIle9Ms&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to create a database setup script based on entity mappings
+https://youtu.be/t6BKnDKJzMU&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to delete child entities from a many-to-one association
+https://youtu.be/_RXJ5XCDw8c&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Exclude Unchanged Columns From Generated Update Statements
+https://youtu.be/f0W9phy6_L4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to fetch associations in batches
+https://youtu.be/pF7DwCOkIok&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to filter entities from a mapped association
+https://youtu.be/n-UYDhdUO64&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to log the execution time of a query
+https://youtu.be/MVtd1-8QL80&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map a bidirectional many-to-many association
+https://youtu.be/ZOUSa4I9ReI&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Map a Bidirectional Many-to-One Association
+https://youtu.be/cI4jYr_iv3Y&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map a java.util.Date
+https://youtu.be/1Q5GSfKdfOw&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map an Enum to a database column
+https://youtu.be/mT6I11cVXCs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map native query results to a POJO
+https://youtu.be/RwUo3poapGs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to select a specific subclass from an inheritance hierarchy
+https://youtu.be/SZ7MclroTIA&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to use a timestamp for versioning and optimistic locking
+https://youtu.be/scqAKQxa87A&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to use query comments to identify a query
+https://youtu.be/chHXbSiGmx0&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tips How to cascade a persist operation to child entities
+https://youtu.be/Gy-qZ1GksNs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tips How to use Hibernate's native bootstrapping API
+https://youtu.be/VXIzxAOBAcQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+Videos 51-75

@@ -1,0 +1,76 @@
+
+Python Basics Absolute Value
+https://youtu.be/p8NujOxHTPM&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Evaluate function
+https://youtu.be/DYavDSoPYvw&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics GCD Part 1
+https://youtu.be/Zvrn7_IsBaM&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Gcd pt 2
+https://youtu.be/pxMtT97g-3I&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Gcd pt 3
+https://youtu.be/Ct6_Nf4Dh_A&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Guessing Game pt  2
+https://youtu.be/QXAA5kNvvEo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Guessing Game
+https://youtu.be/0ZmbhprSOXs&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Infinite String Input with Strip and Split Methods
+https://youtu.be/_9ziJDtIXNM&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Len Function
+https://youtu.be/XQAvSJpDjM0&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Len with For Loop with Break
+https://youtu.be/fekSpfbHlEg&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Len with while loop
+https://youtu.be/2DR0pTV6VAw&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Lower Denominator
+https://youtu.be/BwxRsgwsmVQ&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Lowest Common Denominator (LCD)
+https://youtu.be/yoPxYHDI4XQ&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Max and Min Functions
+https://youtu.be/PEit8L0Nhx0&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Print function
+https://youtu.be/omHA7dEvlJc&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Print String Format
+https://youtu.be/LeM30PzFKjg&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Reverse Number Triangle Formated
+https://youtu.be/4YzOAfAkDKE&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics String Count Sub-Strings
+https://youtu.be/Fjt6oNp-FX8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics String Value Unicode
+https://youtu.be/goyOGo_kop8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics String Value Using a Dictionary
+https://youtu.be/UPpz08tKINA&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Sum
+https://youtu.be/2p25fKLHQJk&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Times Table
+https://youtu.be/I6_dnsCNDS8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Unicode
+https://youtu.be/C3rhSDpI9I8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Using Variables with Range Function
+https://youtu.be/UNDgaqJstD4&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Zip A Dictionary
+https://youtu.be/rBZztwzvkys&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+Videos 1-25

@@ -1,0 +1,16 @@
+
+FPGA Design with MATLAB, Part 1 Why Use MATLAB and Simulink
+https://youtu.be/fxmAlr2PP2Q&list=PLn8PRpmsu08qb2KSs6v7Uxmt6S6GiyX0j
+
+FPGA Design with MATLAB, Part 2 Modeling Hardware in Simulink
+https://youtu.be/RbMzyN9Qspo&list=PLn8PRpmsu08qb2KSs6v7Uxmt6S6GiyX0j
+
+FPGA Design with MATLAB, Part 3 Architecting Efficient Hardware
+https://youtu.be/pcYyACHcwzI&list=PLn8PRpmsu08qb2KSs6v7Uxmt6S6GiyX0j
+
+FPGA Design with MATLAB, Part 4 Converting to Fixed Point
+https://youtu.be/3HffeiMSD-E&list=PLn8PRpmsu08qb2KSs6v7Uxmt6S6GiyX0j
+
+FPGA Design with MATLAB, Part 5 Generating and Synthesizing RTL
+https://youtu.be/thXTxlWR350&list=PLn8PRpmsu08qb2KSs6v7Uxmt6S6GiyX0j
+利用MATLAB进行FPGA设计

@@ -1,0 +1,76 @@
+
+Adding buttons in PowerPoint 2003
+https://youtu.be/rp4MOTeaRL8&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Adding HotStrings in AutoHotKey
+https://youtu.be/ejl6hvWaWiY&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+AutoHotkey User Survey
+https://youtu.be/F2_dwJIDVxE&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Compare Sets
+https://youtu.be/lkaPA2T3kNU&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Copying Path from Explorer & Fake drives
+https://youtu.be/pUFv0n72GvI&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Creating Graphs Quickly in Excel
+https://youtu.be/1ROAFClQqSw&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Excel & AutoHotkey-Font type, size, and formatting
+https://youtu.be/8y6mX5NAMyA&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Freezing panes, Toggling screen update and MRU List in Excel via AutoHotkey
+https://youtu.be/yms--sDSHDU&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+How I automated Excel graphs with AutoHotkey  Amazing time saver!
+https://youtu.be/LrUZnlaz1_8&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+How to Automate Excel without a macro  1st steps to Automating Excel
+https://youtu.be/Wsda6__BtA8&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+How to easily split text into separate cells in Excel
+https://youtu.be/Fkm3m4Wnqb0&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+How to get Column information from Excel and AutoHotkey  First column, last column used range, etc.
+https://youtu.be/OQYIGJdPMCA&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+How to get Row information from Excel and AutoHotkey  Easily get first row, last row, used rows
+https://youtu.be/zyMPxe2vISE&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+HTML - URL Testing & Validation tool
+https://youtu.be/2uCY-wHuAAg&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Merging, Shrinking, and Wrapping cells in Excel with AutoHotkey
+https://youtu.be/9JLEEtc6T5I&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+MS Word Buttons & Toolbars
+https://youtu.be/TP8MM4UFev0&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Office 2003 Common Places
+https://youtu.be/iE3jkTAJAYE&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Outlook PST file creation
+https://youtu.be/fD4P9Oj-Z5Y&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Report Generation- Crank out automated reports!
+https://youtu.be/dClb4-oBahU&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Toggling windows across monitors
+https://youtu.be/6tH2JHuRXVg&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Transposing clipboard content in any program
+https://youtu.be/075hJwEQxbM&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Tweaking Graphs in Excel
+https://youtu.be/FTUdmaoFA08&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Using AutoHotKey to Create Excel Graphs
+https://youtu.be/yrHpsbFIYqk&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Using Word to find email addresses
+https://youtu.be/B-MnPBv81bU&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+
+Webscraping Example - Real Estate Helper 2
+https://youtu.be/H0DuYbYAjbg&list=PL3JprvrxlW26rIp_d8oaR-SsXxqsMtU2M
+Videos 1-25

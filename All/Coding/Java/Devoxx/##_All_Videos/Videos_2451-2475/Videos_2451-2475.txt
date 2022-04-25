@@ -1,0 +1,76 @@
+
+5 reasons developers should pay attention to robotics by Nicolas Rigaud
+https://youtu.be/9vMpqag1yI0
+
+7 Ways to Hack Your Brain to Write Fluently by Dan Allen
+https://youtu.be/r6RXRi5pBXg
+
+Android and the Seven Dwarfs by Murat Yener
+https://youtu.be/ut1umHfJ0cc
+
+Beyond the CAP theorem, consistency without consensus with CRDTs by Sam Bessalah
+https://youtu.be/d8GJMyIGhLw
+
+Brace Yourselves, the REPL is Coming. by Roy van Rijn
+https://youtu.be/CN3tGi4eZZ4
+
+Design Patterns in the Light of Lambda Expressions by Subramaniam
+https://youtu.be/e4MT_OguDKg
+
+Distributed Load Testing with Kubernetes by Amanda Waite
+https://youtu.be/PyUOZC20lSI
+
+Docker platform and ecosystem build, ship and run distributed applications by Patrick Chanezon
+https://youtu.be/6DPBS4yNVpw
+
+Frege, a Haskell for the JVM by Dierk König
+https://youtu.be/1P1-HXNfFPc
+
+Get Hip with JHipster Spring Boot + AngularJS + Bootstrap by Matt Raible
+https://youtu.be/baVOGuFIe9M
+
+How to stop wasting your time and start performing useful code reviews by Maria Khalusova
+https://youtu.be/VRnMzMpSeag
+
+Introduction to Modular Development by Mark ReinholdAlan Bateman
+https://youtu.be/qr4O4SbzihQ
+
+Java & DevOps @Global Scale by Ryan McGuinness
+https://youtu.be/QXlRrYeuEq8
+
+JShell An Interactive Shell for the Java Platform by Robert Field
+https://youtu.be/jziVaht480w
+
+Let's have fun with Pepper robot and Java by Nicolas RigaudJean-Philippe Chatain
+https://youtu.be/LaTqWgfV4hk
+
+Making Events for local dev Communities by Celestino BelloneFederico Yankelevich
+https://youtu.be/-2efPor33hI
+
+Shooting the Rapids by Maurice NaftalinKirk Pepperdine
+https://youtu.be/cK20GhYd8UA
+
+Sigfox — A cellular network, just for Things by Nick De Cooman
+https://youtu.be/ABLDPYDtDYw
+
+Smartwatch Landscape  by Sebastien ArbogastSaid Eloudrhiri
+https://youtu.be/qnOPUURhQCM
+
+The Java Council by Simon MapleMartijn VerburgMark ReinholdTrisha Gee
+https://youtu.be/Dqhgv_8eUbM
+
+The Power of Open Source, Open Containers, and an Open Cloud by Philip EstesRalph Bateman
+https://youtu.be/3kGnRVmC9Q8
+
+The Spring Framework Roadmap by Juergen Hoeller
+https://youtu.be/xNUcR4DSDz0
+
+The UI Scripting Language Shootout by Michael Heinrichs
+https://youtu.be/xA2D1X14bvg
+
+WebRTC Security is web-based peer-to-peer ready for primetime by Lieven Desmet
+https://youtu.be/YunkATJKLLs
+
+Young Pups New Collections APIs for Java 9 by Stuart Marks
+https://youtu.be/OJrIMv4dAek
+Videos 2451-2475

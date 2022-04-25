@@ -1,0 +1,13 @@
+
+Extending Core WordPress Blocks - Gutenberg Course
+https://youtu.be/6sL6J34SUlk&list=PLruo2gSoqlej1f--6Ori04_6NsujMcQnr
+
+Overview of The WordPress Data API (w Redux & React)
+https://youtu.be/OQczO6VOMkY&list=PLruo2gSoqlej1f--6Ori04_6NsujMcQnr
+
+React on a WordPress Block Frontend - Gutenberg
+https://youtu.be/jauZCeLrGFA&list=PLruo2gSoqlej1f--6Ori04_6NsujMcQnr
+
+WordPress Block Editor Sidebars (w Plugin API & JavaScript)
+https://youtu.be/QJAH05Drkzc&list=PLruo2gSoqlej1f--6Ori04_6NsujMcQnr
+Advanced Gutenberg Course

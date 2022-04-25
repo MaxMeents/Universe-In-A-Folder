@@ -1,0 +1,76 @@
+
+A Practical Introduction to Destructuring and Default Values
+https://youtu.be/fUKoyWb-Gsg
+
+A practical use case for Web Assembly
+https://youtu.be/1GKxdOClQjI
+
+Angular The Good Parts
+https://youtu.be/lguNMnEiw5U
+
+Async+Await
+https://youtu.be/3udPz1GBB8A
+
+Building SharePoint Framework applications using React
+https://youtu.be/L8ZEIa4uWhM
+
+Building Web Apps With Customer Support in Mind
+https://youtu.be/kZkkUAQ7FSs
+
+Changing custom CSS properties dynamically with JavaScript
+https://youtu.be/fVTb_6_JiXk
+
+Digging into JS Functions
+https://youtu.be/H2ccw3FKXzc
+
+Exploring VueJS
+https://youtu.be/6EKyHqjEbqI
+
+Fixing Memory Problems in Single Page Apps
+https://youtu.be/8y4v9O_UU3s
+
+Future Proofing Function APIs with Rest
+https://youtu.be/0LH0WKTomGE
+
+GreatBefore, GreatAfter!
+https://youtu.be/9iUfHcREf68
+
+How I made my first javascript library
+https://youtu.be/K_YepeeVl8c
+
+In-Depth JS in 10 Minutes Hoisting
+https://youtu.be/_MK-i0j0EHo
+
+Learning the Chrome Dev Tools
+https://youtu.be/VAcjmUD9Zxc
+
+manage your Developers, develop your Managers
+https://youtu.be/8IQIJ7Ma61M
+
+Overview of E2E Testing with Cypress
+https://youtu.be/LFUm9qV_Gjo
+
+React + All the Other Things
+https://youtu.be/MgMATG12gNA
+
+React For Beginners From A Beginner
+https://youtu.be/BX1KopC3b64
+
+Setting Your Data Ablaze with Firebase
+https://youtu.be/88DWA20ENo0
+
+Super-Powered Array Methods
+https://youtu.be/UPlpMzQRg9k
+
+Svelte
+https://youtu.be/Aqehit-UIvI
+
+The Value of Code Reviews
+https://youtu.be/tbLbkC0IRxo
+
+Using Chrome profiles
+https://youtu.be/GY-2SPgiq_I
+
+UX for Programmers
+https://youtu.be/x9xnzoa2jD0
+Videos 26-50

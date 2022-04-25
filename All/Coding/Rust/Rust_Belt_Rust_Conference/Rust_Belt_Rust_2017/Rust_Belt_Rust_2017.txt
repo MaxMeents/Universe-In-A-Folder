@@ -1,0 +1,37 @@
+
+Becoming a Contributor — Chris Krycho
+https://youtu.be/Abu2BNixXak&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Building on an unsafe foundation — Jason Orendorff
+https://youtu.be/rTo2u13lVcQ&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Core Team Keynote — Aaron Turon, Carol Nichols, Niko Matsakis
+https://youtu.be/l1csV8WiDRQ&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Lightning Talk - 1 = 0.999... — Daan van Berkel
+https://youtu.be/Xhapuwu9WKo&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Lightning Talk - Dark Theme for Rust Sites — Cldfire
+https://youtu.be/7VulqInDO6Y&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Lightning Talk - Embedded Rust — Cameron Dershem
+https://youtu.be/1BIb4Vmwt3k&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Lightning Talk - Quantum BogoSort — Jason Orendorff
+https://youtu.be/iOJD7nd7cyY&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Lightning Talk - Simple Server — Ashley Williams
+https://youtu.be/8_URt85eYs0&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Rust support for KDevelop — Emma Gospodinova
+https://youtu.be/2_cOkRXhveY&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+The Long Road to Creative Programming — Phil Fried
+https://youtu.be/tBI62IW28zg&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+The Story of Stylo Replacing Firefox's CSS engine with Rust — Josh Matthews
+https://youtu.be/Y6SSTRr2mFU&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+
+Traits and You A Deep Dive — Nell Shamrell-Harrington
+https://youtu.be/grU-4u0Okto&list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06
+Rust Belt Rust 2017

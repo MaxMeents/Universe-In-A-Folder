@@ -1,0 +1,76 @@
+
+Embedded Vision Using MATLAB and Simulink
+https://youtu.be/TiIML54VrcQ
+
+Feature Extraction Using Diagnostic Feature Designer App
+https://youtu.be/W5ljkIIz6gQ
+
+How to Combine Modeling Styles with Schedulable Components in Simulink
+https://youtu.be/SxeyIq83gdM
+
+How to Create Freehand Input Signals in the Signal Editor in Simulink
+https://youtu.be/Ptrzyfr_WNw
+
+How to Partition and Schedule with Export Functions in Simulink
+https://youtu.be/Bqo2bH_bkX8
+
+How to Retrieve Data from RavenPack Analytics (RPA) Using MATLAB
+https://youtu.be/jQKOqLHiyfE
+
+How to Use Sample Times in Simulink
+https://youtu.be/6Jc3MwJOqrw
+
+MATLAB and Simulink Projects in R2019a
+https://youtu.be/m5R20sA-EFw
+
+MATLAB による大規模フリートデータ解析 Part 1 デスクトップ編
+https://youtu.be/rmqiCVEsO1Y
+
+MATLAB による大規模フリートデータ解析 Part 2 クラスター編
+https://youtu.be/fvVddve-gI0
+
+Modeling of a Continuously Variable Transmission (CVT) BAJA All-Terrain Vehicle (ATV)
+https://youtu.be/gOFweQcz0XI
+
+PLL Design and Verification Using Data Sheet Specifications Including Phase Noise
+https://youtu.be/2akT-hZUktU
+
+Problem-Based Nonlinear Programming - Mathematical Modeling with Optimization, Part 4
+https://youtu.be/MKReT6fWHZk
+
+Programming VEX EDR V5 Smart Motors Using Simulink
+https://youtu.be/GMpn-BJ_Baw
+
+Real-Time Object Detection with YOLO v2 Using GPU Coder
+https://youtu.be/Rco1YyYcXHg
+
+Reinforcement Learning for Engineers, Part 5 Overcoming the Practical Challenges
+https://youtu.be/zHV3UcH-nr0
+
+Using Stateflow to Provide the Logic for a MATLAB App
+https://youtu.be/conSMCmhKns
+
+Virtual Commissioning with Simulink Part 1 Kinematic Analysis for Crane Application
+https://youtu.be/iu9_p2_PYCk
+
+Virtual Commissioning with Simulink Part 2 Dynamic Analysis for Crane Application
+https://youtu.be/lcAf22OVn2A
+
+Virtual Commissioning with Simulink Part 3 Design of Safety Control Logic for Crane Application
+https://youtu.be/JA0760m4gpg
+
+Virtual Commissioning with Simulink Part 4 Code Generation for Control System and Crane Model
+https://youtu.be/o62DVEjdLZg
+
+What Is Mixed-Signal Blockset
+https://youtu.be/Q1LuYAh2CXI
+
+What Is Simulink PLC Coder
+https://youtu.be/07SMnYnDBoc
+
+Working with Android and iOS Mobile Devices Using Hardware Support
+https://youtu.be/zZsFgYaeT3M
+
+画像処理・コンピュータビジョン・ディープラーニング R2018b 最新機能紹介
+https://youtu.be/xmquQDiA3zI
+Videos 976-1000

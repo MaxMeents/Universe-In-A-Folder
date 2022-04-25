@@ -1,0 +1,76 @@
+
+Airbnb Data Analytics Case Study and Exercises for Data Science Project - Part 1  Python Exercises
+https://youtu.be/LM8dxrikxz8
+
+Airbnb Data Analytics Case Study and Exercises for Data Science Project - Part 2
+https://youtu.be/FD0R-yLwljk
+
+Airbnb Data Analytics Case Study and Exercises for Data Science Project - Part 3
+https://youtu.be/RR01YhDgQyY
+
+Complete Python Seaborn  Data Visualization Tutorial  for Beginners
+https://youtu.be/UrxsaRq7-iw
+
+Daily Progress Dashboard in Tableau for Covid 19 - Just a quick shot on visualizing data
+https://youtu.be/dT_OZUZux0I
+
+Data analytics Case study on Cars data  30 Python Exercise Problems for Beginners
+https://youtu.be/c4Ya6lDCN5A
+
+How to Create and Enhance Line chart using Python Seaborn Library
+https://youtu.be/1bEl3yp9dp8
+
+How to Create Animated Race Bar chart in Tableau Covid 19 confirmed cases data is used
+https://youtu.be/iCxyt7ujQl0
+
+How to Create Bar Chart in Python Seaborn Library
+https://youtu.be/s7TR22RaIHo
+
+How to Create Boxplot Chart using Python Seaborn Tutorial
+https://youtu.be/VQPVvxm6JR4
+
+How to Create Distribution Plot (Histogram) using Python Seaborn Library
+https://youtu.be/mf2IkkkNXvg
+
+How to create Point Plot using Python Seaborn Library
+https://youtu.be/6IGTEQwHE10
+
+How to create Python Seaborn Pairplot OR Joint Plot
+https://youtu.be/aKio-IoSJks
+
+How to create Python Seaborn Violin Chart
+https://youtu.be/mvaZvUWve0A
+
+How to Create Scatter plot with Categorical Data in Python Seaborn Library
+https://youtu.be/vUmpqpb-FvA
+
+How to use facet to divide the chart into mutliple chart in Python Seaborn
+https://youtu.be/t36WIMUbZXU
+
+Introduction of Python Seaborn library and Creating Scatter Plot on Orders Data
+https://youtu.be/zzbk3w8uxaQ
+
+Predicting GMAT Admission - Data Science Mini Project in Python  R Programming  SAS  MATLAB
+https://youtu.be/hFKuU33tYuo
+
+Qlik Sense  - Only( )  Qlik sense Training
+https://youtu.be/4cTUX3-FSAs
+
+Qlik Sense - FirstSortedValue  Qliksense Training
+https://youtu.be/zzkryEkOarE
+
+Qlik Sense - Sum ()  Qlik Sense Training
+https://youtu.be/i8m3o7bQsZc
+
+Qlik Sense Count Function  Qlik Sense Training
+https://youtu.be/LOUQIAWNs1M
+
+Tableau Prep Builder Tutorial for Beginners - Cleaning Data Part 1
+https://youtu.be/Ii0FZcwWAWs
+
+Tableau Prep Builder Tutorial for Beginners - Grouping Data using Aggregate Step
+https://youtu.be/1RtXNe3ArWk
+
+Tableau Prep Builder Tutorial for Beginners - Union Step to Combine Data Sets
+https://youtu.be/aPESdPQO2c0
+Videos 351-375

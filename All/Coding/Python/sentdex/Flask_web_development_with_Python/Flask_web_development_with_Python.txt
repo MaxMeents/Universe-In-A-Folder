@@ -1,0 +1,22 @@
+
+Flask Web Development in Python - 1 - Intro
+https://youtu.be/mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+
+Flask Web Development in Python - 2 - Your first Flask Web App
+https://youtu.be/_80H2WIuA7w&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+
+Flask Web Development in Python - 3 - Variables in your HTML
+https://youtu.be/4vvHkziL3oQ&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+
+Flask Web Development in Python - 4 - HTML Logic
+https://youtu.be/n_oTm2_EYHs&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+
+Flask Web Development in Python - 5 - Twitter Bootstrap
+https://youtu.be/tPoSIfOke7w&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+
+Flask Web Development in Python - 6 - js Plugin - Highcharts example
+https://youtu.be/9Ic79kOBj_M&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+
+Flask Web Development in Python 7 - Extends for templates
+https://youtu.be/eZ5XKaNYTiw&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+Flask web development with Python

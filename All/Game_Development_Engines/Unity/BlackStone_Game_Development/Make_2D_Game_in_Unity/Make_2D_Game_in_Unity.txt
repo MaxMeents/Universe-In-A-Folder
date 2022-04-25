@@ -1,0 +1,10 @@
+
+2D Camera Movement in Unity (Tutorial Part 2)
+https://youtu.be/y_TL3Ve0Cpo&list=PL8K0JIAAUmsAE6bzw00JiwGXNqtJbtoFt
+
+2D Player Jump And Shooting in Unity (Tutorial Part 3)
+https://youtu.be/V6ri3MMBm6k&list=PL8K0JIAAUmsAE6bzw00JiwGXNqtJbtoFt
+
+2D Player Movement in Unity (Tutorial Part 1)
+https://youtu.be/bBUTVunkiv0&list=PL8K0JIAAUmsAE6bzw00JiwGXNqtJbtoFt
+Make 2D Game in Unity

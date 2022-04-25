@@ -1,0 +1,16 @@
+
+Intro and creating a virtual machine - Google Cloud Python Tutorials p.1
+https://youtu.be/chk2rRjSn5o&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+
+Natural Language API - Google Cloud Python Tutorials p.4
+https://youtu.be/-13yIXiyFAs&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+
+Setting up API and Vision Intro  - Google Cloud Python Tutorials p.2
+https://youtu.be/nMY0qDg16y4&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+
+Translation API - Google Cloud Python Tutorials p.5
+https://youtu.be/6wlzeDaIGtw&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+
+Vision API cont'd - Google Cloud Python Tutorials p.3
+https://youtu.be/qcBk0zBOAUM&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+Google Cloud Tutorials

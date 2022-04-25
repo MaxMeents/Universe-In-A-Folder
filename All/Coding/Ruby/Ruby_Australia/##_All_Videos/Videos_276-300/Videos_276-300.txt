@@ -1,0 +1,151 @@
+
+Building development environments - Richard Mcgain
+https://youtu.be/6KFeBYhE6aY
+
+Elle Meredith - Product Design Sprints
+https://youtu.be/9J2nvU36vpE
+
+Quitting your job as a responsible Melbourne rubyist - John Sherwood
+https://youtu.be/jSJD2He23-U
+
+RubyConf AU 2016 Build and maintain large Ruby applications by Enrico Teotti
+https://youtu.be/b1glMxMPscA
+
+RubyConf AU 2016 Burn Your Idiomatic Ruby by Arne Brasseur
+https://youtu.be/7gcbaNlqdLE
+
+RubyConf AU 2016 Code Review Pitfalls and Good Practices by Thong Kuah
+https://youtu.be/akf0Mx72wgI
+
+RubyConf AU 2016 Debugging Diversity by Dan Draper & Catherine Jones
+https://youtu.be/ZAC2mU24bH8
+
+RubyConf AU 2016 Diversity in Tech - It's About More than Just the Hiring Process by Jess Rudder
+https://youtu.be/CgDLI0Ounhg
+
+RubyConf AU 2016 Event Sourcing, or Why ActiveRecord Must Die by Sebastian von Conrad
+https://youtu.be/hiFqu1BTgsA
+
+RubyConf AU 2016 Explicit Tests Tell a Better Tale by Tom Ridge
+https://youtu.be/z5EctI4jATY
+
+RubyConf AU 2016 Feedback Matters by Elle Meredith
+https://youtu.be/vpSv1wS49yA
+
+RubyConf AU 2016 Functional programming for rubyists by Bianca Gibson
+https://youtu.be/wOgeMk8PCfE
+
+RubyConf AU 2016 In-spec-tion by Jon Rowe
+https://youtu.be/-93B0tAVVbM
+
+RubyConf AU 2016 Learning Code Good by Saron Yitbarek
+https://youtu.be/q4mPIctwZ-Q
+
+RubyConf AU 2016 One Undo by Katrina Owen
+https://youtu.be/Uk-DMWVR1zc
+
+RubyConf AU 2016 Out of sight, out of mind Helping teams thrive by Allison McMillan
+https://youtu.be/bGGj7JFzPns
+
+RubyConf AU 2016 Pursuing the Strong, Not So Silent Type A Haskell Story by Katie Miller
+https://youtu.be/mLlVsX3p-oc
+
+RubyConf AU 2016 Rails Performance Tips by Richard Huang
+https://youtu.be/2xu8MDNj0Dk
+
+RubyConf AU 2016 Refinements - the Worst Feature You Ever Loved by Paolo Perrotta
+https://youtu.be/XvlGOokgSi4
+
+RubyConf AU 2016 Ruby off the Rails How the government broke the internet by Senator Scott Ludlam
+https://youtu.be/XwQyQTT_i0Q
+
+RubyConf AU 2016 Security is hard, but we can't go shopping by Andre Arko
+https://youtu.be/w_Lwd3sGSbc
+
+RubyConf AU 2016 Site Availability is for Everybody by Stella Cotton
+https://youtu.be/TPD3qiWsEV8
+
+RubyConf AU 2016 What If Shakespeare Wrote Ruby by Adam Cuppy
+https://youtu.be/nEHLhiOLB0A
+
+RubyConf AU 2016 Winning in Production by Dr Nic Williams
+https://youtu.be/1S4NV6F3d3Q
+
+RubyConf AU 2017 -  Reinvesting in Ruby, by Tim Riley
+https://youtu.be/V8Sdg25eKlM
+
+RubyConf AU 2017 -  So you want to become a software engineer, by Shana Moore
+https://youtu.be/v8kAD9XTFwU
+
+RubyConf AU 2017 - A Common Taxonomy of Bugs and How to Catch Them, by Kylie Stradley
+https://youtu.be/0J5OWi65rTI
+
+RubyConf AU 2017 - Actors in Ruby! Why let Elixir have all the fun, by Marcos Matos
+https://youtu.be/wveC2bbFYgA
+
+RubyConf AU 2017 - Datacenter Fires and Other 'Minor' Disasters, by Aja Hammerly
+https://youtu.be/WoTemqfZiHE
+
+RubyConf AU 2017 - Defragging Ruby by Aaron Patterson
+https://youtu.be/nAEt36XNtAE
+
+RubyConf AU 2017 - Finding translations, localisation and internationalisation, by Valerie Woolard
+https://youtu.be/mN6lynGNzxs
+
+RubyConf AU 2017 - Functional in the front rails in the back... by Louis Simoneau & Rahul Trikha
+https://youtu.be/Bd6DTg1uNe0
+
+RubyConf AU 2017 - Functional Programming For The Anxious Developer, by Julian Doherty
+https://youtu.be/3b1YhdP2fis
+
+RubyConf AU 2017 - How does Bundler work anyway, by Andre Arko
+https://youtu.be/j2V-A8vvLP0
+
+RubyConf AU 2017 - Impactful Refactors Refactoring for Readability, by Kinsey Ann Durham
+https://youtu.be/CHaKY8tTY6E
+
+RubyConf AU 2017 - Open Source Power and the Passion, by Pat Allan
+https://youtu.be/uIqcGzQO01k
+
+RubyConf AU 2017 - Performance Optimization in Ruby, by Prathmesh Ranaut
+https://youtu.be/HHRTSpFGCGg
+
+RubyConf AU 2017 - Persistence pays off a new look at rom-rb, by Piotr Solnica
+https://youtu.be/9TBvWRgll64
+
+RubyConf AU 2017 - Ruby how a language affects its people, by Alex Coles
+https://youtu.be/ybrsMpLA6u8
+
+RubyConf AU 2017 - Ruby, HTTP2 and You, by Hiro Asari
+https://youtu.be/_KFxWyJrzso
+
+RubyConf AU 2017 - Self learning is a marathon not a sprint, by Elle Meredith
+https://youtu.be/bU9QprllR3s
+
+RubyConf AU 2017 - Simple and Awesome Database Tricks, By Barrett Clark
+https://youtu.be/N08NHsyaoKM
+
+RubyConf AU 2017 - Taking Refinery off the Rails, by Philip Arndt & Samuel Seay
+https://youtu.be/aVxJ0GyD3vw
+
+RubyConf AU 2017 - The little server that could, by Stella Cotton
+https://youtu.be/Wh88DZyTiK8
+
+RubyConf AU 2017 - The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨, by Katie McLaughlin
+https://youtu.be/Acf14xTjnFA
+
+RubyConf AU 2017 - VR backend rails vs serverless froth or future Ram Ramakrishnan & Janet Brown
+https://youtu.be/E0wPImDxSt8
+
+RubyConf AU 2017 - Writing a Gameboy emulator in Ruby, by Colby Swandale
+https://youtu.be/WbO2FEpNPvQ
+
+RubyConf AU 2017 - You and your type[s] aren't welcome here, by Andy Nicholson
+https://youtu.be/gzXjqfPydFo
+
+Shrine - Handle file uploads like it's 2017
+https://youtu.be/wACURf0U0Pk
+
+Silvio Montanari - Code forensic analysis
+https://youtu.be/WRVPEKHOxuM
+Videos 276-300

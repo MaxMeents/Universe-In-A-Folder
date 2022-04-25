@@ -1,0 +1,7 @@
+
+Hacking with Andrew and Brad an HTTP2 client
+https://youtu.be/yG-UaBJXZ80&list=PLtLJO5JKE5YAqhNPH2wI9VjEDWX92JSQj
+
+Hacking with Andrew and Brad tip.golang.org
+https://youtu.be/1rZ-JorHJEY&list=PLtLJO5JKE5YAqhNPH2wI9VjEDWX92JSQj
+Hacking with Andrew and Brad

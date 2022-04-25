@@ -1,0 +1,76 @@
+
+Field of view visualisation (E01)
+https://youtu.be/rQG9aUWarwE
+
+Field of view visualisation (E02)
+https://youtu.be/73Dc5JTCmKI
+
+Field of view visualisation (E03 stencil shader)
+https://youtu.be/xkcCWqifT9M
+
+Introduction to Game Development (E01 variables and methods)
+https://youtu.be/9iCnjdXEfMA
+
+Introduction to Game Development (E02 classes)
+https://youtu.be/XT_CtYN1OOU
+
+Introduction to Game Development (E03 Unity overview)
+https://youtu.be/L9zlZjxmwXU
+
+Introduction to Game Development (E04 writing code)
+https://youtu.be/zQPyGjPUDVE
+
+Introduction to Game Development (E05 operators and if statements)
+https://youtu.be/FvBSwwCGur0
+
+Introduction to Game Development (E06 a simple game)
+https://youtu.be/jitkNxnn-s8
+
+Introduction to Game Development (E07 vectors)
+https://youtu.be/m7VY1T6f8Ak
+
+Introduction to Game Development (E08 movement)
+https://youtu.be/nWuekr5rUcg
+
+Introduction to Game Development with Unity and C#
+https://youtu.be/_cCGBMmMOFw
+
+Procedural Landmass Generation (E01 Introduction)
+https://youtu.be/wbpMiKiSKm8
+
+Procedural Landmass Generation (E02 Noise Map)
+https://youtu.be/WP-Bm65Q-1Y
+
+Procedural Landmass Generation (E03 Octaves)
+https://youtu.be/MRNFcywkUSA
+
+Procedural Landmass Generation (E04 Colours)
+https://youtu.be/RDQK1_SWFuc
+
+Procedural Landmass Generation (E05 Mesh)
+https://youtu.be/4RpVBYW1r5M
+
+Procedural Landmass Generation (E06 LOD)
+https://youtu.be/417kJGPKwDg
+
+Procedural Landmass Generation (E07 Endless terrain)
+https://youtu.be/xlSkYjiE-Ck
+
+Procedural Landmass Generation (E08 Threading)
+https://youtu.be/f0m73RsBik4
+
+Procedural Landmass Generation (E09 LOD switching)
+https://youtu.be/QBGWVvpu-jo
+
+Procedural Landmass Generation (E10 seams)
+https://youtu.be/4olmeStiBsE
+
+Unity Create a Game Series (E24. Menu)
+https://youtu.be/EA-tBcTxE8M
+
+Unity Create a Game Series (E25. Finishing up)
+https://youtu.be/_Ue8P4tNXOg
+
+[Unity 5] Object Pooling Tutorial
+https://youtu.be/LhqP3EghQ-Q
+Videos 126-150

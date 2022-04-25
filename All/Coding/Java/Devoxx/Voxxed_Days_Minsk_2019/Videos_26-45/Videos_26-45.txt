@@ -1,0 +1,61 @@
+
+CIAM   A modern view on customer identity and access management architecture  Lev Maltsev, Epam
+https://youtu.be/NU7q6Ylpitk&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Cloud Native Spring  Orkhan Gasimov, Globallogic
+https://youtu.be/LsJHBX6LSE0&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Everything about static code analysis for a Java programmer  Maxim Stefanov, PVS Studio
+https://youtu.be/48nvngeHgkc&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+How we developed channel algorithms in Kotlin coroutines  Nikita Koval, JetBrains
+https://youtu.be/n9yYCTsnFXk&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Java 4.12, Kotlin, Code Coverage and their best friend - bytecode
+https://youtu.be/vYsUKA3L_SE&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Java on the GPU  Unlock the massive parallel perfomance! Dmitry Aleksandrov, T Systems
+https://youtu.be/YB62-pVrhKQ&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Keynote Serverles Functions Containers and Beyond. Arun Gupta, Principial Open Source Technologis
+https://youtu.be/ud5Ax21Obic&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Kotlin Coroutines in Practice  Sergey Zolotov, Partstech
+https://youtu.be/5ImvJxcBJiY&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Microservices  The phantom menace  Istio Service Mesh  the new hope  Serge Bishyr, Lohika
+https://youtu.be/I_iqlpSdxyo&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Multiplayer Pac Man with RSosket  Oleh Dokuka, Netifi, Inc
+https://youtu.be/dPyYBUMMSrA&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Perfomance tuning Twitter services with Graal and Machine Learning. Chris Thalinger, Twitter
+https://youtu.be/sKBMY9vJmBE&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Private video
+https://youtu.be/-VN-Rgzo7Ew&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Productionizing Data Platform Best Practices Self Service. Roman Novik, Epam System
+https://youtu.be/tmzRLeKaTDc&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Reacting Zen in Your Coordination Layer. Philipp Krenn, Elastic
+https://youtu.be/CSmE2OFyhWU&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Social implications of Bias in Machine Learning. Fiona Coath, Thoughtworks
+https://youtu.be/L7DGwiwkgEs&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Translation of switch into Java bytecode  Tagir Valeev, JetBrains
+https://youtu.be/gYjoX6YePY0&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Undercover Kotlin Using Kotlin without tipping your hand. Justin Lee, Red Hat
+https://youtu.be/q8dQZvCIBwI&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Using Many Worlds to Solve the Unsolvable. James Birnie, Thoughtworks
+https://youtu.be/6rflHoK_f9Y&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Wasteful waste of why everything is usually so slow in development  Mikalai Alimenkou, XP Injection
+https://youtu.be/I-OuMNROXD4&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+
+Ходячие объекты-мертвецы, или GC всегда прав Ivan Ugliansky, Excelsior llc
+https://youtu.be/u14s660nh20&list=PLRsbF2sD7JVq3tPa0jQjCtI1_xeLiPu-Z
+Videos 26-45

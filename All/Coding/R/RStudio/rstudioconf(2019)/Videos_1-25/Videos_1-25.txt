@@ -1,0 +1,76 @@
+
+Alan Dipert  Integrating React.js and Shiny  RStudio (2019)
+https://youtu.be/ohUZNk5WCGQ&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Alex Hayes  Solving the model representation problem with broom  RStudio (2019)
+https://youtu.be/gLZyvY5_kWQ&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Amanda Gadrow  Getting it right Writing reliable and maintainable R code  RStudio (2019)
+https://youtu.be/6aqudM2R02w&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Amelia McNamara  Working with categorical data in R without losing your mind  RStudio (2019)
+https://youtu.be/uLcd6tRTUEY&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Angela Bassa  Data science as a team sport  RStudio (2019)
+https://youtu.be/ilnNSrZ-qwY&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Barret Schloerke  Reactlog 2.0 Debugging the state of Shiny  RStudio (2019)
+https://youtu.be/9ObBOZ-EVqE&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Brooke Watson  R at the ACLU Joining tables to to reunite families  RStudio (2019)
+https://youtu.be/YXWW7uK6-Xg&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Caitlin Hudon  Learning from eight years of data science mistakes  RStudio (2019)
+https://youtu.be/O5lP6XcopdQ&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Carl Howe  The next million R users  RStudio (2019)
+https://youtu.be/9nTToSV6k3Q&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Claus Wilke  Visualizing uncertainty with hypothetical outcomes plots  RStudio (2019)
+https://youtu.be/SjYwhku2si0&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Darby Hadley  RStudio Job Launcher Changing where we run R stuff  RStudio (2019)
+https://youtu.be/tQ40oIiN-EQ&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+David Robinson  The unreasonable effectiveness of public work  RStudio (2019)
+https://youtu.be/th79W4rv67g&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Earo Wang  Melt the clock Tidy time series analysis  RStudio (2019)
+https://youtu.be/2BbCcSooIeE&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Edgar Ruiz  Databases using R The latest  RStudio (2019)
+https://youtu.be/aVI4YZ1CB2c&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Edzer Pebesma  Spatial data science in the Tidyverse  RStudio (2019)
+https://youtu.be/2d8YaVu1uzs&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Emily Robinson  Building an AB testing analytics system with R and Shiny  RStudio (2019)
+https://youtu.be/qjoc8LMZQFY&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Eric Nantz  Effective use of Shiny modules in application development  RStudio (2019)
+https://youtu.be/ylLLVo2VL50&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Felienne  Explicit Direct Instruction in Programming Education  RStudio (2019)
+https://youtu.be/CgR5mSAGxtA&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Gabor Csardi  pkgman A fresh approach to package installation  RStudio (2019)
+https://youtu.be/01QrIAXiJVA&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Garrett Grolemund  R Markdown The bigger picture  RStudio (2019)
+https://youtu.be/s9aWmU0atlQ&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Hadley Wickham  vctrs Tools for making size and type consistent functions  RStudio (2019)
+https://youtu.be/8_QoT3ygdI4&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Hao Zhu  Empowering a data team with RStudio addins  RStudio (2019)
+https://youtu.be/B5OuV2CzuRQ&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Joe Cheng  Shiny in production Principles, practices, and tools  RStudio (2019)
+https://youtu.be/Wy3TY0gOmJw&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Panel  Growth & change of careers, organizations & responsibility in data science  RStudio (2019)
+https://youtu.be/002QkEFRDGA&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+
+Tareef Kawaf  Welcome and RStudio Vision  RStudio (2019)
+https://youtu.be/y_zkI-LkS58&list=PL9HYL-VRX0oQchs7dqFICoxMgnvFO10tC
+Videos 1-25

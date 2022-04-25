@@ -1,0 +1,22 @@
+
+Clean iOS Architecture pt.1 Analytics Architecture Overview
+https://youtu.be/PnqJiJVc0P8&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+
+Clean iOS Architecture pt.2 Good Architecture Traits
+https://youtu.be/C2GyNTN4j4o&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+
+Clean iOS Architecture pt.3 Composing types in Swift
+https://youtu.be/GzFD7R_CI04&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+
+Clean iOS Architecture pt.4 Clean Memory Management in Swift with WeakRef
+https://youtu.be/3XAdFuwHgew&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+
+Clean iOS Architecture pt.5 MVC, MVVM, and MVP (UI Design Patterns)
+https://youtu.be/qzTeyxIW_ow&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+
+Clean iOS Architecture pt.6 VIPER – Design Pattern or Architecture
+https://youtu.be/CkylrfKvf1A&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+
+Clean iOS Architecture pt.7 VIP (Clean Swift) – Design Pattern or Architecture
+https://youtu.be/AnUcZUMGVBI&list=PLyjgjmI1UzlSWtjAMPOt03L7InkCRlGzb
+Clean iOS Architecture

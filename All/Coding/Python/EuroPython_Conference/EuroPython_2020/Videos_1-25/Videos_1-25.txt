@@ -1,0 +1,76 @@
+
+Alexys Jacob - A deep dive and comparison of Python drivers for Cassandra and Scylla
+https://youtu.be/vWgTF5xnx8M&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Ben Nuttall - Tools for maintaining an open source Python project
+https://youtu.be/qgM2md7TsEA&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Bernat Gabor - Lessons from the Trenches rewriting and re-releasing virtualenv
+https://youtu.be/l9A0a8qZgOs&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Bhagvan Kommadi - Telehealth Platform  Python & Django powered
+https://youtu.be/RBERo-AFkDw&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Bojan Miletic - Django Testing on Steroid pytest + Hypothesis
+https://youtu.be/GBk02RntSVk&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Dustin Ingram - Static Typing in Python
+https://youtu.be/cmmPDYa0gWo&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Elias Mistler - How to write multi-paradigm code
+https://youtu.be/RHPFPhaLu58&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Europython 2020 -  Opening Session
+https://youtu.be/CvbQArKEFes&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Itamar Turner-Trauring - Best practices for production-ready Docker packaging
+https://youtu.be/H0UPw-ILiz4&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Jason McDonald - Writing Zenlike Python
+https://youtu.be/ZHY5SCBckwg&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Jeffrey Mew - Supercharge your Data Science workflow with Notebooks, VS Code, and Azure
+https://youtu.be/Tyvg0LOwd5o&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Kanianthra Chandy - IoTPy Python + Streams + Agents for Streaming Applications
+https://youtu.be/AYkxrCaFG6s&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Lorenzo Peña - Yet another package for multi-tenancy in Django
+https://youtu.be/eYpcPJaE19I&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Martin Christen - pyRT - Computer Graphics in Jupyter Notebooks for Fun and Teaching
+https://youtu.be/bjFkuPXMmEc&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Mikhail Medvedev - Extending Python with Rust
+https://youtu.be/hqFjJP5L-mk&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Miroslav Šedivý - Your Name Is Invalid!
+https://youtu.be/IuZBTjaphsY&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Naomi Ceder - Staying for the Community Building Community in the face of Covid-19
+https://youtu.be/GjGfLldzu5k&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Neeraj Pandey - The Joy of Creating Art with Code.
+https://youtu.be/bjzPkhYmtOg&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Nisarg Shah - Developing GraphQL API in Django using Graphene
+https://youtu.be/voR_YknH6uo&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Paolo Melchiorre - A pythonic full-text search
+https://youtu.be/4DP0eKp2-nE&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Radosław Ganczarek - The joy of deleting code
+https://youtu.be/Ly-JNvmc34U&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Roberto Polli - Extending HTTP for fun and non-profit
+https://youtu.be/FoD3CCGUXrQ&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Sean Walsh - Serverless 2.0 with Cloudstate.io-stateful functions with Python
+https://youtu.be/Er7YbFC6Zp8&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Vinicius Gubiani Ferreira - Effective Code Reviews
+https://youtu.be/05o1LB6yzRM&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Yenny Cheung - Creating an inclusive team culture in times of change
+https://youtu.be/PKjxIXGKI0w&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+Videos 1-25

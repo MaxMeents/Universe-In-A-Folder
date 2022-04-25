@@ -1,0 +1,19 @@
+
+Learning XML with Maestrith and the-Automator
+https://youtu.be/g3xO4ghwgII&list=PL3JprvrxlW276VPgo5radDIsGolXUx6qY
+
+Maestrith & I were playing with XML, Treeviews, &Objects in AutoHotkey
+https://youtu.be/Mdbg67_a4JU&list=PL3JprvrxlW276VPgo5radDIsGolXUx6qY
+
+Maestrith teaching me how to use XML when working with SharePoint
+https://youtu.be/CLJ2UMvv7z8&list=PL3JprvrxlW276VPgo5radDIsGolXUx6qY
+
+Parse XML with this amazing XML parsing class in AutoHotkey
+https://youtu.be/vPAAuh79gPI&list=PL3JprvrxlW276VPgo5radDIsGolXUx6qY
+
+Using Maestrith's XML class in AutoHotkey to create menus
+https://youtu.be/ztQ3pdbO1k8&list=PL3JprvrxlW276VPgo5radDIsGolXUx6qY
+
+Using XML Class in AutoHotkey to save user settings
+https://youtu.be/h3LgG63cMVE&list=PL3JprvrxlW276VPgo5radDIsGolXUx6qY
+XML is an amazing Data structure!

@@ -1,0 +1,76 @@
+
+#222 Interactive graphs with Bokeh and Python
+https://youtu.be/KKEQExl3o0c
+
+#223 Fun and Easy 2D Games with Python
+https://youtu.be/1MWTtF50T0M
+
+#224 12 Lessons from 100 Days of Web
+https://youtu.be/uDvLddbxoAA
+
+#225 Can Subinterpreters Free Us from Python's Gil
+https://youtu.be/0L-GlQpXWEo
+
+#226 Building Flask APIs for Data Scientists -  Talk Python to Me Podcast
+https://youtu.be/tGHVhKb61ao
+
+#227 Maintainable Data Science Tips for Non Developers - Talk Python to Me Podcast
+https://youtu.be/gBZpt1yfdt0
+
+#228 Hunting Bugs and Tech Startups with Python  - Talk Python to Me Podcast
+https://youtu.be/m9VDrmpjabM
+
+#229 Building Advanced Pythonic Interviews with Docassemble - Talk Python to Me Podcast
+https://youtu.be/sCIEhzRd_yc
+
+#230 Python in digital humanities research
+https://youtu.be/FY2HcMhwjQc
+
+#231 Advice for Freelancing with Python
+https://youtu.be/zyZRyZRCovs
+
+#232 Become a robot developer with Python
+https://youtu.be/gUZwVFYsWtU
+
+#233 The Masonite Python Web Framework
+https://youtu.be/k1V-APFnmTI
+
+#234 Awesome Python Applications
+https://youtu.be/jw7Ni8fXWvo
+
+#235 Python in your Browser with Skulpt
+https://youtu.be/8SPcKcCIGiE
+
+#236 Scaling data science across Python and R
+https://youtu.be/vZXhiCyclLs
+
+#237 A gut feeling about Python
+https://youtu.be/FvnO7l0UMOc
+
+#238 Collaborative Data Science with Gigantum
+https://youtu.be/lkPYDOuFAcg
+
+#239 Bayesian Foundations
+https://youtu.be/-6d5qh7ektQ
+
+#240 A Guided Tour of the CPython Source Code
+https://youtu.be/6fk2kYebTlc
+
+#241 Opal Full Stack Health Care Apps
+https://youtu.be/_wbK6R1lj_c
+
+#242 Your Education Will Be Live Streamed
+https://youtu.be/Y1VTFhZlRpo
+
+#243 Python on Windows is OK, actually
+https://youtu.be/E3VAKD8fpFk
+
+#244 Top 10 Real Python Articles of 2019
+https://youtu.be/8QxpPSLuGu0
+
+#245 Python Packaging Landscape in 2020
+https://youtu.be/LvBOLYBx_Cg
+
+#258 - Thriving in a Remote Developer Environment
+https://youtu.be/hE2Vbn7Tgak
+Videos 101-125

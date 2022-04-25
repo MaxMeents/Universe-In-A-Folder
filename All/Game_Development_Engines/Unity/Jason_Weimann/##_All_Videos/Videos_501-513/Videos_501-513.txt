@@ -1,0 +1,40 @@
+
+3D Stereo VR Video in Unity3D 2017
+https://youtu.be/8igGlMhwyx0
+
+Build a UGUI Expandable Collapsable Windows With ContentSizeFitter & HorizontalLayoutGroup - No Code
+https://youtu.be/8uLSGlNQHo0
+
+Create a shooter in VR with SteamVR & Unity3D
+https://youtu.be/qwKKVNmEQOk
+
+How to create an Unity3D Infinite Scrolling Background with SpriteMask & Seamless texture
+https://youtu.be/P3LXGbSA4c0
+
+How to Fix Unity3D Vive Trackers not Working without controllers on
+https://youtu.be/EicpJkKhUZA
+
+How to hook up & use Unity UGUI UI Buttons in code or the inspector
+https://youtu.be/-bc7Ut8ijd4
+
+How to play Stereoscopic 3D 360 video in Unity3D in 3 minutes
+https://youtu.be/yDpOOOF0Xlk
+
+How to use SteamVR HTC Vive Trackers in Unity3D
+https://youtu.be/HyJPNzyADck
+
+How to use the Unity3D 2017 SpriteMask for transparent sprites - In 2 Minutes
+https://youtu.be/uIwe34Fg0As
+
+How to use Unity3D Vive Trackers POGO Pins - It's Easy
+https://youtu.be/MCiGpOSZM8A
+
+Unity3D Architecture - Where should I put my components  (and a little Weapon Swapping)
+https://youtu.be/UWGspLJ-_8U
+
+Unity3D Building and Object Placement & Rotation.  Let your players build the world!
+https://youtu.be/YI6F1x4pzpg
+
+Unity3D Rants - Clean Code, Extension Methods, & State Machines
+https://youtu.be/dMVcu4T4Y6I
+Videos 501-513

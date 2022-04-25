@@ -1,0 +1,76 @@
+
+Code Monkey Channel Trailer
+https://youtu.be/JIuvDoSgPN4
+
+Complex Task - Task System in Battle Royale Tycoon (Unity 2D Tutorial)
+https://youtu.be/dmebSeDIMts
+
+Construct Tower - Simple AI Resource Gatherer (Unity Tutorial)
+https://youtu.be/Ldpl_nG_UPc
+
+Control Multiple Units - Simple AI Resource Gatherer (Unity Tutorial)
+https://youtu.be/5e3gUuzAwKA
+
+How to drag Multiple Items into the Inspector (Unity Quick Tip)
+https://youtu.be/08_giR06XwI
+
+How to make a Health Bar (Unity 2D Tutorial for Beginners)
+https://youtu.be/Gtw7VyuMdDc
+
+How to make a Health Bar with Code (Unity Tutorial for Beginners)
+https://youtu.be/D7TvU-NHBm4
+
+How to make a Simple Minimap (Unity Tutorial for Beginners)
+https://youtu.be/kWhOMJMihC0
+
+Monthly Summary - August 2018
+https://youtu.be/NdxzSyBQy1Q
+
+Monthly Summary - July 2018
+https://youtu.be/j8CNiNMQJHA
+
+Multiple Systems with different Tasks - Task System in Battle Royale Tycoon (Unity 2D Tutorial)
+https://youtu.be/i_Ln_TJywaQ
+
+Player Control - Simple AI Resource Gatherer (Unity Tutorial)
+https://youtu.be/YbxVTviBoWY
+
+Queue Tasks and Validate - Task System in Battle Royale Tycoon (Unity 2D Tutorial)
+https://youtu.be/TBWukQAhrBk
+
+Resource Regeneration - Simple AI Resource Gatherer (Unity Tutorial)
+https://youtu.be/xu_vKGZyVCo
+
+Resource Types Gold, Wood - Simple AI Resource Gatherer (Unity Tutorial)
+https://youtu.be/wmfpVXA3UtU
+
+Simple Saving and Loading from a File (Unity Tutorial for Beginners)
+https://youtu.be/lJ9nArexsfA
+
+Simple Saving and Loading with JSON to a File (Unity Tutorial for Beginners)
+https://youtu.be/6uMFEM-napE
+
+Simple Saving and Loading with PlayerPrefs (Unity Tutorial for Beginners)
+https://youtu.be/donIirlj074
+
+Take Weapon to Slot - Task System in Battle Royale Tycoon (Unity 2D Tutorial)
+https://youtu.be/Y0YT2SONEm0
+
+Vote on Video Suggestions! (Website Update)
+https://youtu.be/WS6pyKpeSyI
+
+What is a Component (Unity Tutorial for Beginners)
+https://youtu.be/etTZYeTrpZU
+
+What is a SpriteRenderer (Unity Tutorial for Beginners)
+https://youtu.be/jds6oiQIijg
+
+What is a Transform (Unity Tutorial for Beginners)
+https://youtu.be/8pC3SE5PIzY
+
+What is a Transform Parents and Children (Unity Tutorial for Beginners)
+https://youtu.be/SZChVvy4enQ
+
+What is JSON (Unity Tutorial for Beginners)
+https://youtu.be/4oRVMCRCvN0
+Videos 501-525

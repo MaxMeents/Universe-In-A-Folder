@@ -1,0 +1,76 @@
+
+A MicroAutoBox Workflow
+https://youtu.be/cQrQIPwrWak&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Basics of Code Generation
+https://youtu.be/nh5fVNG2xjk&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Battery Modeling with Simulink
+https://youtu.be/OFWCFefmvnM&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+CAN Communication with Your ECUs and the Vehicle Network Toolbox
+https://youtu.be/JZy0fLeVkUs&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Determining Chassis Stiffness with MATLAB
+https://youtu.be/iWzG8Uqu_dY&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Developing Algorithms for ADAS Systems with MATLAB and Simulink
+https://youtu.be/pL8DGnUroDU&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+ECU Tuning and Data Logging Using CAN and Simulink
+https://youtu.be/2UfdusKjAMs&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Embedded Code Generation for Your Vehicle Control Systems
+https://youtu.be/kU7iRYMlaYo&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Import CAD Assembly into SimMechanics - MATLAB and Simulink Racing Lounge
+https://youtu.be/MjqHTYX-z4Y&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Importing CAD Assemblies into Simscape Multibody
+https://youtu.be/gSgWYXBZc0M&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Modeling of a Continuously Variable Transmission (CVT) BAJA All-Terrain Vehicle (ATV)
+https://youtu.be/gOFweQcz0XI&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Modeling Physical Components, Part 1 Mathematical Models
+https://youtu.be/alFPhyrfmC4&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Modeling Physical Components, Part 2 Data-Driven Concepts
+https://youtu.be/F_D2kUCFDno&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Modeling Vehicle Dynamics
+https://youtu.be/HeKqOI1RXqo&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Preparing Custom Vehicle Mesh for the Unreal Editor  MATLAB and Simulink Racing Lounge
+https://youtu.be/A5P1aMTrq_s&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Principles of Control Design
+https://youtu.be/stiDxFSKMNI&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Processing CFD Simulation Data
+https://youtu.be/vXOcnk4iQPc&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Programming ECUs Using Simulink
+https://youtu.be/EK505A5AcrU&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Real-Time Simulation and Testing of a Throttle Valve Controller
+https://youtu.be/cJkcnJKr7Mc&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Simulating Longitudinal and Lateral Vehicle Dynamics
+https://youtu.be/WID-MBOIIt8&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Vehicle Modeling Using Simscape Multibody
+https://youtu.be/VWLpZk9s5FA&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Vehicle Modeling Using Simulink
+https://youtu.be/J-JOn5xaZbQ&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Vehicle Path Tracking Using Model Predictive Control  MATLAB and Simulink Racing Lounge
+https://youtu.be/SzEg_C-XJ14&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Vehicle Path Tracking Using Pure Pursuit Controller
+https://youtu.be/zMdoLO4kRKg&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+
+Virtual Test Driving
+https://youtu.be/5xMzTSqrmFI&list=PLn8PRpmsu08rkM6q6NxZdew0DfqK3WnX9
+Videos 1-25

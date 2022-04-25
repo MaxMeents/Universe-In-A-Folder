@@ -1,0 +1,46 @@
+
+Analyse World Happiness Report Pandas Exercise
+https://youtu.be/AxVyGpoKmKk&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Different Ways to Create Pandas Series
+https://youtu.be/vG-8GzB-Es4&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  Filter Data Part 2
+https://youtu.be/jMef5iKAfqw&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  Filter Data
+https://youtu.be/XyaR1s_OjRk&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  iloc (Hindi)
+https://youtu.be/g6aiD9gwy7E&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  Index Object
+https://youtu.be/yZJgbqOb3dc&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  Loc
+https://youtu.be/h-nR45xJJPo&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  Selecting rows using square brackets
+https://youtu.be/igEGUeJCcSk&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas  Sort Series
+https://youtu.be/CbYU2II34jw&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas Series   nsmalest nlargest idxmin idxmax
+https://youtu.be/eIsaKv1nqio&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas Series Part 1
+https://youtu.be/opxr61jA0A0&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Pandas Series [2]
+https://youtu.be/ybE2T2gRFaY&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+pd.DataFrame
+https://youtu.be/cXDM92gYRps&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+Series to list
+https://youtu.be/P5CyqR64Gz0&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+
+[Solution]Analyse World Happiness Report Solution
+https://youtu.be/AKu4dDSbDDw&list=PLwgFb6VsUj_nFnLLn3M8iacrhDyXqE4N9
+Videos 26-40

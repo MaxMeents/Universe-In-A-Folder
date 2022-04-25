@@ -1,0 +1,76 @@
+
+JS Quick Hits 66 - Mmmm ... Cookies
+https://youtu.be/5dx5iXwzw4s
+
+JS Quick Hits 67 - Try  Catch  Finally
+https://youtu.be/krI4gjA09IE
+
+JS Quick Hits 68 - The Error Constructor
+https://youtu.be/d6CWTidOAv4
+
+JS Quick Hits 69 - Custom Errors
+https://youtu.be/afrGLtz7omk
+
+JS Quick Hits 70 - Local Storage
+https://youtu.be/NFqeGLDnj-I
+
+JS Quick Hits 71 - Array Index Methods
+https://youtu.be/UkDwKKBBajg
+
+JS Quick Hits 72 - The While Loop
+https://youtu.be/IW-JyxP_HsM
+
+JS Quick Hits 73 - IIFEs Explained
+https://youtu.be/Jpn1zOjYQ-Y
+
+JS Quick Hits 74 - MongoDB & Mongoose Part 1 - Setup
+https://youtu.be/Cp9t9UQHy5A
+
+JS Quick Hits 75 - MongoDB & Mongoose Part 2 - Schemas
+https://youtu.be/A-EdbExcK9M
+
+JS Quick Hits 76 - MongoDB & Mongoose Part 3 - Sending Data
+https://youtu.be/1msN_7JqnlI
+
+JS Quick Hits 77 - MongoDB & Mongoose Part 4 - Retrieving Data
+https://youtu.be/-xK4Lskv4fo
+
+JS Quick Hits 78 - MongoDB & Mongoose Part 5 - Deleting Data
+https://youtu.be/FULLoKBeqyc
+
+JS Quick Hits 79 - MongoDB & Mongoose Part 6 - Updating Data
+https://youtu.be/2zHwhfektwc
+
+JS Quick Hits 80 - setTimeout & setInterval
+https://youtu.be/uoBAJj9_ZHQ
+
+JS Quick Hits 81 - Working With JSON
+https://youtu.be/PThDUVQrhgw
+
+JS Quick Hits 82 - Chaining Methods
+https://youtu.be/e9YZYpA2q6M
+
+JS Quick Hits 83 - Event Propagation Part 1 - Capturing
+https://youtu.be/BEtgP9uhFtc
+
+JS Quick Hits 84 - Event Propagation Part 2 - Target & Bubbling
+https://youtu.be/CKUpdcJYXn8
+
+JS Quick Hits 85 - Event Propagation Part 3 - Cancelling
+https://youtu.be/ajMmFUfLkLY
+
+JS Quick Hits 86 - Memoization
+https://youtu.be/a3oWbZWklQ8
+
+JS Quick Hits 87 - Chaining Array Methods
+https://youtu.be/EMT-IC1mtJg
+
+JS Quick Hits 88 - Bracket Notation
+https://youtu.be/O7rhgmyaLQE
+
+JS Quick Hits 89 - TypeScript Part 1
+https://youtu.be/FuVvvRAjSBQ
+
+JS Quick Hits 90 - TypeScript Part 2
+https://youtu.be/_MFbwFFkSqU
+Videos 26-50

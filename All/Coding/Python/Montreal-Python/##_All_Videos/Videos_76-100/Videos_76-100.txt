@@ -1,0 +1,76 @@
+
+A hobbist introduction to the kivy framework #MP47
+https://youtu.be/fAK74eBCIBk
+
+arkOS Your Data, Your Rules #MP46
+https://youtu.be/VD1Fp6O8DZ8
+
+Career advice for the modern programmer #MP46
+https://youtu.be/YlU4n-sVHE4
+
+Code Review #MP45
+https://youtu.be/mhU3xwPGJ7I
+
+Configuration management - finding the tool #MP45
+https://youtu.be/M2Dq5hgV3L0
+
+doitlive shell demo magic for the masses #MP48
+https://youtu.be/u4_UhFloISY
+
+E-180 et Python - Les grands esprits se rencontrent #MP49
+https://youtu.be/LIkVpmYaMIE
+
+Easy network hacking with scapy #MP47
+https://youtu.be/EnuF9ZR6MVc
+
+Exploration des CPython internals avec ctypes #MP47
+https://youtu.be/vknjFZDMOlM
+
+Firefox OS - HTML5 to the next level #MP46 #fharper
+https://youtu.be/f14e5iQDAYY
+
+Identifying latencies in your code #MP47
+https://youtu.be/pV0O2TCj6AI
+
+Lifelines Survival Analysis in Python #MP48
+https://youtu.be/XQfxndJH4UA
+
+Module of the Month configparser #MP47
+https://youtu.be/MRupY_nRNgA
+
+Module of the month pyp #MP49
+https://youtu.be/bXH7ppWSTDo
+
+Panel Python 3 Adoption and Barriers #MP45
+https://youtu.be/iFTqUTye5Hc
+
+Person of the Month Donald Stufft #MP44
+https://youtu.be/sp3MO_C3rXc
+
+Proctor, une nuée de Tor pour protéger votre vie privée #MP48
+https://youtu.be/9IwdX8sS40g
+
+Pyston, a new JIT-based Python implementation #MP48
+https://youtu.be/uOz_imHajFY
+
+Python Module of the Month q #MP44
+https://youtu.be/6OfMPcZGI3w
+
+Québec 247, le Québec supervisé #MP48
+https://youtu.be/TTsPlt2snHM
+
+Scaling the Facebook Cache Infrastructure with Python #MP45
+https://youtu.be/2IX3xhHEEuk
+
+Totpcgi OATH server #MP47
+https://youtu.be/PoFPuxdp61Q
+
+Unicode is ∂© in python 2, but better in python 3 #MP46
+https://youtu.be/LOb7OUM0OGU
+
+Vagrant-Control  une interface web #MP47
+https://youtu.be/x0Mw0wpX5zA
+
+Why choose Python for neuroscience data analysis #MP47
+https://youtu.be/Ev8BUeha0gM
+Videos 76-100

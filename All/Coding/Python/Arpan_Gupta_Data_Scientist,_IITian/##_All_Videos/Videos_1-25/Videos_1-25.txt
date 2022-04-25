@@ -1,0 +1,76 @@
+
+Arpan Gupta Channel Intro
+https://youtu.be/OASKk3X9Unc
+
+Bagging and boosting in machine learning Ensemble Model
+https://youtu.be/22BzrPQgAUU
+
+Basic Data Analysis & plotting using python
+https://youtu.be/WvIkPpDk5YE
+
+Basics of Convolutional Neural Network (CNN)
+https://youtu.be/EIg9UpY1DoM
+
+Custom Loss Functions In Machine Learning #shorts #ml #ai #datascience
+https://youtu.be/buMAk8B6sdw
+
+Deeplearning implementation in KerasTensorflow for CNNGANAutoencoder
+https://youtu.be/tj33t0zvk7s
+
+End to End Machine Learning using python KaggleFor Beginners
+https://youtu.be/xLk-aboNTpw
+
+Fitting Logistic Regression & Neural Network Using Pytorch
+https://youtu.be/VRB_XG4YL0k
+
+HOLI 2020
+https://youtu.be/p5jfMSIZXlw
+
+How to fit a SARIMA Model on time series data
+https://youtu.be/z-uSBE8Pxwg
+
+How to install python in your machine
+https://youtu.be/GfZwbt8uHrY
+
+Image Classification using Transfer Learning  in Pytorch
+https://youtu.be/yr9tQnlkDQw
+
+Implementing UNET Algo in KerasComputer VisionDeeplearning
+https://youtu.be/c6hHil0uCAE
+
+Let's check the time series stationarity Dickey–Fuller test  test for ARIMA
+https://youtu.be/g-KS-_zMAn4
+
+Let's Understand Neural Network in Nutshell
+https://youtu.be/KHKxwM4B3NE
+
+Loss Functions and its types Log Loss Cross Entropy Loss Hinge Loss
+https://youtu.be/QP-tAgF0LLw
+
+Machine LearningData ScienceDeeplearning
+https://youtu.be/O7totYdiCkE
+
+Maths Behind ARIMA Models
+https://youtu.be/-cJddTqFcsM
+
+Pytorch  Linear Regression in 5 minutes Facebook Opensource Framework
+https://youtu.be/ffvK0NVHJ1s
+
+Questions to Ask before Fitting ModelMachine Learning Model Avoid Overfitting
+https://youtu.be/N2_3rBfzUkk
+
+Recall increases Precision Decreases #shorts #ml #datascience
+https://youtu.be/zRX7cv0XEtE
+
+What doctor says about coronavirus.
+https://youtu.be/0bQQ2CCZEyM
+
+What is artificial intelligence and machine learning
+https://youtu.be/5BoSMDWv8ao
+
+What is Bias and Variance  Is your model Overfitting or Underfitting Machine Learning Model
+https://youtu.be/ICu3cxA3ZlA
+
+What is Image Classification Object SegmentationObject Detection
+https://youtu.be/6FsU-Qkl4qg
+Videos 1-25

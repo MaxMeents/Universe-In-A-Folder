@@ -1,0 +1,22 @@
+
+Artificial Pancreas Control Using Fuzzy Logic
+https://youtu.be/r8qQhdvxFmw&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+
+Autotuning a Field-Oriented Controller
+https://youtu.be/H213IHjhC00&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+
+Enforce Constraints for PID Controllers
+https://youtu.be/SLM_yjMHw5o&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+
+Extremum Seeking Control for Anti-Lock Braking Systems
+https://youtu.be/GIDY6zyK-Mo&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+
+Model Predictive Control in ADAS
+https://youtu.be/AMArJPrlkhA&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+
+Motor Control on Embedded Devices
+https://youtu.be/fpz4-hapKkg&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+
+Train a Quadruped to Walk with Reinforcement Learning
+https://youtu.be/2OjEeiT69ug&list=PLn8PRpmsu08popybWVElP0eRVVaZ3cuU8
+Control Systems  Developer Tech Showcase

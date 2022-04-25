@@ -1,0 +1,76 @@
+
+Python Basics Tutorial Create Your First Model For Django Poll Website Setting Up the DataBase
+https://youtu.be/bX5YShFsTZ8&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Django Admin Page
+https://youtu.be/DsEcKl5vbRM&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Django Manage Sqlmigrate Command
+https://youtu.be/8cOZ2bwrl4I&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Django Render Function and HTML File
+https://youtu.be/P2-IxYlRUS4&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Django Series Continued
+https://youtu.be/NhX8YwjpPDQ&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Django Template Folder
+https://youtu.be/QCX6uU32p1A&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Do You Want More Live Streams 
+https://youtu.be/AicV8mz7YUA&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Extremely Humbled
+https://youtu.be/SIvvUVE92oo&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Finding Time 168 Hours In A Week
+https://youtu.be/oJrm3X31-dU&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial First Video To Hit 10K Views  Thank You
+https://youtu.be/xlNH2URASbU&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial How to Compare Companies Using  Pandas To Dict Function
+https://youtu.be/erFBmp_PFAo&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial How To Handle Django Migration Issues with Manage.py
+https://youtu.be/wTuOAytjojI&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial HTML Intro
+https://youtu.be/TNwTqW494tU&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Huge News!!!!
+https://youtu.be/zVgBCWIvhoc&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Install Alpha Vantage and API Key
+https://youtu.be/8NJHwk8dj-U&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Install Pandas Datareader and Stock Data Recap
+https://youtu.be/ojSvfWm5dl8&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Intro to Pandas Datareader For Stock Data
+https://youtu.be/YY-yaAgVmGw&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Match A Stock Ticker List In a DataFrame   Pandas isin Method
+https://youtu.be/N85yCgih07E&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Need Your Help Taking A Poll
+https://youtu.be/hbZe8I6g9bI&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Put A Header On Our Web Page
+https://youtu.be/b1N8EU6I7RI&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Real Time Stock Data with Pandas Datareader Data Module
+https://youtu.be/UyJiw5P5t_o&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Staying Motivated
+https://youtu.be/wtvqE3aX-p4&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Taking a Break With Maybe A Surprise
+https://youtu.be/z_a7kobg6eU&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial Tree And Django Manage Shell Command
+https://youtu.be/jvhFevP1TrA&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+
+Python Basics Tutorial You Can Learn To Do This  You Can Learn To Program
+https://youtu.be/KFXghrLcE9E&list=PLaYT64KWZAENDpDrpsHpmrYLGwVVAeWXL
+Videos 26-50

@@ -1,0 +1,76 @@
+
+3D Earth in Augmented Reality with ARKit and SceneKit - 424 Days of Swift Tutorials 🎄
+https://youtu.be/4aIVHV5Q7a0
+
+Apple Watch in 2018 What about 3rd Party Apps
+https://youtu.be/2jSvDwmqYiM
+
+ARKit Augmented Reality Plane Detection & Light Estimation
+https://youtu.be/mkD5Jw-bLLs
+
+ARKit, Core ML, iOS Job Interviews and much more in the STC17 Conference Bundle
+https://youtu.be/Im_L0lvB5dY
+
+Create a To-Do List App Data Model for local storage - JSON and Codable
+https://youtu.be/5ZUVCyOvZto
+
+Create an Awesome To-Do List App Design with Adobe XD
+https://youtu.be/IVp12uLwZmU
+
+Create an Interactive 3D Earth with Scene Kit - 324 Days of Swift Tutorials 🎄
+https://youtu.be/3rpNDENQgPM
+
+How to Make a Simple Drawing App - 124 Days of Swift Tutorials 🎄
+https://youtu.be/ZP9tWkTx7p4
+
+How to Solve Problems as a Developer - 624 Days of Swift Tutorials 🎄
+https://youtu.be/7ehu0R1dY7I
+
+Huge iOS Holiday Giveaway  Brian Advent
+https://youtu.be/UBreWPxPoPo
+
+iOS Swift 4 Game Tutorial Create 3D Levels with SceneKit Editor 🕹
+https://youtu.be/pV_1lPjSZrg
+
+iOS Swift Tutorial App like Twitter with Firestore Cloud Database
+https://youtu.be/XwXEsKRYUXU
+
+iOS Swift Tutorial Cloud Firestore Database - Basics and Xcode Integration
+https://youtu.be/PdLzuwBrmSg
+
+iOS Swift Tutorial Create Advanced Interactive Animations with UIKit
+https://youtu.be/Yrb78U3V16g
+
+iOS Swift Tutorial Create Beautiful Charts 📊
+https://youtu.be/GNf-SsDBQ20
+
+iOS Swift Tutorial Drag and Drop on iPhone with iOS 11
+https://youtu.be/t9vfvhUFKLc
+
+iOS Swift Tutorial Git Version Control with Xcode 9
+https://youtu.be/RWlG08FM5FA
+
+iOS Swift Tutorial RxSwift - A Practical Introduction
+https://youtu.be/2m92mRI8l7U
+
+iOS Swift Tutorial Transfer Data with the Multipeer Connectivity Framework
+https://youtu.be/H5c4vo6p5Fg
+
+Promote your Apps with Scannable Gift Cards
+https://youtu.be/FLpXQug95ls
+
+Recognize Handwriting with Core ML - 224 Days of Swift Tutorials 🎄
+https://youtu.be/bOg8AZSFvOc
+
+Simple UI, Custom Delegate and TableViewCells Swift Tutorial
+https://youtu.be/VxAlvrwIeQM
+
+SpriteKit Basics Tutorial Collisions, Bitmasks and Physics & New SpriteKit Course
+https://youtu.be/miQ4YmPtFJE
+
+Swift Tutorial From UI Design to Real iOS App
+https://youtu.be/HnJIVX3boK0
+
+Why I bought the iPhone 8 Plus instead of the iPhone X
+https://youtu.be/fF167coDq6Y
+Videos 51-75

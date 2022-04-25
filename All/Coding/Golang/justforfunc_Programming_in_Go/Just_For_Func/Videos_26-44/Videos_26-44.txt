@@ -1,0 +1,58 @@
+
+justforfunc #0 Hello, World!
+https://youtu.be/0NTKMKDsCTE&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #1 A Code Review
+https://youtu.be/eIWFnNz8mF4&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #10 implementing the context package
+https://youtu.be/8M90t0KvEDY&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #11 code review of an IRC package's API
+https://youtu.be/nhElL62BSn0&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #12 a Text to Speech server with gRPC and Kubernetes
+https://youtu.be/XaMr--wAuSI&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #13 more text to speech with cgo and Docker multistage builds! (4k)
+https://youtu.be/yuW6BwOS8Eg&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #14 a twitter bot and systemd (that runs free on GCP)
+https://youtu.be/SQeAKSJH4vw&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #15 a code review with logging, errors, and signals
+https://youtu.be/c5ufcpTGIJM&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #16 unit testing HTTP servers
+https://youtu.be/hVFEV-ieeew&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #17 contributing to the Go project
+https://youtu.be/DjZMKKfNVMc&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #18 understanding Go's type aliases
+https://youtu.be/Vg603e9C-Vg&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #2 The Magic Gate (part 1)
+https://youtu.be/mTd3hHUy9OU&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #3 The Magic Gate (part 2)
+https://youtu.be/uIA1s3Rhpv8&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #4 Code Review for a Twitter client
+https://youtu.be/MnbMWNR_XZc&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #5 Defining a Color Flag in Go
+https://youtu.be/4D506W1AjeM&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #6 Flappy Gopher
+https://youtu.be/aYkxFbd6luY&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #7 Flappy Gopher II - Handling Events
+https://youtu.be/tX_Fgt0gVbQ&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #8 Flappy Gopher III - Collision detection
+https://youtu.be/jy9XKfYjtwE&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+justforfunc #9 The Context Package
+https://youtu.be/LSzR0VEraWw&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+Videos 26-44

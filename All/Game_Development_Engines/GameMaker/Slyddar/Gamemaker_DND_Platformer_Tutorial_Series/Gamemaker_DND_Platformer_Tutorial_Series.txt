@@ -1,0 +1,61 @@
+
+Gamemaker DND Platformer Tutorial - #1 Movement
+https://youtu.be/HJObUVyhLaQ&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #10 Damaging the Player
+https://youtu.be/D4_cRbmjahs&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #11 Juice
+https://youtu.be/PCXaj4ldRSo&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #12 Screen Shake
+https://youtu.be/RpgNL_BafM0&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #13 Falling Leaves
+https://youtu.be/d68iuugblnY&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #14 Collectibles
+https://youtu.be/OZrbFn-VRn4&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #15 Scoring
+https://youtu.be/lAX44DO3UMo&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #16 Room Transitions
+https://youtu.be/YwwTC9w5nY4&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #17 Controller Support
+https://youtu.be/uC8DZGEAke4&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #18 Object Persistence
+https://youtu.be/fv0beE7d-G0&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #19 Sound Design
+https://youtu.be/-nn1vx2P7Nw&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #2 Horizontal Collisions
+https://youtu.be/B6sBQgqahb4&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #20 One Way Platforms
+https://youtu.be/0V0pZzYAFvQ&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #3 Vertical Collisions
+https://youtu.be/ch5x0buK3iY&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #4 Sprites & Parenting
+https://youtu.be/_lKgF-PaB2Q&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #5 States
+https://youtu.be/Q0KBvd-gyo8&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #6 Enemies
+https://youtu.be/_HSn4sySzYU&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #7 Tiles
+https://youtu.be/a1UUcerz-4I&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #8 Parallax Scrolling
+https://youtu.be/7_s0JRRRNAA&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+
+Gamemaker DND Platformer Tutorial - #9 Damaging Enemies
+https://youtu.be/HUZGYJ8LRlA&list=PL_dGpCsnQ7AWRJQPWUWUjLFVWeIkcIdN4
+Gamemaker DND Platformer Tutorial Series

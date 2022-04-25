@@ -1,0 +1,76 @@
+
+A Pathfinding (E06 weights)
+https://youtu.be/T0Qv4-KkAUo
+
+Blender Character Animation Run Cycle
+https://youtu.be/_YdA-J27YPU
+
+Blender Character Animation Walk Cycle
+https://youtu.be/DuUWxUitJos
+
+Blender Character Creation Rigging 12
+https://youtu.be/Q9f-WVs3ghI
+
+Blender Character Creation Rigging 22
+https://youtu.be/TPEmonfLo94
+
+[Unity Tutorial] Online Highscores 02 (dreamlo)
+https://youtu.be/9jejKPPKomg
+
+[Unity] Creating a 2D Platformer (E01. set-up)
+https://youtu.be/MbWK8bCAU2w
+
+[Unity] Creating a 2D Platformer (E02. collision detection)
+https://youtu.be/OBtaLCmJexk
+
+[Unity] Creating a 2D Platformer (E03. jump physics)
+https://youtu.be/PlT44xr0iW0
+
+[Unity] Creating a 2D Platformer (E04. climbing slopes)
+https://youtu.be/cwcC2tIKObU
+
+[Unity] Creating a 2D Platformer (E05. descending slopes)
+https://youtu.be/kVBABNw1jaE
+
+[Unity] Creating a 2D Platformer (E06. moving platform basics)
+https://youtu.be/z20wHJSXk98
+
+[Unity] Creating a 2D Platformer (E07. moving platform collisions)
+https://youtu.be/AWbebFJXg0Y
+
+[Unity] Creating a 2D Platformer (E08. platform waypoint system)
+https://youtu.be/3D0PeJh6GY8
+
+[Unity] Creating a 2D Platformer (E09. wall-jumping)
+https://youtu.be/46WNb1Aucyg
+
+[Unity] Creating a 2D Platformer (E10. variable jump height)
+https://youtu.be/rVfR14UNNDo
+
+[Unity] Procedural Cave Generation (E01. Cellular Automata)
+https://youtu.be/v7yyZZjF1z4
+
+[Unity] Procedural Cave Generation (E02. Marching Squares)
+https://youtu.be/yOgIncKp0BE
+
+[Unity] Procedural Cave Generation (E03. Creating the Mesh)
+https://youtu.be/2gIxh8CX3Hk
+
+[Unity] Procedural Cave Generation (E04. 3D Walls)
+https://youtu.be/AsR0-wCTJl8
+
+[Unity] Procedural Cave Generation (E05. Detecting Regions)
+https://youtu.be/xYOG8kH2tF8
+
+[Unity] Procedural Cave Generation (E06. Connecting Rooms)
+https://youtu.be/eVb9kQXvEZM
+
+[Unity] Procedural Cave Generation (E07. Ensuring Connectivity)
+https://youtu.be/NhMriRLb1fs
+
+[Unity] Procedural Cave Generation (E08. Passageways)
+https://youtu.be/7RiGikVLS3c
+
+[Unity] Procedural Cave Generation (E09. Collisions & Textures)
+https://youtu.be/oS0iEGX_FM8
+Videos 176-200

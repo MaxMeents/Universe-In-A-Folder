@@ -1,0 +1,28 @@
+
+Aysylu Greenberg on Benchmarking, Art, Music
+https://youtu.be/Dke4MO2DC7I&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Ed Burns on JSF and Servlet
+https://youtu.be/7hFu00u-TiQ&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Freddy Guime on Memory Leaks
+https://youtu.be/z2W7UU15d7o&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Jeff Prestes on the Device Access API
+https://youtu.be/g9-8TDiX9pY&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Michael Minella on the Connected Car
+https://youtu.be/_kPjtx9iOa8&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Rosalie Tolentino on Security
+https://youtu.be/mdyrPM0T7d8&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Venkat Subramaniam on Java 8 Lambdas
+https://youtu.be/q6ntkhd2w9E&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Yakov Fain on Commercial IoT
+https://youtu.be/AQ1mQEplvJk&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+
+Yoav Landman on Bintray, Docker, Chef, and Vagrant
+https://youtu.be/PCZvhnW2Sqw&list=PL2ekzZZrxVUkw9bI76MFQGpverzbr-Abf
+DevNexus 2015

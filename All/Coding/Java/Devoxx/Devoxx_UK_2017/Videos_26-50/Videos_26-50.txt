@@ -1,0 +1,76 @@
+
+Busy Developer's Guide to Building Languages by Ted Neward
+https://youtu.be/eieZOwxP9TY&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Cluster your MicroProfile Application using CDI and JCache by Roberto Cortez & Jonathan Gallimore
+https://youtu.be/WeqGROU-Tng&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Docker Swarm or Kubernetes or Mesos - pick your framework! by Arun Gupta
+https://youtu.be/1dgUXNVQS5o&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Escape the Serverless Cage and embrace IT Automation by Laurent Doguin
+https://youtu.be/H9hqcRZlv9w&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Fast Cars, Big Data - How Streaming Can Help Formula 1 by Tugdual Grall
+https://youtu.be/R0eI58gL7Ig&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Functional Sudoku Solver by Cesar Tron-Lozai
+https://youtu.be/mx8S_b5pQNw&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+g ∘ f patterns by Mario Fusco
+https://youtu.be/lZG74WbnhoE&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Git Workflow Strategies for Technical Debt Management by Raquel Pau Fernández
+https://youtu.be/a0wO87gel60&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of (vJUG)
+https://youtu.be/oE4XrVcE4UM&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+I have a NoSQL toaster by Simon Leigh
+https://youtu.be/1oj2jp-aabc&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Image Optimization. The “how to” by Jon Sneyers
+https://youtu.be/MuH0wBX8uHs&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Infrastructure and application monitoring using Prometheus by Marco Pas
+https://youtu.be/5GYe_-qqP30&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+JVM Toolbox 2017 (Live coding) by Jonatan Kazmierczak
+https://youtu.be/IoJSIT8Zo4s&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Less process, more practice by Dominic Price
+https://youtu.be/6c9sOHdA1KQ&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Microservices for the Masses with Spring Boot, JHipster, and JWT by Matt Raible
+https://youtu.be/72K7cMCv7eM&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Microsoft Visual Studio and DevOps for Any App, Any Developer, Any Platform by Giles Davies
+https://youtu.be/unQfEDwkv1w&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Migrating to Modules by Mark Reinhold
+https://youtu.be/czhSo8rotC4&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Programming your body with chip implants by Pär Sikö
+https://youtu.be/nvjP1kAAol0&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Rethinking Microservices with Stateful Streams by Ben Stopford
+https://youtu.be/c5sS1dB61Rs&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Simpler Shopping by Paul Wilkinson
+https://youtu.be/cXK8YALMA9k&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+The Busy Developer’s Guide to Polytechnical Careering by Ted Neward
+https://youtu.be/G8AqvpNoUz8&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+The Diabolical Developer's Guide to Performance Tuning by Martijn Verburg
+https://youtu.be/bjp7bhzyhQo&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Turbo Charge CPU Utilization in ForkJoin Using the ManagedBlocker by Heinz Kabutz
+https://youtu.be/12qM3GFnfzI&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Using Java 8 Lambdas and StampedLock To Manage Thread Safety by Heinz Kabutz
+https://youtu.be/Q895_B9BhJ8&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+
+Welcome Alexa, your personal assistant by Johan Janssen
+https://youtu.be/4ME_c4NzxuQ&list=PLRsbF2sD7JVq8QYW0vlbOS2JuXUWaWMnT
+Videos 26-50

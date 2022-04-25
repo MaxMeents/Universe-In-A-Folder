@@ -1,0 +1,76 @@
+
+5 Tips to Learning a New Programming Language
+https://youtu.be/PHmOWjj99OY
+
+6 Reasons Why I Love Being an iOS Engineer
+https://youtu.be/W8vPe3--rlA
+
+First Engineering Job Expectations
+https://youtu.be/UNPNTR0fgZo
+
+Happy Chinese New Year, Work Ethic & Success
+https://youtu.be/nVyx3wg3CsQ
+
+Is College Important for iOS Engineers (Rant Warning...)
+https://youtu.be/s1yVZlbvgrY
+
+LBTA Live Stream New Basic Training Course
+https://youtu.be/5zr8j8_1tbg
+
+LBTAFriday Comments Show 1617
+https://youtu.be/jUigB9X6hQo
+
+Live Career Advice
+https://youtu.be/H3o6CUU5TFc
+
+Swift 3 Fun Algorithms Abstract Syntax Tree (Warning Somewhat Difficult Recursion)
+https://youtu.be/r14Vtwi2k7s
+
+Swift 3 Fun Algorithms Filter, Map, Reduce Higher Order Functions
+https://youtu.be/fbYMaJciMZY
+
+Swift 3 Fun Algorithms Recursive Search through Binary Tree
+https://youtu.be/beQEimO3-3E
+
+Swift 3 Fun Algorithms Wrapping an Array
+https://youtu.be/h5Edr4J18Wk
+
+Swift 3 Twitter - Custom Navigation Bar (Ep 7)
+https://youtu.be/zS-CCd4xmRY
+
+Swift 3 Twitter - Custom Tweet Cells (Ep 8)
+https://youtu.be/FvixwFT2WJM
+
+Swift 3 Twitter - Dynamic Cell Sizing (Ep 6)
+https://youtu.be/TEMUOaamcDA
+
+Swift 3 Twitter - How to Implement Singleton and Completion Blocks (Ep 12)
+https://youtu.be/ikqv5Z633mc
+
+Swift 3 Twitter - JSON Parsing with TRON and Generics (Ep 11)
+https://youtu.be/Ds0AgchWlDE
+
+Swift 3 Twitter - Parse Tweets JSON using Map (Ep 13)
+https://youtu.be/tt67VikEovY
+
+Swift 3 Twitter - Tweets String Formatting Tips And Tricks with NSAttributedString (Ep 9)
+https://youtu.be/slGx90YoX3Q
+
+Swift 3 Twitter - UIStackView Landscape and Device Sizing Support (Ep 10)
+https://youtu.be/YLnPUj9TvKI
+
+Swift 3 Twitter - User MVC Implementation (Ep 5)
+https://youtu.be/b9shcZzPbp4
+
+Top 5 Sites on How Much Money Engineers Make For Annual Salary
+https://youtu.be/OeKsKvn1PgU
+
+UITableView vs UICollectionView and Algorithm Exercise
+https://youtu.be/GFthtviodDY
+
+Why I Quit my Full-time Job as an iOS Android Developer
+https://youtu.be/ocwTTwrWUW4
+
+Why You Should Attend a Bootcamp, and Why You Shouldn't
+https://youtu.be/4qheacd_0yc
+Videos 326-350

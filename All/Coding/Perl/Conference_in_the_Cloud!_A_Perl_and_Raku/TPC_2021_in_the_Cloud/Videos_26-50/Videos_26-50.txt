@@ -1,0 +1,76 @@
+
+A tour of Perl's new documentation style guide - Jason McIntosh
+https://youtu.be/q0Lm9dnY-Rk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Answering questions about CPAN that nobody asked - Thibault Duponchelle
+https://youtu.be/zFJcVtiwCh4&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Asynchronously Parallelish  Testing in Raku with TestAsync - Vadim Belman (lightning talk)
+https://youtu.be/zuM2iLALX8o&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Blogging Outside the Bubble How to Raise your Profile & Promote Perl -Mark Gardner (lightning talk)
+https://youtu.be/ZYaLT7H4dXg&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Cross-platform native GUIs {trade,pay}offs, {integra,distribu}tion - Zaki Mughal
+https://youtu.be/En49kYRDbsg&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Even You Can Release Perl - Max Maischein
+https://youtu.be/LaNZu1aBEzE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Functional programming with Raku - Juan Julián Merelo Guervós
+https://youtu.be/Kba9HqqBopA&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+German Perl Workshop 2022 in Leipzing - Max Maischein (lightning talk)
+https://youtu.be/oBAsQysxSpA&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Getting Really Testy With Perl Unit testing 45_000 modules - Steven Lembark
+https://youtu.be/KHgr44UhFHc&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+How to make Perl more welcoming to beginners - Andrew Solomon
+https://youtu.be/IbW9Fup9z2g&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Koha - Thomas Klausner
+https://youtu.be/lZXfSbPnnPE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Look, ma, no containers! Workflow automation in Perl - Juan Julián Merelo Guervós
+https://youtu.be/-WqMbWfJYjE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Machine Learning In Pure Perl - William N. Braswell, Jr.
+https://youtu.be/i3aY9-ns0PM&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Mistakes not to be Made in Slide Talks - Paul LeoNerd Evans.(lighting talk)
+https://youtu.be/qmkd8PbIqqg&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Our shared vision of Perl - Andrew Solomon
+https://youtu.be/y2_bqfLUHDM&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Perl and Multithreading via OpenMP - B Estrade (lighting talk)
+https://youtu.be/LWs_rJT9lg4&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Perl's Amazing Time Machine - Paul Evans
+https://youtu.be/Kc_bP73xNyM&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+PipPresents Octology in 2021 - Pillip Stuart
+https://youtu.be/FgS6IXq-xVE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Rescue and renew how to get legacy open source projects unstuck - Sumana Harihareswara
+https://youtu.be/s-6PQWDRRRg&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Rummaging in the clOOset - Curtis “Ovid” Poe
+https://youtu.be/FO5ift28RyE&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+The Perl Foundation update and Q&A
+https://youtu.be/MF3LXFGD8nY&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Unite the Etherium Test Networks - Konstantin Narkhov (lightning talk)
+https://youtu.be/3ktCAYpMlwc&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+Valiant - Heroic validations for Moo and DBIC classes - John Napiorkowski
+https://youtu.be/ZY8HrAL755M&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+What should I do to run a Plack application on a server - E. Choroba
+https://youtu.be/IB9PTY8HwEs&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+
+What To Say When They Tell You Perl Sucks!! (Debunking Perl myths) - Pritesh Ugrankar
+https://youtu.be/RNuuwHGS5gk&list=PLA9_Hq3zhoFzMAS-IYBS8aLyfCh0k9hej
+Videos 26-50

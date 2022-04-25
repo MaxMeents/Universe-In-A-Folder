@@ -1,0 +1,7 @@
+
+How PhpSpec changed the way I think about code - Naomi Gotts - PHPSW PHPSpec, August 2020
+https://youtu.be/R5kwdX2GjQk&list=PLrEpsyNSHj01LxWCcPNXKLWvFZTO9cXnS
+
+Unconventional PHP - Liam Hammett - PHPSW PHPSpec and Unconventional PHP, August 2020
+https://youtu.be/qaXc_k-UjzQ&list=PLrEpsyNSHj01LxWCcPNXKLWvFZTO9cXnS
+PHPSpec and Unconventional PHP, August 2020

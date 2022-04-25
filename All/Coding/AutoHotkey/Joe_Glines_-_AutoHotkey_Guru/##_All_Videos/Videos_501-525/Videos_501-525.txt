@@ -1,0 +1,76 @@
+
+#19 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/f1EDg8Lxdfw
+
+01 Automate my Task Selecting an Area
+https://youtu.be/XySUzOXct_A
+
+02 Automate my Task Taking actions on what was found
+https://youtu.be/Yce-sRSJglo
+
+03 Automate my Task Double Clicking an item
+https://youtu.be/tK0nIXU6xtM
+
+04 Automate my Task Choose Matching Index
+https://youtu.be/W5Zcts0LhOE
+
+05 Automate my Task Recapture and Color-Threshold
+https://youtu.be/-VbhYBMbNxU
+
+06 Automate my Task Steps Creating Multiple Steps, Duplicating, Deleting, and Clearing them
+https://youtu.be/AYMiRMvCPs8
+
+07 Automate my Task Setting text and Offsetting text edit windows
+https://youtu.be/UIUddxf9w2Q
+
+08 Automate my Task Window Title Matching and Window Class
+https://youtu.be/YaEyoEELrgw
+
+09 Automate my Task Waiting for a Window to Exist
+https://youtu.be/2YHHpPxu8aM
+
+10 Automate my Task Exporting the script and Function to AutoHotkey syntax
+https://youtu.be/c0Oe2a9_dv8
+
+11- Automate my Task- Changing the Capture Size
+https://youtu.be/dnoHv74WBGM
+
+12 Automate my Task When things go wrong and User Feedback
+https://youtu.be/3XQ5Qu2Fr2M
+
+AHK Studio Multi Line typing with keyboard shortcut
+https://youtu.be/Qa25PMBG8XE
+
+Amazing free AutoClicker for Windows  Easily automate clicking with AmT
+https://youtu.be/naX9W5QvHTE
+
+AutoHotkey Podcast 056 How Often do we need to Educate
+https://youtu.be/OkyXkmn2GTg
+
+AutoHotkey Podcast 057 Non Desktop Running Programs (cloud based)
+https://youtu.be/_Ng8M82l9IQ
+
+AutoHotkey Webinar 042020 Hour 1- Automate my Task
+https://youtu.be/-pbgMiP7FS4
+
+AutoHotkey Webinar 042020 Hour 2
+https://youtu.be/0j_TUQvPHEc
+
+Excel automation without macro is easy  Perform a VLookup with AutoHotkey
+https://youtu.be/VgBEorRox8s
+
+HotString to bring up a GUI with multiple text selections
+https://youtu.be/XyhhiEUK84Y
+
+Intro to Automate my Task
+https://youtu.be/0TkuIiUd6t0
+
+Nesting an Object within an Object in AutoHotkey
+https://youtu.be/9gwrmefTvW8
+
+Nesting Comments in AHK studio
+https://youtu.be/XV0dYoGKOmU
+
+Updates to Automate my Task & YOUR feedback, thoughts, ideas
+https://youtu.be/rHhCqQEg_8Y
+Videos 501-525

@@ -1,0 +1,49 @@
+
+Android app development & community - interview with Huyen Tue Dao
+https://youtu.be/ke4Vxh2L7IU
+
+Confidence of going live & tests - interview with Nicola Owen
+https://youtu.be/k1wEf9q1J_U
+
+CQRS with Java - JUG Torino
+https://youtu.be/lvh7CujrOow
+
+Interview (Deutsch) mit S. Cohnen und U. Enzler on Microservices, Modernization and Architecture
+https://youtu.be/WwX3oh86STM
+
+Interview (German) mit D.Thömmes und N. Hauer über UI Design
+https://youtu.be/XgOmZzwOgNY
+
+Interview with J. Marsman on Innovation
+https://youtu.be/eCoXSKqyeWA
+
+Interview with T.Wieczorek, T.Endres and M.Meyer on Robotics, Machine Learning and AI
+https://youtu.be/6QeJVjMaJgo
+
+Interview with W.Keil and I.Grimstad on Java and Java EE
+https://youtu.be/2CpFrKZfdYo
+
+iOS, app development & Sourcery - interview with Krzysztof Zabłocki
+https://youtu.be/zhQUbsf4HX4
+
+Java 9 & modularity - interview with Sander Mak
+https://youtu.be/z2PEXZ5v49c
+
+Java Libraries you can't affort to miss - JUG Torino
+https://youtu.be/xZOK_6kdS-k
+
+NightHacking Live Stream
+https://youtu.be/U07hVfoU2IM
+
+Paradigms, value and communities - interview with Mark Smalley, ASL BiSL Foundation
+https://youtu.be/wNLxajP2f6U
+
+Service Design saving a seat for your customer at the prototyping table
+https://youtu.be/ln-W0OTfOns
+
+Tuning the G1GC - JUG Torino
+https://youtu.be/IEojb7dYifw
+
+Virtual reality, biohacking & gaming - interview with Ray Arkaei
+https://youtu.be/bs8uCZjBPsA
+Videos 76-100

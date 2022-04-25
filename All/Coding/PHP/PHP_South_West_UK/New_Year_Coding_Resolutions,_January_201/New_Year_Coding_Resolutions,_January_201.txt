@@ -1,0 +1,10 @@
+
+An Intro to the Symfony Console Component - Mike Lovely - PHPSW New Year Resolutions, January 2017
+https://youtu.be/l5fqHV-xBvU&list=PLrEpsyNSHj03VSXSnnOj_qbLuBTmKB-Z3
+
+Go Faster with Ansible - Richard Donkin - PHPSW New Year Coding Resolutions, January 2017
+https://youtu.be/a3Ks2LsqTsQ&list=PLrEpsyNSHj03VSXSnnOj_qbLuBTmKB-Z3
+
+The science behind habits - Alex Jegtnes - PHPSW New Year Coding Resolutions, January 2017
+https://youtu.be/RzeOaazMlLU&list=PLrEpsyNSHj03VSXSnnOj_qbLuBTmKB-Z3
+New Year Coding Resolutions, January 2017

@@ -1,0 +1,76 @@
+
+Anna Melzer - How hard can it be! Practical uses of complexity theory  JSUnconf 2018
+https://youtu.be/ljVPAqR-aF0
+
+Anna Melzer - The algorithmic beauty of plants  JSUnconf 2018 Lightning Talks
+https://youtu.be/B1CT5pLKVSM
+
+Daniel Spitzer - Hacking create react app to use preact  JSUnconf 2018 Lightning Talks
+https://youtu.be/UAxJCo3ZZ2w
+
+Deep Learning in JS - Ashi Krishnan - JSConf EU 2018
+https://youtu.be/SV-cgdobtTA
+
+Diana Ilithya - Health, mental health and what not   JSUnconf 2018 Lightning Talks
+https://youtu.be/kVZCfOLymtM
+
+Dominik Kundel - Introduction to Web Security  JSUnconf 2018
+https://youtu.be/-vYak5hEGrY
+
+Elmar Burke & Hans Christian Otto - Micro Frontends  JSUnconf 2018
+https://youtu.be/xY8CaVQ2OHY
+
+Emanuel Kluge - Going live on a budget!  JSUnconf 2018 Lightning Talks
+https://youtu.be/2iU-Sh09IkY
+
+Fabricius Seifert - Punchcard coding with CSS  JSUnconf 2018 Lightning Talks
+https://youtu.be/UjHv5D-pcm8
+
+Franco Speziali - In app browsers  JSUnconf 2018 Lightning Talks
+https://youtu.be/SUKJsPSvrF0
+
+Gregor Elke - A word from an organizer  JSUnconf 2018 Lightning Talks
+https://youtu.be/zqihrf4YXiU
+
+Istvan Szmozsanszky - AV1   JSUnconf 2018 Lightning Talks
+https://youtu.be/hJ_oKpl8pIo
+
+Johann Hofmann - Putting WebAssembly in your web app today!   JSUnconf 2018
+https://youtu.be/-WtE0Bv6iSs
+
+Julia Hurrelmann - The importance of cross cultural competency  JSUnconf 2018 Lightning Talks
+https://youtu.be/dgdir5XDdOk
+
+Karsten Buckstegge - Houdini the new CSS Magic   JSUnconf 2018
+https://youtu.be/vZk7qPTVs5s
+
+Lian Li - Machine Learning in the Browser  JSUnconf 2018
+https://youtu.be/4fzgDaILoTc
+
+Lisi Linhart - Native Web Animation  JSUnconf 2018
+https://youtu.be/Nf_LOfzpric
+
+Livejs opening JSConf EU 2018
+https://youtu.be/dPWRaN2PXZw
+
+Nested Loops opening JSConf EU 2018 (remastered)
+https://youtu.be/e6wrCr7bzSg
+
+Peter Müller - Check your links with hyperlink  JSUnconf 2018 Lightning Talks
+https://youtu.be/1AAp2fn7yCU
+
+Peter Müller - High Performance Web Fonts   JSUnconf 2018
+https://youtu.be/xRMc0JtQEG0
+
+Philipp Hinrichsen - Think outside the box  JSUnconf 2018 Lightning Talks
+https://youtu.be/kmWlte7m8yI
+
+Ramon Huidobro - The importance of taking a break  JSUnconf 2018 Lightning Talks
+https://youtu.be/6T_6THrR5Qo
+
+Robin Drexler - preconnect, prefetch, preload, pre what An intro to Resource Hints  JSUnconf 2018
+https://youtu.be/6q75MVFLlok
+
+Robyn Larsen - Down the SVG Rabbit Hole  JSUnconf 2018
+https://youtu.be/IChfGN8nm5Q
+Videos 451-475

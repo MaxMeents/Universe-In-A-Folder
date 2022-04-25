@@ -1,0 +1,76 @@
+
+GopherCon UK + GoTimeFM + LondonGophers Live
+https://youtu.be/g8BD-0rIRN4&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Aaron Schlesinger - Improving Dependencies for Everyone
+https://youtu.be/_u015W1zR2A&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Bernd Rücker - Lost in Transaction
+https://youtu.be/iQnbYMmDct4&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Björn Rabenstein - Lock-free Observations for Prometheus Histograms
+https://youtu.be/VmrEG-3bWyM&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Corver Roos - Dr Jekyll and Mr  Hyde, Embracing the Dual Nature of State
+https://youtu.be/ACmp5EaGTkg&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Daniel Martí - Optimizing Go Code Without a Blindfold
+https://youtu.be/w9h57GhvTbQ&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Daniela Petruzalek - Fun With Pointers
+https://youtu.be/yEiaCx0fR9k&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 David Hernandez - Implementing a Search Index
+https://youtu.be/LKUpGMp9ZhY&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Davy Jones - Productionise any Application in Kubernetes Using Sidecar Containers
+https://youtu.be/2n_5LhV_Ef8&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Elias Naur - Gio Cross Platform GUI Programming for Mobile, Desktop, WebAssembly
+https://youtu.be/PxnL3-Sex3o&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Eran Yanay - Going Infinite Handling 1 Million Websocket Connections in Go
+https://youtu.be/YiCCD5DPry8&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Florin Pățan - Going Serverless For Fun and Profit
+https://youtu.be/PAoR3h3U7TE&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Gautam Rege - Impossible Go!
+https://youtu.be/jZ1ZsULRyE0&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Gergely Brautigam - Robotics with Go is a Breeze
+https://youtu.be/mtDX7FOD2Rw&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Ignat Korchagin - Go as a Scripting Language in Linux
+https://youtu.be/6BJu_ahQ28o&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Joan López de la Franca Beltran - From Chaos to Domain Driven Design
+https://youtu.be/KEUmOomnEqc&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Johan Brandhorst - Writing REST Services for the gRPC curious
+https://youtu.be/Pq1paKC-fXk&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Jorge Marin - Experimenting with Golang and Webassembly
+https://youtu.be/jIH6TbsgtCQ&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Mahdi Jelodari - Energy Implications of Your Go code
+https://youtu.be/4f_Xy24rUYo&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Matt Layher - Building a net Conn Type From the Ground Up
+https://youtu.be/H7b8GGJxpMk&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Michael Matloob - Using and Writing Go Analyses
+https://youtu.be/10IMWTpCSIQ&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Paul Jolly - Write Less (Code), Generate More
+https://youtu.be/xcpboZZy-64&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Ricardo Jimenez -  Quicksilver How Cloudflare Controls it's Network Using Go
+https://youtu.be/op14_lAifQ4&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 Roberto Clapis - Tackling Contention The Monsters Inside the 'sync.Locker'
+https://youtu.be/KUC5WtbBdFA&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+
+GopherCon UK 2019 William Clarke - Monolith Decomposition
+https://youtu.be/OFM4G0wr8bc&list=PLDWZ5uzn69ezokLCB-nGgYInxL0uP1PeZ
+Videos 1-25

@@ -1,0 +1,73 @@
+
+2021-05-12 Trait Evaluation Caching (PR #85186)
+https://youtu.be/_tG2E9KVy5o&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+async-await implementation plans (2019.02.26)
+https://youtu.be/xe2_whJWBC0&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Async-Await WG Niko + Taylor discuss region inferencer
+https://youtu.be/hlOxfkUDLPQ&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+blitzerr closure upvar tys
+https://youtu.be/pLmVhSB-z4s&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+closures and upvar capture (blitzerr, 2018-10-30)
+https://youtu.be/fMopdkn5-Xw&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Coherence in Chalk by Sunjay Varma - Bay Area Rust Meetup
+https://youtu.be/rZqS4bLPL24&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Convert Closure Upvar Representation to Tuples with @blitzerr
+https://youtu.be/2QCuNtISoYc&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Cranelift
+https://youtu.be/9OIA7DTFQWU&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+How Salsa Works (2019.01)
+https://youtu.be/_muY4HjSqVw&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+How the chalk-engine crate works
+https://youtu.be/Ny2928cGDoM&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+oli-obk on miri and constant evaluation
+https://youtu.be/5Pm2C1YXrvM&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Petrochenkov reviews the name resolution code
+https://youtu.be/Y1hvNWUbSDk&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Polonius WG Initialization and move tracking
+https://youtu.be/ilv9V-328HI&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Polonius-rustc walkthrough
+https://youtu.be/i5KdU0ieb_A&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Representing types in rustc
+https://youtu.be/c01TsOsr3-c&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+RFC #2229 Disjoint Field Capture Plan
+https://youtu.be/UTXOptVMuIc&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+RLS 2.0, Salsa, and Name Resolution
+https://youtu.be/Xr-rBqLr-G4&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Rust analyzer guide
+https://youtu.be/ANKBNiSWyfc&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+rust analyzer syntax trees
+https://youtu.be/DGAuLWdCCAI&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+rust-analyzer type-checker overview by flodiebold
+https://youtu.be/Lmp3P9WNL8o&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+rustc-chalk integration overview
+https://youtu.be/MBWtbDifPeU&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Salsa In More Depth (2019.01)
+https://youtu.be/i_IhACacPRY&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Tom Tromey discusses debugging support in rustc
+https://youtu.be/elBxMRSNYr4&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+
+Universes and Lifetimes
+https://youtu.be/iV1Z0xYXkck&list=PL85XCvVPmGQhOL-J2Ng7qlPvDVOwYpGTN
+rustc lecture series

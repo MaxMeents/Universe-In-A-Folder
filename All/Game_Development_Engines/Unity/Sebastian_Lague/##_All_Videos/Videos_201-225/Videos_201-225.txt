@@ -1,0 +1,76 @@
+
+A Pathfinding (E01 algorithm explanation)
+https://youtu.be/-L-WgKMFuhE
+
+A Pathfinding (E02 node grid)
+https://youtu.be/nhiFx28e7JY
+
+A Pathfinding (E03 algorithm implementation)
+https://youtu.be/mZfyt03LDH4
+
+A Pathfinding (E04 heap optimization)
+https://youtu.be/3Dw5d7PlcTM
+
+A Pathfinding (E05 units)
+https://youtu.be/dn1XRIaROM4
+
+Blender Character Creation Modelling
+https://youtu.be/DiIoWrOlIRw
+
+Blender Character Creation Texturing
+https://youtu.be/JYBPXTful2g
+
+Dave's Last Hope (GameBoy Jam #3)
+https://youtu.be/Fp4XaKeuk6U
+
+Splotch! (MiniLD54)
+https://youtu.be/vVU-o6EO9OU
+
+Top Down Shooter Unity tutorial series (01)
+https://youtu.be/pSN2x3dPgYw
+
+Top Down Shooter Unity tutorial series (02)
+https://youtu.be/7RtyA8j-_-E
+
+Top Down Shooter Unity tutorial series (03)
+https://youtu.be/y3DWn5I7s0k
+
+Top Down Shooter Unity tutorial series (04)
+https://youtu.be/z1iKZ7ENi7o
+
+Top Down Shooter Unity tutorial series (05)
+https://youtu.be/oA-QHC_4AQE
+
+Top Down Shooter Unity tutorial series (06)
+https://youtu.be/lGkQaBcuqVg
+
+Top Down Shooter Unity tutorial series (07)
+https://youtu.be/uSWcmbmi7XM
+
+Unity Touchscreen Input Tutorial
+https://youtu.be/SrCUO46jcxk
+
+Unity Touchscreen Tutorial Slider
+https://youtu.be/NdfxdRhNyNI
+
+Unity Tutorial Faux Gravity (walk on planets)
+https://youtu.be/gHeQ8Hr92P4
+
+[Ludum Dare #29] Infection Behind the Scenes
+https://youtu.be/4T1pjFKU4xc
+
+[Ludum Dare #30] This Little Piggy Behind the Scenes
+https://youtu.be/H7-3dZTERf0
+
+[Ludum Dare #31] Bugged Out Behind the Scenes
+https://youtu.be/jmKkSmXlNUQ
+
+[Mini LD #50] MiniLands
+https://youtu.be/mLPNWZXxa84
+
+[Unity Tutorial]  First Person Controller Spherical Worlds
+https://youtu.be/TicipSVT-T8
+
+[Unity Tutorial] Online Highscores 01 (dreamlo)
+https://youtu.be/KZuqEyxYZCc
+Videos 201-225

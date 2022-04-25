@@ -1,0 +1,76 @@
+
+#107 Automators' Podcast 7 tips to increase the likelihood your scripts work on multiple computers
+https://youtu.be/l8Kj25c-72k
+
+#108 Automators' Podcast Selling subscription based vs 1-time fee  perpetual license
+https://youtu.be/wzmqnifdA8M
+
+#109 The Automators' Podcast   How much support should you offer when selling software
+https://youtu.be/tCa3-j36Kp8
+
+#109 The-Automator's podcast  How much support should you offer when selling software
+https://youtu.be/hpzqvyiF5YQ
+
+#110 the Automators' Podcast  Should we teach our kids AutoHotkey
+https://youtu.be/EQLfm078u0U
+
+#111 the-Automator's Podcast  Pros and Cons of Windows 365
+https://youtu.be/cLxtFVTgEkE
+
+#112 the-Automator's Podcast The state of Automation & Future of Humanity
+https://youtu.be/KG09dmH6amU
+
+AHK Webinar 82021  AutoHotkey Version 2 Hour 2
+https://youtu.be/7YHREDIKKlY
+
+AHK Webinar 82021 AutoHotkey Version 2  AutoHotkey V2 Hour 1
+https://youtu.be/R-AJgevfZ3k
+
+Creating a function to choose which bitness to run your AHK script
+https://youtu.be/jNreJsOa1yw
+
+Easily select from a list and send a snippet of text with AutoHotkey
+https://youtu.be/ezjvZTQMu80
+
+Emptying my pond was draining work!  Don't get stuck in your job like I did!
+https://youtu.be/5uINTAeGEXk
+
+Example how I streamline writing my HTML newsletter with AutoHotkey
+https://youtu.be/u_G4C2NN-zo
+
+Hotkeys for Pasting Images Easily paste images with this tool
+https://youtu.be/p4DI28ick6I
+
+How to dynamically add an element to the DOM
+https://youtu.be/I5DzH62mFtw
+
+How to increase the likelihood of getting help on your script
+https://youtu.be/H7bOE5DGdwM
+
+How to use the Google API to translate texts
+https://youtu.be/6l6mO28zaGY
+
+Important settings you should review when starting out with QAP
+https://youtu.be/mqIaPYUnZZM
+
+Neural Networks with AutoHotkey and Automation Book
+https://youtu.be/2KK417MlrAg
+
+Office Hours  AutoHotkey Support - the-Automator & TAB nation offer AutoHotkey help
+https://youtu.be/5CjLjQH-XQE
+
+Preventing a Redirect on API call - Grabbing headers before a redirect
+https://youtu.be/7L3eqcERx8g
+
+Select a file and passing parameters with Quick Access Popup
+https://youtu.be/O-8qtnV7Tmo
+
+the-Automator's new office is nearly done!
+https://youtu.be/Az4RuoyQ8BE
+
+Want live AutoHotkey support for free  Visit us during our Office hours
+https://youtu.be/xs7dRunYuaA
+
+Webservice APIs, WebHooks, Fiddler, and AutoHotkey
+https://youtu.be/u5Xd-h9y5cg
+Videos 151-175

@@ -1,0 +1,76 @@
+
+A Dance with Tools — Iulian Dragoş
+https://youtu.be/c1tIbHATjB0&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+A Deep Dive into Scalac — Chris Birchall
+https://youtu.be/2742pWdUm6c&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+A Snorkelling Excersion into Bugfixing — Simon Ochsenreither
+https://youtu.be/_m4CiBL6Vl4&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Can we make concurrency in Scala safer—Philipp Haller
+https://youtu.be/nwWvPeX6U9w&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+First-class Coroutines for Scala—Aleksandar Prokopec
+https://youtu.be/B3hKOUtc4e0&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Functional Patterns in Domain Modeling — Debasish Ghosh
+https://youtu.be/U0Rk9Knq8Vk&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Hands-on Typelevel Scala — George Leontiev
+https://youtu.be/h1r5yZ1XYfY&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Kittens Shapeless Typeclass Derivation for Cats — Miles Sabin
+https://youtu.be/fM7x2oWSM70&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Managing Your Resources—Denys Shabalin
+https://youtu.be/MV2eJkwarT4&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Minimizing the Slippery Surface of Failure — Jon Pretty
+https://youtu.be/26UHdZUsKkE&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Move Over Free Monads Make Way for Free Applicatives! — John de Goes
+https://youtu.be/H28QqxO7Ihc&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Practical Binary with Scodec — Michael Pilquist
+https://youtu.be/jM21a-t4JnQ&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Private video
+https://youtu.be/E4n5GfkoERk&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Précepte — Julien Tournay & Pascal Voitot
+https://youtu.be/Cs6HmoQbQwc&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Pure Functional Database Programming with Fixpoint Types—Rob Norris
+https://youtu.be/7xSfLPD6tiQ&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Quaich A serverless Scala microframework for AWS Lambda—Brendan McAdams
+https://youtu.be/xHLQcS5BGbo&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Scala and the JVM as a Big Data Platform — Dean Wampler
+https://youtu.be/7mzsZq__Oh4&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Simplifying Scala Collections — Bill Venners
+https://youtu.be/UBjzbkhvYTU&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Staged Parser Combinators—Manohar Jonnalagedda
+https://youtu.be/Cc6QrgqsoVI&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Tales from Compiling to the JVM—Lukas Rytz
+https://youtu.be/H3hPWvZtF4A&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+The Need for Async — Konrad Malawski
+https://youtu.be/TTrBzWIqdo0&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+The Story of a Parallel Scala Library—Vlad Ureche
+https://youtu.be/0VUDy37hszg&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Type-Driven Development in Idris — Edwin Brady
+https://youtu.be/X36ye-1x_HQ&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+Typelevel Programming 101 The Subspace of Scala — Joe Barnes
+https://youtu.be/_-J4YRI1rAw&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+
+When Types are Not Enough — Lars Hupel
+https://youtu.be/NGZRBgp5G5M&list=PL9KXdMOfekvb3cIBOnQH7jQizFyq-mE7B
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Ask C++ Weekly `stdexchange` vs `stdswap`
+https://youtu.be/GEbPRS81py4
+
+C++ Weekly - Ep 10 Variadic Expansion Wrap-Up
+https://youtu.be/CU3VYN6xGzM
+
+C++ Weekly - Ep 11 stdfuture Part 2
+https://youtu.be/ZgN1-i095QY
+
+C++ Weekly - Ep 12 C++17's stdany
+https://youtu.be/vLhr_y4YOIY
+
+C++ Weekly - Ep 13 Fibonacci You're Doing It Wrong
+https://youtu.be/hErD6WGqPlA
+
+C++ Weekly - Ep 14 - Standard Library Gems `next` and `exchange`
+https://youtu.be/i3dK_ndZ72c
+
+C++ Weekly - Ep 15 Using `stdbind`
+https://youtu.be/JtUZmkvroKg
+
+C++ Weekly - Ep 16 Avoiding `stdbind`
+https://youtu.be/ZlHi8txU4aQ
+
+C++ Weekly - Ep 17 C++17's `stdinvoke`
+https://youtu.be/z-kUhwANrIw
+
+C++ Weekly - Ep 18 C++17's constexpr if
+https://youtu.be/qHgM5UdzPQU
+
+C++ Weekly - Ep 19 C++14 For The Commodore 64
+https://youtu.be/nLv_INgaLq8
+
+C++ Weekly - Ep 20 C++17's Fold Expressions - Introduction
+https://youtu.be/nhk8pF_SlTk
+
+C++ Weekly - Ep 21 C++17's `if` and `switch` Init Statements
+https://youtu.be/AiXU5EuLZgc
+
+C++ Weekly - Ep 22 C++17's Nested Namespaces and `stdclamp`
+https://youtu.be/p32owQE_5u0
+
+C++ Weekly - Ep 23 C++17's __has_include
+https://youtu.be/miODwx7gv6o
+
+C++ Weekly - Ep 24 C++17's Structured Bindings
+https://youtu.be/aBZlbb9sE-g
+
+C++ Weekly - Ep 25 C++17's Aggregate Initializations
+https://youtu.be/qMqWoT016cA
+
+C++ Weekly - Ep 26 Language Features Removed in C++17
+https://youtu.be/uCRkBXQhud0
+
+C++ Weekly - Ep 27 - C++17 Changes To Sequence Containers
+https://youtu.be/QlI65u6MPL8
+
+C++ Weekly - Ep 28 - C++17's [[fallthrough]] Attribute
+https://youtu.be/heTklAyLLRQ
+
+C++ Weekly - Ep 6 Intro To Variadic Templates
+https://youtu.be/o1EvPhz6UNE
+
+C++ Weekly - Ep 7 Stop Using stdendl
+https://youtu.be/GMqQOEZYVJQ
+
+C++ Weekly - Ep 8 C++ Name Demangling
+https://youtu.be/uX99t7GmuDc
+
+C++ Weekly - Ep 9 stdfuture Quick-Start
+https://youtu.be/iCL6GYoi1RU
+
+C++ Weekly Special Edition - Using C++17's constexpr if
+https://youtu.be/_Ny6Qbm_uMI
+Videos 326-350

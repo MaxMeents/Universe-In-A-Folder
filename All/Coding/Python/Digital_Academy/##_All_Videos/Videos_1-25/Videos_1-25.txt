@@ -1,0 +1,76 @@
+
+Add and Update Values from a Set in Python (Functions) - Python Tutorial for Beginners
+https://youtu.be/9Yo0ALwevBM
+
+Catch and Handle Exceptions in Python (TRY EXCEPT in Python) - Python Tutorial for Beginners
+https://youtu.be/ll0HYxzNm9g
+
+Check if an Item Exists in a Set in Python (IN, NOT IN Operators) - Python Tutorial for Beginners
+https://youtu.be/EvZOghLclq4
+
+Documenting a Function in Python DOCSTRING in Python - Python Tutorial for Beginners
+https://youtu.be/XPK6R19igs8
+
+Exceptions in Python ALWAYS run your code (TRY FINALLY in Python) - Python Tutorial for Beginners
+https://youtu.be/cuc_x422Wko
+
+Exceptions in Python Default Exception Handling in Python - Python Tutorial for Beginners
+https://youtu.be/jNcYHWaAkVo
+
+Exceptions in Python Execute Code ONLY when NO Exception is Raised (TRY ELSE in Python)
+https://youtu.be/5HJCmLbb3XY
+
+Exceptions in Python Test if Condition is True (ASSERT in Python) - Python Tutorial for Beginners
+https://youtu.be/4uWs0kUoLPA
+
+Exceptions in Python Types of Errors in Python (Syntax, Logical) - Python Tutorial for Beginners
+https://youtu.be/2LrjNjUSjqo
+
+How to Call a Function in Python - Python Tutorial for Beginners
+https://youtu.be/xXQM1y9X8S0
+
+How to Create a Function in Python - Python Tutorial for Beginners
+https://youtu.be/1jqvxozASlM
+
+How to Get Items from a Set in Python (Method Pop) - Python Tutorial for Beginners
+https://youtu.be/T3c98ZURCx8
+
+How to Pass Arguments to a Function in Python (Positional, Keyword, Default, args, kwargs)
+https://youtu.be/tjthnp5ODxk
+
+How to RAISE an Exception in Python (Traceback in Python) - Python Tutorial for Beginners
+https://youtu.be/FCkcZKwWt24
+
+How to Return Value from a Function in Python - Python Tutorial for Beginners
+https://youtu.be/N5ruwKJtVgc
+
+How to use NESTED Functions in Python (Inner Functions + Closures) - Python Tutorial for Beginners
+https://youtu.be/_QjZkeOaiEI
+
+How to use RECURSIVE Function in Python (Recursion in Python) - Python Tutorial for Beginners
+https://youtu.be/oZQIkPbA9qQ
+
+Iterate through the Items of a Set in Python (FOR Loops) - Python Tutorial for Beginners
+https://youtu.be/FUBFtspARyo
+
+Join two Sets in Python (Union, Intersection, Difference, Symmetric) - Python Tutorial for Beginners
+https://youtu.be/gVOqUD5Zt38
+
+Python Coding Interview Questions Functions in Python (+ Solution) - Python Tutorial for Beginners
+https://youtu.be/q4LLBICpU_M
+
+Raise User Defined Exceptions in Python (Custom Exceptions) - Python Tutorial for Beginners
+https://youtu.be/bUJzaWAw8Sk
+
+Remove Items from Set in Python (Pop, Remove, Discard, Clear, Del) - Python Tutorial for Beginners
+https://youtu.be/bnF65r5HqTM
+
+Sets in Python How to Create a Set in Python (and Add Items) - Python Tutorial for Beginners
+https://youtu.be/-hTJAoVXqxA
+
+Sets in Python What is a Set and How to use Sets in Python - Python Tutorial for Beginners
+https://youtu.be/NaYeHqltROw
+
+What are Functions in Python (Definition & Syntax) - Python Tutorial for Beginners
+https://youtu.be/PLuhMguMGOM
+Videos 1-25

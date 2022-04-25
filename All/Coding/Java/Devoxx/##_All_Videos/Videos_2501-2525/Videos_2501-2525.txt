@@ -1,0 +1,76 @@
+
+Android reactive programming with RxJava by Ivan Morgillo
+https://youtu.be/Jnca7o4f-1k
+
+Apache Sling as an OSGi-powered REST middleware by Robert Munteanu
+https://youtu.be/vll9wezY1bs
+
+Apps On Your Wrist by Sebastien ArbogastSaid Eloudrhiri
+https://youtu.be/GVABnHK-Uzo
+
+Building modern web UIs with Web Components Michael HeinrichsHendrik Ebbers
+https://youtu.be/muqOStp3A_o
+
+Core Design Principles for Software Developers by Venkat Subramaniam
+https://youtu.be/llGgO74uXMI
+
+Creating RESTful Web Services with Grails 3 by Jennifer Strater
+https://youtu.be/6mN8GzsAebA
+
+Distributed Machine Learning 101 using Apache Spark from a Browser by Xavier TordoirAndy Petrella
+https://youtu.be/VGkL2xVxxLk
+
+Docker Tooling for JavaEE Developers by Xavier Coulon
+https://youtu.be/tq58w0DYmgc
+
+Field guide to DDDCQRS using the Scala Type System and Akka by Renato Cavalcanti
+https://youtu.be/fQkKu4tTgCE
+
+Generate client stubs & document your REST-API using Swagger & Spring by Johannes Fiala
+https://youtu.be/43GhBbP--oI
+
+Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam
+https://youtu.be/1OpAgZvYXLQ
+
+Getting Single Page Application Security Right by Philippe De Ryck
+https://youtu.be/UFPGOvDrTOk
+
+Java EE 7 in Action by Reza Rahman
+https://youtu.be/kvjdyqZR2CA
+
+JavaScript build pipelines with Gulp.js by Stefan Baumgartner
+https://youtu.be/AcCtLUZZkvE
+
+Lean Startup for Developers by Sebastien Arbogast
+https://youtu.be/S77x85-g-c8
+
+Modular Development with JDK 9 by Mark ReinholdAlan Bateman
+https://youtu.be/V6ycn1-QQV0
+
+Powerful Metaprogramming Techniques With Groovy by Jeff Brown
+https://youtu.be/vwysol6tipM
+
+Second generation workflow managers for big data by Alex Van Boxel
+https://youtu.be/73oAPXgle9w
+
+Secrets are secrets. Please maintain them as secrets by Alex Soto
+https://youtu.be/Iaus2NDOhnU
+
+Selenide concise UI Tests in Java. From developers for developers by Andrei Solntsev
+https://youtu.be/BjEW08vDUfI
+
+Spring Boot for the web tier by Brian ClozelStéphane Nicoll
+https://youtu.be/7cemYpV1fNI
+
+Spring REST Docs - Documenting RESTful APIs using your tests by Andreas Evers
+https://youtu.be/iWj-t69EdN4
+
+Testing Microservices with a Citrus twist by Christoph Deppisch
+https://youtu.be/FPgXJveaLTo
+
+Thymeleaf by Daniel Fernández
+https://youtu.be/GVq0uzpHYoQ
+
+Tools of the Trade by Sebastiano Poggi
+https://youtu.be/1MjcTy2FSVQ
+Videos 2501-2525

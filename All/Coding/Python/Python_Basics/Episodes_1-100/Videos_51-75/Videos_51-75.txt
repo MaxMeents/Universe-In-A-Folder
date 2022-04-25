@@ -1,0 +1,76 @@
+
+Python Basics Absolute Value
+https://youtu.be/p8NujOxHTPM&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Command Line Start up
+https://youtu.be/nIsUPFQcN6o&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Dictionary pt  2
+https://youtu.be/tDySJkWtrUQ&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Dictionary pt  3
+https://youtu.be/RDUZo9RzSQs&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Dictionary
+https://youtu.be/n-qDYceBRd0&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Enumerate
+https://youtu.be/rad-aalG6mw&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Evaluate function
+https://youtu.be/DYavDSoPYvw&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Functions with multiple arguments and defaults
+https://youtu.be/FLv9b0uBX6E&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Guessing Game pt  2
+https://youtu.be/QXAA5kNvvEo&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Guessing Game
+https://youtu.be/0ZmbhprSOXs&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics import
+https://youtu.be/33OdZq9XdUg&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Infinite String Input with Strip and Split Methods
+https://youtu.be/_9ziJDtIXNM&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Max and Min Functions
+https://youtu.be/PEit8L0Nhx0&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Number Pyramid
+https://youtu.be/1j-ae5zEHdQ&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Reverse Number Triangle Formated
+https://youtu.be/4YzOAfAkDKE&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics String Method Count
+https://youtu.be/hd0leB4mGNs&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics String Module
+https://youtu.be/QEj87cl9lg8&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics String Value Unicode
+https://youtu.be/goyOGo_kop8&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics String Value Using a Dictionary
+https://youtu.be/UPpz08tKINA&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Sum
+https://youtu.be/2p25fKLHQJk&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Thank You
+https://youtu.be/CsL3HPctIUs&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Tuple
+https://youtu.be/omFyVqBWfVg&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Unicode
+https://youtu.be/C3rhSDpI9I8&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Zip A Dictionary
+https://youtu.be/rBZztwzvkys&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+
+Python Basics Zip
+https://youtu.be/YgRZZFJOrks&list=PLaYT64KWZAENJpyfu7y4sAhSBAGj9W53f
+Videos 51-75

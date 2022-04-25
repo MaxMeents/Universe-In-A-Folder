@@ -1,0 +1,4 @@
+
+[es_MX] Rust México, Abril. Rust en la Academia e Introducción a Iron
+https://youtu.be/Y5apkLSkJaI&list=PL85XCvVPmGQiRhpkQJEENbDd2gVRUPbNh
+Rust México Meetup

@@ -1,0 +1,16 @@
+
+Vision Processing for FPGA Part 5 Hardware Software Prototyping of a Lane Detection Design
+https://youtu.be/puCS382D0cQ&list=PLn8PRpmsu08pkkp01SGl9GXAf4PujvlP9
+
+Vision Processing for FPGA, Part 1 Vision Processing FPGA and ASIC Hardware Considerations
+https://youtu.be/IGXy9aPmwqg&list=PLn8PRpmsu08pkkp01SGl9GXAf4PujvlP9
+
+Vision Processing for FPGA, Part 2 From a Frame-Based Algorithm to a Pixel-Streaming Implementation
+https://youtu.be/KSyBhx0fHEs&list=PLn8PRpmsu08pkkp01SGl9GXAf4PujvlP9
+
+Vision Processing for FPGA, Part 3 Hardware Design of a Lane Detection Algorithm
+https://youtu.be/3xaxCVrL8i4&list=PLn8PRpmsu08pkkp01SGl9GXAf4PujvlP9
+
+Vision Processing for FPGA, Part 4 Targeting a Lane Detection Design to a Xilinx Zynq Device
+https://youtu.be/S1EIdg9czS4&list=PLn8PRpmsu08pkkp01SGl9GXAf4PujvlP9
+Vision Processing for FPGA

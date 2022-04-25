@@ -1,0 +1,10 @@
+
+Animating A Sidebar Menu (iOS, Xcode 8, Swift 3) (Side MenuSlide Out Menu)
+https://youtu.be/ej5laXv2dzQ&list=PLHDMmeIMXj8UMMGN57Ufj4LfJFqG1KG_j
+
+Side Menu (iOS, Xcode 8, Swift 3)
+https://youtu.be/K89-RLzYxQM&list=PLHDMmeIMXj8UMMGN57Ufj4LfJFqG1KG_j
+
+Side Menu Under UIView in iOS (Xcode 8, Swift 3)
+https://youtu.be/SGkYb820zr4&list=PLHDMmeIMXj8UMMGN57Ufj4LfJFqG1KG_j
+Menus in iOS

@@ -1,0 +1,28 @@
+
+Anne-Julia Scheuermann - Naming Things
+https://youtu.be/--L0bS8n5ow&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Ben Waine  - My Debugging And Performance Toolbox
+https://youtu.be/_JIFvGYsyxo&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Chris Levy - The Power of Modern Version Control
+https://youtu.be/EBxfXgUHVRI&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Gabriela D’Ávila - Database Wizardry for Legacy Applications
+https://youtu.be/85E0hNWKIi0&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Gordon Skinner - Hexagonal Architecture in DDD
+https://youtu.be/u6oTg5oRH24&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+James Titcumb - Adding 1.21 Gigawatts to Applications with RabbitMQ
+https://youtu.be/0cWcCQSAY5o&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Jeremy Quinton - Devops for PHP Developers
+https://youtu.be/SL9FEDaXutE&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Liam Wiltshire - PHP's biggest bottleneck, MySQL
+https://youtu.be/drYy2T23eII&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+
+Michelle Sanver - Accessibility Done Right
+https://youtu.be/g3snB6Kev-A&list=PL_aPVo2HeGF_VdlTpUF6ViNgLC7Raph0i
+Videos 26-34

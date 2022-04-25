@@ -1,0 +1,76 @@
+
+Aleph.im Tutorial  Exploring How Aleph Works and How to Interact with the Network
+https://youtu.be/8D2dgHdcIhE
+
+Aleph.im Tutorial  Querying Data from the Network - Part 1
+https://youtu.be/oEHaXDCfWD4
+
+Aleph.im Tutorial  Querying Data from the Network - Part 2
+https://youtu.be/_xjALmTD8gc
+
+Aleph.im Tutorial  Using Experimental Web Sockets to Listen to the Network  Part 2
+https://youtu.be/FDSaa6lNuS4
+
+Getting Started with Github Pages
+https://youtu.be/dsPrCDCx2BE
+
+Learn Ruby in One Hour  An Hour of Ruby - Episode 2
+https://youtu.be/QEBP27V6Vrk
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Intro
+https://youtu.be/cRNNnuCGOPQ
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 1
+https://youtu.be/sGVOiHlKHx8
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 2
+https://youtu.be/vM5nfz_0uRs
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 3
+https://youtu.be/Gc089GhEcI0
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 4
+https://youtu.be/z0UV5umsoJ8
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 5
+https://youtu.be/BhDBMAB-W4k
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 6
+https://youtu.be/1KMpynUUXZQ
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 7
+https://youtu.be/ffUWOE0vrxc
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 8
+https://youtu.be/S2e24Romxy0
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 9
+https://youtu.be/M5G8Hi5uyHo
+
+Rails Tutorial  Lazy Loading Rails Partials with Futurism - Part 2
+https://youtu.be/PaNDiG4XnIU
+
+Rails Tutorial  Lazy Loading Rails Partials with Futurism
+https://youtu.be/BJaijaNi5Tg
+
+Rails Tutorial  Submitting Forms with Stimulus Reflex and Ruby on Rails 6
+https://youtu.be/hmcLqrRWlCU
+
+Rails Tutorial  Using Polymorphic Associations in Ruby on Rails 6
+https://youtu.be/SjUVEUCMoX8
+
+Rails Tutorial  Using the Entity Attribute Value Model in Ruby on Rails
+https://youtu.be/KioUWLNovk4
+
+Rails Tutorial  Working with Global ID in Ruby on Rails
+https://youtu.be/AVrs_wsv6ng
+
+Ruby Tutorial  How to Easily Reload the Ruby Console
+https://youtu.be/GFTePLEWBqQ
+
+Ruby Tutorial  Metaprogramming in Ruby - Method Missing
+https://youtu.be/AVfp6V-lEZo
+
+Ruby Tutorial  Metaprogramming in Ruby - Part 2
+https://youtu.be/cIzP48HlRTk
+Videos 101-125

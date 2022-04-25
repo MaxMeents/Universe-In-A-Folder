@@ -1,0 +1,67 @@
+
+Python Pattern Program - Printing Names in The Center Of The Heart
+https://youtu.be/6lJqSEvE1Rw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Program - Printing Stars in Heart Shape
+https://youtu.be/FiCzVeCdKUo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Program - Printing Stars in Hollow Diamond Shape
+https://youtu.be/apiMeZiwKdU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Program - Printing Stars in Pyramid Shape Using while loop
+https://youtu.be/P-mCpH5f3js&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Program - Printing Stars in Right Triangle Shape Using while loop
+https://youtu.be/P2Gs2U2_sHI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Floyd's Triangle  Printing Numbers in Right Triangle Shape
+https://youtu.be/0fLYdt9L8cI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Names Using Stars   Star Pattern  User Input
+https://youtu.be/Nz08Oo76zIQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Names Using Stars   Star Pattern
+https://youtu.be/DOXQn_1aBrY&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Numbers in Right Triangle Shape  Column wise
+https://youtu.be/MQ_8iDZYPtM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Numbers in Right Triangle Shape 2  Column wise
+https://youtu.be/hM8hn-ZHWyw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Numbers in Right Triangle Shape
+https://youtu.be/N02bYFj5ESM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Stars '' in Different Shapes  Star Pattern
+https://youtu.be/gDQG2RicE5A&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Stars in Hollow Equilateral Triangle Shape  Pyramid Pattern
+https://youtu.be/yYAM2jhU8hg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Stars in Hollow Right Triangle Shape
+https://youtu.be/CnOZb5aZxsE&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Strings in Right Triangle Shape
+https://youtu.be/MirXmHQsMOk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Count The Vowels in Given Sentence  Python Programs
+https://youtu.be/2tHxfu1qKZU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Print Every Index of Duplicate Elements in List
+https://youtu.be/8a9wwsUT-o4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Printing Hollow Right Triangle Star Pattern
+https://youtu.be/wrZpdoXXHhc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - append vs extend methods
+https://youtu.be/XvIrmb3HS94&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - input vs raw_input function  Python 2  python 3
+https://youtu.be/nFQ8FQKUkeQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - range vs xrange function
+https://youtu.be/d_mxzMas2p8&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - int()   bin()   oct()  hex()
+https://youtu.be/oLb7x1Tgddw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 101-125

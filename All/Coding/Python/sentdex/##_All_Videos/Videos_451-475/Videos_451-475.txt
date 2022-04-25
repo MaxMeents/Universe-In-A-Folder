@@ -1,0 +1,76 @@
+
+Applying our K Nearest Neighbors Algorithm - Practical Machine Learning Tutorial with Python p.18
+https://youtu.be/3XPhmnf96s0
+
+Clustering Introduction - Practical Machine Learning Tutorial with Python p.34
+https://youtu.be/ZueoXMgCd1c
+
+Completing SVM from Scratch - Practical Machine Learning Tutorial with Python p.28
+https://youtu.be/yrnhziJk-z8
+
+Creating an SVM from scratch - Practical Machine Learning Tutorial with Python p.25
+https://youtu.be/AbVtcUBlBok
+
+Creating Our K Nearest Neighbors Algorithm - Practical Machine Learning with Python p.16
+https://youtu.be/n3RqsMz3-0A
+
+Custom K Means - Practical Machine Learning Tutorial with Python p.37
+https://youtu.be/H4JSN_99kig
+
+Euclidean Distance - Practical Machine Learning Tutorial with Python p.15
+https://youtu.be/hl3bQySs8sM
+
+Final thoughts on K Nearest Neighbors - Practical Machine Learning Tutorial with Python p.19
+https://youtu.be/r_D5TTV9-2c
+
+Handling Non-Numeric Data - Practical Machine Learning Tutorial with Python p.35
+https://youtu.be/8p6XaQSIFpY
+
+K Means from Scratch - Practical Machine Learning Tutorial with Python p.38
+https://youtu.be/HRoeYblYhkg
+
+K Means with Titanic Dataset - Practical Machine Learning Tutorial with Python p.36
+https://youtu.be/j6jstahQp2A
+
+Kernels Introduction - Practical Machine Learning Tutorial with Python p.29
+https://youtu.be/9IfT8KXX_9c
+
+Mean Shift Intro - Practical Machine Learning Tutorial with Python p.39
+https://youtu.be/3ERPpzrDkVg
+
+Soft Margin SVM - Practical Machine Learning Tutorial with Python p.31
+https://youtu.be/JHaqodAQqiI
+
+Soft Margin SVM and Kernels with CVXOPT - Practical Machine Learning Tutorial with Python p.32
+https://youtu.be/XdcfJX-mDG4
+
+Support Vector Assertion - Practical Machine Learning Tutorial with Python p.22
+https://youtu.be/VngCRWPrNNc
+
+Support Vector Machine Fundamentals - Practical Machine Learning Tutorial with Python p.23
+https://youtu.be/ZDu3LKv9gOI
+
+Support Vector Machine Intro and Application  - Practical Machine Learning Tutorial with Python p.20
+https://youtu.be/mA5nwGoRAOo
+
+Support Vector Machine Optimization - Practical Machine Learning Tutorial with Python p.24
+https://youtu.be/bGCafQT5h1s
+
+SVM Optimization - Practical Machine Learning Tutorial with Python p.27
+https://youtu.be/VhHLpg7ZS4Q
+
+SVM Parameters - Practical Machine Learning Tutorial with Python p.33
+https://youtu.be/93AjE1YY5II
+
+SVM Training - Practical Machine Learning Tutorial with Python p.26
+https://youtu.be/QAs2olt7pJ4
+
+Understanding Vectors - Practical Machine Learning Tutorial with Python p.21
+https://youtu.be/HHUqhVzctQE
+
+Why Kernels - Practical Machine Learning Tutorial with Python p.30
+https://youtu.be/xqg5S-GrrDQ
+
+Writing our own K Nearest Neighbors in Code - Practical Machine Learning Tutorial with Python p.17
+https://youtu.be/GWHG3cS2PKc
+Videos 451-475

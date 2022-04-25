@@ -1,0 +1,76 @@
+
+Add sorting, filtering, paging - Asp .Net Core (MVC)
+https://youtu.be/U0zYxZ6OzDM
+
+C# SQL Database  Insert Query (visual Studio 2015)  winform application
+https://youtu.be/dUntK3EGJcY
+
+C# WPF Material Design UI  Social Blade Dashboard
+https://youtu.be/qSP8v8Gi3XU
+
+C# WPF Material Design UI MP3 Music App
+https://youtu.be/k9Dm13xhrdY
+
+Create & Scan QR-Code  C# WPF
+https://youtu.be/co1HM-5Rpp8
+
+Create Database and Table in SQL Server Management Studio without Query
+https://youtu.be/GyvxY_VYGok
+
+Create Login Page in Asp.net (MVC 5 & SQL Server)
+https://youtu.be/-860xZK5mRg
+
+Create Modern UI Login Form with SQL Server Database in C#
+https://youtu.be/a4apo9OUJns
+
+DataGridView  C# (windows Form)
+https://youtu.be/rXku7NugTk8
+
+Display Data from database  ASP .NET CORE (MVC) C#
+https://youtu.be/s3o8iuoDMyI
+
+dynamic Config SQL Connection For C# Apps
+https://youtu.be/jpriyYhQlqA
+
+Get data from a database without refreshing the browser using AJAX C#  Asp .Net Core
+https://youtu.be/70rDn356TWU
+
+how to add bunifu framework to visual Studio
+https://youtu.be/5PWvmBH9DpY
+
+How to Create Custom DialogBox(MessageBox) Class C# winform
+https://youtu.be/ChRyviDonrM
+
+How to Create Gmail Simple Mail Sending App  C# winform
+https://youtu.be/Nj3zOd0jUNo
+
+How to Create RDLC Reports and DataSet [Confiuration]  C# (winforms)
+https://youtu.be/YeFA5VUBy0w
+
+How to Create setup(exe)  winform
+https://youtu.be/325kC4MzBpg
+
+How to Create Windows Form On Console Application C#
+https://youtu.be/FJ76vL_EwXA
+
+How to create Windows Slide Transition  C# WPF
+https://youtu.be/A-fQx4_9IMQ
+
+How to design Chess UI in WPF C#  XAML Flat Design
+https://youtu.be/mXUIU6rAwEo
+
+How to Fix winForm Designer Error
+https://youtu.be/ip_vWHiibXw
+
+How to Resize Image using trackbar  C#
+https://youtu.be/1QJno9tU6D0
+
+How to use awesome mouse cursors in WPF  C#
+https://youtu.be/cpUdKiK1ubQ
+
+Implement Google News API  PHP Example
+https://youtu.be/3lPhraiNVcw
+
+Multiple User Login Form  C# WPF
+https://youtu.be/t4Kg62UeSws
+Videos 1-25

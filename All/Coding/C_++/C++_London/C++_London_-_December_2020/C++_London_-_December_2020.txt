@@ -1,0 +1,7 @@
+
+Eduardo Madrid - Type-Erasing the Pains of Runtime Polymorphism The Practical Part - C++ London
+https://youtu.be/s082Qmd_nHs&list=PLB8iG1kbmdEMubtDqhCwoIK4h8V86OVYF
+
+Roi Barkan - Argument passing, core guidelines and concepts - C++ London, December 2020
+https://youtu.be/uylFACqcWYI&list=PLB8iG1kbmdEMubtDqhCwoIK4h8V86OVYF
+C++ London - December 2020

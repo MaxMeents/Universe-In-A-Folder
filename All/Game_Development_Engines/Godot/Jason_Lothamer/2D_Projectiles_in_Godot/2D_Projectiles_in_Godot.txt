@@ -1,0 +1,10 @@
+
+Aiming 2D Projectiles in Godot
+https://youtu.be/jMk8Zm-F3jw&list=PL-HfQO8Ba9w5cW1rex5lf2ojMSrWIdRRP
+
+Godot Engine 2D Smooth Look At
+https://youtu.be/ciT_jDol9G8&list=PL-HfQO8Ba9w5cW1rex5lf2ojMSrWIdRRP
+
+Reusable Projectiles and Projectile Launcher in Godot
+https://youtu.be/-CGt9AOj3Fc&list=PL-HfQO8Ba9w5cW1rex5lf2ojMSrWIdRRP
+2D Projectiles in Godot

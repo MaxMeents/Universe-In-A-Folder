@@ -1,0 +1,67 @@
+
+AHK Studio Adding, Deleting Matching Braces, Brackets, Quotes, etc.
+https://youtu.be/R5hTks33-E8&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Automatic Backups and Version control + Push to Github
+https://youtu.be/fHL5cdxP2yo&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Changing inserted code when Toggling Comments in AHK Studio
+https://youtu.be/Lpgxe7D2j5g&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Clear Debug on Run and Hide Studio System tray icon
+https://youtu.be/PNz6X4CZ6lY&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Copying and Pasting RTF format (colors) in other programs
+https://youtu.be/PNswxQwrl_Y&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Finding text across files & easily see their content
+https://youtu.be/PoTAag1OvIU&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Multi Line typing with keyboard shortcut
+https://youtu.be/Qa25PMBG8XE&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio RegEx Replace Dialog  Replacing text inside Studio
+https://youtu.be/nXzpYwBwHrI&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Restore functionality (this is VERY Awesome!)
+https://youtu.be/65Kzsq5eQ5c&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Run Selected Text and Displaying Current Hotkeys
+https://youtu.be/llHPyZItDJk&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio Using Breakpoints in Debug mode
+https://youtu.be/q3utQlHXMw0&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio What to do when Studio won't load
+https://youtu.be/Gd2AntSOlvU&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AHK Studio- Disable Match Brace Highlight on Delete
+https://youtu.be/0SViUz4O2mc&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AutoHotkey functions  tips and tricks
+https://youtu.be/mxoRNTEp_Ik&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AutoHotkey Studio How to use AHK Studio, A deep walk thru with Maestrith
+https://youtu.be/2XY1xueMT-E&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+AutoHotkey Webinar-82016   Hour 1- AHK Studio, Screen Clipping
+https://youtu.be/QDFbtHvYFkw&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+Cleaning up your code with AutoHotkey Studio
+https://youtu.be/tlo0-qg2rGo&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+Examples of AutoHotkey AutoHotkey Experts Chad Wilson  Maestrith
+https://youtu.be/vSOtyc9Xs00&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+How to use includes in AutoHotkey
+https://youtu.be/blIaDqBGhAQ&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+Nesting Comments in AHK studio
+https://youtu.be/XV0dYoGKOmU&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+Quick tutorial on cool AHK Studio features
+https://youtu.be/T86C26svMuU&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+
+Splitting main window in AHK Studio to see other sections of your script
+https://youtu.be/99EGg7j5Q4g&list=PL3JprvrxlW279vlWADTTlyLH1p800YlCC
+Videos 26-50

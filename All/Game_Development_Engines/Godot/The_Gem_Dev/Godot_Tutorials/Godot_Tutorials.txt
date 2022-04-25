@@ -1,0 +1,34 @@
+
+20 Years Evolution of Godot Engine 2001 - 2021
+https://youtu.be/Yi_1ys3srL0&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Creating a Custom Tab System in Godot
+https://youtu.be/zsgW-cv2txQ&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Don't Use rset() - Godot Tip
+https://youtu.be/friLlkxh484&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Enemy Follow Player in Godot  no code  Visual Scripting
+https://youtu.be/ZvLZ1bYnbGo&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Godot 3.3 Create a 2D Platformer Game - #1 Basic Movement  #godotengine
+https://youtu.be/jb1j1ztEhlQ&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Godot 3.3 Create a 2D Platformer Game - #2 Gravity & Jump  #godotengine
+https://youtu.be/DBNB3Y4qyyw&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Learn to convert GDscript to Visual Script in Godot 4.
+https://youtu.be/1mSyFdUbG-U&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Make a 2D Top Down Shooter in Godot  No Code  Visual Scripting
+https://youtu.be/Y22b968FdNk&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Shoot Bullet Mechanics  No Code  Visual Scripting
+https://youtu.be/6_Jk1NYzppY&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+TOP 10 GODOT GAMES 2021
+https://youtu.be/5TKBh_oQ5b4&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+
+Why Godot 4.0 is just wrong!!!  Godot
+https://youtu.be/hH-dNSCeOpU&list=PLcSb9PUsw6p3f0zpN5WDNi4WTDRt_WRbw
+Godot Tutorials

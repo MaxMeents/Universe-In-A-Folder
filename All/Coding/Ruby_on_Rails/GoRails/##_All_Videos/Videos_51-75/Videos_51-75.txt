@@ -1,0 +1,76 @@
+
+Contrasting Colors with YIQ and Helper Tests in Rails
+https://youtu.be/-4nH35LC0JY
+
+Docker Basics for Ruby on Rails Developers
+https://youtu.be/J7hUHnQtFNo
+
+Flash Messages and Toasts with Hotwire & Turbo.js  Preview
+https://youtu.be/McPMQVhDoHo
+
+How to Create and Test a Rails Engine  Preview
+https://youtu.be/xTzUOKXcEkc
+
+How to use the Browser Geolocation API with Rails  Preview
+https://youtu.be/6J9YiH1GDGk
+
+Multiple Device support with Request Variants in Rails  Preview
+https://youtu.be/afefQ-6M-Zs
+
+Rails for Beginners Part 10 Setting up a Git repository and Flash messages
+https://youtu.be/5xTkSIuizRs
+
+Rails for Beginners Part 15 Login with Session Cookies
+https://youtu.be/IzbQAj_tcfI
+
+Rails for Beginners Part 16 Logging Out Users
+https://youtu.be/fCunJskZkYI
+
+Rails for Beginners Part 17 Login Form
+https://youtu.be/UC5LjuFDQM4
+
+Rails for Beginners Part 2 How to create a new Rails app
+https://youtu.be/4PLg-Oe3MfA
+
+Rails for Beginners Part 24 OmniAuth URLs [Revised for Omniauth 2.0]
+https://youtu.be/FbUWc8Vnu8Y
+
+Rails for Beginners Part 27 Twitter Accounts Page
+https://youtu.be/IUFRC9RXs_Y
+
+Rails for Beginners Part 3 How HTTP Requests work in the Browser
+https://youtu.be/Bx2mFSsrucM
+
+Rails for Beginners Part 7 Adding Bootstrap CSS & Javascript
+https://youtu.be/EzCl-6etSGI
+
+Rails for Beginners Part 8 Using Partials for the Navbar
+https://youtu.be/6wS9-6BFBbs
+
+Rails for Beginners Part 9 URL Helpers and link_to
+https://youtu.be/Hj_h2v36e1M
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 1
+https://youtu.be/b7dx1Yt3FzU
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 2
+https://youtu.be/wAhfZA3tzC4
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 3  Preview
+https://youtu.be/J9nQbyrimNw
+
+Realtime Rails with Hotwire & ActionMailbox  Part 1
+https://youtu.be/WSuFaY7-q3g
+
+Realtime Rails with Hotwire & ActionMailbox  Part 2  Preview
+https://youtu.be/g4L0lnh78ro
+
+Sharing Cookies with Subdomains in Rails
+https://youtu.be/AVh98mM1mpQ
+
+Stripe Checkout in Rails with the Pay gem
+https://youtu.be/MKWq_soCzsQ
+
+Wrapping Ruby Exceptions and accessing the original error with #cause  Preview
+https://youtu.be/8tgAsX9xgOM
+Videos 51-75

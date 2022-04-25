@@ -1,0 +1,55 @@
+
+Adopt-a-JSR NightHackingvJUG Sessions
+https://youtu.be/Iw5C9mrv5Vg&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Andres Almiray and Dan Allen on Asciidoctor
+https://youtu.be/pM3JRGPo_HU&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Andres Almiray on the DesktopEmbedded App JSR
+https://youtu.be/UcickgUFtPY&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Arun Gupta on Devoxx4Kids
+https://youtu.be/sOpEteG088M&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Heather Van Cura giving a JCP Update
+https://youtu.be/_CDDRCGD5hE&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Holly Cummins on Wearable Computing
+https://youtu.be/bAUz8q9vET4&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Interview with Vinicius and Yara Senger on the Internet of Things
+https://youtu.be/D7YBKkCXFSY&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Ixchel Ruiz on running Hackergartens
+https://youtu.be/T8ZU9PEOERg&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+JavaLand My-Matrix Project
+https://youtu.be/Gv2ZyKASxBM&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Michael Hoffer on 3D Printing in Java
+https://youtu.be/EPZUvbK4NgA&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+NightHackingvJUG session on Adopt OpenJDK
+https://youtu.be/6lw1QX1dLWQ&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Peter Lawrey on Legacy Lambda Code in Java
+https://youtu.be/v1CXEXvFj4w&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Rabea Gransberger with Code Review Tips
+https://youtu.be/_vmEPhqzg5I&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Rafael Winterhalter on Byte Buddy
+https://youtu.be/oqTruAvFm7g&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Roland Huss on Docker
+https://youtu.be/Jm66LKa3gLs&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Sarah White on Documentation
+https://youtu.be/q88qG94h5D8&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Stefan Schlott on Hacking Your Website
+https://youtu.be/HtPSXMvPvJk&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+
+Voxxed Interview with Lucy, Mani, and Daniel on OpenJDK
+https://youtu.be/bM0ADpcjQFw&list=PL2ekzZZrxVUlGVic1IJD9bFo0gLNHDW4V
+JavaLand 2015

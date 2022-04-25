@@ -1,0 +1,76 @@
+
+15 Types of Bar Chart in Tableau - Part 2  Tableau Advance Bar Charts
+https://youtu.be/lbSgQprxGv0&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+15 Types of Bar Charts in Tableau   Part 1
+https://youtu.be/M_noEzfnDys&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Creating and Customizing Tableau Line Charts
+https://youtu.be/AJEm1GPvYYM&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Automate Text Search in Tableau using Parameters  Tableau Tips and Tricks
+https://youtu.be/6xv5mSm_eGQ&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Change Tableau Line Chart Date Levels Dynamically using Date Function
+https://youtu.be/HSPRXZvWiug&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Create a Total Trend Line on Tableau Line Chart Along with other Categories Trend Lines
+https://youtu.be/DH0TjcmwWek&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to create No Axis Bar chart in Tableau   Tableau Charts - Tableau Tutorials
+https://youtu.be/7TV9j2no5Qk&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to create percent to total calculation using LOD in Tableau  Tableau Tips and Tricks
+https://youtu.be/tt2VbRNOHGk&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Create Resume in Tableau  Tableau Resume Dashboard Example
+https://youtu.be/PxXRjAUbWiY&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Remove Duplicate Values in Tableau
+https://youtu.be/JcOjfkK5e28&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Search Text Values using Tableau Parameters and Filtering The Visualization
+https://youtu.be/gbsGYGzzf8g&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+How to Search values in Multiple Dimensions and Filter the visualization in Tableau Tips and Tricks
+https://youtu.be/xkq0-iU48t4&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Lolipop Chart in Tableau   Tableau Charts - Tableau Tutorials
+https://youtu.be/0jsKqb1qeWw&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau - Heat Map
+https://youtu.be/RnJuW8Y0Ogc&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau - Waterfall Chart
+https://youtu.be/QUbCYAowewY&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Bar Chart  4 ways to create tableau bar chart
+https://youtu.be/gu3VGgCNRR4&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Business Dashboard Design Tutorial
+https://youtu.be/MEZRk4-PuTI&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Business KPI Dashboard Design Project for Interactive Dashboard Development
+https://youtu.be/AGUqtl5vaNg&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Dashboard Design for Interactive SuperStore Sales Data Analysis Project Template
+https://youtu.be/b43xqk9hq1w&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Dashboard for Twitter For Analyzing Tweets
+https://youtu.be/wmdUkctGvPE&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Dynamic Parameter for Selecting Most Current Date
+https://youtu.be/MHdUTYlb0Y4&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Financial Complaints KPI Dashboard  Learn Tableau By Developing Dashboard
+https://youtu.be/BcKMPRpHqZ0&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau KPI Dashbaord Design for Project Management  Tableau Interactive Dashboard for Beginners
+https://youtu.be/DIgE5T-ioW8&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau KPI dashboard Design for Business Dashboards
+https://youtu.be/WT-8TLEXpF4&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+
+Tableau Sales KPI Dashboard Design Tutorial Step by Step with PowerPoint Designed Images
+https://youtu.be/-4FpzEuDfKo&list=PLH6mU1kedUy9n44tYuIEEzR-ULBgJoOvN
+Videos 1-25

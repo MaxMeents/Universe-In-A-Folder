@@ -1,0 +1,73 @@
+
+Add Rounded Corners to your Buttons (UIButtons) in One Minute
+https://youtu.be/Mtxqwdjunoo&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Create a Circular Image in SwiftUI in One Minute
+https://youtu.be/b7pIx_eHda0&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Create a Single Line Text Field (UITextField) in One Minute
+https://youtu.be/xm0WK1L2DjI&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Create an App icon with Sketch and Icons8 in One Minute
+https://youtu.be/nGdUj7tuPgg&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Find the Value of the UISlider in One Minute
+https://youtu.be/dUbfUpVzcxU&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Add an Activity Indicator View in One Minute
+https://youtu.be/W-WMZ0nNBE8&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Align 3 Images in SwiftUI in One Minute
+https://youtu.be/0CSQUj3gjpk&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Code in Swift on iPad in One Minute
+https://youtu.be/_vGwNmpIQ6M&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How To Connect a Swift Tableview (UITableView) in One Minute
+https://youtu.be/tKQJN_jc5AY&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How To Display Data in a Tableview (UITableView) in One Minute
+https://youtu.be/cJUmrdfgbbA&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Find the User Location in One Minute
+https://youtu.be/H1Y33dBusu4&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Get the Current Date and Time in Swift in One Minute
+https://youtu.be/BlTFA_Er70A&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Install Cocoapods in One Minute
+https://youtu.be/MS2Ue7y_I4w&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Make a Sticker Pack App in One Minute
+https://youtu.be/EMPoC1g9eWo&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Play Sounds in Swift in One Minute
+https://youtu.be/1htq-c4kVdA&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Rename Your Connections Without Crashing your App in One Minute
+https://youtu.be/cCWadcRhvQs&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How To Set The Delegate & Data Source of a Tableview (UITableView) in One Minute
+https://youtu.be/hw9RrXvxuUc&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+How to Test-Run your App Wirelessly in One Minute
+https://youtu.be/8iHoe-5MHKw&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+iOS Bento Minute How to Use Custom Fonts with FontAwesome in your iOS App
+https://youtu.be/opfNRC9NerI&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Some of Xcode's Best Shortcuts in One Minute
+https://youtu.be/bIrDFpr0eMU&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Swift in Your Browser in One Minute
+https://youtu.be/myvR0QidINI&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+The SwiftUI Button in One Minute
+https://youtu.be/LYZESJei5oM&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Xcode 11 No Storyboard Fix In One Minute
+https://youtu.be/ea9fCSXGhSU&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+
+Xcode 11 Where is the Assistant Editor  In One Minute
+https://youtu.be/rTn02yqIj6w&list=PLMRqhzcHGw1aAzJ1jwtZeQ4YlfLI2iS30
+One Minute

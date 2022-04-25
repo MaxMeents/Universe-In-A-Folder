@@ -1,0 +1,76 @@
+
+Aaron Jacobs  Introducing xrprof A New Way to Profile R  RStudio (2021)
+https://youtu.be/vC9-QJ2mUWw
+
+Ahmadou Dicko  Humanitarian Data Science with R  RStudio
+https://youtu.be/WR41ViiEz_o
+
+Allison Horst  R Art Lessons  RStudio
+https://youtu.be/Si-luPC7cdA
+
+Andrew Tran  The Opioid Files Turning big pharmacy data over to the public  RStudio (2021)
+https://youtu.be/vCFsvcURTdI
+
+Barret Schloerke  plumber + future Async Web APIs  RStudio
+https://youtu.be/UDGeLpiMSj4
+
+Emily Riederer  oRganization  RStudio
+https://youtu.be/E887K1au5ug
+
+Eric Cronstrom  How we made the switch a case study on automating a complex report  RStudio
+https://youtu.be/ks36zvNlk_k
+
+Grant Fleming  Fairness and Data Science Failures, Factors, and Futures  RStudio
+https://youtu.be/cBM_gV-B3YI
+
+Hadley Wickham  Maintaining the house the tidyverse built  RStudio
+https://youtu.be/izFssYRsLZs
+
+Irene Steves  The dynamic duo SQL & R  RStudio
+https://youtu.be/gdzONbwfWk0
+
+Javier Luraschi  Using pins with Python and JavaScript  RStudio
+https://youtu.be/dsfEsJCiH-E
+
+Jeroen Ooms  Monitoring health and impact of open-source projects  RStudio
+https://youtu.be/kaoe7xuIJ1U
+
+John Burn-Murdoch  Reporting on and visualising the pandemic  RStudio
+https://youtu.be/L5_4kuoiiKU
+
+JooYoung Seo  Accessible Data Science Beyond Visual Models  RStudio
+https://youtu.be/0HvyNtltu-A
+
+Kara Woo  Always look on the bright side of plots  RStudio
+https://youtu.be/izV-qK3nlhA
+
+Kate Hertweck  R training and documentation for different levels of expertise  RStudio
+https://youtu.be/wGrKbsagVtg
+
+Malcolm Barrett  You're Already Ready Zen and the Art of R Package Development  RStudio
+https://youtu.be/Mb7wZZ6nPLA
+
+Marcus Adams  Putting a GMP Shiny App into Production  RStudio
+https://youtu.be/yBDH2Xpycx4
+
+Matt Thomas & Mike Page  How the Tidyverse helped the British Red Cross respond to COVID  RStudio
+https://youtu.be/h_liRO1GweQ
+
+Max Kuhn  What's new in tidymodels  RStudio
+https://youtu.be/qEeF-ErtUAU
+
+Maya Gans  Starting an R Book Club Cooking Up Friendships in Isolation  RStudio
+https://youtu.be/BY1gpr0zc54
+
+Megan Beckett  Aesthetically automated figure production  RStudio
+https://youtu.be/u7dfUxONj6Q
+
+Michael Chow  Bringing the Tidyverse to Python with Siuba  RStudio
+https://youtu.be/w4Mi0u4urbQ
+
+Mine Çetinkaya-Rundel   Feedback at scale  RStudio
+https://youtu.be/cgiKP7pZWKo
+
+Nicole Kramer  A New Paradigm for Multifigure Coordinate-Based Plotting in R  RStudio
+https://youtu.be/uoM8sYAyo_s
+Videos 201-225

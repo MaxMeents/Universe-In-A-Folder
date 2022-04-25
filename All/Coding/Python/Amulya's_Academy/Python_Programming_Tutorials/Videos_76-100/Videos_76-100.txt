@@ -1,0 +1,76 @@
+
+List Comprehension in Python Programming  Example
+https://youtu.be/fnJOBQbc7Qg&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorial - Looping With Index  Enumerate Function
+https://youtu.be/iDgkSu5OorU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorial - Negative Index in List
+https://youtu.be/IxrI1rBj_lE&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorial - Recursive Function
+https://youtu.be/hz2akD7dM5I&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorial - Regular Expression  Match, Search, Findall Functions
+https://youtu.be/RgY6IDcwaqM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Programming Tutorial - Regular Expression  Replace and Split Function
+https://youtu.be/gCLhmLohLBM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Draw Circle  Fill Color  Circle Method
+https://youtu.be/cScZA0Hq1yU&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Draw Square Shape  Fill Color  Turtle Speed  HideTurtle
+https://youtu.be/QYaYeplafto&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - goto Method  up and down Method  Draw Shapes In Any Position
+https://youtu.be/CQSVLgwAoYA&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Introduction  shape()  color()
+https://youtu.be/kpueya-s888&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Pattern 2  Drawing Different Shapes
+https://youtu.be/L4BVjagdJf0&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Pattern 3  Drawing INDIAN FLAG
+https://youtu.be/aZMuFWnyxII&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Patterns  Drawing Different Shapes
+https://youtu.be/Xq1L4IzLmv4&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Turtle Graphics - Turtle Movement  forward()  backward()  left()  right()  setheading()
+https://youtu.be/5isB9y8UjmA&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial  List Comprehension  Substitute for Lambda map filter and reduce function
+https://youtu.be/JEapLNRuzVo&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - append vs extend methods
+https://youtu.be/XvIrmb3HS94&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - Bitwise Operators 1 (AND  OR  XOR)
+https://youtu.be/0zWiugtOMd4&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - Filter and Reduce Function
+https://youtu.be/1VDOH5EZsOY&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - if __name__ =='__main__'
+https://youtu.be/dLgGSe1N4gA&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - input vs raw_input function  Python 2  python 3
+https://youtu.be/nFQ8FQKUkeQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - List Comprehension Definition And Syntax
+https://youtu.be/17gTGqHG5xQ&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - Map and Lambda Function
+https://youtu.be/AHQo9jhOp1k&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorial - range vs xrange function
+https://youtu.be/d_mxzMas2p8&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - Bitwise Operators 2 (Complement, Left Shift, Right Shift)
+https://youtu.be/w3SzPfs0CHM&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+
+Python Tutorials - String Methods  translate()  maketrans()
+https://youtu.be/ZCoHZNg3RPk&list=PLzgPDYo_3xul-DflHSi-4IWj2qYyPSZUH
+Videos 76-100

@@ -1,0 +1,34 @@
+
+CSSConf Oakland 2014  Adam Morse Things I’ve Learned About CSS
+https://youtu.be/14N_V56tqd4&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Ainsley Wagoner What's in a name Exploring the origins of CSS color names
+https://youtu.be/ciGmOlxRxeg&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Ben Schwarz Real metrics for front-end performance
+https://youtu.be/-D81Qj1YmPM&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Brenna O'Brien SVG Can Do That!
+https://youtu.be/UHmXD6GH2l8&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Claudina Sarahe The Front-End Revolution
+https://youtu.be/UbIQgDLXzII&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Elyse Holladay I Have No Idea What I'm Doing
+https://youtu.be/e3Dd2e_gbCE&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Jennifer Wong Tonight We're Gonna Code Like It's 1999 Responsive Emails
+https://youtu.be/VI3VxnFjN2A&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Jessica Dillon Implementing a Visual CSS Testing Framework
+https://youtu.be/ItyUjVWl4q8&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Mark Otto and Connor Sears Stuff About Cascading Style Sheets
+https://youtu.be/R_py8gCTTAc&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Michelle Bu CSS First
+https://youtu.be/ALEGHlwMXxs&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+
+CSSConf Oakland 2014  Tab Atkins The Future of CSS
+https://youtu.be/ad1Wq0qZrMQ&list=PL37ZVnwpeshFII-oSDm3-R5Yr1CTfYIDK
+CSSConf Oakland 2014

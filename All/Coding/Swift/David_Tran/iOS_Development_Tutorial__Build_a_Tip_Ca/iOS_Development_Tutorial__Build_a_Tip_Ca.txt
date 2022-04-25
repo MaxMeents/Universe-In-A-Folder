@@ -1,0 +1,34 @@
+
+How to Build a Tip Calculator Part 2 Build the UI for Tip Calculator
+https://youtu.be/brc9R0UAtUs&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 4 Create the Tip Calculator Brain the Model in MVC
+https://youtu.be/iRWBvviwc_c&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 5 Use the Tip Calculator Brain to Make It Powerful and Functional
+https://youtu.be/skpUnmOVj5E&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 6 Detect UIControl Events
+https://youtu.be/HqTvroLAwnY&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 7 Use the ViewController as a TextField Delegate
+https://youtu.be/O6stSzOxif4&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 8 Detect Slider Control Events
+https://youtu.be/SqbAhDujKUk&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 8.1 Detect Slider Control Events Fix
+https://youtu.be/FJU1bW62iEU&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+How to Build a Tip Calculator Part 9 Beautifulize Our App with App Icons and Start Screens
+https://youtu.be/TseKBmjOZTM&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+iOS Development Tutorial - How to Build a Tip Calculator Part 1 Introduction to Tip Calculator
+https://youtu.be/xEtKA0Nz-UE&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+iOS Development Tutorial - How to Build a Tip Calculator Part 10 Your Challenge
+https://youtu.be/fWoSOQf81Io&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+
+Tip Calculator Pt 3 Connect UI Elements from View to ViewController with IBOutlets Tip Calculator
+https://youtu.be/94PGBs8_5k0&list=PLHmNdpdzx21GiEPJV-mjQk8m_XdMrjSBX
+iOS Development Tutorial  Build a Tip Calculator with Swift

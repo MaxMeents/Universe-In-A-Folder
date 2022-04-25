@@ -1,0 +1,22 @@
+
+Gimp-How to use it
+https://youtu.be/o51kmJIGXyU
+
+How to add an animation to objects in gdevelop
+https://youtu.be/SwjUzL1Fpyw
+
+How to add blocks that kill you  in gdevelop platformer template
+https://youtu.be/IYC2kC1GLWg
+
+how to add java script to gdevelop
+https://youtu.be/QOv0_KAJ3Mw
+
+How to make extensions in gdevelop
+https://youtu.be/3p1ybbnt4sQ
+
+How to make pixel art
+https://youtu.be/6wVFkcqGvJE
+
+How to store variables in gdevelop
+https://youtu.be/FIEs5i8KakY
+Videos 1-7

@@ -1,0 +1,76 @@
+
+Basics of Python  Python Tutorial for Beginners  Python in 24 Hours  Latest Python Tutorial
+https://youtu.be/6I3TQYSZNJs&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Facts about Python variables  Python Variables features  Python Variables important points
+https://youtu.be/oEZD27uePRw&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How Python is different from other languages  Benefits of Python Over Other Programming Languages
+https://youtu.be/1t39qV0PNRs&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to Install PyCharm  PyCharm installation   Installing and Setting Up PyCharm IDE
+https://youtu.be/oaYXfFUwMHw&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to Install Python  Python Installation
+https://youtu.be/M2fIHIBNuiY&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to Save and Run Python program  How to Run Python program  How to Save Python file
+https://youtu.be/UQY0609_MY0&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Built-in Functions in Python  Python Built-in Functions  Built-in Functions in Python
+https://youtu.be/xRG7fBsPT5M&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Built-in Modules in Python  Python Built-in Modules  Built-in Modules in Python
+https://youtu.be/6fw6ZwEf_d8&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Indentation in python  Python Indentation  Indentation in Python  Indentation
+https://youtu.be/chBMWlkcSVI&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Number Datatype in Python  Python Type casting  Integer, Float & Complex Data Types
+https://youtu.be/1zXYE4MGrSw&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to write comments in Python  Python Comments  Python Documentation
+https://youtu.be/SFbevNtkWsU&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to write program in Python idle  Python Idle  The Python Shell
+https://youtu.be/muVQvmkESe8&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to write Python program in Command Prompt  My first Python program in cmd
+https://youtu.be/R16-ajCT7a8&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to write Python program in PyCharm  PyCharm tutorial  PyCharm first program  py file
+https://youtu.be/7AyH97iG62E&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to write Statements in Python  Python Statements  Statements in Python
+https://youtu.be/BCladILtDx0&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to write User defined Functions in Python  How to Create Functions in Python
+https://youtu.be/RZgC_pi9V1Y&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Introduction of Python  Python Overview  Python Introduction  Overview of python
+https://youtu.be/pAH6rK9iSrM&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Data types in Python  Data types in Python  Python Data types  Data types
+https://youtu.be/9KNlvJ4ekqk&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Identifiers in Python  Python Identifiers  Identifiers in Python
+https://youtu.be/JQGZgyIV_FI&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Keywords in python  python keywords  keywords in python 
+https://youtu.be/6IbCPPKGVLA&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Variables in Python  Python Variables  Variables in Python
+https://youtu.be/db16UAxUVX0&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is List in Python  Python List Data Structure  List Python Tutorial  Python List Data Type
+https://youtu.be/D17njfGjMfk&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is Number Data type in Python  Python Number Data type  Number Data type in Python
+https://youtu.be/i3_sXXUnz8E&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Why Python is in demand   Python demand in future
+https://youtu.be/CBf4EINZBYc&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Why Python is Scripting Language  Python is scripting language or programming language
+https://youtu.be/bvC9XlMt_oA&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+Videos 1-25

@@ -1,0 +1,13 @@
+
+Nick Strayer  Part IV Styling a Shiny Wordle App with CSS  RStudio
+https://youtu.be/4_tX4IUDJZ0&list=PL9HYL-VRX0oQnWIeY_ydYBdU76iQ-tchU
+
+Winston Chang  Part I Build a Basic Wordle App with Shiny  RStudio
+https://youtu.be/quvz4xLbW88&list=PL9HYL-VRX0oQnWIeY_ydYBdU76iQ-tchU
+
+Winston Chang  Part II Handling Duplicate Letters in a Shiny Wordle App  RStudio
+https://youtu.be/01VOq_GMEAA&list=PL9HYL-VRX0oQnWIeY_ydYBdU76iQ-tchU
+
+Winston Chang  Part III Adding a Keyboard to a Wordle Shiny App  RStudio
+https://youtu.be/v3jHh-IKXLc&list=PL9HYL-VRX0oQnWIeY_ydYBdU76iQ-tchU
+Building a Wordle App with Shiny!

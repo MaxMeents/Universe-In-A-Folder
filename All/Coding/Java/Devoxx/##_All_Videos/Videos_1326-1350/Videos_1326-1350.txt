@@ -1,0 +1,76 @@
+
+10KB or Bust The Delicate Power of Webpack and Babel by Brian Holt
+https://youtu.be/cy4rCi9mry4
+
+A cloud application journey with Helm and Kubernetes by Ana-Maria Mihălceanu
+https://youtu.be/WybqRioUaFg
+
+Automated testing on steroids – Trick for managing test data using Docker snapshots
+https://youtu.be/uTQNDzeIrNI
+
+Baking a Microservice PI(e) with Antonio Goncalves Roberto Cortez
+https://youtu.be/AP4XDUUKq-k
+
+Blockchain applications in the banking industry by Nicolas Boitout and Mihai Iancu
+https://youtu.be/Bp5nSQtuMKU
+
+Blockchain – a paradigm shift for business by Kaustav Bhattacharya
+https://youtu.be/aoPUubUTxAs
+
+Devoxx4Kids South Africa   Boksburg Event 21 April 2018
+https://youtu.be/Eq9guU5QU8A
+
+Embed cognitive in your apps easily by Hans Boef
+https://youtu.be/9XTlbxKpPRk
+
+Flood the UK and Ireland with female tech talent with Amali de Alwis
+https://youtu.be/8CtzDbOsdnU
+
+Functional Programming Patterns with Java8 with Victor Rentea
+https://youtu.be/F02LKnWJWF4
+
+How to mess up your Angular UI Components by Cagatay Civici
+https://youtu.be/ARYR5G5U8nk
+
+Kotlin EE Boost your Productivity by Marcus Fihlon
+https://youtu.be/fpjDY6XRBJM
+
+Kotlin Next level of Android Development by Marcin Moskala
+https://youtu.be/22cjP5beLQA
+
+Microservices Data Patterns CQRS & Event Sourcing by Edson Yanaga
+https://youtu.be/bdBfbIiR95k
+
+Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam
+https://youtu.be/0hQvWIdwnw4
+
+Polymer – Lego for the Web by Radu Enuca
+https://youtu.be/dcCxCqCFkbc
+
+Reactive Spring Deep Dive Building & Testing Reactive Cloud-native Java Microservices
+https://youtu.be/BC2BcYviBZM
+
+Robotic Process Automation – Ushering in the Age of the Digital Workforce by Silviu Ciocoiu
+https://youtu.be/2maFYWcPm6Q
+
+Serverless beyond Functions by Danilo Poccia
+https://youtu.be/2EOELazbcGs
+
+Spring into Kotlin How to Make the Magic even more Magical by Mark Heckler
+https://youtu.be/YkqnJWIoi00
+
+State management in a GraphQL era by Kristijan Ristovski
+https://youtu.be/LskQM9M9ZYQ
+
+Streaming Data Platforms & Clojure with Derek Troy-West
+https://youtu.be/4sUaF4m5TWI
+
+The Hitchhiker’s guide to Java class reloading by Anton Arhipov
+https://youtu.be/-oCQu4rG85k
+
+The new Voxxed websites using JHipster, Angular and GitLab by Stephan Janssen
+https://youtu.be/SRyDJC1Ff0M
+
+The quantum computers are coming by Alasdair Collinson
+https://youtu.be/E446mus5w4Q
+Videos 1326-1350

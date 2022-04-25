@@ -1,0 +1,7 @@
+
+OWASP Top 10 for Developers - Katy Anton- PHPSW Security, May 2018
+https://youtu.be/te1tPuCngCc&list=PLrEpsyNSHj011Gs6c30JWV3FSxSIQxuml
+
+Web Security - The Human Factor - Rob Wilson - PHPSW Security, May 2018
+https://youtu.be/4c-c8qUWve8&list=PLrEpsyNSHj011Gs6c30JWV3FSxSIQxuml
+Security, May 2018

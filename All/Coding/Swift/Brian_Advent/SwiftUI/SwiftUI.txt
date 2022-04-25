@@ -1,0 +1,55 @@
+
+5 Best Xcode 12 Features - WWDC 2020  Brian Advent
+https://youtu.be/KSgXCDwkxLo&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+I can’t do this with SwiftUI… now what! - SwiftUI Introspect & SwiftUIX - Brian Advent
+https://youtu.be/NWKObIdi9ec&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 Swift Tutorial Awesome new Xcode 11 Features
+https://youtu.be/vC2BRWrCUlI&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 Swift Tutorial Build a Complex UI with SwiftUI from Start to Finish
+https://youtu.be/Xetrbmnszjc&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 Swift Tutorial Simple SwiftUI Application
+https://youtu.be/Pfw7zWxchQc&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 Swift Tutorial SwiftUI and Core Data - Build a To-Do List App
+https://youtu.be/-BZdQmHV4MQ&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 Swift Tutorial Understand Swift UI, Property Wrapper & More (@State & @EnvironmentObject)
+https://youtu.be/Bb5APObvgDY&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 Swift UI Tutorial Use UIKit Components with Swift UI with UIViewControllerRepresentable
+https://youtu.be/KezOONeYRnM&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 13 SwiftUI Tutorial Interactively Transition and Share Data between Views with SwiftUI
+https://youtu.be/cc23YTGZVbQ&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS 14 SwiftUI Tutorial Unsplash Photo Viewer with Lazy Stacks, iPad Sidebar...
+https://youtu.be/Z1CfF6ou1ac&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS Swift Tutorial Amazing Animations with Lottie and SwiftUI
+https://youtu.be/Ot-LdjivqEY&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS Swift Tutorial GraphQL with Apollo, Xcode 12 & SwiftUI
+https://youtu.be/YoKlTbYdFPs&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS Swift Tutorial Pull to Refresh with SwiftUI and UIViewRepresentable (2020)  Brian Advent
+https://youtu.be/DKbpkdfLb8g&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS Swift Tutorial Swift Concurrency (awaitasync) and how to Use Web APIs and JSON Data in 2021
+https://youtu.be/ZSHdZSwZy7w&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS Swift Tutorial Use APIs with Swift UI & Build a Book Barcode Scanner
+https://youtu.be/44APgBnapag&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+iOS SwiftUI Tutorial Conditional ViewModifiers (Create your own Toggle Buttons)
+https://youtu.be/RBcR_NqV6gY&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+SwiftUI Tutorial Create a Custom Button in SwiftUI
+https://youtu.be/XVC0wQND1N8&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+
+Why is Mobile App Localization Important Do it now with SwiftUI!  Brian Advent iOS Swift Tutorial
+https://youtu.be/1YsyHr0eslI&list=PLY1P2_piiWEY50_dT-DUdWaV-84YyFF5_
+SwiftUI

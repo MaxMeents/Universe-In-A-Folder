@@ -1,0 +1,76 @@
+
+Camera System - Edge Scrolling  Unity Tutorial
+https://youtu.be/haN-WLx7_9Y
+
+Camera System - Mouse Wheel Zoom  Unity Tutorial
+https://youtu.be/0s1a3m0F1G0
+
+Events - Waiting Queue in Battle Royale Tycoon (Unity 2D Tutorial)
+https://youtu.be/xGVumGwufDI
+
+Flying Body - Unity 2D
+https://youtu.be/ICeWTSKmD6A
+
+How to create a Mesh from code  Unity Tutorial
+https://youtu.be/gmuHI_wsOgI
+
+How to make a Camera Follow System - Movement  Unity 2D
+https://youtu.be/U66VYM-ShVg
+
+How to make a Camera Follow System - Zoom  Unity 2D
+https://youtu.be/tuTYq6y_Y4A
+
+How to make Bullet Tracer Rounds in Unity 2D
+https://youtu.be/jDiAzxkYzpI
+
+How to modify Mesh UV from Code  Unity Tutorial
+https://youtu.be/FGL6SffDeVU
+
+How to take a Screenshot in Unity
+https://youtu.be/lT-SRLKUe5k
+
+Making Demoman from TF2 in Unity 2D - Eyelander Melee Weapon
+https://youtu.be/fkOqtXvTb-E
+
+Making Demoman from TF2 in Unity 2D - Grenade Launcher
+https://youtu.be/8Eq65JHtmK0
+
+Making Demoman from TF2 in Unity 2D - Reload
+https://youtu.be/EA_FFB12j1o
+
+Making Demoman from TF2 in Unity 2D - Sticky Grenades
+https://youtu.be/FNC0a_eb440
+
+Quick Tip Measuring Compile Time in Unity
+https://youtu.be/jzAPub6z7Yo
+
+Quick Tip Referencing Assets through Code  Unity Tutorial
+https://youtu.be/7GcEW6uwO8E
+
+Quick Tip Test Mouse over UI  Unity Tutorial
+https://youtu.be/ptmum1FXiLE
+
+Unity Tutorial - Cinematic Bars
+https://youtu.be/nNbM40HFyCs
+
+Unity Tutorial - Confetti (1,000 subs special!)
+https://youtu.be/TtoK3g6LRls
+
+Unity Tutorial - Create a Graph Axis Separators
+https://youtu.be/YVgMyQ3FWjI
+
+Unity Tutorial - Create a Graph
+https://youtu.be/CmU5-v-v1Qo
+
+Unity Tutorial - Simple Sprite Animator Looping
+https://youtu.be/Q5pIi8tybnc
+
+Unity Tutorial - Simple Sprite Animator Runtime control
+https://youtu.be/De-kfIBy_wU
+
+Unity Tutorial - Simple Sprite Animator
+https://youtu.be/Ap8bGol7qBk
+
+Waiting Queue in Battle Royale Tycoon - Unity 2D
+https://youtu.be/5ABYVYuOK-A
+Videos 551-575

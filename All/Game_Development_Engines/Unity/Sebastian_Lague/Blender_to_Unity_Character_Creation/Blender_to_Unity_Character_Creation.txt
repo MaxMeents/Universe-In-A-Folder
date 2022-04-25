@@ -1,0 +1,28 @@
+
+Blender Character Creation (E01 Introduction)
+https://youtu.be/ocLZNRasU64&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Blender Character Creation (E02 Modelling)
+https://youtu.be/WnPkrxz4AQQ&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Blender Character Creation (E03 Rigging)
+https://youtu.be/8mZtc33rQ3c&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Blender Character Creation (E04 Rigging addendum)
+https://youtu.be/9iaB2GpzIxQ&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Blender Character Creation (E05 Walk animation)
+https://youtu.be/sTo4adwvulE&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Blender Character Creation (E06 Run animation)
+https://youtu.be/wxq_tt9JlMM&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Character Creation (E07 Unity character controller)
+https://youtu.be/ZwD1UHNCzOc&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Character Creation (E08 third person camera)
+https://youtu.be/sNmeK3qK7oA&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+
+Character Creation (E09 collisions and jumping)
+https://youtu.be/qITXjT9s9do&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v
+Blender to Unity Character Creation

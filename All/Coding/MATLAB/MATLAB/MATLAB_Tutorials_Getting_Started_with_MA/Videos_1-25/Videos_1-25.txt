@@ -1,0 +1,76 @@
+
+Getting Started with MATLAB
+https://youtu.be/OHxR8iMHDWw&list=PL7CAABC40B2825C8B
+
+How to Analyze IoT Data in ThingSpeak
+https://youtu.be/y5PoByl4LgA&list=PL7CAABC40B2825C8B
+
+How to Bring Data from MATLAB Into Simulink   Hear from MATLAB & Simulink Developers
+https://youtu.be/kM2qL__YxBQ&list=PL7CAABC40B2825C8B
+
+How to Call MATLAB from Python
+https://youtu.be/OocdPu1Tcrg&list=PL7CAABC40B2825C8B
+
+How to Call Python from MATLAB
+https://youtu.be/LHEZqpvE7D0&list=PL7CAABC40B2825C8B
+
+How to Create an Object Class in MATLAB
+https://youtu.be/4MRXkC7HjzY&list=PL7CAABC40B2825C8B
+
+How to Extract Data Points from an Image
+https://youtu.be/9P3PVLjW0bw&list=PL7CAABC40B2825C8B
+
+How to Import Excel Data into MATLAB
+https://youtu.be/0hArv-UBKQQ&list=PL7CAABC40B2825C8B
+
+How To Label Data For Deep Learning
+https://youtu.be/V2e0cygY9Vg&list=PL7CAABC40B2825C8B
+
+How to Make Predictions Using Monte Carlo Simulations
+https://youtu.be/0ikk_VEBkJw&list=PL7CAABC40B2825C8B
+
+How to Optimize Control System Parameters in Simulink
+https://youtu.be/lyLffjAwOyQ&list=PL7CAABC40B2825C8B
+
+How to Optimize Model Parameters in Simulink
+https://youtu.be/b0jNOXZKuj8&list=PL7CAABC40B2825C8B
+
+How to Preprocess Time Series Data with MATLAB
+https://youtu.be/CsqtMGDnMBw&list=PL7CAABC40B2825C8B
+
+How to Segment Images Using Color Thresholding
+https://youtu.be/HHpmRjQAiRs&list=PL7CAABC40B2825C8B
+
+How to Speed Up MATLAB Code
+https://youtu.be/dXo191HvvY0&list=PL7CAABC40B2825C8B
+
+How to Tune the Parameters of Algorithms Running on Hardware
+https://youtu.be/hcg-nJ7pfX4&list=PL7CAABC40B2825C8B
+
+How to Use Basic Plotting Functions
+https://youtu.be/GtmUXVzw4lQ&list=PL7CAABC40B2825C8B
+
+How to Use Custom Automation Algorithms for Data Labeling
+https://youtu.be/Y36D1fJZkT0&list=PL7CAABC40B2825C8B
+
+How to Use for-Loops to Visualize Data in MATLAB
+https://youtu.be/iI6T7quAqXw&list=PL7CAABC40B2825C8B
+
+How to Use Live Scripts in MATLAB
+https://youtu.be/hUXTyPYRidM&list=PL7CAABC40B2825C8B
+
+How to Write a MATLAB Program - MATLAB Tutorial
+https://youtu.be/zr_aB7V79DE&list=PL7CAABC40B2825C8B
+
+Introducing MATLAB Fundamental Classes (Data Types)
+https://youtu.be/frT7Al8XmPQ&list=PL7CAABC40B2825C8B
+
+Introducing Structures and Cell Arrays
+https://youtu.be/ZK0ig6NozqU&list=PL7CAABC40B2825C8B
+
+Working in the Development Environment
+https://youtu.be/F9js5H2XfOE&list=PL7CAABC40B2825C8B
+
+Working with Arrays in MATLAB
+https://youtu.be/q8lUOI0uqTo&list=PL7CAABC40B2825C8B
+Videos 1-25

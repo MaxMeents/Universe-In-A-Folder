@@ -1,0 +1,31 @@
+
+RustConf 2020 - Bending the Curve A Personal Tutor at Your Fingertips by Esteban Kuber
+https://youtu.be/Z6X7Ada0ugE&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Closing Keynote by Siân Griffin
+https://youtu.be/RNsEsZbXE-4&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Controlling Telescope Hardware with Rust by Ashley Hauck
+https://youtu.be/xlVnp7VOxRE&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Error handling Isn't All About Errors by Jane Lusby
+https://youtu.be/rAF8mLI0naQ&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - How to Start a Solo Project that You'll Stick With by Harrison Bachrach
+https://youtu.be/yv6L_xmjw5I&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Macros for a More Productive Rust by jam1garner
+https://youtu.be/dZiWkbnaQe8&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - My First Rust Project Creating a Roguelike with Amethyst by Micah Tigley
+https://youtu.be/GFi_EdS_s_c&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Opening Keynote
+https://youtu.be/IwPRu5FhfIQ&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Rust for Non-Systems Programmers by Rebecca Turner
+https://youtu.be/BBvcK_nXUEg&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+
+RustConf 2020 - Under a Microscope Exploring Fast and Safe Rust for Biology by Samuel Lim
+https://youtu.be/2b8InauuRqw&list=PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei
+RustConf 2020

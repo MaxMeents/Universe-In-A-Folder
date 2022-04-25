@@ -1,0 +1,25 @@
+
+Charting Stocks Part 26 - Using Yahoo's API for our stock price technical analysis in matplotlib
+https://youtu.be/u83WllUCLOc&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+Charting Stocks part 30 - Graphing intra-day stock prices unix time stamps in Python
+https://youtu.be/Y9nTh5WeB90&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+Charting StocksForex for Technical Analysis Part 27 - Adding texts and Annotations to Matplotlib
+https://youtu.be/1A0GMyjJ5V8&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+How to get 64 bit installations for your 64-bit Python modules
+https://youtu.be/ygBHhFD70SI&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+Private video
+https://youtu.be/v47oWNaMHaU&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+Python Charting Stocks part 31 - Graphing live intra-day stock prices
+https://youtu.be/O1ApWe_KIMM&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+Python Matplotlib Live Updating Graphs - part 1
+https://youtu.be/ge6DAaJ-leM&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+
+Python Matplotlib Live Updating Graphs - part 2
+https://youtu.be/7w8jk0r4lxA&list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq
+Videos 26-37

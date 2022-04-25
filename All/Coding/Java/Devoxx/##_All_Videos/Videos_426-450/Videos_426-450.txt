@@ -1,0 +1,76 @@
+
+Advanced Serverless Architectural Patterns on AWS - Alex Casalboni
+https://youtu.be/o9YB2F3pCHU
+
+Akka and Kubernetes, the beginning of a beautiful relationship - Hugh McKee
+https://youtu.be/CjkiznureoU
+
+Building a DSL with GraalVM - Maarten Mulders
+https://youtu.be/G4c4BoXZN1o
+
+Continuous reteaming - Julien Lavigne du Cadet
+https://youtu.be/YQ6qhkE_VY8
+
+Controlling drones with JavaScript - Jasper Schulte
+https://youtu.be/9uibNyt_RgM
+
+Coroutines and Reactive Programming - friends or foes - Konrad Kamiński
+https://youtu.be/09M4-rRlMR8
+
+Gauge + Taiko BDD for Web Revived - Dmitry Vinnik
+https://youtu.be/eTUSYiJYL1s
+
+GraphQL in Java World, let's go for a dive - Vladimir Dejanović
+https://youtu.be/5_uSpiXCeMI
+
+How to save money on long-term support for Java 11 - Marcin Zajączkowski
+https://youtu.be/CVnjCAX6hxo
+
+Java on ARM. Theory, Applications, and Workloads - Dmitry Chuyko
+https://youtu.be/fU6WBEPzRCo
+
+java.util.concurrent for Distributed Coordination - Ensar Basri Kahveci
+https://youtu.be/x7ajVUfZJTI
+
+Kotlin Under the Covers - Chet Haase
+https://youtu.be/c-_UlbzVwnU
+
+Living between Agile culture and DevOps mindset - how to make an impact ... - Tomasz Manugiewicz
+https://youtu.be/ftn6he5n6HM
+
+Managing Business Processes in Microservice Architecture with Spring Ecosystem - Bartłomiej Słota
+https://youtu.be/MF25j8ecNyY
+
+Multiplayer Pac-Man with RSocket - Oleh Dokuka
+https://youtu.be/ORhUXpO5Ijk
+
+Orchestrating Robot Swarms with Java - Matthew Cornford
+https://youtu.be/8MCOOiwkTds
+
+Polygot Java EE on the GraalVM - Ryan Cuprak
+https://youtu.be/aFFfzRs8-ZQ
+
+Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka [33]
+https://youtu.be/cVKhFPiebSs
+
+Real-world HTTP performance benchmarking, lessons learned - Julien Viet
+https://youtu.be/JDkm6MqzGP4
+
+Serverless Jenkins DevOps pipeline with K8s and Spark - Krzysiek Płachno
+https://youtu.be/7THfvr09F2I
+
+Shipping Code like a keptn Automating your Delivery Pipelines so you can focus... - Andreas Grabner
+https://youtu.be/h_KlIK1DIKM
+
+Still 100% Java for frontend development - A.Mahdy AbdelAziz
+https://youtu.be/TxVMzFecdK0
+
+Stress Driven Development, and How to Avoid It - Dmitry Vinnik
+https://youtu.be/dhGWZmUY5m4
+
+Taming Code Quality in the Worst Language I Know Bash - Michał Kordas
+https://youtu.be/NF0CY43GYKU
+
+The Solr Tagger and So Much More Than Search - Marcus Eagan, Erik Hatcher
+https://youtu.be/DjJbBj71qdM
+Videos 426-450

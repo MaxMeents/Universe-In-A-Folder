@@ -1,0 +1,76 @@
+
+10 Mistakes Hackers Want You to Make by Joe Kutner
+https://youtu.be/0jFAGmEVT7Y
+
+Building better monoliths – Implementing modulithic applications with Spring  by  Oliver Gierke
+https://youtu.be/0Sw4EthrT9E
+
+Common mistakes made in Functional Java by Brian Vermeer
+https://youtu.be/vuFCTdywMtE
+
+Deep learning, Devoxx crowd counting in realtime by Kasper Cools, Stefaan Haspeslagh
+https://youtu.be/iJrz4niQ77E
+
+Developing Native Project Vision in Teams and Individuals by Valerie Andrianova
+https://youtu.be/DFsykVS0Lho
+
+How to run Spring Boot with Jshell and take advantage on it  by  Bowie Brotosumpeno
+https://youtu.be/lTrzahYq5ok
+
+Jakarta EE  MicroProfile  WebStandards, On Stage Hacking noslides by Adam Bien
+https://youtu.be/_a8FVESHjlQ
+
+Java EE, Jakarta EE, MicroProfile, Or Maybe All Of Them  by Sebastian Daschner
+https://youtu.be/Jemx1BrB45Y
+
+Java Modularity the Year After by Sander Mak
+https://youtu.be/l4Dk7EF-oYc
+
+JHipster 5   What's new and noteworthy by Deepu K Sasidharan, Julien Dubois
+https://youtu.be/NPToZd0PxbI
+
+Kubernetes Your Next Java Application Server by Burr Sutter
+https://youtu.be/T7swgJzx4a4
+
+Machine learning algorithms, choosing the correct algorithm for your problem by Joakim Lehn
+https://youtu.be/vHHKNrnNzbc
+
+Majestic Modular Monoliths by Axel Fontaine
+https://youtu.be/BOvxJaklcr0
+
+Micronaut in Action! by Iván López
+https://youtu.be/aBTMn-9PPvM
+
+OOP v̶s̶ and FP by Mario Fusco
+https://youtu.be/p6cZO5V2ehw
+
+Polyglot Persistence   Which Data Model to pick for your Workload  by  Gerald Venzl
+https://youtu.be/lg3RzaZAv0U
+
+Presentation 2 0 Five ways to engage your audience! by  Koffi Alain Sessi
+https://youtu.be/GxerMvGNAm0
+
+REST beyond the obvious   API design for ever evolving systems by Oliver Gierke
+https://youtu.be/x_9OJKAv-ic
+
+Solving a complex game with AI and all the Google Cloud power by Juantomas Garcia, Sebastián Jesús
+https://youtu.be/fDvZnJhYBp0
+
+Spearheading the future of programming Keynote by Venkat Subramaniam 4
+https://youtu.be/tsLkFeMMLuM
+
+Spring Framework 5 1 on JDK 8 & 11 by Juergen Hoeller
+https://youtu.be/I0DqdRHepks
+
+Stereoscopic Style Transfer AI   Art is not what you see by Martin Förtsch, Thomas Endres
+https://youtu.be/DZj6gYr49Mg
+
+Things I wish I knew when I started building Android Libraries Vol 2  by  Nishant Srivastava
+https://youtu.be/jQyt3HSmx2I
+
+Var with Style Local Variable Type Inference in Java 10 by  Stuart Marks
+https://youtu.be/786iemaCJHU
+
+Your GraphQL field guide by Bojan Tomić
+https://youtu.be/ROwICdehlb0
+Videos 901-925

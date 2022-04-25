@@ -1,0 +1,43 @@
+
+apply funtions in R
+https://youtu.be/qo-lSOdQHfI
+
+Bar plots using R
+https://youtu.be/8m8JuI6VDcM
+
+Control statements in R
+https://youtu.be/BrFvrw_DzJs
+
+Data structures in R 2
+https://youtu.be/Xe_T1Tt-8Fg
+
+Data structures in R 3
+https://youtu.be/tpLT8EX1uc0
+
+Data structures in R
+https://youtu.be/mW-ORfw4Jas
+
+dplyr package in R
+https://youtu.be/hwcSCjIz-A4
+
+Functions in R
+https://youtu.be/ZxN4QX4Yibc
+
+how to create user defined functions in R
+https://youtu.be/NVPMRFTGgvE
+
+Kernal Density plot
+https://youtu.be/kVuiogsefXw
+
+Line charts in R
+https://youtu.be/QVAH9UhEXDg
+
+operators in R
+https://youtu.be/W7KWze_OfSw
+
+Pie charts
+https://youtu.be/OI99WiCBdTk
+
+R studio Installation
+https://youtu.be/0Vm1s2x4KD8
+Videos 1-14

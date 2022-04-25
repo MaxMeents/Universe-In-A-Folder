@@ -1,0 +1,55 @@
+
+5 Tips To Write Efficient Queries With JPA And Hibernate
+https://youtu.be/hsJ_P-uSPpE&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+5 ways to initialize lazy associations and when to use them
+https://youtu.be/Dr5Qn6NC-3Y&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+7 Tips to improve your Hibernate performance
+https://youtu.be/F5asq8ZG_1k&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Advanced Queries How to use native queries to perform bulk updates
+https://youtu.be/sbrCxgwbzD8&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Database Migration Update your schema without a downtime
+https://youtu.be/zpM-lIRscXM&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate Best way to fetch an association defined by a subclass
+https://youtu.be/rEzwgL5jcMM&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate How to change an attribute before INSERT and UPDATE
+https://youtu.be/gmyidHyg4d8&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate Tip - How to use pagination with JPQL
+https://youtu.be/Xny3OJquWuo&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate Tip Cache preprocessed, non-persistent attributes
+https://youtu.be/_qp-cRzj7dQ&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate Tip How to fetch associations in batches
+https://youtu.be/pF7DwCOkIok&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate Tip How to lazily load one-to-one associations
+https://youtu.be/qRWhFkB1D8c&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Hibernate Tip How to log the execution time of a query
+https://youtu.be/MVtd1-8QL80&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+How to use Hibernate's 1st level cache
+https://youtu.be/0lZnBTTbmRQ&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+JPA & Hibernate Basic Annotations You Need To Know
+https://youtu.be/GKIXI_Vc28k&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+JPA & Hibernate Using the Optimal Query Approach & Projection
+https://youtu.be/IPRfz97-NqA&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+JPA 2.1 Implement bulk update and delete operations with the Criteria API
+https://youtu.be/PsqduScuH4E&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+LazyInitializationException What it is and the best way to fix it
+https://youtu.be/6p-fuwVxryg&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+
+Why you should avoid CascadeType.REMOVE for to-many associations and what to do instead
+https://youtu.be/GFy8dJNCRcY&list=PL50BZOuKafAZA8sci0_91K5m9nhAunOSG
+Hibernate Performance Tuning

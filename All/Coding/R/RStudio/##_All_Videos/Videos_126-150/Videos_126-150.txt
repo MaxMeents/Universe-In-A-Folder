@@ -1,0 +1,76 @@
+
+Damian Rodziewicz  Scaling Shiny to Thousands of Users  RStudio
+https://youtu.be/wQi1A2eJ3i8
+
+Dominik Krzemiński  Appsilon's Guide to Working With Open Source Shiny  RStudio
+https://youtu.be/85aWRVJ2Qwk
+
+Edgar Ruiz  Programación con R  RStudio (2019)
+https://youtu.be/EeLlIrqWwO4
+
+Ellis Hughes  R Package Validation Framework  RStudio
+https://youtu.be/1Bxk2wReFzE
+
+Filip Stachura & Marek Rogala  Empowering Data Scientists to Build Spectacular Shiny Apps  RStudio
+https://youtu.be/_DG4XmRl3S4
+
+Garrett Grolemund  Reproducibility in Production  RStudio (2019)
+https://youtu.be/n04FjueWmj0
+
+Harvey Lieberman  RPharma  RStudio
+https://youtu.be/3sU_ehLtQWM
+
+Jenny Bryan  Help me help you creating reproducible examples  RStudio (2018)
+https://youtu.be/5gqksthQ0cM
+
+Julia Silge  Monitoring Model Performance  RStudio
+https://youtu.be/3VJ5cIxe408
+
+Katherine Kopp  COVID vaccine distribution Shiny app walkthrough (mock data)  RStudio
+https://youtu.be/T2DzDs0ksZY
+
+Kelly O'Briant  Interactivity in Production  RStudio (2019)
+https://youtu.be/dQAyASaH-Jo
+
+Managing COVID vaccine distribution in West Virginia  RStudio
+https://youtu.be/CYilc-rEgjg
+
+Marly Gotti  Risk Assessment Tools R Validation Hub Initiatives  RStudio
+https://youtu.be/4uVQXHpNmUQ
+
+Mike Garcia  R in Pharma Intro to Shiny  RStudio
+https://youtu.be/eoeLn8SyDW8
+
+Nathan Stephens  Best Practices for Administering RStudio in Production  RStudio (2019)
+https://youtu.be/siIw5OHVR_o
+
+Nathan Stephens  Make PowerPoint Presentations with R Markdown  RStudio (2018)
+https://youtu.be/uiA3znJb4KM
+
+Olga Mierzwa-Sulima  Best Practices for Developing Shiny Apps  RStudio
+https://youtu.be/iUVyDr-TWyU
+
+Pedro Silva  Styling Shiny with CSS & SASS and Speeding Up Shiny Apps  RStudio
+https://youtu.be/a4ff4DHNpAQ
+
+Sean Lopp  RStudio Investments in Pharma  RStudio
+https://youtu.be/Vhk4YFJRenQ
+
+Tom Mock  A Gentle Introduction to Tidy Statistics in R  RStudio (2019)
+https://youtu.be/wfMAaXWHGog
+
+Tom Mock  RStudio Connect in Production  RStudio (2019)
+https://youtu.be/6TeySatiFx8
+
+Tom Mock & Shannon Haggerty  Theming Shiny and RMarkdown with {thematic} & {bslib}  RStudio
+https://youtu.be/z-uFVfsaVzc
+
+Volha Tryputsen  R in Janssen Drug Discovery Statistics  RStudio
+https://youtu.be/oT8v7a2R9lA
+
+Webinar Summary  Avoid Dashboard Fatigue  RStudio (2020)
+https://youtu.be/NVO1Qpp414s
+
+What is RStudio Connect  RStudio
+https://youtu.be/JYzabLxDdEI
+Videos 126-150

@@ -1,0 +1,37 @@
+
+An Introduction to Classification
+https://youtu.be/cwKzvK3_JLU&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Finding Optimal Path Using Optimization Toolbox
+https://youtu.be/inOshvQ_SgQ&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Introduction to Surface Fitting
+https://youtu.be/SGgqRbd_A1Q&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Iris Flower Clustering with Neural Net Clustering App
+https://youtu.be/1z5wDCubvV0&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Maglev Modeling with Neural Time Series App
+https://youtu.be/77VY10u11JI&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Nonparametric Fitting
+https://youtu.be/uDNmv17EB30&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Optimal Component Selection Using the Mixed-Integer Genetic Algorithm
+https://youtu.be/DRWuE26Y_s8&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Private video
+https://youtu.be/3jLA1k0TSH8&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Using Global Search for Optimization Problems
+https://youtu.be/rvRSi5u3XII&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Using MultiStart for Optimization Problems
+https://youtu.be/HPIVuZ23aqc&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+What is Curve Fitting Toolbox - Curve Fitting Toolbox Overview
+https://youtu.be/nEGD0JFyk1c&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+
+Wine Classification with Neural Net Pattern Recognition App
+https://youtu.be/kGv-1it8Sac&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah
+Math, Statistics, and Optimization

@@ -1,0 +1,76 @@
+
+Adding a GUI to a script Tips from a Pro!
+https://youtu.be/AU9EINktPyQ&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Adding Hotkey and HotStrings to your menus  Great undocumented tip!
+https://youtu.be/Gm6hUZaKfuk&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Amazing AutoHotkey resources cheat sheet  74 great links to AHK topics
+https://youtu.be/6sB2VFZt628&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+AutoHotkey Webinar 012018 Hour 1-Intro to GUIs
+https://youtu.be/N5KAL2BNwEE&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+AutoHotkey Webinar 012018 Hour 2-Intro to GUIs Q&A
+https://youtu.be/zgPIBB7BcwE&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Changing GUI to be editable & great fuzzy matching script Sift
+https://youtu.be/GverJBqObXw&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Creating Beautiful GUIs with AutoHotkey  HTML GUIs are amazing!
+https://youtu.be/280aiNRmh5Y&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Creating bitmaps with AutoHotkey GDI+ library and HellbentCivReborn
+https://youtu.be/qFxjIab4sAE&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Creating custom GUI controls with Hellbent
+https://youtu.be/HGNQ7zKRPq0&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Easily Compare lists  comparing sets Sets with AutoHotkey
+https://youtu.be/d00IjdTR7mc&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Easily create button images with HellBent's Button theme creator
+https://youtu.be/LDpemGzcPS8&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Examples of AutoHotkey  AutoHotkey expert  Hellbent  CivReborn
+https://youtu.be/o2npgeDI5vU&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to Create a BMP with GDIPlus and AutoHotkey
+https://youtu.be/DBSA5rZVIQg&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to easily add a GUI to your script  AutoHotkey GUIs are easy
+https://youtu.be/pgj3qjwYpKw&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to easily Apply Styles to AHK GUIs - throw some lipstick on them!
+https://youtu.be/hqdMuRK-KOw&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to easily create a Resizable GUI in AutoHotkey
+https://youtu.be/vYawLR5TtJA&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to easily create Bar Charts with AutoHotkey and the GDI library
+https://youtu.be/YaCuxGpMtmU&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to never forget your Webcam is covering the screen
+https://youtu.be/qdTbonetyEY&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+How to Notify Users with a GUI in AutoHotkey
+https://youtu.be/EdM_ERaw6Qc&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Intro to Hotkeys & HotString with Hellbent from CivReborn channel
+https://youtu.be/RkBXbb60UBU&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Nearly 13rd of our Intro to GUIs AutoHotkey Udemy course for FREE!
+https://youtu.be/oQHz1E7j4i0&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Simple ActiveX GUI tutorial drawing 1,000 images with AutoHotkey
+https://youtu.be/5m30RaCsttc&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Taking ActiveX to a new level with AutoHotkey V2 by Dimitri
+https://youtu.be/CXo0uDCUdQY&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+The Magic of ActiveX & AutoHotkey Maestrith adapts Hellbent's code
+https://youtu.be/04e5xwLAFt4&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+
+Various ways to make  Dark Themed GUIs in AutoHotkey
+https://youtu.be/bxt5JY0KQHs&list=PL3JprvrxlW27QmoK9CViGnbYb11c0NjuY
+Videos 1-25

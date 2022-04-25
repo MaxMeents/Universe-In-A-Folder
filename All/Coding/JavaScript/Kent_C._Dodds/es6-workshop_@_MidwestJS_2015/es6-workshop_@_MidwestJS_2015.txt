@@ -1,0 +1,7 @@
+
+Migrating an App to ES6 with Webpack
+https://youtu.be/a96r7Tjf0Ps&list=PLV5CVI1eNcJi1ZdXFSxR23QUeNVbauL3A
+
+The Features of ES6
+https://youtu.be/aeY6ctvsurs&list=PLV5CVI1eNcJi1ZdXFSxR23QUeNVbauL3A
+es6-workshop @ MidwestJS 2015

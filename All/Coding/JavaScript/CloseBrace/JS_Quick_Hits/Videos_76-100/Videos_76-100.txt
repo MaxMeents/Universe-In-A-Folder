@@ -1,0 +1,76 @@
+
+JS Quick Hits 100 - Strict Mode Part 2
+https://youtu.be/Wr38CwAIqA0&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 76 - MongoDB & Mongoose Part 3 - Sending Data
+https://youtu.be/1msN_7JqnlI&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 77 - MongoDB & Mongoose Part 4 - Retrieving Data
+https://youtu.be/-xK4Lskv4fo&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 78 - MongoDB & Mongoose Part 5 - Deleting Data
+https://youtu.be/FULLoKBeqyc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 79 - MongoDB & Mongoose Part 6 - Updating Data
+https://youtu.be/2zHwhfektwc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 80 - setTimeout & setInterval
+https://youtu.be/uoBAJj9_ZHQ&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 81 - Working With JSON
+https://youtu.be/PThDUVQrhgw&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 82 - Chaining Methods
+https://youtu.be/e9YZYpA2q6M&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 83 - Event Propagation Part 1 - Capturing
+https://youtu.be/BEtgP9uhFtc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 84 - Event Propagation Part 2 - Target & Bubbling
+https://youtu.be/CKUpdcJYXn8&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 85 - Event Propagation Part 3 - Cancelling
+https://youtu.be/ajMmFUfLkLY&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 86 - Memoization
+https://youtu.be/a3oWbZWklQ8&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 87 - Chaining Array Methods
+https://youtu.be/EMT-IC1mtJg&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 88 - Bracket Notation
+https://youtu.be/O7rhgmyaLQE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 89 - TypeScript Part 1
+https://youtu.be/FuVvvRAjSBQ&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 90 - TypeScript Part 2
+https://youtu.be/_MFbwFFkSqU&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 91 - TypeScript Part 3
+https://youtu.be/oHVu6FchZ3w&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 92 - TypeScript Part 4
+https://youtu.be/XaXWBISW2Lg&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 93 - TypeScript Part 5 (Wrapup)
+https://youtu.be/cpfiMrxR0rE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 94 - function.apply and function.call
+https://youtu.be/BYubpRkWhtk&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 95 - Call and Apply Part 2
+https://youtu.be/FR-U2XniyAM&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 96 - Maps vs. Objects
+https://youtu.be/XOIKgqK0JDg&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 97 - JavaScript Sets
+https://youtu.be/fmCVh3nxzaE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 98 - Weakmap and Weakset
+https://youtu.be/yxKgh02b8eI&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 99 - Strict Mode Part 1
+https://youtu.be/Y0owZB7UYpE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+Videos 76-100

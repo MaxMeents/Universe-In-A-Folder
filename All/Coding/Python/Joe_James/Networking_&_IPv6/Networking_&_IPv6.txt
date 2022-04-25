@@ -1,0 +1,13 @@
+
+IPv6 Addressing and Subnetting
+https://youtu.be/dUmhZOnz_qc&list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu
+
+IPv6 Tutorial
+https://youtu.be/iR8ve5tTWAA&list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu
+
+Network Function Virtualization (NFV)
+https://youtu.be/FrLWS0GBcRw&list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu
+
+Networking STP Spanning Tree Protocol Algorithm Tutorial
+https://youtu.be/4jXzuEu-qYE&list=PLj8W7XIvO93pqrkfbvdptcBaBBPwSiTJu
+Networking & IPv6

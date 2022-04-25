@@ -1,0 +1,76 @@
+
+Advanced React Component Patterns workshop @ PayPal (Part 1)
+https://youtu.be/SuzutbwjUp8&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Advanced React Component Patterns workshop @ PayPal (Part 2)
+https://youtu.be/ubXtOROjILU&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+AHA Programming – Kent C.  Dodds
+https://youtu.be/wuVy7rwkCfc&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Chain React 2018 Simply React by Kent C. Dodds
+https://youtu.be/M9X2qGddHkU&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Confident React - Kent C. Dodds
+https://youtu.be/zGlnlP99aFk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Contributing to Open Source on GitHub for beginners
+https://youtu.be/k6KcaMffxac&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Framework Summit 2018- Kent C Dodds, Divya Sasidharan, Isaac Mann Render Prop by Any Other Name
+https://youtu.be/pjDOJdMM2eg&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+GDG Salt Lake DevFest 2018 Why React Hooks
+https://youtu.be/zWsZcBiwgVE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Kent C  Dodds - Simply React
+https://youtu.be/AiJ8tRRH0f8&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Kent C Dodds - React Testing - ReactOttawa 2019-05-30
+https://youtu.be/-FxVK5mOewQ&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Kent C. Dodds - Managing an Open Source Project
+https://youtu.be/zCJyiBu12Jw&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Kent C. Dodds – Building The Open Source Community We Want
+https://youtu.be/OGeoH-sqePE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Modern React Workshop Hooks and Suspense (Part 1)
+https://youtu.be/xcZXS_VEJS0&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Modern React Workshop Hooks and Suspense (Part 2)
+https://youtu.be/NKAfuguroRY&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+React Hook Pitfalls - Kent C. Dodds - React Rally 2019
+https://youtu.be/VIRcX2X7EUk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+React... Suspense... (@ SLC frontend meetup)
+https://youtu.be/7LmrS2sdMlo&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Reactathon Conference Live Stream - Day Two
+https://youtu.be/pkNzU-5oDiA&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Requisite React Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds
+https://youtu.be/tO8qHlr6Wqg&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Simply React (@ OpenWest 2018)
+https://youtu.be/Q25lkYUZTMU&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Simply React (talk practice run)
+https://youtu.be/PJe8KXPw4cA&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Simply React - Kent C. Dodds (Byteconf React 2020 Keynote)
+https://youtu.be/5io81WLgXtg&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Testing React Workshop @ PayPal 2018-09 Part 1
+https://youtu.be/w6KCDFssHFA&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+Testing React Workshop @ PayPal 2018-09 Part 2
+https://youtu.be/OP2c0gs369U&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+The introduction to React you've been missing - Kent C. Dodds
+https://youtu.be/SAIdyBFHfVU&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+
+What We Can Learn About Testing From The Wheel - Kent C. Dodds (Ignite Fluent 2016)
+https://youtu.be/Da9wfQ0frGA&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+Videos 26-50

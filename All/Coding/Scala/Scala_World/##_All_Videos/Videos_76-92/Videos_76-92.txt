@@ -1,0 +1,52 @@
+
+Constraints Liberate, Liberties Constrain — Runar Bjarnason
+https://youtu.be/GqmsQeSzMdw
+
+Functional Patterns in Domain Modeling — Debasish Ghosh
+https://youtu.be/U0Rk9Knq8Vk
+
+Hands-on Dotty — Dmitry Petrashko
+https://youtu.be/aftdOFuVU1o
+
+Hands-on Typelevel Scala — George Leontiev
+https://youtu.be/h1r5yZ1XYfY
+
+Kittens Shapeless Typeclass Derivation for Cats — Miles Sabin
+https://youtu.be/fM7x2oWSM70
+
+Lawful Asynchronous Programming — Daniel Spiewak
+https://youtu.be/B0L91sW3XHw
+
+Minimizing the Slippery Surface of Failure — Jon Pretty
+https://youtu.be/26UHdZUsKkE
+
+Move Over Free Monads Make Way for Free Applicatives! — John de Goes
+https://youtu.be/H28QqxO7Ihc
+
+Practical Binary with Scodec — Michael Pilquist
+https://youtu.be/jM21a-t4JnQ
+
+Principles for Modular, Functional, Approachable Libraries — Erik Osheim
+https://youtu.be/iKyIKozv8a8
+
+Reactive Streams  Akka Streams — Mathias Doenitz & Johannes Rudolph
+https://youtu.be/6VBn9V3S2aQ
+
+Simplifying Scala Collections — Bill Venners
+https://youtu.be/UBjzbkhvYTU
+
+The Need for Async — Konrad Malawski
+https://youtu.be/TTrBzWIqdo0
+
+Things and Cothings — Paul Phillips
+https://youtu.be/gqSBM_kLJaI
+
+Type-Driven Development in Idris — Edwin Brady
+https://youtu.be/X36ye-1x_HQ
+
+Typelevel Programming 101 The Subspace of Scala — Joe Barnes
+https://youtu.be/_-J4YRI1rAw
+
+When Types are Not Enough — Lars Hupel
+https://youtu.be/NGZRBgp5G5M
+Videos 76-92

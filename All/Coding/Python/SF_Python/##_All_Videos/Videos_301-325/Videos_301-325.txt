@@ -1,0 +1,76 @@
+
+Al Sweigart, STDIO Game Jam, PyBay 2017 Lightning Talk
+https://youtu.be/bS2yRgN7Epg
+
+Alex Shepard, Deep Learning for Conservation, PyBay 2017 Lightning Talk
+https://youtu.be/MD8EwRGoS3U
+
+Brian Spiering, A Gentle Introduction to Text Classification with Deep Learning, PyBay2017
+https://youtu.be/Xgk1w0Vdx-0
+
+Brian Warner, Magic Wormhole, PyBay 2017 Lightning Talk
+https://youtu.be/YhoYq6wQEto
+
+Christopher Beacham, Python Debugging with PUDB, PyBay2017
+https://youtu.be/mbdYATn7h6Q
+
+Cynthia Lin, Opening Up to Open Source, PyBay2017
+https://youtu.be/rfdzOZkDqYk
+
+Fabio Fleitas, Effective retry techniques for working with 3rd party APIs, PyBay 2017 Lightning Talk
+https://youtu.be/iakYZH_iE1k
+
+Flavio Juvenal, Preventing headaches with linters and automated checks, PyBay2017
+https://youtu.be/mXqKaM8Ddac
+
+Henry Chen, Taking the __magic__ out of Python classes, PyBay 2017 Lightning Talk
+https://youtu.be/d3G3glxPt5g
+
+Hi from PyBay 2017 (a 3-minute documentary short)
+https://youtu.be/YRTSQ9XO9-c
+
+James Abel, latus - a Personal Cloud Storage App written in Python, PyBay2017
+https://youtu.be/Mrl7YjkOFgU
+
+John Lockwood, Modern Frontend Web Development, PyBay2017
+https://youtu.be/vEZvCuDb6jE
+
+Jouella Fabe, Best practices on debugging open source library, PyBay 2017 Lightning Talk
+https://youtu.be/nAhjroo374I
+
+Luciano Ramalho, Insight About AsyncAwait, PyBay 2017 Lightning Talk
+https://youtu.be/Cm4YH8fu_F0
+
+Meenal Pant, Predict timeline — Generating Agile SW metrics w Python, PyBay 2017 Lightning Talk
+https://youtu.be/dQiUOSCzF7M
+
+Meggie Mahnken, Getting Started with Django's Class-Based Views, PyBay2017
+https://youtu.be/S4Vzmge-jCY
+
+Natalie Sere Bryakova, Continuous Deployment with Python, PyBay2017
+https://youtu.be/ZaCV9bPQa4w
+
+Panel Discussion What is Static Typing in Python  PyBay 2017
+https://youtu.be/XkCyrLN5r2M
+
+PyBay2017 Highlights
+https://youtu.be/KmB6ODYAYUQ
+
+Ravi Chityala, Before deep learning, PyBay2017
+https://youtu.be/42_kYdR3q-s
+
+Raymond Hettinger, Keynote on Concurrency, PyBay 2017
+https://youtu.be/9zinZmE3Ogk
+
+Riley Patterson, Performant Asynchronous Programming at Quora, PyBay2017
+https://youtu.be/0iqibyfxw3w
+
+Rishi Gupta, Growing an Open Source Community from 1 to 300, PyBay 2017 Lightning Talk
+https://youtu.be/lXFO2ULktEI
+
+Robert Bolin, Lost Federal Technical Reports, PyBay 2017 Lightning Talk
+https://youtu.be/4n1WPSYDCyE
+
+Sourabh Bajaj, Big data processing with Apache Beam, PyBay2107
+https://youtu.be/z2nEOPz30so
+Videos 301-325

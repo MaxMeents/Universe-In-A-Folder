@@ -1,0 +1,76 @@
+
+Documenting DAX Code by Adding Comments  Single and Multi Line Comments
+https://youtu.be/tPjkeSCGC20&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Excel’s countif sumif and averageif in Power BI
+https://youtu.be/q7NH_uzkWJ4&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Excel’s countifs sumifs and avergaeifs in power bi
+https://youtu.be/Si364zvD1Yc&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Exporting a Power BI Report or Dashboard into PDF Document
+https://youtu.be/X9s1J_pfSjY&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Exporting Power BI Report or Dashboard into PowerPoint
+https://youtu.be/bkmWLijOeM0&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Format the DAX Code to Clean and Easily Read It
+https://youtu.be/XwclWwqj6tk&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Group By DAX FunctionTo Create New Grouped Tables in Power BI
+https://youtu.be/OcSh_qcTc9k&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Conditionally Create New Table in Power BI using DAX Function
+https://youtu.be/6OqXv3t9tN8&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Create a Custom Power BI Table using in built create table feature
+https://youtu.be/FL0yDE-VLP4&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Create a measure table in power bi to keep all measures at one place
+https://youtu.be/GWEi-HczFyk&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Create a New Summarized Table from Existing Table in Power BI
+https://youtu.be/-q-k3r_mNkE&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Find Unique and Duplicate Values Count in Power BI Based on Multiple Conditions
+https://youtu.be/DMHNGfcHzZ8&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+How to Summarize Values in Power BI Regardless of Filter using DAX Function AllExcept
+https://youtu.be/KQq988-_Cyg&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI Dashboard Design Project Tutorial for Visualizing HR Diversity
+https://youtu.be/eshO9EDgvDw&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI Dashboard for Twitter for Analyzing Tweets  Design  Idea  Project
+https://youtu.be/A8bTMHIOnzE&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI DAX Formula on How to find best selling product Name and display it in visualization
+
+
+Power BI DAX Function To Find Unique or Duplicate Values in Power BI
+https://youtu.be/0oXThzJLkWg&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI DAX Shortcuts to Increase Productivity
+https://youtu.be/8FEfmdPoqNM&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI KPI Dashboard Design for Financial Complaints
+https://youtu.be/YU3Gd2fX1Ac&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Power BI KPI Dashboard Project for HR Analytics
+https://youtu.be/KYP3jWq5w0o&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Understanding Workspace in Power BI to Publish Workbooks and Datasets
+https://youtu.be/N-g-hHAbI9o&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Using Power BI Variables for Debugging or Testing DAX Code
+https://youtu.be/5h8E5mmcoNg&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+Variables in Power BI to Manage DAX Code
+https://youtu.be/oHPCBAYoX90&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+[DAX] How to Create a new table from existing table in Power BI with Distinct Values
+https://youtu.be/R3oTbCQu8RE&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+
+[Power BI] How to Calculate the Sales Value of Best Selling Product using DAX
+https://youtu.be/y6EEI9lVbR8&list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+Videos 151-175

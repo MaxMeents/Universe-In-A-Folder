@@ -1,0 +1,76 @@
+
+arrays vs Pseudo arrays and using a dynamic variable
+https://youtu.be/tKGiTu6igcY
+
+Auto bolder- Quickly change the format of what you click  select
+https://youtu.be/g2u9_6oEdw8
+
+AutoHotkey Webinar 052021 Hour 1
+https://youtu.be/fMJ1kE4ZNGM
+
+AutoHotkey Webinar 052021 Hour 2
+https://youtu.be/6wj6-ClFYy8
+
+Easily rename many files with Multi-Rename Script in AutoHotkey
+https://youtu.be/dlWeFhPOnDE
+
+Fiddler Everywhere Tutorial & Web scraping verse API calls
+https://youtu.be/-T7mchDw9Ro
+
+Free Random Code Generator built in AutoHotkey
+https://youtu.be/2xpBl69VtIY
+
+GUIs and Complexity in your code
+https://youtu.be/1MgYu-Bwcrc
+
+How to Compile an AutoHotkey script
+https://youtu.be/gBVLo4-a6Hk
+
+how to save a ton of time!
+https://youtu.be/9KR22JOK8yY
+
+IE Locking up & AutoHotkey's single threaded issue
+https://youtu.be/4kcZkcLnzsI
+
+Is AutoHotkey Safe- How to evaluate an AutoHotkey Script
+https://youtu.be/RaAD1kNMZCo
+
+Joe and Isaias discussing how AutoHotkey rocks!  Wrapping the win32 API
+https://youtu.be/tRQNV99B2KM
+
+Overview of Quick Access Popup- Great Windows Utility for saving time
+https://youtu.be/N642rlnfdnc
+
+pathway of a programmer What you learn and when
+https://youtu.be/EA_437rLIdU
+
+Sorting text by length of the string with the AutoHotkey Sort command
+https://youtu.be/ZPc2WwVXp24
+
+storing data in Objects and Objects updating
+https://youtu.be/6bjYU25hjg4
+
+the Automator's Podcast #100 Why macros aren't so popular anymore
+https://youtu.be/uFH60vrfSYE
+
+the Automators' Podcast #99  5 steps a process goes through before being automated.
+https://youtu.be/aaYo76uWpO8
+
+the Naked Clipboard Adding a GUI to Paste Plain Text AutoHotkey script
+https://youtu.be/DK3xWHkUNi4
+
+the-Automator's Chat  Improving how work is split-up between people
+https://youtu.be/qFc1FMLHJAY
+
+the-Automators' Podcast #98 6 simple steps to automating your process
+https://youtu.be/xknLv1df0lk
+
+Using ExecWB command and following the MSDN Help
+https://youtu.be/EGeXdlpnl6g
+
+VSCode & GIT integration  Version control & comparing files
+https://youtu.be/Lp3GABWmS1c
+
+Windows Management Instrumentation (WMI) and AutoHotkey
+https://youtu.be/K-OvdFEgMhQ
+Videos 226-250

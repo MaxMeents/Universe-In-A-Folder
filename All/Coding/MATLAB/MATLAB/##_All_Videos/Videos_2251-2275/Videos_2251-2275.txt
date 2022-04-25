@@ -1,0 +1,76 @@
+
+Adding MATLAB Report Components
+https://youtu.be/8yi4dO6wx6A
+
+Archival of a Simulink Project
+https://youtu.be/doYSijn4cH0
+
+Comparing Differences Between Simulink Model File Revisions
+https://youtu.be/iP6vga37Rmw
+
+Finding Optimal Path Using Optimization Toolbox
+https://youtu.be/inOshvQ_SgQ
+
+Getting Started with Fuzzy Logic Toolbox (Part 2)
+https://youtu.be/wBrHEXkTero
+
+Getting Started with Fuzzy Logic Toolbox (Part 3)
+https://youtu.be/LupUhRJo_sU
+
+Getting Started with MATLAB R2012b
+https://youtu.be/tqjZ80PwqBU
+
+Getting Started with Portfolio Optimization in MATLAB R2013a
+https://youtu.be/WooDGREhisU
+
+Getting Started with SimBiology in MATLAB R2012a
+https://youtu.be/Krzn4IYMmMY
+
+How to Create a Basic Plot Interactively in MATLAB R2012b
+https://youtu.be/Xtxxq024Fbg
+
+Importing Spreadsheets into MATLAB
+https://youtu.be/WT8PUVYitM8
+
+Introducing MATLAB Fundamental Classes (Data Types)
+https://youtu.be/frT7Al8XmPQ
+
+Introducing Structures and Cell Arrays
+https://youtu.be/ZK0ig6NozqU
+
+Optimal Component Selection Using the Mixed-Integer Genetic Algorithm
+https://youtu.be/DRWuE26Y_s8
+
+Packaging and Installing MATLAB Apps
+https://youtu.be/e_3zLQOial8
+
+Publishing MATLAB Code from the Editor
+https://youtu.be/CWgl5Ylltxk
+
+Retrieving Simulink Projects from a Source Control Repository
+https://youtu.be/F-_LNQ3wWQQ
+
+Running Batch Jobs
+https://youtu.be/gfN1sVfD34s
+
+Simulink Projects for Large Scale Modeling
+https://youtu.be/8n7aWcLHZ7s
+
+Using Basic Plotting Functions in MATLAB R2013a
+https://youtu.be/g4Eh3iqq6ZQ
+
+Using MATLAB and Simulink Student Version in Your Courses
+https://youtu.be/nqRAR3WeL8c
+
+What Is MATLAB - Previous Release
+https://youtu.be/ROonhizDeFQ
+
+Working with Arrays in MATLAB
+https://youtu.be/q8lUOI0uqTo
+
+Working with MATLAB Report Components
+https://youtu.be/PKNLMFISOi8
+
+Writing a MATLAB Program - R2012b
+https://youtu.be/pRsGM7H91VY
+Videos 2251-2275

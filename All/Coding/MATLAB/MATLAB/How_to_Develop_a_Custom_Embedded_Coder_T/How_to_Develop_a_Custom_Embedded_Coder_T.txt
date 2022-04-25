@@ -1,0 +1,25 @@
+
+Custom Target Development for ARM Cortex A, Part 1 Overview
+https://youtu.be/cg238caUd8c&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 2 Register Target
+https://youtu.be/Bt2W2-r5sm0&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 3 Application Deployment Feature
+https://youtu.be/7j6RwdoI66s&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 4 Scheduler Feature
+https://youtu.be/c-hGQnEfesk&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 5 Processor In the Loop PIL Feature
+https://youtu.be/xwcdV621rwc&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 6 External Mode Feature
+https://youtu.be/QUHN8kpy5LU&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 7 Code Optimizations
+https://youtu.be/-iT1fUrcr4w&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+
+Custom Target Development for ARM Cortex A, Part 8 Overview of Profiling Capabilities
+https://youtu.be/DZ273zznDyA&list=PLn8PRpmsu08o7vKbsLr5wRt9YmZj0m-ZH
+How to Develop a Custom Embedded Coder Target for an ARM Cortex A-Based Hardware Platform

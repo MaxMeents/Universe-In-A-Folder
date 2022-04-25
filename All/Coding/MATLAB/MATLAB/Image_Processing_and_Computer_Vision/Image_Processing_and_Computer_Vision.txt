@@ -1,0 +1,10 @@
+
+Feature Detection, Extraction, and Matching with RANSAC
+https://youtu.be/QDiheqzZv4s&list=PLn8PRpmsu08pYBFeJnP6OgLqx2lkX-JQX
+
+Medical Imaging Analysis and Visualization
+https://youtu.be/hI51xJ0qxSk&list=PLn8PRpmsu08pYBFeJnP6OgLqx2lkX-JQX
+
+Video Processing in MATLAB
+https://youtu.be/15v_9VJa020&list=PLn8PRpmsu08pYBFeJnP6OgLqx2lkX-JQX
+Image Processing and Computer Vision

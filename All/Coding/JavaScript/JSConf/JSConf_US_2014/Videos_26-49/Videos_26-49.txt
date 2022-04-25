@@ -1,0 +1,73 @@
+
+Angelina Fabbro Improving 2D & 3D Canvas Performance on the Web, One Frame at a Time [JSConf2014]
+https://youtu.be/NG5uDXCOr8s&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Ben Newman Yield Ahead Regenerator in Depth [JSConf2014]
+https://youtu.be/MC9Q9L2ujOA&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Christopher Chedeau Why does React Scale [JSConf2014]
+https://youtu.be/D-ioDiacTm8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Dan Silvestru Distributed Complex Computing Using Node.js [JSConf2014]
+https://youtu.be/V3mPEnBa8D0&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+David Catuhe Unleash 3D games with Babylon.js [JSConf2014]
+https://youtu.be/8qiLVKGobRE&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Edward Kim Engineers as Makers, Not Order Takers [JSConf2014]
+https://youtu.be/CxSiwimIf6s&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Guy Bedford Package Management for ES6 Modules [JSConf2014]
+https://youtu.be/szJjsduHBQQ&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Jake Verbaten NPM-style Frontend [JSConf2014]
+https://youtu.be/8w0_Xw7PPFQ&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Jeff Morrison JavaScript Unit Testing with Jest [JSConf2014]
+https://youtu.be/5ZEloUxx0FM&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+John Hann Introducing RaveJS - Zero-config JavaScript applications [JSConf2014]
+https://youtu.be/4XX9pAPBjA8&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+John Riviello The Truth About Your Web App's Performance [JSConf2014]
+https://youtu.be/0dBU6leL0Og&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Jordan Matthiesen Modern mobile app tool-chains [JSConf2014]
+https://youtu.be/adLlCFbz49w&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Josh McClain Black Magic APIs [JSConf2014]
+https://youtu.be/2nQMwvW4buU&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Kate Hudson Contributors Wanted Encouraging Diversity in Your Open Source Project [JSConf2014]
+https://youtu.be/xcRakXhQP2Q&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Kyle Lambert Make It Pop Visual Design Simplified [JSConf2014]
+https://youtu.be/OlWat9zmnHw&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Matt Robenolt Everything is broken, and I don't know why! [JSConf2014]
+https://youtu.be/e4eE5VeO1_o&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Matthew Bergman Health Myths We Tell Ourselves in Tech [JSConf2014]
+https://youtu.be/tt8jjB5gyV4&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Matthew Whittemore Social Tables Swaziland [JSConf2014]
+https://youtu.be/4JACepji9kI&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Oytun Sengul Architecture of Cross-Platform Native App Development [JSConf2014]
+https://youtu.be/WbIsjGHK0oQ&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Poornima Venkatakrishnan Template Specialization with Express Apps [JSConf2014]
+https://youtu.be/x6M4l_zNiFI&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Raquel Velez & Friends NodeBots LIVE! [JSConf2014]
+https://youtu.be/QbfYUa-u8YI&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Ron Evans Cylon.js The JavaScript Evolution Of Open Source Robotics [JSConf2014]
+https://youtu.be/bnFWskconEg&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Tomasz Janczuk On the edge of Node.js and CLR [JSConf2014]
+https://youtu.be/2RevdtDs6tU&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+
+Zach Carter Armchair Type Theory [JSConf2014]
+https://youtu.be/Y3PyAaTgX_0&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN
+Videos 26-49

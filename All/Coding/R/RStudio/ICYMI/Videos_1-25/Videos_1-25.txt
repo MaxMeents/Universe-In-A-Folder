@@ -1,0 +1,76 @@
+
+A quick tour of RStudio 1.4  RStudio
+https://youtu.be/SdMPh5uphO0&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Alex Gold  Managing Packages for Open Source Data Science  RStudio
+https://youtu.be/OGMLpioGmog&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Alison Hill & Desirée De Leon  How to Get Your Materials Online With R Markdown  RStudio (2020)
+https://youtu.be/QcE4RBH2auQ&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Barret Schloerke  Maximize computing resources using future_promise()  RStudio
+https://youtu.be/3gtk8uRrrL4&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Barret Schloerke  {reactlog} Rundown  RStudio
+https://youtu.be/slXcW99ftk4&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Carson Sievert  Custom Theming with {bslib} in Shiny and R Markdown using bs_theme()  RStudio
+https://youtu.be/WisrcQ89igY&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Carson Sievert  Customizing Navigation Items in Shiny using {bslib}  RStudio
+https://youtu.be/VNbab8bro2c&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Carson Sievert  Developing Shiny Custom Themes in Real Time Using {bslib} RStudio
+https://youtu.be/8fNWpCt3xo4&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Carson Sievert  Using tagQuery() from {htmltools} to modify HTML snippets in R  RStudio
+https://youtu.be/jVh05izjHMI&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+James Blair  Getting Started with {plumbertableau}  RStudio
+https://youtu.be/7IZDfl-h1rI&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Lou Bajuk & Kevin Bolger  Why Data Science in the Cloud  RStudio (2020)
+https://youtu.be/rtGrMPwvWf0&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Lou Bajuk & Sean Lopp  RStudio A Single Home for R & Python RStudio
+https://youtu.be/0Ty4y3ZYA1M&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Mine Çetinkaya-Rundel  Teaching R online with RStudio Cloud  RStudio (2020)
+https://youtu.be/Fja5DIN3uTw&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Nick Strayer  Part IV Styling a Shiny Wordle App with CSS  RStudio
+https://youtu.be/4_tX4IUDJZ0&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Panel  Debunking the R vs. Python Myth  RStudio (2020)
+https://youtu.be/6mp-BWPnqK4&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Pim Bongaerts  Using data science to help save coral reefs  RStudio (2020)
+https://youtu.be/XlEdUNRnoTg&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Programming Games with Shiny  Dragon Realm  RStudio
+https://youtu.be/sD39WAZo99A&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Rich Iannone  Making Beautiful Tables with {gt}  RStudio
+https://youtu.be/z0UGmMOxl-c&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Rich Iannone  {gt} Intendo Game Data Project Walkthrough  RStudio
+https://youtu.be/aPRVzk9pvno&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Sean Lopp & Lou Bajuk  R & Python A Data Science Love Story  RStudio (2020)
+https://youtu.be/_50yZxOome4&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+To Our Community Thank You  RStudio Open Source (2021)
+https://youtu.be/gVsDXNvtah8&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Webinar Summary  Avoid Dashboard Fatigue  RStudio (2020)
+https://youtu.be/NVO1Qpp414s&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Winston Chang  Part I Build a Basic Wordle App with Shiny  RStudio
+https://youtu.be/quvz4xLbW88&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Winston Chang  Part II Handling Duplicate Letters in a Shiny Wordle App  RStudio
+https://youtu.be/01VOq_GMEAA&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+
+Winston Chang  Part III Adding a Keyboard to a Wordle Shiny App  RStudio
+https://youtu.be/v3jHh-IKXLc&list=PL9HYL-VRX0oRIMV5S3CkPIttskNqIwbLt
+Videos 1-25

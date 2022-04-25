@@ -1,0 +1,76 @@
+
+Adriana Vasiu - Cutting-edge APIs using hypermedia at BSkyB
+https://youtu.be/6vp8Hjx173E&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Alex Brasetvik - Elasticsearch from the bottom up
+https://youtu.be/LDyxijDEqj4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Austin Bingham - Python refactoring with Rope and Traad
+https://youtu.be/ZPONLdNkLl4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Chesnay Schepler - Big Data Analytics with Python using Stratosphere
+https://youtu.be/4ldJAZRsFv8&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Deni Bertovic - Supercharge your development environment using Docker
+https://youtu.be/e4SK_g5r6ig&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Dmitry Trofimov - Python Debugger Uncovered
+https://youtu.be/YIhGbFW985c&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Domen Kožar - Rethinking packaging, development and deployment
+https://youtu.be/7-mh2JdshEE&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Erik van Zijst - The inner guts of Bitbucket
+https://youtu.be/iruHbfrI1IA&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Felix WickFlorian Wilhelm - How to Setup a new Python Project
+https://youtu.be/r8Rqp2w_kHk&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Francesc Alted - Out-of-Core Columnar Datasets
+https://youtu.be/kLP83HZvbfQ&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+juliass - Multiplatform binary packaging and distribution of your client apps
+https://youtu.be/tKXpMVQIH2Y&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Julie Pichon - I want to help! How to make your first contribution to open-source.
+https://youtu.be/x78LukPdwiM&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Mark Smith - Writing Awesome Command-Line Programs in Python
+https://youtu.be/CJ7-SroGtZ8&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Matt - Full Stack Python
+https://youtu.be/p3jedMvNkM0&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Michael König - Embedding Python Charming the Snake with C++
+https://youtu.be/ffdsIcD2Yps&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Nicholas Tollerveyholger krekel - The Return of The Return of Peer to Peer Computing.
+https://youtu.be/mp394EtSOJU&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Nicola Iarocci - Eve - REST APIs for Humans™
+https://youtu.be/sM1TX3arQTA&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Peter Hoffmann - log everything with logstash and elasticsearch
+https://youtu.be/pSGhdgJefAI&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Piotr Przymus  - Everything You Always Wanted to Know About Memory in Python But Were Afraid to Ask
+https://youtu.be/YELZFKIDGEE&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Prashant Agrawal - Jigna a seamless Python-JS bridge to create rich HTML UIs for Python apps
+https://youtu.be/d403gvJ4mOs&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Schlomo Schapiro - DevOps Risk Mitigation Test Driven Infrastructure
+https://youtu.be/Rm2P6DB6-nU&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+ssc - Event discrete simulation with SimPy
+https://youtu.be/WHhJJxakIO4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Stefanie Lück - RISCy Business Development of a RNAi design and off-target prediction software
+https://youtu.be/1s5f4VzCxcs&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Tom Christie - Documenting your project with MkDocs.
+https://youtu.be/MMKsDtCN6G4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+valentin - Compress Me, Stupid!
+https://youtu.be/-kuobN7d1eU&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+Videos 76-100

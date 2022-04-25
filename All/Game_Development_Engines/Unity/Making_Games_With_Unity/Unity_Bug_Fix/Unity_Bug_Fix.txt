@@ -1,0 +1,4 @@
+
+Fix for TextMeshPro Color Not Working - Unity Bug Fix #01
+https://youtu.be/wo9T1qwcRdI&list=PLWpuujpCaAv58wruMeLBNH6eQA4njAJ-P
+Unity Bug Fix

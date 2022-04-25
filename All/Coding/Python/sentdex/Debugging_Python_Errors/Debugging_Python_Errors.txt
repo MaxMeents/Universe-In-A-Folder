@@ -1,0 +1,22 @@
+
+AttributeError 'module' object has no attribute and ImportError No module named Python
+https://youtu.be/YN41mEsTJdo&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+
+ImportError DLL load failed %1 is not a valid Win32 application - Python Debugging
+https://youtu.be/fGuHMVAruAE&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+
+NameError  name 'x' is not defined Python NameError
+https://youtu.be/MayyqP4owX4&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+
+OverflowError math range error Python Error Debugging
+https://youtu.be/JP53VOhJK4I&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+
+Python Solving ValueError Too many values to unpack
+https://youtu.be/p2BwrdjlsW4&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+
+UnboundLocalError local variable 'x' referenced before assignment - Python Debugging
+https://youtu.be/7-uqSb83BTg&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+
+ZeroDivisionError integer division or modulo by zero Python Debugging
+https://youtu.be/xlHUrHOiehQ&list=PLQVvvaa0QuDdVO64ySyDjjZ_GtHhzXbaK
+Debugging Python Errors

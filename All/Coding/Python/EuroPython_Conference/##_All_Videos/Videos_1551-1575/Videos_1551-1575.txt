@@ -1,0 +1,76 @@
+
+A Deep-Dive Into Python Classes
+https://youtu.be/7IIxc4yNo6M
+
+Building a Scientific Software Application with the Enthought Tool Suite
+https://youtu.be/N_1EIkfQbv4
+
+django-rdflib and postgresql - the best of both worlds
+https://youtu.be/zP7p_wbOjbw
+
+django-rdflib e postgresql - il meglio dei due mondi
+https://youtu.be/ujP5LiQdgyI
+
+Emulating Stackless and greenlet with each other
+https://youtu.be/rR0EZhe_UZk
+
+Introduction to Python Database Programming
+https://youtu.be/43lq4qZDEOE
+
+plac more than just another command-line arguments parser
+https://youtu.be/vM9DUUz7Fa8
+
+Sfrutta la potenza della GPU con PyCUDA (e compagni)
+https://youtu.be/5XjxTBgETfU
+
+Spatial data and GeoDjango
+https://youtu.be/wWzc-gn8IOU
+
+Spotify and Python love at first sight
+https://youtu.be/GZ9DzDJCe90
+
+Spotify Horizontal scalability for great success
+https://youtu.be/BBAfIYpDMX4
+
+Sqlkit empowering database access
+https://youtu.be/7oWykWu_5z4
+
+sqlmap - security development in Python
+https://youtu.be/1E4GPmuLs9k
+
+The Art of Subclassing
+https://youtu.be/yrboy25WKGo
+
+The development process of Python
+https://youtu.be/JuH4ZpoZBYM
+
+The London Python Code Dojo - an Education in Developer Education
+https://youtu.be/qpTAKS2jqZE
+
+The Myth of the Genius Programmer
+https://youtu.be/IY96mgfZ_TM
+
+The political implications of having fun (while programming open source)
+https://youtu.be/B5V7fWST3H0
+
+Ubuntu and the opportunistic programming
+https://youtu.be/3iqlzW8C3gw
+
+Using Storm to work with SQL databases
+https://youtu.be/JC5QqVWA8Vo
+
+uWSGI, il coltellino svizzero (di MacGyver) del deploy
+https://youtu.be/E5POYrUawW8
+
+Visualization and Analysis of Large Scale Datasets with Python
+https://youtu.be/4fHnMecFIyw
+
+What is Google App Engine
+https://youtu.be/tT7nNx6ahhA
+
+What makes Python so AWESOME
+https://youtu.be/U1r2nsd5wsQ
+
+Writing Books using Python & Open Source Software
+https://youtu.be/1QTMeb9m_lE
+Videos 1551-1575

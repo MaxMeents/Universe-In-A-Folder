@@ -1,0 +1,76 @@
+
+Art, Code, and Crunching Q&A
+https://youtu.be/sVfj1eOD5Bs
+
+Building WebGL games with Rocco from simmer.io
+https://youtu.be/chWzd-THPT0
+
+BUSTED! When you realize you're an imposter! - Unity GameDev devlog
+https://youtu.be/sgvVZvqHB1g
+
+Code Smells - 'Switches' in Unity3d  C# Architecture
+https://youtu.be/nqAHJmpWLBg
+
+Everything you need to know about Testing In Unity3D (even if you've never written a unit test)
+https://youtu.be/qCghhGLUa-Y
+
+Fixing big classes in Unity3D
+https://youtu.be/bU0TE88hv-A
+
+Game Dev vs building Business Apps- Q&A
+https://youtu.be/gCJDRLYZkvQ
+
+How I lost weight as a lazy game developer
+https://youtu.be/5Sd5g0waPjM
+
+How to Keep your wife around for 18 yrs (relationship advice from a game programmer)
+https://youtu.be/ozi8CQNXpQQ
+
+How to lose a AAA game development job in only 3 weeks - unity devlog
+https://youtu.be/WsGbnfOHI_g
+
+How to Spawn Objects anywhere in Unity3D (and a bit of addressables)
+https://youtu.be/Zb9WchxZhvM
+
+How to use Singletons in Unity3D without breaking everything...
+https://youtu.be/ptkxRn0HCJc
+
+How Unity3D Addressables make assetbundles easy and your project faster
+https://youtu.be/uNpBS0LPhaU
+
+Interesting ways you should use collections in your Unity3d game development - fixed audio
+https://youtu.be/CymKpDuHJ0E
+
+Moving in Unity3D w FixedUpdate vs Update - Unity Physics and Movement For beginners
+https://youtu.be/MfIsp28TYAQ
+
+Multistreaming with Restream.io
+https://youtu.be/6uVuzPoRA1Q
+
+Name the Knight, Building Games, Indie vs AAA Job experiences! - Q&A
+https://youtu.be/rNMmekasL3s
+
+Prototyping Perry PunKin - Unity3D Game Dev Process
+https://youtu.be/3rYekhuWF_k
+
+The advice that MADE ME a BETTER unity3d  c# programmer
+https://youtu.be/Uix9D-J2vQQ
+
+The Best Tips for learning new game dev skills - for unity3d beginners and pros
+https://youtu.be/v7WY_w5B3mc
+
+Unit Testing in Unity - Livestream
+https://youtu.be/I67D0JtVmAo
+
+Unity3D Clean Code with Jason & Charles - Q&A
+https://youtu.be/lLpCPpskMwY
+
+Unity3D Development - Clean Code with Charles & Jason - Q&A
+https://youtu.be/ex2zeRQlbKU
+
+Unity3D Game Development and Narcisists - Q&A
+https://youtu.be/ldbdbebdAKw
+
+Unity3D Physics - Rigidbodies, Colliders, Triggers
+https://youtu.be/dLYTwDQmjdo
+Videos 226-250

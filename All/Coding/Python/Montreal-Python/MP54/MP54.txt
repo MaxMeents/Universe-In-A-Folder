@@ -1,0 +1,16 @@
+
+CEPH - A Simple Understanding #MP54
+https://youtu.be/pn-cud8Ek8w&list=PLQIcnBElABavpA01XAkcOBxiuK_4M4UTu
+
+Chorogrid - A Python Module For Vector Choropleth Mapping #MP54
+https://youtu.be/LTkhSNvzfgA&list=PLQIcnBElABavpA01XAkcOBxiuK_4M4UTu
+
+Le mystère des tests unitaires #MP54
+https://youtu.be/2ESMfyswuV8&list=PLQIcnBElABavpA01XAkcOBxiuK_4M4UTu
+
+PuDB, the IDE debugger without an IDE! #MP54
+https://youtu.be/IEXx-AQLOBk&list=PLQIcnBElABavpA01XAkcOBxiuK_4M4UTu
+
+Python et PostgreSQL, un mariage merveilleux #MP54
+https://youtu.be/zVoihPQhfdc&list=PLQIcnBElABavpA01XAkcOBxiuK_4M4UTu
+MP54

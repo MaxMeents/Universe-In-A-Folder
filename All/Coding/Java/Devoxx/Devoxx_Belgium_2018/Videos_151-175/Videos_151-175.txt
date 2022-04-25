@@ -1,0 +1,76 @@
+
+9 Steps to Awesome with Kubernetes by Burr Sutter
+https://youtu.be/ZpbXSdzp_vo&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+A Dozen Ways to Hack Your Brain to Write Fluently by Dan Allen
+https://youtu.be/HRa3bbaUpSc&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Beyond Kubernetes by Ray Tsang, Eric Bottard
+https://youtu.be/HEWb1IWqT30&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Crypto currency, data mining and machine learning, wining combo  by Pierre Paci, Antoine Detante
+https://youtu.be/cS57If6eXMQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Deep dive into using GraalVM for Java and JavaScript developers by Oleg Šelajev, Thomas Wuerthinger
+https://youtu.be/a-XEZobXspo&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Dude, Where's My Build Android CI CD at Uber by Gautam Korlam
+https://youtu.be/ibvynmakz50&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Exploring Java Heap Dumps Java Language label Ryan Cuprak
+https://youtu.be/9Cnm2lFBe0I&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Firebase ML Kit  Machine Learning made easy by Harshit Dwivedi
+https://youtu.be/AJ18RqGJ6js&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Functional Exception Handling in Java with Vavr by Grzegorz Piwowarek
+https://youtu.be/pPy-ETY8a-E&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Functional Programming in Java   When, Why and How by Alasdair Collinson
+https://youtu.be/plZYp2fLUVY&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Google Serverless  Cloud Functions and beyond by Alexis Moussine Pouchkine
+https://youtu.be/eVoUkB0s1VY&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+GraphQL SPQR The fastest route to GraphQL by Bojan Tomić
+https://youtu.be/iyt7PwkUWQA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Implementing Microservices Security Patterns & Protocols  by Joe Grandja, Adib Saikali
+https://youtu.be/nrmQH5SqraA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Java Streams vs  Reactive Streams Which, When, How, and Why by Venkat Subramaniam
+https://youtu.be/kG2SEcl1aMM&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Lambdas and Streams Master Class Part 1 José Paumard, Stuart Marks voxxed
+https://youtu.be/ePXnCezwRuw&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Lambdas and Streams Master Class Part 2 by José Paumard, Stuart Marks
+https://youtu.be/2c_KNH3s2S0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Life of a packet through Istio by Matt Turner
+https://youtu.be/cB611FtjHcQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Madpig measure and deepen performance in go by Valentin Deleplace
+https://youtu.be/dCXZx_yEilE&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Power of cloud dev environments for your legacy projects by Stéphane Tournié, Etienne Vrignaud
+https://youtu.be/UPwRgjrDRrw&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Progressive Web Apps in action! by Guillaume Soldera, Fedi Salah
+https://youtu.be/dBLl82M3J7I&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Selenium Tests the Object Oriented Way by Corina Pip
+https://youtu.be/cAFk26WQBk8&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Server-less functions with Micronaut by Alvaro Sanchez-Mariscal
+https://youtu.be/0xnsbelwJQQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+The Silence of the Lambs Inspecting Source Code and Binaries by Michael Hüttermann
+https://youtu.be/meC-u84o0xU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Tracing performance of your service calls with some help of Sleuth, Zipkin & ELK by Rafaëla Breed
+https://youtu.be/3niDsBTci9M&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Traefik A Scalable and Highly Available Edge Router by Damien Duportalt
+https://youtu.be/AqiGcLsVMeI&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+Videos 151-175

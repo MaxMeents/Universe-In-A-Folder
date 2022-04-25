@@ -1,0 +1,7 @@
+
+Access phpMyAdmin and create a new database
+https://youtu.be/-J5wYrsbf2E&list=PLFbnPuoQkKsesFDS9f2sk6sgaHqt-jqb8
+
+phpMyAdmin Add a new user account and grant access to a database
+https://youtu.be/yatPYO-rh4M&list=PLFbnPuoQkKsesFDS9f2sk6sgaHqt-jqb8
+phpMyAdmin

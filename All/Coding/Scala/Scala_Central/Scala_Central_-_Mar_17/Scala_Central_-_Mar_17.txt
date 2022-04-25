@@ -1,0 +1,10 @@
+
+[Scala Central] Danielle Ashley - SBT Plugins How and Why
+https://youtu.be/adKT7doSEAA&list=PLKh1qHtBk9VTrFhx1fzl1Rj__NSO8fQVu
+
+[Scala Central] Paul Roberts - Scala Macros
+https://youtu.be/8ryhJOE1m30&list=PLKh1qHtBk9VTrFhx1fzl1Rj__NSO8fQVu
+
+[Scala Central] Thomas Kaliakos - Detecting Abusive Comments
+https://youtu.be/y4BS814PA54&list=PLKh1qHtBk9VTrFhx1fzl1Rj__NSO8fQVu
+Scala Central - Mar 17

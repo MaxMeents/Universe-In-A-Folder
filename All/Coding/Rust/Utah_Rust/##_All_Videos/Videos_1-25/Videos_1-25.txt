@@ -1,0 +1,76 @@
+
+(pre-meeting chit-chat) Mob Programming Add `--tree -d` to `lsd` - Dec 10, 2020 - Utah Rust
+https://youtu.be/2XNPqj-g5VY
+
+All the Concurrency Models of the Rainbow - August 12, 2021 - Utah Rust
+https://youtu.be/BZ6FcZnIHa0
+
+Async Messaging for IoT with Enoch Carter - June 11, 2021
+https://youtu.be/KlhUr02T9-Q
+
+Blue Pill (STM32) Rust Workshop Part 2 - Tooling Setup
+https://youtu.be/2tGSJpbZVS8
+
+Blue Pill (STM32) Rust Workshop Part 3 - Cargo Embed Hello World
+https://youtu.be/763-Nz7JsAQ
+
+Blue Pill (STM32) Rust Workshop Part 4 - Breadboard & Soldering Tips
+https://youtu.be/on1nD6lmgu4
+
+Blue Pill (STM32) Rust Workshop Part 5 - Soldering the Pin Rails
+https://youtu.be/4RQdpOYIMJI
+
+Discussion w Rust for Rustaceans author Jon Gjengset (Starts at 1406) - Utah Rust - Jan 13, 2022
+https://youtu.be/4xxwCgj1PiA
+
+Error Handling with Michael Harding - May 13, 2021 - Utah Rust Live Stream
+https://youtu.be/sNXngI4ZHoA
+
+Fearless Concurrency No Matter The Paradigm w Mike Edlinger - Dec 09, 2021 (DESC for better audio)
+https://youtu.be/0M0-ce6BwPc
+
+From Go to Rust with Miriah Peterson - July 8th, 2021
+https://youtu.be/tL6vpcC883E
+
+Fun with Closures - Utah Rust - Nov 11, 2021
+https://youtu.be/lGBwFxOH9xQ
+
+Lightning Talks & Chill - Utah Rust Apr 14th, 2022
+https://youtu.be/2ENkOaB_zug
+
+Lightning Talks 'n' Chill [Part 1] - Utah Rust - Oct 14th, 2021
+https://youtu.be/7tNaHgtTMgY
+
+Lightning Talks 'n' Chill [Part 2] - Utah Rust - Oct 14th, 2021
+https://youtu.be/T1XJxvJjML4
+
+Lightning Talks 'n' Chill [Part 3] - Utah Rust - Oct 14th, 2021
+https://youtu.be/YTjvWc8M1C4
+
+LINK in DESCRIPTION for better AUDIO and both VIDEO feeds - Software Can Be Perfect w Blaine Hansen
+https://youtu.be/dwjImx1qO08
+
+Microcontrollers Ferris Takes the Blue Pill, 2022 Edition (STM32) - Utah Rust (Mar 10, 2022)
+https://youtu.be/ThnvxxA-imM
+
+Mob Programming Add `--tree -d` to `lsd` - Dec 10, 2020 - Utah Rust
+https://youtu.be/Lqx5pNpqx58
+
+Pimp My Docs (rustdoc) - Mar 11, 2021 - Utah Rust
+https://youtu.be/fWqHcenVHfs
+
+Rusty Engine with Nathan Stocks - Sept 9, 2021 Utah Rust
+https://youtu.be/6535ilB9RH0
+
+Software Can Be Perfect with Blaine Hansen - Utah Rust (Feb 10, 2022)
+https://youtu.be/39TMYdsZKyc
+
+WASM, Rust, the State of AsyncAwait - Nov 14th, 2020
+https://youtu.be/7np8KroNnNs
+
+Why Rust Fearless Concurrency No Matter The Paradigm w Mike Edlinger - Dec 09, 2021 (edited audio)
+https://youtu.be/OYMk4Zws-jE
+
+[Pre-Meetup Chit-Chat] Microcontrollers Ferris Takes the Blue Pill Rust on STM32 (Mar 10, 2022)
+https://youtu.be/ubLkGB4YV_g
+Videos 1-25

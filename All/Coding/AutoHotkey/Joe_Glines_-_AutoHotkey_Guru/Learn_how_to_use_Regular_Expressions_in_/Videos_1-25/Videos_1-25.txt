@@ -1,0 +1,76 @@
+
+Amazing AutoHotkey resources cheat sheet  74 great links to AHK topics
+https://youtu.be/6sB2VFZt628&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Announcing the 2020 AutoHotkey User Survey
+https://youtu.be/iF9B8vdp98c&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+AutoHotkey Webinar 112016  Hour 1-Regular Expressions
+https://youtu.be/uUzHWbaW-zI&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+AutoHotkey Webinar 112016  Hour 2-Regular Expressions
+https://youtu.be/B29NQAH8BDg&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Changing GUI to be editable & great fuzzy matching script Sift
+https://youtu.be/GverJBqObXw&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Clean Phone numbers with RegEx
+https://youtu.be/bPkM-nmL-rQ&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Extract email addresses with Regular Expression in AutoHotkey
+https://youtu.be/4LRM5jJIG_8&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+How to Escape double quotes in AutoHotkey Regular Expression [3 ways]
+https://youtu.be/okjfz2NK8C8&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+How to use RegEx to Clean up text  Regex with AutoHotkey is easy!
+https://youtu.be/jKuWrQrCtcA&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Naming Convention and Regular Expression
+https://youtu.be/DjBIV9oV1i8&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Parsing more Text with StrSplit and InStr
+https://youtu.be/HWEu7oRlz4E&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 102- Using Ranges in your Regular Expression
+https://youtu.be/81pHIQKU5pY&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 103- Using Quantifiers in AutoHotkey Regular Expressions
+https://youtu.be/FBgXxgyr0s8&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 104- Anchors in AutoHotkey Regular Expressions
+https://youtu.be/s83TvRMSEVA&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 105-  Simplifying your AutoHotkey Regular Expression with escapes
+https://youtu.be/xv1UD7rv0CE&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 106- Creating Named Subpatterns in your AutoHotkey Regular Expression
+https://youtu.be/LBBQ4LocmiU&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 107  Using POSIX in your AutoHotkey Regular Expression
+https://youtu.be/M3Y9AgJgGsY&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 108- Dumping your Regular Expression match into an AutoHotkey Object
+https://youtu.be/zAktSbY8wZA&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 110- Example 1-Regular Expression on naming convention
+https://youtu.be/pip1mKewEI8&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 111- Use Option X) to ignore whitespace and have your RegEx cover multiple lines
+https://youtu.be/tFh_FMIK1Ro&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx 112 RegExReplace in AutoHotkey- Moving patterns of words
+https://youtu.be/PfjyecsqEhE&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegEx-Intro to Regular Expressions in AutoHotkey  pattern matching is easy
+https://youtu.be/uJnBe2Kpt8Q&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+RegExMatch example in AutoHotkey
+https://youtu.be/fsAadu3-2QI&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Using a Regular Expression (RegEx) to Find a URL and not an email address
+https://youtu.be/hmx-CGLBVSQ&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+
+Using Word to find email addresses
+https://youtu.be/B-MnPBv81bU&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
+Videos 1-25

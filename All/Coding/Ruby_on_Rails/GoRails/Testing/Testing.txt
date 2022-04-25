@@ -1,0 +1,73 @@
+
+Advanced GitHub Actions Testing multiple Ruby, Rails, and databases!
+https://youtu.be/9T09Foq2CW4&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Fixing Brittle Tests Avoid Hardcoded Values
+https://youtu.be/gXr_mid6FfE&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to Test Against Multiple Databases in Rails with the DATABASE_URL Env Var  Preview
+https://youtu.be/EGPdVcakR2c&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to Test Validations in Rails
+https://youtu.be/Z7PWEkZHMUI&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to use Devise Test Helpers in Rails
+https://youtu.be/pLbNeangPvU&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to use Fixtures to create sample test data in Rails
+https://youtu.be/FWvtjw6jl7k&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to use Mocks in Ruby Tests  Preview
+https://youtu.be/oNgCvXjevkA&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to use Stubs in your Test Suite with Minitest  Preview
+https://youtu.be/rUQ6KcdlsAU&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to Write Integration Tests in Ruby on Rails
+https://youtu.be/GNPeys_e8Sc&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+How to write System Tests in Rails
+https://youtu.be/QNZt7FCVYro&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Installing SimpleCov for test code coverage with RailsBytes
+https://youtu.be/uM762RLy99c&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Require Work Email Address on Registration  Preview
+https://youtu.be/VomNTAiciKc&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Ruby on Rails Continuous Integration with Github Actions
+https://youtu.be/gGUXydw22zw&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+System Testing File Uploads in Rails with Uppy and Dropzone Drag & Drop  Preview
+https://youtu.be/rQuO0qF3w24&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Test Driven Development Basics
+https://youtu.be/KPHOXy4R7KI&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing Action Mailer in Rails  Preview
+https://youtu.be/72BrhDC5Rc8&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing Active Job in Ruby on Rails
+https://youtu.be/7ieeu0r27ig&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing ActiveStorage File Uploads in Rails  Preview
+https://youtu.be/2DMwzFSFL0Q&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing API Integrations with WebMock  Preview
+https://youtu.be/Dg1mwjuRH-c&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing External APIs with VCR  Preview
+https://youtu.be/wlfbZsQ3ULM&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing File Uploads in Rail with Shrine  Preview
+https://youtu.be/Swek8C8fdEM&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing Rails ActionCable with Devise  Preview
+https://youtu.be/nlGfn4ngHw8&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Testing Times and Dates in Ruby on Rails
+https://youtu.be/_NhKWxQwkzM&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+
+Using TDD to Fix a Bug in the Kredis gem
+https://youtu.be/GFY5xgzh17I&list=PLm8ctt9NhMNUfDFF5A-9djVdkbq_yHPDA
+Testing

@@ -1,0 +1,76 @@
+
+Chris Thalinger - Performance tuning Twitter services with Graal and Machine Learning
+https://youtu.be/W-5kUG8_mbk
+
+Ferd Scheepers - A sheriff in the wild west How to govern open source data technology
+https://youtu.be/sHfd-JeYDrE
+
+Ivan Lopez - Alexa, nice to meet you
+https://youtu.be/zeJ7qFVKa4E
+
+Sebastian Daschner - 7 Principles of Productive Software Developers
+https://youtu.be/qIv70nRdtS0
+
+Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide
+https://youtu.be/tMHO7_RLxgQ
+
+[VDZ19] 10 Reasons Why we Love Some APIs and Why we Hate Some Others by Lukas Eder
+https://youtu.be/CYniPcoiI5g
+
+[VDZ19] A.I. constraint optimization with OptaPlanner by Geoffrey De Smet
+https://youtu.be/HmTFUwxOhYs
+
+[VDZ19] Black Clouds and Silver Linings in Node.js Security by Liran Tal
+https://youtu.be/20ymbb8Y19Q
+
+[VDZ19] Developing Native Product Vision in Teams and Individuals by   Valerie Andrianova
+https://youtu.be/31jWk5JtHCA
+
+[VDZ19] Don't Walk Away From Complexity, Run by Venkat Subramaniam
+https://youtu.be/0ruRoW5P9wg
+
+[VDZ19] Eta lang - Haskell On JVM by Jarek Ratajski
+https://youtu.be/7U9rDg4Pfdc
+
+[VDZ19] Frontend Monoliths Run if you can! by Jonas Bandi and Daniel Wiehl
+https://youtu.be/9SG2lI5_t1Q
+
+[VDZ19] Get smart with MapStruct by Filip Hrisafov
+https://youtu.be/ICl9gJ4o7Ec
+
+[VDZ19] Graph-based ML for Automated Health Care Services by J. Kindelsberger, A. Fritzen, R. Patra
+https://youtu.be/4KYR30ySN3Q
+
+[VDZ19] How to secure your Spring apps with Keycloak by Thomas Darimont
+https://youtu.be/fdqWr9XPTsM
+
+[VDZ19] Java in a World of Containers by Matthew Gilliard
+https://youtu.be/8SdrYGIM384
+
+[VDZ19] Kubernetesize your Java application by Arun Gupta
+https://youtu.be/CieoGJCXEE8
+
+[VDZ19] Lightweight Enterprise Java with MicroProfile by Roberto Cortez
+https://youtu.be/_ktK9RmC68c
+
+[VDZ19] Live Coding KotlinNative Snake by Dmitry Kandalov
+https://youtu.be/dpapcHqXkKs
+
+[VDZ19] Multilingual Data Processing with GraalVM by Vojin Jovanovic
+https://youtu.be/fAuTMvpsvRw
+
+[VDZ19] OOP v̶s̶ and FP by Mario Fusco
+https://youtu.be/zX2Raw6ro1c
+
+[VDZ19] Processing big E-voting files with reactive streams by Nils Aellen
+https://youtu.be/8ExlfB1G0sI
+
+[VDZ19] Streaming Visualisation by Guido Schmutz
+https://youtu.be/vxWtyE_LcDE
+
+[VDZ19] Taming IoT Data Making Sense of Sensors with SQL Streaming by Hans-Peter Grahsl
+https://youtu.be/fqqHG3pT5xQ
+
+[VDZ19] Welcome Voxxed Days Zürich by Federico Yankelevich & Patrick Baumgartner
+https://youtu.be/0VhzAt-GW2o
+Videos 751-775

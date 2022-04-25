@@ -1,0 +1,76 @@
+
+Analyzing and Documenting Results
+https://youtu.be/5PtC7brPww4
+
+Balancing Model Fidelity and Simulation Speed
+https://youtu.be/yyBEm8TR0oE
+
+Batch Mode Trimming and Linearization
+https://youtu.be/k8UWi49IYgA
+
+Estimating and Validating Models
+https://youtu.be/ZGDnoKYonDM
+
+Estimating Nonlinear Black-Box Models
+https://youtu.be/Pz2EMiUP1e4
+
+Estimating Parameters of a Battery
+https://youtu.be/lZmdzV-9Wp0
+
+Estimating Parameters of a DC Motor (Previous Release)
+https://youtu.be/ywpuYde8avE
+
+Estimating State-Space and Polynomial Models
+https://youtu.be/y_vyfXgkRqY
+
+Estimating Transfer Functions and Process Models
+https://youtu.be/_3TEidI91WM
+
+Finding Causes of Slow Simulations
+https://youtu.be/UD47b_UB4cA
+
+Frequency Response Estimation
+https://youtu.be/c1UZE9kt9GU
+
+Gain Scheduling of PID Controllers (Previous Release)
+https://youtu.be/IGJQnMRFrmM
+
+Importing and Manipulating Data Sets
+https://youtu.be/60R91RkEXpE
+
+Introduction to System Identification Toolbox
+https://youtu.be/NrMRPrA6yKI
+
+Modeling a Custom Hydraulic Valve - Previous Release
+https://youtu.be/Ui5ysOyceRY
+
+Modeling a DC Motor - Previous Release
+https://youtu.be/ESE2vw92nbA
+
+Modeling an Engine Cooling System
+https://youtu.be/YoMzH4tdAC8
+
+Optimizing a Wind Turbine Blade Pitch Control System
+https://youtu.be/dK9iq_zzMDM
+
+Preprocessing Data
+https://youtu.be/D8NuvY_bX6k
+
+Protecting Intellectual Property in Subsystems
+https://youtu.be/-5jItQOPp60
+
+Protecting Simscape Language Components
+https://youtu.be/KK7FqRDeAQI
+
+Running Parallel Simulations Aileron Parameter Sweep
+https://youtu.be/HqpaQSKJyEs
+
+Simscape Add-on Libraries in MATLAB R2013a
+https://youtu.be/2cm8uPmYZyg
+
+Simulating In Real Time Pneumatic Example
+https://youtu.be/VEQ1DrEWyl0
+
+Speed Control of a DC Motor Using PWM
+https://youtu.be/H7RzKY9SFHA
+Videos 2201-2225

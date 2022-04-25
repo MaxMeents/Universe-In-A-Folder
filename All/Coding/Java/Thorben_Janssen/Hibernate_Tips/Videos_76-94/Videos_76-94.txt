@@ -1,0 +1,58 @@
+
+Hibernate Tip  How to use an autoincremented database column as a primary key
+https://youtu.be/pgknN921XL8&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip - How to log SQL statements and their parameters
+https://youtu.be/xn1bm4U1cgw&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip - How to use pagination with JPQL
+https://youtu.be/Xny3OJquWuo&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Cache preprocessed, non-persistent attributes
+https://youtu.be/_qp-cRzj7dQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Calculate entity attributes with @Formula
+https://youtu.be/AjeNheCWNuU&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to access  Hibernate APIs  from JPA
+https://youtu.be/GYMkSgMjIA8&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to count the executed queries in a Session
+https://youtu.be/YZ8kTI6YD_A&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to define a query timeout
+https://youtu.be/DmwN-6u3Ya0&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to define schema and table names
+https://youtu.be/1pa7M8SZV0M&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to initialize lazy relationships within a query
+https://youtu.be/oHYkQ5hQQe8&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map a read-only database view
+https://youtu.be/gJvQFKCJV5I&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map a to-one association to an Optional
+https://youtu.be/I9hf-HUxQiA&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map native query results to managed entities
+https://youtu.be/RZk5VXyEaH0&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to order associated entities without writing a custom query
+https://youtu.be/p_ngp05KD-8&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to select a POJO with a CriteriaQuery
+https://youtu.be/PWZfpaciFOI&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to use a custom database sequence
+https://youtu.be/a0ScR_JAKfI&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to use the QueryCache to avoid additional queries
+https://youtu.be/N50tWvaM9m0&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Map database columns with generated values
+https://youtu.be/MezJoZ7fy44&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Select multiple scalar values in a CriteriaQuery
+https://youtu.be/CQimDsEuodQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+Videos 76-94

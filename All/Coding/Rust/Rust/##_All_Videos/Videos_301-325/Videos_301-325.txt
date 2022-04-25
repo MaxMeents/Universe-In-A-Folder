@@ -1,0 +1,76 @@
+
+@withoutboats on Pin
+https://youtu.be/shtfSMTwKRw
+
+Avatar CLI — Andrés Casablanca
+https://youtu.be/zHuXnmmATHM
+
+Bay Area Rust Meetup @ Cloudflare December 3, 2019
+https://youtu.be/xH2x99FTY4k
+
+Commingle — Arve Knudsen
+https://youtu.be/UZzQyQicsr0
+
+Core Team Meeting 2019-11-27
+https://youtu.be/603ETPXf_6o
+
+Core Team Meeting 2019-12-04
+https://youtu.be/2-Rubo9Zr3E
+
+Core Team Meeting 2019-12-11
+https://youtu.be/08gvVkahGrc
+
+Crash Course with Bastion— Mahmut Bulut
+https://youtu.be/IsBNjJBlA1E
+
+Design meeting 2020.02.03 Specialization overview
+https://youtu.be/7_7gUxnbenU
+
+Governance WG Meeting (2019-12-03) Access control rights
+https://youtu.be/CyYwretwM8E
+
+Governance WG Meeting 2019-12-17 Project Groups
+https://youtu.be/q6us8yhDDUU
+
+Lang Team Design meeting 2020.01.13 -- dyn Trait and coherence
+https://youtu.be/xE5xehvn9fo
+
+Lang Team Design Meeting 2020.02.10 -- &T and dereferenceable optimizations
+https://youtu.be/mnFcQuxeUGI
+
+Lang Team Design Meeting Resolving the Pin unsoundness (2020.01.06)
+https://youtu.be/MX_GRNLhlY8
+
+Lang Team Triage Meeting (2019.12.19)
+https://youtu.be/VLYxs3EtMys
+
+Lang Team Triage Meeting 2019-12-05
+https://youtu.be/2An-l39Rs0o
+
+Lang Team Triage Meeting 2019-12-12
+https://youtu.be/vamzsVdbGcs
+
+Lang Team Triage Meeting 2020.01.09
+https://youtu.be/bhsSYwG8ymU
+
+Lang Team Triage Meeting 2020.01.16
+https://youtu.be/kU7is4KeURo
+
+Lang Team Triage Meeting 2020.01.23
+https://youtu.be/4uOG4TH_gyo
+
+My first program for the MXCHIP IoT DevKit — Olivier Goffart
+https://youtu.be/EHMdD0dTgNA
+
+Rust and WASM in less than 20 minutes - Antonio De La Cruz
+https://youtu.be/ltP-8PXRqrw
+
+Rust Core Team Meeting 2020-01-22
+https://youtu.be/dOXe3Qc5u6w
+
+RustFest Barcelona - Pietro Albini Shipping a stable compiler every six weeks
+https://youtu.be/As1gXp5kX1M
+
+zvariant A Cool New Crate You Shouldn't Use Yet
+https://youtu.be/5P24c18xIOk
+Videos 301-325

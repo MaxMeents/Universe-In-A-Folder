@@ -1,0 +1,73 @@
+
+A Rocket Scientist Perspective on Index Column Selection by Mike Byrd  SQLServer Virtual Conference
+https://youtu.be/uQ4UOK_FzVI&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Azure SQL Database Business Continuity During Disaster by Taiob Ali  SQL Server Virtual Conference
+https://youtu.be/jg_j7ygkqJY&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Benchmarking in the cloud by Gianluca Sartori  SQL Server Virtual Conference
+https://youtu.be/LEPSMVitVyk&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Bringing DevOps to the Database by Steve Jones  SQL Server Virtual Conference
+https://youtu.be/1BlRlLiORnA&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Data Replication Options for Azure SQL PaaS Services by Mara Steiu  SQL Server Virtual Conference
+https://youtu.be/Kp80O6l59fA&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Developer Best Practices for Azure SQL  Avoiding common pitfalls when using the Cloud Database
+https://youtu.be/nIM91cNKx8w&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Executable Troubleshooting Guides with Notebooks for SQL People by Julie Koesmarno & Aaron Nelson
+https://youtu.be/AzSB6AxBGbQ&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+How to implement GDPR with SQL Server &Azure SQL Database by Jasmin Azemović
+https://youtu.be/iJFP0RYCdLQ&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+How to use Geospatial Data in SQL Server by Hasan Savran  SQL Server Virtual Conference
+https://youtu.be/A9qASjOOXTU&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Improving Performance with Intelligent Query Processing by John Morehouse
+https://youtu.be/uPWr2VVRGT0&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Keynote  SQL Server Virtual Conference by Asad Khan
+https://youtu.be/AvUz3nCc9EY&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Learn Azure SQL Database through Demos by Anna Hoffman  SQL Server Virtual Conference
+https://youtu.be/zfFTFhpSd6s&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Modern T SQL for Better Performance by Kathi Kellenberger  SQL Server Virtual Conference
+https://youtu.be/zALIc30N9dc&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+MS SQL New functions, syntaxes, tips & tricks by Damir Matešić  SQL Server Virtual Conference
+https://youtu.be/8YFHA-m3rS0&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+My romantic relation with Powershell generally and DBATools especially by  Magnus Ahlkvist
+https://youtu.be/-np_a_wENZA&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Performance Features in SQL Server and Azure SQL by Javier Villegas  SQL Server Virtual Conference
+https://youtu.be/5j58XrXTpwE&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Performance Improvements in SQL Server 2019 by Frank Gill  SQL Server Virtual Conference
+https://youtu.be/zTH8W0Zr2Ds&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Performance Tuning, Getting the Biggest Bang for Your Buck by Monica Rathbun  SQL Server Conference
+https://youtu.be/bLb4vB0FZT4&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+SQL Projects for Database Development by Drew Skwiers-Koballa  SQL Server Virtual Conference
+https://youtu.be/f2Y_n0kbBbU&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+SQL Server 2019 Big Data Clusters Architecture by Buck Woody  SQL Server Virtual Conference
+https://youtu.be/ga-_8d396W4&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+SQL Server Configuration with dbatools & dbachecks by Tracy Boggiano  SQL Server Virtual Conference
+https://youtu.be/cfZBiooMbLw&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+SQL Server Containers by Bob Ward   SQL Server Virtual Conference
+https://youtu.be/L1lagTmdt3g&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Understanding Statistics in SQL Server by Erin Stellato  SQL Server Virtual Conference
+https://youtu.be/XQynIdV3d8U&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+
+Using WSL2 for the Database Development Platform by Carlos Lopez  SQL Server Virtual Conference
+https://youtu.be/sIQPzWKloDk&list=PLEy5IbO-F1-nAfr9ZEZMGpYjBwr61BYwh
+SQL Server Virtual Conference

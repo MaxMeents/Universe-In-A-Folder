@@ -1,0 +1,16 @@
+
+20 Years of Java Panel
+https://youtu.be/Iu_zkGNUfWM&list=PL2ekzZZrxVUlWd2lgPuJ9-7NvtaeUE-SS
+
+Charles Nutter on Coding Fast as C
+https://youtu.be/-VGoaZiaNfQ&list=PL2ekzZZrxVUlWd2lgPuJ9-7NvtaeUE-SS
+
+Ed Burns on JSF 2.3 and Servlet 4.0
+https://youtu.be/LftuYJ848E4&list=PL2ekzZZrxVUlWd2lgPuJ9-7NvtaeUE-SS
+
+Nitsin Wakart on Lock Free Queues
+https://youtu.be/Kwuenc35c_Q&list=PL2ekzZZrxVUlWd2lgPuJ9-7NvtaeUE-SS
+
+Tomasz Nurkiewicz on Asynchronous Processing
+https://youtu.be/596RKKhvZG8&list=PL2ekzZZrxVUlWd2lgPuJ9-7NvtaeUE-SS
+GeekOUT 2015

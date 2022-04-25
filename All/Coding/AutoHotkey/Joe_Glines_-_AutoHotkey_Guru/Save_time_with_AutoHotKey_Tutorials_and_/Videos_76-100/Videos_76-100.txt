@@ -1,0 +1,76 @@
+
+AutoHotkey format command (change case, decimals, padding, etc.)
+https://youtu.be/hqHoer5jR6I&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+AutoHotkey Webinar-82016   Hour 1- AHK Studio, Screen Clipping
+https://youtu.be/QDFbtHvYFkw&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+AutoHotkey Webinar-92016  Hour 1- Built in Function, Custom Functions & DLL calls
+https://youtu.be/BL_JnZqn5Hk&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+AutoHotkey Webinar-92016  Hour 2 Function and DLL Calls Q&A
+https://youtu.be/w5ByF9RJf-o&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Automating connecting on LinkedIn
+https://youtu.be/ye5tDTR46Jw&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Automating Unfriending people on Facebook
+https://youtu.be/n203YbIPIaQ&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Automation Example Transfer from Website to AHK Forum post
+https://youtu.be/qdupjUV0I5c&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Creating custom GUI controls with Hellbent
+https://youtu.be/HGNQ7zKRPq0&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Excel & AutoHotkey-Font type, size, and formatting
+https://youtu.be/8y6mX5NAMyA&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+ffmpeg concatenator with AutoHotkey
+https://youtu.be/A_Wt86oSTYQ&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+get your AutoHotkey Merchandise from the-Automator
+https://youtu.be/6IMNpwZRp1I&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to Automate Clicking an image with AutoHotkey
+https://youtu.be/k8D95Wb5Cl4&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to create shortcuts to folders, programs, and snippets
+https://youtu.be/xu72F5KEDlI&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to Find and click images or text with this cool tool (2021)
+https://youtu.be/aWRAtvJq9ZE&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to get Column information from Excel and AutoHotkey  First column, last column used range, etc.
+
+
+How to Send Text to the SciTE Output Pane  Easily display a ton of text
+https://youtu.be/AauNXvg_hUI&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to use ini file to Save & Retrieve settings with AutoHotkey
+https://youtu.be/ebQvOCYyBks&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+IMUGR account creation
+https://youtu.be/W27k5n8ajsg&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Merging, Shrinking, and Wrapping cells in Excel with AutoHotkey
+https://youtu.be/9JLEEtc6T5I&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Quickly record your desktop for FREE with ffmpeg and AutoHotkey!
+https://youtu.be/7b358-kh9AM&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Searching for the presence of a value in a string AutoHotkey Contains & In commands
+https://youtu.be/SIu8SXgc5_4&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Use AutoHotkey to push clipboard to the Internet for rapid sharing
+https://youtu.be/JT_WpgmkNDQ&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Use AutoHotkey to set Number format of Excel cell
+https://youtu.be/e5Jx6aJpU-g&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Using StrSplit to get parse email addresses with AutoHotkey
+https://youtu.be/3gEr-4tym7s&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Using the String Split function in AutoHotkey
+https://youtu.be/Y-8_tXmrgwc&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+Videos 76-100

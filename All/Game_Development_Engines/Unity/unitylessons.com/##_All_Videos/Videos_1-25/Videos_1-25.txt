@@ -1,0 +1,76 @@
+
+Arrow 3D - 3 Star Solution - Level Easy 1
+https://youtu.be/djKKZQgmiB4
+
+Arrow 3D - 3 Star Solution - Level Easy 2
+https://youtu.be/7oCiajyfAww
+
+Arrow 3D - Free Android Game - Tutorial
+https://youtu.be/7vIxyNju514
+
+How To Become A Virtual Reality Developer
+https://youtu.be/M5nZNL0ifwo
+
+Learning different follow camera styles - Unity3D Beginner Tutorial
+https://youtu.be/8JnT8lNcnKY
+
+platformer - first Unity3D prototype
+https://youtu.be/EjnisiyFlSA
+
+PortMe - Unity3D - prototype
+https://youtu.be/NdODVbAnyeY
+
+Quick fix for collider issue - pickup and carry objects
+https://youtu.be/LAm0PPKdm8k
+
+Unity 5.1 + Oculus Rift UI Tutorials - Overview
+https://youtu.be/aYoGgy3oF3w
+
+unity game project - master camera demo
+https://youtu.be/PLg9yfVD2w4
+
+Unity3D - create wall by dragging
+https://youtu.be/78e06iTYQqo
+
+Unity3D - Portal tutorial
+https://youtu.be/sK9Qf8ElFHo
+
+Unity3D and the Oculus Rift - Course Overview
+https://youtu.be/EnDRx2k-zY0
+
+Unity3D Facebook SDK - missing keyhash for android - FIXED
+https://youtu.be/UUPqxXNWOxQ
+
+Unity3d mobile device - first person controller
+https://youtu.be/OMkP54Vxy5Y
+
+Unity3D Portal Clone
+https://youtu.be/bNxC-6yFsXI
+
+Unity3D Radar tutorial
+https://youtu.be/O8is_EikILA
+
+Unity3D Tutorial - Custom Mouse Cursor For Grabbing Objects
+https://youtu.be/W7vi9AMFz-s
+
+Unity3D Tutorial - dynamic wall creation
+https://youtu.be/h5EiXBJ2Zvc
+
+Unity3D Tutorial - end point snapping for walls
+https://youtu.be/x0ky6Uh0Kj0
+
+Unity3D Tutorial - grid snapping for walls
+https://youtu.be/n2fx9rkMMVU
+
+Unity3D Tutorial - Pickup and Carry Objects
+https://youtu.be/runW-mf1UH0
+
+Unity3D tutorial - rotate object (when picked up)
+https://youtu.be/OGnKubHKT7E
+
+Unity3D Tutorial Modular Fence  grid based Wall Building
+https://youtu.be/aXM3ewM65VA
+
+VR Update - Unity features own tutorial section on virtual reality
+https://youtu.be/ghb1VCQYRv8
+Videos 1-25

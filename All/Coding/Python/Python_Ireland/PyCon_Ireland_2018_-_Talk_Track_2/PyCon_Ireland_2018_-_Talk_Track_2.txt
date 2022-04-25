@@ -1,0 +1,37 @@
+
+Pycon Ireland 2018 An Idiots Guide to (Open) Data Science - Andrew Bolster
+https://youtu.be/he78D6jwmxE&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Building a Fine Grained Image Classification System- Fergal Walsh
+https://youtu.be/gjic6QgYbeI&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Functional Programming for Data Science - Neal Ó Riain
+https://youtu.be/qG5nov7OHn0&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 High Performance Data Processing in Python - Donald Whyte
+https://youtu.be/oHfaw9S8kuw&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Machine Translation with Keras - Bojan Bozic
+https://youtu.be/c0AVGS3msXc&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Patient Data Made Real - Lorenzo Trojan
+https://youtu.be/nSsEOpjirtQ&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Powering up your Python web applications - Allyn Hunt
+https://youtu.be/qxecAsMm-4w&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Prediction of risk factors for stroke - Olga Lyashevska
+https://youtu.be/vjofOCCxAO4&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Programming by poking some experiences in teaching with Python - Ben Fagan
+https://youtu.be/bwfy_dEyAgU&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+PyCon Ireland 2018 Recruitment Session
+https://youtu.be/gqez-3ZeCpw&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+PyCon Ireland 2018 Visualisation in Python - Shane Lynn (Duplicate)
+https://youtu.be/Zns72AYHxNU&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+
+Pycon Ireland 2018 Visualisation in Python - Shane Lynn
+https://youtu.be/3IVZRaPMupo&list=PLNeBS51Q0m98mi9L1Sb28s9iSuG_-Q5a2
+PyCon Ireland 2018 - Talk Track 2

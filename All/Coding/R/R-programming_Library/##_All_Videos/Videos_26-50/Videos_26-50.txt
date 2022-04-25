@@ -1,0 +1,76 @@
+
+Assigning variables in R  Types of variables in R
+https://youtu.be/GZ22Se1EGoE
+
+Graphics in Basic R  Tutorial - 10 Boxplot chart
+https://youtu.be/JF0oZ6NkYjE
+
+Graphics in Basic R  Tutorial - 11 Pie chart
+https://youtu.be/eh8GcZdR3OI
+
+Graphics in Basic R  Tutorial - 2  Scatter plot
+https://youtu.be/vFsBHgI0bGQ
+
+Graphics in Basic R  Tutorial - 3 Clustered Scatter plot
+https://youtu.be/I95tGsMv6Gs
+
+Graphics in Basic R  Tutorial - 4 Line charts
+https://youtu.be/9BXAQOjGKBE
+
+Graphics in Basic R  Tutorial - 5 Line density curve  Probability distribution curve in R
+https://youtu.be/PW6pvXkyw1k
+
+Graphics in Basic R  Tutorial - 6 Bar chart
+https://youtu.be/F3CtupXuCjM
+
+Graphics in Basic R  Tutorial - 7  Stacked & Grouped bar charts
+https://youtu.be/v3hDqLc59-I
+
+Graphics in Basic R  Tutorial - 8  Add error-bars to bar charts
+https://youtu.be/K-Br-dqb5c4
+
+Graphics in Basic R  Tutorial - 9 Histogram chart
+https://youtu.be/FY_DoXdy-j8
+
+Graphics in Basics R  Tutorial - 12 Exporting charts from R studio
+https://youtu.be/NhUNX1Antik
+
+How to install packages in R studio  How to Install ggplot2 in R studio 
+https://youtu.be/rHPcUthPk_c
+
+How to install R and  R studio in computer  Installing R studio - 2018
+https://youtu.be/An56y_T-r_Y
+
+How to write .csv file in R  write and save file in R studio
+https://youtu.be/PI_ZVzWGse0
+
+Missing values in R  Replacing missing values (NAs) with mean in data frame
+https://youtu.be/OCEnz1yY3KI
+
+R as a calculator  Basic operations in R
+https://youtu.be/dXuAPiPXhfk
+
+R help tips for beginner  How to get help in R 
+https://youtu.be/cF9OhwXyr7s
+
+Vectors in R  Tutorial - 1 Creating vectors
+https://youtu.be/7R2SKIa8R-o
+
+Vectors in R  Tutorial - 2 Comparing vector  all()and any() functions in R
+https://youtu.be/vtqJmU-9e-I
+
+Vectors in R  Tutorial - 3 Sorting and Rearranging a vector
+https://youtu.be/ntmVGDAvhKk
+
+Vectors in R  Tutorial - 4 Selecting vector elements  Indexing vectors
+https://youtu.be/SPQr8qp1jI8
+
+Vectors in R  Tutorial - 5 Adding elements to a vector
+https://youtu.be/aRDG2nwiXnY
+
+Vectors in R  Tutorial - 6 Editing elements in a vector
+https://youtu.be/-j2nU_Hy73w
+
+Vectors in R  Tutorial - 7 Sum and Product of vector elements
+https://youtu.be/dZTV6qJHdVU
+Videos 26-50

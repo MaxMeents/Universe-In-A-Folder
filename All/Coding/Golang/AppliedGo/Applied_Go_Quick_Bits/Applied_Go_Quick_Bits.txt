@@ -1,0 +1,22 @@
+
+Applied Go Quick Bits 001 go fmt
+https://youtu.be/H3dLAr8ucT0&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+
+Applied Go Quick Bits 002 How to make generic data containers type safe
+https://youtu.be/rco7GEg3v0I&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+
+Applied Go Quick Bits 003 Pointers vs References
+https://youtu.be/A6G7qxnFUS0&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+
+Applied Go Quick Bits 004 Go has no classes
+https://youtu.be/rIr9rtgxgpI&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+
+Applied Go Quick Bits 005 An Interface Gotcha
+https://youtu.be/owGPGK5YJ8I&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+
+Applied Go Quick Bits 006 goroutines
+https://youtu.be/vyYPU9UE-OI&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+
+Applied Go Quick Bits 007 Are goroutines threads
+https://youtu.be/5LfqrEGwDmE&list=PLziDvf7ydaamzllb3ezcNYYsX9UHDjs_y
+Applied Go Quick Bits

@@ -1,0 +1,76 @@
+
+Python tutorial in  Hindi 42  Nesting dictionaries , list and looping
+https://youtu.be/B-kMXvzdgGs&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 23  Infinite loop , break  , continue statement , password program
+https://youtu.be/8qPSSLi38ps&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 24  basics for search engine concept part 2 , quick revision
+https://youtu.be/itLfn3Wfnko&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 25  list part 1
+https://youtu.be/nHmx-XJWgMk&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 26  List part 2  (insert method , del statement)
+https://youtu.be/FBTHOuMm1to&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 27  List part 3 ( pop method , remove method )
+https://youtu.be/8Rlu9MXf9lk&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 28  List part 4 ( index , reverse , sort method , sorted function)
+https://youtu.be/VeXJhsfbkys&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 29  list in list , list function
+https://youtu.be/zgA8rAZiXyY&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 30Boost your programming skills  Problem 1
+https://youtu.be/p6Hs3JJ-eDM&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 31  Challenge Solution 1  Sum of digits
+https://youtu.be/PLKv3_Pw5Pk&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 32  Challenge solution 2 ( list problem)
+https://youtu.be/g5URATL9taU&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 33  for loop , stop -start-step arguments
+https://youtu.be/K8tV5_1XqQE&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 34  A.P using for loop
+https://youtu.be/ChvOB8So1mk&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 35  loops inside list
+https://youtu.be/OkgU92qw7gM&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 36 string and list comparison , find element in list , program
+https://youtu.be/aoew19WCFxU&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 37 Exponent , modulus operator , continue statement in list
+https://youtu.be/10fNXNfUhxM&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 38  Tuples
+https://youtu.be/AW4fGbJsCrs&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python Tutorial in Hindi 39   Dictionaries Basic concept
+https://youtu.be/W4dLOoBsYzA&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 40  Dictionaries keys and value method , looping
+https://youtu.be/Xf9V7BBb5-w&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 41  Dictionaries items method and more !!
+https://youtu.be/0bv1_XlNSIo&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 43  Sets
+https://youtu.be/EkyJ1tdNSOg&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 44  Lets write our first  program  delete common files
+https://youtu.be/TZGTOd-1Ius&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 45  batch file, command prompt ,shebang line ,  and much more
+https://youtu.be/k0naWAMqW2c&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Python tutorial in Hindi 46  How to choose right module and function to delete files and folders
+https://youtu.be/PXayB-a89Pg&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+
+Search engine concept part 2
+https://youtu.be/IzQscShObiM&list=PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R
+Videos 26-50

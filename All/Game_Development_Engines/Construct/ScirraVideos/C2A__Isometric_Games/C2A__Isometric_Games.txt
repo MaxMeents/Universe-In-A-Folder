@@ -1,0 +1,10 @@
+
+Isometric Game Development Part 1 Terrain Rendering - with Kyatric
+https://youtu.be/5gTKJqVw70o&list=PL7GMuVXUsYna1xXID5uJMm5odlHOd_d3x
+
+Isometric Game Development Part 2 Main Character and Grid Movement - with Kyatric
+https://youtu.be/fZaf7PogzY0&list=PL7GMuVXUsYna1xXID5uJMm5odlHOd_d3x
+
+Isometric Game Development Part 3 AI, Pathfinding and Line of Sight - with Kyatric
+https://youtu.be/Xrb3j0YSp9I&list=PL7GMuVXUsYna1xXID5uJMm5odlHOd_d3x
+C2A  Isometric Games

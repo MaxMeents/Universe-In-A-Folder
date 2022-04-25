@@ -1,0 +1,76 @@
+
+Adam Hopkins - Overcoming access control in web APIs
+https://youtu.be/Uqgoj43ky6A
+
+Amber Vanderburg - Cultivating a Culture of Creativity, Collaboration, and Captainship
+https://youtu.be/njg2XmKWD7k
+
+Bruno Paixão - Digital Transformation in the fight against Coronavirus
+https://youtu.be/5J_tViVPl3I
+
+Camila Maia - ScanAPI
+https://youtu.be/cypeJ3t5Uts
+
+Chiin-Rui Tan - Accessible Python education for schoolgirls using Avocados, Zombies, and Korean!
+https://youtu.be/cZlBBGt7GHA
+
+Ching Lam Choi - Corona-Net
+https://youtu.be/57gCQSUv2fY
+
+EuroPython 2020  - Closing Session
+https://youtu.be/QaY6J7jiTTk
+
+EuroPython 2020  - Lightning Talks 0724
+https://youtu.be/5h9LpDfvQuI
+
+Fabian Höring - Building reproducible distributed applications at scale
+https://youtu.be/d-XQqBclLnE
+
+Francesca Tedeschi - The Phantom of Radon
+https://youtu.be/uKFXt0eiEJg
+
+Francisco Passos - Migrating codebases with millions of modules from Python 2 to Python 3
+https://youtu.be/ULZdk-a5CGs
+
+Gautam Prajapati - Advanced Infrastructure Management in Kubernetes using Python
+https://youtu.be/A-IM9IBlmgs
+
+Irene Iriarte - Building The Perfect Personalised Menu Using Python
+https://youtu.be/plTCLa2tfjc
+
+Ivana Kellyerova - How to Avoid Becoming a 10x Engineer
+https://youtu.be/0mVIiIwcygU
+
+Lilian Nandi - Creating the Next Generations of Billionaires - Part 2
+https://youtu.be/OgK6iq5Zd0M
+
+Marc-Andre Lemburg - Running EuroPython 2020 as an online conference
+https://youtu.be/h4b7_0Nfnu0
+
+Mark Smith - Everything You Know About MongoDB is Wrong!
+https://youtu.be/ISfzI7LTDL4
+
+Mason Egger - There’s a Snake in the Birdhouse!
+https://youtu.be/OOoGjznwhJU
+
+Morning Announcements 0724
+https://youtu.be/afRHC4DUJno
+
+Reuven Lerner - How to sort anything
+https://youtu.be/Z3c2LvEJeu0
+
+Sangarshanan Veeraraghavan - Interactive Mapmaking with Python
+https://youtu.be/cWVKGz4gvwE
+
+Siddha Ganju - 30 Golden Rules of Deep Learning Performance
+https://youtu.be/B98m2k7CKYc
+
+Stefan Baerisch - Tests that (Almost) Write Themselves
+https://youtu.be/CSwm95DLRf4
+
+T. Petkos, G. Zisopoulos - Ensuring data integrity with asynchronous programming in a cloud IoT core
+https://youtu.be/NuBTiOwMv6o
+
+Vincent D. Warmerdam - Why Transformers Work
+https://youtu.be/cFUSjztXbL8
+Videos 126-150

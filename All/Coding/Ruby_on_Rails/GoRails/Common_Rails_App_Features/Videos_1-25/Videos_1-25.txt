@@ -1,0 +1,76 @@
+
+Advanced Flash Messages with Actions in Rails  Preview
+https://youtu.be/-Llz-LvvyQs&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Auto-detect User Time Zones in Rails  Preview
+https://youtu.be/fKHpX65-yhk&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Bulk Operations in Rails  Preview
+https://youtu.be/koTokt6xwG8&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Contrasting Colors with YIQ and Helper Tests in Rails
+https://youtu.be/-4nH35LC0JY&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Drag and Drop Sortable Lists in Ruby on Rails
+https://youtu.be/r884jAqAbHY&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+File Uploads in Rails using Shrine
+https://youtu.be/mG1BUMuSmsc&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to add Amazon Cloudfront CDN to Rails  Preview
+https://youtu.be/k5xD3TreTaM&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to add Notifications to Rails with Noticed
+https://youtu.be/Scffi4otlFc&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How To Handle First & Last Name Properly In Rails
+https://youtu.be/zhIi2D7c_hE&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to Submit Complex Form Data in Ruby on Rails  Preview
+https://youtu.be/Yn0qvWK7_T4&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use Google Analytics gtag.js with Turbolinks & Webpacker
+https://youtu.be/mQ_Vosc4tkM&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use Google Maps & Places Autocomplete with Rails, Turbolinks & Stimulus
+https://youtu.be/odziYrbiphA&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use the Browser Geolocation API with Rails  Preview
+https://youtu.be/6J9YiH1GDGk&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use Uppy with ActiveStorage
+https://youtu.be/FkhkcRyCkq8&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Infinite Scroll with Stimulus.js & Rails
+https://youtu.be/zq_bEALI9TQ&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Rails Internationalization (I18n) - How to translate & localize your app
+https://youtu.be/lCyP8uKRqQo&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Realtime Online User Tracking with Actioncable & Rails  Preview
+https://youtu.be/l6_lQZh60kw&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Redirecting Old Slugs & History with FriendlyID  Preview
+https://youtu.be/iFMCD1NO58I&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Require Work Email Address on Registration  Preview
+https://youtu.be/VomNTAiciKc&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Row-level Multitenancy in Rails with ActsAsTenant  Preview
+https://youtu.be/9zG7-zcUUqM&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Row-level Multitenancy in Rails with ActsAsTenant
+https://youtu.be/5KuTzT_MWoM&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Sharing Cookies with Subdomains in Rails
+https://youtu.be/AVh98mM1mpQ&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Super Fast Pagination in Rails with Pagy
+https://youtu.be/K4fob588tfM&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Tracking Online Users using Timestamps
+https://youtu.be/fE1DYmujRxY&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+User Avatars with Rails Active Storage
+https://youtu.be/OoPmNm2Z8sg&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+Videos 1-25

@@ -1,0 +1,7 @@
+
+Golang UK Conference 2015 - Mat Ryer - Building APIs
+https://youtu.be/tIm8UkSf6RA
+
+Golang UK Conference 2015 - William Kennedy - Dependency Management
+https://youtu.be/CdhucJShJU8
+Videos 151-152

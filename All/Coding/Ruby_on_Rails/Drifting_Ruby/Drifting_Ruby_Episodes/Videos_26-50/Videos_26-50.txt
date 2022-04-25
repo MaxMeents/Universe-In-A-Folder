@@ -1,0 +1,76 @@
+
+Episode #293 - Testing View Components  Preview
+https://youtu.be/8cUCMVl0oZI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #294 - Building a Questionnaire
+https://youtu.be/ehW34a8DCUo&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #295 - Gathering Questionnaire Responses  Preview
+https://youtu.be/D3nfxmqExoI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #296 - Two-Way SMS Conversation  Preview
+https://youtu.be/EP6XVinJdic&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #297 - Sign in with Apple  Preview
+https://youtu.be/KeoTB_bCKBg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #298 - AWS App Runner  Preview
+https://youtu.be/z6dZo8IxJV8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #299 - 10 Tips and Tricks
+https://youtu.be/uAtl4MjFCuU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #300 - Authentication from Scratch  Preview
+https://youtu.be/ORAcBCYH7zw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #301 - Managing User Session Devices  Preview
+https://youtu.be/tPHbRkNLCfA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #302 - Hardware Security Keys  Preview
+https://youtu.be/ZjCLWJtBMSE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #303 - Tracking Events with Ahoy
+https://youtu.be/W_Ww2sy2nn4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #304 - Cryptocurrency Payments  Preview
+https://youtu.be/N78Yhmjzi2c&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #305 - Ransack Search and Hotwire  Preview
+https://youtu.be/X9DoLixVE04&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #306 - Background Jobs with Resque  Preview
+https://youtu.be/XvDt8ewPWU4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #307 - Hotwire Turbo Replacing Rails UJS
+https://youtu.be/dn7bIWjgN7w&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #308 - Slim Select with Stimulus  Preview
+https://youtu.be/zy33K1_bgZs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #309 - Creating Command Line Applications  Preview
+https://youtu.be/EJIpF7FJ_X4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #310 - Adding Custom Buttons to Action Text  Preview
+https://youtu.be/DvcAaC5apoc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #311 - Drag and Drop with Hotwire  Preview
+https://youtu.be/UuTalLeTIvI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #312 - Importmaps in Rails 7
+https://youtu.be/veWpot6zfUQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #313 - esbuild for Rails
+https://youtu.be/qht_vqnYeEM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #314 - Logging in Rails  Preview
+https://youtu.be/LOMvLNqMrAc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #315 - Securing Downloads with Global ID  Preview
+https://youtu.be/2ZrL1aYFhzw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #316 - Reset Password from Scratch  Preview
+https://youtu.be/1BHiy5Szy8A&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #317 - Error Tracking from Scratch
+https://youtu.be/DwVfqjEPyGA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 26-50

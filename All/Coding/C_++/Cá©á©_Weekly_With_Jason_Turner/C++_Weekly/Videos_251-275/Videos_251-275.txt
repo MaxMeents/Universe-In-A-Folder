@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 250 - Custom Allocation - How, Why, Where (Huge multi threaded gains and more!)
+https://youtu.be/5VrX_EXYIaM&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 251 - constexpr Parameters With C++20's CNTTP
+https://youtu.be/iIizz2bbkiA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 252 - Real World PMR 2-3x Faster JSON Parsing with Custom Allocation Strategies
+https://youtu.be/R5PHRY5Pnlg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 253 - C++20 is Official! How To Get Your Copy of the Standard
+https://youtu.be/fWWBG7zekL8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 254 - C++23's signed  unsigned size_t Literals
+https://youtu.be/iadZWeOWr0U&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 255 - C++11-17 Features You Still Cannot Use in 2021
+https://youtu.be/RpSjU2C5SYc&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 256 - C++11's Garbage Collector
+https://youtu.be/jZ2pXlcDGFc&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 257 - Garbage In, Garbage Out - Why Initialization Matters
+https://youtu.be/uYN6-YQPsGo&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 258 - The Awesome Power of C++20's stdsource_location
+https://youtu.be/TAS85xmNDEc&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 260 - C++'s Most Vexing Parse How To Spot It, Why It Exists, and How To Avoid It
+https://youtu.be/ByKf_foSlXY&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 261 - C++20's New consteval Keyword
+https://youtu.be/b22cKntJslU&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 262 - stdstring's 11 Confusing Constructors
+https://youtu.be/3MOw1a9B7kc&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 263 - Virtual Inheritance Probably Not What You Think It Is
+https://youtu.be/vZPkYvsqQxQ&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 264 - Covariant Return Types and Covariant Smart Pointers
+https://youtu.be/tvGCQmE5-Fs&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 265 - C++20's stdbit_cast
+https://youtu.be/crErQJMwz1g&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 266 - C++20's stdshift_left and stdshift_right
+https://youtu.be/I-rEkLyaeTE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 267 - C++20's starts_with and ends_with
+https://youtu.be/qyQvJc-GRro&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 268 - Top 10 C++ Resources You MUST Know About!
+https://youtu.be/eSDVVrjFh54&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 269 - How To Use C++20's constexpr stdvector and stdstring
+https://youtu.be/cuFILbHp-RA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 270 - Break ABI to Save C++
+https://youtu.be/By7b19YIv8Q&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 271 - string.clear() vs string = 
+https://youtu.be/3X9qK7HWxjk&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 272 - Hello World, Hello Commodore
+https://youtu.be/w2L3Vz5X8JU&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 273 - C++23's Lambda Simplification (With Commodore 64 Example)
+https://youtu.be/fPWWo0MVK34&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 274 - Why Is My Pair 310x Faster Than `stdpair`
+https://youtu.be/3LsRYnRDSRA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Exploring and Reviewing F', The Mars Ingenuity Flight Software
+https://youtu.be/RbhufLudVsI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+Videos 251-275

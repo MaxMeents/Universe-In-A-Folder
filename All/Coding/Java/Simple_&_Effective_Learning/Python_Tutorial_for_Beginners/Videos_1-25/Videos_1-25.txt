@@ -1,0 +1,76 @@
+
+Arithmetic Operators in Python  Comparison Operators in Python  Python Tutorial for Beginners
+https://youtu.be/9_pruDyTFLk&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Basics of Python  Python Tutorial for Beginners  Python in 24 Hours  Latest Python Tutorial
+https://youtu.be/6I3TQYSZNJs&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Bitwise Operators in Python  Python Bitwise Operators  Latest python tutorial
+https://youtu.be/kXH5O_jowmw&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Classes and Objects in python  OOP in python  Python Classes and Objects
+https://youtu.be/zm6yWd0SX8Y&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Dictionary in python  Python Dictionaries  Latest python tutorial
+https://youtu.be/Rch1sQbw65Y&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+How to Save and Run python program  Save and Run python script  Python tutorial for beginners
+https://youtu.be/W6ZmmAepvwc&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+How to write Python Programs (Command Line, IDLE, PyCharm)   Latest Python Tutorial
+https://youtu.be/DJCrzX3n4N8&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+List in python  Python List  Latest python tutorial  Python tutorial for beginners
+https://youtu.be/X6lFhfxUk5Q&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Pycharm Installation  Python Installation  Latest Python Tutorial
+https://youtu.be/ov1L35K_CHI&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python built in functions  Python built in modules  Built-in Modules and Functions
+https://youtu.be/4XqDTBkHu50&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Data Types  Data Types in Python  python tutorial for beginners  Latest Python Tutorial
+https://youtu.be/PvrH_CysfXo&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python if else statement  python if else elif tutorial  Python nested if else statements
+https://youtu.be/b4DtGBAp7KY&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Inheritance  Super & Sub Classes  Multiple Inheritance  Python Tutorial for Beginners
+https://youtu.be/BIWQcxln2Go&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python introduction  What is Python  Latest Python Tutorial  Python Tutorial for Beginners
+https://youtu.be/HPLsJ-0D7OU&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Keywords  Python Identifiers  python tutorial for beginners  Latest Python Tutorial
+https://youtu.be/9fl9f16nk6Q&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Logical Operators  Python Identity Operators  Python Membership Operators
+https://youtu.be/vyeib2Ph8LU&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Numbers  Numbers in Python  Numeric Types in Python  Data Types in python
+https://youtu.be/X-bTFZQE-s0&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Statement  Python Expression  Python Indentation  Latest Python Tutorial
+https://youtu.be/QDFjiYqTMRg&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python User Input  How to get user input in python  Latest python tutorial
+https://youtu.be/oLx9S7qDWG0&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Python Variables  python tutorial for beginners  Latest Python Tutorials  Variables in python
+https://youtu.be/I5uKZrKRX8Q&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Set Data type in Python  Python Set Data Type  Python Tutorial for Beginners
+https://youtu.be/M5kWHi6Gv1E&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+String data type in python  python strings  Python tutorial for beginners
+https://youtu.be/1cSB8s8_Qts&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+Tuples in python  Python Tuples  Python tutorial for Beginners  Latest python tutorial
+https://youtu.be/b98DdKgKNPQ&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+User defined function in python  Latest python tutorial  Python User Defined Function
+https://youtu.be/oRBxGU9WEMs&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+
+While Loop in python  for Loop in python  Python Loops  Python tutorial for beginners
+https://youtu.be/0GoHdTz3low&list=PLnwPi7O4x-PBlBkb_iJra-wQxRJtbm1pO
+Videos 1-25

@@ -1,0 +1,19 @@
+
+Basic operations in cpp, type casting, addition, substraction, multiplication, divison, remainder
+https://youtu.be/BDhZRk5SJxA&list=PLsCxtlA-F5NbuLNXiB-smmpoNfVQ-9WOz
+
+Basic string operations in cpp
+https://youtu.be/GlyQIYkAoeY&list=PLsCxtlA-F5NbuLNXiB-smmpoNfVQ-9WOz
+
+C++ demonstration
+https://youtu.be/JSjt0GuG1j4&list=PLsCxtlA-F5NbuLNXiB-smmpoNfVQ-9WOz
+
+Datatype in C++ basics of CPP
+https://youtu.be/zLGgCCMc8Q0&list=PLsCxtlA-F5NbuLNXiB-smmpoNfVQ-9WOz
+
+Funny learning MAPS concept in C++ tells how to save your lovers list effeciently
+https://youtu.be/ao1WyImjB0Y&list=PLsCxtlA-F5NbuLNXiB-smmpoNfVQ-9WOz
+
+Sets concept reveal Beauty of C++ very easy to learn
+https://youtu.be/X5UioyyO3KY&list=PLsCxtlA-F5NbuLNXiB-smmpoNfVQ-9WOz
+C++ programming basics

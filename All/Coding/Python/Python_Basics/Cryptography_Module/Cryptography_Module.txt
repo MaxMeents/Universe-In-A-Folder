@@ -1,0 +1,52 @@
+
+Python Basics Tutorial Create Your Own Message Encryption Program  Data Encryption
+https://youtu.be/g3UUCY4StwQ&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Fernet Key Generation   Data Encryption
+https://youtu.be/5huNzClWRHY&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Fernet Object  Data Encryption
+https://youtu.be/u2QXLZAPlEw&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Fernet Object Decrypt Method  Data Encryption
+https://youtu.be/Cv3zkPW0BV4&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Fernet Object Encrypt Method  Data Encryption
+https://youtu.be/WvYrNnExoOg&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Hazmat Primitives  Data Encryption
+https://youtu.be/yNDimTGMiiw&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Hazmat Warning  Data Encryption
+https://youtu.be/Ca4L4vXZbck&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography MultiFernet Object  Data Encryption
+https://youtu.be/C0C4iVgMOMI&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography MultiFernet Rotate  Security Breach Data Encryption
+https://youtu.be/p2yRCl1gi7o&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography Password Based Key Derivation Function  Data Encryption
+https://youtu.be/fKw4L-mmv0c&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography PBKDF2HMAC Algorithm Argument  Data Encryption
+https://youtu.be/qH57SvgjHy0&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography PBKDF2HMAC Algorithm Salt Argument  Data Encryption
+https://youtu.be/ALPKat0QugE&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography PBKDF2HMAC Object Derive Method Create Key  Data Encryption
+https://youtu.be/68tNyJpESgg&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Cryptography PBKDF2HMAC Object Verify Method  Data Encryption
+https://youtu.be/Of7lJXo9-a4&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Import Cryptography fernet Module  Data Encryption
+https://youtu.be/8MGW0IYCvr4&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial Install Cryptography Package   Data Encryption
+https://youtu.be/vrlwIG33_l4&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+
+Python Basics Tutorial What is SHA256 Hashing  Blockchain
+https://youtu.be/fbOhnmuCn7c&list=PLaYT64KWZAEOdK98Y1O_wyOI2G67kwTzR
+Cryptography Module

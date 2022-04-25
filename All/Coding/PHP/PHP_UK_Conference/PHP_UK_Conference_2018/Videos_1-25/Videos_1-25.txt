@@ -1,0 +1,76 @@
+
+PHP UK 2018 - Hannes Van De Vreken - Inversion of Control Containers Beyond Constructor Injection
+https://youtu.be/moNNCdLCJr8&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK 2018 - Liam Wiltshire - London Calling Creating a customisable, multi-tenanted i18n solution
+https://youtu.be/WCAIQdvvAaA&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK 2018 - Matt Brunt - Behaviour Driven Development and Behat Telling Stories Through Code
+https://youtu.be/bCLlBgYQoIk&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK 2018 - Thijs Feryn - Build, provision & deploy in the Cloud with Packer, Ansible & Terraform
+https://youtu.be/myy_DGD9JoU&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference  2018 - PJ Hagerty - Urban Legends What You Code Makes You Who You Are
+https://youtu.be/lUqGNBxQMx4&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018  - Jachim Coudenys - How Doctrine Caching Can Skyrocket Your Application
+https://youtu.be/PzrbkRZEdHA&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Beth Tucker Long - Theming WordPress
+https://youtu.be/1spgWAQMErI&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Derick Rethans - Introduction to PHP Extensions
+https://youtu.be/cxu3mcum-Sk&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Dheeraj Joshi - Content Security Policy to the Rescue
+https://youtu.be/GZS5uS_4PMs&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Freek Van der Herton - Creating a dashboard with Laravel, Vue and Pusher
+https://youtu.be/3q64HgGmLP4&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Gary Hockin - Things I Wish I Knew When I Started Playing 'Developer'
+https://youtu.be/E6wKix6eLFg&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Ipsha Bhidonia - Service Workers and their role in PWAs
+https://youtu.be/fUJWNiWeQ98&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - James Titcumb - Climbing the Abstract Syntax Tree
+https://youtu.be/AEfkYUjEuSs&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Kat Zien - Performance optimisation how do I go about it
+https://youtu.be/4hB7tGcz1l8&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Lorna Jane Mitchell - Working with Webhooks
+https://youtu.be/kBlmEfljrn0&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Marcel Pociot - From zero to multi-platform Chatbot with BotMan
+https://youtu.be/rz1lN-fKHHw&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Mark Niebergall - Automatic PHP 7 Compatibility Checking Using php7cc
+https://youtu.be/59fbepJZ_3w&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Mark Niebergall -Debugging PHP with Xdebug
+https://youtu.be/4wkHBwkhu7g&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Michael Cullum - Introduction to GraphQL
+https://youtu.be/ZE-1Q-QAVpU&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Michael Hausenblas - Building Cloud-Native Applications
+https://youtu.be/417JirTmp2g&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Michael Heap - Zero to Jenkins Automatic builds + deploys
+https://youtu.be/kuBD3p20oyE&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Michiel Rook - Database Schema Migrations with Zero Downtime
+https://youtu.be/un-vdrVAX-A&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Mike Lehan - What You'll Miss on AWS & How To Find It
+https://youtu.be/ofJULYfOUlI&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Oliver Davies - Goodbye Drush Make. Hello Composer!
+https://youtu.be/ZL2FtRTX9Y8&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Rob Allen - Building Websites with Zend Expressive 2
+https://youtu.be/koW1titx9cU&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+Videos 1-25

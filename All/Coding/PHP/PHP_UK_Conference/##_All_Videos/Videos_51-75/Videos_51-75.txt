@@ -1,0 +1,76 @@
+
+Controlling the Variables - Thijs Feryn - PHP UK Conference 2019
+https://youtu.be/f3EU-sd9KPY
+
+Database Encryption in a GDPR World - Scott Dutton - PHP UK Conference 2019
+https://youtu.be/RTZXgxYGOWA
+
+Dive Deep Into Blockchain - Tomasz Kowalczyk -  PHP UK Conference 2019
+https://youtu.be/CD_t5jZtX48
+
+Everything is Awesome - Paul Verbeek Mast - PHP UK Conference 2019
+https://youtu.be/gzUL5cPhD8Q
+
+From Dev to Prod with GitLab CI - Stephan Hochdorfer - PHP UK Conference 2019
+https://youtu.be/Fx0yYvK-aRE
+
+I Deploy on Fridays (And Maybe You Should Too) Michiel Rook - PHP UK Conference 2019
+https://youtu.be/clbnkvJb_mM
+
+Massively Scaled High Performance Web Services with PHP -  Demin Yin - PHP UK Conference 2019
+https://youtu.be/_Yjk7EcZ2dI
+
+PHP UK 2018 - Liam Wiltshire - London Calling Creating a customisable, multi-tenanted i18n solution
+https://youtu.be/WCAIQdvvAaA
+
+PHP UK Conference  2018 - PJ Hagerty - Urban Legends What You Code Makes You Who You Are
+https://youtu.be/lUqGNBxQMx4
+
+PHP UK Conference 2018 - Barney Hanlon - Command and (e)mission Control
+https://youtu.be/syCpDX4I8H8
+
+PHP UK Conference 2018 - Bastian Hofmann - Getting started with Kubernetes
+https://youtu.be/bXRmFfuyxQ0
+
+PHP UK Conference 2018 - Beau Simensen - Get Rolling Fast with Symfony Flex
+https://youtu.be/pm0wDHe_Fs0
+
+PHP UK Conference 2018 - Beth Tucker Long - Theming WordPress
+https://youtu.be/1spgWAQMErI
+
+PHP UK Conference 2018 - Chris Riley - The secrets of Cryptography
+https://youtu.be/gU0mAPywm7o
+
+PHP UK Conference 2018 - Dave Stokes - MySQL 8 -- A New Beginning
+https://youtu.be/LMF2ESRxp7w
+
+PHP UK Conference 2018 - Dheeraj Joshi - Content Security Policy to the Rescue
+https://youtu.be/GZS5uS_4PMs
+
+PHP UK Conference 2018 - Freek Van der Herton - Creating a dashboard with Laravel, Vue and Pusher
+https://youtu.be/3q64HgGmLP4
+
+PHP UK Conference 2018 - Gary Hockin - Things I Wish I Knew When I Started Playing 'Developer'
+https://youtu.be/E6wKix6eLFg
+
+PHP UK Conference 2018 - James Titcumb - Climbing the Abstract Syntax Tree
+https://youtu.be/AEfkYUjEuSs
+
+PHP UK Conference 2018 - Kat Zien - Performance optimisation how do I go about it
+https://youtu.be/4hB7tGcz1l8
+
+PHP UK Conference 2018 - Marcel Pociot - From zero to multi-platform Chatbot with BotMan
+https://youtu.be/rz1lN-fKHHw
+
+PHP UK Conference 2018 - Mark Niebergall - Automatic PHP 7 Compatibility Checking Using php7cc
+https://youtu.be/59fbepJZ_3w
+
+PHP UK Conference 2018 - Mark Niebergall -Debugging PHP with Xdebug
+https://youtu.be/4wkHBwkhu7g
+
+PHP UK Conference 2018 - Michael Hausenblas - Building Cloud-Native Applications
+https://youtu.be/417JirTmp2g
+
+Running Your PHP Site on AWS Lambda - Neal Brooks - PHP UK Conference 2019
+https://youtu.be/TTyIBOnpI9s
+Videos 51-75

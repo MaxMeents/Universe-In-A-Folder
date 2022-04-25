@@ -1,0 +1,76 @@
+
+Anand Vemuri What Your Scanner Doesn’t Tell You CAN Hurt You  JSConf EU 2015
+https://youtu.be/GPce5lNUhtc
+
+Artur Janc Security in the world of JS frameworks  JSConf EU 2015
+https://youtu.be/4Qs5mqa4ioU
+
+Ashley Williams – If you wish to learn ES62015 from scratch, you must first invent the universe
+https://youtu.be/HxHBAU0cTHU
+
+Bryan Hughes Getting Involved and How to Do It  JSConf EU 2015
+https://youtu.be/UcPCAYpgB7k
+
+Carlos Perez - Designers – JSConf US Last Call
+https://youtu.be/Qeh94g7AUwc
+
+Cate Huston Some Things I’ve Learned About Color  JSConf EU 2015
+https://youtu.be/UqSQbS7rltU
+
+Curtis Lassam Horse Drawing Tycoon The World's Best Horse Drawing Simulator  JSConf EU 2015
+https://youtu.be/BRbcoXq_x2M
+
+Dmitry Baranovskiy Zen of JavaScript  JSConf EU 2015
+https://youtu.be/QHs55-5FzgA
+
+Franziska Hinkelmann A Trip to the Zoo SpiderMonkey, SquirrelFish, Nashorn, V8  JSConf EU 2015
+https://youtu.be/sloddfX9jLE
+
+Gilmore Davidson Time zone of your life  JSConf EU 2015
+https://youtu.be/2BdFg5JT9lg
+
+Heiko Behrens - Pebble – JSConf US 2015
+https://youtu.be/2TslKh1tdm4
+
+Jennifer Wong I Think I Know What You’re Talking About, But I’m Not Sure  JS Conf EU 2015
+https://youtu.be/j3vWXJ2Vgd4
+
+JSPardy - JSConf.Asia 2015
+https://youtu.be/itnavS5CenU
+
+Kevin Old - Imposter Syndrome – JSConf US 2015
+https://youtu.be/RP1hp-kiLRs
+
+Lewis Cowper Forklift Driver to Developer in 9 Months  JSConf EU 2015
+https://youtu.be/zKLkHbcjwsc
+
+Mariko Kosaka – Once upon a punch card - how textiles can explain why we have the web
+https://youtu.be/e7wwuZnnM9k
+
+Martin Schuhfuß Let there be light!  JSConf EU 2015
+https://youtu.be/ani_MOZt5_c
+
+Ola Adedoyin Applying 3D Engineering Drawing Techniques To Web App Diagrams  JSConf EU 2015
+https://youtu.be/57fth5EZl8E
+
+Rektide de la Faye - HTTP2 Push and WebPush – JSConf US 2015
+https://youtu.be/ac-qBrG5wVc
+
+Ron Cohen – JSConf US 2015
+https://youtu.be/Ev5qCpLpKoE
+
+Surma Surma The Mobile Web is a Contender  JSConf EU 2015
+https://youtu.be/3fNEkYJIXhc
+
+Thomas Gorissen The year of the peer-to-peer web  JSConf EU 2015
+https://youtu.be/CzxQn78uO6c
+
+Thomas Watson - Emulating Printers – JSConf US 2015
+https://youtu.be/eako-xwCs6s
+
+Todd Gardner JavaScript Forensics  JSConf EU 2015
+https://youtu.be/Xvdnewmdokc
+
+Whitney Williams If Walter Gropius was a JavaScripter  JSConf EU 2015
+https://youtu.be/fuXuirjR5NM
+Videos 826-850

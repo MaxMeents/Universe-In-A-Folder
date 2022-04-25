@@ -1,0 +1,10 @@
+
+Python Basics Deep Dive with Generators
+https://youtu.be/SEEg_ivpnIU&list=PLaYT64KWZAEOk-QJosPD1eRXTwAlrcqsV
+
+Python Basics Generator Objects
+https://youtu.be/PzV-_lQQ2x8&list=PLaYT64KWZAEOk-QJosPD1eRXTwAlrcqsV
+
+Python Basics Glob iglob Method
+https://youtu.be/KHlCRYvwQ0g&list=PLaYT64KWZAEOk-QJosPD1eRXTwAlrcqsV
+generator object

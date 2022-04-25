@@ -1,0 +1,10 @@
+
+Gradients - Short Version (iOS, Xcode 8, Swift 3)
+https://youtu.be/rusfLhmuuMY&list=PLHDMmeIMXj8UPwXlIf_eo8YiiuXbrCAg9
+
+How to create a Color Gradient on the Storyboard - Long Version (iOS, Xcode 8, Swift 3)
+https://youtu.be/1NhlrhQhK0A&list=PLHDMmeIMXj8UPwXlIf_eo8YiiuXbrCAg9
+
+Radial Gradients on a UIView (iOS, Xcode 8, Swift 3)
+https://youtu.be/GomZwkQfmns&list=PLHDMmeIMXj8UPwXlIf_eo8YiiuXbrCAg9
+Gradients

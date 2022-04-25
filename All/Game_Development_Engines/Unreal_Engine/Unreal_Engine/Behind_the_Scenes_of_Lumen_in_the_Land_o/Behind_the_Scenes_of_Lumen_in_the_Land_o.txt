@@ -1,0 +1,13 @@
+
+Behind the scenes of “Lumen in the Land of Nanite”  Unreal Engine 5
+https://youtu.be/ntvrjeW2Pek&list=PLZlv_N0_O1gaYa0lsBcVzkTbZPVXGNv_s
+
+Creating next-gen visual effects that think for themselves with Niagara  Unreal Engine 5
+https://youtu.be/6fnzUkPDrsI&list=PLZlv_N0_O1gaYa0lsBcVzkTbZPVXGNv_s
+
+Solving for fully dynamic global illumination with Lumen  Unreal Engine 5
+https://youtu.be/CfTUll36l1w&list=PLZlv_N0_O1gaYa0lsBcVzkTbZPVXGNv_s
+
+What is virtualized micropolygon geometry An explainer on Nanite  Unreal Engine 5
+https://youtu.be/-50MJf7hyOw&list=PLZlv_N0_O1gaYa0lsBcVzkTbZPVXGNv_s
+Behind the Scenes of Lumen in the Land of Nanite  Unreal Engine

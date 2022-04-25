@@ -1,0 +1,76 @@
+
+Python Basics Tutorial API Key Management  Ameritrade API Part 4  Stock Screener
+https://youtu.be/l1FnBoMsIPk
+
+Python Basics Tutorial Automate File Naming  Ameritrade API Part 7  Stock Screener
+https://youtu.be/ovkLgV0aR6Y
+
+Python Basics Tutorial Bitwise And and Or Operators
+https://youtu.be/Ck2mFClw6wo
+
+Python Basics Tutorial Built in Slice Function
+https://youtu.be/PDI9D_tJl0E
+
+Python Basics Tutorial Challenge 8 Answer and A look at All API's  Ameritrade API Part 2
+https://youtu.be/L01ls6l7m5A
+
+Python Basics Tutorial Challenge 8 API Restrictions
+https://youtu.be/xy7tkA101zE
+
+Python Basics Tutorial Cleaner Random Password Generator with Random Choices Method
+https://youtu.be/g1mI_woc0KM
+
+Python Basics Tutorial Door Guessing Challenge  Discord Community
+https://youtu.be/JNcS_UgtemU
+
+Python Basics Tutorial How to Replace Multiple String Characters  String Replace
+https://youtu.be/NoISez3cqDo
+
+Python Basics Tutorial Instruments API  Ameritrade API Part 3  Stock Screener
+https://youtu.be/fpgzyLT_d4E
+
+Python Basics Tutorial JSON Response Object  Ameritrade API Part 5  Stock Screener
+https://youtu.be/IcIvm6cKl5M
+
+Python Basics Tutorial Merge and Extract JSON Data Ameritrade API Part 8  Stock Screener
+https://youtu.be/jkTSBT6isEM
+
+Python Basics Tutorial New Editor Spyder IDE
+https://youtu.be/-FdZbbdhwp0
+
+Python Basics Tutorial Operator And Or Division
+https://youtu.be/sv60UT_B22U
+
+Python Basics Tutorial Operator Concat, Contains, CountOf Functions
+https://youtu.be/Rk-E-dwN59c
+
+Python Basics Tutorial Operator In-place Functions
+https://youtu.be/pEHXTRClvzE
+
+Python Basics Tutorial Operator Indexing Functions
+https://youtu.be/ogapude2M-g
+
+Python Basics Tutorial Operator Ordering and Equality Functions
+https://youtu.be/zG4_sETEAus
+
+Python Basics Tutorial Operator Slicing Functions  Setitem Delitem Getitem
+https://youtu.be/UEM7RXPyeEk
+
+Python Basics Tutorial Pandas DataFrame Tolist Method  Ameritrade API Part 6  Stock Screener
+https://youtu.be/LudH8Df4qZg
+
+Python Basics Tutorial Pandas Groupby Series Methods  Requested Video
+https://youtu.be/n08Jyq0vnwM
+
+Python Basics Tutorial Place Data in Pandas DataFrame  Ameritrade API Part 9  Stock Screener
+https://youtu.be/x7k6HRio09U
+
+Python Basics Tutorial Set up for Ameritrade API  Part 1  Stock Screener
+https://youtu.be/oZSNFFdkEP0
+
+Python Basics Tutorial Slice Pandas DataFrame with Multiple Series Ameritrade Part 10 Stock Screener
+https://youtu.be/GWx86rf6jJE
+
+Python Basics Tutorial You are Not Alone  Discord Community
+https://youtu.be/NUuq2hrIpOM
+Videos 151-175

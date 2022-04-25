@@ -1,0 +1,10 @@
+
+GPIO Tutorial for Pi Part 2 - Programming the GPIO
+https://youtu.be/t0uuwHJQob4&list=PLQVvvaa0QuDdnpgDr1YZF9dI_4G334od6
+
+GPIO Tutorial for Raspberry Pi Part 1 - Setting up
+https://youtu.be/xdnmySPke1s&list=PLQVvvaa0QuDdnpgDr1YZF9dI_4G334od6
+
+GPIO Tutorial for Raspberry Pi Part 3 - Running our GPIO
+https://youtu.be/1OwG6EgUXbI&list=PLQVvvaa0QuDdnpgDr1YZF9dI_4G334od6
+Raspberry Pi GPIO basics

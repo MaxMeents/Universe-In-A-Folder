@@ -1,0 +1,49 @@
+
+Make A 3D Platformer in Unity #1 The Setup
+https://youtu.be/h2d9Wc3Hhi0&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #10 - Gold Pickups
+https://youtu.be/RZPPLxVooSM&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #11 - Pickup Effects
+https://youtu.be/nMQFo3E_7pU&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #12   Health System
+https://youtu.be/lE1ss-F-rMk&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #13   Knockback
+https://youtu.be/MwojdoYu0lE&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #14 - Invincibility
+https://youtu.be/Q_IJByi948M&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #15   Respawning
+https://youtu.be/vV4FIzfzpJo&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #16 - Respawn Effects
+https://youtu.be/uB33sdjftRY&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #2 Moving The Player
+https://youtu.be/IstYXj_k4NA&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #3 Better Movement
+https://youtu.be/p5OWasgD1no&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #4 Moving the Camera & Smooth Jumps
+https://youtu.be/IeuqDVKfJag&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #5 Rotating the Camera
+https://youtu.be/ZNhs8lbJDbE&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #6 Moving With Camera Rotation
+https://youtu.be/bJ6pbT3RzLA&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #7 - Stop Camera Flip & Inverting Camera
+https://youtu.be/OGPlUDD7g1I&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #8 - Adding Player Model
+https://youtu.be/H_R4GhlyAig&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+
+Make A 3D Platformer in Unity #9   Running In Different Directions
+https://youtu.be/VH5kS1Pjdyk&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37
+Unity 3D Platformer - Learn to Make a 3D Action Platformer!

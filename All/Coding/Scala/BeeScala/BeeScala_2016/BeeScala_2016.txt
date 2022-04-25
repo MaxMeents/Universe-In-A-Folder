@@ -1,0 +1,49 @@
+
+BeeScala 2016 Adam Warski - Web & mobile session management using akka-http
+https://youtu.be/4XirKUsnytY&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Aleksandar Prokopec - Bridging the gap towards high-level distributed computing
+https://youtu.be/JLar8YECqKg&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Andrea Peruffo - Don’t call me frontend framework! A quick ride on Akka.Js
+https://youtu.be/pO1rY5780Mg&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Holden Karau - Ignite your data with Spark 2.0
+https://youtu.be/kSwIYEJrnYQ&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Ivan Topolnjak - Keeping it alive with Kamon
+https://youtu.be/4VZf3KKNOec&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Jacek Laskowski - Speak Spark SQL for better performance
+https://youtu.be/M5aKSJ0C_wk&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Jan Macháček - Production microservices patterns
+https://youtu.be/b8lUfKy_HJo&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Katrin Shechtman - Pragmatic Scala.js
+https://youtu.be/MYCwqAfAyAo&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Manuel Bernhardt - Beyond the Buzzword a reactive web application in practice
+https://youtu.be/QaIztrJilBw&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Manuel Bernhardt - Six years of Scala and counting
+https://youtu.be/bZdKPnDe9to&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Michal Tomanski - Express yourself with a finite-state machine
+https://youtu.be/iwmLi-O5x2Y&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Noel Markham - ScalaCheck like a boss
+https://youtu.be/JgW4JxjSY4s&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Pawel Dolega - A gentle introduction to Slick 3 (accessing RDMBS from Scala 101)
+https://youtu.be/t1EbXHVJXfs&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Renato Cavalcanti - Functional and Reactive Event Sourced Applications
+https://youtu.be/5amw2l4LR_c&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Rok Piltaver - Get a Spark from your data!
+https://youtu.be/bmiD1BAz7FY&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+
+BeeScala 2016 Tzofia Shiftan - Evolutionary Algorithms
+https://youtu.be/bpCAoErzKpU&list=PL-HEfXhQM8UtdzM4xHi1KD_xGVaLBHLqA
+BeeScala 2016

@@ -1,0 +1,76 @@
+
+Amazing AutoHotkey resources cheat sheet  74 great links to AHK topics
+https://youtu.be/6sB2VFZt628&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+Announcing the 2020 AutoHotkey User Survey
+https://youtu.be/iF9B8vdp98c&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar #51 Sep 2020 Hour 1 Helping attendees with their code
+https://youtu.be/ruqRRirqJH0&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar #51 Sep 2020 Hour 2
+https://youtu.be/b9NytafO3So&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 022021 Hour 1-Pulover's Macro Creator
+https://youtu.be/vdLDWFavW2Y&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 022021 Hour 2-Pulover's Macro Creator
+https://youtu.be/O5wpSRxsRio&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 032021 Hour1 VS Code for AutoHotkey, Debugging and GIT
+https://youtu.be/eZ0PABbWpKw&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 032021 Hour2  Questions and Answers
+https://youtu.be/fKpk_WL49ec&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 042021 Hour 1-Notepad++
+https://youtu.be/sVFVSlpHSFw&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 042021 Hour 2  Notepad++ Q&A And helping attendees
+https://youtu.be/YD0KPEijggc&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 052021 Hour 1
+https://youtu.be/fMJ1kE4ZNGM&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 052021 Hour 2
+https://youtu.be/6wj6-ClFYy8&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 062021 Hour 1 Fiddler Everywhere, APIs and Snagit
+https://youtu.be/561GzhS2tsU&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 062021 Hour 2 GUI, PID, HWND ID, etc.
+https://youtu.be/Gjc0zlhnlx8&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 102020 Hour 1-Cool & Advanced HotStrings script
+https://youtu.be/v3PyTM44JBc&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 102020 Hour 2-External Keyboards & Touchpads
+https://youtu.be/DnDU1kTdyrk&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 112020 Hour 1 Mentorship site and AHK User Survey
+https://youtu.be/lXAUCIzbJFw&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 112020 Hour 2
+https://youtu.be/a71pyeoBOs4&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 122020 Part 1  Amazing AutoHotkey ListView class
+https://youtu.be/pRQyFFmP2yQ&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar 122020 Part 2 Troubleshooting WebScraping with Chrome
+https://youtu.be/Q7ORE1kjVVc&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey webinar 72021 Hour 1
+https://youtu.be/XSRP8HA8SfM&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey webinar 72021 Part 2
+https://youtu.be/X9G29YlUClU&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar Jan, 2021 AutoHotkey User Survey 2- Q&A
+https://youtu.be/EqgLcq34-zg&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+AutoHotkey Webinar Jan, 2021 AutoHotkey User Survey Results
+https://youtu.be/bfX66eOdiok&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+
+Webinar Reminder and Need input for office hours to offer free support
+https://youtu.be/TW80VTRtuOE&list=PL3JprvrxlW24DPp32LTRr9h3HDR-IZ8Fa
+Videos 101-125

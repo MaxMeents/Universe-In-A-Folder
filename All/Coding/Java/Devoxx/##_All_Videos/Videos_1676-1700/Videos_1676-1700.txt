@@ -1,0 +1,76 @@
+
+10 tips to become an awesome Technical Lead by Bart Blommaerts
+https://youtu.be/bI4zW8CynDM
+
+A Practical Introduction to Akka Streams by Jacek Kunicki
+https://youtu.be/L1FS2dyiwIg
+
+A reasonable overview of Java 9 and how you could think of it by Oleg Šelajev
+https://youtu.be/6Aq9SINLWHo
+
+Anomaly detection in real time a k a  simplicity is the ultimate sophistication by Piotr Guzik
+https://youtu.be/btLdDqI5C2o
+
+Automate your docs automate yourself by Chris Ward
+https://youtu.be/hDXw8vibdoM
+
+Building Globally distributed Server less JIRA Add on and using CICD by Leonid Kyrpychenko
+https://youtu.be/HB69HPWKUY8
+
+Cracking the Code to Secure Software by Daniel Sawano and Daniel Deogun
+https://youtu.be/jCmXDh2ecSY
+
+Crash Coaching   Agile coaching for dangerous feedback by Ove Lindström
+https://youtu.be/iqv4WliayoI
+
+Docker Container Orchestration Platforms on Amazon by Arun Gupta
+https://youtu.be/woq063HeQTs
+
+Git Anti Patterns How Mess Up With Git And Love It Again by Lemi Orhan Ergin
+https://youtu.be/Ey1t5omqfYA
+
+JVM Mechanics by Douglas Hawkins
+https://youtu.be/a-U0so9FfqQ
+
+Machine Learning Exposed Deep and Reinforcement Learning by Katharine Beaumont & James Weaver
+https://youtu.be/ije5gHkObxA
+
+Machine Learning Exposed Introduction to Machine Learning by Katharine Beaumont & James Weaver
+https://youtu.be/P_4_bEXc1UQ
+
+Microservices   the naked truth of the maintainability by Jakub Kubrynski
+https://youtu.be/MLiHXnD323Y
+
+Microservices with Kafka by László Róbert Albert and Dan Balescu
+https://youtu.be/c9S6fJaAlzw
+
+Migrating to Microservice Databases From Relational Monolith to Distributed Data by Edson Yanaga
+https://youtu.be/qR27-XWnQYs
+
+Offline first apps with WebComponents by AMahdy Abdelaziz
+https://youtu.be/qBuqcp8PTec
+
+On @annotations   liberate yourselves from demons by Jarek Ratajski
+https://youtu.be/ySXlsZDJMgc
+
+Resilient Architecture by Matt Stine
+https://youtu.be/9Y4dGIaEqPk
+
+SOA lessons learnt OR Microservices done better by Sean Farmar
+https://youtu.be/Hkn1Ua-mEx0
+
+Stages of maturity on the way to microservices by Jakub Marchwicki and Jarosław Pałka
+https://youtu.be/amkHBU0subM
+
+The Art of Clean Code by Victor Rentea
+https://youtu.be/AeWbJ5LIFNg
+
+The Language of Actors by Vaughn Vernon
+https://youtu.be/gHqxPV_lT_I
+
+Think Async in Java 8 by Dmitry Aleksandrov
+https://youtu.be/1QW2m0q_bN4
+
+To the Cloud by Nate Schutta
+https://youtu.be/CuJ4WLItSss
+Videos 1676-1700

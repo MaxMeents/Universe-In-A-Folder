@@ -1,0 +1,76 @@
+
+A joint demosaicking-zooming scheme for single sensor digital color cameras
+https://youtu.be/OTqLMYheSHg
+
+A New Alternating Minimization Algorithm for Total Variation Image Reconstruction
+https://youtu.be/UK8TNzz6_OM
+
+An edge-guided image interpolation algorithm via directional filtering and data fusion
+https://youtu.be/6UP29VWXNgM
+
+Blind Image Quality Prediction Using Joint Statistics of Gradient Magnitude and Laplacian Features
+https://youtu.be/jGxtObmQh6k
+
+Canny edge detection enhancement by scale multiplication
+https://youtu.be/Tlf-VDN5ycQ
+
+Centralized sparse representation for image restoration
+https://youtu.be/d7tgk09oYvI
+
+Color demosaicking via directional linear minimum mean square-error estimation
+https://youtu.be/3Q6ZrZcRsjU
+
+Directional image denoising
+https://youtu.be/2PJUQqrs6u0
+
+Feature SIMilarity (FSIM) index between two images
+https://youtu.be/7UHISFvckTQ
+
+Fisher Discrimination Dictionary Learning for Sparse Representation
+https://youtu.be/Hg3kjOd-SG4
+
+Fisher Discrimination Dictionary Learning with application to Face recognition
+https://youtu.be/S5ucqV5wCQM
+
+Gabor feature based sparse representation for face recognition with Gabor occlusion dictionary
+https://youtu.be/dQ_3bFPFguo
+
+Iterated Graph Cuts for Image Segmentation
+https://youtu.be/ySWoiCC-nbw
+
+Learning Dynamic Guidance for Depth Image Enhancement
+https://youtu.be/z3cXEn6sujk
+
+Local binary pattern (LBP) histogram of an image
+https://youtu.be/uW4l7LWQuD0
+
+On the Dimensionality Reduction for Sparse Representation based Face Recognition
+https://youtu.be/q_SQiK30tUs
+
+Robust mean-shift tracking with corrected background-weighted histogram
+https://youtu.be/GM5r_82S8Gc
+
+Robust object tracking using joint color-texture histogram
+https://youtu.be/rjBNI5-HSH4
+
+Rotation Invariant Nonrigid Point Set Matching in Cluttered Scenes
+https://youtu.be/RqtVtvfhjik
+
+Scale and orientation adaptive mean shift tracking
+https://youtu.be/T8n_qUQoPsY
+
+simplified Fisher Discrimination Disctionary Learning with application to Digit recognition
+https://youtu.be/ohZx-Hik_M8
+
+Sparse Representation or Collaborative Representation Which Helps Face Recognition
+https://youtu.be/Y8jer8Z3NJ8
+
+sparsity-based image denoising via dictionary learning and structural clustering
+https://youtu.be/TzTkLZngQSk
+
+Texture Enhanced Image Denoising via Gradient Histogram Preservation
+https://youtu.be/ptVLeRj5bjA
+
+Tumor Clustering Using Non-negative Matrix Factorization with Gene Selection
+https://youtu.be/GnxacaXtdco
+Videos 251-275

@@ -1,0 +1,76 @@
+
+Automate Logging into Websites Login to Amazon.com with AutoHotkey
+https://youtu.be/_b_feRJJkVE&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Automate Login to LinkedIn with AutoHotkey
+https://youtu.be/14-PlNeabgo&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Automate Login to Pinterest with AutoHotkey
+https://youtu.be/zsZiBcT9PJM&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Automate Login to Reddit with AutoHotkey
+https://youtu.be/uPZjL561VzI&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Automate Login to Twitter with AutoHotkey
+https://youtu.be/Dnvb7C6P_9g&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Easily Filtering Fiddler Traffic & keeping your filters across sessions
+https://youtu.be/DtTBLa0SeM8&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Fiddler tutorial to help Webscraping & API calls  Monitor the Network traffic
+https://youtu.be/rfO2_OU4mLE&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+How to Automate Chrome with AutoHotkey  Getting data from a page
+https://youtu.be/3vvvasxJjVw&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+How to Automate Chrome with AutoHotkey- Setting innerText, Values, and OuterHTML
+https://youtu.be/vm8QYdm_PE8&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+How to automate Login to Gmail, YouTube, Google+ with AutoHotkey
+https://youtu.be/lUiujb6wu5U&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+How to Install Selenium for AutoHotkey  Automate your browsers with Selenium
+https://youtu.be/jD4hDWZIOSw&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+How to use Selenium to download a file  Automate your browser with AHK
+https://youtu.be/rwxPAEtPSDw&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Iterating over objects in Selenium vs COM objects
+https://youtu.be/soGZIYUal1o&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Navigating Frames with Selenium and AutoHotkey
+https://youtu.be/jaBr3pqGr10&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Selenium & AutoHotkey- Various methods for GettingSetting data
+https://youtu.be/qEH1CyhgFmc&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Selenium and AutoHotkey Setting text and clicking elements
+https://youtu.be/MsoMA2DMcSw&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Setting Selenium Chrome profile with AutoHotkey
+https://youtu.be/gMiSfYZND4w&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Updates to Webscraping  AutoHotkey syntax writing tool
+https://youtu.be/A1HeyWJVw90&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+using AutoHotkey and Selenium   Getting information from a page
+https://youtu.be/hns7SsFTI_8&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Using AutoHotkey and Selenium- Starting the webdriver  browsers & navigating to a page
+https://youtu.be/Cs4dWqtJQp4&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Webscraping with AutoHotkey 109a- Triggering an EventListener on a page
+https://youtu.be/v6vD_Pzy7AM&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Webscraping with AutoHotkey 109b- AHK syntax writer dealing with Events
+https://youtu.be/bK9Di8xTFo8&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Webscraping with AutoHotkey 110- Saving binary files  images with AutoHotkey
+https://youtu.be/nVk3-cw5hXs&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+Webscraping with AutoHotkey Wait for Element to Exist or Be visible
+https://youtu.be/Wzd5pxeUqLM&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+
+What is Selenium & why should AutoHotkey users care
+https://youtu.be/d-JuZ8WHB_c&list=PL3JprvrxlW25ZecWl8mdk0828ROaM80DF
+Videos 26-50

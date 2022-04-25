@@ -1,0 +1,76 @@
+
+Admin and Apps - Django Web Development with Python p.3
+https://youtu.be/BJfyATa9nX0
+
+Analyzing model improvements - Deep Learning in Halite AI competition p.7
+https://youtu.be/hjQLx7QW5kg
+
+Barber Motorsports Park Nov 17 w PBOC in 911
+https://youtu.be/ZYClOO1BJ4Y
+
+Building dataset - Deep Learning in Halite AI competition p.3
+https://youtu.be/TjN3XeA2wGc
+
+Checking out Data - Deep Learning in Halite AI competition p.4
+https://youtu.be/Zub26O7C5J0
+
+Conclusion - Deep Learning in Halite AI competition p.8
+https://youtu.be/Ln6A4g9NNnM
+
+Deploying Django to a server - Django Web Development with Python p.12
+https://youtu.be/4FLb1ulb64o
+
+Django Web Development with Python Introduction
+https://youtu.be/yD0_1DPmfKM
+
+Dynamic sidebar - Django Web Development with Python p.11
+https://youtu.be/ZSzGIXYuE1I
+
+Graphingvisualization - Data Analysis with Python and Pandas p.2
+https://youtu.be/DamIIzp41Jg
+
+Introduction - Data Analysis and Data Science with Python and Pandas
+https://youtu.be/nLw1RNvfElg
+
+Linking models with Foreign Keys - Django Web Development with Python p.9
+https://youtu.be/Rju5qdU0e58
+
+Messages and Includes - Django Web Development with Python p.7
+https://youtu.be/0VGJPg0SQIY
+
+Models - Django Web Development with Python p.2
+https://youtu.be/aXxIjeGR6po
+
+MSR Houston CCW Dec 8 2018 911s
+https://youtu.be/QHjEmr0z0g0
+
+Overview - Deep Learning in Halite AI competition p.1
+https://youtu.be/1niezMc2kpM
+
+Running with Trained Model - Deep Learning in Halite AI competition p.6
+https://youtu.be/dGjPfDibhHw
+
+Structuring and visualizing Data - Deep Learning in Halite AI competition p.2
+https://youtu.be/gCNIGvYbX1c
+
+Styling w CSS - Django Web Development with Python p.5
+https://youtu.be/a3d_nyccpM8
+
+Terminal AI Competition
+https://youtu.be/htvFHKA2RSs
+
+Training Model - Deep Learning in Halite AI competition p.5
+https://youtu.be/m0UdvFdUyZM
+
+User Login and Logout - Django Web Development with Python p.8
+https://youtu.be/79A1YoQ5ZJc
+
+User Registration - Django Web Development with Python p.6
+https://youtu.be/riXD5lSInJ4
+
+Views and Templates - Django Web Development with Python p.4
+https://youtu.be/j9elKTmCEhY
+
+Working with Foreign Keys - Django Web Development with Python p.10
+https://youtu.be/NqHX4eF2tw8
+Videos 126-150

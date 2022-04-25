@@ -1,0 +1,76 @@
+
+Ashley Williams - How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!
+https://youtu.be/GCsxYAxw3JQ
+
+Bay Area Rust Meetup August 2014
+https://youtu.be/6i2yQh1g4zs
+
+Bay Area Rust Meetup September 2014
+https://youtu.be/hJaeUDP7puI
+
+Emily Dunham - Keynote Spreading The Rust
+https://youtu.be/dS9fIphTJfM
+
+Erick Tryzelaar - Keynote An Introduction to Rust #RustDayMX
+https://youtu.be/Wq_Mlv1-mSI
+
+Faster Rust Builds
+https://youtu.be/qQXuAeb7oss
+
+Fletcher Nichol - Taking Rust to Production Lessons Learned From the Habitat Project
+https://youtu.be/zAXbPnfTJg4
+
+Geoffroy Couprie - Sōzu, a hot reconfigurable reverse HTTP proxy
+https://youtu.be/y4NdVW9sHtU
+
+Ingvar Stepanyan - Interaction with real-world JavaScript from compiled Rust
+https://youtu.be/zxIbTfsOJZE
+
+Lee Baillie - The Illustrated Adventure Survival Guide for New Rustaceans
+https://youtu.be/iF-FgJvDl6w
+
+Lisa Passing - Making a game in Rust
+https://youtu.be/Ktwl97Ph-SI
+
+Manish Goregaokar - Keynote Open as in Welcoming Facilitating Contributions
+https://youtu.be/AHprJNUCgQ0
+
+Marijn Haverbeke - The Rust That Could Have Been
+https://youtu.be/olbTX95hdbg
+
+Meetup Rust Paris #5 RustLex by Leo Testard.
+https://youtu.be/TjIir9bNOtk
+
+Pascal Hertleif - Writing Idiomatic Libraries in Rust
+https://youtu.be/0zOg8_B71gE
+
+Paul Colomiets - Vagga - containerization without daemons
+https://youtu.be/bCSP5adDPJk
+
+Pierre-Étienne Meunier - Building SSH servers in minutes
+https://youtu.be/TKQoPQcKKTw
+
+Rust Cologne, March Matthias Endler - What's so hard about writing a Slack Client in Rust
+https://youtu.be/rrtJh1kz1Ms
+
+Rust Cologne, March Pascal Hertleif - Diesel Type-Safe SQL
+https://youtu.be/Py3g7-Qv804
+
+RustMeetupParis@Mozilla What New in Rust by Felix S Klock II special MutApocalypse
+https://youtu.be/9iuwRO6cEwA
+
+Sebastian Dröge & Luis de Bethencourt - GStreamer & Rust – A perfect match
+https://youtu.be/W_mnFFqpMpQ
+
+William Light - Linux USB HID Interfacing in Userspace
+https://youtu.be/X4ZAXoNoeu4
+
+[es] Sebastián Magrí - Construyendo un Text Adventure usando Rust
+https://youtu.be/i1wU70E1yS8
+
+[es_MX] Norberto Ortigoza - Introducción al lenguaje y herramientas del ecosistema #RustDayMX
+https://youtu.be/hZ8DGnTi254
+
+[es_MX] Rust México, Abril. Rust en la Academia e Introducción a Iron
+https://youtu.be/Y5apkLSkJaI
+Videos 601-625

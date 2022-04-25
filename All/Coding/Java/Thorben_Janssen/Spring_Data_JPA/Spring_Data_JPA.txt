@@ -1,0 +1,46 @@
+
+5 Hibernate Features You Should Use With Spring Data JPA
+https://youtu.be/9xKHZIEErIE&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+5 JPA Features That Are Easier To Use with Spring Data JPA
+https://youtu.be/fW6_hY1GXAI&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Composite Repositories Extend your Spring Data JPA Repository
+https://youtu.be/tHVyEA8svIg&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Database Migration with Spring Boot
+https://youtu.be/TMUMWfSS3yw&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+How to Initialize Entity Associations with Spring Data JPA
+https://youtu.be/E8a0H1UIrZQ&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+How to Return DTOs from Native Queries with Spring Data JPA
+https://youtu.be/FQNxZD2dbaA&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Native Queries with Spring Data JPA
+https://youtu.be/AFG8lDX7iUg&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA   Implementing Bulk Updates
+https://youtu.be/f09xP-UNf-8&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA How to Use Named Queries
+https://youtu.be/XWf8xYZncJY&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA Query Projections
+https://youtu.be/sLo6if5puC8&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA Ultimate Guide to Custom Queries with @Query Annotation
+https://youtu.be/2SV7QODVHAE&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA What is it And Why Should You Use It
+https://youtu.be/x67yiTHxn00&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA – Detecting Your Entity’s State
+https://youtu.be/GOdh_6pAyYE&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Spring Data JPA – Working with Views
+https://youtu.be/ceY_h4PwzMQ&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+
+Ultimate Guide Derived Queries with Spring Data JPA
+https://youtu.be/GVeY08vUiPE&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW
+Spring Data JPA

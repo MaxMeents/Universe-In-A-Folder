@@ -1,0 +1,31 @@
+
+PHP namespaces 1010 Class autoloading - autoloading namespaced classes
+https://youtu.be/Fx4GYuKJF8o&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 110 What is a namespace in PHP
+https://youtu.be/lNaWD7kRBC8&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 210 How to put code in a namespace in PHP
+https://youtu.be/s0LAJbTuquM&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 310 How to use namespaced code in PHP
+https://youtu.be/mYxdSORiq8g&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 410 Sub-namespaces - declaring a hierarchy of namespaces
+https://youtu.be/tqg34D3AIH4&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 510 Importing namespaced elements with the use operator
+https://youtu.be/GrXtA5zCGFk&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 610 Adding an alias to imported namespaced elements
+https://youtu.be/E1eA2BRLb00&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 710 Relativity and the global namespace
+https://youtu.be/LSF9OplYZK0&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 810 Combining multiple use statements
+https://youtu.be/WzMHXdCrUu4&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+
+PHP namespaces 910 Class autoloading - autoloading classes in the global namespace
+https://youtu.be/-j2y3tmyJ4Q&list=PLFbnPuoQkKscQ4dD0jLXPReGlL4Iv3lnC
+PHP namespaces mini-course

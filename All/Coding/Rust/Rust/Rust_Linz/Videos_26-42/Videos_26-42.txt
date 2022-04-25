@@ -1,0 +1,52 @@
+
+Introduction to WAGI by Rainer Stropek & Stefan Baumgartner - Rust Linz, March 2022
+https://youtu.be/9NDwHBjLlhQ&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Runtime-agnostic async crates by Zeeshan Ali - Rust Linz, Feburary 2022
+https://youtu.be/w1vKAUor-4o&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust for Linux by Miguel Ojeda and Wedson Almeida Filho - Rust Linz, March 2022
+https://youtu.be/fVEeqo40IyQ&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, August 2021 - Rainer Stropek - Rust iterators
+https://youtu.be/R0ufQe5DRaw&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, December 2021 - From 0 to no_std in one session by Marco Amann
+https://youtu.be/Pu4MZmB0E28&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, January '22 - curl with Rust by Daniel Stenberg
+https://youtu.be/HFH2vZRTKrA&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, January '22 - Error Handling in Rust - A Pragmatic Approach by Luca Palmieri
+https://youtu.be/jpVzSse7oJ4&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, July 2021 -  Rainer Stropek - Traits, not your grandparents' interfaces
+https://youtu.be/B0fL3WmJZsc&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, July 2021 - Stefan Baumgartner - Serverless Rust
+https://youtu.be/EXqqsCss8Gk&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, November 2021 - Advent of Code by Rainer Stropek with Fred Morcos
+https://youtu.be/bejThbzAYOA&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, November 2021 - Serde Shenanigans by Armin Ronacher
+https://youtu.be/UhZGYS13twc&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, November 2021 - WebAssembly beyond the browser by Thorsten Hans
+https://youtu.be/o6qe4lw9-8c&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, October 2021 - Rust Closures by Rainer Stropek
+https://youtu.be/bgZa9VRBhYU&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, October 2021 - Tokio, Warp, and Websockets by Stefan Baumgartner
+https://youtu.be/fuiFycJpCBw&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, September 2021 - Filip Kieres - Send Your Microservices to the Autobahn w gRPC and Rust
+https://youtu.be/i-eZ17Z48YI&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Rust Linz, September 2021 - Yoshua Wuyts - Futures Concurrency in the Future, Maybe
+https://youtu.be/QlPDI9IsSXU&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+
+Tauri Foundations by Daniel Thompson-Yvetot - Rust Linz, February 2022
+https://youtu.be/u4OsO6dow0c&list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u
+Videos 26-42

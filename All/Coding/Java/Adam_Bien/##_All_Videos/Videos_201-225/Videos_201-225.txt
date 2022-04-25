@@ -1,0 +1,76 @@
+
+33rd airhacks.tv Questions and Answers
+https://youtu.be/EMpJsbVRI30
+
+34th airhacks.tv Questions and Answers
+https://youtu.be/O1VTx0psUgo
+
+35th airhacks.tv Questions and Answers
+https://youtu.be/eSoJYBOgIHk
+
+36th airhacks.tv Questions and Answers
+https://youtu.be/SPPHqW6e28Y
+
+37th airhacks.tv Questions and Answers
+https://youtu.be/xXnsCEcTe3o
+
+38th airhacks.tv Questions and Answers
+https://youtu.be/0o_iPAj5sAU
+
+39th airhacks.tv Questions and Answers
+https://youtu.be/HSlZGbyvjoM
+
+40th airhacks.tv Questions and Answers
+https://youtu.be/Sj-0Dip8nT8
+
+41st airhacks.tv Questions and Answers
+https://youtu.be/oOh6PfCyNRI
+
+42nd airhacks.tv Questions and Answers
+https://youtu.be/F9WUjZofcX4
+
+Async Communication Between WARs with WebSockets
+https://youtu.be/al8hxPou9z0
+
+Building A CustomElement with WebComponents
+https://youtu.be/VTrGfwyNzD8
+
+Convenient WildFly Configuration via CLI
+https://youtu.be/6BGv7-drumU
+
+Convenient WildFly configuration via JMX
+https://youtu.be/D0F0yZgF7Wc
+
+Hacky New 2017!
+https://youtu.be/VL-9TbQVuDU
+
+HTML 5, Angular React, WebStandards, Serverless, Java EE, Distilleries--A Voxxed Bucharest Preview
+https://youtu.be/OCXhn2WaZiQ
+
+HTTP Load Balancing With Docker and nginx
+https://youtu.be/CS6bzlwdhqU
+
+HTTP2 Push with Servlets 4.0 and Java EE 8
+https://youtu.be/AGXA0P0s3ko
+
+Java EE Monitoring With firehose and prometheus.io
+https://youtu.be/_FW5472xTmQ
+
+Microservices Simplify Exception Handling in JAX-RS and Java EE
+https://youtu.be/yA1gKg-FvJM
+
+Pushing Java EE 78 To Oracle Container Cloud Service
+https://youtu.be/6cVHeEeKLSI
+
+Pushing Java EE Thin WARs To The Clouds
+https://youtu.be/0AJyZ9i915k
+
+Pushing Java EE To Amazon ECS  ECR
+https://youtu.be/KpPuGgMzReM
+
+Receiving Server Sent Events with plain, vanilla JavaScript client
+https://youtu.be/qQLVCgmiMgQ
+
+Transactions Monitoring With WildFly
+https://youtu.be/jgvyCAexPHQ
+Videos 201-225

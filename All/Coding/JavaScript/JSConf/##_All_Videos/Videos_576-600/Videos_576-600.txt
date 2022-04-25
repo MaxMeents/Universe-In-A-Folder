@@ -1,0 +1,76 @@
+
+Christian Kästner How to Break an API How Community Values Influence Practices  JSConf EU 2017
+https://youtu.be/xJHeHCZtmAU
+
+Christoph Nakazawa  Building High-Quality JavaScript Tools  JSConf EU 2017
+https://youtu.be/PvabBs_utr8
+
+Claudia Hernández Down the Rabbit Hole Javascript in Wonderland  JSConf EU 2017
+https://youtu.be/gE9xn-KOp1I
+
+CSSconf EU 2017  Glen Maddern The road to styled components CSS in component-based systems
+https://youtu.be/MT4D_DioYC8
+
+CSSconf EU 2017  Guil Hernandez Get Ready for the Future of CSS!
+https://youtu.be/UMwunYQGvhs
+
+CSSconf EU 2017  Mark Dalgleish A Unified Styling Language
+https://youtu.be/X_uTCnaRe94
+
+CSSconf EU 2017  Patricia Realini CSS Art History 101 Decoding Layout Through The Ages
+https://youtu.be/X11xeeUg1Tk
+
+CSSconf EU 2017  Rachel Andrew Where does CSS come from
+https://youtu.be/cYGOv2ToZjY
+
+CSSconf EU 2017  Una Kravets Let’s Build a CSS Game
+https://youtu.be/WmVH85G59Lk
+
+Denis Radin Applying NASA coding standards to JavaScript  JSConf EU 2017
+https://youtu.be/z8hG-3Ak_b4
+
+Dominik Kundel coffee js How I hacked my coffee machine  JSUnconf 2017
+https://youtu.be/v02PMZherEI
+
+Jessica Tran Hacking My Anxiety With Open-Source technology  JSConf EU 2017
+https://youtu.be/MRxw0hG8DTM
+
+Johann Hofmann Browser Security in 2017  JSUnconf 2017
+https://youtu.be/vvZRYUBFX-8
+
+John Fawcett Invisible Code Building JavaScript Libraries For Non-Tech People  JSConf EU 2017
+https://youtu.be/CPTNEPvSMZs
+
+Kruno How browsers work  JSUnconf 2017
+https://youtu.be/0IsQqJ7pwhw
+
+Lian Li Alpha2048 - How I taught my computer to play 1024  JSUnconf 2017
+https://youtu.be/I8HIDRYlTb4
+
+Maggie Pint Sharing is Caring - Patterns for JavaScript Library Design  JSConf EU 2017
+https://youtu.be/RdKT70ktaeo
+
+Marcin Szczepanski What's new in Netscape Navigator 2.0  JSConf EU 2017
+https://youtu.be/Z-nXRZkge2U
+
+Matthew Shotton  Dynamic video in the browser  JSConf EU 2017
+https://youtu.be/GsvAdTyXN8o
+
+Monica Dinculescu  Emoji, Web Components, and Art  JSConf EU 2017
+https://youtu.be/_H1s9wBOqp8
+
+Paul Verbeek-Mast Calendar  Kalender  تقويم (aka, the fun of locali[zs]ation)  JSConf EU 2017
+https://youtu.be/0I4BNqfVLFI
+
+Rachel White  Keep the Internet Weird  JSConf EU 2017
+https://youtu.be/vji_6ofE5Wg
+
+Steve Kinney Bringing Back the 1990s The Revenge of JavaScript Style Sheets  JSConf EU 2017
+https://youtu.be/XTvWOQSWS48
+
+Whitney Williams The Legacy of the JavaScript Community  JSConf EU 2017
+https://youtu.be/h-QPx0sMvLQ
+
+Zachary Johnson & Andrew ReitanoNESpectre The Massively Multi-Haunted NES  JSConf EU 2017
+https://youtu.be/KSVYCV66sQQ
+Videos 576-600

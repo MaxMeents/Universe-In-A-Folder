@@ -1,0 +1,76 @@
+
+A Node.js Security Roadmap - Mike Samuel - JSConf EU 2018
+https://youtu.be/1Gun2lRb5Gw
+
+A quest to be a (web)master - Mariko Kosaka - JSConf US 2018
+https://youtu.be/25RovROJUnw
+
+Aligning Paradigms Across Client and Server(less) - Jeffrey Hoffer - JSConf US 2018
+https://youtu.be/XWHcKl1jEeE
+
+Browser Extensions - Matt Claypotch - JSConf US 2018
+https://youtu.be/Jxe7AXgbYqY
+
+CivicHacking.JS Helping your Community using JavaScript - Caroline Dikibo - JSConf US 2018
+https://youtu.be/fkovQKMH7e4
+
+ES6 In Practice - Tim Doherty - JSConf US 2018
+https://youtu.be/Fh0VYI-_uPg
+
+Formalizing user rights on the Web - Paul Frazee - JSConf EU 2018
+https://youtu.be/x-ffpAkviM0
+
+From Rabbi to Coder How To Prepare for the Technical Interview - Ben Greenberg - JSConf EU 2018
+https://youtu.be/tTZ3pWoDkjc
+
+Hacking With My Anxiety - Bryan Hughes - JSConf US 2018
+https://youtu.be/vkZHEvZz6EU
+
+Hey you, do you even design  - Florence Okoye - JSConf EU 2018
+https://youtu.be/Bmm4-2SJ8qQ
+
+Hot Garbage Clean Code is Dead - Michael Chan - JSConf US 2018
+https://youtu.be/xTJyi49piH4
+
+I like my tests, like I like my friends, reliable and flake-free - Amir Rustamzadeh - JSConf US 2018
+https://youtu.be/LqR7t2-U0WA
+
+I See Overcoming Challenges in Software Development - Kevin O'Neil - JSConf US 2018
+https://youtu.be/yAVPyWqNuTU
+
+Imagine This A Web Without Servers - Tara Vancil - JSConf EU 2018
+https://youtu.be/rJ_WvfF3FN8
+
+JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl - JSConf US 2018
+https://youtu.be/XyVQfqmx2CI
+
+Learning through Art An Introduction to VR - Billy Roh - JSConf US 2018
+https://youtu.be/jUfaJ1hsfqQ
+
+No Time for Types - Nick Nisi - JSConf US 2018
+https://youtu.be/qGK541P2xII
+
+npm and the future of JavaScript - Laurie Voss - JSConf US 2018
+https://youtu.be/mSQh0gcDXkc
+
+Photorealistic Real Time Computer Graphics with Javascript - Ivan Moreno - JSConf EU 2018
+https://youtu.be/YHVKME6vYjY
+
+Testing Big in JavaScript - Robert Deluca - JSConf US 2018
+https://youtu.be/243TCc5qP-g
+
+The Most Annoying Website - Feross Aboukhadijeh - JSConf US 2018
+https://youtu.be/QFZ-pwErSl4
+
+Unlock the power of feature based JS development - Jeff Barczewski - JSConf US 2018
+https://youtu.be/wkFggFuIveY
+
+Using a modern web to recreate 1980s horribly slow & loud loading screens - Remy Sharp
+https://youtu.be/o3MNdxQFUe8
+
+What's in your JS - Ravi Lachman - JSConf US 2018
+https://youtu.be/44ahlcq7QwI
+
+When Chomsky Met JavaScript Exploring the Linguistics(...) - Alaina Kafkes - JSConf EU 2018
+https://youtu.be/ZbMj_ab29Js
+Videos 376-400

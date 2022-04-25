@@ -1,0 +1,76 @@
+
+5 Things You Can Do To Make Games Like A Pro In Unity
+https://youtu.be/Jufdyjl6poo
+
+Building A Tutorial in Bolt
+https://youtu.be/tP9_YBpBBpI
+
+Correct Your Spelling in Unity!
+https://youtu.be/QBMxmfl-_7M
+
+Creating a Cheat Console in Unity
+https://youtu.be/VzOEM-4A2OM
+
+Creating a UI Line Renderer in Unity
+https://youtu.be/--LB7URk60A
+
+Creating an Interior Mapping Shader using Unity's Shader Graph - Game Dev Sandbox
+https://youtu.be/dUjNoIxQXAA
+
+Creating An Inventory System in Unity
+https://youtu.be/SGz3sbZkfkg
+
+Creating Search Windows in the Unity Editor
+https://youtu.be/0HHeIUGsuW8
+
+Designing a Loading Screen in Unity
+https://youtu.be/iXWFTgFNRdM
+
+Designing A Responsive Tooltip System in Unity
+https://youtu.be/HXFoUGw7eKk
+
+Dynamic Depth of Field in Unity - Game Dev Sandbox
+https://youtu.be/7od2j4s85ww
+
+Getting Started with Compute Shaders in Unity
+https://youtu.be/BrZ4pWwkpto
+
+How To Get A Better Grid Layout in Unity
+https://youtu.be/CGsEJToeXmA
+
+I Made A Game About Saving The Ocean In 60 Seconds - #TeamSeas
+https://youtu.be/fyucZYPfZ5Q
+
+Making a Modal Window in Unity
+https://youtu.be/SzQABx2YTJA
+
+Making UI That Looks Good In Unity
+https://youtu.be/HwdweCX5aMI
+
+Please Support Game Dev Guide 🙏🏻
+https://youtu.be/GZSgMNuqB6o
+
+Procedurally Generating A Hexagon Grid in Unity
+https://youtu.be/EPaSmQ2vtek
+
+Speed Up Compile Times in Unity with Assembly Definitions
+https://youtu.be/eovjb5xn8y0
+
+The Camera Tool In Unity You Probably Didn’t Know About...
+https://youtu.be/D9RF41cp9UE
+
+Using Attributes to Manage Data in Unity
+https://youtu.be/vLKeqS1PeTU
+
+Using Custom Playables to make a Subtitle Track in Timeline
+https://youtu.be/12bfRIvqLW4
+
+Using IK to Improve Animations in Unity
+https://youtu.be/UD6URb8aCco
+
+Using Post-Processing to improve visuals in Unity
+https://youtu.be/_PzYAbPpK8k
+
+Why Animation Curves In Unity Are So Useful
+https://youtu.be/Nc9x0LfvJhI
+Videos 1-25

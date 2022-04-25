@@ -1,0 +1,7 @@
+
+How good are my tests - Stephan Hochdörfer - PHPSW Mutation Testing, July 2020
+https://youtu.be/Vryc2J3xn2s&list=PLrEpsyNSHj02cl6iT1PcSiLmOIbe2-uPh
+
+Websockets in practice - Mike Lehan - PHPSW Websockets in practice, July 2020
+https://youtu.be/3R1cfb9MT6g&list=PLrEpsyNSHj02cl6iT1PcSiLmOIbe2-uPh
+Mutation Testing and Websockets in practice, July 2020

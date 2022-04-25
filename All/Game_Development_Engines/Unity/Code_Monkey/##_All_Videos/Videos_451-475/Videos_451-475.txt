@@ -1,0 +1,76 @@
+
+5 Questions to Choose what Game to make
+https://youtu.be/m7mxLJY-T94
+
+5 Tips to make your First Game in 2019!
+https://youtu.be/sUuvDMbmqnA
+
+7 Reasons to use Unity in 2019!
+https://youtu.be/IdsklFB2iI0
+
+Base Building - Expanding the Game in 10 Mins (Unity RTS Tutorial)
+https://youtu.be/54rJnNAMnSM
+
+Battle Royale Tycoon is now available!
+https://youtu.be/BPeE7WsIhtk
+
+Create a Graph Line Graph Visual Object (Unity Tutorial)
+https://youtu.be/tRMWZzHhmAM
+
+Create a Graph Real-Time Updating (Unity Tutorial)
+https://youtu.be/CJv2t2LtLKk
+
+Create a Graph Use Case in Battle Royale Tycoon (Unity Tutorial)
+https://youtu.be/lPIMisauJJc
+
+Hair Color - Modular Guest Spritesheets in Battle Royale Tycoon (Unity Tutorial)
+https://youtu.be/itBRAKHfoww
+
+How to make a Item Stats Tooltip (Unity Tutorial)
+https://youtu.be/U1LFOTDLh3o
+
+How to make a Tooltip (Unity Tutorial for Beginners)
+https://youtu.be/d_qk7egZ8_c
+
+How to make a Tooltip Always Visible (Unity Tutorial for Beginners)
+https://youtu.be/dzkFdkwzVhs
+
+How to make a Tooltip Updating and Helper Functions (Unity Tutorial for Beginners)
+https://youtu.be/Xk2Yn-Ju0e8
+
+How to make a Tooltip Warning (Unity Tutorial for Beginners)
+https://youtu.be/qcvaXzfhYuI
+
+How to Make Simple Character Dodge Roll (Unity Tutorial for Beginners)
+https://youtu.be/ptPAg83fQ4M
+
+Modular Guest Spritesheets in Battle Royale Tycoon (Unity Tutorial)
+https://youtu.be/pdK6mc2g9b4
+
+Modular Guest Spritesheets in Battle Royale Tycoon Hair and Beards (Unity Tutorial)
+https://youtu.be/df7V85YTLwM
+
+Modular Guest Spritesheets in Battle Royale Tycoon Skin Color (Unity Tutorial)
+https://youtu.be/IGgD9-3Fs10
+
+Monthly Summary - NovemberDecember 2018 (Unity Tutorials)
+https://youtu.be/0CiWvJ7HYXc
+
+Quick Tip Clone a Template Transform (Unity Tutorial)
+https://youtu.be/8XsxRd03xiQ
+
+Quick Tip Magic Numbers (Unity Tutorial)
+https://youtu.be/rvblFgEffrs
+
+Quick Tip Script Execution Order (Unity Tutorial)
+https://youtu.be/JyxqvaUeXeQ
+
+Quick Tip SpriteRenderer Solid Color Rectangle (Unity Tutorial)
+https://youtu.be/vTn2uOjfIWs
+
+Task System in Battle Royale Tycoon [SUMMARY] (Unity 2D Tutorial)
+https://youtu.be/rQXr9XTu6CI
+
+Waiting Queue in Battle Royale Tycoon [SUMMARY] (Unity Tutorial)
+https://youtu.be/8OnnenZOXUA
+Videos 451-475

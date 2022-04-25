@@ -1,0 +1,43 @@
+
+Python Basics Matplotlib Multi plot on One Line
+https://youtu.be/ASBPvq0BlDg&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Matplotlib Pyplot Bar Chart
+https://youtu.be/eV2oGJNrY0A&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Matplotlib Pyplot Bar Horizontal Chart
+https://youtu.be/HovBlhhecTQ&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial How to Create a 3D Plot With Matplotlib
+https://youtu.be/QsPItyYMwCo&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib 3D Bar Chart
+https://youtu.be/As4974n213Y&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib 3D Preview
+https://youtu.be/sCPjMPpEcXI&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib 3rd y axis with Tightlayout
+https://youtu.be/UCJR86kaO9M&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Add Color to Graph and Axes
+https://youtu.be/cZ64yMZZ1xk&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Grouped Bar Chart
+https://youtu.be/DCr5p95hfWk&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Interactive Mode
+https://youtu.be/SpClxAd5jac&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Set ylim Method To Control Height
+https://youtu.be/OVz0I0tyyy4&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Text Annotation
+https://youtu.be/nHt6wTEL-wA&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Twin Axes Method
+https://youtu.be/pzQ0SqbPwQc&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+
+Python Basics Tutorial Matplotlib Two Types of Plot with Legend Box to Anchor and Data Control
+https://youtu.be/39sJ-QzJGzk&list=PLaYT64KWZAEPlx2Z9-TqZZK9y9Ke5uB7M
+Videos 26-39

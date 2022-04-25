@@ -1,0 +1,46 @@
+
+How to Customize Your Xcode Theme  Xcode 11
+https://youtu.be/9tDD6FU1PZ8&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+How To Show Xcode Build Times For Your App
+https://youtu.be/Q-KSe63LDgI&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Private video
+https://youtu.be/TTc6mD5G0Lc&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+TestFlight - How to Upload and Distribute Your App  App Store 2021
+https://youtu.be/DLvdZtTAJrE&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+What is Xcode's info.plist (Common Examples)  Xcode 12
+https://youtu.be/ni99ORqerys&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+What's New in Xcode 12  WWDC 2020
+https://youtu.be/MMoJiZZWoCA&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+What's New in Xcode 13
+https://youtu.be/8OIyptQpzMQ&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode - Change Icon Color
+https://youtu.be/qXiIf3bb1nE&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode - Check Spelling in Your Code While You Type  Swift
+https://youtu.be/b_HFXergIz8&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode - How to Simulate a Poor Network Connection  Device & Simulator
+https://youtu.be/5gAD9amWkQw&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode - Quickly Document Your Code  Swift
+https://youtu.be/hu90G_M0vaA&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode - Record Simulator Video & Animated GIF
+https://youtu.be/WtkJzS_x7Zs&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode - Visual Debugger - A Tool For Debugging UI
+https://youtu.be/-o2BwAsvoH4&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode Breakpoints - Basic Debugging  Swift
+https://youtu.be/qPWfOkHcKdU&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+
+Xcode Simulator Tips & Tricks  Xcode 12
+https://youtu.be/GCQ2JtEuGsI&list=PL8seg1JPkqgEM8oeVghYq_-Go1pVhTGko
+Xcode Tips & Tutorials

@@ -1,0 +1,76 @@
+
+Python Basics Tutorial 100,000 Views!!!!!!!!
+https://youtu.be/8ky9kF9f3Oo
+
+Python Basics Tutorial Asyncio Awaitables
+https://youtu.be/rQ-4Q6_TWOg
+
+Python Basics Tutorial Calendar Weekday Function
+https://youtu.be/TuH1MkTeKks
+
+Python Basics Tutorial Channel UPDATE
+https://youtu.be/L2Wfmd4LNy0
+
+Python Basics Tutorial Datetime Date Object Today Method
+https://youtu.be/L8zG5Jdi8Dg
+
+Python Basics Tutorial Django DataBase and Time Zone Set up
+https://youtu.be/x5VuHEgg0d8
+
+Python Basics Tutorial How to use Github Repository
+https://youtu.be/S1Qf5zrFCoE
+
+Python Basics Tutorial Install Intro Seaborn
+https://youtu.be/bj8JBxRtnvs
+
+Python Basics Tutorial Kivy Password and Password Mask
+https://youtu.be/5ZZjk3FZVFk
+
+Python Basics Tutorial Matplotlib 3D Bar Chart
+https://youtu.be/As4974n213Y
+
+Python Basics Tutorial Matplotlib Perato Chart With PercentFormatter
+https://youtu.be/iR4u7_5ABkw
+
+Python Basics Tutorial Numpy Linear Algebra Solve Function
+https://youtu.be/Zbhtm6vCurE
+
+Python Basics Tutorial Pandas DataFrame Cumulative Sum Method Sub Total Column
+https://youtu.be/W75URO1fjBw
+
+Python Basics Tutorial Pip Help Command
+https://youtu.be/XhIVwPMLHwY
+
+Python Basics Tutorial Pygame Pause Game
+https://youtu.be/HkI0qHoojjQ
+
+Python Basics Tutorial Python Trick Partial Splat Unpacking
+https://youtu.be/kaWhg7FWXMs
+
+Python Basics Tutorial Robotics and Raspberry Pie
+https://youtu.be/69Fi3tS1SWc
+
+Python Basics Tutorial Set Kivy Screen to BoxLayout
+https://youtu.be/dVySFXCdO00
+
+Python Basics Tutorial Share Challenge Help Someone Else
+https://youtu.be/8U4P1gEPW28
+
+Python Basics Tutorial Sqlite Working With Two Tables
+https://youtu.be/MoGxvcI05hg
+
+Python Basics Tutorial Switch Between True and False Best Practice
+https://youtu.be/t7jys0GJgm0
+
+Python Basics Tutorial Thank You For the Comments
+https://youtu.be/mK32jF7-UkE
+
+Python Basics Tutorial Throw Back Challenge
+https://youtu.be/gK-6fWuNftE
+
+Python Basics Tutorial Tkinter Calculator StringVar Object
+https://youtu.be/Tes3hhJYgPA
+
+Python Basics Tutorial Tkinter Calculator Text Input - Button Fill Frame with Columnspan and Sticky
+https://youtu.be/Ablzx_Izaxc
+Videos 301-325

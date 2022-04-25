@@ -1,0 +1,76 @@
+
+[Scala Central] - Anna Bladzich - Elsevier - Embrace the implicit
+https://youtu.be/pAxv1gj9ono
+
+[Scala Central] Antonio & Daniel - CICD Pipeline with SBT
+https://youtu.be/S1lUAITjc4c
+
+[Scala Central] Ausmarton Fernandes - Category Theory in theory and practice
+https://youtu.be/Wp37Q0X-Zv8
+
+[Scala Central] Chris Birchall - Bring Your Own Effect
+https://youtu.be/TozONzPUFtU
+
+[Scala Central] Chris Jansen - Extruder - Populate Scala case classes from any data source
+https://youtu.be/QoBsZ5J4vus
+
+[Scala Central] Courtney Robinson - Reactive is Dataflow, with Akka Streams
+https://youtu.be/RStMnDFhkW4
+
+[Scala Central] César Tron-Lozai - Functional Sudoku Solver
+https://youtu.be/070m8Qsk77E
+
+[Scala Central] Daniela Sfregola - Easy and Efficient Data Validation with Cats
+https://youtu.be/0LX3i7uQ-wI
+
+[Scala Central] Danielle Ashley - SBT Plugins How and Why
+https://youtu.be/adKT7doSEAA
+
+[Scala Central] Dave Gurnell - Approaches to Dependency Injection in Scala
+https://youtu.be/OJe0Dm3t5wQ
+
+[Scala Central] Gerard Maas - Data Analytics Jobs with Spark, Scala and Spark Notebook
+https://youtu.be/q3TjGjffs3g
+
+[Scala Central] Giuseppe Scopelliti - Expression Problem
+https://youtu.be/BP2OmYuTUhs
+
+[Scala Central] Harry Laoulakos - Monad Stacks
+https://youtu.be/qWfK18VQ3FI
+
+[Scala Central] Hugh Simpson - Use and abuse of Scala's parser combinators
+https://youtu.be/LxoyZ38eRBI
+
+[Scala Central] Jeff Martin - HomeAway - Simplifying streaming applications with Functors
+https://youtu.be/GI0bF0Y8dgE
+
+[Scala Central] Josef Vlach - Roll your own Type class
+https://youtu.be/ytWsP8Wq6BM
+
+[Scala Central] Lorenzo Barasti - Scala Futures may the fors be with you
+https://youtu.be/bQ9wgLr0FSI
+
+[Scala Central] Mark Hatton - Building for Longevity with Scala
+https://youtu.be/OjLBDtgzy7o
+
+[Scala Central] Neil Benn - Another round for Rafael - Type-safe builder pattern in Scala revisited
+https://youtu.be/R86OCkhHIqg
+
+[Scala Central] Paul Roberts - Scala Macros
+https://youtu.be/8ryhJOE1m30
+
+[Scala Central] Stefano Bonetti - Stream Driven Development - Roll your own reactive pipeline
+https://youtu.be/GJj8p_layhY
+
+[Scala Central] Thomas Kaliakos - Detecting Abusive Comments
+https://youtu.be/y4BS814PA54
+
+[Scala Central] Tom Martin - Multiplayer games with Scala and DynamoDB
+https://youtu.be/qlFfuoCgZmg
+
+[Scala Central] Tudor Palanga - Microservices integration testing made simple with Docker
+https://youtu.be/wbAJAHV2_7c
+
+[Scala Central] Yeshwanth Kumar - Understanding frees
+https://youtu.be/Zhq43_U6Gqw
+Videos 26-50

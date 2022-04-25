@@ -1,0 +1,76 @@
+
+Palindromic Prime Numbers in Python Programming
+https://youtu.be/1U0Rx4KZaNA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Program - Printing Stars '' in Right Angle Triangle Shape
+https://youtu.be/LbKip-g8fyI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs  Printing Stars '' in Reverse Pyramid Shape
+https://youtu.be/pg7i7FPUJds&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Pattern Programs - Printing Stars '' in Diamond Shape
+https://youtu.be/toDmDjISW9U&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Generators
+https://youtu.be/D54x8uSra3Q&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Iterators (Part-1)
+https://youtu.be/WWUR5w15YCs&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Iterators (Part-2)
+https://youtu.be/W_yvdD5FJWw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Recursive Function
+https://youtu.be/hz2akD7dM5I&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Regular Expression  Match, Search, Findall Functions
+https://youtu.be/RgY6IDcwaqM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Regular Expression  Replace and Split Function
+https://youtu.be/gCLhmLohLBM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Regular Expressions  Patterns
+https://youtu.be/RbGh-4fQAGw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Regular Expressions  Why Regular Expressions
+https://youtu.be/JExZzsVBFK8&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programs - Armstrong Numbers
+https://youtu.be/fdxtmMOfdrc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programs - Factorial Program Using for loop
+https://youtu.be/MchEIaD87Uw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programs - Factorial Program using In-Built Function
+https://youtu.be/ZlQFJVvwEpU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programs - Factorial Program Using Recursion
+https://youtu.be/qXg6xwAhtKo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Fibonacci Series
+https://youtu.be/wN45AChk9U4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Perfect Numbers  Program to Check Entered Number is Perfect or Not
+https://youtu.be/UZrY53uOAHg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Prime Numbers  Printing Prime Numbers in Given Interval
+https://youtu.be/KdiWcJscO_U&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Prime Numbers  Program To Check Entered Number is Prime or Not
+https://youtu.be/je9FcxgLBf4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Program to Print Perfect Numbers in Given Interval
+https://youtu.be/dFIutdyjhKg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Program To Swap Two Numbers With or Without Using Third Variable
+https://youtu.be/NyeQXuonDek&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Reverse a String Using for loop
+https://youtu.be/4JqHDpmF5Yc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - Palindrome Program  Reverse The String And Number  Advanced Slicing
+https://youtu.be/UkcfX02_KGo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - Program To Print Sum Of Digits Of Positive Integer Number
+https://youtu.be/sGYRQ68XTbE&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 76-100

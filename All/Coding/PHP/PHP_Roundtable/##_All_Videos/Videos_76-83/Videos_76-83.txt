@@ -1,0 +1,25 @@
+
+001 The PHP Community, PHP CLI, & ElePHPants
+https://youtu.be/bkVi8pJYHas
+
+002 Functional programming
+https://youtu.be/E1LsFtDtGRk
+
+003 A WurstCon Special
+https://youtu.be/Yd9gq1wabuc
+
+004 All about API's
+https://youtu.be/ynnHoPR5DIA
+
+005 PHP Internals - Past, Present & Future
+https://youtu.be/t9bkrixyQjQ
+
+006 Faceoff Taylor Otwell vs Phil Sturgeon
+https://youtu.be/iVG1VkNGUJo
+
+007 Open Source & Git-Flow - PHP Roundtable
+https://youtu.be/ZkFYCMQbdr8
+
+008 Domain-Driven Design in PHP - PHP Roundtable
+https://youtu.be/CS_22l-LEtM
+Videos 76-83

@@ -1,0 +1,76 @@
+
+Challenges in developing a large Django site
+https://youtu.be/4EmKiBCCZ3o&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Debugging and profiling techniques
+https://youtu.be/6jD34p8PokU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Developing cutting-edge applications with PyQt
+https://youtu.be/vd2T_LNn3C0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Distributing Python programs through PyInstaller
+https://youtu.be/MoL2nDYcW1U&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Diversity as a Dependency
+https://youtu.be/GMGi9FpiNTk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Emulating Stackless and greenlet with each other
+https://youtu.be/aNl7GrnKTcs&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Exploit your GPU power with PyCUDA (and friends)
+https://youtu.be/M5ckXyiiu7g&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Exploring CPython's bytecode
+https://youtu.be/c08Ee2gQ3pY&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Good API design
+https://youtu.be/LsfrMjcIudA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+High-performance computing on gamer PCs
+https://youtu.be/5epAiVgitL0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+How to build complex web applications having fun
+https://youtu.be/tJ8mufRrW60&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+How to make intelligent web-apps
+https://youtu.be/u3oVf_Z4kmI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Introduction to Gevent
+https://youtu.be/FITsetDUKJ0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Managing the cloud with libcloud
+https://youtu.be/R8fC4efkj2s&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+MiG - A Complete Grid Middleware (mostly) in Python
+https://youtu.be/aRYvBuYXcjk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+New beauty in Camelot
+https://youtu.be/DanjGO0VEAs&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Objects and classes in Python (and JavaScript)
+https://youtu.be/e0tK-Kawx3E&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Pitfalls of Continuous Deployment
+https://youtu.be/smUceHEg1P0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Playing tasks with Django-Celery
+https://youtu.be/HgN8rOstPjc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Pricing products using Python graphs and sets
+https://youtu.be/TN9nIBxDXU8&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+PyPy hands-on
+https://youtu.be/qcqEAE4QoeA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python + Oracle = Prosperity & Performance
+https://youtu.be/_ANajHy3ufk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python 103 Mmmm... Understanding Python's Memory Model, Mutability, and Methods
+https://youtu.be/HHFCFJSPWrI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python at Cloudkick
+https://youtu.be/R9jo6HMlgLo&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Visualization and Analysis of Large Scale Datasets with Python
+https://youtu.be/y2eKgo3gw-0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+Videos 26-50

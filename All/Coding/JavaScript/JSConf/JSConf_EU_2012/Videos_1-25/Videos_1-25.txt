@@ -1,0 +1,76 @@
+
+Alex Sexton Client Side Internationalization
+https://youtu.be/uXS_-JRsB8M&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Anders Heijlsberg & Luke Hoban Introducing TypeScript
+https://youtu.be/3UTIcQYQ8Rw&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Angelina Fabbro Inspector Web and the Mystery of the Shadow DOM
+https://youtu.be/JNjnv-Gcpnw&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Angus Croll Break all the rules
+https://youtu.be/MFtijdklZDo&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Axel Rauschmayer JavaScript inheritance beyond the basics
+https://youtu.be/NyClWddeO_A&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Chris Williams Disconnect
+https://youtu.be/x7LchINN7lU&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Divya Manian Web Components
+https://youtu.be/FO3hTypPB1U&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Felix Geisendörfer Faster than C Parsing Node.js Streams!
+https://youtu.be/Kdwwvps4J9A&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Florian Loitsch JavaScript as a compilation target - Making it fast
+https://youtu.be/d-xVOke3ync&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+James Halliday Code Collage
+https://youtu.be/zgt-jNqbxF8&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Jing Jin & Matthew Delaney The Web's Black Magic
+https://youtu.be/9rizDPIIYEY&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+John Bender Faster JavaScript with Category Theory
+https://youtu.be/PtD-WKSC6ak&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Julie Ann Horvath Because F$%k Photoshop
+https://youtu.be/e7-ZnHMDZto&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Karolina Szczur To hell with jQuery
+https://youtu.be/3D1WeSCSkPQ&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Kirill Safonov Let your tool help you imagine
+https://youtu.be/CIY6qNk1zy0&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Malte Ubl & John Hjelmstad A novel, efficient approach to JavaScript loading
+https://youtu.be/mGENRKrdoGY&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Mandy Lauderdale & Jed Schmidt JavaScript Medley
+https://youtu.be/o7OE1uas2yg&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Mary Rose Cook A programming language for children
+https://youtu.be/qDZ5Ku6whi0&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Max Ogden Government.js - Building the JavaScript Party
+https://youtu.be/lZYhCduUlqo&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Michael Starzinger The Footprint of Performance
+https://youtu.be/ZhshEZIV2F4&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Mr. Doob & AlteredQualia What's next for three.js
+https://youtu.be/qx40CRwwkS8&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Remy Sharp iframes A look in to the black heart of the browsers
+https://youtu.be/y4lBEZTThvg&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Stuart Memo JavaScript is the new Punk Rock
+https://youtu.be/PN8Eg1K9xjE&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Thomas Kroeber JavaScript on the Raspberry Pi
+https://youtu.be/NBZCZ57mTUc&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Vyacheslav Egorov mö.js - explaining js vm in js
+https://youtu.be/y8hVeKMD_oM&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+Videos 1-25

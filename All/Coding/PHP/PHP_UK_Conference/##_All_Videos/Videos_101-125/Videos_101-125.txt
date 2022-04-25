@@ -1,0 +1,76 @@
+
+PHP UK Conference 2017 - Adam Englander - Don’t Lose Sleep, Secure Your REST
+https://youtu.be/3T3M7sPIUG0
+
+PHP UK Conference 2017 - Alena Holligan - Demystifying Object Oriented Programming
+https://youtu.be/nyQYvSZM0tM
+
+PHP UK Conference 2017 - Anna Filina - Unit Testing by Example
+https://youtu.be/ESl-ncXA4G0
+
+PHP UK Conference 2017 - Antonio Peric Mazar  - Drupal8 for Symfony Developers
+https://youtu.be/ZKAjkCb7MZ0
+
+PHP UK Conference 2017 - Chris Sherry - WordPress for the Modern PHP Developer
+https://youtu.be/v57UWTXla3M
+
+PHP UK Conference 2017 - Ciaran McNulty - Driving Design through Examples
+https://youtu.be/83GbyDpJDI4
+
+PHP UK Conference 2017 - Colin O'Dell - Debugging Effectively
+https://youtu.be/nr-eV603-UA
+
+PHP UK Conference 2017 - Damien Seguy - Static Analysis Saved My Code Tonight
+https://youtu.be/TelqURPdQmQ
+
+PHP UK Conference 2017 - Dave Ward - Preparing your Dockerised Application for Production
+https://youtu.be/quoM__Gg3zI
+
+PHP UK Conference 2017 - David Zuelke - I saw the future, and its web servers were written in PHP
+https://youtu.be/VjJBR8YAxoE
+
+PHP UK Conference 2017 - Derick Rethans - Its All About The Goto
+https://youtu.be/JAB8-8gW1UU
+
+PHP UK Conference 2017 - Freek Van der Herten - Taking Care of Backups with Laravel
+https://youtu.be/klPNJypmIWQ
+
+PHP UK Conference 2017 - Gareth Ellis - Introduction to SOLID
+https://youtu.be/86Tt2pW9pv4
+
+PHP UK Conference 2017 - Gary Hockin - Using Open Source for Fun and Profit
+https://youtu.be/RH74_sFjqzs
+
+PHP UK Conference 2017 - Georgiana Gligor - Silo Based Architecture for HA Applications
+https://youtu.be/yAKsdrNKWgw
+
+PHP UK Conference 2017 - Hannes Van De Vreken - Code Review Beyond Code Style
+https://youtu.be/C087UCUkVLc
+
+PHP UK Conference 2017 - James Mallison - Websockets and Torrents A match made in PHP
+https://youtu.be/rKzjnB7wy3Q
+
+PHP UK Conference 2017 - James Titcumb - Kicking off with Zend Expressive and Doctrine ORM
+https://youtu.be/fhUG7JexO7U
+
+PHP UK Conference 2017 - Karina Popova - Real Time Communication to Simplify Your Life
+https://youtu.be/n1kO44tW20Y
+
+PHP UK Conference 2017 - Liam Wiltshire - Introduction to application scaling
+https://youtu.be/aHthWfsqhXU
+
+PHP UK Conference 2017 - Luis Cobucci - JWT - To authentication & beyond!
+https://youtu.be/p2tItlr_3QI
+
+PHP UK Conference 2017 - Marek Jelen - Docker, Kubernetes, and OpenShift for PHP Developers
+https://youtu.be/dEj5iKM55U0
+
+PHP UK Conference 2017 - Michael Cullum - Towards a frameworkless world
+https://youtu.be/aFhwnjFF96I
+
+PHP UK Conference 2017 - Michele Orselli - Hopping in the Clouds migration between cloud providers
+https://youtu.be/09TKbvBtmD4
+
+PHP UK Conference 2017 - Nacho Martin - Integrating React.js with PHP Projects
+https://youtu.be/byYd1ag4iKw
+Videos 101-125

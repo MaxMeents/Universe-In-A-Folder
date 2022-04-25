@@ -1,0 +1,70 @@
+
+Controlling Simulation Performance with Solver Settings
+https://youtu.be/qhtAIpwrhII&list=PL484BA2AD3AE4C2D0
+
+Creating and Masking Subsystems
+https://youtu.be/BQ4YV3nqTe0&list=PL484BA2AD3AE4C2D0
+
+Creating Customized Block Libraries
+https://youtu.be/KrenaWTW_SU&list=PL484BA2AD3AE4C2D0
+
+Creating Model and Project Templates
+https://youtu.be/RwaJmR0Wt2E&list=PL484BA2AD3AE4C2D0
+
+Getting Started with MATLAB System Block
+https://youtu.be/2oRCoaJiWUo&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink for Controls
+https://youtu.be/bE179wgm164&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink for Signal Processing
+https://youtu.be/GTpP3Agz3L8&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 1 How to Build and Simulate a Simple Simulink Model
+https://youtu.be/iOmqgewj5XI&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 2 How to Add a Controller and Plant to the Simulink Model
+https://youtu.be/a_DW7xznPco&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 3 How to View Simulation Results
+https://youtu.be/yTVX-EVGyog&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 4 How to Tune a PID Controller
+https://youtu.be/_CjirdeKxUY&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 5 How to Compare and Save Simulation Data
+https://youtu.be/KJDbZDAKMZ4&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 6 How to Manage Your Simulink Model
+https://youtu.be/VKRRe4VZ0hQ&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 7 How to Add Components to Your Simulink Model
+https://youtu.be/EXMjPPyC-gA&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 8 How to Model Continuous and Discrete Systems in One Model
+https://youtu.be/ZQwzwvppeCY&list=PL484BA2AD3AE4C2D0
+
+Getting Started with Simulink, Part 9 How to Use Templates and Examples
+https://youtu.be/PGV-qhYJq24&list=PL484BA2AD3AE4C2D0
+
+Getting Started with the Simulink Data Dictionary
+https://youtu.be/6fOSCzoDhT4&list=PL484BA2AD3AE4C2D0
+
+Loading and Logging Data
+https://youtu.be/frju8r5GjQw&list=PL484BA2AD3AE4C2D0
+
+Private video
+https://youtu.be/bjmqiMFWQbI&list=PL484BA2AD3AE4C2D0
+
+Simulink Start Page
+https://youtu.be/tv14EB2LqeA&list=PL484BA2AD3AE4C2D0
+
+Using Variant Subsystems
+https://youtu.be/PE0IsVk3gy4&list=PL484BA2AD3AE4C2D0
+
+Variant Source and Sink Blocks with Condition Propagation
+https://youtu.be/yGXZMxN7Bg4&list=PL484BA2AD3AE4C2D0
+
+Visualizing Simulation Results
+https://youtu.be/iB2Qf2NtDsI&list=PL484BA2AD3AE4C2D0
+Getting Started with Simulink

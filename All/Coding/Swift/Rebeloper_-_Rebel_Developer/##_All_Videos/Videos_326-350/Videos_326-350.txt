@@ -1,0 +1,76 @@
+
+App Certificate - Apple Developer Portal Tutorial
+https://youtu.be/rGxmviW8Icc
+
+App Store Screenshots (Guidelines Fast & Easy!)
+https://youtu.be/WX81rQnEwm0
+
+DiscardableResult Function in Swift 4.2 (EASY)
+https://youtu.be/ujh9AkZ_A8Y
+
+Errors & Warnings in Xcode 10
+https://youtu.be/u9kSfnD89g4
+
+Game Center Leaderboards!
+https://youtu.be/FinMa7QwoYU
+
+How to Create App Icons for iOS
+https://youtu.be/kVL7nAtcAzA
+
+How to Launch an App with App Store Dominations - 30 Days Challenge
+https://youtu.be/T0xqNl_HUjg
+
+How to Share Keychain with other Apps in Swift 4.2 - KeychainSwift (Step by Step Tutorial)
+https://youtu.be/x1nl_osxqlU
+
+How to share UserDefaults between Apps and Targets with App Groups in Swift 4.2
+https://youtu.be/Jlr9cF9nDnU
+
+How To Use GitHub with Xcode
+https://youtu.be/IOmfmGdl-tg
+
+In App Purchase iOS Non Consumable
+https://youtu.be/16DH78RUGkk
+
+KeyChain Swift - How to Use KeyChain Tutorial
+https://youtu.be/1R-VIzjD4yo
+
+Lazy var properties in Swift 4.2 and Xcode 10 (EASY EXAMPLE)
+https://youtu.be/0zuWFboeth0
+
+Play Audio and Update Location in the Background (Swift 4.2 & Xcode 10)
+https://youtu.be/_9nUaLhv1E4
+
+Publish iOS App - App Store Connect Tutorial
+https://youtu.be/0mhHodE_KAY
+
+Testflight tutorial - using testflight in xcode
+https://youtu.be/-QEnDYLv45o
+
+UICollectionViewController Headers Programatically with CollectionKit in Xcode 10, Swift 4.2 and iOS
+https://youtu.be/D5igmOH5zqQ
+
+UICollectionViewController in under 2 minutes (FAST)
+https://youtu.be/gnRPR_v3BGc
+
+UICollectionViewController programatically with CollectionKit in Xcode 10, Swift 4.2 and iOS12
+https://youtu.be/E23QHWCArvw
+
+UICollectionViewController Section Programatically with CollectionKit in Xcode 10, Swift 4.2 and iOS
+https://youtu.be/mTDftYiLrRE
+
+UICollectionViewController Tutorial Programatically with CollectionKit in Xcode 10, Swift 4.2, iOS12
+https://youtu.be/qsiZwtOHOVc
+
+Upload App to App Store Connect
+https://youtu.be/p5kZ6875Dvk
+
+Xcode Storyboard
+https://youtu.be/wqGKgxlntJY
+
+Xcode Tutorial - How to download & Install Xcode for iOS Development
+https://youtu.be/cVMA9aBhZpU
+
+Xcode Tutorial for Beginners  ASD
+https://youtu.be/MvEZqNr6d1E
+Videos 326-350

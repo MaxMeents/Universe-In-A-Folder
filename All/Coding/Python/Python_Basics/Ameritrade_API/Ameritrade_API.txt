@@ -1,0 +1,43 @@
+
+Python Basics Tutorial 2 Ways to View Large DataFrame Ameritrade API  Part 11  Stock Screener
+https://youtu.be/xfrwSDu7YTY&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial All TDAmeritrade API's  Stock Screener
+https://youtu.be/LX8ajDFavaE&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial API Key Management  Ameritrade API Part 4  Stock Screener
+https://youtu.be/l1FnBoMsIPk&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Automate File Naming  Ameritrade API Part 7  Stock Screener
+https://youtu.be/ovkLgV0aR6Y&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Challenge 8 Answer and A look at All API's  Ameritrade API Part 2
+https://youtu.be/L01ls6l7m5A&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Complete Ameritrade API Stock Screener
+https://youtu.be/3XjZBX3Pz3E&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Instruments API  Ameritrade API Part 3  Stock Screener
+https://youtu.be/fpgzyLT_d4E&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial JSON Response Object  Ameritrade API Part 5  Stock Screener
+https://youtu.be/IcIvm6cKl5M&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Merge and Extract JSON Data Ameritrade API Part 8  Stock Screener
+https://youtu.be/jkTSBT6isEM&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Pandas DataFrame Is In Method  Ameritrade API Part 12  Stock Screener
+https://youtu.be/HFl2w1zRND4&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Pandas DataFrame Tolist Method  Ameritrade API Part 6  Stock Screener
+https://youtu.be/LudH8Df4qZg&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Place Data in Pandas DataFrame  Ameritrade API Part 9  Stock Screener
+https://youtu.be/x7k6HRio09U&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Set up for Ameritrade API  Part 1  Stock Screener
+https://youtu.be/oZSNFFdkEP0&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+
+Python Basics Tutorial Slice Pandas DataFrame with Multiple Series Ameritrade Part 10 Stock Screener
+https://youtu.be/GWx86rf6jJE&list=PLaYT64KWZAEPe5pYXZkVO4Rnt1pyneQzP
+Ameritrade API

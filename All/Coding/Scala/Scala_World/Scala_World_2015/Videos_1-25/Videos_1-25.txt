@@ -1,0 +1,76 @@
+
+A Dance with Tools — Iulian Dragoş
+https://youtu.be/c1tIbHATjB0&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+A Deep Dive into Scalac — Chris Birchall
+https://youtu.be/2742pWdUm6c&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+A Snorkelling Excersion into Bugfixing — Simon Ochsenreither
+https://youtu.be/_m4CiBL6Vl4&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+An Unexceptional Scalaz Workshop — Chris Marshall
+https://youtu.be/ilKb66-PCm0&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Constraints Liberate, Liberties Constrain — Runar Bjarnason
+https://youtu.be/GqmsQeSzMdw&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Formal Logic Undressed — Paul Snively
+https://youtu.be/saMtzIaDCJM&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Functional Patterns in Domain Modeling — Debasish Ghosh
+https://youtu.be/U0Rk9Knq8Vk&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Hands-on Dotty — Dmitry Petrashko
+https://youtu.be/aftdOFuVU1o&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Hands-on Scala.Meta — Eugene Burmako
+https://youtu.be/RBjZ7OxFxxg&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Hands-on Typelevel Scala — George Leontiev
+https://youtu.be/h1r5yZ1XYfY&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Kittens Shapeless Typeclass Derivation for Cats — Miles Sabin
+https://youtu.be/fM7x2oWSM70&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Lawful Asynchronous Programming — Daniel Spiewak
+https://youtu.be/B0L91sW3XHw&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Minimizing the Slippery Surface of Failure — Jon Pretty
+https://youtu.be/26UHdZUsKkE&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Move Over Free Monads Make Way for Free Applicatives! — John de Goes
+https://youtu.be/H28QqxO7Ihc&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Practical Binary with Scodec — Michael Pilquist
+https://youtu.be/jM21a-t4JnQ&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Principles for Modular, Functional, Approachable Libraries — Erik Osheim
+https://youtu.be/iKyIKozv8a8&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Précepte — Julien Tournay & Pascal Voitot
+https://youtu.be/Cs6HmoQbQwc&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Reactive Streams  Akka Streams — Mathias Doenitz & Johannes Rudolph
+https://youtu.be/6VBn9V3S2aQ&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Scala and the JVM as a Big Data Platform — Dean Wampler
+https://youtu.be/7mzsZq__Oh4&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Scala.js Workshop — Sébastien Doeraene
+https://youtu.be/4tM-jwlfvLg&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Simplifying Scala Collections — Bill Venners
+https://youtu.be/UBjzbkhvYTU&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+The Need for Async — Konrad Malawski
+https://youtu.be/TTrBzWIqdo0&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Type-Driven Development in Idris — Edwin Brady
+https://youtu.be/X36ye-1x_HQ&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+Typelevel Programming 101 The Subspace of Scala — Joe Barnes
+https://youtu.be/_-J4YRI1rAw&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+
+When Types are Not Enough — Lars Hupel
+https://youtu.be/NGZRBgp5G5M&list=PL9KXdMOfekvb_mTi_hC46-nC1qPOv5y6M
+Videos 1-25

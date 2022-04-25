@@ -1,0 +1,19 @@
+
+Python program to check whether a number is Palindrome or not
+https://youtu.be/3VQNdXA2IPI&list=PLrKr3rQwMgsjwrVnqrYekO5Q2L-SbJlNJ
+
+Python program to find a number is prime or composite  programminginpython.com
+https://youtu.be/hOKBY_96HG4&list=PLrKr3rQwMgsjwrVnqrYekO5Q2L-SbJlNJ
+
+Python program to find area of triangle (given base and height)  programminginpython.com
+https://youtu.be/f_u55NsrgRI&list=PLrKr3rQwMgsjwrVnqrYekO5Q2L-SbJlNJ
+
+Python Program to find area of triangle using herons formula  programminginpython.com
+https://youtu.be/PW2ie-NYg1g&list=PLrKr3rQwMgsjwrVnqrYekO5Q2L-SbJlNJ
+
+Python program to find Factorial of a given number  programminginpython.com
+https://youtu.be/yOgg0BKljnA&list=PLrKr3rQwMgsjwrVnqrYekO5Q2L-SbJlNJ
+
+Python Program to print Fibonacci sequence  Programming In Python
+https://youtu.be/sDhsFEZy1xs&list=PLrKr3rQwMgsjwrVnqrYekO5Q2L-SbJlNJ
+Math Programs

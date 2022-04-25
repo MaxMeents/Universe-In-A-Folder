@@ -1,0 +1,67 @@
+
+Biotech, and how to become a cyborg - Interview with Elsa, a cyborg
+https://youtu.be/J0hvCcZF_0Q
+
+Build Your Own Robot With Robo4J - JCrete 2018
+https://youtu.be/NmCbPF9nIuE
+
+Byte Code Field Report
+https://youtu.be/r0Gxly7zO04
+
+Checkpoint Restore Q&A
+https://youtu.be/kzAj-JGxfP4
+
+Checkpoint Restore
+https://youtu.be/5xLAPgAjMR4
+
+Collaboration, superpowers, and working remotely with teams - Interview with Lisette Sutherland
+https://youtu.be/m5npEz0CZuE
+
+Condy NestMates Constable Part II
+https://youtu.be/wqWdRwOyWc4
+
+Condy NestMates Constable, Part I
+https://youtu.be/T7e6BuV2qSA
+
+Deptective with @gunnarmorling
+https://youtu.be/k8FtjjvPSnk
+
+Developing algorithms, solving problems & maths - Interview with Dalya Gartzman
+https://youtu.be/ho-kB7hH8Wo
+
+Exception Handling in Programming Languages - JCrete 2018
+https://youtu.be/K4t-2TI5Qvc
+
+GDPR, marketing, and community engagement - Interview with Philipp Krenn
+https://youtu.be/AGdjRs-FHzs
+
+Haskell, domain modelling, and teaching developers online - Interview with Oskar Wickström
+https://youtu.be/og43_DWe-WA
+
+Knative, serverless, Kubernetes, and developer conferences - Interview with Burr Sutter
+https://youtu.be/VFh8_Jp2VQk
+
+Ktor, Kotlin, developer advocacy, IntelliJ Package Search - Interview with Hadi Hariri
+https://youtu.be/W7ISd_JF16M
+
+NightHacking Live Stream
+https://youtu.be/MUod5iA-WjA
+
+On Garbage Collection - JCrete 2018
+https://youtu.be/rdYCGXu69bo
+
+PAMstack, growing engineering teams & building dev cultures - Interview with Tracy Lee
+https://youtu.be/kbY-R4Tti-I
+
+Startup Challenges, Part II
+https://youtu.be/0mAhBhySKb0
+
+Tackling application security, hacking, and bug bounties - Interview with Pete Yaworski
+https://youtu.be/qYmNYwiSXeY
+
+Value Types in Java - JCrete 2018
+https://youtu.be/ioIdcsb4IDQ
+
+Øredev 2019 NightHacking interviews introduction
+https://youtu.be/zVCcTJpvavs
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Episode #249 - Soft Delete with Discard
+https://youtu.be/6HnFAV4HOfI&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #253 - Apple Silicon Developer Transition Kit
+https://youtu.be/ORYYVp0BcEY&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #258 - GitHub Actions
+https://youtu.be/W_4Kl_MoNQk&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #262 - Benchmark Ruby Code
+https://youtu.be/wM-1TLDN410&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #266 - From Editor to IDE
+https://youtu.be/VXTmd-4jx8g&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #270 - A Rubyist's Apple M1 Review
+https://youtu.be/Apsu5zRLsdc&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #272 - The Stimulus 2 0 Tutorial
+https://youtu.be/85bQbmzlckc&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #275 - Hotwire
+https://youtu.be/77GvSdc2Pf8&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #277 - Diving into Hotwire
+https://youtu.be/4yJtdItP0WM&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #282 - reCAPTCHA v2
+https://youtu.be/aznuTE61VdI&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #286 - Turbo Native for iOS
+https://youtu.be/L-Y9op1AhlE&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #290 - Multiple Resources with Devise
+https://youtu.be/6CA55uEvlMs&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #294 - Building a Questionnaire
+https://youtu.be/ehW34a8DCUo&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #299 - 10 Tips and Tricks
+https://youtu.be/uAtl4MjFCuU&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #303 - Tracking Events with Ahoy
+https://youtu.be/W_Ww2sy2nn4&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #307 - Hotwire Turbo Replacing Rails UJS
+https://youtu.be/dn7bIWjgN7w&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #312 - Importmaps in Rails 7
+https://youtu.be/veWpot6zfUQ&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #313 - esbuild for Rails
+https://youtu.be/qht_vqnYeEM&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #317 - Error Tracking from Scratch
+https://youtu.be/DwVfqjEPyGA&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #322 - Speeding Up Requests
+https://youtu.be/7sgPk-Hroy0&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #326 - Dabbling with Turbo
+https://youtu.be/aEvvDgC_D9Q&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #330 - Deploying Static Sites
+https://youtu.be/36HvByaEg38&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #335 - Hotwire Modals
+https://youtu.be/9aYaVq-e7VU&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #339 - Remote Development
+https://youtu.be/1Em7cpGPdf0&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+
+Episode #343 - Label Makers with Ruby
+https://youtu.be/X3S76It2Mqs&list=PLoQwKu-bfLSYRKLgzfhhiBlxDOigUFySP
+Videos 1-25

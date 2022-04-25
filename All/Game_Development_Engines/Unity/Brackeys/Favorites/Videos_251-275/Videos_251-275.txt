@@ -1,0 +1,67 @@
+
+Game Math Theory - VECTORS
+https://youtu.be/wXI9_olSrqo&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Dodge The Blocks game (Livestream) - Unity Tutorial
+https://youtu.be/tyAutnOlsfA&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E04 TURRETS) - Unity Tutorial
+https://youtu.be/QKhn2kl9_8I&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E05 SHOOTING) - Unity Tutorial
+https://youtu.be/oqidgRQAMB8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E06 BUILDING) - Unity Tutorial
+https://youtu.be/t7GuWvP_IEQ&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E07 CAMERA) - Unity Tutorial
+https://youtu.be/qokYflgxU6M&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E08 SHOP) - Unity Tutorial
+https://youtu.be/uv1zp7aOoOs&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E09 MISSILE LAUNCHER) - Unity Tutorial
+https://youtu.be/IMhRDTf9pBk&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E10 MISSILES) - Unity Tutorial
+https://youtu.be/LJLWNnqAjQ4&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E11 CURRENCY) - Unity Tutorial
+https://youtu.be/pZ0QyngaQv4&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Tower Defense Game (E12 USER INTERFACE) - Unity Tutorial
+https://youtu.be/VW90z41gd8Y&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E18. Hosting) - uNet Tutorial
+https://youtu.be/V4oRs26vAw8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E19. Joining 12) - uNet Tutorial
+https://youtu.be/H9GdXiF15r8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E20. Joining 22) - uNet Tutorial
+https://youtu.be/Oa-jR-3KAEM&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E21. Disconnect) - uNet Tutorial
+https://youtu.be/a6S9Sr5F4nE&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E22. ARENA) - uNet Tutorial
+https://youtu.be/uhZ5mFli1S8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E23. User Accounts) - uNet Tutorial
+https://youtu.be/ZX8-1zodEFU&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E24. User Accounts 2.0) - uNet Tutorial
+https://youtu.be/yicnx_4QmMo&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E25. Getting Data) - uNet Tutorial
+https://youtu.be/Uw4zFzKgVi8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E26. Sending Data) - uNet Tutorial
+https://youtu.be/makGoauwngQ&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E27. Cursor Lock) - uNet Tutorial
+https://youtu.be/nMgk72JSxz8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making of DIGGIN' - Ludum Dare 36
+https://youtu.be/xNQgNmVAxLc&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+Videos 251-275

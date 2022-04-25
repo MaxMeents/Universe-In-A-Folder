@@ -1,0 +1,43 @@
+
+Hibernate Tip - How to log SQL statements and their parameters
+https://youtu.be/xn1bm4U1cgw
+
+Hibernate Tip Calculate entity attributes with @Formula
+https://youtu.be/AjeNheCWNuU
+
+Hibernate Tip How to count the executed queries in a Session
+https://youtu.be/YZ8kTI6YD_A
+
+Hibernate Tip How to define a query timeout
+https://youtu.be/DmwN-6u3Ya0
+
+Hibernate Tip How to initialize lazy relationships within a query
+https://youtu.be/oHYkQ5hQQe8
+
+Hibernate Tip How to map a read-only database view
+https://youtu.be/gJvQFKCJV5I
+
+Hibernate Tip How to map native query results to managed entities
+https://youtu.be/RZk5VXyEaH0
+
+Hibernate Tip How to order associated entities without writing a custom query
+https://youtu.be/p_ngp05KD-8
+
+Hibernate Tip How to use a custom database sequence
+https://youtu.be/a0ScR_JAKfI
+
+Hibernate Tip How to use the QueryCache to avoid additional queries
+https://youtu.be/N50tWvaM9m0
+
+Hibernate Tip Select multiple scalar values in a CriteriaQuery
+https://youtu.be/CQimDsEuodQ
+
+How to use Hibernate's 1st level cache
+https://youtu.be/0lZnBTTbmRQ
+
+I'm writing my first book
+https://youtu.be/CHrOUIDmvSw
+
+Sample Lecture Inheritance - Single Table Strategy
+https://youtu.be/vgrRfiogKUQ
+Videos 276-289

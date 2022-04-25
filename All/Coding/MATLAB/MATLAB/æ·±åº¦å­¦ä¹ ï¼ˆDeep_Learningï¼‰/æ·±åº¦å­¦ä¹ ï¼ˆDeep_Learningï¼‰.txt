@@ -1,0 +1,19 @@
+
+10 行 MATLAB 代码实现迁移学习
+https://youtu.be/uRZp3pkeTec&list=PLn8PRpmsu08pZoifdb8yRMDzY6OObacvs
+
+AI for Engineers Building an AI System
+https://youtu.be/NCmzWdbdS28&list=PLn8PRpmsu08pZoifdb8yRMDzY6OObacvs
+
+Top 5 Reasons to Use MATLAB for Deep Learning
+https://youtu.be/T2_iAEPijDc&list=PLn8PRpmsu08pZoifdb8yRMDzY6OObacvs
+
+深度学习入门——什么是卷积神经网络
+https://youtu.be/PjDW_Fv23Vw&list=PLn8PRpmsu08pZoifdb8yRMDzY6OObacvs
+
+深度学习入门——什么是深度学习
+https://youtu.be/0ndwYBNpzpY&list=PLn8PRpmsu08pZoifdb8yRMDzY6OObacvs
+
+深度学习入门——机器学习 VS 深度学习
+https://youtu.be/q96SBLEZtRU&list=PLn8PRpmsu08pZoifdb8yRMDzY6OObacvs
+深度学习（Deep Learning）

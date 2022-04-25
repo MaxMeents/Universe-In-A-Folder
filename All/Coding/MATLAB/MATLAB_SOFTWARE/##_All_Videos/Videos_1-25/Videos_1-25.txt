@@ -1,0 +1,73 @@
+
+A Flexible Modelling Environment to Simulate Real World Systems
+https://youtu.be/PudWqOh3mHA
+
+A Guided Workflow for Zynq Using MATLAB and Simulink
+https://youtu.be/VPOyG2iV8GA
+
+ARM Cortex M Optimized Code from MATLAB and Simulink
+https://youtu.be/Kdq_IQM55KI
+
+Best practices for Converting MATLAB Code to Fixed Point using Fixed Point Designer
+https://youtu.be/kK94jhZ5k2s
+
+Best Practices for Verification and Validation
+https://youtu.be/lbHqmXx8FQM
+
+Connecting Simulink with Other Simulation Frameworks
+https://youtu.be/DUA0eOubusc
+
+Design and Optimize MEMS Devices with Coventor MEMS+ and Simulink
+https://youtu.be/Ol8v3tvVZRs
+
+Designing Embedded Signal Processing Software for Medical Devices
+https://youtu.be/7-93BCxQSak
+
+Developing IEC 62304 Compliant Medical Device Software Using Model Based Design
+https://youtu.be/VCk7GSWRwow
+
+DO 178B Certification  Automate and Streamline Using Code Verification
+https://youtu.be/nhWamtO86y8
+
+DO 178B Certification with Model Based Design
+https://youtu.be/dGrUS4ubIq4
+
+Enhancing Project Based Learning with Modeling and Simulation
+https://youtu.be/Nr0sQCPqkOI
+
+Image Acquisition Using GigE Vision Cameras with MATLAB
+https://youtu.be/lGoYOW2dcJw
+
+Learn Effective, Efficient Experimenting with MATLAB
+https://youtu.be/hSIdCMTRFAs
+
+MATLAB for CC++ Programmers
+https://youtu.be/5pz1fpDE0nw
+
+Operations Research and Optimization of Discrete Event Simulation
+https://youtu.be/CkpOUY7CVCM
+
+Raspberry Pi Programming using Simulink
+https://youtu.be/knr0ibNIt-E
+
+Simulating and Optimising Mining Operations with Simulink
+https://youtu.be/rwJg2__6Gcg
+
+Simulink Based Interactive Pedagogy for Teaching DSP
+https://youtu.be/nN0jSHt3WBs
+
+Speeding Up Optimization Problems Using Parallel Computing
+https://youtu.be/MrLzfvw45PY
+
+Teaching Controls Using Web Based Tutorials
+https://youtu.be/h_y58kliWYM
+
+Teaching Fluid Mechanics and Heat Transfer with Interactive MATLAB Apps
+https://youtu.be/R2jDthikYmY
+
+Using MATLAB on Multicore Machines
+https://youtu.be/8SDQ0CC_Q5E
+
+Wind Resource Assessment,Data Analysis Using MATLAB
+https://youtu.be/vDdRnplachQ
+Videos 1-25

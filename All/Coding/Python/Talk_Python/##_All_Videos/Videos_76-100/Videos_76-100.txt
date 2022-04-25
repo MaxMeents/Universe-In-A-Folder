@@ -1,0 +1,76 @@
+
+#246 Practices of the Python Pro
+https://youtu.be/Bd6m_O00SjU
+
+#247 Solo Maintainer of Open Source in Academia
+https://youtu.be/m4rE2dygRY8
+
+#248 Climate Change and Your Python Code
+https://youtu.be/6hpdPrUK_FA
+
+#249 Capture the Staff of Pythonic Knowledge in TwilioQuest
+https://youtu.be/DllGuy3e_VM
+
+#250 Capture over 400x C02 as trees with AI and Python
+https://youtu.be/6DId7i5Ui-E
+
+#251 Building and UX Testing Azure's Python SDK
+https://youtu.be/Oo57y8JXLgo
+
+#252 What scientific computing can learn from CS
+https://youtu.be/mi9wN-vnXBs
+
+#253 Moon base geekout
+https://youtu.be/6nSIjAFyBb4
+
+#254 a Python Mentorship Story
+https://youtu.be/KdnHJahTg4Y
+
+#255 Talking to Cars with Python
+https://youtu.be/qBZedA4fcdg
+
+#256 Click to run your notebook with Binder
+https://youtu.be/nt4dRRgYebY
+
+#257 Exploring the galaxy with the fastest supercomputer, Python, and radio astronomy
+https://youtu.be/veKYjqVjONE
+
+#259 From Academia to Tech Industry and Python
+https://youtu.be/hPtgCdG67Zo
+
+#260 From basic script to interactive data sci app with Streamlit
+https://youtu.be/p0InBeP_DbA
+
+#261 Monitoring and Auditing Machine Learning
+https://youtu.be/tvGjZvC1AUY
+
+#262 Build a career in data science
+https://youtu.be/ilYmspFIPmo
+
+#263 SEO for developers
+https://youtu.be/C6lh23zLQXE
+
+#264 10 tips every Flask developer should know
+https://youtu.be/8KZBOaFGeN8
+
+#266 - Refactoring Your Code like Magic with Sourcery
+https://youtu.be/NazqbX90Fb4
+
+#267 15 Amazing PyTest Plugins
+https://youtu.be/OEkqWaP5RJI
+
+#269 Holoviz - a Suite of Tools for Python Visualization
+https://youtu.be/wwZBO796r4s
+
+#270 Python in Supply Chains Oil Rigs, Rockets, and Lettuce
+https://youtu.be/EOar4EQNFYE
+
+#271 Unlock the Mysteries of Time, Python's Datetime That Is!
+https://youtu.be/Edg2OSVok-0
+
+Course Trailer Python for Absolute Beginners
+https://youtu.be/a2bFAq_ZCP0
+
+Episode #265 Why is Python slow
+https://youtu.be/IwvcwIi88IQ
+Videos 76-100

@@ -1,0 +1,10 @@
+
+[Scala Central] Dave Gurnell - Approaches to Dependency Injection in Scala
+https://youtu.be/OJe0Dm3t5wQ&list=PLKh1qHtBk9VRPFj2azgSVO4tYc9o1vizr
+
+[Scala Central] Greg Dorrell - Running your standup with a Free Monad
+https://youtu.be/TvcClo2WK0w&list=PLKh1qHtBk9VRPFj2azgSVO4tYc9o1vizr
+
+[Scala Central] Josef Vlach - Roll your own Type class
+https://youtu.be/ytWsP8Wq6BM&list=PLKh1qHtBk9VRPFj2azgSVO4tYc9o1vizr
+Scala Central - Feb 17

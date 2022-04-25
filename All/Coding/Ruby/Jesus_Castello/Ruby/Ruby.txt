@@ -1,0 +1,52 @@
+
+Aloha Ruby Conf 2012 Refactoring from Good to Great by Ben Orenstein
+https://youtu.be/DC-pQPq0acs&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Ben Orenstein - Live Coding with Ben - Ancient City Ruby 2013
+https://youtu.be/C0H-LyZy9Ko&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Binary and Bitwise Operations in Ruby
+https://youtu.be/Nm4u3kCEKo8&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Bryan Helmkamp - Refactoring Fat Models with Patterns
+https://youtu.be/IqajIYxbPOI&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Full Stack Fest 2015 Blending Functional and OO Programming in Ruby, by Piotr Solnica
+https://youtu.be/rMxurF4oqsc&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Jason R. Clark - Spelunking in Ruby
+https://youtu.be/hYtUODuxy9c&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Keynote Jim Weirich - Why aren't you using Ruby (RubyConf Uruguay 2013)
+https://youtu.be/0D3KfnbTdWw&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+LoneStarRuby 2015 - Building a binary protocol client in Ruby A magical journey!
+https://youtu.be/JLoOAGEAAjo&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Presenters and Decorators A Code Tour by Mike Moore
+https://youtu.be/xf7i44HJ_1o&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+RailsConf 2014 - All the Little Things by Sandi Metz
+https://youtu.be/8bZh5LMaSmE&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+RailsConf 2014 - Debugger Driven Developement with Pry by Joel Turnbull
+https://youtu.be/4hfMUP5iTq8&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+RailsConf 2015 - Nothing is Something
+https://youtu.be/OMPfEXIlTVE&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+RailsConf 2017  ?Rails APIs The Next Generation by Derek Carter
+https://youtu.be/iTbTz8_ztIM&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Ruby Conf 2011 The Well-Grounded Nuby by David A. Black
+https://youtu.be/Xt6c6r4fbBs&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Ruby Conf 2013 - Beneath The Surface Harnessing the True Power of Regular Expressions in Ruby
+https://youtu.be/JfwS4ibJFDw&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+RubyConf 2015 - Extremely Defensive Coding by Sam Phippen
+https://youtu.be/44VFrNs7JTU&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+
+Why You Don't Get Mock Objects  by Gregory Moeck
+https://youtu.be/R9FOchgTtLM&list=PL6Eq_d2HYExcrQtvSMGURRW-O92BSRgQ1
+Ruby

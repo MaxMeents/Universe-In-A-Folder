@@ -1,0 +1,64 @@
+
+Automatic Tuning of Multi-Loop DC Motor Controller
+https://youtu.be/m42fJ0xr5JQ&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Displaying Flight Trajectory Data
+https://youtu.be/fd_7RWtHCf8&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Estimating DC Motor Parameters
+https://youtu.be/AUtfvXtz12Y&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Fuzzy Logic Controller in Simulink
+https://youtu.be/Z12oK07oFA4&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+How to Build Bode Plots for Complex Systems  Understanding Bode Plots, Part 4
+https://youtu.be/MQjdeGNZ4mY&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+How to Build Bode Plots for Simple Systems  Understanding Bode Plots, Part 3
+https://youtu.be/ums33HwVYyw&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Modeling HL-20 Vehicle
+https://youtu.be/MRd79B1GkIA&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Online Fault Detection for a DC Motor
+https://youtu.be/znmIL8cW4C8&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Online Parameter Estimation with Simulink
+https://youtu.be/ThIqNvjPYd0&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+PID Controller Tuning Based on Measured Input Output Data
+https://youtu.be/_JlsWX5TH50&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+PID Controller Tuning for a Model with Discontinuities
+https://youtu.be/TlaION68WAg&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+State Space Models, Part 1 Creation and Analysis
+https://youtu.be/wXzlhUzhqao&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+State Space Models, Part 2 Control Design
+https://youtu.be/RC7_nRZKGgE&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Transfer Functions in MATLAB
+https://youtu.be/7-IsUm0hDMg&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Using Bode Plots, Part 1 Closed-Loop Systems
+https://youtu.be/qa02gTTSpVk&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Using Bode Plots, Part 2 Open Loop Shaping
+https://youtu.be/BlS6SwvuiVk&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Using Bode Plots, Part 3 Phase and Gain Margins
+https://youtu.be/9POY47JXIWo&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Using Bode Plots, Part 4 Lead, Lag, PID Controllers
+https://youtu.be/Ap8z05aZwYk&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Using Bode Plots, Part 5 DC Motor Control Example
+https://youtu.be/13HGR4YB2yU&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+What Are Bode Plots  Understanding Bode Plots, Part 2
+https://youtu.be/COzQwkeu8Ek&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Why Use Bode Plots  Understanding Bode Plots, Part 1
+https://youtu.be/F6-EaZobHNk&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+Videos 26-46

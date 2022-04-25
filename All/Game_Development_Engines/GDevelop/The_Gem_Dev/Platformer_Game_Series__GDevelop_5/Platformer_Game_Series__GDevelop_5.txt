@@ -1,0 +1,25 @@
+
+#1 Platformer Game - Basic Movement  GDevelop 5
+https://youtu.be/zTFZ8nJNZyo&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#2 Platformer Game - Smooth Camera & Parallax Background  GDevelop 5
+https://youtu.be/NbKakNEMcUc&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#3 Platformer Game - Adding enemies  GDevelop 5
+https://youtu.be/dj6-AdyBQlQ&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#4 Platformer Game - Adding Player Lives  GDevelop 5
+https://youtu.be/6bh0Bsur1YM&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#5 Platformer Game - Adding Score  #GDevelop 5
+https://youtu.be/Uu_5O6uW0qY&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#6 Platformer Game - Player Attack (Super Mario Style)  #GDevelop 5
+https://youtu.be/tZcZyqILY-Q&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#7 Platformer Game - Moving Platforms  GDevelop 5
+https://youtu.be/4-F_soA3m7U&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+
+#8 Platformer Game - Ladders and Jumpthru Platforms  GDevelop 5
+https://youtu.be/0XEAvpstAAE&list=PLcSb9PUsw6p3UIjd6uEqWeY7OneHlU_U0
+Platformer Game Series  GDevelop 5

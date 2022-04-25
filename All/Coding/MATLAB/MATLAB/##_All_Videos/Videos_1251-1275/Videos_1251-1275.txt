@@ -1,0 +1,76 @@
+
+Automate Data Acquisition in MATLAB Using the Analog Input Recorder App
+https://youtu.be/czMIb4n5DkQ
+
+Automatic Tuning of Field-Oriented Controllers for an Induction Motor
+https://youtu.be/D8akjHcNz2s
+
+AUTOSAR ECU Software Simulation in Simulink
+https://youtu.be/k-mpx08y7vY
+
+Efficient Fixed-Point Implementation of a Filter on an FPGA
+https://youtu.be/dkKf18o-gSw
+
+Getting Started Deploying MATLAB Big Data Applications to Microsoft HDInsight
+https://youtu.be/FnGjaUyBS5o
+
+Getting Started with the Report API
+https://youtu.be/VoZw8Vd9wlw
+
+How to Design Displays using Model-Based Design
+https://youtu.be/-ULWL3TalYY
+
+Introduction to MATLAB Report Generator
+https://youtu.be/7r_1VRp8Rlg
+
+Introduction to the Live Editor
+https://youtu.be/BloS77wf8nY
+
+MATLAB for Data Analytics
+https://youtu.be/Phv6DSumgpM
+
+MATLAB Grader Overview - Previous Version
+https://youtu.be/qWdfTlX7kpo
+
+Modeling Physical Systems in Teaching - Technology and Didactics
+https://youtu.be/-veda9GkBkY
+
+Quadcopter Modelling and Simulation A Case Study for Encouraging Deeper Learning Engagements
+https://youtu.be/ThZCuSdya28
+
+Simulink Blocks for Robot Manipulators and Safe Trajectory Tracking Control
+https://youtu.be/q4mIAX-Rcmg
+
+Structural and Thermal Analysis with MATLAB
+https://youtu.be/ehh7pnbTnYo
+
+Teaching Rigid Body Dynamics, Part 1 Computational Thinking
+https://youtu.be/t5zOInCrl28
+
+Teaching Rigid Body Dynamics, Part 2 Spring-Mass-Damper System Case Study
+https://youtu.be/RN6bo1AABT0
+
+Teaching Rigid Body Dynamics, Part 3 Two-Degrees-of-Freedom Non-Planar Robotic Manipulator Study
+https://youtu.be/r1wKzt9ZXog
+
+Teaching Rigid Body Dynamics, Part 4 Automation
+https://youtu.be/sL1xxqJ2lZY
+
+Teaching Rigid Body Dynamics, Part 5 Four-Degrees-of-Freedom Non-Planar Robotic Manipulator Study
+https://youtu.be/FihKuWPGld4
+
+Teaching Rigid Body Dynamics, Part 6 Summary of Computational Thinking Implementation
+https://youtu.be/QOftya87Sxw
+
+Understanding Model Predictive Control, Part 6 How to Design an MPC Controller with Simulink
+https://youtu.be/evyvdvApPLY
+
+What Control Systems Engineers Do  Control Systems in Practice, Part 1
+https://youtu.be/ApMz1-MK9IQ
+
+What Is Gain Scheduling  Control Systems in Practice, Part 2
+https://youtu.be/YiUjAV1bhKs
+
+機械学習・ディープラーニングのラベリング作業を半自動化
+https://youtu.be/7o9BuEDt0fQ
+Videos 1251-1275

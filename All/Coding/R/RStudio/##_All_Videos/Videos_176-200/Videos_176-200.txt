@@ -1,0 +1,76 @@
+
+Alan Feder  Categorical Embeddings New Ways to Simplify Complex Data  RStudio
+https://youtu.be/gZSTYE8ODbs
+
+Alex Cookson  The Power of Great Datasets  RStudio
+https://youtu.be/NFQLupDQJk8
+
+Athanasia M. Mowinckel  Make a package - Make some friends  RStudio
+https://youtu.be/fWi9_DOlWkU
+
+Carson Sievert  Custom theming in Shiny & R Markdown with bslib & thematic  RStudio
+https://youtu.be/zAqoLCQ83Ns
+
+Chelsea Parlett-Pelleriti  Hands-on ways to remotely teach data science are invaluable  RStudio
+https://youtu.be/qaU2jXW2xcE
+
+Colin Rundel  parsermd - parsing R Markdown for fun and profit  RStudio
+https://youtu.be/J2JJMZR_HDk
+
+Danielle Oberdier  How Content Makes the Data Go 'Round  RStudio
+https://youtu.be/psYq87xx9Js
+
+Danielle Smalls-Perkins & Dorris Scott  Reflections on creating the Mi-R community  RStudio
+https://youtu.be/gjbUEGdL210
+
+Dean Marchiori  A retrospective on a year of commercial data science projects in R  RStudio
+https://youtu.be/4T8gz9AmNOA
+
+Garrick Aden-Buie  xaringan Playground Using xaringan to learn web development  RStudio
+https://youtu.be/XtUYXMLBthM
+
+John Helveston  Using formr to create R-powered surveys with individualized feedback  RStudio
+https://youtu.be/_dW7QIjH3tc
+
+Lucy D'Agostino McGowan  Designing Randomized Studies using Shiny  RStudio
+https://youtu.be/_-hY_YIrvzQ
+
+Marie Vendettuoli  Lessons learned developing a library of validated packages  RStudio
+https://youtu.be/-6b_v0easXk
+
+Michael Chirico  Making .pot-ery with R Translations in R Packages  RStudio
+https://youtu.be/N-7LdfAZBeA
+
+Neal Richardson  Bigger Data With Ease Using Apache Arrow  RStudio
+https://youtu.be/zND-Wj2XPvc
+
+Rika Gorn  From Zero to Hero Best practices for setting up Rstudio Team in the Cloud  RStudio
+https://youtu.be/b6dpDQ7uQjE
+
+Riva Quiroga  Learning to program in R with a communicative approach  RStudio
+https://youtu.be/WlSRI22kpdg
+
+Sean Lopp  R & Python Going Steady  RStudio
+https://youtu.be/86X0n7jfUoM
+
+Shelmith Kariuki  rKenyaCensus Package  RStudio
+https://youtu.be/yf0bZAE0ocY
+
+Shirbi Ish-Shalom  Using R to Up Your Experimentation Game  RStudio
+https://youtu.be/A3vW1l0Juxo
+
+Sophie Beiers  Trial and Error in Data Viz at the ACLU  RStudio
+https://youtu.be/3fVOsY1DHT8
+
+Vicki Boykis  Your public garden  RStudio
+https://youtu.be/E5ERSfydB30
+
+Winston Chang  Making Shiny apps faster with caching  RStudio
+https://youtu.be/diZ4Sdn7d0Q
+
+Wolfram King  Lifelong Learning with R Weekly  RStudio
+https://youtu.be/Y_32M4AeKoo
+
+Yanina Bellini Saibene  On programming, teaching, and building tutorials with learnr  RStudio
+https://youtu.be/EBAvQkP9Kyc
+Videos 176-200

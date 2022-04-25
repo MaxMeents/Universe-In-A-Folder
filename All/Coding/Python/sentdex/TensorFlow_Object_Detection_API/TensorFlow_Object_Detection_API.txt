@@ -1,0 +1,19 @@
+
+Adapting to video feed - TensorFlow Object Detection API Tutorial p.2
+https://youtu.be/MyAOtvwTkT0&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+
+Creating TFRecords - TensorFlow Object Detection API Tutorial p.4
+https://youtu.be/kq2Gjv_pPe8&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+
+Intro - TensorFlow Object Detection API Tutorial p.1
+https://youtu.be/COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+
+Testing Custom Object Detector - TensorFlow Object Detection API Tutorial p.6
+https://youtu.be/srPndLNMMpk&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+
+Tracking Custom Objects - TensorFlow Object Detection API Tutorial p.3
+https://youtu.be/K_mFnvzyLvc&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+
+Training Custom Object Detector - TensorFlow Object Detection API Tutorial p.5
+https://youtu.be/JR8CmWyh2E8&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+TensorFlow Object Detection API

@@ -1,0 +1,76 @@
+
+A Primer on Prefect - Raul Maldonado
+https://youtu.be/gr4qKgxvszQ&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Anvil, the Web, and the Perils of Abstraction - Meredyd Luff
+https://youtu.be/LWlHnBRgy3c&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Benjy Weinberger - How the Pants build system leverages Python 3 features
+https://youtu.be/mLyW6oAExW0&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Building An API With FastAPI and Deta - Josh Grant
+https://youtu.be/VTmLMpbITPU&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Building Data Analytical Tools for Services - Shubhi Asthana
+https://youtu.be/CNSeeVqVV_M&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Building your first REST API with AWS’s Open Data Sets and Chalice - Christian Weber
+https://youtu.be/VKUoL3IL3-w&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Dave Briccetti -  RoomHelper 3000 Demo A Webapp to Manage a Class of Students in a Computer Lab
+https://youtu.be/4UHt_yRxyKY&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Dean Wampler - Ray Scalability from a Laptop to a Cluster
+https://youtu.be/yGWIzRR82DI&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Demystifying Flask's Application and Request Contexts with Pytest - Patrick Kennedy
+https://youtu.be/90nMybVBI9s&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+DIY Data Science using COVID data sources - Nitin Borwankar
+https://youtu.be/fK9Ati-5IOc&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Docker for Data Science - Aly Sivji
+https://youtu.be/tuYgEv40s7A&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Doug Purcell - How to Unlock the Power of Randomization to Create Intriguing Scripts in Python
+https://youtu.be/D7BN6wt2qZo&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Empowering your Analytic Engineering with DBT -  Raul Maldonado
+https://youtu.be/5eGRWjliWzI&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+How to Automate Your Workflows in Slack Using Python - Kyle Campbell
+https://youtu.be/6OfR6p_j2A0&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Introduction to alter_recipes A collection of ready-made statistical graphics - Antonio Piccolboni
+https://youtu.be/Xy-iMeyUhT8&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Isaac Evans - Good to the Last Drop Writing Robust Flask Apps
+https://youtu.be/cxkW235MOm0&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Lightning Talk - Disrupting the Thesaurus with Data Science - Ben Aaron
+https://youtu.be/SB0qja2hdww&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Lightning Talk Building an Automated Trading Bot - Larry Kubin
+https://youtu.be/s9SbrFtQFzA&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Lightning Talk Cross Cultural NLP project same Mouse different culture - Justin Huang
+https://youtu.be/5QeQhPaiyKs&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Oso An open-source policy engine for authorization - Sam Scott
+https://youtu.be/UsigUU1wu8w&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+PySpark Combining Machine Learning & Big Data - Avon Roy
+https://youtu.be/rgVJYLF7egE&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Svetlana Levitan - Open Standards for Machine Learning Model Deployment
+https://youtu.be/Eje0BkhDz8g&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Three ways to test S3 in Python - Sanjay Siddhanti
+https://youtu.be/D5Ab3dM2CFU&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Traversing GraphQL with ease using Ariadneb - Daniel Pyrathon
+https://youtu.be/Nn4NR28cb-g&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+You Are Unique and We Can Tell By your Gait - John Whaley
+https://youtu.be/sUQtgi_BmSA&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+Videos 26-50

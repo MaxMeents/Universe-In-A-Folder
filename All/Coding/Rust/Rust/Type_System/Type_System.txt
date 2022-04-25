@@ -1,0 +1,19 @@
+
+Ben Blum from the Research team presents Types of Types in Rust
+https://youtu.be/MPktBZhJ_xU&list=PL85XCvVPmGQhUwHFq09ySNJ7J-B0gUg1-
+
+Coherence in Chalk by Sunjay Varma - Bay Area Rust Meetup
+https://youtu.be/rZqS4bLPL24&list=PL85XCvVPmGQhUwHFq09ySNJ7J-B0gUg1-
+
+Felix Klock - Subtyping in Rust and Clarke's Third Law
+https://youtu.be/fI4RG_uq-WU&list=PL85XCvVPmGQhUwHFq09ySNJ7J-B0gUg1-
+
+Intern Presentation Parallel Programming with Failure in Rust
+https://youtu.be/4QHCenVIQXY&list=PL85XCvVPmGQhUwHFq09ySNJ7J-B0gUg1-
+
+Intern Presentation Rust Typeclasses
+https://youtu.be/DSR7EHeySlw&list=PL85XCvVPmGQhUwHFq09ySNJ7J-B0gUg1-
+
+RustConf 2017 - Type System Tips for the Real World by Sean Griffin
+https://youtu.be/wxPehGkoNOw&list=PL85XCvVPmGQhUwHFq09ySNJ7J-B0gUg1-
+Type System

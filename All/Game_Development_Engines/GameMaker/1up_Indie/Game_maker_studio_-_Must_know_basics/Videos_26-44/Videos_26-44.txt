@@ -1,0 +1,55 @@
+
+Blurry text [Game Maker Studio 2  Basics]
+https://youtu.be/16LVo-fdDDs&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+Diablo style point and click movement [Game Maker Studio 2  Basics]
+https://youtu.be/ZtSEzCcoziw&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+Diablo style point and move with auto collision [Game Maker Studio 2  Basics]
+https://youtu.be/XuqEgnioq6g&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+Gamepad button vs thumbstick + deadzone  - [Game Maker Studio 2  Basics]
+https://youtu.be/9C5VrVVsjuM&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+GML crash course Understand every programming language [Game Maker Studio 2  Basics]
+https://youtu.be/wPhNh51u7is&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+How mobile works - Devicegesture  [Game Maker Studio 2  Basics]
+https://youtu.be/V5mo23x-6KM&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+Html5 export [Game Maker Studio 2  Basics]
+https://youtu.be/95CiTScrY_E&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+Image blending + cyan is a lie [Game Maker Studio 2  Basics]
+https://youtu.be/2B_YoG2EEr8&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+Nine slices ninja style [GameMaker Studio Update 2.32]
+https://youtu.be/ivtutJDAIdI&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+The holy trinity of creation [Game Maker Studio 2  Basics]
+https://youtu.be/05I23Y5mswI&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴 8 Direction movement + state machine [Game Maker Studio 2  Basics]
+https://youtu.be/MjIpL3dbFh0&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴 Bounding box VS hitbox [Game Maker Studio 2  Basics]
+https://youtu.be/sInOOV6NRwY&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴 Depth VS layers [Game Maker Studio 2  Basics]
+https://youtu.be/clig2VHtteY&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴 Instance ID [Game Maker Studio 2  Basics]
+https://youtu.be/IXSIrbOtbGg&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴 Sprite editor - The mini Photoshop [GameMaker Studio 2  Basics]
+https://youtu.be/wn7O-vYa_5U&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴(still fake) Mouse cursor [Game Maker Studio 2  Basics]
+https://youtu.be/Jpceu0IWXRY&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴BloomGlow effect shader [Game Maker Studio 2  Advanced]
+https://youtu.be/fxkU6LlFyvY&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+
+🔴Game Maker Studio 2  Basics - A must know! - Fonts + chars + language
+https://youtu.be/QIfgwtgSl4s&list=PLhvuXCmibF5rHTn98J33ilrY8w6SMt8Vd
+Videos 26-44

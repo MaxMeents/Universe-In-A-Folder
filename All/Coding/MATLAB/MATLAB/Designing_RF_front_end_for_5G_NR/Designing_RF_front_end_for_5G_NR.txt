@@ -1,0 +1,13 @@
+
+Map-based visualization of RF propagation for wireless communications
+https://youtu.be/A_kgFhgwz94&list=PLn8PRpmsu08rG_3ugsQX5TlStnAC_jSD1
+
+Power Amplifier Modeling and DPD Design with MATLAB
+https://youtu.be/eo21QWO4VDU&list=PLn8PRpmsu08rG_3ugsQX5TlStnAC_jSD1
+
+RF Budget Analysis with RF Toolbox
+https://youtu.be/swjgr4YBhRM&list=PLn8PRpmsu08rG_3ugsQX5TlStnAC_jSD1
+
+Working with S Parameters
+https://youtu.be/fORTOo_nvVs&list=PLn8PRpmsu08rG_3ugsQX5TlStnAC_jSD1
+Designing RF front end for 5G NR

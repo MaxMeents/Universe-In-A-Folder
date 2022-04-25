@@ -1,0 +1,76 @@
+
+6 APPS ONE CODE by Sani Yusuf
+https://youtu.be/IJ2Hr2bA77w
+
+A developer, a designer and a data scientist walk into a bar by Luca Simone,Uros Savic,Maxime Darçot
+https://youtu.be/FWnKaEmE0sw
+
+Angular the Redux Way by Gion Kunz
+https://youtu.be/FPHVZlpxInw
+
+Building event-driven (Micro)Services with Apache Kafka by Guido Schmutz
+https://youtu.be/IR1NLfaq7PU
+
+Challenges in Mixed Reality by Sébastien Broggi and Roman Messerli
+https://youtu.be/Z2N9sMcPPII
+
+Distributing UIs across devices by Maria Husmann
+https://youtu.be/TbTScb9Eulk
+
+Effective Scala Reloaded! by Mirco Dotta
+https://youtu.be/pAc-0TmnlcE
+
+Graal High-Performance Polyglot Runtime by Thomas Wuerthinger and Aleksandar Prokopec
+https://youtu.be/8AYESZIaacg
+
+Harness the power of Spark SQL with the Data Source API by Stefano Baghino
+https://youtu.be/2JVcrGPFrIA
+
+Hibernate Tips ‘n’ Tricks - 15 Tips to solve common problems by Thorben Janssen
+https://youtu.be/JTYfITkaqnQ
+
+Introduction to Apache Kafka as Event-Driven Open Source Streaming Platform by Kai Waehner
+https://youtu.be/OXLABLRNuzI
+
+JDK 9 the performance bits or why you would really want to upgrade to Java 9 by Dmitry Vyazelenko
+https://youtu.be/s31xjuWcD54
+
+Lazy Java by Mario Fusco
+https://youtu.be/exEuie-wyCI
+
+Microservices are not worth the trouble by James Birnie
+https://youtu.be/oSK0-eWWZRE
+
+Move Slow and Mend Things by Kevlin Henney
+https://youtu.be/6j9Yl6fNMmc
+
+One does not simply log in! - SSO for Web APIs by Niko Köbler
+https://youtu.be/pz1gi2KW1K8
+
+Onion architecture with stereotypes by Alain Sahli
+https://youtu.be/XOyyLwyrBQU
+
+Spring Framework 5.0 on JDK 8 & 9  by Juergen Hoeller
+https://youtu.be/0V-3kUMfWCc
+
+The Java 9 Module System Beyond The Basics by Nicolai Parlog
+https://youtu.be/pfXsQyToipM
+
+The Power and Practicality of Immutability by Venkat Subramaniam
+https://youtu.be/FQERMVABRrQ
+
+The quantum computers are coming by Alasdair Collinson
+https://youtu.be/HrLC1TTnEH0
+
+Welcome to VDZ18 by Federico Yankelevich and Mario Fusco
+https://youtu.be/aopu2NtmFtQ
+
+What Every Programmer has to know about Database Storage by Alex Petrov
+https://youtu.be/e1wbQPbFZdk
+
+What Haskell taught us when we were not looking! by Eric Torreborre
+https://youtu.be/aNL3137C74c
+
+Your Website STILL Feels Slow, Now What by Myriam Jessier
+https://youtu.be/0CAE2Q4ZR-E
+Videos 1401-1425

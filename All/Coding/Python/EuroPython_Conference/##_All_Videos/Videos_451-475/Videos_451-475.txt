@@ -1,0 +1,76 @@
+
+Aaron Bassett - Hello to the World in 8 Web Frameworks micro, batteries included & async
+https://youtu.be/Z_2eRy8XBRQ
+
+Alexys Jacob - The rise of Python in the data communities
+https://youtu.be/6rCFwjV0J-4
+
+Anton Caceres - Python and Web Sockets
+https://youtu.be/6oQuQ5coSQ0
+
+Dougal Matthews - 10 years of EuroPython and the Python community
+https://youtu.be/glvXlcpmVQo
+
+EuroPython 2018 - Lightning talks on Thursday, July 26
+https://youtu.be/z8rYW1UiHNc
+
+Francisco Javier Aceituno Lapido - Developing in a black hole vim, tmux, httpie and jq
+https://youtu.be/7LahjY_poio
+
+Guillaume Gelin - PEP 557 versus the world
+https://youtu.be/eJsu-7hFXyA
+
+Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business
+https://youtu.be/74AsJ7RET20
+
+Ivaylo Donchev - Django queries optimization
+https://youtu.be/qDyxmgWkjvI
+
+Jukka Lehtosalo - Getting Started with Mypy and Type Checking
+https://youtu.be/18nZ5xMeGno
+
+Konstantin Ignatov - Succinct data structures for python
+https://youtu.be/EVP_xLILirs
+
+Lynn Root - asyncio in Practice We Did It Wrong
+https://youtu.be/1lJDZx6f6tY
+
+Marc Andre Lemburg - How to make money using Python - Unused potential in the Enterprise World
+https://youtu.be/FfIH-baHJj8
+
+Mark Shannon - Is your code tainted Finding security vulnerabilities using taint tracking
+https://youtu.be/VQkFhrXvRbw
+
+Mark Smith - More Than You Ever Wanted To Know About Python Functions
+https://youtu.be/vIkpCOY-yGs
+
+Martin Angelov - Proper Django Testing
+https://youtu.be/bHYw0LY9yWE
+
+Mika Boström, Alexander Schmolck - Marge A bot for better Git'ing
+https://youtu.be/9QXACKrJ-1k
+
+Naomi Ceder - Iteration Inside Out   Python's Iteration Protocol
+https://youtu.be/kXd1sIbdM8w
+
+Nina Zakharenko - Code Review Skills for Pythonistas
+https://youtu.be/6L3ZVLtSeo8
+
+Pascal van Kooten - When to use Machine Learning Tips, Tricks and Warnings
+https://youtu.be/JN6RAaufFzU
+
+Sarah Bird - The Web is Terrifying! Using the PyData stack to spy on the spies
+https://youtu.be/3zWHdyrGlDc
+
+Stefan Behnel - Cython to speed up your Python code
+https://youtu.be/4xpeJYWvbuU
+
+Stephan Jaensch - Type annotations with larger codebases
+https://youtu.be/pWnETtscNS0
+
+Steve Barnes - Why develop a CLI Command Line Interface first
+https://youtu.be/7qLNrcYkQiY
+
+Thomas Aglassinger - Introduction to sentiment analysis with spaCy 1
+https://youtu.be/LvlUBxi_JEg
+Videos 451-475

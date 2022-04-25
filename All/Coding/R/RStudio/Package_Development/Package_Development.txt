@@ -1,0 +1,31 @@
+
+Alex Cookson  The Power of Great Datasets  RStudio
+https://youtu.be/NFQLupDQJk8&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Athanasia M. Mowinckel  Make a package - Make some friends  RStudio
+https://youtu.be/fWi9_DOlWkU&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Ellis Hughes  R Package Validation Framework  RStudio
+https://youtu.be/1Bxk2wReFzE&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Emily Riederer  oRganization  RStudio
+https://youtu.be/E887K1au5ug&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Jeroen Ooms  Monitoring health and impact of open-source projects  RStudio
+https://youtu.be/kaoe7xuIJ1U&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+John Helveston  Using formr to create R-powered surveys with individualized feedback  RStudio
+https://youtu.be/_dW7QIjH3tc&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Malcolm Barrett  You're Already Ready Zen and the Art of R Package Development  RStudio
+https://youtu.be/Mb7wZZ6nPLA&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Marie Vendettuoli  Lessons learned developing a library of validated packages  RStudio
+https://youtu.be/-6b_v0easXk&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Marly Gotti  Risk Assessment Tools R Validation Hub Initiatives  RStudio
+https://youtu.be/4uVQXHpNmUQ&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+
+Roche & Novartis Effective Visualizations for Data Driven Decisions  RStudio (2020)
+https://youtu.be/RqGFMRQ3M-U&list=PL9HYL-VRX0oQE0S8ci3VQfTTkhOSIDNs4
+Package Development

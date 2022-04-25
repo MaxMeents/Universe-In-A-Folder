@@ -1,0 +1,76 @@
+
+A Simple Backup Utility - Stuart's MATLAB Videos
+https://youtu.be/nIoYmlyzcHg
+
+Addressing Implementation Constraints Using MATLAB Coder - MATLAB Video
+https://youtu.be/H4u0sDwrWpc
+
+Alt Up Down Keyboard Shortcut in MATLAB Editor - Stuart's MATLAB Videos
+https://youtu.be/cbfPcU2zE28
+
+Automatic Tuning of a Multivariable Distillation Column Controller - Simulink Video
+https://youtu.be/80A6yYnBm4g
+
+Computer Vision for Advanced Driver Assistance Systems, Part 2 Algorithm Development
+https://youtu.be/7qF2j9IJfQQ
+
+Computer Vision for Advanced Driver Assistance Systems, Part 3 Creating Vision Systems for Controls
+https://youtu.be/N743x2DyJU8
+
+Computer Vision for Advanced Driver Assistance Systems, Part 4 TestingVerifying Perception Systems
+https://youtu.be/rsMX8-3ww9g
+
+Creating Model and Project Templates
+https://youtu.be/RwaJmR0Wt2E
+
+Design Exploration Using the Sensitivity Analysis Tool
+https://youtu.be/hNweoL4l97w
+
+Developing Algorithms for ADAS Systems with MATLAB and Simulink
+https://youtu.be/pL8DGnUroDU
+
+Developing Quantitative Skills Using Geoscience Data with MATLAB
+https://youtu.be/1rlsjcjxJZ0
+
+Introducing the MATLAB Live Editor
+https://youtu.be/jI56Qe1tLFQ
+
+MATLAB and Macroeconomic Stress Testing - MATLAB Video
+https://youtu.be/2aLE-W1Ef30
+
+MATLAB for Portfolio Construction Smart Beta - MATLAB Video
+https://youtu.be/e4T2JNNWj8c
+
+Model Order Reduction with the Model Reducer App
+https://youtu.be/HWBZW_jYFeQ
+
+Modeling a Vehicle Powertrain - MATLAB and Simulink Video
+https://youtu.be/G7WX1VPbNX0
+
+Multi-Input Root Inport Mapping
+https://youtu.be/1_6VoimHvaA
+
+Nonlinear Plant Control at Different Operating Points
+https://youtu.be/TpDLcVzrQ8M
+
+Obstacle Avoidance Using LEGO MINDSTORMS EV3 and Simulink
+https://youtu.be/eFm_Rg_JlII
+
+Setting the Initial Working Folder in MATLAB to be the Last Folder Used - Stuart’s MATLAB Videos
+https://youtu.be/1Uz82mwr-BY
+
+SimEvents for Model Based Design
+https://youtu.be/-ZePpTPL5NY
+
+Simulation of AUTOSAR Software Components
+https://youtu.be/Nlb3QQSN2r4
+
+Trim, Linearization and Control Design for an Aircraft
+https://youtu.be/BydCIDbeRXc
+
+What is Simulink Control Design - Simulink Control Design Overview
+https://youtu.be/-N3f58Zapk0
+
+What is Simulink Design Optimization Overview - Simulink Design Optimization Overview
+https://youtu.be/TfiGg5rdYd4
+Videos 1801-1825

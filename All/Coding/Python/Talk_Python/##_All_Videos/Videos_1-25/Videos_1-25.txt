@@ -1,0 +1,76 @@
+
+10 Tips and Tools for Developer Productivity - Talk Python Episode 345
+https://youtu.be/XtJQR5RyURA
+
+20 Recommended Packages in Review
+https://youtu.be/SOzR80eAt1M
+
+25 Pandas Functions You Didn’t Know Existed - Talk Python Live Stream
+https://youtu.be/ZBC1Q_kYIvE
+
+Cinder - Specialized Python that Flies - Talk Python Episode #347
+https://youtu.be/XHVaEj9fnA8
+
+Dear PyGui Simple yet Fast Python GUI Apps -  Talk Python Episode #348
+https://youtu.be/vw5aTVx4VVw
+
+Do Excel things, get notebook Python code with Mito - Talk Python Episode #343
+https://youtu.be/XAGmSPZsYLU
+
+EdgeDB, asyncio, uvloop, and more
+https://youtu.be/OnMMLQnquX0
+
+Hypermodern Python and Updating Cookiecutters - Talk Python Live Stream
+https://youtu.be/7HCQs4fmPvA
+
+Machine Learning Ethics and Laws Panel - Talk Python Episode #351
+https://youtu.be/v3wsy8hlX88
+
+Machine Learning Operations Best Practices - Talk Python Live Stream
+https://youtu.be/SQERTZ190lA
+
+Making Python 5x FASTER with Guido van Rossum and Mark Shannon - Talk Python To Me
+https://youtu.be/_r6bFhl6wR8
+
+Meet Beanie A MongoDB ODM + Pydantic - Talk Python Episode #349
+https://youtu.be/kWd7ErXMlqQ
+
+Pandas Tutor - Talk Python Live Stream
+https://youtu.be/_vPmMYSGAlU
+
+Pangeo Data Ecosystem - Talk Python Live Stream
+https://youtu.be/T3jUatZ1KTo
+
+Python and the James Webb Space Telescope - Talk Python Live Stream
+https://youtu.be/LmZ8w9WLEYY
+
+Python for C# and .NET Developers - Talk Python Live Stream
+https://youtu.be/Au-UAGvUJfs
+
+Python in Architecture (as in actual buildings) on Talk Python - live stream
+https://youtu.be/Fmr2GP5aojE
+
+Removing Python's Dead Batteries - Talk Python Live Stream
+https://youtu.be/Xnl5HC_Tq70
+
+Running Python Applications in Production - Talk Python Episode #352
+https://youtu.be/fgXW3RF7dMw
+
+Sphinx, MyST, and Python Docs in 2022 - Talk Python Episode #354
+https://youtu.be/_Lv_8QWwL8g
+
+SQLAlchemy 2.0 on Talk Python - Live Stream Event
+https://youtu.be/q5Iv6RUxKC8
+
+SQLModel The New ORM for FastAPI and Beyond - Talk Python Podcast Episode
+https://youtu.be/BTCtKWpNoRI
+
+Time to JIT your Python with Pyjion - Talk Python Live Stream
+https://youtu.be/GaKXPY-u7pI
+
+Tips for ML  AI Startups - Live Stream
+https://youtu.be/ErCWmBf_h0c
+
+Using cibuildwheel to manage the scikit-HEP packages - Talk Python To Me 338 Live Stream
+https://youtu.be/8MfmY0IaeT4
+Videos 1-25

@@ -1,0 +1,37 @@
+
+Andrea Telatin - Control a remote machine from your mobile, with Telegram! - Lightning Talks - Day 3
+https://youtu.be/Nhtmy7BI3-w&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Chris White - Vala my new favorite leaky abstraction - Lightning Talks - Day 3
+https://youtu.be/6kZSusnIVwI&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Gene Boggs - Random Drum Fills! - Lightning Talks - Day 3
+https://youtu.be/_fNSw2R-LnM&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Ilya Chesnokov - Sub signatures - do we still need them - Lightning Talks - Day 3
+https://youtu.be/hTjA77Fz37o&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Jason McIntosh - Whim A Webmention multitool for the command line - Lighting Talks - Day 3
+https://youtu.be/J2VLrZ9nh2E&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Jesse Thompson - Perl on Lambda - Lightning Talks - Day 3
+https://youtu.be/cbbDjo4ZT4k&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Jonathan Worthington - RakuAST - Raku Keynote
+https://youtu.be/91uaaSyrKm0&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+M. Scott Ford - A Deep Dive into Measuring Dependency Freshness with LibYear
+https://youtu.be/p6qgJ6oUDaE&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Maki Kato - PowerShell for Perl experts
+https://youtu.be/b2OiL4YszYs&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Santiago Zarate - A Quest for Test Automation - Lightning Talks - Day 3
+https://youtu.be/WlBO9xndBwQ&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Stuart J Mackintosh - Improving the perception of Perl and Raku - Marketing
+https://youtu.be/T290Jr_ECms&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Travis Gibson - USB Devices How to Drive Your Own
+https://youtu.be/BWjl4p6jIOc&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+Videos 51-62

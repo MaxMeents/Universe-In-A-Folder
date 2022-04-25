@@ -1,0 +1,76 @@
+
+66th airhacks.tv Questions and Answers
+https://youtu.be/2i2K-ufUL30
+
+67th airhacks.tv Questions and Answers
+https://youtu.be/QGYEAlZlHS4
+
+68th airhacks.tv Questions and Answers
+https://youtu.be/hYcqZWSAeFk
+
+69th airhacks.tv Questions and Answers
+https://youtu.be/rwmlKssjRHI
+
+70th airhacks.tv Questions and Answers
+https://youtu.be/nm6WEzOT7Os
+
+71st airhacks.tv Questions and Answers
+https://youtu.be/F3Xf8CPQhwk
+
+Authentication and Authorization with Payara and MicroProfile JWT
+https://youtu.be/ozQzsVxFfXU
+
+Deploying Quarkus to OpenShift
+https://youtu.be/QxJQMb35RWU
+
+ES 6 Modules and nomodule
+https://youtu.be/qHTGdX18994
+
+Jakarta EE 8 + Microprofile 3.0 Live Coding - With Even Less Ceremony #slideless
+https://youtu.be/qWdoLnaQ8vY
+
+JavaScript Modules and Dynamic Imports
+https://youtu.be/2KdeCtOdKxM
+
+JavaScriptfetch with async  await
+https://youtu.be/29d2WCmMtKE
+
+Media Queries with JavaScript
+https://youtu.be/aW-BT5BKbPY
+
+MicroProfile OpenAPI with Swagger UI
+https://youtu.be/OC0kuFRyEUQ
+
+MicroProfile REST Client Tests with Quarkus
+https://youtu.be/RLkvFT537_4
+
+Prerendering WebComponents with Jakarta Server Pages (JSP)
+https://youtu.be/d3cDVbUD-JY
+
+Quarkus and Panache ORM
+https://youtu.be/npAlosGwXdw
+
+Quarkus vs. Wildfly - The RAM Perspective
+https://youtu.be/euFOeb6Gabg
+
+Simplest Possible Internationalisation Without Dependencies
+https://youtu.be/6uYl9MI4jK4
+
+Testing Shadow DOM inside Custom Elements with Cypress
+https://youtu.be/BsF6jer8Mxk
+
+The Page Visibility API
+https://youtu.be/hrTQvgJnPJc
+
+Tomcat, Jetty and Quarkus--The Memory Consumption
+https://youtu.be/4FVoC4jG0BA
+
+Unidirectional Dataflow with WebComponents, fetch and CustomEvents
+https://youtu.be/B9YCoE8jO8E
+
+Vaadin Router and WebComponents
+https://youtu.be/Fxi9YdM0qFw
+
+WebComponents and Java Server Pages (JSPs)
+https://youtu.be/4viMS8GZmGU
+Videos 101-125

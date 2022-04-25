@@ -1,0 +1,76 @@
+
+Python Basics Tutorial 50000 Views
+https://youtu.be/IIeQKZOgErY&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial 750 Subs
+https://youtu.be/h9Lvlhdq54E&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Break and Continue To Control Loop
+https://youtu.be/2LVse5FMfVk&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Collections Counter Object
+https://youtu.be/aDBzeabqMDY&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Deep Dive Slicing and For Loop
+https://youtu.be/DZWY8qvOrFU&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial For Absolute Beginners
+https://youtu.be/BBl3tNbehW0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial For Loop Control
+https://youtu.be/uHfC5Qu0Nms&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Kivy BoxLayout Size hint and Orientaion
+https://youtu.be/Dtl6wo2vR68&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Kivy Button Widget
+https://youtu.be/qon0Y7zvNZE&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Add Color to Graph and Axes
+https://youtu.be/cZ64yMZZ1xk&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Matplotlib Twin Axes Method
+https://youtu.be/pzQ0SqbPwQc&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Numpy Problem Homogeneous Array
+https://youtu.be/ycZngx25f6E&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Numpy Save and Load Function
+https://youtu.be/ID95mmYKR_g&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pandas Concatenate Function
+https://youtu.be/qqq3csVj-1g&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pandas ExcelFile Object
+https://youtu.be/SSuq3V5fUBg&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pygame Mulitple Sprite Objects
+https://youtu.be/nAzj3fGcmPI&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pygame Sprite Kill Method
+https://youtu.be/mDX5IDsAQrE&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Pygame Sprite Object Control
+https://youtu.be/7S_OxrVrOG4&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sqlite Cursor Select Fetchall Method
+https://youtu.be/uwcH7ti8RzQ&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Sqlite Cursor Select Fetchmany Method
+https://youtu.be/9s4xsdbmurg&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Tkinter Menu Command Logic and Separator Method
+https://youtu.be/ckT7lLgOhro&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Tkinter Menu
+https://youtu.be/kYYFHUy8VP0&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Tkinter Tk IntVar  Create empty check button
+https://youtu.be/4PYs-vGO1Kc&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial Viewer Feedback GMT Publish
+https://youtu.be/-sF-Eg6fRTk&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+
+Python Basics Tutorial While Loop With and Without Break
+https://youtu.be/zBrJUn5j6e4&list=PLaYT64KWZAEMLZujkHkFkplXtv6c7S2co
+Videos 26-50

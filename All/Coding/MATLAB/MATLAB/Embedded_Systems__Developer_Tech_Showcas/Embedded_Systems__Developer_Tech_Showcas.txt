@@ -1,0 +1,64 @@
+
+Adding MCU Peripheral Modeling in Motor Control Using SoC Blockset
+https://youtu.be/fGNM6zF9NnQ&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Autotuning a Field-Oriented Controller
+https://youtu.be/H213IHjhC00&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Component-Based Modeling in Simulink
+https://youtu.be/fLVmzhCltHo&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Data-Free Parameter Pruning and Quantization
+https://youtu.be/4xhRcOvHxzY&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Deploy a MATLAB Function as a Standalone Executable on Raspberry Pi Hardware from MATLAB Online
+https://youtu.be/khC5DbsPA5c&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Design an HDL-Optimized MVDR Beamformer with the Linear Algebra Library in Simulink
+https://youtu.be/IB945u2Dc5w&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Designing Software Architectures Using AUTOSAR Blockset
+https://youtu.be/Ys7pE2Vs-44&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Easily Check Data Types in MATLAB Functions and Objects
+https://youtu.be/z5KA5VjEkKM&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Enforce Constraints for PID Controllers
+https://youtu.be/SLM_yjMHw5o&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Hand Gesture Recognition Using Machine Learning on Arduino Hardware
+https://youtu.be/e4qveZfQPv8&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+How to Debug a Property Proving Counterexample
+https://youtu.be/B5zTtHcVoxc&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Implementing a 5G Application on Xilinx RFSoC Using SoC Blockset
+https://youtu.be/BS454e2VA-s&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Modeling and Simulating Basic Software with AUTOSAR Blockset
+https://youtu.be/2BzZbdYYgLM&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Motor Control on Embedded Devices
+https://youtu.be/fpz4-hapKkg&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Multicore Embedded Design
+https://youtu.be/KZc9E3Iyk7c&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Multicore Motor Control Using SoC Blockset
+https://youtu.be/uOVSq4HpPm0&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Prototype FPGA Design on Hardware from the MATLAB Command Line
+https://youtu.be/SBxVgySjg0Q&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Running a Deep Learning Network on an FPGA to Detect Defects
+https://youtu.be/ue-9NaHCFug&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Teaching Vibrations and Control Labs Online Using Simscape and MATLAB Apps
+https://youtu.be/8nZ9zB8rWC4&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Top 7 Ways to Automate Your RTL Verification
+https://youtu.be/2Ugo1anCNX8&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+
+Using DDS Middleware with Simulink
+https://youtu.be/8iEa-gtTXuo&list=PLn8PRpmsu08oYCg_v4ZZ6xmJlo3242Asj
+Embedded Systems  Developer Tech Showcase

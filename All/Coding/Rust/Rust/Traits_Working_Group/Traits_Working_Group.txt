@@ -1,0 +1,28 @@
+
+2020-10-30 wg-traits type library sprint planning
+https://youtu.be/MHp_otI28UU&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+2021-05-12 Trait Evaluation Caching (PR #85186)
+https://youtu.be/_tG2E9KVy5o&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+Chalk + Specialization
+https://youtu.be/r3_ITLKLGJs&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+how chalk-engine works, part 2
+https://youtu.be/hmV66tB79LM&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+How the chalk-engine crate works
+https://youtu.be/Ny2928cGDoM&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+rustc-chalk integration overview
+https://youtu.be/MBWtbDifPeU&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+Traits WG Roadmap Meeting (2019-02-25)
+https://youtu.be/x4V6t72_5x0&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+Universes and Lifetimes
+https://youtu.be/iV1Z0xYXkck&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+
+walk through rustc-integration PR 2020-04-15
+https://youtu.be/Cl_l9ibSjwg&list=PL85XCvVPmGQhKGDGIDjzE2Kkk-BwiJj03
+Traits Working Group

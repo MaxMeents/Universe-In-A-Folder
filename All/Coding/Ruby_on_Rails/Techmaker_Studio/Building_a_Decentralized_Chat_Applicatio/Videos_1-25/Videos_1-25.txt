@@ -1,0 +1,76 @@
+
+Aleph.im Tutorial  Exploring How Aleph Works and How to Interact with the Network
+https://youtu.be/8D2dgHdcIhE&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Aleph.im Tutorial  How to Update Records (Amend) on the Network
+https://youtu.be/5CINJZAPqC0&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Aleph.im Tutorial  Querying Data from the Network - Part 1
+https://youtu.be/oEHaXDCfWD4&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Aleph.im Tutorial  Querying Data from the Network - Part 2
+https://youtu.be/_xjALmTD8gc&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Aleph.im Tutorial  Using Experimental Web Sockets to Listen to the Network  Part 2
+https://youtu.be/FDSaa6lNuS4&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Intro
+https://youtu.be/cRNNnuCGOPQ&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 1
+https://youtu.be/sGVOiHlKHx8&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 10
+https://youtu.be/afAnJ3Wx4p0&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 11
+https://youtu.be/fPPJksDf1Fo&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 12
+https://youtu.be/nK7fNavIjrc&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 13
+https://youtu.be/kB-goCd0HDA&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 14
+https://youtu.be/9W8Umg__Sb4&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 15
+https://youtu.be/clJqJTK7cXM&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 16
+https://youtu.be/z5lSrKFdLZo&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 17
+https://youtu.be/yH1dHshLtis&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 18
+https://youtu.be/eeGt0_NDQ84&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 19
+https://youtu.be/KtHAGn6u1H0&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 2
+https://youtu.be/vM5nfz_0uRs&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 3
+https://youtu.be/Gc089GhEcI0&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 4
+https://youtu.be/z0UV5umsoJ8&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 5
+https://youtu.be/BhDBMAB-W4k&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 6
+https://youtu.be/1KMpynUUXZQ&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 7
+https://youtu.be/ffUWOE0vrxc&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 8
+https://youtu.be/S2e24Romxy0&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 9
+https://youtu.be/M5G8Hi5uyHo&list=PLjItgYqIzJ9ULWZzz-d7-vwUL9h3WJSzB
+Videos 1-25

@@ -1,0 +1,4 @@
+
+Mapping Definitions in JPA and Hibernate  Annotations, XML or Both
+https://youtu.be/2xzHUeQG7eA&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+Videos 76-76

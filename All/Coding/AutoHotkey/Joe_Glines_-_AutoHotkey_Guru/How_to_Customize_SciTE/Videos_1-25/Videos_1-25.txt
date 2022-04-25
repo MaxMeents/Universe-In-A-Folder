@@ -1,0 +1,76 @@
+
+Amazing AutoHotkey resources cheat sheet  74 great links to AHK topics
+https://youtu.be/6sB2VFZt628&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+Announcing the 2020 AutoHotkey User Survey
+https://youtu.be/iF9B8vdp98c&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+AutoHotkey Webinar 072017 Hour 1-SciTE4Autohotkey  SciTE is an amazing ahk editor!
+https://youtu.be/L0eWUsjp3HE&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+AutoHotkey Webinar 072017 Hour 2- SciTE4Autohotkey user properties
+https://youtu.be/Jxj5jRg9Y2A&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+Debug AutoHotKey with SciTE  Level up your AHK programming today!
+https://youtu.be/M2mMfpEt8ok&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to automatically trim white space in SciTE  Auto-clean up your code with SciTE4AutoHotkey
+https://youtu.be/_U0eKhoKllw&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to create a SciTE Home variable to keep SciTE consistent on multiple computers
+https://youtu.be/OoEfbLzKkzk&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to create custom SciTE hotkeys to be more efficient
+https://youtu.be/wdrZsHc5flA&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to customize SciTE  Deep dive into my User Properties file
+https://youtu.be/H22njM_Lkhg&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to Customize SciTE Status Bars  Leverage this hack to see MORE in SciTE
+https://youtu.be/xASjPdZfF6w&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to customize the SciTE Context Menu- Add your favorite shortcuts
+https://youtu.be/6-RyWb6pL9E&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to Debug with SciTE Part 2  A deeper dive into debugging AutoHotkey code with SciTE4AutoHotkey
+https://youtu.be/9s_awT4n8AM&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to fix SciTE4AutoHotkey Check for update Issue
+https://youtu.be/AyZR6A1BzM4&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to open SciTE multiple times  Easily see multiple files at the same time!
+https://youtu.be/G3mdPK4Qa4s&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to personalize SciTE Intellisense with variables, labels, functions
+https://youtu.be/tVKkm7P8KnU&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to run Selected Text in SciTE  Level-up your coding!
+https://youtu.be/jfXUxPoxRNM&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to Send Text to the SciTE Output Pane  Easily display a ton of text
+https://youtu.be/AauNXvg_hUI&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to setup SciTE auto-closing of quotes, brackets, parens etc.
+https://youtu.be/7diHtKE5guU&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to use SciTE messages to control SciTE with AutoHotkey
+https://youtu.be/upPtaEghnRM&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+How to use SciTE search and replace amazing functionality
+https://youtu.be/1W8uFcRavCI&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+Personalizing SciTE autocomplete by adding your functions and labels
+https://youtu.be/BqcTWValzmk&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+Pull up AutoHotkey documentation AND VIDEOS in ANY editor  IDE!
+https://youtu.be/p4XqpEcvWBM&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+SciTE Hotkeys to print out and memorize
+https://youtu.be/FRnIYrRprdY&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+Text file evaluator-Determine Type of delimiter and File Headers
+https://youtu.be/f10v2mKqf18&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+
+Which is the best AutoHotkey editor for you (2021)  You just may be surprised!
+https://youtu.be/DfESaUh7nTI&list=PL3JprvrxlW26l5UPLm05D4CeFrHWEKhHJ
+Videos 1-25

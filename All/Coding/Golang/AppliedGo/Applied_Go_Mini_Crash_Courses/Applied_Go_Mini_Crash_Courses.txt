@@ -1,0 +1,16 @@
+
+Basic JSON in Go
+https://youtu.be/xyoEqDlokw8&list=PLziDvf7ydaam8n2IPn5Ew0CM1f_VuRX7k
+
+How to create PDF documents
+https://youtu.be/q7zya972CkI&list=PLziDvf7ydaam8n2IPn5Ew0CM1f_VuRX7k
+
+Regular Expression Basics for Go Programmers
+https://youtu.be/nDiFzmGFjS8&list=PLziDvf7ydaam8n2IPn5Ew0CM1f_VuRX7k
+
+RESTful Web API Basics in Go
+https://youtu.be/iVXaPD_Jbu0&list=PLziDvf7ydaam8n2IPn5Ew0CM1f_VuRX7k
+
+Working with Spreadsheets in Go
+https://youtu.be/fGD5rjENGRc&list=PLziDvf7ydaam8n2IPn5Ew0CM1f_VuRX7k
+Applied Go Mini Crash Courses

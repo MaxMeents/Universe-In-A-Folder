@@ -1,0 +1,76 @@
+
+12 Ways of the Cloud Native Warrior - Burr Sutter - part 12
+https://youtu.be/M7yNrA82eU8&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+15 Years of Spring (in 15 Minutes) - Juergen Hoeller
+https://youtu.be/CADH-8cpOmY&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+7 Deadlier Sins of Craftsmanship - Tomasz Dubikowski
+https://youtu.be/sXxYL9pYqts&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+A Case for Outside-In Design - Sandro Mancuso
+https://youtu.be/bvie9vl7X6A&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Advanced Serverless Architectural Patterns on AWS - Alex Casalboni
+https://youtu.be/o9YB2F3pCHU&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Building a code review culture - Emil Hornung
+https://youtu.be/I0_N5MBYB5s&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Building a DSL with GraalVM - Maarten Mulders
+https://youtu.be/G4c4BoXZN1o&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Coroutines and Reactive Programming - friends or foes - Konrad Kamiński
+https://youtu.be/09M4-rRlMR8&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Data Visualization, Processing and Machine Learning (on the JVM) with Apache Zeppelin - Pratik Patel
+https://youtu.be/9SE04pE8q3U&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Evolution of Visual Studio Code Java Ecosystem - Xiaokai He, Adi Polak
+https://youtu.be/sVDizUZesZk&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+How and why we turned our old Java projects into first-class... - Mario Fusco, Maciej Swiderski
+https://youtu.be/IrH-9fJ-2RU&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+How to break an 18 yo monolith - Andreas Bräu
+https://youtu.be/roVze2PWTxI&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Java on ARM. Theory, Applications, and Workloads - Dmitry Chuyko
+https://youtu.be/fU6WBEPzRCo&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+java.util.concurrent for Distributed Coordination - Ensar Basri Kahveci
+https://youtu.be/x7ajVUfZJTI&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Kotlin Under the Covers - Chet Haase
+https://youtu.be/c-_UlbzVwnU&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Machine Learning at LinkedIn - Szczepan Faber
+https://youtu.be/T_pu9MjIuNM&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Move over JDBC ADBA and R2DBC are coming! - Frank Lyaruu
+https://youtu.be/34HWqXSeN90&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Multiplayer Pac-Man with RSocket - Oleh Dokuka
+https://youtu.be/ORhUXpO5Ijk&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Reactive Relational Database Connectivity - Mark Paluch
+https://youtu.be/JKC-sHF6r1c&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Resilient service-to-service calls in a post-Hystrix world - Rares Musina
+https://youtu.be/93C-kNA16I4&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Serverless Jenkins DevOps pipeline with K8s and Spark - Krzysiek Płachno
+https://youtu.be/7THfvr09F2I&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Serverless with Knative - Mete Atamel
+https://youtu.be/Yf8heIFnFOc&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+Shipping Code like a keptn Automating your Delivery Pipelines so you can focus... - Andreas Grabner
+https://youtu.be/h_KlIK1DIKM&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+The Future of Java is Today - Jan Lahoda
+https://youtu.be/jzpIG7mVKLQ&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+
+The Solr Tagger and So Much More Than Search - Marcus Eagan, Erik Hatcher
+https://youtu.be/DjJbBj71qdM&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW
+Videos 51-75

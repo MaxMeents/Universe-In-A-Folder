@@ -1,0 +1,40 @@
+
+Advanced Swift Tricks Custom Array Extensions
+https://youtu.be/0dGMbMjixOA&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Convert Kilometers to Miles - Extension in Swift
+https://youtu.be/C01khaQAPDQ&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Date to String - Swift Date
+https://youtu.be/-BgzuZhmknk&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Dictionary in Swift - Extension in Swift
+https://youtu.be/N6X0MqY3Tpw&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Extension in Swift - Round Double to Int
+https://youtu.be/NydElvUtuGA&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Navigation Bar iOS - Hide Navigation Bar
+https://youtu.be/iQ9lkOp0HHI&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Navigation Controller - Present View Controller from Right to Left in iOS Using Swift (STEP BY STEP)
+https://youtu.be/8W6jcuo_0gM&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Swift for Beginners - Swift View Controller (Xcode11 Tutorial)
+https://youtu.be/PmV_rsV-MuY&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Swift Language Extensions - Part 10 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/Sl2iW2eo-nA&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Swift Strings - Extension in Swift
+https://youtu.be/q5MWwp0D6kE&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+Swift Strings - TimeInterval
+https://youtu.be/XwSDZIaMUKY&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+UI Tip Hiding the Navigation Bar (iOS, Xcode 8, Swift 3)
+https://youtu.be/sTFMjyKi1HI&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+
+UIKit iOS
+https://youtu.be/hur95OAnZ00&list=PL_csAAO9PQ8ZKiwaosll6CSBlNsiKDe5G
+Extensions Fun

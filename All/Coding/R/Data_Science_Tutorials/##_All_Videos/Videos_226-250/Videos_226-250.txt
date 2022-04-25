@@ -1,0 +1,76 @@
+
+Connecting Power BI Report Pages with Drill Through Configuration option
+https://youtu.be/oQhcJrtknSM
+
+Creating Hierarchies in Power BI
+https://youtu.be/jzr__qqEqJI
+
+Customizing Power BI Totals and Subtotals
+https://youtu.be/yBfC5HgMm9w
+
+How include or exclude a part of visualization in power bi
+https://youtu.be/WKoCbpoVHD8
+
+How to Change the Aggregation in Power BI as well as Use one field multiple times
+https://youtu.be/CgR5NaPZs2E
+
+How to Create and Conditionally Format Power BI Matrix or Pivot Table
+https://youtu.be/opvpgv9o0I8
+
+How to Create and Conditionally Format Power BI Table
+https://youtu.be/KDBfTe6_0Ro
+
+How to Create and Format Power BI Card KPI
+https://youtu.be/09NuVN1e7Ns
+
+How to Create and Format Power BI Indicator KPI Chart
+https://youtu.be/pgCMxeoSg_s
+
+How to create bookmarks in power bi  Bookmark Example in Power BI  Power BI Bookmarks Tutorial
+https://youtu.be/3C1U8yEhQDQ
+
+How to create infographic in Power BI or image on bar chart
+https://youtu.be/TwOEN-QSTJ4
+
+How to Create Power BI Sankey Chart
+https://youtu.be/T7lVEk9pWY8
+
+How to create word cloud in power bi  Power BI Text Analytics
+https://youtu.be/brkbbS4GSGw
+
+Power BI Advance Date Filtering Tutorial with Example
+https://youtu.be/1bQSDAiRRyo
+
+Power BI Animated Bar Race Chart Tutorial
+https://youtu.be/NlPZ35bbhOc
+
+Power BI Decomposition Tree or Decision Tree Creation Tutorial and Walkthrough for interpretation
+https://youtu.be/Ur5EgsUNd-o
+
+Power BI Filter types Tutorial  Power BI Visual Filter vs Page Filter vs Page All filters
+https://youtu.be/EOi659Vw_4k
+
+Power BI Gauge Chart
+https://youtu.be/0NEHdPsVWQc
+
+Power BI Key Influencer Chart Creation Tutorial and Walkthrough for interpretation
+https://youtu.be/Q2AL-MZQu94
+
+Power BI Maps Chart Creating and Customizing  Power BI Tutorial for Beginners
+https://youtu.be/YSJXD4uW278
+
+Power BI Number or Numeric Field Formatting and Conditional Formatting Tutorial
+https://youtu.be/DO5i90xss44
+
+Power BI Q&A or Natural Language Processing NLP Visual Component Creation Tutorial
+https://youtu.be/RK5VT_i1ZNg
+
+Power BI Relative Date Filter Tutorial
+https://youtu.be/Tlv_on8T5VA
+
+Power BI Selection Panel to Show or Hide the Visualization
+https://youtu.be/mSvJQdHLOAw
+
+Power BI Treemap Chart Creating and Customizing  Power BI Tutorial for Beginners
+https://youtu.be/6zwhvMBodKs
+Videos 226-250

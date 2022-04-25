@@ -1,0 +1,37 @@
+
+An introduction to GPU programming using Theano - Paul O'Grady
+https://youtu.be/21yGNXhkmdo
+
+An introduction to machine learning on small scale datasets, Conor Lynch
+https://youtu.be/d5SpcE8lUZc
+
+Analysing user behaviour - from histograms to random forests, David Brodigan
+https://youtu.be/VY3YFYQLBA8
+
+Creating safe learning experiences for all of our community members - Juliana Arrighi
+https://youtu.be/025XWvoq5vQ
+
+Probabilistic programming with Lea, Pierre Denis
+https://youtu.be/UJylqfL8pxY
+
+Python & PostgreSQL, a Wonderful Wedding - Stéphane Wirtel
+https://youtu.be/e-0ZyyuJJ40
+
+Redis, the new black - Jonathan Frawley
+https://youtu.be/4kSYeMh78EE
+
+Spark Distributed Computing - Leveraging the Functional Model, Johannes Ahlmann
+https://youtu.be/f8cthzz4K5Q
+
+Test Driven Documentation, Nicolas Laurance
+https://youtu.be/kgR6pEQDhNY
+
+Turning what you wanted into what you got, David McIlwee
+https://youtu.be/tmwSwxJ1YuE
+
+Using MongoDB and Python for data analysis pipelines, Eoin Brazil
+https://youtu.be/Mjbff6oPyhI
+
+What if those words don't mean what we think they mean - Daniele Procida
+https://youtu.be/8Qt2RgXYDkw
+Videos 201-212

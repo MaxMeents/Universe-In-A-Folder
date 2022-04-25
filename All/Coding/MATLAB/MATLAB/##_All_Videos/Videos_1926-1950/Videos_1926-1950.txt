@@ -1,0 +1,76 @@
+
+Autosar Complaint Code Generation from Embedded Coder
+https://youtu.be/vUiL1iPJSU8
+
+Calibrating Simulated Response of Generation Equipment to Real Response, Part 3 Online Grid Events
+https://youtu.be/lZRi3He38LI
+
+Calibrating Simulated Response of Generation Equipment to Real Response
+https://youtu.be/e5ZQroWVfyc
+
+Creep Towards the Solution with MATLAB
+https://youtu.be/6WgA74xTpkI
+
+Finding Circles in Images Using MATLAB
+https://youtu.be/dgxvBBn_oIQ
+
+From Simulink to AUTOSAR Production Code
+https://youtu.be/QzlsnJ-Xm_I
+
+Introduction to Performing Power System Studies
+https://youtu.be/fcT-Y_eaR70
+
+MATLAB as a Productivity Tool
+https://youtu.be/H6TwtPkGwws
+
+Mitigating Complexity in Engineering Workflows
+https://youtu.be/rhs7QEppRfw
+
+Modeling Physical Components, Part 2 Data-Driven Concepts
+https://youtu.be/F_D2kUCFDno
+
+Parallel and GPU Computing Tutorials, Part 1 Product Landscape
+https://youtu.be/pUEACY0egSM
+
+Parallel and GPU Computing Tutorials, Part 2 Prerequisites and Setting Up
+https://youtu.be/iV2qSrnnI_8
+
+Parallel and GPU Computing Tutorials, Part 3 Quick Success with parfor
+https://youtu.be/_VHT2qzvGc4
+
+Parallel and GPU Computing Tutorials, Part 4 Deeper insights into Using parfor
+https://youtu.be/oUu8M7GUGaA
+
+Parallel and GPU Computing Tutorials, Part 5 Batch Processing
+https://youtu.be/B0Ml59KvqMk
+
+Parallel and GPU Computing Tutorials, Part 6 Scaling to Clusters and Cloud
+https://youtu.be/MNs4-ZatmNM
+
+Parallel and GPU Computing Tutorials, Part 7 spmd Parallel Code Beyond parfor
+https://youtu.be/jc4vcmeEwhE
+
+Parallel and GPU Computing Tutorials, Part 8 Distributed Arrays
+https://youtu.be/wUfcLRipYZs
+
+Performing Power System Studies, Part 1 Overview
+https://youtu.be/t8XAluMDMjY
+
+Performing Power System Studies, Part 2 Building Network Models Automatically
+https://youtu.be/JyFdUI0Wdlo
+
+Performing Power System Studies, Part 3 Running Multiple Scenarios Using Multiple Cores
+https://youtu.be/wEkmAvXlUhA
+
+Performing Power System Studies, Part 4 Working with Large Amounts of Simulation Data
+https://youtu.be/7aRtKUOvvIU
+
+Student Teams Use MATLAB and Simulink in the Formula Student Germany Racing Competition
+https://youtu.be/yazYioEK6sM
+
+Unique Systems require Unique Forecast Models
+https://youtu.be/qhvI9SJ_4ZU
+
+Using MATLAB and Simulink for Unmanned Vehicle Systems
+https://youtu.be/ktR3c8dwxOU
+Videos 1926-1950

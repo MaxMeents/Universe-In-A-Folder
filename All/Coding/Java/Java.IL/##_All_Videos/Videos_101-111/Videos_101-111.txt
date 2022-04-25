@@ -1,0 +1,34 @@
+
+Embrace Maven -  Guy Marom  Outbrain
+https://youtu.be/c6Jaxs6PsyE
+
+Google Guice vs Spring Framework  Asaf Mesika @ Logz.io
+https://youtu.be/8GioUOK8Bbs
+
+Netflix Open Source Stack -  Idan Fridman  Zone Engineering
+https://youtu.be/6_frFftzDVI
+
+OpenDaylight – The Open Source SDN Platform -  Gideon Kaempfer   HPE
+https://youtu.be/G8dP-q95bqY
+
+Scaling production with AsyncRMI, a NIO based RMI implementation - Barak Ben Orion   Gigaspaces
+https://youtu.be/F3F0WWxMjOY
+
+The joy of Scala -  Maxim Novak  Wix
+https://youtu.be/sIt4ED-VTPg
+
+[Feb 2016] The art of decomposing monoliths - Kfir Bloch  Wix (Hebrew)
+https://youtu.be/3rPMJMyDq3M
+
+[Feb 2016] The Wix microservice stack - Tomer Gabel  Wix (Hebrew)
+https://youtu.be/88BnpQqU-ds
+
+[Mar 2016] Go (Golang) for Java Developers - Uri Shamay  Juno (Hebrew)
+https://youtu.be/uCnXZP19a44
+
+[Nov 2015] Distributed Computing with Hazelcast - Christoph Engelbert  Hazlecast
+https://youtu.be/q1PT_yWsy6A
+
+[Nov 2015] Vert.x Reactive Toolkit - Avi Saidan  HP Software
+https://youtu.be/fCI4c7uXxfc
+Videos 101-111

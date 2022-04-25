@@ -1,0 +1,67 @@
+
+Ben Hancock - Python in the Newsroom How Python Tools Are Enabling Better Data Journalism
+https://youtu.be/oLOQq26ubjU&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Cameron Smith - Python's Best AI Package
+https://youtu.be/hTwWlB_67y4&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Carter Sande -  Deploying Python 3 to the Homes of Children Everywhere (on macOS)
+https://youtu.be/lFuR9ba_lpk&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Christopher Brousseau - Amazing Interactive Visualizations + Bokeh
+https://youtu.be/-kZJH01KIms&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Grant Jenks - Cython for All with GitHub Actions
+https://youtu.be/-7_07O5ENhU&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Jenna Quindica - Several People are Typing
+https://youtu.be/H-0O5zs6PEo&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+John Rusnak - Better C++ Integration with Python Through Pyllars John Rusnak
+https://youtu.be/bIgNjDh7ctM&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Jonas Neubert - Extreme Bikesharing How I used Python to plan an epic Ford GoBike trip
+https://youtu.be/-rezMoh2PUM&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Josh Grant - PyTest The Awesome Parts
+https://youtu.be/UIijZq8aZiY&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Lightning talk A Brief Overview of Hash Tables - Lisa Au
+https://youtu.be/JCw9phJ3dcs&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Lightning talk Interactive Visualizations with Python + Bokeh - Chris Brousseau
+https://youtu.be/lw2NvGWsS1Y&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Nate Grover - Adding Security Animation to your Development Pipeline
+https://youtu.be/n_-NdgYoiY4&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Nitin Borwankar - In-Database Machine Learning with PostgreSQL
+https://youtu.be/qp32PgxHsVc&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Phillip Chu - Enabling Fastai Multi-GPUDDP Training in Jupyter Notebook
+https://youtu.be/nD8wMoyV4GU&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Pranay Suresh - Unittest AsyncMock
+https://youtu.be/U2vIvBt0jl4&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Private video
+https://youtu.be/mgL18Ss5GKU&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Santona Tuli - A Beginner's Intro to Pytest
+https://youtu.be/2m-Dzb0yDGE&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Skip Everling - ML-Based Code Completion Tools for Python Programmers
+https://youtu.be/yROElKhs370&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Subhajeet Mukherjee - Automating Commits in Github
+https://youtu.be/gaZy3dHWXKg&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Sumeet Sandhu - Using Social Networks to address the Climate Emergency
+https://youtu.be/wD9lx9SZJpQ&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Tahshara Boochee -  Understanding Binary search
+https://youtu.be/aiQEFlLLpIc&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+
+Upkar Lidder - Removing Unfair Bias in Machine Learning
+https://youtu.be/7dL8nA4swvQ&list=PL85KuAjbN_gtLMS9sT4XWLQkbm4gz1n1i
+Videos 51-75

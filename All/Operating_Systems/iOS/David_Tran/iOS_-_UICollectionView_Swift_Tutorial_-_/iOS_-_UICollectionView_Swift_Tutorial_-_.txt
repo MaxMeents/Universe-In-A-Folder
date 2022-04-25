@@ -1,0 +1,19 @@
+
+UICollectionView Swift Tutorial Pt 1 - Build Pinterest Newsfeed with UICollectionView
+https://youtu.be/x7ZZObAj_s8&list=PLHmNdpdzx21Fc5D7J9_1P6drkL_53LIVX
+
+UICollectionView Swift Tutorial Pt 2 - Build Pinterest Newsfeed with UICollectionView
+https://youtu.be/Ca_5t9D4AG8&list=PLHmNdpdzx21Fc5D7J9_1P6drkL_53LIVX
+
+UICollectionView Swift Tutorial Pt 3 - Build Pinterest Newsfeed with UICollectionView
+https://youtu.be/iiuEcFEbZ_8&list=PLHmNdpdzx21Fc5D7J9_1P6drkL_53LIVX
+
+UICollectionView Swift Tutorial Pt 4 - Build Pinterest Newsfeed with UICollectionView
+https://youtu.be/JN-WG-geFEc&list=PLHmNdpdzx21Fc5D7J9_1P6drkL_53LIVX
+
+UICollectionView Swift Tutorial Pt 5 - Build Pinterest Newsfeed with UICollectionView
+https://youtu.be/2eqU2nw6YFI&list=PLHmNdpdzx21Fc5D7J9_1P6drkL_53LIVX
+
+UICollectionView Swift Tutorial Pt 6 - Build Pinterest Newsfeed with UICollectionView
+https://youtu.be/rvd9q8kfHQo&list=PLHmNdpdzx21Fc5D7J9_1P6drkL_53LIVX
+iOS - UICollectionView Swift Tutorial - Build Pinterest Newsfeed

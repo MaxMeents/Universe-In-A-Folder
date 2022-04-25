@@ -1,0 +1,13 @@
+
+BeeScala 2016 Adam Warski - Web & mobile session management using akka-http
+https://youtu.be/4XirKUsnytY
+
+BeeScala 2016 Noel Markham - ScalaCheck like a boss
+https://youtu.be/JgW4JxjSY4s
+
+BeeScala 2016 Renato Cavalcanti - Functional and Reactive Event Sourced Applications
+https://youtu.be/5amw2l4LR_c
+
+BeeScala 2016 Tzofia Shiftan - Evolutionary Algorithms
+https://youtu.be/bpCAoErzKpU
+Videos 51-54

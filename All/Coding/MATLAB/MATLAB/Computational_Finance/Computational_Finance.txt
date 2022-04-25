@@ -1,0 +1,10 @@
+
+CVaR Portfolio Optimization
+https://youtu.be/B_8SjMGgA_8&list=PLn8PRpmsu08qP18nDtYHOe2ggCDDBUsXP
+
+Getting Started with Portfolio Optimization in MATLAB R2013a
+https://youtu.be/WooDGREhisU&list=PLn8PRpmsu08qP18nDtYHOe2ggCDDBUsXP
+
+Introduction to Econometrics Toolbox in MATLAB
+https://youtu.be/xsHmcVYsErA&list=PLn8PRpmsu08qP18nDtYHOe2ggCDDBUsXP
+Computational Finance

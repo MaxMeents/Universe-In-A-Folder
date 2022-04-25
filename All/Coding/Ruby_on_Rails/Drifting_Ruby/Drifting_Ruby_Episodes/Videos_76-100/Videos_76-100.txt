@@ -1,0 +1,76 @@
+
+Episode #243 - Embedding Youtube Videos into Action Text with Stimulus  Preview
+https://youtu.be/5ikG4y-athM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #244 - Publish and Subscribe to Events  Preview
+https://youtu.be/jh4XvmjAa4E&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #245 - Tracking Changes on Action Text
+https://youtu.be/LTYhP2mdCpY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #246 - Video Chat with WebRTC  Preview
+https://youtu.be/-YwnrRTxjRk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #247 - Dynamic Role Management  Preview
+https://youtu.be/Uo76Ka7yRys&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #248 - Deploying to Heroku  Preview
+https://youtu.be/jEaXz5VmVwk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #249 - Soft Delete with Discard
+https://youtu.be/6HnFAV4HOfI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #250 - FullCalendar with StimulusJS
+https://youtu.be/0losd7Sr9Zs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #251 - Autocomplete with StimulusJS  Preview
+https://youtu.be/VnRyKbbgNtI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #252 - Marketplace Solution with Stripe Connect  Preview
+https://youtu.be/9HffvgtJKjo&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #253 - Apple Silicon Developer Transition Kit
+https://youtu.be/ORYYVp0BcEY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #254 - Cross-Origin Resource Sharing (CORS)  Preview
+https://youtu.be/UXdI56S-vZU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #255 - Bulk Upload with Active Storage  Preview
+https://youtu.be/GQyi-nUlbfM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #256 - Active Storage Uploads Behind a CDN  Preview
+https://youtu.be/vNE8i_9NXHo&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #257 - Using CloudFlare CDN
+https://youtu.be/Sc2oW-iby-I&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #258 - GitHub Actions
+https://youtu.be/W_4Kl_MoNQk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #259 PostgreSQL Hstore  Preview
+https://youtu.be/EI7iRQei1bk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #260 - Stripe Payments  Preview
+https://youtu.be/HpWHOqg-w8s&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #261 - Testing Stripe Payments  Preview
+https://youtu.be/--YIPsi3APQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #262 - Benchmark Ruby Code
+https://youtu.be/wM-1TLDN410&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #263 - StimulusJS, Active Storage and DropzoneJS  Preview
+https://youtu.be/hp2Frb7hz5o&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #264 - Database Encoding  Preview
+https://youtu.be/tFxtBa7KO2I&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #265 - Deferred Content Loading  Preview
+https://youtu.be/kZircHj1KI0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #266 - From Editor to IDE
+https://youtu.be/VXTmd-4jx8g&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #267 - Organizing Stimulus Controllers  Preview
+https://youtu.be/X25bOMLYvIY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 76-100

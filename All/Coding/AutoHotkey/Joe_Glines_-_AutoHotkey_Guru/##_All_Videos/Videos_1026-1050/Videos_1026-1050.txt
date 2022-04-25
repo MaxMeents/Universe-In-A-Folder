@@ -1,0 +1,76 @@
+
+Alerts in Business Objects
+https://youtu.be/stYg7CxhXbQ
+
+API call and SFTP file transfer  How to automate  a secure file transfer
+https://youtu.be/8d8ZCMYtUEY
+
+AutoHotkey GUI Menu Builder
+https://youtu.be/Gp34Z3bzVMQ
+
+AutoHotKey Hotstrings and SPSS
+https://youtu.be/DQu0aU3jhow
+
+Automating email metrics with Excel and AutoHotkey
+https://youtu.be/N4CLh9BQmVk
+
+Automating prep work for SQL in list query of hundreds-thousands of items
+https://youtu.be/4thoC2cmqT0
+
+Calculating X days out
+https://youtu.be/vF5tSg50IlI
+
+Debug AutoHotKey with SciTE  Level up your AHK programming today!
+https://youtu.be/M2mMfpEt8ok
+
+Extracting Information about Videos via Webscraping with AutoHotkey
+https://youtu.be/XLhzogaveIk
+
+Helpful Python Debugging Code
+https://youtu.be/uviSNXYw3g4
+
+How to create an AutoHotkey GUI to work with an API call
+https://youtu.be/ELPYwcF_yGg
+
+How to handle Heteroscedasticity using Log transformation
+https://youtu.be/gUL8MoCjy24
+
+How to use Hotstrings from AutoHotkey (Auto-replace text in any program)
+https://youtu.be/vuISL2Zqn04
+
+How to use RegEx to Clean up text  Regex with AutoHotkey is easy!
+https://youtu.be/jKuWrQrCtcA
+
+How to work with Simple Arrays in AutoHotKey  It's easier than you'd think!
+https://youtu.be/tY7IQ_t_Gek
+
+Keyboard shortcuts for launching programs- Start any program with 1 click
+https://youtu.be/Qmv0oFzSx1s
+
+LinkedIn email automation
+https://youtu.be/ekemWR2GqT8
+
+Naming Convention & Reporting
+https://youtu.be/AP6X3rDLDSo
+
+Naming Convention and Regular Expression
+https://youtu.be/DjBIV9oV1i8
+
+Programs that help you write programs
+https://youtu.be/Nq-MDHALxlw
+
+Removing Duplicates from CSV files with AutoHotkey
+https://youtu.be/ReP0yk2hJCY
+
+Selecting  Deselecting items on a form (in mass)
+https://youtu.be/2rs9Mwg5EfM
+
+Uploading a contact list ot Engage via an API call
+https://youtu.be/N8RnSyHqT_8
+
+Webscraping with AutoHotkey to obtain values for Behavioral Targeting
+https://youtu.be/LHaAq_xSqpw
+
+ZOHO API Call-Exporting all Records
+https://youtu.be/zXUNtm21_70
+Videos 1026-1050

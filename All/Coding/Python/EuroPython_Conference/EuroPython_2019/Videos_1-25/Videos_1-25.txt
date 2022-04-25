@@ -1,0 +1,76 @@
+
+Adriana Dorneles - What about recommendation engines
+https://youtu.be/1F2wEi6fkAM&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Alisa Dammer - Python vs Rust for Simulation
+https://youtu.be/kytvDxxedWY&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Cheuk Ho - Do we have a diversity problem in Python community
+https://youtu.be/SzGIiUNHN2g&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Christian Barra - How software can feed the world 🌱
+https://youtu.be/QOHBbv2n_hw&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Christoph Heer - Is it me, or the GIL
+https://youtu.be/HtbLNgXmLrw&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Cristián Maureira-Fredes - Unleash the power of C++ in Python
+https://youtu.be/02-IYuDQdTE&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Elizaveta Shashkova - Visual debugger for Jupyter Notebooks Myth or Reality
+https://youtu.be/XHNSYfkKnOQ&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Emmanuelle Gouillart - Image processing with scikit-image and Dash
+https://youtu.be/RYcLq_HwXSc&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+EuroPython - The largest Python conference in Europe
+https://youtu.be/wVwcOq-SsiU&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+EuroPython 2019 -  Opening Session
+https://youtu.be/avt77g27SbM&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Gael Varoquaux - Machine learning on non curated data
+https://youtu.be/dw5u4nth6_M&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Katherine Kampf - Building a Powerful Pet Detector in Notebooks
+https://youtu.be/YlIDlpspvVU&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Leonardo Rochael Almeida - From days to minutes, from minutes to milliseconds with SQLAlchemy
+https://youtu.be/Sq1TDj8mIrs&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Lilian Nandi anonymous - Teaching Programming to the Next Generation
+https://youtu.be/nxuVLBW-C1g&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Lynn Cherny - Getting Your Data Joie De Vivre Back!
+https://youtu.be/uF2GhMAaQOQ&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Marc-Andre Lemburg - PyRun - Shipping the Python 3.7 runtime in just 4.8MB
+https://youtu.be/JdorsyCim5U&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Mark Smith - Publish a (Perfect) Python Package on PyPI
+https://youtu.be/-WDV0-OB4fE&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Martin Christen - Geospatial Analysis using Python and JupyterHub
+https://youtu.be/2OD8loVvHXc&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Matthieu Amiguet  - Python for realtime audio processing in a live music context
+https://youtu.be/IdsrZYZ0TI0&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Paolo Galeone - Dissecting tf.function to discover AutoGraph strengths and subtleties
+https://youtu.be/k_vyCViObf8&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Samuel Colvin - Python's Parallel Programming Possibilities - 4 levels of concurrency
+https://youtu.be/0RaotdCa_j0&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Sebastian Witowski - Wait, IPython can do that!
+https://youtu.be/3i6db5zX3Rw&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Shailen Sobhee - Accelerate your Deep Learning Inferencing with the Intel® DL Boost technology
+https://youtu.be/3MSWONJMOK0&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Sven-Hendrik Haase - Become a command line wizard
+https://youtu.be/dnzaIeUgH_4&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Teresa Ingram - Opt Out of Online Sexism – Open Source Activism
+https://youtu.be/Ov0scTjDVuQ&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+Videos 1-25

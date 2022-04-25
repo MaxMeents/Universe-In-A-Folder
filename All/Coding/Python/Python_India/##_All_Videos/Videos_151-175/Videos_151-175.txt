@@ -1,0 +1,76 @@
+
+A Pythonista's Approch to DeepFakes - Navin Pai
+https://youtu.be/DeCozoEgUQU
+
+Building GraphQL API with Django - Anitha
+https://youtu.be/GnaCVdGFTDI
+
+Entering the world of Serious Games with Python - Harshinee Sriram
+https://youtu.be/2YXJu7axfCE
+
+How we are building Smart Reply for Chat - Nirant Kasliwal
+https://youtu.be/UM56FDjSx9g
+
+Keynote - Devi A S L
+https://youtu.be/4NloCFWNtQU
+
+Keynote - Ines Montani
+https://youtu.be/Ivb4AAuj5JY
+
+Keynote - Jake Vanderplas
+https://youtu.be/VIal-4zz9HI
+
+Lightning Talk -  Vishwesh K - Mad Street Den
+https://youtu.be/CERyEvMU1r4
+
+Lightning Talk - Bhuvana
+https://youtu.be/TGIEOSrEyD8
+
+Lightning Talk - Praveen J - AWS
+https://youtu.be/KDCZB4Uck18
+
+Lightning Talk - Rohan Bhindwale - Bloomberg
+https://youtu.be/KWM6B4KSxjg
+
+Lightning Talk - Sunil Kumar - Ericsson
+https://youtu.be/1lHRY6qOVPI
+
+Machine Learning Bias - AbdulMajedRaja RS
+https://youtu.be/ECFkJLpQqCQ
+
+Machine Learning for loT at the Edge - Sukanya Mandal
+https://youtu.be/NvZ43nEl8gg
+
+Machine Learning Model and Dataset Versioning - Kurian Benoy
+https://youtu.be/Ipzf6oQqQpo
+
+Practical Introduction to Graph DBs, Graph Traversals in Python - Srimathi H
+https://youtu.be/7iUDsy2J5S8
+
+Python based simulation and treatment planning in Craniofacial Surgery - Akilesh Ramasamy
+https://youtu.be/Lgx1vd4V_xc
+
+Python is NOT easy - Lesson's From Sympy's codebase - Sadhana Srinivasan
+https://youtu.be/SwQJ7FUj4B0
+
+Ragabot - Music Encoded - Vikrant Patil, Harsh Vinjamoor
+https://youtu.be/LQNzvpKYax8
+
+Real World Numba Taking the Path of Least Resistance - Ankit Mahato
+https://youtu.be/7Ltqdw2X_Oc
+
+Scaling up Data Pipelines using Apache Parquet and Dask - Lalit Musmade
+https://youtu.be/FuJvnXYocTg
+
+Smart lock Nah dude. Pwning a smart lock with Python - Anirudh & Raghav
+https://youtu.be/5I3e_y7S2fs
+
+Solving Industrial Problem with Machine Learning and Image Processing - Sonam Pankaj
+https://youtu.be/6XpoaZcoPBg
+
+spaCy PyTorch Transformers - Matthew Honnibal
+https://youtu.be/NxqY0eVRgp0
+
+Visual Studio Code + Python = Awesomeness ! - Ashish Sahu & Sagar Bhanudas Josh
+https://youtu.be/TD5V-ivlSV0
+Videos 151-175

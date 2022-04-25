@@ -1,0 +1,73 @@
+
+All About Go
+https://youtu.be/s_gRXOsrDAA&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Collaboration Summit 2013 - Go Code that Grows with Grace
+https://youtu.be/bj6EtLacsj8&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Delivering AI on Code Live Demo of source{d} • Francesc Campoy • GOTO 2018
+https://youtu.be/5ZWeUbubdNg&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go
+https://youtu.be/lcyNjgEG9H8&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Evolution of a Gopher - GopherConIndia 2015
+https://youtu.be/5iD0Hl0alZ0&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Francesc Campoy has three tips for developers at #golangit
+https://youtu.be/r9Ar-i0wVJE&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+gitbase exploring git Repositories with SQL
+https://youtu.be/OXL2KxOTmBQ&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Go Language
+https://youtu.be/wB1hoUJDbk0&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Go pour Javaneros
+https://youtu.be/I54vvvTBPnI&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Go see all the ships in the world
+https://youtu.be/aVJ0RKqFZDE&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+GoMad consumiendo APIs desde la nube
+https://youtu.be/do423GIygL4&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Google IO 2013 - All the Ships in the World Visualizing Data with Google Cloud and Maps
+https://youtu.be/MT7cd4M9vzs&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Google's Go Language FLOSS Weekly 284
+https://youtu.be/UXjOBIVXhfY&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+GopherCon 2018 Francesc Campoy Flores - Machine Learning on Go Code
+https://youtu.be/Lt3qZAwQX3w&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Impressions & retours d'expérience sur le langage Go
+https://youtu.be/oTMTDhy-vnY&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Interview DevoxxFR 2015 - Francesc Campoy sur Go
+https://youtu.be/EW1bUOoBWTc&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+justforfunc #10k thanks!
+https://youtu.be/kuted8F2KJw&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Modèles de concurrence en Go
+https://youtu.be/0HAjwfikSds&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+State of Go 2020 changes since Go 1.12
+https://youtu.be/0c-1KJwSMCw&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+The Robustness of Go • Francesc Campoy • GOTO 2018
+https://youtu.be/40d26ZGfhR8&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+The State of Go What's new in Go 1.10
+https://youtu.be/iR7LPAXWfmw&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+The State of Go What's new since Go 1.10
+https://youtu.be/mVAh5NSPlnE&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+Will contracts replace interfaces  Francesc Campoy
+https://youtu.be/E75b9kuyRKw&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+
+[DevFest Nantes 2015] Go, Polymer, et Cloud Endpoints FTW!
+https://youtu.be/-GXqYPSXKDE&list=PL64wiCrrxh4KkVGYd3LebkmuGyIMUKzTz
+Videos 1-25

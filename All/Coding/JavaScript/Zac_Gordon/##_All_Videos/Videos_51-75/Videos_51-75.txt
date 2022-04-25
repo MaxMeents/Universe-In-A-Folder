@@ -1,0 +1,76 @@
+
+A High Level Overview of React
+https://youtu.be/FRjlF74_EZk
+
+A React Project Introduction
+https://youtu.be/4q2Ww5x3SAI
+
+Adding State to a React Component
+https://youtu.be/dHSSft69xn0
+
+Advanced Gutenberg Course Prep - Compose, withDispatch, Styling and More
+https://youtu.be/rO-0E-YVVok
+
+Continued Work on Layout Switcher - Advanced Gutenberg Course Prep
+https://youtu.be/z3F3gkTIYQw
+
+Create React App Explained
+https://youtu.be/397Xlx-Amlo
+
+Creating a React Element
+https://youtu.be/T2z-swUtIr8
+
+Extending Core WordPress Blocks - Gutenberg Course
+https://youtu.be/6sL6J34SUlk
+
+Extending Custom Blocks - Advanced Gutenberg Course Prep
+https://youtu.be/ZBoHZ4cgWyo
+
+Fixing Up Layout Switcher Sidebar - Advanced Gutenberg Course Prep -
+https://youtu.be/CcuvARaosdA
+
+Gatsby Tutorial 1 - Setup & Our First Gatsby Site
+https://youtu.be/uP-bh77MRHI
+
+Gatsby Tutorial 2 - Global, Modular and CSS-in-JS Styles
+https://youtu.be/cmqUie7v7-g
+
+Gatsby Tutorial 3 - Plugins & Nested Layouts
+https://youtu.be/og_4HHIQznI
+
+Gatsby Tutorial 4 - GraphQL, Site Metadata
+https://youtu.be/hxdrxTbyAYM
+
+Gatsby Tutorial 5 - Source Plugins
+https://youtu.be/tZxRD1_cPy0
+
+GraphQL for Gatsby JS [12] - How Gatsby Uses GraphQL
+https://youtu.be/ZNFY8auhtcI
+
+GraphQL for Gatsby JS [22] - Examples of GraphQL in Gatsby Starters
+https://youtu.be/Rkyzum7WsLQ
+
+Introduction to Props in React
+https://youtu.be/byd-GQSxMAU
+
+JAMStack and WordPress w Miriam Schwab
+https://youtu.be/_--HmKrazn8
+
+JS for WP Conf - Contributor Day (Part 1)
+https://youtu.be/LjPq8a66TTI
+
+JS for WP Conf - Contributor Day (Part 2)
+https://youtu.be/CIPftwcvPG0
+
+More Extending Custom Blocks - Advanced Gutenberg Course Prep
+https://youtu.be/pQdq9O7qZTA
+
+The Component Lifecycle - React Explained
+https://youtu.be/_8HU2ZFJEmU
+
+What is Gatsby JS and Why Use It
+https://youtu.be/GuvAMcsoreI
+
+What is JSX
+https://youtu.be/9GtB5G2xGTY
+Videos 51-75

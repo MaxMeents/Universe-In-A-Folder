@@ -1,0 +1,64 @@
+
+Flying Body - Unity 2D
+https://youtu.be/ICeWTSKmD6A&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+High Score Table with Saving and Loading (Unity Tutorial for Beginners)
+https://youtu.be/iAbaqGYdnyI&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make a Car Speedometer (Unity UI Tutorial)
+https://youtu.be/3xSYkFdQiZ0&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make a Clock in the UI (Unity Tutorial)
+https://youtu.be/pbTysQw-WNs&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make a Health System  Unity Tutorial
+https://youtu.be/0T5ei9jN63M&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make a Item Stats Tooltip (Unity Tutorial)
+https://youtu.be/U1LFOTDLh3o&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make a Mana Bar in the UI (Unity Tutorial for Beginners)
+https://youtu.be/gHdXkGsqnlw&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make a Simple Minimap (Unity Tutorial for Beginners)
+https://youtu.be/kWhOMJMihC0&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to make Bullet Tracer Rounds in Unity 2D
+https://youtu.be/jDiAzxkYzpI&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+How to take a Screenshot in Unity
+https://youtu.be/lT-SRLKUe5k&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Level Design from Texture (Unity Tutorial)
+https://youtu.be/_XZaFPu8JLg&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+MAKING A GAME IN 10 MINUTES  BRACKEYS CHALLENGE
+https://youtu.be/uMohD4SuUpE&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Quick Tip Measuring Compile Time in Unity
+https://youtu.be/jzAPub6z7Yo&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Quick Tip Referencing Assets through Code  Unity Tutorial
+https://youtu.be/7GcEW6uwO8E&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Quick Tip Sorting Sprites in a 2D Game  Unity Tutorial
+https://youtu.be/CTf0WjhfBx8&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Quick Tip Test Mouse over UI  Unity Tutorial
+https://youtu.be/ptmum1FXiLE&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Simple Sound Manager (Unity Tutorial)
+https://youtu.be/QL29aTa7J5Q&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Time Tick System (Unity Tutorial)
+https://youtu.be/NFvmfoRnarY&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Unity Tutorial - Character Portrait Window
+https://youtu.be/_DjR2O8EKPA&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Unity Tutorial - Confetti (1,000 subs special!)
+https://youtu.be/TtoK3g6LRls&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+
+Unity Tutorial - Quest Arrow Pointer
+https://youtu.be/dHzeHh-3bp4&list=PLzDRvYVwl53trtRTXjUS-ot2uRKaJtLy3
+Misc Videos (Unity Tutorials)

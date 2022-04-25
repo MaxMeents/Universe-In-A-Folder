@@ -1,0 +1,19 @@
+
+Understanding Control Systems Introduction
+https://youtu.be/VZIsHshZnFU&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+
+Understanding Control Systems, Part 1 Open-Loop Control Systems
+https://youtu.be/FurC2unHeXI&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+
+Understanding Control Systems, Part 2 Feedback Control Systems
+https://youtu.be/5NVjIIi9fkY&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+
+Understanding Control Systems, Part 3 Components of a Feedback Control System
+https://youtu.be/u1pgaJHiiew&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+
+Understanding Control Systems, Part 4 Simulating Disturbance Rejection in Simulink
+https://youtu.be/pVAY2zOy0vU&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+
+Understanding Control Systems, Part 5 Simulating Robustness to System Variations in Simulink
+https://youtu.be/G4OLOjY4MpQ&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+Understanding Control Systems

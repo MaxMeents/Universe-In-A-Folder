@@ -1,0 +1,76 @@
+
+AutoHotkey API Syntax writer
+https://youtu.be/OzNyEVhwO48
+
+AutoHotkey Webinar 012018 Hour 1-Intro to GUIs
+https://youtu.be/N5KAL2BNwEE
+
+AutoHotkey Webinar 012018 Hour 2-Intro to GUIs Q&A
+https://youtu.be/zgPIBB7BcwE
+
+AutoHotkey Webinar 022018 Hour 1-Deep dive into File Encoding
+https://youtu.be/CDJXnuDVs5g
+
+AutoHotkey Webinar 022018 Hour 2 File Encoding Deep dive- Q&A plus demo scripts
+https://youtu.be/Bcriu1r-2u4
+
+AutoHotkey Webinar 032018 Hour 1- Intro to Neural Networks with AHK
+https://youtu.be/mft_cQS6EMo
+
+AutoHotkey Webinar 032018 Hour 2- Intro to Neural Networks with AHK Continued
+https://youtu.be/QpC3Q5YVKKE
+
+AutoHotkey Webinar 092017 Hour 1-Spreading AHK Luv & making $ with AHK
+https://youtu.be/XSY1RCiJsGo
+
+AutoHotkey Webinar 092017 Hour 2-Spreading AHK Luv & making $ with AHK
+https://youtu.be/nCsxKRBR82Q
+
+AutoHotkey Webinar 102017 Hour 1-Outlook and AHK
+https://youtu.be/cvZEE7v22wE
+
+AutoHotkey Webinar 102017 Hour 2-Outlook and AHK Q&A
+https://youtu.be/x_kC0e_QB3o
+
+AutoHotkey Webinar 112017 Hour 1-Multiple files & Sharing Variables  Data
+https://youtu.be/PaGU0kENwiY
+
+AutoHotkey Webinar 112017 Hour 2- Q&A
+https://youtu.be/m2BDh8QuL9g
+
+AutoHotkey Webinar 122017 Hour 1-Files & Folders
+https://youtu.be/vYRx1zjPK98
+
+AutoHotkey Webinar 122017 Hour 2  Q&A
+https://youtu.be/yai6GSGvHHE
+
+get your AutoHotkey Merchandise from the-Automator
+https://youtu.be/6IMNpwZRp1I
+
+How to Automate Chrome with AutoHotkey  Getting data from a page
+https://youtu.be/3vvvasxJjVw
+
+How to Automate Chrome with AutoHotkey- Setting innerText, Values, and OuterHTML
+https://youtu.be/vm8QYdm_PE8
+
+How to Automate Chrome with Selenium and AutoHotkey  Connecting to Chrome
+https://youtu.be/y4GpudF4wTI
+
+How to Find & Click text with Selenium & AutoHotkey
+https://youtu.be/BTh5KCcP1Ls
+
+Quickly access OpenSave Diaglogue window in MS Office programs
+https://youtu.be/vH1zUtSnucg
+
+Udemy Hotstrings Promo- Learn how to work smarter not harder
+https://youtu.be/JbjQ5tjq9pk
+
+Webscraping with AutoHotkey 109a- Triggering an EventListener on a page
+https://youtu.be/v6vD_Pzy7AM
+
+Webscraping with AutoHotkey 109b- AHK syntax writer dealing with Events
+https://youtu.be/bK9Di8xTFo8
+
+Webscraping with AutoHotkey 110- Saving binary files  images with AutoHotkey
+https://youtu.be/nVk3-cw5hXs
+Videos 826-850

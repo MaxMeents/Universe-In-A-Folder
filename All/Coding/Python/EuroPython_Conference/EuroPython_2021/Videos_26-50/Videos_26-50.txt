@@ -1,0 +1,76 @@
+
+A. Mikhalev, D. Dukhan - The Pattern Machine Learning Natural Language Processing meets VRAR
+https://youtu.be/ZN2NS4_X1AE&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Abhilash Majumder - Introduction to Quantum Deep Learning
+https://youtu.be/p5jOwsnGgwI&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Abigail Dogbe - Python in a world of Pan-Africanism
+https://youtu.be/ps6XCS8O65s&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Abraham Coiman - Wildfire Modeling in Yosemite National Park
+https://youtu.be/WZMmv85HKpg&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Alyona Galyeva - We build a ML pipeline after we deploy
+https://youtu.be/eGrUUuqZIhM&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Carlos Villavicencio - Functional Programming inside OOP It’s possible with Python
+https://youtu.be/43yNp4D2UKo&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Chin Hwee Ong - Designing Functional Data Pipelines for Reproducibility and Maintainability
+https://youtu.be/UY2WFPeEVN0&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Claudia Comito - Connecting Communities the Helmholtz Analytics Framework and the making of Heat
+https://youtu.be/Y9tH6TCzDLc&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+EuroPython 2021  - Lightning Talks 0728
+https://youtu.be/qVH-2LAl_Ts&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Eyal Kazin - A Gentle Introduction To Causal Inference
+https://youtu.be/NzcCDUs7OTc&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Griffith Rees - From Research Project to PyPI Release
+https://youtu.be/ba4bkD2qjpQ&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Jose Haro Peralta - Documentation-driven development for Python web APIs
+https://youtu.be/prGzBqUAXi4&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Kautilya Katariya - Computational Complexity Theoretical Foundation on How Long Will Program Run
+https://youtu.be/Vv6-VJIaoiY&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Mar Bartolome - Hiring Demystified
+https://youtu.be/mnzX3LhZ0VI&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Maria Jose Molina-Contreras, PhD - DIY Home Automation with Microcontrollers and CircuitPython
+https://youtu.be/2Wzx2Hu35WQ&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+María Andrea Vignau - SQLite, an (un) known super ant
+https://youtu.be/s7110IaMEOs&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Matthias Feurer, Katharina Eggensperger - Auto-Sklearn Automated Machine Learning in Python
+https://youtu.be/ugN8U--oUaU&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Nabanita Roy - Leveraging Linked Data using Python and SPARQL
+https://youtu.be/LgA_RVOAbCI&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Nicolò Giso - From telemetry data to CSVs with Python, Spark and Azure Databricks
+https://youtu.be/kiwSAkAv6Ts&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Nithish Raghunandanan - Virtual Tourism In Covid Times
+https://youtu.be/5DnWwEozKiY&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Oliver Cobb - Protecting Your Machine Learning Against Drift An Introduction
+https://youtu.be/tL5sEaQha5o&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Ondrej Urban - Automated Machine Learning With Keras
+https://youtu.be/9UlM6DmKIj8&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Paolo Melchiorre - Django with PostgreSQL superpowers
+https://youtu.be/JWRpPbRItMw&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Rodrigo Girão Serrão - Pydon'ts
+https://youtu.be/Vjq89-spPOk&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Tonya Sims - Faceoff Fun with Python Frameworks FastAPI vs Flask
+https://youtu.be/Xoqv9NMO24Q&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+Videos 26-50

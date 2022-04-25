@@ -1,0 +1,76 @@
+
+Async Programming and Python
+https://youtu.be/aR_EgOzW-xg
+
+Asyncio for Dummies
+https://youtu.be/-iB4M-H3z_8
+
+Auth as a service with Lastuser
+https://youtu.be/FsoJWGuFMR0
+
+Building highly scalable web services with Gevent   experiences at Plivo
+https://youtu.be/fRRd7_TBfOw
+
+Day 1   Lightning Talks
+https://youtu.be/J6up0y7fAR4
+
+Development to Production
+https://youtu.be/ilXdEwkAWQA
+
+Django Design Patterns
+https://youtu.be/6tnMdqbZBHM
+
+Faster data processing in Python
+https://youtu.be/ylBslijJexw
+
+Fedmsg The message bus of Fedora Infrastructure - PyCon India 2015
+https://youtu.be/eymAVMG5bHQ
+
+GPU accelerated high performance computing primer
+https://youtu.be/U_Nf7VVs8UA
+
+Introduction to BinPy   An Electronic Simulation Library
+https://youtu.be/BLVFQ7FuVWw
+
+Key Note   Michael Foord
+https://youtu.be/TXQDQFq3AAo
+
+Key Note Day1 -  Kushal Das
+https://youtu.be/er5ZcDJKELQ
+
+Medusa   A much faster Python implementation based on the Dart Virtual Machine
+https://youtu.be/Jql0Xu4zmww
+
+Meet ElasticSearch   My Pet Crunch Monster @Directi
+https://youtu.be/ckTfoRBmtKw
+
+Messing with government data using Python
+https://youtu.be/xqOFeZVPSt8
+
+Neo4J and Python Playing with graph data
+https://youtu.be/sqwQV5hldD8
+
+New Scientific Plotting in Python
+https://youtu.be/W3TKZNspM1o
+
+Panel Discussion   Flask vs Django vs web py
+https://youtu.be/TYutt4qs8NQ
+
+Python + Spark   Lightning Fast Cluster Computing
+https://youtu.be/1KuqWuuAazM
+
+Python, Arduino and connected objects
+https://youtu.be/L7m2Sk64ftM
+
+Python, the eyes of real world computer applications
+https://youtu.be/XP8SV42YcDo
+
+SHARQ   An API queueing system built at Plivo!
+https://youtu.be/TLWnhnJ3Vcg
+
+Transfer Pipeline at DreamWorks
+https://youtu.be/gyWXEfi0ju0
+
+Which messaging layer should you use if you want to build a loosely coupled distributed Python app
+https://youtu.be/dFhX6SvAkGQ
+Videos 276-300

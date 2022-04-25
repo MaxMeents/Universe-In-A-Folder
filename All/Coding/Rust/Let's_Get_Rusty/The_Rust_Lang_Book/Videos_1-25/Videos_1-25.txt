@@ -1,0 +1,76 @@
+
+Cargo Workspaces
+https://youtu.be/70_9IIsQfjs&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Closures in Rust
+https://youtu.be/kZXJvLfjUS4&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Common Collections in Rust
+https://youtu.be/Zs-pS-egQSs&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Common Programming Concepts in Rust
+https://youtu.be/2V0JaMVjzws&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Enums and Pattern Matching in Rust
+https://youtu.be/DSZqIJhkNCM&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Error Handling in Rust
+https://youtu.be/wM6o70NAWUI&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Generic Types in Rust
+https://youtu.be/6rcTSxPJ6Bw&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Iterators in Practice
+https://youtu.be/rb63xJEjaZU&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Iterators in Rust
+https://youtu.be/4GcKrj4By8k&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Programming a Guessing Game in Rust!
+https://youtu.be/H0xBSbnQYds&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Publishing a Rust Crate!
+https://youtu.be/4TI153PIEDQ&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Rust Lifetimes Finally Explained!
+https://youtu.be/juIINGuZyBc&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Rust's Module System Explained!
+https://youtu.be/5RPXgDQrjio&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Smart Pointers in Rust - Reference Counting
+https://youtu.be/M9Owp3iLigg&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Smart Pointers in Rust - The Deref Trait
+https://youtu.be/dYEC6NElVOg&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Smart Pointers in Rust - The Drop Trait
+https://youtu.be/RPWZcTYBS4k&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Structs in Rust
+https://youtu.be/n3bPhdiJm9I&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Testing in Rust - Part 2
+https://youtu.be/-L4nKAlmH3M&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Testing in Rust
+https://youtu.be/18-7NoNPO30&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+The Box Smart Pointer in Rust
+https://youtu.be/m76sRj2VgGo&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Traits in Rust
+https://youtu.be/T0Xfltu4h3A&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+ULTIMATE Rust Lang Tutorial! - Getting Started
+https://youtu.be/OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Understanding Ownership in Rust
+https://youtu.be/VFIOSWy93H0&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Writing a CLI App in Rust! - Part 1
+https://youtu.be/XYkiwsplDTg&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+
+Writing a CLI App in Rust! - Part 2
+https://youtu.be/AABHxixn6Cw&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+Videos 1-25

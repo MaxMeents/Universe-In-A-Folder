@@ -1,0 +1,52 @@
+
+JSConfUS 2013] Carter Rabasa APIs and Making Humankind Better at Programming
+https://youtu.be/pHJRELG31dE&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Adam Baldwin Builders vs Breakers
+https://youtu.be/82-hJk5WryU&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Blaine Bublitz Sound Will Age You
+https://youtu.be/hAZWYtTP4Tw&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Brandon Dimcheff Down The Rabbit Hole Chasing bugs from the browser to the backend
+https://youtu.be/RCgD4SLwC18&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Brian Leroux Put a TopCoat on PhoneGap
+https://youtu.be/-T_pGKlggP8&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Dan Webb Flight.js
+https://youtu.be/4WRmFp8jZjc&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Daniel Tralamazza How to prepare a distributed nodejs application
+https://youtu.be/7HxIWpuH1Wc&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Domenic Denicola Boom, PromisesA+ Was Born
+https://youtu.be/V2Q13hzTGmA&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] John David Dalton Perf the web forward!
+https://youtu.be/u6cjYhKslD4&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] John Kleinschmidt Surviving the Offline Apocalypse
+https://youtu.be/Qg75x08Mtcs&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Luis Montes Post Modern Game Input Devices
+https://youtu.be/bN71Voq5x1U&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Nathan Totten Node Copters in the Cloud
+https://youtu.be/_OhAWT76bQg&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Olivier Crameri The JavaScript Debug Robot
+https://youtu.be/XRT20j-6kTo&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Peter Flynn Performance Tuning Secrets
+https://youtu.be/480JL_WuMt0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Scott Andrews Taming Client-Server Communication
+https://youtu.be/dmrUxCe0R9U&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Stephen Bannasch A JavaScript framework for computational simulations
+https://youtu.be/G5hu1x9z5V8&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Tomomi Imura Mobile HTML5 Device APIs and related APIs
+https://youtu.be/ZMmYKzHXL7M&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+Videos 26-45

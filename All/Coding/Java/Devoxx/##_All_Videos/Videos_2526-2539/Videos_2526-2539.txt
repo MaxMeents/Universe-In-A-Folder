@@ -1,0 +1,43 @@
+
+Building high performance servers with Twitter Finagle by Sam Bessalah
+https://youtu.be/Ne0BkCtcJa8
+
+CDI  or how to extend Java EE in a portable way by Antonio GoncalvesAntoine Sabot-Durand
+https://youtu.be/LYKMaj4XKvg
+
+Design Pattern Reloaded by Remi Forax
+https://youtu.be/-k2X7guaArU
+
+Docker and Kubernetes Recipes for Java Developers by Arun Gupta
+https://youtu.be/aSATsLG59Zs
+
+Hit the plumber - develop a realtime web application with vert.x 3 by Clement EscoffierPaulo Lopes
+https://youtu.be/vC1EdeBZl7M
+
+Java EE Microservices - the Payara way by Mike Croft
+https://youtu.be/fn444op9gW8
+
+OrientDB - the 2nd generation of (MultiModel) NoSQL by Luigi Dell'Aquila
+https://youtu.be/kpLqfFGubKM
+
+React, a new way to create web components by Mathieu Ancelin
+https://youtu.be/p99NwRgkTl4
+
+Refactor your Java EE application using Microservices and Containers by Arun Gupta
+https://youtu.be/iJVW7v8O9BU
+
+Serenity BDD - from executable specifications to living documentation by Alex Soto
+https://youtu.be/BxJb6iTpX74
+
+Tomcat to Apache TomEE in 1-n Steps by Andy Gumbrecht
+https://youtu.be/FBwZbzceQQ8
+
+TweetWallFX - Behind the Scenes by Sven Reimers
+https://youtu.be/UU2urhF_bxc
+
+Visualization IoT Data With Minecraft by Lars Gregori
+https://youtu.be/z7Bu2bIk1xI
+
+Writing Groovy AST Transformations Getting Practical in an hour! by Baruch Sadogursky
+https://youtu.be/GVfrNwTBpUM
+Videos 2526-2539

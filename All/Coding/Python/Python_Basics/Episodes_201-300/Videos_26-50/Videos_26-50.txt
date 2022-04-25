@@ -1,0 +1,76 @@
+
+Python Basics 1000 Views
+https://youtu.be/5b6wJi_xuKU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics AnyAll Functions
+https://youtu.be/BcqPk4_puoQ&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Board Game Pt  1
+https://youtu.be/fzAEwJgWHfM&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Board Game Pt  2
+https://youtu.be/lE_GPgw1NoU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Board Game Pt  3
+https://youtu.be/rHAG3XNhAJg&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Board Game Pt  4
+https://youtu.be/irCSc8dMoMk&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Built-in Glob Module
+https://youtu.be/OZ6cNezon2Y&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Built-in Itertools Module
+https://youtu.be/9lmskokWgis&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Can You Solve This
+https://youtu.be/oTn05FW34C4&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Comma Separation with A String
+https://youtu.be/UwaKGMLx6DU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics CSV File Uncut With Urllib
+https://youtu.be/dNiSr0t9Jcs&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics CSV Module
+https://youtu.be/mGAko_zwaEU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Delete Columns for CSV Files
+https://youtu.be/_gij-ud8djc&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Download a CSV Files With Urllib
+https://youtu.be/sctnA4UF3wQ&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics List Comprehension with Conditions
+https://youtu.be/Y7UWZoAME4I&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics More With Lists
+https://youtu.be/q1eqYK7GXPU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Move a file to a different directory
+https://youtu.be/6ZPqMPa36wo&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Nested List Comprehension of Two Strings
+https://youtu.be/A6n4LKP71mQ&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Pygame or Matplotlib
+https://youtu.be/Ut4tVe2zBJE&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Re Module Pt  2
+https://youtu.be/gt7mAL3aaxw&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Read a CSV File
+https://youtu.be/dVlCOCUpcIs&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Solve This Answer
+https://youtu.be/Mb5Y5PKF4Jg&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics String Center Method
+https://youtu.be/BrmwJySuvWA&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics String Formatting Viewer Requested Video
+https://youtu.be/ndPB62M-14E&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Write to CSV Files
+https://youtu.be/zXUE8ZmoeaE&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+Videos 26-50

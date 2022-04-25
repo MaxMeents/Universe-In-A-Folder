@@ -1,0 +1,76 @@
+
+Build a Solar Tracking System Using Simulink and ThingSpeak for Arduino
+https://youtu.be/57GxzjSaKhA
+
+Build Something! MATLAB and Simulink for Hardware Projects
+https://youtu.be/1-f733pjxX0
+
+Control Ryze Tello Drones from MATLAB
+https://youtu.be/s0ewxv3tOB8
+
+Deploy an Edge Detection Algorithm on Raspberry Pi
+https://youtu.be/hxMtFzIzQTs
+
+Deploy MATLAB Algorithms on Raspberry Pi
+https://youtu.be/5lkCx8-zJm0
+
+Electric Aircraft Modeling and Simulation
+https://youtu.be/zJDjkmADQtE
+
+Electric Ship Modeling and Simulation
+https://youtu.be/A1Bkc2PA4YY
+
+Estimating Bouncing Ball Contact Parameters
+https://youtu.be/o5NLrhK2lnM
+
+Field-Oriented Control of PMSMs with Simulink, Part 4 Controller Autotuning
+https://youtu.be/FSunXL4wiH0
+
+Forecast Electrical Load Using the Regression Learner App
+https://youtu.be/9hZ_e2aqLQ8
+
+How to Simulate Automated Driving Systems Adaptive Cruise Control
+https://youtu.be/8pMzaatc3Eg
+
+How to Use Buses in Simulink
+https://youtu.be/LWnZXSuRt0I
+
+How to Use Model-Based Design to Demonstrate DO-254 Compliance
+https://youtu.be/J8RalYqdvfA
+
+How to Use Source Control in MATLAB with GitHub
+https://youtu.be/O7A27uMduo0
+
+Metrics for System Assessment  Autonomous Navigation, Part 6
+https://youtu.be/k3bzouQNIwE
+
+New Ways to Work in Simulink, Part 1 Introduction and New Simulink Features
+https://youtu.be/UdSogEVGGG0
+
+New Ways to Work in Simulink, Part 2 Editing and Building Models Quickly
+https://youtu.be/8GBAc_6d5MI
+
+New Ways to Work in Simulink, Part 3 Componentize Your Design
+https://youtu.be/FOE0v68RZ7g
+
+New Ways to Work in Simulink, Part 4 Model Run-Time Software
+https://youtu.be/c69N2iFJ8_A
+
+Part 8 Closed-Loop Testing of a Battery Management System (BMS)
+https://youtu.be/qcAI1Yot2UM
+
+Robotarium - Remote Access Robotics Lab - Magnus Egerstedt - ACC Special Session 2020
+https://youtu.be/rwN-FNWuJZY
+
+Tracking Scenario Designer
+https://youtu.be/DqkZVzqfLY0
+
+Using Deep Learning to Recognize and Classify Animals  MATLAB in the Wild
+https://youtu.be/rZwq7J2QETw
+
+Vehicle Path Tracking Using Pure Pursuit Controller
+https://youtu.be/zMdoLO4kRKg
+
+What Is Extended Object Tracking  Autonomous Navigation, Part 5
+https://youtu.be/jbfpwpqVDI8
+Videos 576-600

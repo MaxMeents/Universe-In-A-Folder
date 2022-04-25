@@ -1,0 +1,16 @@
+
+Creating a custom Unity3D Machine Learning Agent
+https://youtu.be/61_FtB1PhaM&list=PLB5_EOMkLx_Ub1A4iHoDUx7vg37sVoL-E
+
+Unity3D Machine Learning - Building and Training the First Example (3DBall)
+https://youtu.be/-YWts_GlHCY&list=PLB5_EOMkLx_Ub1A4iHoDUx7vg37sVoL-E
+
+Unity3D Machine Learning Setup for ML-Agents on Windows 10 with Tensorflow
+https://youtu.be/qxicgknzUG8&list=PLB5_EOMkLx_Ub1A4iHoDUx7vg37sVoL-E
+
+🖥️ TRAINING MY FIRST MACHINE LEARNING GAME! (24)
+https://youtu.be/OpodKCR6P-M&list=PLB5_EOMkLx_Ub1A4iHoDUx7vg37sVoL-E
+
+🖥️ WRITING MY FIRST MACHINE LEARNING GAME! (14)
+https://youtu.be/ZX2Hyu5WoFg&list=PLB5_EOMkLx_Ub1A4iHoDUx7vg37sVoL-E
+Machine Learning

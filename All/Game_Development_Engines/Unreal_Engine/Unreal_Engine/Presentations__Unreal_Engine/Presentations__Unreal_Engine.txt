@@ -1,0 +1,55 @@
+
+Adapting characters to use real-time facial capture  Unreal Engine
+https://youtu.be/qlACuA0Z73s&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Blueprint For Artists  Unreal Engine
+https://youtu.be/c6Hc_RBA7ww&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Building advanced effects in Niagara  Unreal Engine
+https://youtu.be/syVSRDQxrZU&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Building natural environments in Unreal Engine
+https://youtu.be/gbj1qgPOl3E&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Building Worlds with Landmass  Unreal Engine
+https://youtu.be/GwJiN8LLnQI&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+C++ for Blueprinters  Unreal Engine
+https://youtu.be/6485d5Zoc_k&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Diving Into the Depths of Water as a Feature in Unreal Engine 4.26
+https://youtu.be/d5Ft7UaYayM&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Exploring the depths of the new Sky & Atmosphere system  Unreal Engine
+https://youtu.be/SeNM9zBPLCA&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Full Body IK Procedural Dragon Animations
+https://youtu.be/Z8eqaFG7lZQ&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Hair at a Strand Level  Grooming your creations in Unreal Engine
+https://youtu.be/__BScFPJy3E&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Large worlds in UE5 A whole new (open) world  Unreal Engine
+https://youtu.be/ZxJ5DG8Ytog&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Lumen in UE5 Let there be light!  Unreal Engine
+https://youtu.be/Dc1PPYl2uxA&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+MetaSounds in UE5 From Miniguns to Music  Unreal Engine
+https://youtu.be/3230-FwCts0&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Nanite in UE5 The End of Polycounts  Unreal Engine
+https://youtu.be/xUUSsXswyZM&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Simulating Large Crowds In Niagara  Unreal Engine
+https://youtu.be/CqXKSyAPWZY&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Stack-O-Bot UE5 Game Starter Kit Overview  Unreal Engine
+https://youtu.be/9fqMCSaQ1Nk&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Unreal Engine AI with Behavior Trees  Unreal Engine
+https://youtu.be/iY1jnFvHgbE&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+
+Using Control Rig in Unreal Engine
+https://youtu.be/y2WzNvJZk0E&list=PLZlv_N0_O1gaWH0vNIMqzA24TuIC2mGWN
+Presentations  Unreal Engine

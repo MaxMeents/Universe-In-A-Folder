@@ -1,0 +1,73 @@
+
+AAA VS Unity Indie Game Dev + Q&A
+https://youtu.be/J8jKBpB1u3A
+
+Building And Architecting Games + Q&A
+https://youtu.be/hpg5wshAqV8
+
+Building and architecting games in Unity + Q&A
+https://youtu.be/VEsch17kK6k
+
+Building BIG games (and mmos) w unity
+https://youtu.be/ECb31GwoSsM
+
+Building Unity UI that scales for a real game - PrefabsScenes
+https://youtu.be/6ztY9-IX3Qg
+
+Crunching and building AAA MMOs - Live
+https://youtu.be/qCVqjRLs0Bg
+
+Discussion Things every Unity Dev should know
+https://youtu.be/eGdx9JQwN-8
+
+Easy Movement Queuing, Paths, & Tweening in Unity
+https://youtu.be/PLFQp0TvsK0
+
+First AAA gamedev Job - quality assurance
+https://youtu.be/-b3R5eTcHdc
+
+Game Dev Jobs - MMO Tools Programmer - Vanguard
+https://youtu.be/KW5or4_wGpw
+
+Haunted Knight Halloween IOT Project w Raspberry Pi
+https://youtu.be/c2SKcMMNADw
+
+High Performance Game Networking in Unity3D + Q&A - (submit questions early)
+https://youtu.be/5b6k_ywdjw4
+
+How Game Devs make money (and how much) - Q&A
+https://youtu.be/AmdvhhVMQnI
+
+How to Make a Game - Unity Beginner Tutorial
+https://youtu.be/OR0e-1UBEOU
+
+How to make video games for beginners - Q&A - Live
+https://youtu.be/1p5nT2PAOr8
+
+Learn to Code or Game Design Which is better (and why)
+https://youtu.be/_7qgvNOTfdQ
+
+Live Game Dev Chat + Q&A
+https://youtu.be/w1LkcfFXLuI
+
+MMORPG Development + Q&A
+https://youtu.be/fuz3Bh8FQJQ
+
+sad day for game development
+https://youtu.be/3OSFMcME5mc
+
+Self Taught GameDev What do I need - 2020
+https://youtu.be/bpSNBscjaDY
+
+The 8 Game Code & Architecture Mistakes We ALL Make - Unity3D
+https://youtu.be/8Hy4JvtfUb8
+
+Unity Questions and Problems + Q&A
+https://youtu.be/6xp9cRnKJv4
+
+Unity3D Game Development - Fill the Line - (full process) + (w guest Charles!)
+https://youtu.be/RWXAd_D6t1M
+
+Why I switched from Unreal to Unity & wont go back (even for an mmorpg)
+https://youtu.be/lJHETpoLmTU
+Videos 201-225

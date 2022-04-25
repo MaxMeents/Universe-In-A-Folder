@@ -1,0 +1,76 @@
+
+Acquiring System Information from an LTE Signal
+https://youtu.be/pQDd0uld8zM
+
+Creating a Simulink Block Using MATLAB Code
+https://youtu.be/qoj8Pa2wi0A
+
+Deploying to iPhoneiPad app using MATLAB Coder
+https://youtu.be/eYMe0lXWaow
+
+Determining Chassis Stiffness with MATLAB
+https://youtu.be/iWzG8Uqu_dY
+
+Determining Signal Similarities
+https://youtu.be/oCcUm0_rUJw
+
+Digital Filtering
+https://youtu.be/N_v4xBsEwaM
+
+Documenting Polyspace Results Using Reports
+https://youtu.be/vbBRiRS8JuQ
+
+Dual Curve Pricing with Financial Instruments Toolbox YT
+https://youtu.be/a_MIHzHKW24
+
+Getting Started with Model Predictive Control Toolbox R2014b
+https://youtu.be/8-ecNJNZndo
+
+Introduction to Embedded Coder
+https://youtu.be/GwDw_h80Gao
+
+Keine Zeit für Experimente E-Technik Grundlagen Teil 2
+https://youtu.be/ToyTs2r0lTE
+
+Lap Time Simulation; Essential Part of Concept Development
+https://youtu.be/kDXt9X7VpBQ
+
+Lennart Ljung on System Identification Toolbox Advice for Beginners
+https://youtu.be/XWXDDxqkoqI
+
+Lennart Ljung on System Identification Toolbox History and Development
+https://youtu.be/JFQnSX5dsaE
+
+Lennart Ljung on the Past, Present, and Future of System Identification
+https://youtu.be/Qod2k2pJKXQ
+
+LTE Tutorial Understanding the LTE Resource Grid
+https://youtu.be/tGGfsIjG910
+
+MATLAB Tips and Tricks
+https://youtu.be/eVfDdmwbYeU
+
+Performing Peak Analysis
+https://youtu.be/_Lp-FUqRS0g
+
+Setting Up Polyspace Projects
+https://youtu.be/wW3ozbQMVFk
+
+Signal Smoothing
+https://youtu.be/W6lCo2gSDdA
+
+Simulate End to End Radar System
+https://youtu.be/1mFc8k3AlDE
+
+Tire Modeling; Extracting Results from a Large Data Set
+https://youtu.be/WW1qCuuleTQ
+
+Using a TI F28069 LaunchPad with Simulink
+https://youtu.be/ncM7N-hLKQM
+
+Using State Machines, Part 1 Supervisory Control
+https://youtu.be/_dv_M2IEBPI
+
+Using State Machines, Part 2 Fault Management
+https://youtu.be/KrSsAAbup_c
+Videos 2001-2025

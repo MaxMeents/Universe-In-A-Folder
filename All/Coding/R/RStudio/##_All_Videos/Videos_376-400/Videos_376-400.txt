@@ -1,0 +1,76 @@
+
+Admin SSP  RStudio Webinar - 2016
+https://youtu.be/7-VBDzqgWpw
+
+Advanced R Markdown 2-day Workshop - rstudioconf(2019L)
+https://youtu.be/6JX4UNxEOLU
+
+Covr Test Coverage  RStudio Webinar - 2016
+https://youtu.be/wP82XSFEiYs
+
+Data Manipulation Tools dplyr -- Pt 3 Intro to the Grammar of Data Manipulation with R
+https://youtu.be/Zc_ufg4uW4U
+
+Data Wrangling R  RStudio Webinar - 2016
+https://youtu.be/y9KJmUGc8SE
+
+Extracting Data From the Web Part 1  RStudio Webinar - 2016
+https://youtu.be/zc0ayq-c0OM
+
+Importing Data Into R  RStudio Webinar - 2016
+https://youtu.be/H17CciuBp-E
+
+Interactive Graphics with Shiny  RStudio Webinar - 2016
+https://youtu.be/1bCfympGLo8
+
+Intermediate Shiny   2-Day-Workshop - rstudioconf(2019L)
+https://youtu.be/U3ZaNcSkttw
+
+Introducing Bookmarks  RStudio Webinar - 2016
+https://youtu.be/fK130QBjH3Y
+
+Introducing Flex Dashboards  RStudio Webinar - 2016
+https://youtu.be/O3CgrEwTg1k
+
+Introducing Notebooks  RStudio Webinar - 2016
+https://youtu.be/w9GN7BqDfiE
+
+Introducing RStudio Connect 1.6.0
+https://youtu.be/2RXlVk9MEdk
+
+Live Now
+https://youtu.be/s-uXWM3-ep8
+
+Machine Learning with R and TensorFlow
+https://youtu.be/atiYXm7JZv0
+
+Reproducible Examples with the reprex package
+https://youtu.be/MmTPhGQWPUo
+
+Shiny and R to Build Dynamic Dashboards
+https://youtu.be/tmHh89VTanw
+
+Shiny in Production Data Products at Scale Workshop - rstudioconf(2019L)
+https://youtu.be/u6nCHmCtkCI
+
+Shiny Train-the-Trainer Workshop - rstudioconf(2019L)
+https://youtu.be/7ev0noQ7vTM
+
+Sparklyr Using Spark with RMarkdown  RStudio Webinar - 2016
+https://youtu.be/GtVwHNxXVgQ
+
+Tidy Data and tidyr -- Pt 2 Intro to Data Wrangling with R and the Tidyverse
+https://youtu.be/1ELALQlO-yM
+
+Tidyverse Train-the-Trainer Certification Workshop - rstudioconf(2019L)
+https://youtu.be/x5jnTIjZ2Kc
+
+Understand Modules with R & RStudio  RStudio Webinar - 2016
+https://youtu.be/q2eFxsUgCgg
+
+What is data wrangling Intro, Motivation, Outline, Setup -- Pt. 1 Data Wrangling Introduction
+https://youtu.be/jOd65mR1zfw
+
+Working with Two Datasets Binds, Set Operations, and Joins  -- Pt 4 Intro to Data Manipulation
+https://youtu.be/AuBgYDCg1Cg
+Videos 376-400

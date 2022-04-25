@@ -1,0 +1,76 @@
+
+Debugging Node Applications
+https://youtu.be/ocVSMmV_T4k
+
+FREE BOOK SwiftUI for the rest of us
+https://youtu.be/n2_DJNvpmoA
+
+Grouping Data in SwiftUI List
+https://youtu.be/GzyhY5U-wpM
+
+Implementing List Pagination in SwiftUI
+https://youtu.be/a77_i6DUu8k
+
+Implementing Pull to Refresh in SwiftUI
+https://youtu.be/m2o8iMU2LQA
+
+Implementing TabView in SwiftUI
+https://youtu.be/yRFzfuqjZao
+
+Integrating Camera with SwiftUI App
+https://youtu.be/W60nnRFUGaI
+
+Integrating Core Data with SwiftUI
+https://youtu.be/NLA_2DtnHyI
+
+Job Offer and Salary Negotiation for Developers
+https://youtu.be/N55BYuibFYU
+
+Navigating Programmatically in SwiftUI Using NavigationLink
+https://youtu.be/xJaQnG0-kU8
+
+Networking Using Combine Framework
+https://youtu.be/o3gh4eRX0fs
+
+NEW SECTION - Coffee Ordering App Integrated with Web API
+https://youtu.be/9y4prHpmrZI
+
+Passing Data from Modal to Parent in SwiftUI
+https://youtu.be/i4AKWlD4l28
+
+Persisting Data in UserDefaults Using SwiftUI
+https://youtu.be/nV-OdfQhStM
+
+Programmatically Navigation to Destination View in SwiftUI
+https://youtu.be/-VSbZrBtTGw
+
+Relative Layouts Using GeometryReader in SwiftUI
+https://youtu.be/XxZUVDSdfyA
+
+Searching List in SwiftUI Using UISearchBar
+https://youtu.be/IHx53KJnL-o
+
+State Management Using View Model in SwiftUI
+https://youtu.be/kXsOBDymFdI
+
+SwiftUI App for iOS, watchOS and macOS
+https://youtu.be/KXIiy04lRE0
+
+Understanding Data Flow in SwiftUI Applications
+https://youtu.be/SfBY1SsgYfc
+
+Understanding Environment Object in SwiftUI
+https://youtu.be/nblA2hgixNc
+
+Understanding MVVM Design Pattern
+https://youtu.be/cbqMkIG6Qeg
+
+Understanding ObservableObject in SwiftUI
+https://youtu.be/VioWHKN1eKs
+
+Xcode 11 Beta 6 iOS Playgrounds Completely Frozen
+https://youtu.be/IhYgmK4L3us
+
+Xcode 11 Beta5 Changes
+https://youtu.be/LEuZQLMq9dI
+Videos 351-375

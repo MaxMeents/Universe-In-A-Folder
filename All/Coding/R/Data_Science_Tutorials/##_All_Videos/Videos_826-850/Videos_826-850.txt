@@ -1,0 +1,76 @@
+
+Adding buttons to Shiny Data Tables  R Programming
+https://youtu.be/F9RUQ7kvQFI
+
+Automating Assocation Rules or Market Basket Analysis in Shiny  R Programming  Shiny
+https://youtu.be/jzdwMA5BVyI
+
+Code  Market Basket Analysis  Association Rules  R Programming
+https://youtu.be/2otyDYe_V0o
+
+K Nearest Neighbor (kNN) Algorithm   R Programming  Data Prediction Algorithm
+https://youtu.be/lDCWX6vCLFA
+
+Market Basket Analysis  Association Rules  R Programming  Data Prediction Algorithm
+https://youtu.be/E2q-aCbpefo
+
+Predictive Modeling with Bagging Approach in R  R Programming
+https://youtu.be/g_RYT_Ip-zc
+
+R Programming  Browsing  Opening google spreadsheet from R
+https://youtu.be/3wHyx9ErltI
+
+R Programming  Creating Interactive Bar Chart in Shiny  How to make shiny apps
+https://youtu.be/V17UQEvULCA
+
+R Programming Data Aggregation and Structure (Simple or Pivot) Simple TablePivot Table
+https://youtu.be/guSQmfjdP_U
+
+R Programming Reading google spreadsheet data in R by sheet title or url or key
+https://youtu.be/RxBxkAzVwHI
+
+R Programming Tutorial  How to upload local spreadsheets to google drive from R
+https://youtu.be/6JUuloIQITo
+
+R ProgrammingConnecting google spreadsheet with R - R Programming
+https://youtu.be/7l2_R61jrUU
+
+R ProgrammingCreating bar chart in R (along with text function)
+https://youtu.be/AlE7xXCE0JU
+
+R ProgrammingCreating new google spreadshete from R
+https://youtu.be/66HFo4oj5iQ
+
+R ProgrammingCreating new worksheet in existing google spreadsheet and storing R object data in it
+https://youtu.be/ZRB3HDojbxg
+
+R ProgrammingDescribing data using Hmisc and psych package - R Programming
+https://youtu.be/2F1RioDkBUg
+
+R ProgrammingDownloading the google spreadsheet directly from R as csv xlsx pdf
+https://youtu.be/Ux-hEVcjCqo
+
+R ProgrammingGetting list of google spreadsheetsReading and storing spreadsheet data in R
+https://youtu.be/9cQLR26jmyI
+
+R ProgrammingReading specific rowscols Range of data from google spreadsheet in R
+https://youtu.be/klvNQd7bS9Q
+
+R ProgrammingRenaming and Deleting the google worksheet from R
+https://youtu.be/n1sQj1WH6MM
+
+R ProgrammingT Test for one Sample, Independent Sample and Paired Sample - R Programming
+https://youtu.be/scWZAcU8q_c
+
+R ProgrammingWilcox sample test for non Parametric data in R
+https://youtu.be/RjhnanwNhs0
+
+R Tutorial  Creating and enhancing histogram using ggplot package  R Programming  ggplot
+https://youtu.be/O0795X63_gw
+
+R Tutorial  Searching datasets in R  R Programming
+https://youtu.be/Ftyq3ePvGG8
+
+Why Data Scientists use R
+https://youtu.be/PrR7uW_G2f8
+Videos 826-850

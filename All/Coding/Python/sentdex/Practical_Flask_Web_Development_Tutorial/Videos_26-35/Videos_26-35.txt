@@ -1,0 +1,31 @@
+
+Flask Mail  - Flask Web Development with Python 29
+https://youtu.be/4WbrHS_H8ks&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+Includes - Flask Web Development with Python 26
+https://youtu.be/ggRZuOiFPg0&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+Integrating Paypal with Flask - Flask Web Development with Python 34
+https://youtu.be/HIwRzATH6iU&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+Jinja Templating Cont'd - Flask Web Development with Python 27
+https://youtu.be/WgdrhstgSuw&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+jQuery with Flask - Flask Web Development with Python 32
+https://youtu.be/vtiiO5I90Tc&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+Protected directories and Files - Flask Web Development with Python 31
+https://youtu.be/t5Midcpq-m8&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+Pygal SVG embedded Graphs - Flask Web Development with Python 33
+https://youtu.be/BIttXQO0bXw&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+Return Files with send_file  - Flask Web Development with Python 30
+https://youtu.be/WICXiCtXX5U&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+SSL for HTTPS with Apache server - Flask web development with Python 35
+https://youtu.be/2iXfGn1Ur6U&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+URL Converters - Flask Web Development with Python 28
+https://youtu.be/iQ6YdBiLxOI&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+Videos 26-35

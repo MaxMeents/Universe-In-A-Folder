@@ -1,0 +1,76 @@
+
+Weekend Drive Greenlit, GTGD S3, and my dev schedule!
+https://youtu.be/810mFmU2HQI
+
+[100] Gun Muzzle Flash - How To Make A Game
+https://youtu.be/66WyHRZFdI8
+
+[101] Gun Hit Effects - How To Make A Game
+https://youtu.be/48P_aP5AKLw
+
+[78] Enemy Nav Wander - How To Make A Game
+https://youtu.be/mxd5hwfN6iw
+
+[79] Enemy Nav Pause - How To Make A Game
+https://youtu.be/7FSGo29o0Bg
+
+[80] Enemy Attack - How To Make A Game
+https://youtu.be/rE83nHYj-eo
+
+[81] Enemy Health - How To Make A Game
+https://youtu.be/jFvVBGuKoyI
+
+[82] Enemy Take Damage - How To Make A Game
+https://youtu.be/BBIyLrcuDrQ
+
+[83] Enemy Ragdoll Activation - How To Make A Game
+https://youtu.be/6yS7wA7mMm0
+
+[84] Enemy Collision Field - How To Make A Game
+https://youtu.be/iYIcrm7__NA
+
+[85] Spawner Proximity - How To Make A Game
+https://youtu.be/LREXAD_DRKw
+
+[86] Enemy Nav Flee - How To Make A Game
+https://youtu.be/EyEo50DoNtQ
+
+[87] Intro To Chapter 6 - How To Make A Game
+https://youtu.be/HGyQpwDzdL8
+
+[88] Download Gun Assets - How To Make A Game
+https://youtu.be/MWmroRc-44s
+
+[89] Gun Item Setup - How To Make A Game
+https://youtu.be/ZK7F4kiOvyc
+
+[90] Gun Animations - How To Make A Game
+https://youtu.be/0bd56TqGEuk
+
+[91] Gun Controller - How To Make A Game
+https://youtu.be/rn_QvJj-5yY
+
+[92] Canvas Ammo - How To Make A Game
+https://youtu.be/NgJEYliU-Z0
+
+[93] Dynamic Crosshair UI - How To Make A Game
+https://youtu.be/N2-JM22ormg
+
+[94] Dynamic Crosshair Controller - How To Make A Game
+https://youtu.be/QBm1nNy9Jmc
+
+[95] Muzzle Flash - How To Make A Game
+https://youtu.be/WNrR12ZtptE
+
+[96] Hit Effects - How To Make A Game
+https://youtu.be/8oxwEzUSlco
+
+[97] Gun Master - How To Make A Game
+https://youtu.be/Bk48Y9qVNgw
+
+[98] Gun Standard Input - How To Make A Game
+https://youtu.be/gFJ-NK51RuQ
+
+[99] Gun Shoot - How To Make A Game
+https://youtu.be/hK3XCEOPO1g
+Videos 176-200

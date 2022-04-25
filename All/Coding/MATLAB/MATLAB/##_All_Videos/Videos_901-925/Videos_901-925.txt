@@ -1,0 +1,76 @@
+
+Active Noise Cancellation – From Modeling to Real-Time Prototyping
+https://youtu.be/mlkAIlL5Bqs
+
+Adopting Model-Based Design for FPGA, ASIC, and SoC Development
+https://youtu.be/2UejBXegx6U
+
+Designing a Datapath from an FPGA to a Processor with SoC Blockset Modeling and Simulation
+https://youtu.be/1OU1482n1QQ
+
+Detect People with Raspberry Pi and MATLAB Online
+https://youtu.be/ky5T2TDzm3c
+
+Generate SystemVerilog DPI for Analog Mixed-Signal Verification
+https://youtu.be/A01ZDNGMtSc
+
+Getting Started with Lidar Acquisition in MATLAB
+https://youtu.be/8XDHfGj_fyA
+
+Hardware-in-the-Loop Simulation for Battery Management Systems
+https://youtu.be/mDAvo6bDp4s
+
+How to Design Motor Controllers with Simscape Electrical, Part 1 Simulate Back-EMF Voltage
+https://youtu.be/JDgvBZbnfPw
+
+How to Use Basic Plotting Functions
+https://youtu.be/GtmUXVzw4lQ
+
+Introduction to Deep Learning for Audio and Speech Applications
+https://youtu.be/dBAn67ZKbZ4
+
+MATLAB小课堂——如何使用蒙特卡洛模拟进行预测？
+https://youtu.be/Aojvi8cyF0Y
+
+MATLAB小课堂——如何加速 MATLAB 代码？
+https://youtu.be/dYBIi9UudMQ
+
+Motor Control Design with MATLAB and Simulink
+https://youtu.be/lP4jbmthiyc
+
+Motor Control, Part 1 An Introduction to Brushless DC Motors
+https://youtu.be/gNpoTPzEkco
+
+Sensor Spoofing Attacks, Consequences, and Countermeasures
+https://youtu.be/80No8NPKkes
+
+Simulink Data Dictionary Managing and Migrating Design Data
+https://youtu.be/VWAgIY-358Q
+
+Using a Raspberry Pi with MATLAB Online
+https://youtu.be/_BW2WAqW1vs
+
+Using MATLAB with Python
+https://youtu.be/y7NBT6O0fJU
+
+Using USB Webcams with MATLAB Online
+https://youtu.be/-OOYveBRoJI
+
+What Is Parallel Computing Toolbox
+https://youtu.be/IMGROXURykc
+
+What Is Reinforcement Learning Toolbox - Previous Release
+https://youtu.be/eo__fj24k7A
+
+Working in the Development Environment
+https://youtu.be/F9js5H2XfOE
+
+了解模型预测控制——为什么使用模型预测控制（Model Predictive Control）
+https://youtu.be/xPB0IX-3FqY
+
+了解模型预测控制——什么是模型预测控制（Model Predictive Control）
+https://youtu.be/jwJK6NxxHY0
+
+了解模型预测控制——模型预测控制设计参数
+https://youtu.be/gXgMjOgYJik
+Videos 901-925

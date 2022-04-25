@@ -1,0 +1,76 @@
+
+Alex Vinyals - Ingesting 35 million hotel images with python in the cloud.
+https://youtu.be/Rz7DsPcc34w&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andreas Klostermann - Brainwaves for Hackers 3.0
+https://youtu.be/9gcIiYf4-o0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andrew Burrows - Testing the untestable a beginner’s guide to mock objects
+https://youtu.be/jsjParCB7BU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Anjana Vakil - Exploring Python Bytecode
+https://youtu.be/GNPKBICTF2w&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Anna Herlihy - Wrestling Python into LLVM Intermediate Representation
+https://youtu.be/knL-c9WIru8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Christie WilsonMichael Tom-Wing - System Testing with pytest and docker-py
+https://youtu.be/EDpwvvU-sPY&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Claudia Guirao Fernández - Python, Data & Rock'n'Roll
+https://youtu.be/v_F9CnpgOd8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Elizaveta Shashkova - Monkey-patching a magic trick or a powerful tool
+https://youtu.be/ZpJxwpyJpq4&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Facundo Batista - Entendiendo Unicode
+https://youtu.be/Dr1R4ZlVLxI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fernando Masanori AshikagaPaola Katherine PachecoKátia Nakamura - import community
+https://youtu.be/S05NuIlh7vo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Florian Wilhelm - Handling GPS Data with Python
+https://youtu.be/9Q8nEA_0ccg&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Hynek Schlawack - Get Instrumented!
+https://youtu.be/1OB0w4b_3l0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Ian Lewis - Deep Learning with Python & TensorFlow
+https://youtu.be/yZuxcR8jxlw&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Iker Martinez de Agirre Mendia - Datu bistaratze soluzioen garapena Smartcity proiektuetan
+https://youtu.be/EUepVkcgV18&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Jatsu Argarate - Buildout Django eta Fabric. Kasu praktikoa euskarazko tokiko hedabideetan
+https://youtu.be/1c5IlIQhiqY&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+John Sutherland - Iteration, iteration, iteration
+https://youtu.be/qKPNubOwSJ0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+L. Ozaeta - Endor, ipuinak kontatzen zituen Nao robota.
+https://youtu.be/llN1L0TA9aU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Malwina Nowakowska - RESTful API - Best Practices.
+https://youtu.be/LAxOj0mtq6I&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mariano Anaya - Clean code in Python
+https://youtu.be/7ADbOHW1dTA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Michał Karzyński - Building beautiful RESTful APIs using Flask
+https://youtu.be/OTWs0wPHU-g&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mike BRIGHT - Jupyter for everything else
+https://youtu.be/wG6u51uuXEA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mikel Larreategi - EITB Nahieran askatu bideoak API honen bidez
+https://youtu.be/275mrqsjhI8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Peter Hoffmann - SQLAlchemy as the backbone of a Data Science company
+https://youtu.be/rTVDlBMaI7I&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Stephan Jaensch - Building Service interfaces with OpenAPI  Swagger
+https://youtu.be/QWF3GNWV4_w&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Tobias Oberstein - Scaling Microservices with Crossbar.io
+https://youtu.be/DTKlo8w6QIo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+Videos 126-150

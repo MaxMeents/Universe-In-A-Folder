@@ -1,0 +1,76 @@
+
+C# Code  for Get DATAS DIRECTLLY from DATATABLE to TEXTBOX Events in .net
+https://youtu.be/AKoCmAUj9Ag&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code for Age Calculate using Datetimepicker and TextBox in .net
+https://youtu.be/5DgfwgjEilQ&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code for Arithmetic Calculation Using TextBox in .net
+https://youtu.be/h8YgZ0Cn3XE&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For Beep Sound Button and Clock Beep Sound in .net
+https://youtu.be/1cbWUfAAMH4&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For Data Decrypt in .net
+https://youtu.be/am5SVFLKfeE&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For Data Encrypt in .net
+https://youtu.be/6ipS-v4FJms&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For DATATABLE and DATASET Function in dot net
+https://youtu.be/QcsZD1chhSk&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For GET Datas From Datagridview to Combobox in .net
+https://youtu.be/GgGmsRtQ7LQ&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For ROW Index for DataGridView in .net
+https://youtu.be/8hpRtcpv7tQ&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Code For Windows Media player in .net
+https://youtu.be/mGl35-cxrec&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+c# insert Date time in  sql server database
+https://youtu.be/FxKrfMsb_JA&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Login With User Authentication
+https://youtu.be/p0hz-aeSmTg&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# READ DATAS Datagridview to Datagridview in Dot NET
+https://youtu.be/PF5lQo3vBDY&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Retrieve Image from Database
+https://youtu.be/d7klnhcFBEg&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+C# Upload or Insert Image into SQL DataBase
+https://youtu.be/XMhcF-zex6k&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+CREATE New User Account to LOGIN WINDOW in dot net
+https://youtu.be/rh4EkfjoSd4&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+Delete Multiple Rows in DATAGRIDVIEW using Check Box
+https://youtu.be/0IbH_RuNSF4&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+Dynamically Insert, Update, Delete Datas in DATAGRIDVIEW in DOT NET
+https://youtu.be/Oki69VVHOEs&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+Fetch or Filter Data from Date to Date
+https://youtu.be/ohfWdi-v0DE&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+How to Sum & Average by using SQL Query in .net
+https://youtu.be/kZu0pDkYNP8&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+INSERT data by using RADIOBUTTON and CHECKBOX in dot net
+https://youtu.be/fByRNjcS0fw&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+PASSWORD Change option to LOGIN Form in Dot Net
+https://youtu.be/bUzQi7dwghk&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+Search Data in DataGridView using Distinct in .net
+https://youtu.be/vmERLQuAlFc&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+Search Datagridview ASC or DESC Order MANUALLY in .net
+https://youtu.be/v4gtU6nekGY&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+
+Search or Filter Data in Datagridview by using RADIO BUTTON in DOT NET
+https://youtu.be/oaHDHEZqQZU&list=PLDDYOqfVAa0doQhqHGn9EpKZQbrAF4T5D
+Videos 26-50

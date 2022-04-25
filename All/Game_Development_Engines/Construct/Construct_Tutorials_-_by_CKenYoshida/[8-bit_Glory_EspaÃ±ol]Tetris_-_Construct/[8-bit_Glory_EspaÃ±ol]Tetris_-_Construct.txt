@@ -1,0 +1,28 @@
+
+[8-bit Glory Español]Tetris - 01 Introducción
+https://youtu.be/vJebpkc5Evk&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 02 La malla (GRID)
+https://youtu.be/JjIZ7730W2g&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 03 Los Bloques
+https://youtu.be/AaOAN92nyXM&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 04 Bordes
+https://youtu.be/3RAQWiIqC0Y&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 05 Fijar el Bloque
+https://youtu.be/x8AN58j3vnY&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 06 Rotación
+https://youtu.be/P6jGPidTkSE&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 07 Matrices (Arrays)
+https://youtu.be/ZVk224uKKFY&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 08 Líneas
+https://youtu.be/IaG3uqlG97E&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+
+[8-bit Glory Español]Tetris - 09 Puntaje, contadores de líneas y HUD
+https://youtu.be/s6f4saP-yo8&list=PLOFk0YyEmMmeiC7qtl1SvPwxuq6MBgavX
+[8-bit Glory Español]Tetris - Construct2

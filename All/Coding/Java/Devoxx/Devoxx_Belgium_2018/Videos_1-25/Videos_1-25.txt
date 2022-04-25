@@ -1,0 +1,76 @@
+
+#backtobasics HTTP cookies by Hubert SABLONNIÈRE
+https://youtu.be/y6mwekHkgVQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Agile is a Dirty Word by James Birnie
+https://youtu.be/2vUgi8OGw5E&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Amazon Keynote by James Gosling
+https://youtu.be/WuZk23O76Zk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Applied Machine Learning in the Browser with Tensorflow js  by  Pratik Patel
+https://youtu.be/q-y6hPeIK1s&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Are You Deploying and Operating with Security in Mind  by Daniel Bryant, Steve Poole
+https://youtu.be/GPwgotcNggA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Be reactive and micro with a MicroProfile stack by Ondro Mihályi
+https://youtu.be/iwH52Hrn2-0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Beyond the DSL—Unlocking the power of Kafka Streams with the Processor API by Antony Stubbs
+https://youtu.be/_KAFdwJ0zBA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Bring serverless to Kubernetes with new open source tools  by  Bret McGowen
+https://youtu.be/bYxOx9tcYDE&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Digital Signatures and Blockchain How DocuSign Does It by Cyril Thirion
+https://youtu.be/Y0QcB0nkWoo&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Down the SVG Rabbit Hole Advanced SVG Effects & Optimized Workflow  by  Robyn Larsen
+https://youtu.be/rFHwa10ujCU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Event Sourcing   You are doing it wrong by David Schmitz
+https://youtu.be/GzrZworHpIk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Exploring reactive programming in Java by Miro Cupak
+https://youtu.be/nP-UeleMgE4&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Fast and Beautiful Modern Image Delivery Techniques by Doug Sillars
+https://youtu.be/Kz8G6P_oTXg&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Flight of the Flux a look at Reactor's execution model by  Simon Baslé
+https://youtu.be/MkdwriQAllk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+FP vs OOP Choose Two by Brian Goetz
+https://youtu.be/HSk5fdKbd3o&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Full stack Reactive Java with Project Reactor & Spring Boot 2 by Mark Heckler
+https://youtu.be/KbcciytZJm0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Improving Android Build Performance by Cédric Champeau
+https://youtu.be/StahHZ-L83k&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Managing CICD on AWS at scale by Jaap Kabbedijk, Gijsbert van Renswoude
+https://youtu.be/7CURI38s1L0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Moe Szyslak vs The Balmer peak by Frank Poncelet
+https://youtu.be/BqtyE72bwqQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Open Source Supply Chains and Consumption Risk Governance, Containers & Trust by Ron De Jong
+https://youtu.be/0hJ8Gan7iTU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Rethinking Software Systems A friendly introduction to Behavioral Programming by Michael Bar Sinai
+https://youtu.be/PW8VdWA0UcA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+The battle of 2 automated conference talk scheduling algorithms for Devoxx by Geoffrey De Smet, Piot
+https://youtu.be/GnnMHkY6vKk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Vue js power and flexiblity by Pratik Patel
+https://youtu.be/PJ6-Oj-98Vk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Why you're failing your remote workers by Vincent Kok
+https://youtu.be/YS62e9IokTY&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Write awesome tests by Jeroen Mols
+https://youtu.be/F8Gc8Nwf0yk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+Videos 1-25

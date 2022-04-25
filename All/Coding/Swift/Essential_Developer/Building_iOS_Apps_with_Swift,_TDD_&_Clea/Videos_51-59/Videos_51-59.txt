@@ -1,0 +1,22 @@
+
+S02E21 Migrating to Swift 5.2 and CI with GitHub Actions  Professional iOS Engineering Series
+
+
+S03E01 How SwiftUI fits in a Clean Architecture  Professional iOS Engineering Series
+
+
+S03E02 Test-driving SwiftUI logic  Professional iOS Engineering Series
+https://youtu.be/6FZ0cOjeuVQ&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S03E03 SwiftUI List and Recursive Navigation  Professional iOS Engineering Series
+
+
+S03E04 Architectural Patterns Applied in iOS apps  Professional iOS Engineering Series
+
+
+S03E05 Dependency Injection Patterns Applied in iOS apps  Professional iOS Engineering Series
+
+
+S03E06 Builder Pattern for safer Swift code  Professional iOS Engineering Series
+
+Videos 51-59

@@ -1,0 +1,37 @@
+
+#1 - Hello World in Rust
+https://youtu.be/eAXsvVs6GqM
+
+#11 - Rust module system explained
+https://youtu.be/4KsAsGhFo4U
+
+#12  - Rust Playground At You Fingertips
+https://youtu.be/SkxdcOea-rE
+
+#2 - Test Driven Development with Rust programming language
+https://youtu.be/gVSB5AHAIsM
+
+#3 - Basic data types in Rust programming language
+https://youtu.be/n5TRBkbystY
+
+#4 - Variables in Rust
+https://youtu.be/LVX_LWkcqgo
+
+#5 - Color terminal output in Rust programming language.
+https://youtu.be/1yp8rtXWMIg
+
+Rustcast #10 - Test README examples with skeptic crate
+https://youtu.be/VxFIXPJwb6U
+
+Rustcast #6 - traits From and Into in Rust programming language
+https://youtu.be/vH5xXr81a2Y
+
+Rustcast #7 - How to implement Iterator in Rust programming language
+https://youtu.be/pgFWz0jgqMU
+
+Rustcast #8 - Generic traits as an alternative to method overloading in Rust programming language
+https://youtu.be/URDlIAsyLP4
+
+Rustcast #9 -  Travis configuration for a Rust project clippy and rustfmt
+https://youtu.be/SNpJ3h8R4ks
+Videos 1-12

@@ -1,0 +1,19 @@
+
+7 Ways to Hack Your Brain to Write Fluently by Dan Allen
+https://youtu.be/r6RXRi5pBXg&list=PLRsbF2sD7JVpTA4fzJldBpzU_EWxsMfTj
+
+Doing Open Source (The Right Way) by Charles Nutter
+https://youtu.be/wDMO8Gsg1Ow&list=PLRsbF2sD7JVpTA4fzJldBpzU_EWxsMfTj
+
+Knowledge is Power Getting out of trouble by understanding Git by Steve Smith
+https://youtu.be/sevc6668cQ0&list=PLRsbF2sD7JVpTA4fzJldBpzU_EWxsMfTj
+
+Microservices and Modularity or the difference between treatment and cure! by Milen Dyankov
+https://youtu.be/O77777Zy_HE&list=PLRsbF2sD7JVpTA4fzJldBpzU_EWxsMfTj
+
+Refactor your Java EE application using Microservices and Containers by Arun Gupta
+https://youtu.be/iJVW7v8O9BU&list=PLRsbF2sD7JVpTA4fzJldBpzU_EWxsMfTj
+
+Swimming upstream in the container revolution by Bert Jan Schrijver
+https://youtu.be/kE5rxGUFsXU&list=PLRsbF2sD7JVpTA4fzJldBpzU_EWxsMfTj
+Top Talks 'Methodology & DevOps' - Devoxx BE 2015

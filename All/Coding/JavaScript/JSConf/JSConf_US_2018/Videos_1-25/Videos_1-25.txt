@@ -1,0 +1,76 @@
+
+A quest to be a (web)master - Mariko Kosaka - JSConf US 2018
+https://youtu.be/25RovROJUnw&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Aligning Paradigms Across Client and Server(less) - Jeffrey Hoffer - JSConf US 2018
+https://youtu.be/XWHcKl1jEeE&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Browser Extensions - Matt Claypotch - JSConf US 2018
+https://youtu.be/Jxe7AXgbYqY&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+CivicHacking.JS Helping your Community using JavaScript - Caroline Dikibo - JSConf US 2018
+https://youtu.be/fkovQKMH7e4&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Compilers The Next Frontier In Web Performance - Chad Hietala - JSConf US 2018
+https://youtu.be/x8GoI01eVuk&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Data-Driven CSS with Grid & Custom Properties - Miriam Suzanne - JSConf US 2018
+https://youtu.be/uwgBz748t-g&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+ES6 In Practice - Tim Doherty - JSConf US 2018
+https://youtu.be/Fh0VYI-_uPg&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Hacking With My Anxiety - Bryan Hughes - JSConf US 2018
+https://youtu.be/vkZHEvZz6EU&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Hot Garbage Clean Code is Dead - Michael Chan - JSConf US 2018
+https://youtu.be/xTJyi49piH4&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+I like my tests, like I like my friends, reliable and flake-free - Amir Rustamzadeh - JSConf US 2018
+https://youtu.be/LqR7t2-U0WA&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+I See Overcoming Challenges in Software Development - Kevin O'Neil - JSConf US 2018
+https://youtu.be/yAVPyWqNuTU&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+JavaScript Concurrency and the DOM - Kristofer Baxter and Malte Ubl - JSConf US 2018
+https://youtu.be/XyVQfqmx2CI&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Journey Into Imagination 💫 - Rachel White - JSConf US 2018
+https://youtu.be/BA0YfniVqv0&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Learning through Art An Introduction to VR - Billy Roh - JSConf US 2018
+https://youtu.be/jUfaJ1hsfqQ&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+literally everything is pixel art - jenn schiffer
+https://youtu.be/0wh9UzLbIMY&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+No Time for Types - Nick Nisi - JSConf US 2018
+https://youtu.be/qGK541P2xII&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+npm and the future of JavaScript - Laurie Voss - JSConf US 2018
+https://youtu.be/mSQh0gcDXkc&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Please don't mock me - Justin Searls - JSConf US 2018
+https://youtu.be/x8sKpJwq6lY&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Testing Big in JavaScript - Robert Deluca - JSConf US 2018
+https://youtu.be/243TCc5qP-g&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+The joy of mentoring by taking the pressure off of it - Guedis Cardenas - JSConf US 2018
+https://youtu.be/P3pIKlMB7HM&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+The Loader is a Lie - Bernie Cheng & Gordana Jekic Dzunic - JSConf US 2018
+https://youtu.be/qZ04VKj9o7s&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+The Most Annoying Website - Feross Aboukhadijeh - JSConf US 2018
+https://youtu.be/QFZ-pwErSl4&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+Unlock the power of feature based JS development - Jeff Barczewski - JSConf US 2018
+https://youtu.be/wkFggFuIveY&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+We Live in Memory Making λ and GraphQL respond in 70ms - Francis Gulotta - JSConf US 2018
+https://youtu.be/urohq-WcGWY&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+
+What's in your JS - Ravi Lachman - JSConf US 2018
+https://youtu.be/44ahlcq7QwI&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b
+Videos 1-25

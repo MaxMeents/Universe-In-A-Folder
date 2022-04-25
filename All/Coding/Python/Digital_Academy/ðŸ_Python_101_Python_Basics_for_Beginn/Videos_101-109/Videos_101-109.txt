@@ -1,0 +1,28 @@
+
+Catch and Handle Exceptions in Python (TRY EXCEPT in Python) - Python Tutorial for Beginners
+https://youtu.be/ll0HYxzNm9g&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Exceptions in Python ALWAYS run your code (TRY FINALLY in Python) - Python Tutorial for Beginners
+https://youtu.be/cuc_x422Wko&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Exceptions in Python Default Exception Handling in Python - Python Tutorial for Beginners
+https://youtu.be/jNcYHWaAkVo&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Exceptions in Python Execute Code ONLY when NO Exception is Raised (TRY ELSE in Python)
+https://youtu.be/5HJCmLbb3XY&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Exceptions in Python Test if Condition is True (ASSERT in Python) - Python Tutorial for Beginners
+https://youtu.be/4uWs0kUoLPA&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Exceptions in Python Types of Errors in Python (Syntax, Logical) - Python Tutorial for Beginners
+https://youtu.be/2LrjNjUSjqo&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+How to RAISE an Exception in Python (Traceback in Python) - Python Tutorial for Beginners
+https://youtu.be/FCkcZKwWt24&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+How to use RECURSIVE Function in Python (Recursion in Python) - Python Tutorial for Beginners
+https://youtu.be/oZQIkPbA9qQ&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Raise User Defined Exceptions in Python (Custom Exceptions) - Python Tutorial for Beginners
+https://youtu.be/bUJzaWAw8Sk&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+Videos 101-109

@@ -1,0 +1,73 @@
+
+Building Web Component with Java EE 8 Backend
+https://youtu.be/ztGJUPsWMHs&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Code Shrinking Techniques with Jakarta EE and MicroProfile #slideless - Adam Bien
+https://youtu.be/FKYetddHz1E&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Deploying a ThinWAR to OpenShift with Payara and S2I
+https://youtu.be/_23CgD7bsUc&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+HTTP2 Push with Servlets 4.0 and Java EE 8
+https://youtu.be/AGXA0P0s3ko&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Jakarta EE + MicroProfile Archetype Setup, Build, Deploy
+https://youtu.be/PQ-IRKK_lA4&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Jakarta EE + MicroProfile Quickstarter
+https://youtu.be/8w_a-yEl2Wg&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Java EE 8  Kickstarter -- The Simplest Possible Project
+https://youtu.be/89htW1ToTVs&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Java EE 8 on Java 9 with OpenLiberty
+https://youtu.be/P9MiXzM9-IM&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Java EE 8 with JAX-RS 2.1 Async Resource with RX Client
+https://youtu.be/IcM903F8-X4&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+JAX-RS with MicroProfile Reactive Messaging #slideless
+https://youtu.be/6VGLl3qktVQ&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+JSF 2.3 and HTTP2 Push
+https://youtu.be/h710rEj3Mls&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+JSON-B with Java 14 Records
+https://youtu.be/q5ELQJ_3FB0&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+JSON-B with JAX-RS and Java EE 8
+https://youtu.be/XDi3UYwauFI&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Lightning fast builds and deployments with ThinWARs
+https://youtu.be/_c8ZkSSpdWI&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+MicroProfile and ConfigMaps
+https://youtu.be/uH94zBJYmpQ&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+MicroProfile REST Client Tests with Quarkus
+https://youtu.be/RLkvFT537_4&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Modern Web - Like Java EE #slideless #usetheplatform
+https://youtu.be/5wPg3jY62jo&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Quarkus vs. WildFly -- The Request  Second Perspective
+https://youtu.be/-1wijnrTxs0&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Receiving Server Sent Events with plain, vanilla JavaScript client
+https://youtu.be/qQLVCgmiMgQ&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+The Lightweight Stuff #slideless
+https://youtu.be/dNpUF1OZQGM&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Using Java EE 8 Dependency Injection in Java SE
+https://youtu.be/lyuU24ZFlY4&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+WebComponents and Java Server Pages (JSPs)
+https://youtu.be/4viMS8GZmGU&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+What is OpenLiberty's MP Memory Footprint
+https://youtu.be/s3dh0dHXg6g&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+
+Writing and Reading with JSON-B
+https://youtu.be/0uOmZ2FTPaA&list=PLxU9yM-_yPs_UDzdJWgI5TUOpPjgYxMQA
+Videos 1-25

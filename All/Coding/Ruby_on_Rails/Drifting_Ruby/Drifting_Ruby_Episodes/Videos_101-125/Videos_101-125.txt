@@ -1,0 +1,76 @@
+
+Episode #218 - From jQuery to ES6
+https://youtu.be/MJ8KWq494no&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #219 - Reputation Behavior with Merit  Preview
+https://youtu.be/FUWSxu8HlJY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #220 - Associations and Mathematical Business Logic  Preview
+https://youtu.be/0S1jleoX0bU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #221 - Minitest and Test Driven Development  Preview
+https://youtu.be/8rKexy89Dkk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #222 - Setting Up and Testing OmniAuth  Preview
+https://youtu.be/LkK87YjhFSk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #223 - Like Relationships and Global ID
+https://youtu.be/-xYnskP1ZA8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #224 - OmniAuth Authentication with Auth0  Preview
+https://youtu.be/vYIK9q90IYY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #225 - From Devise to Auth0  Preview
+https://youtu.be/uPbfWLZKUTc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #226 - In Depth with Docker Compose  Preview
+https://youtu.be/XqEzbdUNEyQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #227 - Emojis from Scratch
+https://youtu.be/qn8f-J_KJXs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #228 - API Structure and Error Handling
+https://youtu.be/I9sxq149EL4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #229 - Mentions with Action Text and Notifications  Preview
+https://youtu.be/LDzRB4XTkjU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #230 - Streaming Videos with Active Storage  Preview
+https://youtu.be/xDqp-basYG4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #231 - Syntax Highlighting with Action Text
+https://youtu.be/p7mAQNUkxGo&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #232 - Adaptive Bitrate Streaming with Active Storage  Preview
+https://youtu.be/j_RPdolhAPE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #233 - Audio Streaming with Active Storage  Preview
+https://youtu.be/yXHF5LxyW2c&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #234 - Multitenancy  Preview
+https://youtu.be/1EOmCbM4JWw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #235 - Drag and Drop with draggable  Preview
+https://youtu.be/hLphKi_itNs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #236 - Google Maps API with StimulusJS
+https://youtu.be/UtgwdLiJ5hA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #237 - Sorting from Scratch  Preview
+https://youtu.be/9c6sGIwEfDg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #238 - Inviting Collaborators from Scratch  Preview
+https://youtu.be/VQjy_XZ3KFI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #239 - Real Time Updates with ActionCable  Preview
+https://youtu.be/I9If0gKLzys&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #240 - Contributing to a Gem
+https://youtu.be/Q6uqYx8Cn8k&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #241 - Reusable Ruby on Rails Application Templates  Preview
+https://youtu.be/sdO7QiCAKHI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #242 - Removing Friendly Id  Preview
+https://youtu.be/MYZyo_49re0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 101-125

@@ -1,0 +1,76 @@
+
+A reference architecture to automate content delivery into your CI CD workflows by Duncan McAllister
+https://youtu.be/10eVU_VdUEo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+AI Self - Learning Game Playing by Richard Abbuhl
+https://youtu.be/TiNA8lx0PIE&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Application Security in the age of Open Source by Ron De Jong
+https://youtu.be/oG5z5lP1Ajc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Building Real time Data in Web Applications with Graal js by Christian Wirth and Dan McGhan
+https://youtu.be/vRV6qy2BlbU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Business Parameters a framework for managing complex configuration by Maarten Van Puymbroeck
+https://youtu.be/kQxZUUYgHsk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Container Orchestration Considerations by Patrick van der Bleek
+https://youtu.be/iPnld2lizd4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Continuous delivery @ Axians with gitlab and openshift by Frédéric Pape
+https://youtu.be/ONZqRIn640Q&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Docker for developers and ops what's new and what's next by Patrick Chanezon
+https://youtu.be/Bmms2tjRzx4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Extreme Devops using Kubernetes by Dennis Lauwers
+https://youtu.be/g2ud-xemQ2o&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Fighting fraud with graph databases by Vandy Berten
+https://youtu.be/5u4hyNOh0Tc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Heinz Kabutz at Devoxx Belgium 2017
+https://youtu.be/SuufsxdsYrg&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Juergen Hoeller at Devoxx Belgium 2017
+https://youtu.be/r9KtDqJuIOQ&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Mark Reinhold at Devoxx Belgium 2017
+https://youtu.be/0QazkfxD_VQ&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Martin Görner at Devoxx Belgium 2017
+https://youtu.be/0r1Ea84rgO8&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Spring team members Stéphane Nicoll & Brian Clozel
+https://youtu.be/NI4jYZ7MhBo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+JAX-RS and CDI Bike the Reactive Bridge! by David Delabassee & José Paumard
+https://youtu.be/TrnjGz6dC2o&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Kubernetes as a distributed JVM by Bilgin Ibryam
+https://youtu.be/ERSGc8OzJmw&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Migrating to Modules by Mark Reinhold
+https://youtu.be/g5OM1skiuew&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Modular Development with JDK 9 by Alex Buckley
+https://youtu.be/HLPPXlhPzHE&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Prepare for JDK 9 by Alan Bateman
+https://youtu.be/uSR5JroBp34&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Reliability and Resilience in the Cloud by Mallika Iyer
+https://youtu.be/F4y7cbaQKXo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Spinnaker   get control over your deployements by Gard Rimestad & Matthew Duftler
+https://youtu.be/0LQ34uW5Bl0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Path of Secure Software by Katy Anton
+https://youtu.be/IjKIK1GWKKY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Web Components for Java Developers by Matti Tahvonen and Teemu Suo Anttila
+https://youtu.be/seUKP1iTSuw&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+What Developers should Know about Design by Erwin de Gier
+https://youtu.be/vsEoFAMxLNU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+Videos 151-175

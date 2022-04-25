@@ -1,0 +1,40 @@
+
+Authentication in React #1 - Understanding JWT
+https://youtu.be/b5JLSxTzmXU&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #10 - Updating isLoggedIn Global State
+https://youtu.be/Dzt7m_aUFKE&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #11 - Toggle Menu Item Based on Login Status
+https://youtu.be/5ZtisXMf6Mw&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #12 - Protecting Client Side Routes
+https://youtu.be/_ZcPTd7i38Q&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #13 - Maintaining Authentication on Refresh
+https://youtu.be/5j5Win7TXc8&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #2 - Creating JSON Web Token
+https://youtu.be/db_cg5xOSLs&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #3 - Save Token to Local Storage
+https://youtu.be/1AlWi-F6AV4&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #4 - Verifying the Token
+https://youtu.be/SBw8TXZUfKY&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #5 - Implementing Authentication Middleware
+https://youtu.be/9aj5ZRNJrZM&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #6 - Sending Headers from Client to Server
+https://youtu.be/06Q6yeuJNXY&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #7 - Set Default Authentication Headers
+https://youtu.be/TtlJchd673c&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #8 - Browser Router
+https://youtu.be/pv3zqn2uwao&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+
+Authentication in React #9 - Setting Up Redux
+https://youtu.be/65MrPKIteto&list=PLDMXqpbtInQg2DNxyK9QoMp-9iRJhhxxC
+React Authentication (JWT)

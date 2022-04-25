@@ -1,0 +1,76 @@
+
+UNET Part 22 - Host & Join Game Buttons
+https://youtu.be/qefihBC7gyw
+
+[10] Layers and Visibility - How To Make A Game
+https://youtu.be/ITKgfNKNb-4
+
+[11] Layers & Detection - How To Make A Game
+https://youtu.be/e3OimELNyMc
+
+[12] Walk Through Walls - How To Make A Game
+https://youtu.be/VqRkW00MMNo
+
+[13] Triggers - How To Make A Game
+https://youtu.be/2kD4dV8fIA4
+
+[14] Accessing Scripts - How To Make A Game
+https://youtu.be/6WB-sJfqc2U
+
+[15] Materials & Color - How To Make A Game
+https://youtu.be/nq9nAagN3YE
+
+[16] Instantiate - How To Make A Game
+https://youtu.be/QmZkVTqAlNI
+
+[17] Add Force - How To Make A Game
+https://youtu.be/6oCV1ZpZks8
+
+[18] Collision Detection - How To Make A Game
+https://youtu.be/8c1OCD5w_NQ
+
+[19] Overlap Sphere - How To Make A Game
+https://youtu.be/KiIul4JFXqw
+
+[20] Explosion Force - How To Make A Game
+https://youtu.be/rCEVmh5YYpk
+
+[21] NavMesh - How To Make A Game
+https://youtu.be/7uQnOmXv_YY
+
+[22] AI That Pursues - How To Make A Game
+https://youtu.be/HDVAXBXciFI
+
+[23] Cursor Lock State - How To Make A Game
+https://youtu.be/47MJ-WWNYRk
+
+[24] Enemy Spawner - How To Make A Game
+https://youtu.be/zTbif40EONU
+
+[25] Events - How To Make A Game
+https://youtu.be/oeyRt_e80-Q
+
+[26] Clean Up - How To Make A Game
+https://youtu.be/ZwmH50rhZeE
+
+[27] Your Assignment - How To Make A Game
+https://youtu.be/e4rbg9rWVQw
+
+[28] Intro To Chapter 2 - How To Make A Game
+https://youtu.be/AMJXm9o-wko
+
+[5] Finding & Accessing - How To Make A Game
+https://youtu.be/tdKhgcoTw74
+
+[6] Delaying Code - How To Make A Game
+https://youtu.be/3rEcXnxP4o8
+
+[7] Input - How To Make A Game
+https://youtu.be/39o1lVD_i6c
+
+[8] Raycast - How To Make A Game
+https://youtu.be/RJixa0wITU0
+
+[9] Tags - How To Make A Game
+https://youtu.be/W4FRENtc7X4
+Videos 251-275

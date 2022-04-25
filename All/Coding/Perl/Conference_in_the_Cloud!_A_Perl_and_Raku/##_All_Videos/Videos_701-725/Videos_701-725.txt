@@ -1,0 +1,76 @@
+
+Breno de Oliveira   DataPrinter   A New Look on Dumping Variables
+https://youtu.be/IErlsZO1Dww
+
+Breno de Oliveira   The Perl from Ipanema
+https://youtu.be/jRjjvHppHMA
+
+chromatic   When Wrong is Better
+https://youtu.be/Na61MsDGhaA
+
+Daisuke Maki   STF   Serve Billions Of User Uploaded Media On PSGI and Commodity Hardware
+https://youtu.be/_SR4xAY7eno
+
+Dan Wright   Perl Foundation Treasurer
+https://youtu.be/mc4-AsGVPXI
+
+Dan Wright   So, you want to run a Perl event
+https://youtu.be/F476qz3eSI0
+
+David Mertens   Interactive Data Analysis with Prima and PDL
+https://youtu.be/IE-vnnRWiOg
+
+David Mertens   Introduction to the Perl Data Language
+https://youtu.be/rf1yfZ2yUFo
+
+Frew Schmidt   DBIxClass   the whirlwind overview
+https://youtu.be/Vm_NlfHNVvg
+
+Gerda Shank   HTML forms with FormHandler
+https://youtu.be/NL2M8yomwjo
+
+Graham Knop   The Lacuna Expanse
+https://youtu.be/HnEM4D7N2IQ
+
+Ingy döt Net   Stackato   Bringing the Cloud Back Home
+https://youtu.be/fiGurzlzfvY
+
+Ingy döt Net   The State of the Acmeism in 2012
+https://youtu.be/5Hr22lHJ9lY
+
+James E Keenan   Perl Testing 101 82% of What You Need to Be a Competent Perl Tester
+https://youtu.be/A31VhNeGaw0
+
+Jan Dubois   Hands on Stackato Workshop with Ingy n Jan
+https://youtu.be/dtDEKs2clGs
+
+Jeffrey Thalhammer   Creating And Managing A Private CPAN With Pinto
+https://youtu.be/oaBBVZFhJUk
+
+Jesse Luehrs   Dependency Injection with BreadBoard
+https://youtu.be/DhhaOQWoOpw
+
+John Napiorkowski   What I Learned Teaching Perl for Advocacy
+https://youtu.be/DQrcNn4iXok
+
+Jonathan Swartz   CHI Universal caching for Perl
+https://youtu.be/9fb3kpzOWxI
+
+Josh Jore   Practical Tools for Perl Emergencies
+https://youtu.be/qRbTH3fvceY
+
+JT Smith   Welcome to YAPCNA 2012
+https://youtu.be/0T9T1hzj6SI
+
+Juan Natera   Custom Facebook Integration
+https://youtu.be/0PKlc80Eujg
+
+Kartik Thakore   Perl, Medical Research and Maple Syrups
+https://youtu.be/8GULMOrfuxs
+
+Kip Hampton   Stop Making The Web Harder Than It Is; Real world REST, HATEOAS, and Hypermedia APIs with Magpie
+https://youtu.be/frSFkC6lEwg
+
+Larry Wall   One On One With The Great One
+https://youtu.be/WIcbMy4XXCo
+Videos 701-725

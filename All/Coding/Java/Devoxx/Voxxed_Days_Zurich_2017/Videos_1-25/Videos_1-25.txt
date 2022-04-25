@@ -1,0 +1,76 @@
+
+1 year of PaaS usage at SBB lessons learned by Philipp H. Oser and Tobias Denzler
+https://youtu.be/1EhG2ulzp5M&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+A practical introduction to category theory by Daniela Sfregola
+https://youtu.be/DsACb1HCcEA&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Billing the cloud Real world stream processing by Pierre-Yves Ritschard and Marc-Aurèle Brothier
+https://youtu.be/7vLBZU1s4nU&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Does diversity really matter by Sombra González and Brigitte Hulliger
+https://youtu.be/dNl7XNL9oQI&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Engineering You - Keynote by Martin Thompson
+https://youtu.be/cJDcPeQG7Bw&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Event-driven task automation of Java and Spark jobs with Mesos by Florian Froese
+https://youtu.be/RA5YjfiCyzw&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+ExtendJ An Extensible Java Compiler by Jesper Öqvist
+https://youtu.be/jP76MF59mgo&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Extracting knowledge from cryptocurrencies by Michele Spagnuolo
+https://youtu.be/irrHP6yF9_I&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+g ∘ f patterns by Mario Fusco
+https://youtu.be/zmU_ULBzZTQ&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+High performance in Android by Enrique López Mañas
+https://youtu.be/Punm3E2TrBE&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+How Modern SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder
+https://youtu.be/wTPGW1PNy_Y&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+How to defend from an attacker armed with a mathematician by Antonio Sanso
+https://youtu.be/Ho_COj92GYI&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+I just hacked your app! by Marcos Placona
+https://youtu.be/BbeZmZ7_YE0&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Java 9 Is Coming!  by Nicolai Parlog
+https://youtu.be/vOdFuvIyN0E&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Java EE 8 - What's coming by David Delabassee
+https://youtu.be/yW1E42HQIw4&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Javaslang - Functional Java Done Right by Grzegorz Piwowarek
+https://youtu.be/NxbatgLY3V4&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Loading Modules Everywhere! by Gion Kunz
+https://youtu.be/m8j8VzPTmKM&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Monitoring Microservices applications on OpenShift by Thomas Heute
+https://youtu.be/GRneSKI_xUg&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Real-World Enterprise REST API Design by Laurent Bovet
+https://youtu.be/QQKoO_F_JpY&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Spring Framework 5 Themes & Trends by Juergen Hoeller
+https://youtu.be/pukAOfnouPc&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Streaming all the things with Akka Streams by Johan Andrén
+https://youtu.be/jTUkmvPMlUE&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+The many shapes of Polymorphism by Luca Molteni
+https://youtu.be/7PfNo-FMIf0&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+The truth about code reviews by Sebastian Greulach
+https://youtu.be/35iBUEIYHU8&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Using Java 8 Lambdas and Stampedlock to manage thread safety by Heinz M. Kabutz
+https://youtu.be/c3_j5cPcRAI&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+What about CSS Progressive Enhancement and CSS by Ire Aderinokun
+https://youtu.be/xStk7gSr8Ek&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+Videos 1-25

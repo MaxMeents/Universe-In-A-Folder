@@ -1,0 +1,76 @@
+
+Introduction of Shiny Web Application Framework in R  How to make shiny apps
+https://youtu.be/sJl0EE_RE4o
+
+R Programming Creating and adding calculated column to dataset  dataframe Dataset and Dataframe
+https://youtu.be/CsFRM1_heM4
+
+R Programming Creating bins or ranges from numeric data in R Programming   R Bins  R Ranges
+https://youtu.be/Ik0R_H__LZ4
+
+R Programming Creating Joins on Datasets or Data frames Datasets Data Frames
+https://youtu.be/tiFMmnoDzzc
+
+R Programming Hypothesis testing in theory R  Hypothesis testing theory
+https://youtu.be/RV8h9B4BV8k
+
+R Programming Identifying duplicate rows in dataset and removing them
+https://youtu.be/LKoknpFOEUw
+
+R Programming Removing NA values from Dataset in R Removing NA values from Dataframes in R
+https://youtu.be/N6wrEULE6M0
+
+R Programming Sorting and Ordering data - R Programming  R Sorting  R Ordering Data
+https://youtu.be/pBEvB62FDaQ
+
+R Programming Tutorail  Shiny Button Object with eventReactive  How to make shiny apps
+https://youtu.be/wxT2ZmJqGAY
+
+R Programming Tutorial  Automating Bar Chart in Shiny  How to make shiny apps
+https://youtu.be/BQK8Pw1wVUo
+
+R Programming Tutorial  Creating Data Tables in Shiny  How to make shiny apps
+https://youtu.be/AFau9WJbZj4
+
+R Programming Tutorial  Creating histogram in Shiny  How to make shiny apps
+https://youtu.be/hb_XAIBzplE
+
+R Programming Tutorial  DataFrame and Matrix aggregation functions in R  R Programming
+https://youtu.be/Mc2eNpOS530
+
+R Programming Tutorial Combining multiple datasets in R  R Multiple Datasets
+https://youtu.be/_qJpnrvYbK4
+
+R Programming Tutorial Exploring Apply function in Greater details R Apply Function
+https://youtu.be/3RXJhMq9jFY
+
+R Programming Tutorial Exporting R Object Data in MS Excel How to Export Data from R to excel
+https://youtu.be/HOfT6IZnsCc
+
+R Programming Tutorial Fetching Data from Vector & Matrix R Vector R Matrix
+https://youtu.be/AWeAs622y6s
+
+R Programming Tutorial Importing excel data in R How to import Data from Excel to R
+https://youtu.be/UhEJzKFXoHA
+
+R Programming Tutorial Interpretation of statisitcal terms in Linear Regression
+https://youtu.be/QuXN9oKL48Y
+
+R Programming Tutorial R analysis output in Excel or Text File R Output Analysis
+https://youtu.be/H5ndzt2xciw
+
+R Programming Tutorial R Apply family functions Family Functions in R
+https://youtu.be/pS4AkSBomBo
+
+R Programming Tutorial Simple Linear Regression in R R Function
+https://youtu.be/vFPqCPsN5FA
+
+R Programming Tutorial Ways to get help in R  R Help Help Function in R
+https://youtu.be/unTjebI7mNw
+
+R Programming TutorialHow to install and use packages in R Install R Packages Use R Packages
+https://youtu.be/IW1eY2lt2ds
+
+R Shiny Tutorial HTML Tags in Shiny  R Programming Tutorial  How to make shiny apps
+https://youtu.be/yfr2ZzktUL0
+Videos 851-875

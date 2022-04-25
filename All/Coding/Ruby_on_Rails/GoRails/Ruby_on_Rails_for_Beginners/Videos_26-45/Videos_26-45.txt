@@ -1,0 +1,61 @@
+
+How to build a Multithreaded HTTP Server in Ruby from Scratch  Preview
+https://youtu.be/6Zpq7R51Rfs&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+HTTP Server from Scratch Rack & Rails Support  Preview
+https://youtu.be/XmpP5IQy-gI&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 25 Twitter Account Model
+https://youtu.be/o48-i4m6W78&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 26 Table Plus
+https://youtu.be/0jhSV6BQJXg&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 27 Twitter Accounts Page
+https://youtu.be/IUFRC9RXs_Y&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 28 Setting Records with Before Actions
+https://youtu.be/1cGrocFSGIE&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 29 Tweets Index & New Actions
+https://youtu.be/dYx0mUDK1Xc&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 30 Tweet Validations
+https://youtu.be/B7Rq4538W1o&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 31 Tweet Partial
+https://youtu.be/jxsf6-bWJcY&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 32 Edit and Destroy Tweets
+https://youtu.be/IG-lEKwv_fE&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 33 Twitter API
+https://youtu.be/tvDq_JJenjs&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 34 Background Job for Posting Tweets
+https://youtu.be/vvNJlgiQtGQ&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 35 Editing Tweets
+https://youtu.be/4D3Ub3_e3EA&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 36 Background Jobs with Sidekiq
+https://youtu.be/aaGSh38nzq8&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 37 Creating a GitHub Repo to store our code
+https://youtu.be/YJM5pl_Xlxs&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 38 Deploying to Heroku
+https://youtu.be/bQ2wXZf9irA&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 39 Dependent Destroy Model Associations
+https://youtu.be/TZkRZsLsjFM&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+Rails for Beginners Part 41 Next Steps
+https://youtu.be/ZxuUAUQGdN8&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+[OLD] Rails for Beginners Part 27 Twitter Accounts Page
+https://youtu.be/06jOyisd_bA&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+
+[OLD] Rails for Beginners Part 40 OmniAuth CSRF Protection
+https://youtu.be/NDxvUeseqXk&list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56
+Videos 26-45

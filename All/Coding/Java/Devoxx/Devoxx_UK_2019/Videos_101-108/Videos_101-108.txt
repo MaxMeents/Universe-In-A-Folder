@@ -1,0 +1,25 @@
+
+A quick look at Quarkus's runtime options by Laurent Doguin
+https://youtu.be/aT_z0LRINo4&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Bert Jan Schijver interviews Pieter van der Meer at Devoxx UK
+https://youtu.be/wn_-AxYD3co&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Bert Jan Schrijver interviews Edward Kent & Paul Doran at Devoxx UK
+https://youtu.be/br_fXJWpWmo&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Bert Jan Schrijver interviews Guy Royse at Devoxx UK
+https://youtu.be/QtbxPjpYOT0&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Cool things to do with Alexa (and lots of things you can't) by Sarah Saunders
+https://youtu.be/JmnQdT9HAUw&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Keep Yourself Alive Stopping the Effects of Burnout by Heather Wilde
+https://youtu.be/zS-QsLsQGsI&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Securing Serverless by breaking in by Simon Maple
+https://youtu.be/5L_jXkFZmYw&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+
+Snowflake Developer by Ixchel Ruiz
+https://youtu.be/E-mvDK-8tj0&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU
+Videos 101-108

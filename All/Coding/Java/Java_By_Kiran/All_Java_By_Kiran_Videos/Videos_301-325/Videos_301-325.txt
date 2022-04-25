@@ -1,0 +1,76 @@
+
+Abstraction part  2-By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/sSOD2HF2lug&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Basic first day 15 - 05 -2019 -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/zGkPZkoeUkE&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Basic Session 22 May 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/PUMgR0-NdD0&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Collection 4 -17 April 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/JCPJcfLJlEk&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Constructor 4 June 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/4WIjg_Gl8z0&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Cucumber 18 May 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/0Q6rqdfcl2Q&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Debugging factorial program --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/MugGRQhOJ4c&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Exception part 1 16 - 05- 2019 -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/Aojw1CEH-10&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Inheritance - - A a = new B() Meaning - By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/-RtvAgBCDh4&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Input output stream 27 - 05 - 2018 -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/1vg967NdkoQ&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Interface 13 05 2019 - By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/fp4pc1aWhl0&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Jenkin  22 Sept 2018-By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/php_-O0frdg&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Log4j 19th may 2019 -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/zEkML5WcIAY&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Maven Basics -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/3pNtIByt04w&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Method calling part one -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/Qdx6kLWbEjg&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Methods session 21 May 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/Aq5d13PU540&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Package Session 24 May 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/jb3Fu-5_kB0&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Private video
+https://youtu.be/awNB8JABsqg&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Python basic first session -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/yHbuLICgsOI&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Reflection 29 05 2019-By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/zYe9Bg-QXcI&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Serialization 19 April 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/kJxYo-u4HLQ&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Spring IOC - 20 April 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/O6M_5tZwjwY&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+String String buffer string builder -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/u8ogfjbzwcU&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Thread Session 29 April 2019 --By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/92nU75irK9A&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Thread session-2--30 April 2019 -By Kiran Sir-JAVA By Kiran,Pune
+https://youtu.be/2_1PjGcdFnc&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+Videos 301-325

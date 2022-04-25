@@ -1,0 +1,76 @@
+
+Easy Loading Scene  Level Load Screen Progress Indicator
+https://youtu.be/H_0I9h4gHco
+
+Improve your Unity3D Inspector with Attributes
+https://youtu.be/9udeBeQiZSc
+
+Intro to the Unity3D Video Player & The different ways to play video
+https://youtu.be/mRLfyc5Mi7U
+
+Reduce your Unity Build Size with some quick shrinking Tips (mobile, windows, etc)
+https://youtu.be/7O21c8BzEzM
+
+SOLID Unity3D - Single Responsibility Principle
+https://youtu.be/Eyr7_l5NMds
+
+Trying out Odin Inspector in Unity3D - A mini review
+https://youtu.be/e5qwU7_59Ro
+
+UNET Basics - How to get started with Unity3D Networking
+https://youtu.be/0H_ikQp9aTI
+
+Unity & UNET - LAN Game Discovery - Networking
+https://youtu.be/aFttCm9649A
+
+Unity 101 - Using the Unity Profiler to optimize performance
+https://youtu.be/fROTtgZK-Zs
+
+Unity 101 5 ways to move Unity3D Objects
+https://youtu.be/tNtOcDryKv4
+
+Unity UGUI Interface Keyboard Navigation
+https://youtu.be/NYhF3lyC7_8
+
+Unity3D - An interesting Simple Injection System
+https://youtu.be/DVDV93Zkong
+
+Unity3D - Custom Inspector Buttons - How & Why to use them
+https://youtu.be/S0uzASrr_-A
+
+Unity3D - Load Scene by name from InputField
+https://youtu.be/gxRlswN8rO4
+
+Unity3D - Reduce memory footprint with the Memory Profiler
+https://youtu.be/cY00DFgQ2no
+
+Unity3D - SOLID Code - Open Closed Principle
+https://youtu.be/wYkzeKghjsI
+
+Unity3D - UI Model Display  Character Select UI
+https://youtu.be/ma-qIQ4p3Jg
+
+Unity3D - UNET - How to Build a Custom UI
+https://youtu.be/zba40qn2M2w
+
+Unity3D 101 - The Transform Tool (including the new version)
+https://youtu.be/Yw7M9KOcd4Y
+
+Unity3D 101 Spawning Objects from prefabs, resources, and pools
+https://youtu.be/9KOHclqSmR4
+
+Unity3D Prefabs - 101 - How to use them & why you should
+https://youtu.be/46BxZNP0WXk
+
+Unity3D Rants - Small Classes, Partials, Invoking, & more..
+https://youtu.be/wIhqaDq-Blg
+
+Unity3D SOLID Principals - Liskov Substitution Principal
+https://youtu.be/eXPBR3WlRGY
+
+Unity3D SOLID Principles - Dependency Inversion Principle
+https://youtu.be/fGshe3ILKnA
+
+Unity3D Textures  Art - How to get free PBR Materials
+https://youtu.be/3dchx1OILJ4
+Videos 401-425

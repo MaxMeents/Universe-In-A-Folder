@@ -1,0 +1,76 @@
+
+10 tips to become an awesome Technical Lead by Bart Blommaerts
+https://youtu.be/4TmSIPmf3sE&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+55 New Features In JDK 9 by Simon Ritter
+https://youtu.be/9EiLRD95zDg&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+A reasonable overview of Java 9 and how you could think of it by Oleg Šelajev
+https://youtu.be/VVU39dJfQ04&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Apache Spark If only it worked by Marcin Szymaniuk
+https://youtu.be/jqAnidsuhTY&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Automate your docs, automate yourself by Chris Ward
+https://youtu.be/S8Q5Z02B9yA&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Autoscaling in Kubernetes by Maciej Pytel
+https://youtu.be/y9CYnjlWKok&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Concurrency Concepts in Java by Douglas Hawkins
+https://youtu.be/ADxUsCkWdbE&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Cracking the Code to Secure Software by Daniel Sawano and Daniel Deogun
+https://youtu.be/j0M9Vpje5R4&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Crash Coaching - Agile coaching for dangerous feedback by Ove Lindström
+https://youtu.be/O1_mrp-1irg&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Devoxx Poland 2017 Opening by Grzegorz Duda
+https://youtu.be/P8N9V-baZe8&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Four Distributed Systems Architectural Patterns by Tim Berglund
+https://youtu.be/BO761Fj6HH8&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Learning to fly by Krzysztof Kudrynski and Blazej Kubiak
+https://youtu.be/RFClcxX95fE&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Microservices - the naked truth of the maintainability by Jakub Kubrynski
+https://youtu.be/YQp85GzoxqA&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+OpenJ9 Under the hood of the next open source JVM by Bjørn Vårdal
+https://youtu.be/96XoG6xcnys&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Polytech Careerism by Ted Neward
+https://youtu.be/GKhvS_F4U4A&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+PsyPhilProg by Ted Neward
+https://youtu.be/daOKYdlWx8E&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Reactive programming in Java by Venkat Subramaniam
+https://youtu.be/ZNXCmG2MTzw&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Reactive Spring by Juergen Hoeller and Josh Long
+https://youtu.be/qWlICJg1V8o&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Resilient Architecture by Matt Stine
+https://youtu.be/vKSujqS80X0&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Security and Microservices by Sam Newman
+https://youtu.be/SvPEE-DXNvc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Speed without Discipline a Recipe for Disaster by Venkat Subramaniam
+https://youtu.be/pnRAnP8MgBc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Spring Framework 5 Themes & Trends by Juergen Hoeller
+https://youtu.be/ETFe3KiYwt8&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+The Art of Clean Code by Victor Rentea
+https://youtu.be/MADng0g2m74&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+The Language of Actors by Vaughn Vernon
+https://youtu.be/GgM8pp2et0A&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+To the Cloud by Nate Schutta
+https://youtu.be/BTOSKjmYHPI&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+Videos 76-100

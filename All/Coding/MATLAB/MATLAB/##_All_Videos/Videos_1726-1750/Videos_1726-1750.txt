@@ -1,0 +1,76 @@
+
+Creating a Gear Defect Detector Using Simulink and Raspberry Pi
+https://youtu.be/wP97xWukuKI
+
+Creating an Oscillating Fan Using Simulink and Arduino
+https://youtu.be/Ho-R4CJAyi4
+
+Custom Target Development for ARM Cortex A, Part 1 Overview
+https://youtu.be/cg238caUd8c
+
+Custom Target Development for ARM Cortex A, Part 2 Register Target
+https://youtu.be/Bt2W2-r5sm0
+
+Custom Target Development for ARM Cortex A, Part 3 Application Deployment Feature
+https://youtu.be/7j6RwdoI66s
+
+Custom Target Development for ARM Cortex A, Part 4 Scheduler Feature
+https://youtu.be/c-hGQnEfesk
+
+Custom Target Development for ARM Cortex A, Part 5 Processor In the Loop PIL Feature
+https://youtu.be/xwcdV621rwc
+
+Custom Target Development for ARM Cortex A, Part 6 External Mode Feature
+https://youtu.be/QUHN8kpy5LU
+
+Custom Target Development for ARM Cortex A, Part 7 Code Optimizations
+https://youtu.be/-iT1fUrcr4w
+
+Custom Target Development for ARM Cortex A, Part 8 Overview of Profiling Capabilities
+https://youtu.be/DZ273zznDyA
+
+Frequency Domain Identification Improvements
+https://youtu.be/6Nh1zEPIvRw
+
+Getting Started with Portfolio Optimization in MATLAB 2016a
+https://youtu.be/YjSPVOPLj-w
+
+Getting Started with SimBiology in MATLAB 2016a
+https://youtu.be/O7_e5Dyhmm0
+
+Logic Analyzer Overview
+https://youtu.be/QvNkOvvuPp0
+
+MATLABによる画像処理・コンピュータービジョン R2016a 最新機能紹介
+https://youtu.be/HC5_Kc0rC68
+
+Mechatronics with MATLAB & Simulink, Part 5 Import Mechanics in 30 Minutes
+https://youtu.be/f38Arj-0lRE
+
+Mechatronics with MATLAB and Simulink, Part 6 Inverse Mechanics
+https://youtu.be/DdzTp3XYDGg
+
+Plotting Live Data of a Temperature Sensor using an Arduino and MATLAB
+https://youtu.be/7tcEs0QOiBk
+
+Raspberry Pi Can Speak Using Simulink
+https://youtu.be/xZX_8DaKvGc
+
+Release 2016b Highlights - MATLAB and Simulink Video
+https://youtu.be/ZAkm3_CBxAA
+
+Simulink Student Challenge 2016
+https://youtu.be/B3eZ7ZPRTmA
+
+Targeting a Corner Detection Design to FPGA Hardware
+https://youtu.be/DZJjVTtLJJM
+
+Understanding Wavelets, Part 4 An Example Application of Continuous Wavelet Transform
+https://youtu.be/GV34hKXDw_c
+
+Using MATLAB and Arduino to Make Function Graphing Fun
+https://youtu.be/9QseE-FXIEc
+
+Using String Arrays for Text Data - MATLAB Video
+https://youtu.be/DXiUb6EuDhw
+Videos 1726-1750

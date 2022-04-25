@@ -1,0 +1,76 @@
+
+10 tips to become an awesome Technical Lead by Bart Blommaerts
+https://youtu.be/yhtK1jQC_4s
+
+Angular Let's get Reactive! by Wassim Chegham
+https://youtu.be/mMfwnJn20uQ
+
+Building Real time Data in Web Applications with Graal js by Christian Wirth and Dan McGhan
+https://youtu.be/vRV6qy2BlbU
+
+Continuous Delivery with Containers The Good, the Bad, and the Ugly by Daniel Bryant
+https://youtu.be/t3vOSMeFqLk
+
+Documentation as code (explained to my dad) by Hubert Sablonnière
+https://youtu.be/ggBv_pZDu0c
+
+Dr. Strangecode by Alex Snaps
+https://youtu.be/vVheDbrQBDk
+
+From 0 $100 billion Inside lessons on how to scale your dev workflow by Michiel Michiel Toneman
+https://youtu.be/OMrASg7dx-E
+
+From Brown Field to Green Field by Stijn Vanpoucke
+https://youtu.be/JWtE4R7b9S4
+
+Get silly with serverless by Guillaume Laforge and Bret McGowen
+https://youtu.be/7NjRqMYH11s
+
+JUnit 5 — The New Testing Framework for Java and Platform for the JVM by Marc Philipp, Sam Brannen
+https://youtu.be/oGaatK5ShUs
+
+Kafka as a Message Queue can you do it, and should you do it by Adam Warski
+https://youtu.be/-As92HV0O4E
+
+Kotlin for Java Programmers by Venkat Subramaniam
+https://youtu.be/7EVXypZDOos
+
+Kubernetes as a distributed JVM by Bilgin Ibryam
+https://youtu.be/ERSGc8OzJmw
+
+Let it go! or How to become a free software developer by Mélanie Bats
+https://youtu.be/BIgFeQumSlM
+
+Modular Development with JDK 9 by Alex Buckley
+https://youtu.be/HLPPXlhPzHE
+
+Modules in One Lesson by Mark Reinhold
+https://youtu.be/IokevuiEKCY
+
+Plain Functional Programming by Martin Odersky
+https://youtu.be/YXDm3WHZT5g
+
+Prepare for JDK 9 by Alan Bateman
+https://youtu.be/uSR5JroBp34
+
+Scala js getting the best of JavaScript and Scala by Sébastien Doeraene
+https://youtu.be/3zPd24u5Kxc
+
+Serverless Deep Dive by Bert Ertman
+https://youtu.be/85S39yxe3sY
+
+Streaming Database Changes with Debezium by Gunnar Morling
+https://youtu.be/IOZ2Um6e430
+
+Video Games are for idiots by Laurent Victorino
+https://youtu.be/uI0MI4xZWQU
+
+What if everything was a database  by Oleg Selajev
+https://youtu.be/7_3noP8nrP0
+
+Why Spring ❤ Kotlin by Sébastien Deleuze
+https://youtu.be/kbMXAjWEft0
+
+Zen Habits of using IntelliJ IDEA by Victor Kropp
+https://youtu.be/MZge92bbU7E
+Videos 1576-1600

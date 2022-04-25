@@ -1,0 +1,76 @@
+
+C Programming Tutorial - Identifiers
+https://youtu.be/dcSu6zwZkhU
+
+C Programming Tutorial - Keywords
+https://youtu.be/MNvIKbIgQPw
+
+Dictionary Basic Operations  Insert  Access  Python 2  Python 3
+https://youtu.be/dpDDQiZpx34
+
+List Comprehension in Python Programming  Example
+https://youtu.be/fnJOBQbc7Qg
+
+Python Pattern Program - Printing Stars in Pyramid Shape Using while loop
+https://youtu.be/P-mCpH5f3js
+
+Python Pattern Program - Printing Stars in Right Triangle Shape Using while loop
+https://youtu.be/P2Gs2U2_sHI
+
+Python Pattern Programs - Floyd's Triangle  Printing Numbers in Right Triangle Shape
+https://youtu.be/0fLYdt9L8cI
+
+Python Pattern Programs - Printing Numbers in Right Triangle Shape
+https://youtu.be/N02bYFj5ESM
+
+Python Pattern Programs - Printing Stars in Hollow Equilateral Triangle Shape  Pyramid Pattern
+https://youtu.be/yYAM2jhU8hg
+
+Python Pattern Programs - Printing Strings in Right Triangle Shape
+https://youtu.be/MirXmHQsMOk
+
+Python Tutorial  List Comprehension  Substitute for Lambda map filter and reduce function
+https://youtu.be/JEapLNRuzVo
+
+Python Tutorial - append vs extend methods
+https://youtu.be/XvIrmb3HS94
+
+Python Tutorial - Different Ways to Create Dictionaries in Python 2 and python 3
+https://youtu.be/0WkqO2gEIKs
+
+Python Tutorial - Fibonacci Series
+https://youtu.be/wN45AChk9U4
+
+Python Tutorial - Filter and Reduce Function
+https://youtu.be/1VDOH5EZsOY
+
+Python Tutorial - List Comprehension Definition And Syntax
+https://youtu.be/17gTGqHG5xQ
+
+Python Tutorial - Map and Lambda Function
+https://youtu.be/AHQo9jhOp1k
+
+Python Tutorial - Perfect Numbers  Program to Check Entered Number is Perfect or Not
+https://youtu.be/UZrY53uOAHg
+
+Python Tutorial - Prime Numbers  Printing Prime Numbers in Given Interval
+https://youtu.be/KdiWcJscO_U
+
+Python Tutorial - Prime Numbers  Program To Check Entered Number is Prime or Not
+https://youtu.be/je9FcxgLBf4
+
+Python Tutorial - Program to Print Perfect Numbers in Given Interval
+https://youtu.be/dFIutdyjhKg
+
+Python Tutorial - Program To Swap Two Numbers With or Without Using Third Variable
+https://youtu.be/NyeQXuonDek
+
+Python Tutorial - range vs xrange function
+https://youtu.be/d_mxzMas2p8
+
+Variable Declaration in C Programming  Video Tutorial
+https://youtu.be/gc9b3LKVZTs
+
+Variable in C Programming  Video Tutorial
+https://youtu.be/Z70yKRw1m0A
+Videos 301-325

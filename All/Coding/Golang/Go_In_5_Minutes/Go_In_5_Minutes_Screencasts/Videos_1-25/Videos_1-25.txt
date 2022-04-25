@@ -1,0 +1,76 @@
+
+Buffalo Series #1 - Getting Started with Buffalo to Build Awesome Websites (Episode 21)
+https://youtu.be/ZIVt9nghY3Y&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Buffalo Series #2 - Advanced Routing with Buffalo - (Episode 22)
+https://youtu.be/HOSDxHMiHLk&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Buffalo Series #3 - Resource Paths in Buffalo (Episode 24)
+https://youtu.be/GZAH1qlcwdU&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Buffalo Series #4 - Templating in Buffalo with Plush (Episode 25)
+https://youtu.be/VMi0mDtLCq4&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Building a RESTful API in Go Using Only the Standard Library (Episode 1)
+https://youtu.be/eTjNtNnVOGY&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Building Full Stack Web Applications in Go (Episode 5)
+https://youtu.be/QvWUCYwmExE&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Building REST APIs in Go Separating Concerns (Episode 11)
+https://youtu.be/xRF0xdouqT8&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Commonly used & popular packages and Frameworks for Real Life Go Development (Episode 23)
+https://youtu.be/nO2JtrMvTQE&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Concurrency in Go Eating Tapas (Episode 12)
+https://youtu.be/O8c8kDB8Iy8&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Concurrency in Go The Daily Walk (Episode 10)
+https://youtu.be/ylWpMN3UREo&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Debugging Go Programs with godebug (Episode 2)
+https://youtu.be/LQi0N0nA5RA&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Parsing Unknown JSON Input (Episode 19)
+https://youtu.be/52yMK6p_cAg&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Profiling Your Go Programs (Episode 8)
+https://youtu.be/7LCgsfHlMv4&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+The Optional Singleton Pattern in Go (Episode 9)
+https://youtu.be/kZ1YwEH-OdQ&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Using Subtests in your Go Programs (Episode 16)
+https://youtu.be/vwPPuEjXY-A&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Using the databasesql Package (Episode 13)
+https://youtu.be/nros7z5z-7M&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Using the error Interface for Richer APIs (Episode 17)
+https://youtu.be/R3Dp2x7BrtE&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Vendoring Your Dependencies in Go (Episode 7)
+https://youtu.be/AIo0UBcvnPg&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing Better Tests with Suites (Episode 20)
+https://youtu.be/z-LFbV8kiMM&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing Command Line Applications in Go (Episode 18)
+https://youtu.be/oeFrGpAjm8s&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing REST API Clients with Go (Episode 26)
+https://youtu.be/yJbrjz00COk&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing Testable Go Code and Fast Unit Tests with Mocking (Episode 0)
+https://youtu.be/mk4BCLimksY&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing Unit Tests for your nethttp Handlers (Episode 6)
+https://youtu.be/YmbbmyxSlcg&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing Webapps With Gorilla Mux (Episode 3)
+https://youtu.be/6Pl5Xrrne2c&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+
+Writing Websocket Servers with Gorilla Websockets (Episode 4)
+https://youtu.be/DJiOrGRsIKo&list=PLFP7SbLMoK_Zl3EIgDbDBJkgyAjKivGR1
+Videos 1-25

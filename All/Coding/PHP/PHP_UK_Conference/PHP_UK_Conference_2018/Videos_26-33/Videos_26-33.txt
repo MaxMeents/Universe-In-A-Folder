@@ -1,0 +1,25 @@
+
+PHP UK 2018 Conference - Amanda Folson - Zero to API with Lumen
+https://youtu.be/rwvptziuw7o&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Barney Hanlon - Command and (e)mission Control
+https://youtu.be/syCpDX4I8H8&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Bastian Hofmann - Getting started with Kubernetes
+https://youtu.be/bXRmFfuyxQ0&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Beau Simensen - Get Rolling Fast with Symfony Flex
+https://youtu.be/pm0wDHe_Fs0&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Chris Riley - The secrets of Cryptography
+https://youtu.be/gU0mAPywm7o&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Dave Stokes - MySQL 8 -- A New Beginning
+https://youtu.be/LMF2ESRxp7w&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Jenny Wong - Going Backstage on Community Trends Bug or Feature
+https://youtu.be/lma--k9Gbps&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+
+PHP UK Conference 2018 - Wim Godden - The why and the how of moving to 7.x
+https://youtu.be/l4Nb9xWxuc0&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz
+Videos 26-33

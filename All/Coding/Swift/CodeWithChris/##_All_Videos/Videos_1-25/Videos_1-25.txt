@@ -1,0 +1,76 @@
+
+Animating the Spotify UI
+https://youtu.be/moAzs13sRIU
+
+Beginner’s Guide to Designing Accessible UI - Figma Tutorial
+https://youtu.be/2wUP4cm38ec
+
+Choosing Photos from the Users Photo Library
+https://youtu.be/a05eLxsbCCw
+
+Design in Figma - Recreating the Spotify UI
+https://youtu.be/PmEd2Yn5j9U
+
+Getting Started with Unit Testing in iOS
+https://youtu.be/GBNHGOVi5fg
+
+Getting Started with Vapor 4 - A Beginner's Course
+https://youtu.be/RhYZh3rTMKU
+
+Getting Started with Vapor 4 Lesson 4
+https://youtu.be/N63nkT2JFsI
+
+Getting Started with Vapor 4 Lesson 5
+https://youtu.be/2JuqhabkAT8
+
+How to Create Responsive UI Grids  Learning Design Ep. 2
+https://youtu.be/dyzGqCv8Sbg
+
+How to Design Faster in Figma  Learning Design Ep. 1
+https://youtu.be/NhZDwZuCotI
+
+Introduction to WidgetKit - Lesson 1 Overview and Project Introduction
+https://youtu.be/8E6ztMBmBTk
+
+Introduction to WidgetKit - Lesson 2 Size Classes & Deep Links
+https://youtu.be/PJDVygBuOnE
+
+Introduction to WidgetKit - Lesson 3 TimelineProvider & Wrap-up
+https://youtu.be/uVb70ynCwEk
+
+Introduction to WidgetKit in SwiftUI - The Compilation Video
+https://youtu.be/H-MNG-GS8J0
+
+iOS Concurrency - Stewart Lynch - The Masterclass
+https://youtu.be/GvSeLajZZJ4
+
+iOS How to Access Contacts and Address Book (Contacts Framework)
+https://youtu.be/sHKir2ZMk5Q
+
+iOSSwift Concurrency Series 6 - Backporting to iOS 14
+https://youtu.be/JtOdOZWfAMQ
+
+Stewart Lynch's Menu Bar App -  The Dad Jokes
+https://youtu.be/CuMLpnjPr2Y
+
+Swift Concurrency Lesson 1 - Creating Models and an APIService
+https://youtu.be/S5PYdqfyroI
+
+Swift Concurrency Lesson 2 - VOODO and Creating the UI
+https://youtu.be/_tnbwaHpJpM
+
+Swift Concurrency Lesson 3 - Improving the User Experience
+https://youtu.be/1wT7CytZjx0
+
+Swift Concurrency Lesson 4 - Async and Await
+https://youtu.be/5oBiSNnSvdQ
+
+Swift Concurrency Lesson 5 - Parallel Concurrency with Async Let
+https://youtu.be/x4tmu8wkDXA
+
+Thank you for 500k subs!
+https://youtu.be/0nbdgzIGHAI
+
+Uploading Images to Firebase Storage (and retrieving them)
+https://youtu.be/YgjYVbg1oiA
+Videos 1-25

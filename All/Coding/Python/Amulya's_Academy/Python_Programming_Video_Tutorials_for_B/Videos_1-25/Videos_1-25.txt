@@ -1,0 +1,76 @@
+
+Downloading and Installing Python IDLE ( Python Shell )
+https://youtu.be/pfPCV7DXc5w&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+How to Run Python Programs  Video Tutorial
+https://youtu.be/skIy7ZhT_tk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Introduction to Python Programming Language  History  Why Study it
+https://youtu.be/IfW_hldiC5c&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+List Operations in Python Programming Tutorial
+https://youtu.be/VNvcBfQpRgY&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Lists  Python Programming video Tutorial
+https://youtu.be/yqT8oc_1urE&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming - Fundamental Concepts, Literals, Format
+https://youtu.be/e84YY7PFBPw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Arithmetic operators and Relational operators
+https://youtu.be/cYoi5CRPXYM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Control structures
+https://youtu.be/kIPpTYjareA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - for loop
+https://youtu.be/te6OVQw3ylk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Identifiers and keywords
+https://youtu.be/wwfvaAQZGbQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - if else Statements
+https://youtu.be/fNRUxURBgtk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Input-Output function and Comments
+https://youtu.be/sm1BqTvBCXY&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - List and List type  Nested List
+https://youtu.be/wpVXUtIVhOA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Lists  List Assignment and Copying
+https://youtu.be/DI9PxBUdScI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Loop Controls Break and Continue
+https://youtu.be/kGcmM5S9aGk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Membership Operators and Boolean operators
+https://youtu.be/ruaMMkTn6dM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Negative Index in List
+https://youtu.be/IxrI1rBj_lE&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Nested if statements  if elif else Ladder
+https://youtu.be/FxgdXXjn6B4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Operators  Unary and Binary
+https://youtu.be/dFWupqmluK0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Precedence and Associativity
+https://youtu.be/Em5bBQHrTGw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Sequences  Sequence Operation (part-1)
+https://youtu.be/21nUEHUgaA8&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Sequences  Sequence Operations (part-2)
+https://youtu.be/ZfaC7bMp1DQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - While loop
+https://youtu.be/qD610d5i1Qo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tuples  Python Programming Video Tutorial
+https://youtu.be/kxBXrdbGSvo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Variables  Python Programming  Video Tutorial
+https://youtu.be/7Mpfb0m4P-U&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 1-25

@@ -1,0 +1,76 @@
+
+#235 Python in your Browser with Skulpt
+https://youtu.be/8SPcKcCIGiE&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#236 Scaling data science across Python and R
+https://youtu.be/vZXhiCyclLs&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#237 A gut feeling about Python
+https://youtu.be/FvnO7l0UMOc&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#238 Collaborative Data Science with Gigantum
+https://youtu.be/lkPYDOuFAcg&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#253 Moon base geekout
+https://youtu.be/6nSIjAFyBb4&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#254 a Python Mentorship Story
+https://youtu.be/KdnHJahTg4Y&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#257 Exploring the galaxy with the fastest supercomputer, Python, and radio astronomy
+https://youtu.be/veKYjqVjONE&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#266 - Refactoring Your Code like Magic with Sourcery
+https://youtu.be/NazqbX90Fb4&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#267 15 Amazing PyTest Plugins
+https://youtu.be/OEkqWaP5RJI&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#269 Holoviz - a Suite of Tools for Python Visualization
+https://youtu.be/wwZBO796r4s&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#270 Python in Supply Chains Oil Rigs, Rockets, and Lettuce
+https://youtu.be/EOar4EQNFYE&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#271 Unlock the Mysteries of Time, Python's Datetime That Is!
+https://youtu.be/Edg2OSVok-0&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#272 No IoT things in hand Simulate them with Device Simulator Express
+https://youtu.be/hkV-UfZk2-M&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#274 Profiling Data Science Code with FIL
+https://youtu.be/44Jk_ab4XMY&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+#278 Teach Kids Python with Real Programming and Fun Games at Code Combat
+https://youtu.be/lEwvIezLNCU&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+20 Recommended Packages in Review
+https://youtu.be/SOzR80eAt1M&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Cinder - Specialized Python that Flies - Talk Python Episode #347
+https://youtu.be/XHVaEj9fnA8&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Dear PyGui Simple yet Fast Python GUI Apps -  Talk Python Episode #348
+https://youtu.be/vw5aTVx4VVw&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Episode #265 Why is Python slow
+https://youtu.be/IwvcwIi88IQ&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Machine Learning Ethics and Laws Panel - Talk Python Episode #351
+https://youtu.be/v3wsy8hlX88&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Meet Beanie A MongoDB ODM + Pydantic - Talk Python Episode #349
+https://youtu.be/kWd7ErXMlqQ&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Pandas Tutor - Talk Python Live Stream
+https://youtu.be/_vPmMYSGAlU&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Running Python Applications in Production - Talk Python Episode #352
+https://youtu.be/fgXW3RF7dMw&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+Sphinx, MyST, and Python Docs in 2022 - Talk Python Episode #354
+https://youtu.be/_Lv_8QWwL8g&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+
+SQLModel The New ORM for FastAPI and Beyond - Talk Python Podcast Episode
+https://youtu.be/BTCtKWpNoRI&list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_
+Videos 51-75

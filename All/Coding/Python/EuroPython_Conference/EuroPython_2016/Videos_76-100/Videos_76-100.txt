@@ -1,0 +1,76 @@
+
+Adam Dangoor - Another pair of eyes Reviewing code well
+https://youtu.be/JWBBI-jFVOc&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Alexander Steffen - Writing unit tests for C code in Python
+https://youtu.be/zW_HyDTPjO0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Alexys JacobGuillaume Gelin - Planning for the worst
+https://youtu.be/Q8JRs_hPuZA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andreas Dewes - Analyzing Data with Python & Docker
+https://youtu.be/cK_oNI6VUHU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Anjana Vakil - Using and abusing Python’s double-underscore methods and attributes
+https://youtu.be/WKu7T976WkA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Anna Wszeborowska - Music transcription with Python
+https://youtu.be/9boJ-Ai6QFM&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fabien Bochu - Grocker, a Python build chain for Docker
+https://youtu.be/SZ_7Z7s6-H0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fabio Pliger - OMG, Bokeh is better than ever!
+https://youtu.be/T3vPQrUrRgs&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Floris Bruynooghe - Build your Microservices with ZeroMQ
+https://youtu.be/BC4aSBhBAKA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Iwan Vosloo - What's the point of Object Orientation
+https://youtu.be/M179-VQ2kxI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+iztok kucanJoris Peeters - Algorithmic Trading with Python
+https://youtu.be/dDMptG5YYyY&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+James Saryerwinnie - Writing Redis in Python with asyncio
+https://youtu.be/CF8zt8l6SeI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Joe Drumgoole - A deep dive into the Pymongo MongoDB driver
+https://youtu.be/2gee5oUAO14&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+John Kraal - High Availability Scaling with Share Nothing Architecture
+https://youtu.be/G1Z99GWvJCQ&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Jose Manuel Ortega - Ethical hacking with Python tools
+https://youtu.be/sC9N16E0a2E&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Katharine Jarmul - I Hate You, NLP... ;)
+https://youtu.be/vitEXiOuiEk&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Lauris Jullien - Asynchronous network requests in a web application
+https://youtu.be/LfbmcZ_NNVU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Naomi Ceder - Come for the Language, Stay for the Community
+https://youtu.be/cCCiA-IlVco&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Ralph de Wargny - High Performance Python on Intel Many-Core Architecture
+https://youtu.be/E5wGfSWbJoc&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Raphael Pierzina - Pytest 3.0
+https://youtu.be/HPUg31eylds&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Rogier van der Geer - How to conquer the world
+https://youtu.be/KDhvktUcehI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Sławomir Piasecki - Python in Astronomy
+https://youtu.be/TU5DvG7Fl04&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Valeria Pettorino - Unveiling the Universe with python
+https://youtu.be/1H5uU_lcdWQ&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Valerio Maggio - Data Formats for Data Science
+https://youtu.be/QgNDi1vsrtQ&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Yury Selivanov - asyncawait in Python 3.5 and why it is awesome
+https://youtu.be/m28fiN9y_r8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+Videos 76-100

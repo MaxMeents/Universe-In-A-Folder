@@ -1,0 +1,73 @@
+
+Behavior Driven Development in iOS Using Cucumberish
+https://youtu.be/u-cL6MFhAA0&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Creating Bar Graphs in SwiftUI
+https://youtu.be/fUJ5InOvIPg&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Creating Command Line Tools Using ArgumentParser in Swift
+https://youtu.be/HPM5AkGonRc&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Displaying SwiftUI Views in UIKit Apps Using UIHostingController
+https://youtu.be/Ent5zMwt-h4&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Find Nearby Landmarks in SwiftUI
+https://youtu.be/a1MbtRtjiuI&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Flutter for SwiftUI Developers - Building a Counter App
+https://youtu.be/jrSNU46KNoM&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Hello Vapor 4 (Server Side Swift)
+https://youtu.be/kJ1YS0NCHDI&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+How to stay updated with technology as a software developer
+https://youtu.be/oUofiMTfRcw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Image Classification in SwiftUI App Using Core ML and Pre-trained Model
+https://youtu.be/6i7RD1laExA&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Introduction to Mocking in iOS Using Swift
+https://youtu.be/KyopZ0etsAE&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Investing 101 - Passion, Money and Talent
+https://youtu.be/SGJ7ELeDSlw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Mapping Nested JSON to Flat Model in iOS Using Swift
+https://youtu.be/b5wVIQNrI6k&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+NEW COURSE - Machine Learning and Artificial Intelligence in Swift
+https://youtu.be/YPb85P4_lII&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Parsing JSON in Swift - Decoding Nested Children
+https://youtu.be/Ve_oGVo6X9U&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Passing Data from SwiftUI View to UIKit
+https://youtu.be/CNhcAz40Myw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Performing SwiftUI Validation Using ValidatedPropertyKit
+https://youtu.be/1UPaKbTIQJc&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI - Maps Integration and Find Nearby Places
+https://youtu.be/WTzBKOe7MmU&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI - The Complete Course
+https://youtu.be/nWcb3UvTw10&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Testing Asynchronous Code in iOS Using Swift
+https://youtu.be/kjHUZ5rypi4&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+The Complete Guide for Integrating Camera and Photo Library in SwiftUI
+https://youtu.be/Y-65T0YBOm4&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+trySwift World Conference
+https://youtu.be/EPjt0QZkYZU&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+User Interface Testing for SwiftUI Applications
+https://youtu.be/dFQtFJsvt04&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+View Model vs Model in MVVM Design Pattern
+https://youtu.be/1V37XQLoiIY&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Why iOS Developers are afraid of backend Development
+https://youtu.be/2FT1qiUys74&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+Videos 276-300

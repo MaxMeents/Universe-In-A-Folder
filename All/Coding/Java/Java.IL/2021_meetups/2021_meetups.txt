@@ -1,0 +1,10 @@
+
+A Tour of the Modern Java Platform  James Ward
+https://youtu.be/jALS67cfw_k&list=PLrnGDC_amFqX9cCBkVEG7I6cGouxpP9PC
+
+It is perfectly noORMal to use JDBI  Haim Yadid - Next Insurance
+https://youtu.be/jd3brL00j-c&list=PLrnGDC_amFqX9cCBkVEG7I6cGouxpP9PC
+
+PL - A Performance-oriented ORM  Gal Koren - Skai (formerly Kenshoo)
+https://youtu.be/rHIYVEgx-Fs&list=PLrnGDC_amFqX9cCBkVEG7I6cGouxpP9PC
+2021 meetups

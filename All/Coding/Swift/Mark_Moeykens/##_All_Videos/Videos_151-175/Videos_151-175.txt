@@ -1,0 +1,76 @@
+
+3 Methods of Masking Images (iOS, Xcode 8, Swift 3)
+https://youtu.be/xfrrZfbxFb0
+
+3 Quick Xcode Tips (iOS, Xcode 8, Swift 3)
+https://youtu.be/FrR4C-XGcjA
+
+Animating Gradients Like Instagram (iOS, Xcode 8, Swift 3)
+https://youtu.be/aC4ckcFedN4
+
+CONTEST WINNER!! (June 2017 Contest)
+https://youtu.be/rQCOWYDL2Mc
+
+Create a Horizontal UIPickerView! (iOS, Xcode 8, Swift 3)
+https://youtu.be/8EuoHAw_PBk
+
+I want YOU in my upcoming iOS video! --CONTEST!--
+https://youtu.be/qlcjTmK_G3c
+
+Make It Rain Or Snow Images With The CAEmitterLayer (iOS, Xcode 8, Swift 3)
+https://youtu.be/Cg5GzKsMF7M
+
+Prototyping Apps in Xcode Creating A Floating Action Button - Part 2 (iOS, Xcode 8, Swift 3)
+https://youtu.be/cdkLo2B-gTM
+
+Prototyping Apps in Xcode Expanded Menu Button Animation Part 5 (iOS, Xcode 8, Swift 3)
+https://youtu.be/FvBebEnwGaI
+
+Prototyping Apps in Xcode Floating Action Button Expanding Menu Part 3 (iOS, Xcode 8, Swift 3)
+https://youtu.be/Wq2tlBo98rs
+
+Prototyping Apps in Xcode Getting Started - Part 1 (iOS, Xcode 8, Swift 3)
+https://youtu.be/EN_Z8z-6UEw
+
+Prototyping Apps in Xcode Modeling Data and Populating UI Part 6 (iOS, Xcode 8, Swift 3)
+https://youtu.be/xqwhUGKZ7uA
+
+Prototyping Apps in Xcode Populating, Animating UITableViewCells Part 7 (iOS, Xcode 8, Swift 3)
+https://youtu.be/MsNzYMMBIJ8
+
+Prototyping Apps in Xcode Working With Icons and Sketch Part 4 (iOS, Xcode 8, Swift 3)
+https://youtu.be/ZKCauJF3ci0
+
+Storyboard Tip Constraints (iOS, Xcode 8)
+https://youtu.be/xtZmjC9JiDY
+
+Storyboard Tips -  Locking Controls (iOS, Xcode 8)
+https://youtu.be/j-vJVW8IGeE
+
+Storyboard Tips - Grouping Controls (iOS, Xcode)
+https://youtu.be/sC5odqWQmfg
+
+Storyboard Tips - Storyboard References (iOS, Xcode)
+https://youtu.be/JXIfb3ZCNqY
+
+UI Tip - Making Text More Visible Using Shadows (iOS, Xcode 8, Swift 3)
+https://youtu.be/sJ7FXS1HoLQ
+
+UI Tip Customizing UISegmentedControl (iOS, Xcode 8, Swift 3)
+https://youtu.be/CLGAsABNV6c
+
+UI Tip Hiding the Navigation Bar (iOS, Xcode 8, Swift 3)
+https://youtu.be/sTFMjyKi1HI
+
+Using Notification Center (iOS, Xcode 8, Swift 3, UIPickerView)
+https://youtu.be/3UUfEaVAOoc
+
+UX Easily Implement Transition Animations on Images (iOS, Xcode 8, Swift 3)
+https://youtu.be/86smeSdxjic
+
+Xcode Tip Autocomplete - A Better Way (iOS, Xcode 8, Swift 3)
+https://youtu.be/_Fe7jm_epJM
+
+Xcode Tip Split Code View (iOS, Xcode 8)
+https://youtu.be/DVXl2MgCFqc
+Videos 151-175

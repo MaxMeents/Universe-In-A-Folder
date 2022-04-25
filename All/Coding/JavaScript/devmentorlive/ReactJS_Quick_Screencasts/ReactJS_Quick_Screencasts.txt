@@ -1,0 +1,10 @@
+
+Install and use Create React App - Complete Walkthrough [2020]
+https://youtu.be/J7oX6TRZS8o&list=PL7LIfgWox4lqufDAfPyWxcYyA1TIeEslK
+
+Searchingfiltering a Datatable in [React] (React Hooks Api, React Datatables, JavaScript Fetch API)
+https://youtu.be/d1r0aK5awWk&list=PL7LIfgWox4lqufDAfPyWxcYyA1TIeEslK
+
+Thinking in Algorithms (ReactJS) - The 5 Star Component
+https://youtu.be/o3SfcNBZy4k&list=PL7LIfgWox4lqufDAfPyWxcYyA1TIeEslK
+ReactJS Quick Screencasts

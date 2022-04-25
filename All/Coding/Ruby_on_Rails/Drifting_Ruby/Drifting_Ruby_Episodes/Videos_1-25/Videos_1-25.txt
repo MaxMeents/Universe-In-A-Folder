@@ -1,0 +1,76 @@
+
+Episode #318 - Modern Chat Feature  Preview
+https://youtu.be/8H55owRgA_U&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #319 - From Webpacker to esbuild  Preview
+https://youtu.be/nGW0p6YAP88&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #320 # Docker on Rails 7  Preview
+https://youtu.be/oYf91GG4Zzk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #321 - Authentication with Sorcery  Preview
+https://youtu.be/2LwmJcFFU6Y&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #322 - Speeding Up Requests
+https://youtu.be/7sgPk-Hroy0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #324 - Materialized Views in PostgreSQL  Preview
+https://youtu.be/nB78icBl-14&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #325 - Dynamic Select Forms with Hotwire  Preview
+https://youtu.be/ch-x6n9BmR4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #326 - Dabbling with Turbo
+https://youtu.be/aEvvDgC_D9Q&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #327 - Optimistic Locking  Preview
+https://youtu.be/_CdEuj-iwMg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #328 - Rails Routes  Preview
+https://youtu.be/mngx_FulriA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #329 - Local Mail Delivery  Preview
+https://youtu.be/gCGgCUCYfbE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #330 - Deploying Static Sites
+https://youtu.be/36HvByaEg38&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #331 - Real-time Comments and Voting  Preview
+https://youtu.be/X9_p9bZubTE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #332 - Hotwire Dashboards  Preview
+https://youtu.be/HIm0_0ooVHc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #333 - Good Job  Preview
+https://youtu.be/7i2X7juhcGk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #334 - Shopping Carts with Turbo  Preview
+https://youtu.be/1fOSMtPg01I&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #335 - Hotwire Modals
+https://youtu.be/9aYaVq-e7VU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #336 - Git Hooks  Preview
+https://youtu.be/9C4teTk2n5M&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #338 - Infinite Scrolling with Hotwire  Preview
+https://youtu.be/xriqc4BSdNc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #339 - Remote Development
+https://youtu.be/1Em7cpGPdf0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #340 - Wordle Clone  Preview
+https://youtu.be/lE-F3E28mKA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #341 - Markdown Parser  Preview
+https://youtu.be/_dsbq4pMpEM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #342 - Jbuilder  Preview
+https://youtu.be/RcaHBHAqoZA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #343 - Label Makers with Ruby
+https://youtu.be/X3S76It2Mqs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #344 - Deploying to Render  Preview
+https://youtu.be/4NY_kxw7Mbw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 1-25

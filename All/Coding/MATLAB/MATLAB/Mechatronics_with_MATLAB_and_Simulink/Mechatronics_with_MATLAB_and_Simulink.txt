@@ -1,0 +1,34 @@
+
+Mechatronics with MATLAB & Simulink, Part 5 Import Mechanics in 30 Minutes
+https://youtu.be/f38Arj-0lRE&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 1 Accuracy, Speed, and Power Consumption
+https://youtu.be/qJV393TOJAA&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 10 Going to Hardware
+https://youtu.be/iev0jyqX2CI&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 11 Playing Pinball Just Like Ben Heck
+https://youtu.be/QVOqzEmLw0I&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 2 Importing Mechanics from CAD Tools
+https://youtu.be/pWsmIhQIoa8&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 3 Electrical Actuation
+https://youtu.be/iMssvOmKQfg&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 4 Modeling and Testing
+https://youtu.be/w7lAlzgf6UM&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 6 Inverse Mechanics
+https://youtu.be/DdzTp3XYDGg&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 7 Feedforward Control
+https://youtu.be/vs_Nc4_ekWI&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 8 PWM of Voltage
+https://youtu.be/I7vmOhjn4pc&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+
+Mechatronics with MATLAB and Simulink, Part 9 Bang Bang Control of Voltage
+https://youtu.be/O7Sfpd7DfaM&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt
+Mechatronics with MATLAB and Simulink

@@ -1,0 +1,31 @@
+
+Dominik Kundel coffee js How I hacked my coffee machine  JSUnconf 2017
+https://youtu.be/v02PMZherEI&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Henrik Wenz Start building server rendered web apps using next.js  JSUnconf 2017
+https://youtu.be/uKN8Vyl_fBc&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Jan Krutisch - Minesweeper, the obvious thing to build with a launchpad and WebMIDI  JSUnconf 2017
+https://youtu.be/pDPVDVzXTYE&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Johann Hofmann Browser Security in 2017  JSUnconf 2017
+https://youtu.be/vvZRYUBFX-8&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Kruno How browsers work  JSUnconf 2017
+https://youtu.be/0IsQqJ7pwhw&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Lian Li Alpha2048 - How I taught my computer to play 1024  JSUnconf 2017
+https://youtu.be/I8HIDRYlTb4&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Marco Pantaleo There will be grid  JSUnconf 2017
+https://youtu.be/8wyJ_c2P6CM&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Michael Geers Measuring Web Performance - Metrics & Tools  JSUnconf 2017
+https://youtu.be/FX8ORsF1tdM&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Oliver Zeigermann - Understanding Neural Networks with TensorFlow Playground  JSUnconf 2017
+https://youtu.be/WRuQQ9bwgGM&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+
+Robin Drexler 7 Web technologies you might not know yet  JSUnconf 2017
+https://youtu.be/4ev8zWpKhzI&list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
+JSUnconf 2017

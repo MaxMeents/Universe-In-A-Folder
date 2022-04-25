@@ -1,0 +1,64 @@
+
+Angel Ramboi - Gamers do REST
+https://youtu.be/-gOJyNq_4ao
+
+Bob Ippolito - What can python learn from Haskell
+https://youtu.be/pJOmlFf5Je4
+
+Conference Closing
+https://youtu.be/WuExjRWKdYY
+
+Daniel Pope - gevent asynchronous IO made easy
+https://youtu.be/3lhsA5ywh00
+
+Dave Halter - Identifying Bugs Before Runtime With Jedi
+https://youtu.be/yPSmj2kmX8g
+
+Erik Janssens - SQLAlchemy Drill
+https://youtu.be/2cuJGI9tRGY
+
+Federico Marani - Scaling with Ansible
+https://youtu.be/4dunSFkKavo
+
+Francisco Fernández Castaño - Graph Databases, a little connected tour
+https://youtu.be/vfMWfVlscFM
+
+Frank - Managing the Cloud with a Few Lines of Python
+https://youtu.be/JJUY7EEpFj8
+
+Giles Thomas - An HTTP request's journey through a platform-as-a-service
+https://youtu.be/IbH6_Yx2Q-4
+
+Lightning Talks
+https://youtu.be/i6osnSZQCtM
+
+Maciej Dziergwa - How to become an Agile company - case study
+https://youtu.be/PC5-i7KYVf4
+
+MaciejFabrizio Romano - Python Driven Company
+https://youtu.be/jC5miV9njlY
+
+Max Tepkeev - How we switched our 800+ projects from Apache to uWSGI
+https://youtu.be/8KHjtd3bJ3U
+
+Pieter Hintjens - Our decentralized future
+https://youtu.be/QB7VXSc5H3A
+
+pymove3D Winner Announcement
+https://youtu.be/cgzy9vRAp9o
+
+Schlomo Shapiro - Sponsoring Open Source
+https://youtu.be/bHjJottAfdo
+
+Slavek Kabrda - Red Hat Loves Python
+https://youtu.be/hU3vEGwzQsQ
+
+Thomas Aglassinger - Solution oriented error handling
+https://youtu.be/j1mN7j83AV8
+
+Using python, LXC and linux to create a mass VM hosting, managed by django and angularjs
+https://youtu.be/ggHsRX48SJw
+
+Welcome
+https://youtu.be/8xHd3JkhWd4
+Videos 1101-1125

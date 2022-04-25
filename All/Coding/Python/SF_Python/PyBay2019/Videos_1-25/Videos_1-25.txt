@@ -1,0 +1,76 @@
+
+Amazing things your ORM can or can't do - Louise Grandjonc
+https://youtu.be/tphMOCl6p6Y&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+As We May Program - Peter Norvig
+https://youtu.be/J573tlzlSC4&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Be Ye Therefore Wise As Serpents - Grant Jenks
+https://youtu.be/HF-83WaQq8A&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Boring Object Orientation - Moshe Zadka
+https://youtu.be/4oiJIHG9xNU&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Building a Sustainable Python Package Index - Dustin  Ingram
+https://youtu.be/9ZiDt1FRfRo&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Busy Beaver The Chicago Python Community Engagement Slack Bot - Aly Sivji
+https://youtu.be/AuTODIJKuRA&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+CUDA in your Python  Parallel Programming on the GPU - William Horton
+https://youtu.be/c9Ezk6d3IuY&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+CuPy  A NumPy compatible Library for the GPU - Sean Farley
+https://youtu.be/_AKDqw6li58&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+DebiasML - Dr  Leena Murgai
+https://youtu.be/VCyk0_I-8BM&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Deep Learning By Doing - Bill Chen
+https://youtu.be/Wh1eJYBnxws&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Extending GDB with Python - Lisa Roach
+https://youtu.be/xt9v5t4_zvE&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Identifying influencers via Slack Messages in Python using Network Analysis and NLP - Eva Sasson
+https://youtu.be/nX6anUO7xqk&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Koalas  Easy Transition from pandas to Apache Spark - Xiao Li
+https://youtu.be/cMDLoGkidEE&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Lightning talk - Hannah
+https://youtu.be/9hgR7uphJa8&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+PEP 581 and PEP 588  Migrating CPython's Issue Tracker - Mariatta
+https://youtu.be/6TxDyDPSZzs&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Perceiving Python Programming Paradigms - Jigyasa Grover
+https://youtu.be/Gm72cIo9_58&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Plugins  using importlib to build self describing apis - Daniel Wallace
+https://youtu.be/NRynSD6MCLE&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Pushing the limits of Python ML infra at Netflix - Ville Tuulos, Ravi Kiran Chirravuri, Savin Goyal
+https://youtu.be/8jTo3bVni3E&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Python Steering Council Panel - Paul Everitt, Łukasz Langa, Barry Warsaw, Benjamin Peterson, Emily M
+https://youtu.be/rnwClOVoNTc&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Real Time Bidding Models in Computational Advertising - Allie
+https://youtu.be/XjBsmzKftm0&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Robotic Motion with Django II - Mark
+https://youtu.be/ZLkpuUqFGNs&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Spack The Supercomputing Package Manager - Todd Gamblin
+https://youtu.be/iTLBkpHskzA&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+What to do with a Flock of lambdas - Andy Fundinger
+https://youtu.be/aUROUOcrZyE&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+What's Coming in 3 8  Assignment Expressions & More! - Adam Forsyth
+https://youtu.be/OtdQN24Z5MA&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+
+Why is my tractor in the Gulf of Mexico - Donna Okazaki
+https://youtu.be/kOXHJlA3lkU&list=PL85KuAjbN_guEvg6Wh_UMZklG1mMrOonW
+Videos 1-25

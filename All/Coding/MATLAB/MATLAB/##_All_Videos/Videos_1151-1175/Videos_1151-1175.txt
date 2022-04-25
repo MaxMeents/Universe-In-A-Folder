@@ -1,0 +1,76 @@
+
+Adaptive Cruise Control with Sensor Fusion Using Model Predictive Control
+https://youtu.be/lOJLlc48VH0
+
+Autopilot Development Using Simulink
+https://youtu.be/0Ha6JrJobdY
+
+Control Design for Robot Throwing Systems
+https://youtu.be/1yQ8iuHAm0o
+
+Deep Learning with MATLAB, NVIDIA Jetson, and ROS
+https://youtu.be/0FPPBGAKw8k
+
+Defect Detection Inference on Arm Cortex A from MATLAB
+https://youtu.be/c5Doh1HcHHw
+
+Getting Started with Machine Learning  Introduction to Machine Learning, Part 4
+https://youtu.be/DMznK5LXPvE
+
+HIL Simulation for Power Electronics
+https://youtu.be/vrRq6YovMtk
+
+How to Do Agent-Based Modeling and Simulation with Simulink
+https://youtu.be/JA1A4yQhzh0
+
+How to Generate Production Code in Minutes with Embedded Coder
+https://youtu.be/mzd7LPGeDdw
+
+How to Import Data from Datastream Web Services Using MATLAB
+https://youtu.be/HCoCvnSNsEs
+
+Linear Regression – 머신러닝의 6가지 기법 #6
+https://youtu.be/FolyzEKJIO4
+
+Machine Learning Fundamentals  Introduction to Machine Learning, Part 1
+https://youtu.be/wKU5L2XMyyI
+
+Managing Design Data in MATLAB and Simulink
+https://youtu.be/kubbKv1AVRc
+
+Sensor Fusion for Orientation Estimation
+https://youtu.be/UZsxFpjmdAs
+
+Simulating Pneumatic Robot Actuators
+https://youtu.be/g_TeErlJJX0
+
+Simulating Robot Throwing Mechanisms
+https://youtu.be/EvBOd1t97kE
+
+Simulating Unmanned Aerial Vehicles (UAV) with MATLAB and Simulink
+https://youtu.be/mLK5-fceleI
+
+Supervised Machine Learning  Introduction to Machine Learning, Part 3
+https://youtu.be/vpRAgnXeQSw
+
+Trimming and Linearization, Part 2 The Practical Side of Linearization
+https://youtu.be/K1oMF4684OQ
+
+Unsupervised Machine Learning  Introduction to Machine Learning, Part 2
+https://youtu.be/JdFw-kKfBzw
+
+Using GPU Coder to Prototype and Deploy on NVIDIA Drive, Jetson
+https://youtu.be/O98QI4TT24E
+
+What Is Aerospace Blockset
+https://youtu.be/BT8E_25-qP4
+
+What Is Computer Vision
+https://youtu.be/WUx_9Cijssw
+
+画像処理・コンピュータビジョン評価キットの操作ガイド
+https://youtu.be/DY9uvOGql8Y
+
+판별 분석– 머신러닝의 6가지 기법 #5
+https://youtu.be/mrnyHS4B9Fc
+Videos 1151-1175

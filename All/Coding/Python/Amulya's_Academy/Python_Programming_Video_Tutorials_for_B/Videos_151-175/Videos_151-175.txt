@@ -1,0 +1,76 @@
+
+Binary Search in Python Programming  Example
+https://youtu.be/ebc0h17yqFo&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Guess The Output  Python Programs and Answers
+https://youtu.be/VB7RlQ4-HCk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Guess The Output 03  Python Programs And Answers
+https://youtu.be/TMKtYp1poi8&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Guess The Output 04  Python Programs And Answers
+https://youtu.be/hORYq9DIQMM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Guess The Output 05  Python Programs And Answers
+https://youtu.be/Z3GT2eXZXiI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Guess The Output 06  Python Programs And Answers  Interview Questions
+https://youtu.be/mqzMJ2DMkOc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Guess The Output 2  Python Programs And Answers
+https://youtu.be/uSsNzf0QZTg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Insertion Sort Algorithm in Python Programming  Beginners Tutorials
+https://youtu.be/ltqbC8x9lWg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming  - Insertion Sort Program  Beginners Tutorials
+https://youtu.be/0GQRhOzUVRI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming - Shell Sort Program
+https://youtu.be/C4vvMj2r_1o&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - bgcolor()  title()  bgpic()
+https://youtu.be/X6XpHrs9KNE&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Draw Circle  Fill Color  Circle Method
+https://youtu.be/cScZA0Hq1yU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Draw Square Shape  Fill Color  Turtle Speed  HideTurtle
+https://youtu.be/QYaYeplafto&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - goto Method  up and down Method  Draw Shapes In Any Position
+https://youtu.be/CQSVLgwAoYA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Introduction  shape()  color()
+https://youtu.be/kpueya-s888&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Pattern 2  Drawing Different Shapes
+https://youtu.be/L4BVjagdJf0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Pattern 3  Drawing INDIAN FLAG
+https://youtu.be/aZMuFWnyxII&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Pattern 4  Drawing Heart Shape
+https://youtu.be/OgbXl7bFV9s&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Patterns  Drawing Different Shapes
+https://youtu.be/Xq1L4IzLmv4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Turtle Graphics - Turtle Movement  forward()  backward()  left()  right()  setheading()
+https://youtu.be/5isB9y8UjmA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - Binary Search Program
+https://youtu.be/bWF_9aHdRRY&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - LEGB Rule  Local And Global Scope  global and non local Keyword
+https://youtu.be/hKoQhK3AS_I&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - Linear Search  Searching key Element in the List Of Numbers
+https://youtu.be/ap8YSOIXWME&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorials - Namespace and Variable Scope
+https://youtu.be/60BhDMIm5vk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Shell Sort Algorithm in Python Programming  Beginners Tutorials
+https://youtu.be/1E9fY7EuJmI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 151-175

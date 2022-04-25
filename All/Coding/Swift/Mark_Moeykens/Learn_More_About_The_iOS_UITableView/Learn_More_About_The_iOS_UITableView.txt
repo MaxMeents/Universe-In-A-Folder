@@ -1,0 +1,10 @@
+
+Custom UITableView Section Headers With Prototype Cells (iOS, Xcode 8, Swift 3)
+https://youtu.be/6CX2kJExI_M&list=PLHDMmeIMXj8VA-PCYQ_e3ZAtEP1wlFUXV
+
+How to Add TableView Headers and Footers (iOS, Xcode 8, Swift 3)
+https://youtu.be/9ZBREmCCJXA&list=PLHDMmeIMXj8VA-PCYQ_e3ZAtEP1wlFUXV
+
+How to make Dynamic Row Height in a TableView (iOS, Swift 2.2, Xcode 7)
+https://youtu.be/ELBK3FFBZhY&list=PLHDMmeIMXj8VA-PCYQ_e3ZAtEP1wlFUXV
+Learn More About The iOS UITableView

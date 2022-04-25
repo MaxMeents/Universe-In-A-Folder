@@ -1,0 +1,58 @@
+
+BeeScala 2017 recap
+https://youtu.be/XnSsHhshHZA&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Building a Tagless Final DSL for WebGL in Scala by Luka Jacobowitz
+https://youtu.be/b2-KDaONAk8&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Case classes ate my RAM by Roman Grebennikov
+https://youtu.be/aUIQKzZ2fjs&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Events-First Microservices with Lagom by Gideon de Kok
+https://youtu.be/f1YSSaI_J-c&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Fantastic Monads and where to find them by Jakub Kozłowski
+https://youtu.be/hOvyL28t0Yc&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+From Basic to Advanced Aggregates Spark SQL and Spark Streams by Examples by Jacek Laskowski
+https://youtu.be/D5ZS3hH1iMk&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+gRPC recipes with ScalaPB by Damien Bailly
+https://youtu.be/bC2koVx3O_o&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Keeping it alive with Kamon  by Ivan Topolnjak
+https://youtu.be/PM5-rKmCW2w&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Keynote The totalitarian ideology of state governance by Jon Pretty
+https://youtu.be/9H_FoGQDq3Y&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Make your Java Beans shapeless with BeanPurée by Mikhail Limansky
+https://youtu.be/v_RuP218y4k&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Microservices integration testing made simple with Docker by Tudor Palanga
+https://youtu.be/aJDK5HCstb0&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Practical usage of the macro in Scala for smooth development by Kirill Plyashkevich
+https://youtu.be/EUusbKTVmcs&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Safe passage Messaging in a distributed systems environment by Hugh McKee
+https://youtu.be/VtUHgdvROR4&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Scala Back to Basics Type Classes byTomer Gabel
+https://youtu.be/SsOhrYuCuns&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Sharing is caring – How to let the compiler know what you’re thinking by Daniel Beskin
+https://youtu.be/Slu_PYZlcUA&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Tame Your Data with Reactive Streams and Monix by Jacek Kunicki
+https://youtu.be/Uo4fkM4ZETA&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Testing & validating Apache Spark jobs by Holden Karau
+https://youtu.be/LP6blh4TFqI&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+The  ubiquitous language in functional programming by Renato Cavalcanti
+https://youtu.be/dtcB_5XRX-s&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+
+Working efficiently with immutability by Marcin Matuszak
+https://youtu.be/BOWohh-hngo&list=PL-HEfXhQM8UtJUyYDPNIC1Fcti59ihXPq
+BeeScala 2017

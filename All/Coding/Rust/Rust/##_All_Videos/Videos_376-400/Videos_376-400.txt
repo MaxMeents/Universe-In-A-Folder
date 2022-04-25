@@ -1,0 +1,76 @@
+
+Async Foundations WG post-stabilization triage
+https://youtu.be/WbqljfQ1kjs
+
+Chalk + Specialization
+https://youtu.be/r3_ITLKLGJs
+
+Core Team Meeting 2019-05-08
+https://youtu.be/yL5_QddgOmQ
+
+Core Team Meeting 2019-05-22
+https://youtu.be/aFzSfNOpK0Y
+
+Core Team Meeting 2019-05-29
+https://youtu.be/lnHBa-uEAYI
+
+Core Team Meeting 2019-06-05
+https://youtu.be/E3I77CiG2fM
+
+Core Team Meeting 2019-06-12
+https://youtu.be/nDsdAG4wxhA
+
+Core team meeting 2019-07-10
+https://youtu.be/tnUxXDIxpRk
+
+Core team meeting 2019-08-14
+https://youtu.be/0U9gN62eCvU
+
+Lang Team Meeting 2019-07-11
+https://youtu.be/hsb3Rv6hKuw
+
+Lang Team Meeting 2019.05.02
+https://youtu.be/5LzzOXVdJhY
+
+Lang Team Meeting 2019.05.16
+https://youtu.be/0hYdW9ulgTY
+
+Lang Team Meeting 2019.05.30
+https://youtu.be/Hx4feOaWlVY
+
+Lang Team Meeting 2019.06.06
+https://youtu.be/yR7rTfgdX9A
+
+Lang Team Meta WG 2019.05.09
+https://youtu.be/5iiWsbOeYbI
+
+Lang Team Meta WG 2019.05.30
+https://youtu.be/EWMxvNiBZTA
+
+Lang Team Meta WG 2019.06.06
+https://youtu.be/UYrq3eINGUM
+
+Lang Team Triage Meeting 2019-09-05
+https://youtu.be/U9RtUIie5GY
+
+Lang Team Triage Meeting 2019.08.29
+https://youtu.be/DpsyoDy5gaM
+
+Polonius WG Initialization and move tracking
+https://youtu.be/ilv9V-328HI
+
+Polonius WG The role of subset relations
+https://youtu.be/mAUGvNgZYtw
+
+Preliminary shared state code review
+https://youtu.be/P1VOMcO7d4c
+
+Rust and WebAssembly Working Group Meeting 2019-05-16
+https://youtu.be/QhOyZh_fxwQ
+
+Rust and WebAssembly Working Group Meeting 2019-06-27
+https://youtu.be/W55yTDdgGaY
+
+Rust and WebAssembly Working Group Meeting 2019-07-11
+https://youtu.be/6BaM-pX5ylQ
+Videos 376-400

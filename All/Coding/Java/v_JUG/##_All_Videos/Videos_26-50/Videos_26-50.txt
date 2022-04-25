@@ -1,0 +1,76 @@
+
+Bootiful Testing by Josh Long
+https://youtu.be/jTKFBGWhhBA
+
+Common Mistakes Made in Functional Java
+https://youtu.be/VU7LyEOewvw
+
+Continuous Profiling in Production What, Why and How
+https://youtu.be/guvSSGfkHW4
+
+Devnexus 2020 Interviews
+https://youtu.be/xnIrV9kmg8g
+
+Evolving a Pragmatic, Clean Architecture  - A Craftsman's Guide
+https://youtu.be/qM4RlRf9gLY
+
+Fully Reactive Spring, Kotlin, and JavaFX Playing Together
+https://youtu.be/6sooAo4jNSA
+
+Fun with `var` in Java 11
+https://youtu.be/TIumzU4dhRk
+
+Functional Tic-Tac-Toe Speedrun
+https://youtu.be/bRIPiF68NUM
+
+Java Next - New Releases, Amber, Valhalla, and More Goodies with Nicolai Parlog
+https://youtu.be/sG6wUipM8mo
+
+Java, Turbocharged by Marcus Biel
+https://youtu.be/f7hVS9E9M9E
+
+Kafka - A Streaming Data Platform
+https://youtu.be/98kngHNszh8
+
+Kubernetes and The 12 Factors Cloud Applications
+https://youtu.be/-lPQYypjEsg
+
+Live Hack Finding Security Vulnerabilities Before They Find You! by Brian Vermeer
+https://youtu.be/NPJAGJVc1ks
+
+Monitor Your Java Apps with the Elastic Stack Logs, Metrics, Pings, and Traces
+https://youtu.be/8NxzQAfHaU4
+
+Performance After Eight
+https://youtu.be/BhQm6Gvoxi8
+
+Quarkus in Real-World Deployments
+https://youtu.be/ZgbwelTh3Mg
+
+Reactive Performance by Oleh Dokuka
+https://youtu.be/pyqIpqCt8PU
+
+Rethinking stream processing with Kafka Streams and KSQL by Viktor Gamov
+https://youtu.be/oU3fxsYFUbY
+
+Run Programs Faster Everywhere with GraalVM
+https://youtu.be/URD_u-od1Kc
+
+Securing the JVM - Neither for fun nor for profit, but do you have a choice
+https://youtu.be/gSQlLAp2dZ8
+
+Surviving Dependency Hell
+https://youtu.be/DeTkADhgfBw
+
+The Future of Java  OpenJDK and how it impacts You!
+https://youtu.be/078QIrp0SD8
+
+The State of Reactive Streams
+https://youtu.be/_p61hfyguvQ
+
+Untangling the Mysteries of Qubits
+https://youtu.be/tPec63hl-yo
+
+Var with Style Local Variable Type Inference in Java
+https://youtu.be/oBf9btuIe7k
+Videos 26-50

@@ -1,0 +1,76 @@
+
+Boosting your applications with distributed cachesdatagrids by Katia Aresti
+https://youtu.be/UZqD_0lxMAc
+
+Building Reactive Pipelines How to go from scalable apps to (ridiculously) scalable systems
+https://youtu.be/h6ExDXS2JCI
+
+Cryptography 101 for Java developers by Michel Schudel
+https://youtu.be/1925zmDP_BY
+
+Exploring GraphQL-Braid Leaving RESTish world and building a distributed GraphQL system
+https://youtu.be/iNtxkbzopDg
+
+Exploring Microservices boundaries through network science by Nicki Watt
+https://youtu.be/IvQGT1Yv3wE
+
+From null to security, a developers tale by Louis Hansen
+https://youtu.be/d6cA-dg9yGs
+
+From Zero to Microprofile Hero - Let’s dive into a Microservices World
+https://youtu.be/CFb_x_0x0mM
+
+Get to Know the Real World Discovering Connected Data by Jennifer Reif
+https://youtu.be/UDDXNhLPTx8
+
+GraalVM Run Programs Faster Everywhere by Oleg Šelajev
+https://youtu.be/6hd7UFlsIsg
+
+Helm your way with Kubernetes by Ana Maria Mihalceanu
+https://youtu.be/Ol4tbo_tLbM
+
+Information Storage in DNA by Nick Goldman
+https://youtu.be/NsfuBSsF1Fk
+
+Integration Testing with Docker and Testcontainers by Kevin Wittek
+https://youtu.be/L_i61qTg510
+
+Java, Today and Tomorrow by Mark Reinhold
+https://youtu.be/kpio9jFhpD8
+
+Life After Java 8 by Trisha Gee
+https://youtu.be/eot4kLJEnd4
+
+Mastering Microservices with Kong by Maarten Mulders
+https://youtu.be/lqyt5l3Hx5s
+
+Moving Fast and Breaking Everything by Maurice Naftalin
+https://youtu.be/L-ZvespjeNg
+
+PostgreSQL is the new NoSQL by Laurent Doguin
+https://youtu.be/w0K7OBtB-ZQ
+
+Reactive Relational Database Connectivity by Ben Hale
+https://youtu.be/4Rwp1sIqkLA
+
+Rust 101 by Alessio Coltellacci
+https://youtu.be/xG3RoiglDIY
+
+SkyKnit What Happens when Crafting and Code Intersect by Colleen Lavin
+https://youtu.be/AliDJa40uwo
+
+Switching on DevSecOps by Brian Vermeer
+https://youtu.be/hnN3ZQYlysU
+
+Ten Ways to Hack Your Brain to Write Fluently by Dan Allen
+https://youtu.be/VdPfOzPIrpY
+
+The Diabolical Developer promises that Java is Still Free by Martijn Verburg
+https://youtu.be/T5Qg9tL81Ik
+
+The Java Chamber of Horrors by Andreas Zitzelsberger
+https://youtu.be/Gcwlt6_uhQU
+
+Zookeeper in action by Alexandre Berthaud
+https://youtu.be/Vv4HpLfqAz4
+Videos 651-675

@@ -1,0 +1,76 @@
+
+Accepting and cloning a react element as a prop
+https://youtu.be/e5NDgvpJ_vU&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Add Discuss on twitter to gatsby-mdx powered blog
+https://youtu.be/31Aiy_vxXlQ&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+AMA Am I using hooks right
+https://youtu.be/Mf--BTZq47E&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Creating a component library with raw CSS
+https://youtu.be/ljnrvPMjaVs&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Currying in JavaScript
+https://youtu.be/Tx-0tcEl1I0&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Debugging node_modules
+https://youtu.be/OtrT-nhqQug&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Handling Sequenced Fetch calls with React Hooks (and a React Suspense preview)
+https://youtu.be/y55rLsSNUiM&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+How to Test a Custom React Hook (that uses setTimeout)
+https://youtu.be/PKUDcLGn-80&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+How to use useEffect dependencies properly
+https://youtu.be/dIPvgHEM-2s&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Let's HOOK up with React ⚛️⚓️
+https://youtu.be/h9qHKDlsnP0&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Named Imports vs Object Destructuring
+https://youtu.be/4keUSxNw-KE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+React hooks useCallback and useEffect dependencies
+https://youtu.be/L59rOas2AYE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+React Runtime validation & throwing errors in render
+https://youtu.be/mJS6kSq0Wog&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Recreate a Flexbox based Navbar with CSS Grid
+https://youtu.be/wo9d-qRIa5E&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Self-Expiring React Component (with hooks)
+https://youtu.be/b55ctBtjBcE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Test a React Component that renders a list with react-testing-library
+https://youtu.be/Qf2k9zt3S_A&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Testing a Multi-Page form part 2
+https://youtu.be/I0dYO2JMUmQ&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Testing a Multi-Page form
+https://youtu.be/9xaJ78qEJCM&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Testing a React component that uses useContext
+https://youtu.be/3yiialslPbc&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Testing an axios interceptor component with react-testing-library
+https://youtu.be/YJKtzS1jGsI&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+The difference between an expression and a statement in JavaScript
+https://youtu.be/eWTuFoBYiwg&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+The State Reducer Pattern with React Hooks
+https://youtu.be/RENGNzZ0dIs&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Using React.useReducer to avoid state bugs
+https://youtu.be/Vi_46Io0UZc&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Using `void` to make arrow functions return nothing
+https://youtu.be/OCTFOsCvcNs&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+What does glamorous give me that CSS modules doesn't
+https://youtu.be/biewJRnEiwU&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+Videos 1-25

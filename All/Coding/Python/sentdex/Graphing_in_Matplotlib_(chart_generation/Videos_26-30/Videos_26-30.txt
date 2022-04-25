@@ -1,0 +1,16 @@
+
+Geographical Plotting with Python Part 5 - Improving the plots
+https://youtu.be/kZmYEfTv_WY&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1
+
+How to modify data granularity in Python for Graphing data in Matplotlib or another application
+https://youtu.be/INf7VUHUpjk&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1
+
+Matplotlib Fast Style Customization Graphing Tutorial Python Programming
+https://youtu.be/WmhdQdx8Gjo&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1
+
+Python Matplotlib Live Updating Graphs - part 1
+https://youtu.be/ge6DAaJ-leM&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1
+
+Python Matplotlib Live Updating Graphs - part 2
+https://youtu.be/7w8jk0r4lxA&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1
+Videos 26-30

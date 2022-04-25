@@ -1,0 +1,76 @@
+
+1 year of PaaS usage at SBB lessons learned by Philipp H. Oser and Tobias Denzler
+https://youtu.be/1EhG2ulzp5M
+
+Big Data at CERN by Daniel Lanza Garcia
+https://youtu.be/PH9SiuW2_sU
+
+Deep Dive into JUnit 5 by Sam Brannen
+https://youtu.be/CYEzf_C9e4s
+
+Does diversity really matter by Sombra González and Brigitte Hulliger
+https://youtu.be/dNl7XNL9oQI
+
+Engineering You - Martin Thompson
+https://youtu.be/IxtFGTS8fGE
+
+Event-driven task automation of Java and Spark jobs with Mesos by Florian Froese
+https://youtu.be/RA5YjfiCyzw
+
+Functional data structures in Java by Oleg Šelajev
+https://youtu.be/NWV5IrEg3c0
+
+How to defend from an attacker armed with a mathematician by Antonio Sanso
+https://youtu.be/Ho_COj92GYI
+
+I'm offline, cool! What now by Ola Gasidlo
+https://youtu.be/KZ6AonD9oYU
+
+Interview Adam Bien at Voxxed Days CERN 2017
+https://youtu.be/OrLm40U9Ptg
+
+Interview Heinz Kabutz during Voxxed Days CERN 2017
+https://youtu.be/ah_BKPFJtZw
+
+Java 9 Is Coming!  by Nicolai Parlog
+https://youtu.be/vOdFuvIyN0E
+
+Java 9 Is Coming! - Nicolai Parlog
+https://youtu.be/bZu6MGefHU0
+
+Machine Learning for Developers - Danilo Poccia
+https://youtu.be/CsyDTvtMtAU
+
+Monitoring Microservices applications on OpenShift by Thomas Heute
+https://youtu.be/GRneSKI_xUg
+
+Progressive Enhancement and CSS - Ire Aderinokun
+https://youtu.be/aIKNZo5E9xI
+
+Real-World Enterprise REST API Design - Laurent Bovet
+https://youtu.be/5LC1K4DsbRs
+
+Streaming Pool by Andrea Calia
+https://youtu.be/jePJme3g5XQ
+
+Swiss Transport in Real Time Tribulations in the Big Data Stack by Alexandre masselot
+https://youtu.be/yTigmCL68uw
+
+The truth about code reviews by Sebastian Greulach
+https://youtu.be/35iBUEIYHU8
+
+Transactions and Concurrency Control Patterns by Vlad Mihalcea
+https://youtu.be/onYjxRcToto
+
+Turbo Charge CPU Utilization in ForkJoin Using the ManagedBlocker by Heinz Kabutz
+https://youtu.be/rUDGQQ83ZtI
+
+Welcome at Voxxed Days CERN 2017
+https://youtu.be/5MGsmnx4Gjg
+
+Welcome keynote by Federico Yankelevich and Mario Fusco
+https://youtu.be/lWOKaceQ1uw
+
+Why and how to transform a REST API into a Data Streaming API Audrey Neveu
+https://youtu.be/mIFZN0wIfvY
+Videos 2101-2125

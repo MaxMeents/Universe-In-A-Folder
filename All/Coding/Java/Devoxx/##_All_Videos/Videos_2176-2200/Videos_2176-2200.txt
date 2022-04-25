@@ -1,0 +1,76 @@
+
+A Crash Course in Modern Hardware by Cliff Click
+https://youtu.be/OFgxAFdxYAQ
+
+A tour of the (advanced) Akka features in 60 minutes by Johan Janssen
+https://youtu.be/4sP8v9lM6Kw
+
+Advanced Modular Development by Mark Reinhold and Alan Bateman
+https://youtu.be/WJHjKMIrbD0
+
+Are you botching the security of your AngularJS application by Philippe De Ryck
+https://youtu.be/-f4THuwmR7E
+
+Become a King with Kong by Cédric Tran-Xuan
+https://youtu.be/xVyAYf6I0Sc
+
+Closing Keynote Devoxx 2016 - The Java Council
+https://youtu.be/SbZscPDs4U0
+
+Cloud Native Streaming and Event-Driven Microservices by Marius Bogoevici
+https://youtu.be/s6mP4lpkxvg
+
+DevOps on Android From one git push to a Play Store release by Jeremie Martinez
+https://youtu.be/O58yq8B3shc
+
+Devoxx, where wireless dreams comes true by Glenn De Haes
+https://youtu.be/D0TdOaISXWA
+
+Docker for developers and ops what's new and what's next by Patrick Chanezon
+https://youtu.be/3OohD03k-y0
+
+Effective Android dev by Filip Maelbrancke
+https://youtu.be/KdyasrqRhIg
+
+Effective Service API Design by Elliotte Rusty Harold
+https://youtu.be/JG00rfoWVeU
+
+How Angular Makes the Mobile Web Awesome by Stephen Fluin
+https://youtu.be/0-Nh-ur83P4
+
+Introducing JSR 354 - The Money & Currency API by Wim van Haaren and Jeroen Burggraaf
+https://youtu.be/uasi71dWWVQ
+
+Java on Google Cloud Platform by Patrick Flynn and Rajeev Dayal
+https://youtu.be/9iaqAcbS2vU
+
+Javaslang - Functional Java The Easy Way by David Schmitz
+https://youtu.be/5M3AzAk70SM
+
+Microservices Evolution How to break your monolithic database by Edson Yanaga
+https://youtu.be/6dfBd-2Oq1M
+
+Mission to Mars Exploring new worlds with AWS IoT by Jeroen Resoort
+https://youtu.be/EgdVdAX_8a0
+
+NoOps in the cloud by Constantijn Visinescu
+https://youtu.be/ayHDMjeaVes
+
+Programming your body with chip implants by Pär Sikö
+https://youtu.be/W29p2d67AEw
+
+Talk to your home! by Joost den Boer
+https://youtu.be/Gv-Z0jMtwu4
+
+Testing Time in Java by Joep Weijers
+https://youtu.be/b8Aglx0-wmI
+
+The Java, the javascript, & the future by Amahdy Abdelaziz and Teemu Sou-Anttila
+https://youtu.be/gbBuvA_NaDo
+
+The New HTTP Client API in JDK 9 by Michael McMahon
+https://youtu.be/gc6upLx7eog
+
+Why computers calculate wrong by Karl Brodowsky
+https://youtu.be/UPWydP2rqJY
+Videos 2176-2200

@@ -1,0 +1,76 @@
+
+Deploying Node, Postgres, and Redis to multiple regions
+https://youtu.be/VMeLmee4AUg
+
+Get to know Kent C. Dodds (full version)
+https://youtu.be/sxcRxZpUJWo
+
+Get to know Kent C. Dodds (short version)
+https://youtu.be/a7VxBwLGcDE
+
+Introducing the new kentcdodds.com
+https://youtu.be/7H2VsJb8LgY
+
+KCD Office Hours 2021-05-28 (and Evaluating DBs)
+https://youtu.be/dXQszCTb8dE
+
+KCD Office Hours 2021-06-04
+https://youtu.be/jWEf-PQs37U
+
+KCD Office Hours 2021-07-02
+https://youtu.be/64cgnJ_5GSM
+
+KCD Office Hours 2021-07-09
+https://youtu.be/OvVHtBSUo6A
+
+KCD Office Hours 2021-07-23
+https://youtu.be/LVMv5GVt9DE
+
+KCD Office Hours 2021-07-30
+https://youtu.be/NrG9brXljjU
+
+KCD Office Hours 2021-08-13
+https://youtu.be/8oI32NPFfao
+
+KCD Office Hours 2021-08-20
+https://youtu.be/U0FCojhgLSg
+
+KCD Office Hours 2021-08-27
+https://youtu.be/VVscyWiu1HE
+
+KCD Office Hours 2021-09-03
+https://youtu.be/cyjS2KFQfnw
+
+KCD Office Hours 2021-09-10
+https://youtu.be/lEXI92Lk4us
+
+KCD Office Hours 2021-09-17
+https://youtu.be/xQh2YNVIVaE
+
+KCD Office Hours 2021-09-24
+https://youtu.be/icgQ2oKSTJg
+
+KCD Office Hours 2021-10-15
+https://youtu.be/0yrRgvTroLM
+
+Live with Kent Building Authentication with Postgres, Prisma, and Remix
+https://youtu.be/XkZINZDDdms
+
+Live with Kent Deploying a Remix App and Postgres DB to Fly.io
+https://youtu.be/L1-7ngmWNaY
+
+Live with Kent Finishing a blog post about Form performance
+https://youtu.be/DQ350fNRiAA
+
+Live with Kent KCD Discord Bot logger
+https://youtu.be/bFQqAJHB-uI
+
+Live with Kent Working on a contact form with remix
+https://youtu.be/7rgIxOchEIg
+
+Live with Kent Working on Prisma and Postgres
+https://youtu.be/Zke09uytln8
+
+Live with Kent Writing an ESLint plugin
+https://youtu.be/vUEqjtWANF4
+Videos 51-75

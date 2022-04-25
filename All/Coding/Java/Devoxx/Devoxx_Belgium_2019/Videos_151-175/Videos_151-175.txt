@@ -1,0 +1,76 @@
+
+A Deep Dive into Apache Kafka This is Event Streaming by Andrew Dunnings & Katherine Stanley
+https://youtu.be/X40EozwK75s&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+A secure journey on Kubernetes by Julien Garcia Gonzalez
+https://youtu.be/V-mSZb-Fnhk&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Building the Matrix by Jan Peter Sanderman
+https://youtu.be/d8TRGfozK5Q&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Building your own JDK in 10 steps by José Paumard
+https://youtu.be/lhkjOrY65Ts&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Cloud Run, serverless containers in action by Mete Atamel
+https://youtu.be/JJh3okWKQls&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Crash course in Kubernetes monitoring by Robert Munteanu
+https://youtu.be/dId543PzSsU&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Deepdive into Reactive Spring with Coroutines and Kotlin Flow  by Sébastien Deleuze
+https://youtu.be/BoidEr_ZCGc&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Develop and Deploy to Kubernetes like a Googler by David Gageot
+https://youtu.be/YYJ4RZFw4j8&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Dockerfile the best practices by Guillaume Lours & Jeremie Drouet
+https://youtu.be/VjmOhWIRtTY&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+From hot data sources to interactive clients in a hurry by Jesper Møller
+https://youtu.be/oQZhnYRoqSg&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+GraalVM native images explained by Oleg Šelajev
+https://youtu.be/WKrR4PGTgoc&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Java 9 and Beyond by Venkat Subramaniam
+https://youtu.be/oRcOiGWK9Ts&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Java Packaging Tool Create Native Packages to Deploy Java Applications  by Kevin Rushforth
+https://youtu.be/ZGW9AalZLN4&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Kubernetes Distilled - an in depth guide for the busy Java developer by Alberto Rios & Oliver Hughes
+https://youtu.be/l7lt6yYLvRo&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Learnings from migrating a production service from JDK 8 to JDK 11  by Yishai Galatzer
+https://youtu.be/moWxm8wvjpc&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Make your IoT even Smarter with Tensorflow Lite to Design the Future of Vertical Farming by Alexis
+https://youtu.be/rYWniwZ7mzk&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Mocking your microservices with mock server by Jaap Coomans
+https://youtu.be/oipykrGdsk8&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Postman & Newman for your CICD by Xavier Thery & Bowie Brotosumpeno
+https://youtu.be/43-uU7Uz8Z4&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Quickly remove some big performance bottlenecks with QuickPerf  by Jean Bisutti
+https://youtu.be/cEkoJL09kKI&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Reactive Revolution by Josh Long
+https://youtu.be/4-vEW8Ck_6g&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Reactive Transactions Masterclass by Michael Simons & Mark Paluch
+https://youtu.be/8TkY_RaoLCQ&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Solving Memory Leaks in the JVM by Kirk Pepperdine
+https://youtu.be/_gineh_HcoQ&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+The Web is on 🔥 F I R E  🔥 !!!  by Noël Macé
+https://youtu.be/lfubOlz3JLI&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Why I prefer Spock over JUnit  by Bouke Nijhuis
+https://youtu.be/aydVJbF7Mas&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+
+Writing Java agents for fun and not so much profit by Robert Munteanu
+https://youtu.be/pznvd89GgBg&list=PLRsbF2sD7JVqPgMvdC-bARnJ9bALLIM3Q
+Videos 151-175

@@ -1,7 +1,0 @@
-
-Integrating Face ID Login Page UI With Firebase Authentication Using SwiftUI - SwiftUI 2.0 Tutorials.url
-https://youtu.be/uhTRQ4TWQ9g&list=PLimqJDzPI-H_JQ_NeYBVy9n6D5iZdVbbz
-
-SwiftUI 2.0 Login Page UI With Face And Touch ID Integration - SwiftUI BioMetric Authentication.url
-https://youtu.be/CqzO9xw_Gdk&list=PLimqJDzPI-H_JQ_NeYBVy9n6D5iZdVbbz
-Login Page With Face ID Using Firebase

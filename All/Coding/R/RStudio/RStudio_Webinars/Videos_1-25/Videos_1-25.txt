@@ -1,0 +1,76 @@
+
+Alex Gold  Managing Packages for Open Source Data Science  RStudio
+https://youtu.be/OGMLpioGmog&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Alison Hill & Desirée De Leon  How to Get Your Materials Online With R Markdown  RStudio (2020)
+https://youtu.be/QcE4RBH2auQ&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Andy Nicholls & Michael Rimler  Using R to Drive Agility in Clinical Reporting  RStudio (2020)
+https://youtu.be/BNRMYRkwKDo&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Capacity Planning for Microsoft Azure Data Centers  Using R & RStudio Connect
+https://youtu.be/07j22d4B_hA&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Community Conversation Hiring Great Data Science Teams
+https://youtu.be/F-JbkFc1uZ0&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Edgar Ruiz  Programación con R  RStudio (2019)
+https://youtu.be/EeLlIrqWwO4&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Garrett Grolemund  Reproducibility in Production  RStudio (2019)
+https://youtu.be/n04FjueWmj0&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Greg Wilson  Teaching Online at Short Notice  RStudio (2020)
+https://youtu.be/-2enQV3Dfng&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Hadley Wickham  testthat 3.0.0  RStudio (2020)
+https://youtu.be/1ZrjWKcG1C4&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+James Blaire & Barret Schloerke  Integrating R with Plumber APIs  RStudio (2020)
+https://youtu.be/J0Th2QRZ7Rk&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Jenny Bryan  Help me help you creating reproducible examples  RStudio (2018)
+https://youtu.be/5gqksthQ0cM&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Kelly O'Briant  Interactivity in Production  RStudio (2019)
+https://youtu.be/dQAyASaH-Jo&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Kevin Bolger & Oisin Bates  Architecting RStudio Products in the Cloud  RStudio (2020)
+https://youtu.be/8b_ikPWqyPM&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Lou Bajuk & Kevin Bolger  Why Data Science in the Cloud  RStudio (2020)
+https://youtu.be/rtGrMPwvWf0&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Lou Bajuk & Sean Lopp  RStudio A Single Home for R & Python RStudio
+https://youtu.be/0Ty4y3ZYA1M&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Mine Çetinkaya-Rundel  Teaching R online with RStudio Cloud  RStudio (2020)
+https://youtu.be/Fja5DIN3uTw&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Nathan Stephens  Best Practices for Administering RStudio in Production  RStudio (2019)
+https://youtu.be/siIw5OHVR_o&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Nathan Stephens  Make PowerPoint Presentations with R Markdown  RStudio (2018)
+https://youtu.be/uiA3znJb4KM&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Panel  Debunking the R vs. Python Myth  RStudio (2020)
+https://youtu.be/6mp-BWPnqK4&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Roche & Novartis Effective Visualizations for Data Driven Decisions  RStudio (2020)
+https://youtu.be/RqGFMRQ3M-U&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Sean Lopp & Lou Bajuk  R & Python A Data Science Love Story  RStudio (2020)
+https://youtu.be/_50yZxOome4&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Sean Lopp & Rich Iannone  Avoid Dashboard Fatigue  RStudio (2020)
+https://youtu.be/q1C3QxHHC-Y&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Tom Mock  A Gentle Introduction to Tidy Statistics in R  RStudio (2019)
+https://youtu.be/wfMAaXWHGog&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Tom Mock  RStudio Connect in Production  RStudio (2019)
+https://youtu.be/6TeySatiFx8&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+
+Webinar Summary  Avoid Dashboard Fatigue  RStudio (2020)
+https://youtu.be/NVO1Qpp414s&list=PL9HYL-VRX0oTT4SPzqhTq1xsCQTptkj6Q
+Videos 1-25

@@ -1,0 +1,10 @@
+
+Field-Oriented Control with Simulink, Part 1 What Is Field-Oriented Control
+https://youtu.be/9D79OlyyZAU&list=PLn8PRpmsu08pdtCX6iuWI-gspF8B9MlaR
+
+Field-Oriented Control with Simulink, Part 2 Modeling Motor, Inverter, and Controller
+https://youtu.be/y4Jwf7SRwzc&list=PLn8PRpmsu08pdtCX6iuWI-gspF8B9MlaR
+
+Field-Oriented Control with Simulink, Part 3 Automatic Tuning of Controllers for an Induction Motor
+https://youtu.be/epyU3ezOr7s&list=PLn8PRpmsu08pdtCX6iuWI-gspF8B9MlaR
+Field-Oriented Control with Simulink

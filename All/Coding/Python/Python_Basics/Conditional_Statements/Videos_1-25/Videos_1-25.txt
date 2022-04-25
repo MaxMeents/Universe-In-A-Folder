@@ -1,0 +1,76 @@
+
+Python Basics Board Game Pt  2
+https://youtu.be/lE_GPgw1NoU&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Board Game Pt  3
+https://youtu.be/rHAG3XNhAJg&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Board Game Pt  4
+https://youtu.be/irCSc8dMoMk&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Boolean Shortcut
+https://youtu.be/1GbxvOz0ePc&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Can You Solve This
+https://youtu.be/oTn05FW34C4&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Conditional  Statements if - else pt 2
+https://youtu.be/rzBp4VujpS0&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Conditional  Statements nested  if - else pt 3
+https://youtu.be/rx31W3y6LDA&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Conditional Statements  True - False
+https://youtu.be/nOIld_OMQL8&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics GCD Best Practice
+https://youtu.be/2Z1LLsUg6sY&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Guessing Game pt  2
+https://youtu.be/QXAA5kNvvEo&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Guessing Game
+https://youtu.be/0ZmbhprSOXs&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Leap Year
+https://youtu.be/yxbvVgxFCL4&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Len with For Loop with Break
+https://youtu.be/fekSpfbHlEg&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics List Comprehension with Conditions
+https://youtu.be/Y7UWZoAME4I&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics M.I.T Chicken Nugget Problem
+https://youtu.be/-pbB8mz3rOo&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Shopping List Pt 1
+https://youtu.be/Ebgw7yQVwWw&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Shopping List Pt 2
+https://youtu.be/So4rxTBcnvo&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Shopping List Pt 3
+https://youtu.be/D5ZHcZ2XMms&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Shopping List Pt 4
+https://youtu.be/v6mwZP0kMWM&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Shopping List Uncut
+https://youtu.be/62sblljc4VQ&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Solve This Answer
+https://youtu.be/Mb5Y5PKF4Jg&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics String Count Sub-Strings
+https://youtu.be/Fjt6oNp-FX8&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Sub-String Find Method
+https://youtu.be/pK2HRpyfX0s&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Sub-string Function
+https://youtu.be/zxSEkzd6T9A&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+
+Python Basics Why elif
+https://youtu.be/VpsBRHUDkrQ&list=PLaYT64KWZAEOF2_gGWVjGEnv0-tMIT-52
+Videos 1-25

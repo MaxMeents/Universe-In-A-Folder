@@ -1,0 +1,73 @@
+
+Angelina Fabbro JavaScript Masterclass  JSConf US
+https://youtu.be/v0TFmdO4ZP0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Andrew Dupont Learning New Words
+https://youtu.be/N2u44-zZYdo&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Angus Croll JavaScript is Literature is JavaScript
+https://youtu.be/j_EfPW4G-L0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Ben Farrell Using the Microsoft Kinect with Javascript OR Sweatin' to the Web
+https://youtu.be/94pPWsBUwmM&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Brandon Dimcheff Down The Rabbit Hole Chasing bugs from the browser to the backend
+https://youtu.be/RCgD4SLwC18&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Brendan Eich Toward a language-neutral browser VM
+https://youtu.be/O83-d0t0Ldw&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Erich Gamma Massive.js
+https://youtu.be/1B9p691U_Ms&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Janessa Det BPM Detection with JavaScript
+https://youtu.be/XAqSLcNI9Ac&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Jed Schmidt Mass Hysteria Clients and Servers, Living Together
+https://youtu.be/UJHOzE28pKg&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] John Kleinschmidt Surviving the Offline Apocalypse
+https://youtu.be/Qg75x08Mtcs&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Luis Montes Post Modern Game Input Devices
+https://youtu.be/bN71Voq5x1U&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Nicole Sullivan Creating Living Style Guides
+https://youtu.be/lsaG-EJcu88&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Peter Flynn Performance Tuning Secrets
+https://youtu.be/480JL_WuMt0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Peter Higgins #dadt (Dojo already did that)
+https://youtu.be/BY0-AI1Sxy0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Peter van der Zee Real Time Recompilation of Running JavaScript
+https://youtu.be/9HfWmdp9_I0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Raquel Vèlez AI.js Robots with Brains!
+https://youtu.be/NG31UChnNfc&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Ray Daly JavaScript Journalism
+https://youtu.be/kdgrpc0Udlw&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Rebecca Murphey Optimizing for Developer Delight
+https://youtu.be/-WpDN2k7vbU&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Remy Sharp Lessons from the experimental edge of technology
+https://youtu.be/f_9nDBtSInI&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Seb Lee-Delisle CreativeJS - making art in the browser
+https://youtu.be/8CSJkKYfRak&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Steven Wittens Making WebGL Dance
+https://youtu.be/GNO_CYUjMK8&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Tom Occhino and Jordan Walke JS Apps at Facebook
+https://youtu.be/GW0rj4sNH2w&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] Welcome from Chris and Laura
+https://youtu.be/hlJWcIBaiUY&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+
+[JSConfUS 2013] YayQuery Yay Yay Yay Query
+https://youtu.be/Ng-4XmZ1c6I&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+Videos 1-25

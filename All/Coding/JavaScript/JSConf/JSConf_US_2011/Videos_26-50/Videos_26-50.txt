@@ -1,0 +1,76 @@
+
+Aaron Heckmann Code is Cool Products are Better
+https://youtu.be/QRc41TyT9Fw&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Adam Baldwin Writing an (in)secure webapp
+https://youtu.be/uVIcK4UXKWs&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Adam Christian Run your JS everywhere, with Jellyfish
+https://youtu.be/gx3PboJx2e8&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Alex Sexton Uselessware - A brief history
+https://youtu.be/JiXTVRXP_z0&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Andrew Paprocki Bloomberg home-grown server-side scripting
+https://youtu.be/ODgs0eWAIKc&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Anton Kovalyov Code quality tools
+https://youtu.be/pYE4usIe8gw&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Boris Bokowski Orion The web is my development environment
+https://youtu.be/MPrgElR-Pcs&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Brian Cavalier wire.js
+https://youtu.be/1r2eTOMDb-Q&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Brian LeRoux Mobile knife fight PhoneGap project automation
+https://youtu.be/l-whQDgzW4A&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Brian Moschel FuncUnit JavaScript functional testing + IDE
+https://youtu.be/jMm1HW_txdU&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Charlie Robbins Running Node.js in Production
+https://youtu.be/MTtE_cyMSgE&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Dan Beam How to be a Player (on the Internet). The making of Yahoos universal JS media player.
+https://youtu.be/aKLs-Lu2lq8&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Dave Johnson caesar.js
+https://youtu.be/W97Z0qVCc-c&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+David Kaneda Building rich user experiences with sencha touch
+https://youtu.be/2lhqW7u-AQM&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Edward Ocampo-Gooding Shopify
+https://youtu.be/N0cl5_v8K5U&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Gaurav Seth JavaScript MOJO with chakra
+https://youtu.be/UKHHQ5KjAgI&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+John Davidson Building custom widgets with the closure library
+https://youtu.be/6OuNb2cnzHs&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Mario Gonzalez Realtime HTML5 Multiplayer Games with NodeJS
+https://youtu.be/z1_QpUkX2Gg&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Peter Elger Low Friction Development
+https://youtu.be/mARVY7xiPxk&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Private video
+https://youtu.be/bKiIpSYt6M0&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Rebecca Murphey Modern JavaScript
+https://youtu.be/sohLzDvH964&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+RGA Panel  - Turning kick ass design into kick ass code
+https://youtu.be/FfrFdFU8ECk&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Toby Ho a Fun Way to Browser Test
+https://youtu.be/QNhd0dehihQ&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Tom Hughes-Croucher - Multi-tiered Node.js architectures
+https://youtu.be/xzX5nXj__3I&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+[JSConf US 2011] Andrew Lunny hangover.js
+https://youtu.be/0_J6NqApt6o&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+Videos 26-50

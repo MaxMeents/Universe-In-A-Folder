@@ -1,0 +1,76 @@
+
+11. How to program in C# - INHERITANCE - Beginner Tutorial
+https://youtu.be/EiBCF7rYRtI&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+12. How to program in C# - ENUMS - Beginner Tutorial
+https://youtu.be/ETy3x4XeK9E&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+13. How to program in C# - PROPERTIES - Beginner Tutorial
+https://youtu.be/gvQziNULkdY&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+14. How to program in C# - INTERFACES - Tutorial
+https://youtu.be/IQpss9YAc4g&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+15. How to program in C# - GENERICS - Tutorial
+https://youtu.be/ZrjCG0Fu5Ew&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+19. How to make a 2D Platformer - ENEMY GUI - Unity Tutorial
+https://youtu.be/NF20uViS3lE&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+20. How to make a 2D Platformer - ENEMY ATTACK - Unity Tutorial
+https://youtu.be/BePP-jtrs9U&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+21. How to make a 2D Platformer - GUI - Unity Tutorial
+https://youtu.be/wz5tGTU16Tc&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+22. How to make a 2D Platformer - GUI - Unity Tutorial
+https://youtu.be/Fm37szX_1FQ&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+22. Unity Tutorial, DESTRUCTIBLES - MAKE A GAME
+https://youtu.be/Jibyq7eAmH0&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+23. Unity Tutorial, END POINTS - MAKE A GAME
+https://youtu.be/I0gKmtCYM8I&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+24. How to make a 2D Platformer - MENU - Unity Tutorial
+https://youtu.be/Y0lg2TlDiTo&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+24. Unity Tutorial, FINISHING UP - MAKE A GAME
+https://youtu.be/DOXGPwYVS0I&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+25. Unity Tutorial, STANDALONE - MAKE A GAME
+https://youtu.be/Nti9W7637FU&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+26. Unity Tutorial, WEB PUBLISHING - MAKE A GAME
+https://youtu.be/7aP-sjFcVHY&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Wave Spawner in Unity 5 - Part 12
+https://youtu.be/Vrld13ypX_I&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a Wave Spawner in Unity 5 - Part 22
+https://youtu.be/q0SBfDFn2Bs&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E02. Movement) - uNet Tutorial
+https://youtu.be/kjUiARseG18&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E03. Networking Intro) - uNet Tutorial
+https://youtu.be/-m28axeuRNs&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E04. Syncing Movement) - uNet Tutorial
+https://youtu.be/MR8SULMRKKk&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E05. Flying) - uNet Tutorial
+https://youtu.be/Tt2Hk64fDDw&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E06. Shooting) - uNet Tutorial
+https://youtu.be/QB2dt7kGlV8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E07. Damage) - uNet Tutorial
+https://youtu.be/jVy-ecjCP_A&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (E08. Respawn) - uNet Tutorial
+https://youtu.be/biOL7jCuV1g&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making a Multiplayer FPS in Unity (EP. 1) - uNet Tutorial
+https://youtu.be/UK57qdq_lak&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+Videos 301-325

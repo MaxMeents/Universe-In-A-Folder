@@ -1,0 +1,28 @@
+
+DATA TYPES
+https://youtu.be/yiHV5RMaZDo&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+INPUT & OUTPUT
+https://youtu.be/X4pgN-sD4g0&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+OBJECT ORIENTED PROGRAMMING (OOP'S)
+https://youtu.be/Wvo16dxCg7I&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+OOP's CONCEPTS
+https://youtu.be/6QTt3jvntxA&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+OPERATORS - ARITHMETIC & RELATIONAL
+https://youtu.be/AnRanY7f9M8&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+OPERATORS - ASSIGNMENT & MISCELLANEOUS
+https://youtu.be/fGfPNbsSj88&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+OPERATORS - BITWISE & LOGICAL
+https://youtu.be/HRNIbGn-u24&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+OPERATORS - INCREMENT & DECREMENT(PRE & POST)
+https://youtu.be/ojq89nuBfYw&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+
+VARIABLES
+https://youtu.be/FPU1XnUh54o&list=PLnwPi7O4x-PBBcPzg5sppp-y02g_rMbKn
+Java for Beginners [BEFORE PROGRAMMING]

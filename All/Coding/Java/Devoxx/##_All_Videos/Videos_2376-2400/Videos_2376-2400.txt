@@ -1,0 +1,76 @@
+
+A scalable sales organisation thanks to smarter lead management by Jeroen De Wit
+https://youtu.be/NoUAKn-dUWg
+
+Algorithmic 3-D Modeling, Language Modeling and Visual Programming by Michael Hoffer
+https://youtu.be/13lv_rbbvCI
+
+Architecting for an Agile Journey that is as good as the End by Ilchenko Andrei
+https://youtu.be/e-gkSIL18hQ
+
+Badass Microservices – Deploy, Build and Scale Your Apps with Payara Micro by Navin Surtani
+https://youtu.be/mnS4CJLuTis
+
+CDI 2.0 is coming by Antoine Sabot-DurandJosé Paumard
+https://youtu.be/PGlNHfS9e9g
+
+Developing and deploying Java-based microservices in Kubernetes by Ray Tsang
+https://youtu.be/kT1vmK0r184
+
+Devoxx Registration Creating our own Android Printer Driver by Alex Van Boxel
+https://youtu.be/fk-cAfnEGVk
+
+Dropwizard entering JEE land in a box by Koen Roevens
+https://youtu.be/ZkAeDAWnFrk
+
+From Jurassic Web to offline-first and more with Service Workers by Hubert Sablonnière
+https://youtu.be/SltjVpgTaCo
+
+From object oriented to functional domain modeling by Mario Fusco
+https://youtu.be/K6BmGBzIqW0
+
+From Startup Manifesto to Startup Nation by Karen Boers
+https://youtu.be/wGc9-_p5FTA
+
+Get Reactive by Wolfram RittmeyerPascal Welsch
+https://youtu.be/ssC4nX_pP3o
+
+Hardware Prototyping for Software People by Taylan Pince
+https://youtu.be/7cT3lzdnFB0
+
+Knowledge is Power Getting out of trouble by understanding Git by Steve Smith
+https://youtu.be/sevc6668cQ0
+
+Life of a Twitter JVM engineer the garbage keeps coming... Tony Printezis
+https://youtu.be/M9o1LVfGp2A
+
+Microservices and Modularity or the difference between treatment and cure! by Milen Dyankov
+https://youtu.be/O77777Zy_HE
+
+Offline-first web and mobile apps with Polymer and Vaadin by AMahdy AbdElAziz
+https://youtu.be/xXrtBI9wD2E
+
+Open to a Shift. Belgian e-government’s journey to PaaS by Jef Verelst
+https://youtu.be/EBsX2IcM2sA
+
+Process-driven applications let BPM do (some of) your work by Kris Verlaenen
+https://youtu.be/oW4__q2iaJs
+
+Terracotta’s OffHeap Explained by Chris Dennis
+https://youtu.be/xCojSZMp_Zw
+
+The Twelve Factor app Best Practices for Java Deployment by Joe Kutner
+https://youtu.be/94PxlbuizCU
+
+Updates to the Java API for JSON Processing for Java EE 8 by Alex SotoMite Mitreski
+https://youtu.be/t87W95Y_qDE
+
+vert.x 3 - be reactive on the JVM but not only in Java by Clement EscoffierPaulo Lopes
+https://youtu.be/qL5BGHPXrac
+
+What's new in Spring Data by Oliver Gierke
+https://youtu.be/NVB2AmMRUBI
+
+Without Resilience, Nothing Else Matters by Jonas Bonér
+https://youtu.be/NjPVJ7ZKLnY
+Videos 2376-2400

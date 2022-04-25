@@ -1,0 +1,76 @@
+
+Efficient String Concatenation - Unity Tips #02
+https://youtu.be/Cej-CqHJu08
+
+Fix for TextMeshPro Color Not Working - Unity Bug Fix #01
+https://youtu.be/wo9T1qwcRdI
+
+How to  load  a scene in Unity - Unity Basics Part 12
+https://youtu.be/Pj-AJwi6rUE
+
+How To Add Particles In Your Unity Games Unity Basics Part 15
+https://youtu.be/_bCxilFqO-Y
+
+How to add Sound Effects and Background Music In Unity - Unity Basics Part   11
+https://youtu.be/GyOOxzg9ZDU
+
+How to Build a Unity Game For PC And Android - Unity Basics Part 14
+https://youtu.be/xHYnXcW28kQ
+
+How to Cache a Component in Unity - Unity Tips #03
+https://youtu.be/gZxhO8FDmGA
+
+How to make your If Statement shorter Unity Tips #04
+https://youtu.be/QCh1mcwXvrM
+
+How to save data in Unity - Unity Basics Part 13
+https://youtu.be/y6eb-BzcFBw
+
+How to Use a Class In C# - Unity Basic Programming #05
+https://youtu.be/hPtvNmzgtW8
+
+How To Use Break Statement - Unity Basic C# Programming #11
+https://youtu.be/GbIdMULGHVU
+
+How To Use Continue Statement - Unity Basic C# Programming #12
+https://youtu.be/uL2qmixLfvE
+
+How to use For Loop In C# - Unity Basic C# Programming #10
+https://youtu.be/tlwjMY4K9Aw
+
+I just added Particles to our First Unity3D Game and it looks Awesome!!
+https://youtu.be/qupPdK9ew4I
+
+Intellisense Not Working - Unity Tips #05
+https://youtu.be/c2aCtc_e-aM
+
+Replacement for String Format - Unity Tips #01
+https://youtu.be/wQHwkyBsSD0
+
+Simple Object Pooling In Unity Part 2 - Unity Basics Part 10
+https://youtu.be/-Ad4sp9QhtI
+
+What is a Class In C# - Unity Basic Programming #04
+https://youtu.be/lEe1FlqFEkM
+
+What is DataType - Unity Basic C# Programming #02
+https://youtu.be/ljjX5SBR79A
+
+What is Else If Statement Unity Basic C# Programming #08
+https://youtu.be/h9U8bhEiJc4
+
+What is If Statement in C# - Unity Basic Programming #06
+https://youtu.be/3GG-BAG0X58
+
+What is Logical Operators in C# - Unity Basic C# Programming #07
+https://youtu.be/osYgBWWFLrQ
+
+What Is Switch Statement - Unity Basic C# Programming #09
+https://youtu.be/e6HR9mPjPRw
+
+What Is Variables Unity Basic C# Programming #01
+https://youtu.be/OaXO6MVw4YQ
+
+Your First Very Simple Code In C# - Unity Basic C# Programming #03
+https://youtu.be/CaYIIq9-R6M
+Videos 26-50

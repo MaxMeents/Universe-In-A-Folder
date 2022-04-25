@@ -1,0 +1,76 @@
+
+An Interview with Aleksey Shipilev
+https://youtu.be/qh-4LRRAAFg
+
+An Interview with Andres Almiray
+https://youtu.be/xmNRZP_mjEc
+
+An Interview with Bert Ertman
+https://youtu.be/zOwL8hOPg-g
+
+An Interview with Heinz Kabutz
+https://youtu.be/xNszV1uYURw
+
+An Interview with Josh Long
+https://youtu.be/yuPyr9FD3As
+
+An Interview with Markus Eisele
+https://youtu.be/mK7ni4QaB5Y
+
+An Interview with Oliver Gierke
+https://youtu.be/SKxaLIDYi1Q
+
+An Interview with Rabea Gransberger
+https://youtu.be/D7xfMTk_COA
+
+An Interview with Rafael Winterhalter
+https://youtu.be/28tgPawOrjc
+
+Architecting Large Enterprise Java Projects
+https://youtu.be/tSN1gOVQfPs
+
+Book Reading Club Effective Java by Josh Bloch - Part 1
+https://youtu.be/EduWekviwRg
+
+Book Reading Club Effective Java by Josh Bloch - Part 2
+https://youtu.be/4a7twg_Zvco
+
+Book Reading Club Effective Java by Josh Bloch - Part 3
+https://youtu.be/jf1FyroqjoY
+
+Building Bootiful­ Microservices with Spring Cloud
+https://youtu.be/pMPsf9LI8kk
+
+Building Modular Java Applications in the Cloud Age
+https://youtu.be/3HmfDQKhldg
+
+Effective IDE Usage
+https://youtu.be/FwfHxholaEE
+
+Gradle hot or not
+https://youtu.be/0-6--78bG_I
+
+How is JavaJVM built
+https://youtu.be/FZvteeaLHEw
+
+Java byte code in practice
+https://youtu.be/5cNyrkjJ5KY
+
+Java Memory Model Pragmatics
+https://youtu.be/TxqsKzxyySo
+
+JavaLand Session What's coming in Java.Next
+https://youtu.be/BLksrrxOHTU
+
+Live From Devoxx UK Apache TomEE from Dev to Ops
+https://youtu.be/c9pqQh06ems
+
+Live From Devoxx UK Hackergarten From vJUG virtuality to Devoxx UK real
+https://youtu.be/V9UkKRLiZds
+
+So why would I use a distributed database like Apache Cassandra
+https://youtu.be/i3yUlwoCPzU
+
+State of the art data access with Spring Data
+https://youtu.be/Q6esdIY66rw
+Videos 201-225

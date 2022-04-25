@@ -1,0 +1,25 @@
+
+RustLatam 2019 - Alex Crichton Procedural Macros vs Sliced Bread
+https://youtu.be/g4SYTOc8fL0&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+RustLatam 2019 - Florian Gilcher The Power of the Where Clause
+https://youtu.be/jSpio0x7024&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+RustLatam 2019 - Kevin Hoffman WebAssembly with Rust
+https://youtu.be/YDQICTKlr9g&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+RustLatam 2019 - Michael Gatozzi Defense Against The Wrong Logic Proactive Rust Coding
+https://youtu.be/jT6YEiE6O6E&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+RustLatam 2019 - Niko Matsakis What's unique about Rust
+https://youtu.be/jQOZX0xkrWA&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+RustLatam 2019 - Otavio Pace Interop with Android, IOS and WASM in the same project
+https://youtu.be/W-HUyTwV4LA&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+RustLatam 2019 - Without Boats Zero-Cost Async IO
+https://youtu.be/skos4B5x7qE&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+
+[Spanish] RustLatam 2019 - Esteban Kuber Friendly Ferris Developing Kind Compiler Errors
+https://youtu.be/XCeB-CgsH4w&list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N
+Rust Latam 2019

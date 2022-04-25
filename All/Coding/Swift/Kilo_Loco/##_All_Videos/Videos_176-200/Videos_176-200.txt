@@ -1,0 +1,73 @@
+
+Create & Read in Core Data  Swift 4, Xcode 9
+https://youtu.be/OYRo3i9z-lM
+
+Decodable Firebase Snapshots  Swift 4, Xcode 9
+https://youtu.be/yfR2aBTuYwE
+
+Dependency Injection  Swift 4, Xcode 9
+https://youtu.be/sHLd1BuW0aU
+
+Do You Like Contracting  #AskADev
+https://youtu.be/vZcB33XemBA
+
+Employed As A Software Developer  #AskADev
+https://youtu.be/QNPZp6dlC7I
+
+Flat JSON To Nested Objects  Swift 4, Xcode 10
+https://youtu.be/vBNDTSU4W3I
+
+Get Cache  Crypto Currency
+https://youtu.be/-e9d2i3i6HA
+
+Handling Requests  Vapor  Swift 4, Xcode 9
+https://youtu.be/XuvIWcmdEPQ
+
+How To Be More Productive  #AskADev
+https://youtu.be/6XSUXJaEAmI
+
+I Missed You! Let's Code!
+https://youtu.be/sgypng57djs
+
+Properly Implement UITableViewCells  Swift 4, Xcode 9
+https://youtu.be/jk9OxEFCmPY
+
+Protocol Extensions  Swift Language Basics  Swift 4, Xcode 9
+https://youtu.be/oqr8Wvn8tCo
+
+Protocol Optionals  Swift Language Basics  Swift 4, Xcode 9
+https://youtu.be/pO-QqnY6y6Y
+
+Pull To Refresh  Cocoa Touch  Swift 4, Xcode 9
+https://youtu.be/RvDYlPRm5Ww
+
+Should I Join A Bootcamp  DEVLOG #004
+https://youtu.be/4S_ZGOUCElQ
+
+The Entire App Building Process - Part 11
+https://youtu.be/lPx8XLYAI-Y
+
+The Entire App Building Process - Part 12
+https://youtu.be/LZRcaszA6YI
+
+Typealias  Swift Language Basics  Swift 4, Xcode 9
+https://youtu.be/CDm_fgoufCA
+
+Updating and Deleting in Core Data  Swift 4, Xcode 10
+https://youtu.be/XH-osAmaU5E
+
+What's the Difference Between A Junior and Senior Developer  DEVLOG #005
+https://youtu.be/PIAiUGYJwoE
+
+White Labeling Apps  #AskADev
+https://youtu.be/gkG-2Ucnqo0
+
+Why Did You Become A Dev  #AskADev
+https://youtu.be/67qDZ65sFLM
+
+Working With Fluent Objects  Vapor  Swift 4, Xcode 9
+https://youtu.be/eBMppY6BM_o
+
+💀 The Fate of Kilo Loco + 💸 $100 Amazon.com eGift Card Giveaway
+https://youtu.be/Dom5EdHMwFs
+Videos 176-200

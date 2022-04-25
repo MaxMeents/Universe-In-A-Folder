@@ -1,0 +1,73 @@
+
+AI Self - Learning Game Playing by Richard Abbuhl
+https://youtu.be/TiNA8lx0PIE
+
+Ally for Women in Technology by Heather VanCura
+https://youtu.be/WDTMe77EV2Y
+
+Angular vs React Smackdown by Matt Raible, Deepu K Sasidharan
+https://youtu.be/qYEEuiI4l10
+
+Building React applications with JHipster by Sendil Kumar N and Deepu K Sasidharan
+https://youtu.be/cN2yyD6JYvc
+
+Business Parameters a framework for managing complex configuration by Maarten Van Puymbroeck
+https://youtu.be/kQxZUUYgHsk
+
+Clean, Easy & Stable   Android Architecture by Britt Barak
+https://youtu.be/PYSX6FeifmE
+
+Container Orchestration Considerations by Patrick van der Bleek
+https://youtu.be/iPnld2lizd4
+
+Globally Distributed Software Engineering - The Good, the Bad and the Ugly by Rini van Solingen
+https://youtu.be/b9mrVHVC7WQ
+
+Going Reactive with Spring 5 & Project Reactor by Mark Heckler, Josh Long
+https://youtu.be/yAXgkSlrmBA
+
+Hibernate you know it... but actually you don't by Sanne Grinovero
+https://youtu.be/mJDqxfXyNdM
+
+How Events Are Reshaping Modern Systems by Jonas Bonér
+https://youtu.be/3V3pHm2Cpks
+
+Java 9 VarHandles   Best practices, and why by Tobi Ajila
+https://youtu.be/w2zaqhFczjY
+
+Java EE 8 What's New in the Java EE 8 Release by David Delabassee
+https://youtu.be/9VnVZ3j8yDQ
+
+Launching Projects Faster with We Deploy by Milen Dyankov
+https://youtu.be/sSF0eeXY7IM
+
+Love is ... Git by Sascha Binger
+https://youtu.be/i5m2GrSykQk
+
+Map me if you can! Painless bean mappings with MapStruct by Gunnar Morling
+https://youtu.be/nvjqtWQ5zj8
+
+Next Generation Asynchronous Patterns in JavaScript by Jonathan Mills
+https://youtu.be/p5eEl-e_sFY
+
+Redirect http to https, how hard can it be by Marius Vaitkus
+https://youtu.be/acxxl9VFGA0
+
+Safer Apps from Docker Security Building Blocks by Riyaz Faizullabhoy
+https://youtu.be/yRy6pwIna44
+
+Serverless Kotlin with App Engine by Ludovic Champenois and  Éamonn McManus
+https://youtu.be/bHKQ_o3vwK4
+
+Tensorflow, deep learning and modern convolutional neural nets, without a PhD by Martin Görner
+https://youtu.be/vaL1I2BD_xY
+
+The Diabolical Developer's Guide to Perfomance Tuning    Martijn Verburg
+https://youtu.be/_y37cbS19JY
+
+The Rise of the Weaponized AI Propaganda Machine by Berit Anderson
+https://youtu.be/PazlKN_FuWQ
+
+🚀 An ultrasonic adventure! by Hubert Sablonnière
+https://youtu.be/g9ti7uHjqvc
+Videos 1501-1525

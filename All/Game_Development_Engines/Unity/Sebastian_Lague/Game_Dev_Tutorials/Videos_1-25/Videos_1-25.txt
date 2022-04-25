@@ -1,0 +1,76 @@
+
+A Pathfinding (E01 algorithm explanation)
+https://youtu.be/-L-WgKMFuhE&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+A Pathfinding (E02 node grid)
+https://youtu.be/nhiFx28e7JY&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+A Pathfinding (E03 algorithm implementation)
+https://youtu.be/mZfyt03LDH4&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Algorithms Explained – minimax and alpha-beta pruning
+https://youtu.be/l-hh51ncgDI&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Blender Character Animation Run Cycle
+https://youtu.be/_YdA-J27YPU&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Blender Character Animation Walk Cycle
+https://youtu.be/DuUWxUitJos&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Blender Character Creation Modelling
+https://youtu.be/DiIoWrOlIRw&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Blender Character Creation Rigging 12
+https://youtu.be/Q9f-WVs3ghI&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Blender Character Creation Rigging 22
+https://youtu.be/TPEmonfLo94&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Blender Character Creation Texturing
+https://youtu.be/JYBPXTful2g&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Field of view visualisation (E01)
+https://youtu.be/rQG9aUWarwE&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Introduction to Game Development (E01 variables and methods)
+https://youtu.be/9iCnjdXEfMA&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Introduction to Game Development with Unity and C#
+https://youtu.be/_cCGBMmMOFw&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Path Creator (free unity tool)
+https://youtu.be/saAQNRSYU9k&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Procedural Landmass Generation (E01 Introduction)
+https://youtu.be/wbpMiKiSKm8&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Procedural Landmass Generation (E02 Noise Map)
+https://youtu.be/WP-Bm65Q-1Y&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Procedural Landmass Generation (E03 Octaves)
+https://youtu.be/MRNFcywkUSA&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Procedural Landmass Generation (E04 Colours)
+https://youtu.be/RDQK1_SWFuc&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Procedural Landmass Generation (E05 Mesh)
+https://youtu.be/4RpVBYW1r5M&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Procedural Landmass Generation (E06 LOD)
+https://youtu.be/417kJGPKwDg&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+Unity Create a Game Series (Introduction)
+https://youtu.be/SviIeTt2_Lc&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+[Unity] Creating a 2D Platformer (E01. set-up)
+https://youtu.be/MbWK8bCAU2w&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+[Unity] Procedural Cave Generation (E01. Cellular Automata)
+https://youtu.be/v7yyZZjF1z4&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+[Unity] Procedural Object Placement (E01 poisson disc sampling)
+https://youtu.be/7WcmyxyFO7o&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+
+[Unity] Procedural Planets (E01 the sphere)
+https://youtu.be/QN39W020LqU&list=PLFt_AvWsXl0eTHFZ2XPkM6gLK8XdsdzNl
+Videos 1-25

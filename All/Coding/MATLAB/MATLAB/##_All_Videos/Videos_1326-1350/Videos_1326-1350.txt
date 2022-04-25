@@ -1,0 +1,76 @@
+
+ADAS Design, Simulation, and Code Generation with Simulink - Coder Summit 2018
+https://youtu.be/ClsEj9cJK2Q
+
+C++ Class Modeling and Code Generation with Simulink and Embedded Coder - Coder Summit 2018
+https://youtu.be/qFbtGvzx3S8
+
+Code Generation Improvements for Vision and ADAS - Coder Summit 2018
+https://youtu.be/jtmRGWeFi7I
+
+Controlling Robot Manipulator Joints
+https://youtu.be/cmgOqrd2yiY
+
+Creating ARIMA Models Using Econometric Modeler App
+https://youtu.be/s1DvJN3Pwpk
+
+Data Type Optimization - New Feature for Embedded Efficient Designs
+https://youtu.be/nkZAB7LIRXI
+
+Diagnostic Handling in Simulink - New Feature in Simulink
+https://youtu.be/RAQ5rVMvt5I
+
+Embedded Code Generation Advances - Coder Summit 2018
+https://youtu.be/Wa1UfLejM9Y
+
+Getting Started Web Apps with MATLAB Compiler
+https://youtu.be/P3hlu48Atv8
+
+Hit Crossing Messages for Hybrid Modeling Using Simulink and SimEvents - New Simulink Feature
+https://youtu.be/BN3NwBl-MDA
+
+How to Generate Multicycle Path Constraints in HDL Coder
+https://youtu.be/YcN1fVfOoOk
+
+Impact Analysis with Simulink Projects
+https://youtu.be/GqskdXcpCac
+
+Implement Simultaneous Localization and Mapping (SLAM) with MATLAB
+https://youtu.be/XZxpmS0QuHI
+
+Lookup Table Optimization - New Feature for Embedded Efficient Designs
+https://youtu.be/Qkxr_yfmaG8
+
+Optimizing Lookup Tables in Simulink and Embedded Coder - Coder Summit 2018
+https://youtu.be/KrXgDaeiqxQ
+
+Port Connection Cues in Simulink - New Simulink Feature
+https://youtu.be/nqXfr0LOvHU
+
+Power Amplifier Modeling and DPD Design with MATLAB
+https://youtu.be/eo21QWO4VDU
+
+Robotics Industry Trends and What's Next - Peter Corke on Robotics System Toolbox
+https://youtu.be/z4gjAADOpwA
+
+Robotics Tools and Workflow - Peter Corke on Robotics System Toolbox
+https://youtu.be/goJi-NQj_j4
+
+Sample Times in Simulink
+https://youtu.be/nnW68-47Kfc
+
+SIMD Code Generation - Coder Summit 2018
+https://youtu.be/i8W5-esZDbo
+
+Simulation Pacing in Simulink
+https://youtu.be/T8kq5K2iyJU
+
+User-Suggested Data Reuse for More Efficient Code - Coder Summit 2018
+https://youtu.be/LhwzfQQOevM
+
+What is RF Blockset - RF Blocket Overview
+https://youtu.be/kxP0j8ZVaeM
+
+ロボットアームによる似顔絵作成～顔検出と経路計画～
+https://youtu.be/CIan9dZVUds
+Videos 1326-1350

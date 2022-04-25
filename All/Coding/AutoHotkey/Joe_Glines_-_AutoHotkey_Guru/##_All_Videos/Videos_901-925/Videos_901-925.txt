@@ -1,0 +1,76 @@
+
+AutoHotkey Webinar 012017  Hour 1- Debugging & Troubleshooting
+https://youtu.be/v8yEZITG-xs
+
+AutoHotkey Webinar 012017 Hour 2- Q&A-Debugging & discussion
+https://youtu.be/B51J4ynbxMI
+
+AutoHotkey Webinar 022017  Hour 1- Simple & Associative Arrays
+https://youtu.be/Rm9qIKOgmZ0
+
+AutoHotkey Webinar 022017  Hour 2- Simple and Associative arrays - Trouble shooting
+https://youtu.be/nlRAcxt3lyo
+
+AutoHotkey Webinar 032017  Hour 1- How to Automate Windows programs
+https://youtu.be/tht_JxuhfcI
+
+AutoHotkey Webinar 032017  Hour 2- Continued discussion on Automation
+https://youtu.be/rfcUqAAy8LU
+
+AutoHotkey Webinar 042017  Hour 1- Control clicks & Postmessage
+https://youtu.be/y96u2Npq1CU
+
+AutoHotkey Webinar 042017  Hour 2- Working Session Q&A
+https://youtu.be/46bHytUKnOM
+
+Automate Logging into Websites Login to Amazon.com with AutoHotkey
+https://youtu.be/_b_feRJJkVE
+
+Automate Login to Facebook with AutoHotkey
+https://youtu.be/P2ocUvip-hw
+
+Automate Login to LinkedIn with AutoHotkey
+https://youtu.be/14-PlNeabgo
+
+Automate Login to Pinterest with AutoHotkey
+https://youtu.be/zsZiBcT9PJM
+
+Automate Login to Reddit with AutoHotkey
+https://youtu.be/uPZjL561VzI
+
+Automate Login to Twitter with AutoHotkey
+https://youtu.be/Dnvb7C6P_9g
+
+Automating connecting on LinkedIn
+https://youtu.be/ye5tDTR46Jw
+
+Creating custom GUI controls with Hellbent
+https://youtu.be/HGNQ7zKRPq0
+
+Gui with Radio button and debugging
+https://youtu.be/NGpjWs1tpkY
+
+How to automate Login to Gmail, YouTube, Google+ with AutoHotkey
+https://youtu.be/lUiujb6wu5U
+
+IMUGR account creation
+https://youtu.be/W27k5n8ajsg
+
+Quick overview of ahrefs Steal traffic from your competitors
+https://youtu.be/6ssMCgAdFo8
+
+Quick tutorial on cool AHK Studio features
+https://youtu.be/T86C26svMuU
+
+Review of various Webscraping tools
+https://youtu.be/S9VO9Bjigr8
+
+Squirrly is an Awesome SEO tool for WordPress
+https://youtu.be/9DEHCo8tUP8
+
+Use AutoHotkey to push clipboard to the Internet for rapid sharing
+https://youtu.be/JT_WpgmkNDQ
+
+Using Facebook Audience Insights to research your target market
+https://youtu.be/z03dP2HYJfc
+Videos 901-925

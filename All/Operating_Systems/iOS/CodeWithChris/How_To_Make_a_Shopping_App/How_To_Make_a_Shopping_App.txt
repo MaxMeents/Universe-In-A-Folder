@@ -1,0 +1,22 @@
+
+Build a Shopping App with Moltin - Ep 1 - Introduction
+https://youtu.be/Dxuy4pagxiY&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+
+Build a Shopping App with Moltin - Ep 2 - Setting up your store
+https://youtu.be/L0gSi3HUo3o&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+
+Build a Shopping App with Moltin - Ep 3 - Xcode project, Cocoapods and Moltin SDK
+https://youtu.be/2Ai433HaTjo&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+
+Build a Shopping App with Moltin - Ep 4 - Listing our Products
+https://youtu.be/lim3t6xdbXg&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+
+Build a Shopping App with Moltin - Ep 5 - Product Details
+https://youtu.be/yFv3nHw0eRw&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+
+Build a Shopping App with Moltin - Ep 6 - Add to Cart
+https://youtu.be/Lcy3lCQzq1w&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+
+Build a Shopping App with Moltin - Ep 7 - Checkout
+https://youtu.be/g157A59d_CY&list=PLMRqhzcHGw1ZoHkcws12dToxIXrRU4GA7
+How To Make a Shopping App

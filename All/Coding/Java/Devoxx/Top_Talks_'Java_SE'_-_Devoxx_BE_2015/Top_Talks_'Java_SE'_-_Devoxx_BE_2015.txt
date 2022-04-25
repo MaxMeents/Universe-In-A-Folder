@@ -1,0 +1,22 @@
+
+Core Design Principles for Software Developers by Venkat Subramaniam
+https://youtu.be/llGgO74uXMI&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+
+Design Patterns in the Light of Lambda Expressions by Subramaniam
+https://youtu.be/e4MT_OguDKg&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+
+Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam
+https://youtu.be/1OpAgZvYXLQ&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+
+Good and Wicked Fairies, and the Tragedy of the Commons by Maurice NaftalinKirk Pepperdine
+https://youtu.be/uIHskJc0X8I&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+
+HTTP 2 0 & Java Current Status by Simone Bordet
+https://youtu.be/QpLtBftqM04&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+
+Open Source Workflows, Business Rules and Case Management live and in action by Bernd Rücker
+https://youtu.be/x9ceAoZt8xw&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+
+Terracotta’s OffHeap Explained by Chris Dennis
+https://youtu.be/xCojSZMp_Zw&list=PLRsbF2sD7JVpQsKP-AQcTWEk-gj1RtyYI
+Top Talks 'Java SE' - Devoxx BE 2015

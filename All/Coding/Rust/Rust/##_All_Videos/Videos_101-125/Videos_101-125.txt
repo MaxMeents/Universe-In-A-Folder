@@ -1,0 +1,76 @@
+
+2021-03-03 RFC 2229 Meeting
+https://youtu.be/nlhAlr4bLRM
+
+2021-03-03 RFC 2229
+https://youtu.be/k7ZHpYZnYBk
+
+2021-03-09 Lang team triage meeting
+https://youtu.be/HTkAKULqQME
+
+2021-03-11 RFC 2229
+https://youtu.be/WYYsOnkj-Ok
+
+2021-03-16 Lang team triage
+https://youtu.be/gRiOZ4_ZoJ8
+
+2021-03-17 Backlog Bonanza
+https://youtu.be/oA9zfFPQcF8
+
+2021-03-17 Lang Team Triage Meeting
+https://youtu.be/NzURKQouuEU
+
+2021-03-17 RFC 2229
+https://youtu.be/qvTgtnkkZqY
+
+2021-03-23 Lang Team Triage Meeting
+https://youtu.be/856jfSAwxRM
+
+2021-03-24 Design meeting Lang team organization
+https://youtu.be/_4XO3YNsuLY
+
+2021-03-26 RFC 2229
+https://youtu.be/df1Zw5bAJxc
+
+2021-03-31 Design meeting How to dismantle an &Atomic bomb
+https://youtu.be/4iNVRZ34Km8
+
+2021-03-31 RFC 2229
+https://youtu.be/B_v35uuNtVk
+
+2021-04-06 Lang Team Triage Meeting
+https://youtu.be/eSRW85vZEvE
+
+2021-04-06 Triage Meeting
+https://youtu.be/Bff2nQ_awYU
+
+2021-04-15 RFC 2229 Sync
+https://youtu.be/M1u8R1sxU0E
+
+2021-04-20 Lang Team Triage Meeting
+https://youtu.be/s3DbJGVWeoQ
+
+Rust & Tell - 2021 Kickoff
+https://youtu.be/HNzeouj0eKc
+
+Rust Hungary - Meetup S03 E02
+https://youtu.be/KsRT5ruI_rM
+
+Rust Linz x Global Azure, April 2021 - Ryan Levick & Thomas Taylor - Rust, Kubernetes, and the Cloud
+https://youtu.be/Uqi9xwlFbEc
+
+Rust Linz, April 2021 - Herbert Wolverson - Learning Rust with Game Development
+https://youtu.be/79GyLlXAk-0
+
+Rust Linz, April 2021 - Jan-Erik Rediger - Leveraging Rust to build cross-platform libraries
+https://youtu.be/peu-rtN4358
+
+Rust Linz, March 2021 - Florian Gilcher - Ownership and Borrowing from a Systems Construction PoV
+https://youtu.be/8bZXx2jzfpU
+
+Rust Linz, March 2021 - Thomas Taylor - The Rusting Cloud
+https://youtu.be/my3ZjRXVRcs
+
+wg-incr-comp mtg #13  (2021-03-09)
+https://youtu.be/wor_-cq-fXk
+Videos 101-125

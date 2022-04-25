@@ -1,0 +1,52 @@
+
+Adventures in Efficiency and Performance—Dmitry Petrashko
+https://youtu.be/8mFl8fywIP4&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Brian Clapper—Spark for Scala Developers
+https://youtu.be/zXipqCcVmQM&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Describing Data...with free applicative functors (and more)—Kris Nuttycombe
+https://youtu.be/oRLkb6mqvVM&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+DOT Scala Types from Theory to Practice—Nada Amin
+https://youtu.be/fjj_fv346lY&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Edmund Noble—Data, and when not to use it
+https://youtu.be/q6JCvdMWtmo&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Encoding Async Graphs with Dependent Types—Jon Pretty
+https://youtu.be/v60SWyYUW6Q&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Exploring Decision Trees with Matryoshka—Zainab Ali
+https://youtu.be/TrPlVnoLxTI&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Fast Immutable Interval Sets—Rüdiger Klaehn
+https://youtu.be/Lb07lshL4cw&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+How to Build a Functional API—Julien Truffaut
+https://youtu.be/__zuECMFCRc&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Mastering Typeclass Induction—Aaron Levin
+https://youtu.be/Nm4OIhjjA2o&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Monoidal Parsing—Edward Kmett
+https://youtu.be/Txf7swrcLYs&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Scala World 2017 Closing Remarks
+https://youtu.be/dfpIvYZwvdY&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Scalafix Workshop—Gabriele Petronella
+https://youtu.be/uaMWvkCJM_E&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+Some Trends in Open Source & the State of the Scala Center—Heather Miller
+https://youtu.be/WImJnCQhutc&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+The 2017 Eyjafjallajökull Lecture—Viktor Klang
+https://youtu.be/IBjg9OqlcdQ&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger
+https://youtu.be/ofbaM7Yz3IM&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+
+The Unison Language and its Scala-based Runtime—Paul Chiusano
+https://youtu.be/knqlWboqf_U&list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
+Scala World 2017

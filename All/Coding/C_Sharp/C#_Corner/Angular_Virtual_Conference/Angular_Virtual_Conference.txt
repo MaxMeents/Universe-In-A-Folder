@@ -1,0 +1,43 @@
+
+Angular Virtual Conference (First Half)  C# Corner
+https://youtu.be/pb5jAOB2uVc&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Angular Virtual Conference (Second Half)  C# Corner
+https://youtu.be/zHPD-7uLXKc&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Building libraries with Angular by Nishu Goel  Angular Conference
+https://youtu.be/uKrZ4uK-JtU&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Fully Zone-Less - High-Performance Angular applications in post IVY by Michael Hladky
+https://youtu.be/q4dr_g35PLM&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Implement API Communication and Authentication using Angular by Debasis Saha
+https://youtu.be/I05vohN8S_0&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Improving Startup Performance with Angular Lazy Loading by Srashti Jain  Angular Conference
+https://youtu.be/32dG8qhivSU&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Internationalization in Angular by Ankit Sharma  Angular Conference
+https://youtu.be/9ljs8zxOEQU&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Let's Optimize an Angular App by Santosh Yadav  Angular Conference
+https://youtu.be/sulaQVpIjpU&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Local state management with @ngrxcomponent-store by Alex Okrushko  Angular Conference
+https://youtu.be/zMtubR7etsE&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Power of Angular Forms by Pankaj Parkar  Angular Conference
+https://youtu.be/-YrrNt1xr8E&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Practice makes perfect - when it comes to RxJS by Jan-Niklas Wortmann  Angular Conference
+https://youtu.be/8FMjmHp-s5U&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+The Present and the Future of Angular with Ivy by Siddharth Ajmera  Angular Conference
+https://youtu.be/tgR2dNCXIIc&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+The State of Angular by Minko Gechev  Angular Conference
+https://youtu.be/_Gqcnk1Q2d8&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+
+Welcome to the JAM Stack with Angular and Scully by Natalia Venditto   Angular Conference
+https://youtu.be/LIAgvtn_AG4&list=PLEy5IbO-F1-ntOWC_xStBVeBIhsYBHtaZ
+Angular Virtual Conference

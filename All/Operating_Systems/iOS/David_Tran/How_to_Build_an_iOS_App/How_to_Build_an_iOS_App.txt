@@ -1,0 +1,16 @@
+
+Build iOS Apps 1  - Roadmap to build 10 iOS apps in 8 months
+https://youtu.be/Sq0s9Lw6I2g&list=PLHmNdpdzx21Ever2vVuLXu2v3G47uMLbB
+
+Build iOS Apps 2  - What's programming anyway
+https://youtu.be/Q_0d_4iDZiI&list=PLHmNdpdzx21Ever2vVuLXu2v3G47uMLbB
+
+Build iOS Apps 3  - Playground, Data Types and Variables in Swift
+https://youtu.be/pJ1QnAo7bCw&list=PLHmNdpdzx21Ever2vVuLXu2v3G47uMLbB
+
+Build iOS Apps 4  - Constants and Type Declaration in Swift
+https://youtu.be/op5zBikXRyE&list=PLHmNdpdzx21Ever2vVuLXu2v3G47uMLbB
+
+Build iOS Apps 5 - Manipulating Data with Operators in Swift
+https://youtu.be/3F4QZ081WzQ&list=PLHmNdpdzx21Ever2vVuLXu2v3G47uMLbB
+How to Build an iOS App

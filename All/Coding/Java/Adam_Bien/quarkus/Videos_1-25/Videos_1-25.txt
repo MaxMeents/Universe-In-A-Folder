@@ -1,0 +1,76 @@
+
+Creating a Quarkus  MicroProfile Application from scratch and the impact of -Xmx18m
+https://youtu.be/I5feCqImyhI&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+CyberJUG-HHWhy is everybody talking about Quarkus #slideless
+https://youtu.be/nXXPOS8gjtA&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Deploying Quarkus to OpenShift
+https://youtu.be/QxJQMb35RWU&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Exposing JAX-RS Services with Quarkus and CORS
+https://youtu.be/X11qgJWbohI&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Identifying CDI Deployment Errors at Build Time with quarkus
+https://youtu.be/RpCRgveXO5A&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+JAX-RS with MicroProfile Reactive Messaging #slideless
+https://youtu.be/6VGLl3qktVQ&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+JDD Conf Kickass Java Backends #slideless
+https://youtu.be/OlHXnf-eKqU&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Liveness and Readiness probes with Quarkus
+https://youtu.be/ifCQzPUXrxk&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+MicroProfile OpenTracing with Jaeger and Quarkus
+https://youtu.be/iqHcTmqj-mo&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+MicroProfile REST Client Tests with Quarkus
+https://youtu.be/RLkvFT537_4&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Native JAX-RS  CDI Executables
+https://youtu.be/yv74VpKM7co&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+openJDK quarkus on openJ9 vs. HotSpot. Startup and RAM
+https://youtu.be/GMfAZ6Qqz3w&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+QuarkEE --  quarkus.io quickstarter
+https://youtu.be/2X1wGHyHvA4&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Quarkus and Panache ORM
+https://youtu.be/npAlosGwXdw&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Quarkus Dependency Injection--Behind The Scenes
+https://youtu.be/fH-GbXAnoec&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Quarkus vs. Wildfly - The RAM Perspective
+https://youtu.be/euFOeb6Gabg&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Quarkus vs. WildFly -- The Request  Second Perspective
+https://youtu.be/-1wijnrTxs0&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+quarkus with netbeans the developer experience
+https://youtu.be/5bo8dxq_7wY&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+quarkus.io as ThinJAR on docker
+https://youtu.be/JSSoGaspoKE&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Scaling JVM vs. Native--From Zero to 20 and Back
+https://youtu.be/8dXRyPHo-Z4&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Securing JAX-RS Endpoint with JWT
+https://youtu.be/twXqCoYQ16c&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Serverless Java #slideless
+https://youtu.be/_ey9hT1bTf8&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Supersonic, Subatomic CDI and JAX-RS with quarkus.io
+https://youtu.be/G0sQFy_5xQc&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Tomcat, Jetty and Quarkus--The Memory Consumption
+https://youtu.be/4FVoC4jG0BA&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+
+Unidirectional Dataflow with WebComponents, fetch and CustomEvents
+https://youtu.be/B9YCoE8jO8E&list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
+Videos 1-25

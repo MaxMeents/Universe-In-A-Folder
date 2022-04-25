@@ -1,0 +1,76 @@
+
+[50] Canvas Hurt - How To Make A Game
+https://youtu.be/r5H1BNcK6WI&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[51] Player Detect Item - How To Make A Game
+https://youtu.be/E75RPX7RW1o&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[52] Player Ammo Box - How To Make A Game
+https://youtu.be/QwyLo6nFEUA&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[53] Unity 5.3 Conversion - How To Make A Game
+https://youtu.be/mUEOfnPC8cw&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[54] Player Inventory - How To Make A Game
+https://youtu.be/vvIEUQnNPi4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[55] Intro To Chapter 4 - How To Make A Game
+https://youtu.be/__3arr-rHWQ&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[56] Item Master - How To Make A Game
+https://youtu.be/dsn4nnXS-rE&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[57] Item Throw - How To Make A Game
+https://youtu.be/jzpaQK9zzaM&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[58] Item Pickup - How To Make A Game
+https://youtu.be/Fc-xqDRjKl8&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[59] Item Tag - How To Make A Game
+https://youtu.be/aaUmaf40_ww&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[60] Item Name - How To Make A Game
+https://youtu.be/COs3duOw3h8&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[61] Item Rigidbodies - How To Make A Game
+https://youtu.be/OV0bMtDSQuA&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[62] Item Colliders - How To Make A Game
+https://youtu.be/pAkvcWXMdy4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[63] Item Set Layer - How To Make A Game
+https://youtu.be/dB7Qcmnbgvg&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[64] Item Set Position - How To Make A Game
+https://youtu.be/JHbIhgmvD0M&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[65] Item Sounds - How To Make A Game
+https://youtu.be/1O58n0Xp1cA&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[66] Item Animator - How To Make A Game
+https://youtu.be/Q5lmtocVrXY&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[67] Item UI - How To Make A Game
+https://youtu.be/zcnCP1rjIqM&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[68] Item Ammo - How To Make A Game
+https://youtu.be/fCqtrscXvyo&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[69] Intro To Chapter 5 - How To Make A Game
+https://youtu.be/Nv5hLLl6b_c&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[70] Download Golem - How To Make A Game
+https://youtu.be/gIjyCH0QA-k&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[71] Setup Ragdoll - How To Make A Game
+https://youtu.be/aBRXClymof4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[72] Enemy Controller - How To Make A Game
+https://youtu.be/MRotkpZDZUc&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[73] Enemy Master - How To Make A Game
+https://youtu.be/s7-WqmD3gHk&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[74] Enemy Animation - How To Make A Game
+https://youtu.be/AcoYGGSPkWM&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+Videos 51-75

@@ -1,0 +1,76 @@
+
+A Single Answer with a Deep Impact by Kerstin Puigmarti Concha  Community Lounge  JSConf EU 2019
+https://youtu.be/wt6m-X8PRzk
+
+Automated perf. budgeting into your pipeline w sitespeed.io - Daniel Lopez - JSConf US 2019
+https://youtu.be/SIp_xU2zCkg
+
+Communities Make a Difference by Claudia Hernández  Community Lounge  JSConf EU 2019
+https://youtu.be/Uo35vzbuBPw
+
+CSSconf EU 2019 - Last of Type - Mood Film
+https://youtu.be/QFnXa2nud10
+
+Designing Even Larger (JavaScript) Applications - Malte Ubl  JSConf Hawaii 2020
+https://youtu.be/z4mRkhhHdWo
+
+From Brazil to Berlin by Vinicius Kiatkoski Neves  Community Lounge  JSConf EU 2019
+https://youtu.be/4jBKi9Hp2Ug
+
+From Corporate Life to Open Source by Alex Lakatos  Community Lounge  JSConf EU 2019
+https://youtu.be/thKLWSGUUGk
+
+GoogleIndiaScholars by Arshi Saleh  Community Lounge  JSConf EU 2019
+https://youtu.be/U4Rd93Kz5gI
+
+Gratitude, Healthcare, and Coding Communities by Tejas Kumar  Community Lounge  JSConf EU 2019
+https://youtu.be/ipyy-FdHY-0
+
+How Community Made Me a #T1DCyborg by Jan Schenk  JSConf EU 2019
+https://youtu.be/Sm9BjqfgPNM
+
+Impressions of JSConf Budapest 2019
+https://youtu.be/oWmPuKDiRV4
+
+Looking under the rug the art of learning from failure by Isa Silveira  JSConf Budapest 2019
+https://youtu.be/KjgoWwQmxPI
+
+No Way, JOSE - Sam Bellen  JSConf Hawaii 2020
+https://youtu.be/cZ7lRxr_yzE
+
+Not Self Taught, But Community Taught by Katrin Kampfrath  Community Lounge  JSConf EU 2019
+https://youtu.be/kxgDfOHHadU
+
+Open Labs Hackerspace (Albania) by Mariana Balla  Community Lounge  JSConf EU 2019
+https://youtu.be/dL7kyybNzE4
+
+Parsing Parsers - Jenna Zeigen  JSConf Hawaii 2020
+https://youtu.be/rvQP2RTxEH8
+
+Paying it Forward with JavaScript by Flaki  Community Lounge  JSConf EU 2019
+https://youtu.be/pWqKTtkA0cU
+
+Shine Theory and the Berlin Community by Carolyn Stransky  Community Lounge  JSConf EU 2019
+https://youtu.be/Sing157tVMw
+
+Strike a Pose Gesture Recognition in JS with Machine Learning - Charlie Gerard  JSConf Hawaii 2020
+https://youtu.be/m-C2A7IENBg
+
+The Asynchronous Enterprise - Brendan O'Leary  JSConf Hawaii 2020
+https://youtu.be/xRro-dDsYPU
+
+The Perfect Tooling Library - Ben Ilegbodu  JSConf Hawaii 2020
+https://youtu.be/kQ4r9OATmB0
+
+The power to think like a Native Hawaiian in tech - Taylor Ho  JSConf Hawaii 2020
+https://youtu.be/J0dut8knlXQ
+
+Vue Vixens by Victoria Bergquist  Community Lounge  JSConf EU 2019
+https://youtu.be/hu_mADHnuZ8
+
+Why Communities Matter by Sophie Koonin  Community Lounge  JSConf EU 2019
+https://youtu.be/0AmVHTTcdjs
+
+Women Who Code by Francisca Schlesinger  Community Lounge  JSConf EU 2019
+https://youtu.be/rgltblbi3MY
+Videos 101-125

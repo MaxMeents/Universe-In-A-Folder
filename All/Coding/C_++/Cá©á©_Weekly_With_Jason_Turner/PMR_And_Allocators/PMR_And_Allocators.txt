@@ -1,0 +1,22 @@
+
+C++ Weekly - Ep 222 - 3.5x Faster Standard Containers With PMR!
+https://youtu.be/q6A7cKFXjY0&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+
+C++ Weekly - Ep 235 - PMR Amazing, Fast, But, Not Quite Magic
+https://youtu.be/vXJ1dwJ9QkI&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+
+C++ Weekly - Ep 236 - Creating Allocator-Aware Types
+https://youtu.be/2LAsqp7UrNs&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+
+C++ Weekly - Ep 245 - PMR Mistakes Were Made (By Me)
+https://youtu.be/6BLlIj2QoT8&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+
+C++ Weekly - Ep 248 - Understand the C++17 PMR Standard Allocators and Track All the Things
+https://youtu.be/Zt0q3OEeuB0&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+
+C++ Weekly - Ep 250 - Custom Allocation - How, Why, Where (Huge multi threaded gains and more!)
+https://youtu.be/5VrX_EXYIaM&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+
+C++ Weekly - Ep 252 - Real World PMR 2-3x Faster JSON Parsing with Custom Allocation Strategies
+https://youtu.be/R5PHRY5Pnlg&list=PLs3KjaCtOwSYX3X0L36NgwK0pxZZavDSF
+PMR And Allocators

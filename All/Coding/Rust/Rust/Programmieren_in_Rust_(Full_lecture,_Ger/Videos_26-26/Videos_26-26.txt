@@ -1,0 +1,4 @@
+
+Programmieren in Rust (08.02.) unsafe & FFI (Jonas Schievink)
+https://youtu.be/5IJr7wn48_I&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+Videos 26-26

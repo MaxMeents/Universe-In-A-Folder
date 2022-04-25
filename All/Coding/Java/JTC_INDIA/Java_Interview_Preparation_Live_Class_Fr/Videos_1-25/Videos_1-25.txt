@@ -1,0 +1,76 @@
+
+Session - 21  Core Java Interview Question Abstract Class  Interface
+https://youtu.be/0_lt0hGQTlk&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session - 22  Core Java Interview Question  Inner Class  Types of Inner Class
+https://youtu.be/sCoA7yD2duc&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session - 23  Core Java Interview Question  Method Local Inner Class
+https://youtu.be/2VTlundQcPo&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session -11  Core Java Interview Preparation  Method Overloading  Main Method by Som Sir
+https://youtu.be/DBAq7x72LC8&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session -19  Core Java Interview QuestionsDynamic DispatchMethod OverridingEarly & Late Binding
+https://youtu.be/LIvBSgJ_-eY&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session -2  Interview Question on Core Java  Public Class  JSHELL  Unicode  by Som Sir
+https://youtu.be/BU_kiDa-mbs&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session- 3 Interview Question on Core Java  Datatypes  Constant  Assignment Op. by Som Sir
+https://youtu.be/HQig23cNLwE&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-1   Core Java Interview Question  OOPS Programming  Platform Independent    by Som Sir
+https://youtu.be/YmRZs6hAX_4&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-10  Core Java Interview Question  Methods   Var-Arg Methods in Java by Som Si
+https://youtu.be/xpSIHtOX-_E&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-12  Core Java Interview Question  Constructor in Java by Som Sir
+https://youtu.be/qZ3LojiYAnQ&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-13  Core Java Interview Question  Role of Constructor in Object Creation by Som Sir
+https://youtu.be/nbbO8fVtIlE&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-14  Core Java Interview Question  Local Private Variable in Java Som Sir
+https://youtu.be/vbhCFbzvEPY&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-17  Core Java Interview Question    Core Java by Som Sir
+https://youtu.be/b2P08yw944w&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-20  Core Java Interview Question Abstract Class IN depth  Som Sir
+https://youtu.be/LkhgltYs9Ac&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-24  930PM Live  Object Class Methods  Java Interview Question by JTC
+https://youtu.be/U4CcGEn2AcI&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-25  930PM Live  Reflection AP  Garbage Collection  Java Interview Question by JTC
+https://youtu.be/x-uINz2DHgs&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-26  930PM Live  Design Patterns In Java  Singleton  Java Interview Question by JTC
+https://youtu.be/y3UJzUz_t6c&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-27  930PM Live  Cloning  in Java  Cloneable  Java Interview Question by JTC
+https://youtu.be/gsEOEy3SAzA&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-28  930PM Live  String Class Question in Java   Java Interview Question by JTC
+https://youtu.be/UYb1rHtO8LQ&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-5  Java Interview Question  Operators  Arrays in Java by Som sir
+https://youtu.be/fvODp1nXXhI&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-6 Java Interview Question  OOPS  Object Creation by Som Sir
+https://youtu.be/zEvTBhzUUS8&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-7  Java Interview Question  Object and Instance Instance & Static  members in java
+https://youtu.be/U5VLBh2cvFU&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-8  Java Interview Question Variables  Local  Final static final  in Java Som Sir
+https://youtu.be/DQBsxW0SsWA&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+Session-9  Interview Question on Core Java  Method in  Java by Som Sir
+https://youtu.be/T3I8qH9rESE&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+
+अब Interview Preparation live youtube पर by JTC
+https://youtu.be/aVC-rFQV-H4&list=PLqjYgbhioRNs4pKxseqIvY-yZ5GIpLuxp
+Videos 1-25

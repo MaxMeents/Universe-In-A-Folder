@@ -1,0 +1,76 @@
+
+3 Awesome Ruby Tricks That Your Brain Will Love!
+https://youtu.be/kd3pJfmIZj4
+
+7 Essential Linux Commands For Ruby Developers
+https://youtu.be/LgDpyGmWx_E
+
+Functional Composition in Ruby 2.6
+https://youtu.be/rcXzgBKRjwk
+
+Fundamental OOP Concepts for Ruby Developers
+https://youtu.be/_ER178pnS9c
+
+How to Do Math in Ruby With These Simple Methods
+https://youtu.be/GUf3pyQMjPQ
+
+How To Get Better At Ruby
+https://youtu.be/ehagSK-rfR8
+
+How to Implement a Search Feature in Ruby on Rails
+https://youtu.be/s88Uc0InOAM
+
+How to Learn Ruby in 2019
+https://youtu.be/Ymks3XKo840
+
+How to Use Input  Output (IO) in Ruby
+https://youtu.be/6Mf8Jy2RgK8
+
+How to Use Recursive Regular Expressions in Ruby
+https://youtu.be/f0Km67Ck5wo
+
+How To Use Ruby Hashes In the Most Effective Way
+https://youtu.be/6BD0OUI-N2U
+
+How to Use The AASM Gem To Create State Machines
+https://youtu.be/d1kY988eRjM
+
+How to Use The Chunk Method in Ruby
+https://youtu.be/sK8n30YGaW8
+
+How to Use The Mini Magick Ruby Gem
+https://youtu.be/ZowvjxNHbIg
+
+HTTP Overview For Ruby Developers
+https://youtu.be/dgbsOMtjQCg
+
+Rails Fundamentals MVC (Model-View-Controller) + Routing
+https://youtu.be/FCkWggKBugA
+
+Rails Methods Explained Blank & Present (With Examples)
+https://youtu.be/USCQZ8Fjbhk
+
+Ruby Methods All, Any, None & One
+https://youtu.be/68sZJdKp5XQ
+
+Understanding Rails Validations
+https://youtu.be/OA_dU0JeSKc
+
+Understanding Ruby Yield & Yield_Self
+https://youtu.be/xdELWY01RdY
+
+What is Active Support
+https://youtu.be/SfbPePRc2tw
+
+What is An ORM & Why is It Useful
+https://youtu.be/YpxB4dHuaxo
+
+What is JRuby
+https://youtu.be/3JzZxMK0EiM
+
+What Skills Do You Need To Get Hired as A Junior Ruby Developer
+https://youtu.be/XL1yZBWgXaE
+
+What's Dependency Injection in Ruby
+https://youtu.be/DGQ-Xs2h0SY
+Videos 76-100

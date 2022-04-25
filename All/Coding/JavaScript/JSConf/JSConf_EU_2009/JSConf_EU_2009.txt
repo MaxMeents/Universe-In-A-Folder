@@ -1,0 +1,52 @@
+
+Ryan Dahl Node JS
+https://youtu.be/EeYvFl7li9E&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Alexander Lang Writing apps on the edge with CouchDB
+https://youtu.be/jIaeDYqJ8d4&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Alexandre Morgaut Wakanda
+https://youtu.be/DqW4b5B4k1I&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Alois Reitbauer Tracing JS Performance
+https://youtu.be/0mm1jCjv8Fw&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Christophe Porteneuve Aggregation with Sprockets
+https://youtu.be/rSAawYEG_ao&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Dion Almaer The Future of the Web-Apps
+https://youtu.be/lzg-mRMtwyM&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Douglas Crockford The State and Future of JavaScript
+https://youtu.be/JUKPcWzsPpo&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Fabian Jakobs Autopsy of a Widget
+https://youtu.be/urdPeTrmXCg&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Faruk Ateş JavaScript in the age of HTML 5 and CSS 3
+https://youtu.be/VgO9pXixSpE&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Francisco Tolmasky Building Desktop-Caliber Web Apps
+https://youtu.be/PAAj50R3duc&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Julian Viereck & Dion Almaer Bespin
+https://youtu.be/EWjGTwCKUDo&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Malte Ubl JavaScript 2 Enterprise Edition
+https://youtu.be/lKaro_JB9qg&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Peter Svensson Using dojox.gfx and dojox.charting
+https://youtu.be/i_I_HU54PYY&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Remy Sharp HTML5 JavaScript APIs
+https://youtu.be/Ry_wrXHJFnI&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Robert Nyman JavaScript - From Birth to Closure
+https://youtu.be/0Dc-KENiyhE&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSConfEU 2009] Steve Souders JavaScript in Browser Performance
+https://youtu.be/FR8RwsM2Sq0&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+
+[JSconfEU 2009] Thomas Fuchs Extreme JavaScript Performance
+https://youtu.be/g1hCfENbXFA&list=PL37ZVnwpeshGNXb77ObNUbvax-VQ_DWJe
+JSConf EU 2009

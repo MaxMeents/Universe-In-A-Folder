@@ -1,0 +1,76 @@
+
+Acquiring Data from Sensors and Instruments Using MATLAB
+https://youtu.be/6K6OZ2APbKk
+
+Aircraft Power Network Development with Model Based Design
+https://youtu.be/5dLdt5suPDI
+
+Automated Trading System Development with MATLAB
+https://youtu.be/YP7t_3jusD4
+
+Backtesting Trading Strategies in Just 8 Lines of Code
+https://youtu.be/zHnvYdsVH7I
+
+Building Motor Control Applications with Embedded coder and NXP Motor Control Development Toolbox fo
+https://youtu.be/H6lBoY1lHoE
+
+Computer Vision System Design Deep Learning and 3D Vision
+https://youtu.be/be6Iw0QrI8w
+
+Design and Optimize MEMS Devices with Coventor MEMS+ and Simulink
+https://youtu.be/F69MF8vO43Y
+
+Designing Supervisory Control for Safety Critical Systems
+https://youtu.be/xr8Bbwg94js
+
+Developing Measurement and Analysis Systems Using MATLAB
+https://youtu.be/2vP2fy8F1W4
+
+Developing Safer Medical Devices Faster with Real Time Simulation, Prototyping, and Testing
+https://youtu.be/VNrXtNAMYyM
+
+Finding Parasitic Infections with MATLAB
+https://youtu.be/1TehkAnzBbU
+
+How to Price Asian Options Efficiently Using MATLAB
+https://youtu.be/yg1bdTqirD8
+
+Hybrid Electric Vehicle Modeling and Simulation
+https://youtu.be/EdBlOPHjdFg
+
+Image Acquisition Using GigE Vision Cameras with MATLAB
+https://youtu.be/UrcLTxC8knM
+
+Installing Hardware Support Packages for MATLAB and Simulink
+https://youtu.be/FDhRYwa4HYk
+
+Introduction to Model Based Design Modeling and Simulation with Simulink
+https://youtu.be/XrPxU2RAyVI
+
+Introduction to Model Predictive Control Toolbox
+https://youtu.be/yY6w7p1L_o8
+
+Modeling Systems with Multilevel Converters in MATLAB and Simulink
+https://youtu.be/OMn653OhbLg
+
+Motor Control with Embedded Coder for Microchip MCUs
+https://youtu.be/bImLTIwcdEU
+
+Natural Gas Storage Valuation with MATLAB
+https://youtu.be/Uu2JHzgeDUU
+
+Predictive Maintenance with MATLAB and Simulink
+https://youtu.be/hEYv3iN70ic
+
+Quadcopter Modelling and simulation - a case study for encouraging deeper learning engagements with
+https://youtu.be/Fi5GxqxinP0
+
+Teaching Mechatronics with MATLAB, Simulink, and Low Cost Hardware
+https://youtu.be/2GhNqKNdDGk
+
+Turning an Idea into a Data Driven Production System An Energy Load Forecasting Case Study - MATLAB
+https://youtu.be/-eTTjc8rBk0
+
+Understanding Discrete Event Simulation, Part 1 What Is Discrete Event Simulation
+https://youtu.be/21WQB0E-6-M
+Videos 1476-1500

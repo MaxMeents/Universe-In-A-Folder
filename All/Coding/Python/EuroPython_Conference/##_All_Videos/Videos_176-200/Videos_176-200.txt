@@ -1,0 +1,76 @@
+
+Aaron Ma - Machine Learning for Everyone
+https://youtu.be/TSs43j41pZU
+
+Alejandro Saucedo - Real Time Stream Processing for Machine Learning at Massive Scale
+https://youtu.be/Kkt986ZhKxs
+
+Anastasiia Tymoshchuk - Can we deploy yet
+https://youtu.be/Fgyk8P0IJsU
+
+Anmol Krishan Sachdeva - Painting with GANs Challenges and Technicalities of Neural Style Transfer
+https://youtu.be/Qd50-uRerZc
+
+Bence Arató - The Python Data Visualization Landscape in 2020
+https://youtu.be/35e0Chuxqi0
+
+David Bordeynik - Flasync Await
+https://youtu.be/ktwljlU1Axc
+
+Dean Wampler - Ray A System for High-performance, Distributed Python Applications
+https://youtu.be/OYLJ6l7KF6c
+
+Eran Friedman - Boosting simulation performance with Python
+https://youtu.be/HHTd-eCnQ-8
+
+Find a new job - Sponsor Presentations
+https://youtu.be/ZR6Xj_Pq5wk
+
+Gajendra Deshpande - Deceptive Security using Python
+https://youtu.be/nR6hqmJ3GJM
+
+Griffith S Rees - Resurrecting a django project in python 2.7 for 3.8
+https://youtu.be/0em-4h7Cg9M
+
+Hongjoo Lee - Automating machine learning workflow with DVC
+https://youtu.be/u3NysDLdCR0
+
+Hui Xiang Chua - Top 15 Python Tips for Data Cleaning Understanding
+https://youtu.be/-Vlqwtbg1wg
+
+Krishna Kanta Singh - Writing Extensions and Bindings for GPU made Easy
+https://youtu.be/Q3VBIOf2shg
+
+Marc-Andre Lemburg - EuroPython 2021 Help us build the next edition!
+https://youtu.be/Ymg0DW5pY_c
+
+Mattia Ferrini - Decision Science with Probabilistic Programming
+https://youtu.be/kc6D7aSFpaM
+
+Michael Howitz - We have nearly one million lines of Python 2 code in production – and now
+https://youtu.be/O-xSmvQwPHY
+
+Miki Tebeka - IPython The Productivity Booster
+https://youtu.be/Zmo2ZN1SJ_Q
+
+Mridu Bhatnagar - Object Internals
+https://youtu.be/UkUY6cVxlLY
+
+Naoise Holohan - Diffprivlib Privacy-preserving machine learning with Scikit-learn
+https://youtu.be/LWneaO94esk
+
+Philipp Thomann - NLPeasy - a Workflow to Analyse, Enrich, and Explore Textual Data
+https://youtu.be/N5pdZIJ_Whw
+
+Ram Rachum - Live-coding a music synthesizer
+https://youtu.be/SSyQ0kRHzis
+
+Robson Junior - Mastering a data pipeline with Python 6 years of learned lessons from mistakes
+https://youtu.be/O-0Z6NKRfvk
+
+Ruud van der Ham - Simulation of logistic systems in Python with salabim
+https://youtu.be/pRAO6J66o9k
+
+V. Fedotova, F. Schlimbach - The Painless Route in Python to Fast and Scalable Machine Learning
+https://youtu.be/0lA7qQWxMMA
+Videos 176-200

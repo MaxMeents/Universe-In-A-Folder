@@ -1,0 +1,31 @@
+
+Baruch Sadogursky on Software Module Hell
+https://youtu.be/sK_AO1P99Gs&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Erica Stanley about Women Who Code
+https://youtu.be/kmLbmK_QXjE&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Jennifer Tong on Open Data and BigQuery
+https://youtu.be/8DJ6cg7ik5Q&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Katharina Probst on the Netflix API
+https://youtu.be/33BEV9MW9-0&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Koffi Sessi on Developer Training
+https://youtu.be/q9nkm2Z1oKw&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Markus Eisele on Java EE and Microservices
+https://youtu.be/uTVWweKHVyw&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Michael Minella & Glenn Renfro Discussing On Demand Processing
+https://youtu.be/ANdazNGY0nk&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Stuart Marks on Java 9
+https://youtu.be/57pOpbmfA9M&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Sven Peters on Development Automation and Coding Culture
+https://youtu.be/rbt9UpQNEkY&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+
+Viktor Gamov on In-Memory Data Grids
+https://youtu.be/lgabhNr6LqM&list=PL2ekzZZrxVUn09wm9qCl19_LRvPyB4DTI
+DevNexus 2016

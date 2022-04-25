@@ -1,0 +1,76 @@
+
+Adam Bien - Java, Clouds and Cost Driven Architectures #lowslides (Keynote)
+https://youtu.be/kl_Hu38nK34
+
+Assuring Data Quality at Scale by Gayathri Thiyagarajan
+https://youtu.be/l0FHmVJTZUQ
+
+Cosmin Cojocaru - Can AI predict your property price based on images
+https://youtu.be/QpFIUTBnt1E
+
+Cypher Sleuthing  Tips and Tricks for Querying a Graph Database by Jennifer Reif
+https://youtu.be/Cc7B1MUiztE
+
+Gabriel Bornea - Functional web APIs
+https://youtu.be/Ic58R8CVNuM
+
+Hans-Peter Grahsl&Gunnar Morling - Dissecting our Legacy The Strangler Fig Pattern with ...
+https://youtu.be/rl06nAIdIhQ
+
+Happy Holidays from Devoxx team!  🍾 🥂 🎄
+https://youtu.be/-twykPNOQEM
+
+Horatiu Dan - Respectful REST APIs – ‘Sunset’ and ‘Deprecation’ HTTP Headers
+https://youtu.be/wnFtt0oNTLU
+
+How to Build a Unicorn - or Die Trying by Heather Wilde
+https://youtu.be/tyq7_eiMnz4
+
+Humane On Call  Alerting doesn't have to be painful by Mario Fernandez
+https://youtu.be/X59Sfaey5N4
+
+Java and Ransomware  - what's in it for you by Steve Poole
+https://youtu.be/W-AVjIMlaig
+
+Johan Janssen - How and Why to Upgrade to Java 17
+https://youtu.be/N9ATMhH2bL0
+
+John Papa - 7D’s of Developing and Delivering Technology
+https://youtu.be/EuhgnazNlgY
+
+Josh Long - Bootiful Edge Services (Keynote)
+https://youtu.be/lp5bSfNHHZg
+
+Kevlin Henney - Software is details (Keynote)
+https://youtu.be/9hlBEI-3Gro
+
+Kontinuous Integration and Delivery in the Cloud Native World by Alex Soto
+https://youtu.be/Gk5O84dbxRA
+
+Mohamed Taman - Do you use Optional class as it should be
+https://youtu.be/_O81ve3ChG0
+
+Nicolas Boitout - Bucharest is already the European capital of Low-CodeRPA  what opportunity ....
+https://youtu.be/2qNtgtGPmdU
+
+Race between pair programming tools by Kaya Weers
+https://youtu.be/LY1ViNekw_Q
+
+Real Talk It's Time To Talk About Our Feelings by Lindsay Kohler
+https://youtu.be/r3noZAavhn0
+
+Replicating production in your tests with the magic of containers by Grace Jansen
+https://youtu.be/_cq1iBxuD-I
+
+The Art of Code by Dylan Beattie
+https://youtu.be/8dCD-WfW6Do
+
+The Automation Challenge  Kubernetes Operators vs Helm Charts by Ana maria Mihalceanu
+https://youtu.be/_Dy6gqeUuAM
+
+The evolution of the AI developer by Dale Lane
+https://youtu.be/O-8GwECx1OA
+
+VoxxedDays Brussels
+https://youtu.be/rtjDvnWllYE
+Videos 1-25

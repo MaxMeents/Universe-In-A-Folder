@@ -1,0 +1,19 @@
+
+It's in the bag How to cheat at interviews using Perl 6
+https://youtu.be/f4QS15GkaC8
+
+Larry Wall  Keynote 2017
+https://youtu.be/E5t8qaAGw9w
+
+Lightning Talks Day 1  The Perl Conference in Amsterdam 2017
+https://youtu.be/B5KVLlnxN2Q
+
+Lightning Talks Day 2  The Perl Conference in Amsterdam 2017
+https://youtu.be/24cCjo6_sXc
+
+Perl 6 Superglue for the 21st Century
+https://youtu.be/DnsUSkwnRfA
+
+Unicode Internals of Perl 6
+https://youtu.be/Edsyjz-ZWuI
+Videos 76-81

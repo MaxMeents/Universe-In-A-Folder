@@ -1,0 +1,19 @@
+
+AI Learns to Drive a Car! (ML-Agents in Unity)
+https://youtu.be/2X5m_nDBvS4&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110
+
+AI Learns to play Flappy Bird!
+https://youtu.be/fz8D0OZkQGQ&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110
+
+How to Solve a Match-3 with Machine Learning! (Unity ML-Agents)
+https://youtu.be/nTBKx5rWXo8&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110
+
+How to use Machine Learning AI in Unity! (ML-Agents)
+https://youtu.be/zPFU30tbyKs&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110
+
+How to use Machine Learning AI Vision with Unity ML-Agents!
+https://youtu.be/ZV12uozR36k&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110
+
+Teach your AI! Imitation Learning with Unity ML-Agents!
+https://youtu.be/supqT7kqpEI&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110
+Machine Learning AI in Unity (ML-Agents)

@@ -1,0 +1,76 @@
+
+Battle Of The Microservice Frameworks Micronaut versus Quarkus edition! by Michel Schudel
+https://youtu.be/hnEXOqcNXPs
+
+Building your own JDK in 10 steps by José Paumard
+https://youtu.be/lhkjOrY65Ts
+
+Developer First A New Leadership Mindset  by Kate Wardin
+https://youtu.be/rObm6HqXA48
+
+From hot data sources to interactive clients in a hurry by Jesper Møller
+https://youtu.be/oQZhnYRoqSg
+
+Helm your way with Kubernetes by Ana Maria Mihalceanu
+https://youtu.be/YiXf4Pqyl0A
+
+Java keeps throttling up! by José Paumard & Remi Forax
+https://youtu.be/Y-744emVGoo
+
+Kubernetes Distilled - an in depth guide for the busy Java developer by Alberto Rios & Oliver Hughes
+https://youtu.be/l7lt6yYLvRo
+
+Make your IoT even Smarter with Tensorflow Lite to Design the Future of Vertical Farming by Alexis
+https://youtu.be/rYWniwZ7mzk
+
+Mocking your microservices with mock server by Jaap Coomans
+https://youtu.be/oipykrGdsk8
+
+Money, Money, Money, can be funny with JSR 354 by Werner Keil
+https://youtu.be/heH08CROmb0
+
+Speedy build for your java application images with JIB! by Mohammed Aboullaite
+https://youtu.be/bkC1spGOI7Y
+
+The Web is on 🔥 F I R E  🔥 !!!  by Noël Macé
+https://youtu.be/lfubOlz3JLI
+
+Understanding Security Threats Against MachineDeep Learning Applications by Abraham Kang
+https://youtu.be/dPO-jDm1h-g
+
+Wiremock because your microservice needs a buddy when you're testing by Rosanne Joosten
+https://youtu.be/ddUMyLsDkLw
+
+Writing Java agents for fun and not so much profit by Robert Munteanu
+https://youtu.be/pznvd89GgBg
+
+[VDT19] Concurrent Garbage Collectors ZGC & Shenandoah by Simone Bordet [IT]
+https://youtu.be/WU_mqNBEacw
+
+[VDT19] Get some superpowers with your terminal by Siegfried Ehret
+https://youtu.be/ZVv4klOho2M
+
+[VDT19] Learning 2 learn by Carlo Corti
+https://youtu.be/I9mpF8RTNHU
+
+[VDT19] Metaprogramming with JavaParser by Luca Molteni
+https://youtu.be/1pSj6OQsq9k
+
+[VDT19] Modern Enterprise Java from the ground up by Sebastian Daschner
+https://youtu.be/21NzRCU4xKk
+
+[VDT19] Multiplayer Pac-Man with RSocket by Oleh Dokuka
+https://youtu.be/7ZT4HTElu9k
+
+[VDT19] Streaming ETL on the Shoulders of Giants by Hans-Peter Grahsl
+https://youtu.be/Uyu4TpVNzp8
+
+[VDT19] TDD for jenkins pipelines by Mauro Ferratello
+https://youtu.be/WND-DRWGTJE
+
+[VDT19] What would you do with 10^6 cores High Performance Computing in the AWS Cloud by Frank Munz
+https://youtu.be/-QCGam1DDqQ
+
+[VDT19] [Keynote] Welcome by Federico Yankelevich and Anastasia Gautschi
+https://youtu.be/0q51BnyuNmQ
+Videos 301-325

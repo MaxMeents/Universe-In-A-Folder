@@ -1,0 +1,76 @@
+
+Build To Last From Frontend To Backend slideless talk by Adam Bien
+https://youtu.be/tgpruknOOfE
+
+Consumer Driven Contracts and Your Microservice Architecture by Marcin Grzejszczak and Josh Long
+https://youtu.be/MDydAqL4mYE
+
+Interview with Ana-Maria Mihălceanu at Voxxed Days Bucharest 2017
+https://youtu.be/BzWB6kcQjoo
+
+Interview with Andres Almiray at Voxxed Days Bucharest 2017
+https://youtu.be/TisChtKEY0c
+
+Interview with Clement Delafargue at Devoxx UK
+https://youtu.be/_swMJ-Pken4
+
+Interview with Dmitry Alexandrov at Voxxed Days Bucharest 2017
+https://youtu.be/wfFNk2XMg-I
+
+Interview with Dmitry Kandalov at Devoxx UK
+https://youtu.be/fYFsUm8EEus
+
+Interview with Helen Beal at Devoxx UK 2017
+https://youtu.be/aMgJLAYMBQY
+
+Interview with Jack Shirazi at Devoxx UK 2017
+https://youtu.be/bvsebhYgxls
+
+Interview with Koffi Sessi at Devoxx UK 2017
+https://youtu.be/ilS8jeR0SQU
+
+Interview with Laurent Victorino at Devoxx UK 2017
+https://youtu.be/7RRctpM5SWM
+
+Interview with Mark Paluch at Voxxed Days Bucharest
+https://youtu.be/so99JVplY7E
+
+Interview with Michael Hackstein at Voxxed Days Bucharest 2017
+https://youtu.be/0fG230tUgjU
+
+Interview with Rafał Leszko at Voxxed Days Bucharest 2017
+https://youtu.be/6ergs1eP75M
+
+Interview with Tara Walker at Devoxx UK 2017
+https://youtu.be/xkwGp7vJOKA
+
+Interview with Victor Rentea at Voxxed Days Bucharest
+https://youtu.be/KFx7A4QF77Y
+
+Interview with Vlad Mihalcea at Voxxed Days Bucharest 2017
+https://youtu.be/-m-kXOGjPo8
+
+Interview with Vladimir Dejanovic at Voxxed Days Bucharest 2017
+https://youtu.be/U9LPdRfeX6g
+
+Interview with Will May at Devoxx UK 2017
+https://youtu.be/Go-A7WdWXhA
+
+Java Performance Puzzlers by Douglas Hawkins
+https://youtu.be/wgQBz2Ldhvk
+
+JPA beyond copy paste by Jakub Kubrynski
+https://youtu.be/EZwpOLCfuq4
+
+Learning to fly by Krzysztof Kudrynski and Blazej Kubiak
+https://youtu.be/UOVT9T64kXI
+
+Polytech Careerism by Ted Neward
+https://youtu.be/gf-de7HPA7I
+
+Reactive Spring by Juergen Hoeller and Josh Long
+https://youtu.be/TZUZgU6rsNY
+
+Speed without Discipline a Recipe for Disaster by Venkat Subramaniam
+https://youtu.be/uQ75fI1tqoM
+Videos 1701-1725

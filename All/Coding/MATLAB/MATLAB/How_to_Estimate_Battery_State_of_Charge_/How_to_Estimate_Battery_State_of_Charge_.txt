@@ -1,0 +1,13 @@
+
+Part 1 An Introduction to Battery State of Charge Estimation
+https://youtu.be/0v4IWgx83RA&list=PLn8PRpmsu08qEaoBNHa16bPASDDKNBQI0
+
+Part 2 The Experiment Using Neural Networks
+https://youtu.be/FMBErZRj_HQ&list=PLn8PRpmsu08qEaoBNHa16bPASDDKNBQI0
+
+Part 3 Neural Networks for SOC Estimation
+https://youtu.be/jD5Bqy34sNc&list=PLn8PRpmsu08qEaoBNHa16bPASDDKNBQI0
+
+Part 4 Training and Prediction in MATLAB and Simulink Implementation
+https://youtu.be/dq7_xQalSd0&list=PLn8PRpmsu08qEaoBNHa16bPASDDKNBQI0
+How to Estimate Battery State of Charge using Deep Learning

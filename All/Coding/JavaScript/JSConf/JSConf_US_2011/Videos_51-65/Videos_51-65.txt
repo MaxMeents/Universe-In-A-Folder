@@ -1,0 +1,46 @@
+
+Allen Pike Making a JS meetup blow minds
+https://youtu.be/gGeH1Ytpfs0&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Andrew Dupont Everything is Permitted Extending Built-ins
+https://youtu.be/xL3xCO7CLNM&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+David Flanagan Bytes and blobs
+https://youtu.be/4ba0G8FQt5M&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Jeremy Ashkenas CoffeeScript as a JSNext
+https://youtu.be/QTj6Q_zV1yg&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+John Hann & Brian Cavalier The future is modules not frameworks. JS modules Architecture demo.
+https://youtu.be/uV6LTMUokwY&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+John Schulz Canvas in NodeJS
+https://youtu.be/3Kms9YASgAw&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+JSConf US 2011 Welcome Video
+https://youtu.be/ajtCl7i3AQw&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Malte Ubl & Meno Abels Conference wifi redux
+https://youtu.be/Xs1ZDVvvWyg&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Michael Bolin with JavaScripts most reviled keyword
+https://youtu.be/77HH93mgyYY&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Nick Small fighting crime and kicking apps with Batman.js
+https://youtu.be/6PalBljoP3Q&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Paul Irish Going steady with the Chrome Dev Tools
+https://youtu.be/ov09a3d6dVQ&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Peter van der Zee Visual statical analysis tool
+https://youtu.be/3mY03wGxByg&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Reid Burke Modules made awesome. Lessons learned from YUI loader on Node.js
+https://youtu.be/7GDPhHWOAJE&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Tim Caswell Node powered desktop apps
+https://youtu.be/6XqD8h_C3ZQ&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+
+Trevor Lalush-Menagh Envjs and Jasmine Headless tests FTW
+https://youtu.be/G2IYOTXPmg0&list=PL37ZVnwpeshGoyAz6XzjKtlgp9XrjVry_
+Videos 51-65

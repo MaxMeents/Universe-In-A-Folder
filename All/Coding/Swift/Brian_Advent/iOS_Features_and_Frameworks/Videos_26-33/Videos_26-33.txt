@@ -1,0 +1,25 @@
+
+Apple Swift Tutorial Simple iOS9 Swift Application with Spotlight Search
+https://youtu.be/BH_V8a5xKGk&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+Create an App like Twitter Push Notifications with CloudKit
+https://youtu.be/BXl5o5_2aEU&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+Create an App like Twitter using CloudKit instead of Parse
+https://youtu.be/XQ3nLV2778U&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+iOS Swift Tutorial Face detection
+https://youtu.be/62kUursmc4E&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+iOS Swift Tutorial iCloud Notebook App with CoreData
+https://youtu.be/SG_XSD84WOc&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+iOS Swift Tutorial Zoom and pan large images - UIScrollView
+https://youtu.be/hz9pMw4Y2Lk&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+Swift iOS8 App Extensions Tutorial Today Extension
+https://youtu.be/1BJDlyweCSM&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+
+WatchKit Swift Tutorial Create a real world Apple Watch App
+https://youtu.be/sZAT8wNJnF0&list=PLY1P2_piiWEZ8ewOHanfczeL0JBpUePhC
+Videos 26-33

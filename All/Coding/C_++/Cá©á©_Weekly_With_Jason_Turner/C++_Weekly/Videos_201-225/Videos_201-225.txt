@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 200 - Christmas Class 2019 - Chapter 1 of 5 - Understanding Lambdas
+https://youtu.be/3hGSlUGEXtA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 201 - Christmas Class 2019 - Chapter 2 of 5 - Building On Lambdas
+https://youtu.be/DolVujl_EUw&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 202 - Christmas Class 2019 - Chapter 3 of 5 - Utilizing Lambdas
+https://youtu.be/VEqOOKU8RjQ&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 203 - Christmas Class 2019 - Chapter 4 of 5 - The Evolution of Lambdas
+https://youtu.be/tpGPVrTudLA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 204 - Christmas Class 2019 - Chapter 5 of 5 - Lambdas To The Limits
+https://youtu.be/TKPDW--AzWo&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 205 - Christmas Class 2019 - Chapter 5 of 5 Answers
+https://youtu.be/i2HyDHAVBsk&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 206 - Surprising Conversions with CTAD
+https://youtu.be/IhjvznH9GvI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 207 - C++20's jthread and stop_token
+https://youtu.be/-yaz4n5zWZs&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 209 - An RPG in C++20 - Part 0 The Plan
+https://youtu.be/kwFcRvxy0D0&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 210 - An RPG in C++20 - Part 1 Getting Started With SFML & Dear ImGui
+https://youtu.be/av0SYeUxVMU&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 211 - C++20's Bit Manipulation Functions
+https://youtu.be/8EyZ6mRDlx8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 212 - An RPG In C++20 - Part 2 Finding Errors As Soon As Possible
+https://youtu.be/sZBVLDbJRwg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 213 - CTRE Compile Time Regular Expressions
+https://youtu.be/8aRfJp1oZGA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 214 - Epic 10 Hour Port of Doom to C++
+https://youtu.be/0dkzLdqH9V4&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 215 - An RPG in C++20 Part 3 - Handling Command Line Parameters
+https://youtu.be/U_2WDRTdImk&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 216 - C++20's lerp, midpoint And Why They Are Necessary
+https://youtu.be/gwHL4EOb-R8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 217 - Doom vs C++ Round 1 Initial Results
+https://youtu.be/Nand3PEV1p4&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 218 - C++20's stdto_array
+https://youtu.be/IcQl1Oh9AvQ&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 219 - RPG In C++20 - Part 4 Reading SFML Joystick States
+https://youtu.be/jUh9q_qWhlM&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 220 - C++20's [[likely]] and [[unlikely]] With Practical use Case
+https://youtu.be/ew3wt0g99kg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 221 - Generating a .clang-format For C++ Doom
+https://youtu.be/FNLWtKxXQ0o&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 222 - 3.5x Faster Standard Containers With PMR!
+https://youtu.be/q6A7cKFXjY0&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 223 - Know Your Standard Library stdnextafter
+https://youtu.be/-F0j2VN4xEU&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 224 - RPG In C++20 - Part 5 Dealing With Game Input Events
+https://youtu.be/EF-lO3daS7I&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 225 - Understanding Operator Overloading
+https://youtu.be/gjFrjNK3Dq4&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+Videos 201-225

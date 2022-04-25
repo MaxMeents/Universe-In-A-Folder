@@ -1,0 +1,76 @@
+
+20x your high-performing agile delivery team - Voxxed Days Singapore 2018
+https://youtu.be/VZlTxHeO_JY&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Advanced (elastic)search for your legacy application - Voxxed Days Singapore 2018
+https://youtu.be/ktCUL1c9nNM&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Better leaders. Better organizations - Voxxed Days Singapore 2018
+https://youtu.be/pdDaHG1qa0I&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Building Applications that Last - Voxxed Days Singapore 2018
+https://youtu.be/XlrPTNHAB1w&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Building Developer Community One Pull Request at a Time - Voxxed Days Singapore 2018
+https://youtu.be/koJShr8f9pk&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Design Reactive Apps in Kotlin - Voxxed Days Singapore 2018
+https://youtu.be/fCU2lBZ5kb4&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Developer under influence - Voxxed Days Singapore 2018
+https://youtu.be/BgPj5b6d6nk&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Devops - What does devops culture mean for engineers - Voxxed Days Singapore 2018
+https://youtu.be/oHhnq-3Q66U&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+From Javascript to Haskell  Functional Programming made simple - Voxxed Days Singapore 2018
+https://youtu.be/x7j6KeQgZ6k&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Genetic Algorithms in Go - Voxxed Days Singapore 2018
+https://youtu.be/A0Fd0eL36II&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Get better at Refactoring - Voxxed Days Singapore 2018
+https://youtu.be/awEqPxDW9og&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Hitchhiker's Guide to Functional Programming - Voxxed Days Singapore 2018
+https://youtu.be/9RGVDdE5QjI&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+How Honestbee does CICD on Kubernetes - Voxxed Days Singapore 2018
+https://youtu.be/YtqOoiF--Mw&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+How improvisation boosts creativity and collaboration - Voxxed Days Singapore 2018
+https://youtu.be/JG_5Mhqu8WU&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Java Puzzlers NG The strange, the bizarre, and the wonderful - Voxxed Days Singapore 2018
+https://youtu.be/NG-27PnRcTc&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Moving Fast with XP - Voxxed Days Singapore 2018
+https://youtu.be/7bcKrSw_lJM&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Opening Keynote - Voxxed Days Singapore 2018
+https://youtu.be/74FXwYI6-gU&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Progressive Web Applications - The best of both worlds (App & Web) - Voxxed Days Singapore 2018
+https://youtu.be/J4NCATNCgJ8&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Rapid mobile API development with GraphQL and Amazon AppSync - Voxxed Days Singapore 2018
+https://youtu.be/x5Ul71Kspws&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Rationale for Relational - Voxxed Days Singapore 2018
+https://youtu.be/_LX_ZKqyTSM&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Reactive Frontends with RxJS and Angular - Voxxed Days Singapore 2018
+https://youtu.be/5OsP1XZzRgI&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Reactive Spring - Voxxed Days Singapore 2018
+https://youtu.be/GbVpKF7tVeI&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Reactive Systems with Eclipse Vert.x and Kubernetes - Voxxed Days Singapore 2018
+https://youtu.be/ucDNAFoON1A&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Serverless Java on Kubernetes - Voxxed Days Singapore 2018
+https://youtu.be/FJ2iJ5Wb7lg&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+The Story of LeSS - Voxxed Days Singapore 2018
+https://youtu.be/MJxtHbZU7Mo&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+Videos 1-25

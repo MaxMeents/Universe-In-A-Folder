@@ -1,0 +1,76 @@
+
+Alessandro Amici - Test-driven code search and reuse coming to Python with pytest-nodev
+https://youtu.be/M33s1Mb5bjo
+
+Alexandre Savio - Nipy on functional brain MRI
+https://youtu.be/6WpK6YILjxA
+
+Anna Herlihy - Wrestling Python into LLVM Intermediate Representation
+https://youtu.be/knL-c9WIru8
+
+Björn Meier - NetworkX Visualization Powered by Bokeh
+https://youtu.be/vlpeQJqzOfA
+
+Claudia Guirao Fernández - Python, Data & Rock'n'Roll
+https://youtu.be/v_F9CnpgOd8
+
+Elizaveta Shashkova - Monkey-patching a magic trick or a powerful tool
+https://youtu.be/ZpJxwpyJpq4
+
+Fabio PligerMarc-André Lemburg - EuroPython 2016 Closing Session
+https://youtu.be/ScqJEuZK8_c
+
+Florian Wilhelm - Handling GPS Data with Python
+https://youtu.be/9Q8nEA_0ccg
+
+Honza Král - Log all the things!
+https://youtu.be/4_xRFTDxPIg
+
+Hynek Schlawack - Get Instrumented!
+https://youtu.be/1OB0w4b_3l0
+
+Ian Lewis - Deep Learning with Python & TensorFlow
+https://youtu.be/yZuxcR8jxlw
+
+Joaquin Berenguer - Server for IoT devices and Mobile devices using Wifi Network,
+https://youtu.be/XIFJttWrz6k
+
+John Sutherland - Iteration, iteration, iteration
+https://youtu.be/qKPNubOwSJ0
+
+Michał Bultrowicz - TDD of Python microservices
+https://youtu.be/d-ka10jngQQ
+
+Michele Simionato - How to migrate from PostgreSQL to HDF5 and live happily ever after
+https://youtu.be/uYKofUe0TnM
+
+Mike BRIGHT - Jupyter for everything else
+https://youtu.be/wG6u51uuXEA
+
+Olga Lyashevska - How can machine learning help to predict changes in size of Atlantic herring 
+https://youtu.be/iGMef0eRrdM
+
+Patrick Mühlbauer - Split Up! Fighting the Monolith
+https://youtu.be/oCb7ji8IzPc
+
+Ralph Heinkel - The value of mindfulness and how it has arrived at Google
+https://youtu.be/8TAJ9ytl9qE
+
+Ryan Lahfa - Free your papers, researchers!
+https://youtu.be/wtUIvPSIfiE
+
+Sophia Davis - Peeking into Python’s C API
+https://youtu.be/hhU8LOgy-QQ
+
+Takuro Wada - 3D Modeling and Printing by Python
+https://youtu.be/RqOpw3YNKpc
+
+Tariq Rashid - A Gentle Introduction to Neural Networks (with Python)
+https://youtu.be/b7oYqAlX_Bo
+
+Tobias Oberstein - Scaling Microservices with Crossbar.io
+https://youtu.be/DTKlo8w6QIo
+
+Various speakers - Lightning Talks
+https://youtu.be/99hirARuiyY
+Videos 701-725

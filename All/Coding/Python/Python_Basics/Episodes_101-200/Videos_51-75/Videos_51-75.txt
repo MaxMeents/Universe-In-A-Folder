@@ -1,0 +1,151 @@
+
+Python Basics Advance String format
+https://youtu.be/GyKvB0ScNBU&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Bytes Decode Method
+https://youtu.be/zusNudZDE20&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Bytes Object
+https://youtu.be/0w9I1SXf_dI&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Decryption
+https://youtu.be/gowXsR58dN8&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Dictionary Comprehension
+https://youtu.be/YD8g6xSBYEw&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Double Underscore
+https://youtu.be/Rg-o1_Rp_NM&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Encryption
+https://youtu.be/V79r_yj5WHw&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Escape Character
+https://youtu.be/DEyiY-8iwEw&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Fibonacci Numbers
+https://youtu.be/8WKl8qDzJA4&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics File Write Method Using Urllib
+https://youtu.be/LAo9kK4APfU&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Generator Objects
+https://youtu.be/PzV-_lQQ2x8&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics How to find the Powerball Lottery Odds
+https://youtu.be/98ELH8jj9Qs&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics How to Install Pip  Path Set-up
+https://youtu.be/uye8FL1H0cE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Id Function
+https://youtu.be/6jnKTOUCZ2w&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Iter Function
+https://youtu.be/Sa9O85TDAgo&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Keyword As
+https://youtu.be/_zDYaZ5HWQI&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Keyword is
+https://youtu.be/ik1NtViGMqs&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Keyword Pass
+https://youtu.be/MAcCBAL9wFY&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics List Copy Method
+https://youtu.be/EUfXIgvXqHc&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics List Remove Method
+https://youtu.be/Os2R4txWnzQ&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Map Function
+https://youtu.be/4oktfOywnMc&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Math Module Factorial Method
+https://youtu.be/sXPMKQCvvAA&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Math Module Pi Value
+https://youtu.be/nhdF1vHFRr4&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Monty Hall Odds Pt  2
+https://youtu.be/IGQw2qwyTUA&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Monty Hall Odds Pt  3
+https://youtu.be/o9XLyc3WWoI&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Monty Hall OddsPt  1
+https://youtu.be/8mbor291w2E&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Nested Functions
+https://youtu.be/oFbVxObOyEc&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Next Fucntion
+https://youtu.be/jy5C1d5tSqo&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics NoneType
+https://youtu.be/e8jkaqbEv5c&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Open Function
+https://youtu.be/rtTu0IA5hOo&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Print 3 Challenge
+https://youtu.be/LXTIrFpQA-8&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Print 3 Solutions
+https://youtu.be/qTO2ZJHsoz4&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Pythagorean Theorem
+https://youtu.be/fvoNZ5SmRdc&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Random Choice
+https://youtu.be/2NCyNTCjL3k&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Return Dead Code
+https://youtu.be/d6aCpA9sr7E&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Scope Built-in or Global Variables
+https://youtu.be/XI9HhuP6u2o&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Scope Nonlocal Variables
+https://youtu.be/OaoswUojMqE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Set ObjectFunction
+https://youtu.be/9ehcvZE_Ab0&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Endswith Method
+https://youtu.be/io5XB5ru0-Q&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Format Phone Number
+https://youtu.be/nUrSDdVTol0&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Replace Method
+https://youtu.be/Ar20Y2hAfOg&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Startswith Method
+https://youtu.be/5BdFgG62yoE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics String Tab and New line
+https://youtu.be/1oIodRrMRsE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Time List comprehension and for loops
+https://youtu.be/D0UEwoMTq28&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Tutorial Random Seed Method  Data Science Building Block
+https://youtu.be/mZiwtDYrpO8&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Urllib Module
+https://youtu.be/H2M2GbKFX6U&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Urllib Urlopen Read Method
+https://youtu.be/pBs5syZ0uiI&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Urllib Urlopen
+https://youtu.be/rnkILdjWYjo&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Zen of Python
+https://youtu.be/s_fAZJbv8OE&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+
+Python Basics Zip Unpacking
+https://youtu.be/7iZ_3su2Yuk&list=PLaYT64KWZAEPtXVHEHfbLCU33yFZ1mAgS
+Videos 51-75

@@ -1,0 +1,46 @@
+
+Unity RPG Tutorial #26 - NPC Movement
+https://youtu.be/5owq_9lptdE&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #27 - Constraining Movement
+https://youtu.be/rTVZ1O12Vec&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #28   Dialogue Boxes
+https://youtu.be/BrCxFpZFRS0&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #29 - Multiple Dialogue Lines
+https://youtu.be/cVS9-nPmzGg&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #30 - Stopping Movement During Dialogue
+https://youtu.be/KWNzLT46w9Q&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #31 - Creating Quests!
+https://youtu.be/oH-OFyJFrC8&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #32 - Basic Location Quest
+https://youtu.be/d3yc8RG3Xro&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #33 - Item Quest
+https://youtu.be/l31nnI5d6Cw&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #34 - Hunt Enemies Quest
+https://youtu.be/IqjjUuX1th8&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #35 - Bug Fixes & Movement
+https://youtu.be/mrnsvnsQMeM&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #36 - Keeping Camera Inside The Map
+https://youtu.be/fQ2Dvj5-pfc&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #37 - Adding Sound Effects
+https://youtu.be/3YXNJqNR3d8&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #38 - Creating A Music Manager
+https://youtu.be/9jxP6SwoFnA&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #39 - Controlling Volume Levels
+https://youtu.be/Rt-OxYw3CP8&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+
+Unity RPG Tutorial #40 - Creating a Money System
+https://youtu.be/6qlds3oleGo&list=PLiyfvmtjWC_X6e0EYLPczO9tNCkm2dzkm
+Videos 26-40

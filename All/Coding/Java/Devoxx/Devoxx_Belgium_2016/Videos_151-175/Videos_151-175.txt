@@ -1,0 +1,76 @@
+
+15 Kubernetes features in 15 minutes by Marc Sluiter
+https://youtu.be/o85VR90RGNQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Android Architecture Blueprints by David González
+https://youtu.be/zHiaOYFk0iI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Billions of lines of code in a single repository, SRSLY by Guillaume Laforge
+https://youtu.be/yM0GQw1zgrA&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Cloud Native Streaming and Event-Driven Microservices by Marius Bogoevici
+https://youtu.be/s6mP4lpkxvg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Configuration management with Spring Pierre-Jean Vardanéga
+https://youtu.be/aOBzbhPVlFg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Crowdsourcing knowledge write for Voxxed by Katharine Beaumont
+https://youtu.be/Bn3pTmorKwo&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Deep Dive into JUnit 5 by Sam Brannen
+https://youtu.be/UHN_HcjZa7o&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Develop faster with an open source microservices platform by James Strachan
+https://youtu.be/bERRJksRB1A&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Fast Cars, Big Data - How Streaming Can Help Formula 1 by Tugdual Grall
+https://youtu.be/r9cyINvyuIc&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Hot.orElse(Not) by Nick Vanderhoven and Jeroen Horemans
+https://youtu.be/cnDv8s1kAiA&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+How Google DeepMind conquered the game of Go by Roy van Rijn
+https://youtu.be/derC33ODrME&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Introduction to gRPC A general RPC framework that puts mobile and HTTP2 first by Mete Atamel
+https://youtu.be/kUz2zjkKxFg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+It's a kind of magic under the covers of Spring Boot by Stéphane Nicoll & Andy Wilkinson
+https://youtu.be/uof5h-j0IeE&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Java Collections The Force Awakens by Raoul-Gabriel Urma and Richard Warburton
+https://youtu.be/b8YX45ymAeE&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Java EE, TypeScript and Angular2 by Antonio Goncalves and Sébastien Pertus
+https://youtu.be/ki2ZgosjVyw&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Keynote Session by Mark Reinhold and Brian Goetz
+https://youtu.be/e9eSPtpiGkA&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Maven - your ultimate CD tool by Jakub Marchwicki
+https://youtu.be/LsM_i-chL3k&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Netty - One Framework to rule them all by Norman Maurer
+https://youtu.be/DKJ0w30M0vg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Optional - The Mother of All Bikesheds by Stuart Marks
+https://youtu.be/Ej0sss6cq14&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Reactive Programming by Venkat Subramaniam
+https://youtu.be/weWSYIUdX6c&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Terracotta Ehcache simpler, faster, distributed by Anthony Dahanne
+https://youtu.be/-j6cNZc5wYM&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Testing Time in Java by Joep Weijers
+https://youtu.be/b8Aglx0-wmI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+The Power of Real-Time Machine Learning by Ji Lucas
+https://youtu.be/hyKpMTvZbmI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+What can you learn from thousands of source files in Github by Guillaume Laforge
+https://youtu.be/ytssHnBSq8Q&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+What's NOT new in modular Java by Milen Dyankov
+https://youtu.be/gHk_XxRKNiw&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+Videos 151-175

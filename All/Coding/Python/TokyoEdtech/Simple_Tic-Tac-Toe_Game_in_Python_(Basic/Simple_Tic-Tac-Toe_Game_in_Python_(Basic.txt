@@ -1,0 +1,19 @@
+
+Tic Tac Toe in Python Using Classes Part 1
+https://youtu.be/7Djh-Cbgi0E&list=PLlEgNdBJEO-m6o4INllCF1FRMS262A5C_
+
+Tic Tac Toe in Python Using Classes Part 2
+https://youtu.be/H1zsp0jTd5M&list=PLlEgNdBJEO-m6o4INllCF1FRMS262A5C_
+
+Tic Tac Toe in Python Using Classes Part 3
+https://youtu.be/GLbQNc2YVFY&list=PLlEgNdBJEO-m6o4INllCF1FRMS262A5C_
+
+Tic Tac Toe in Python Using Classes Part 4
+https://youtu.be/CvH9gsG9z3M&list=PLlEgNdBJEO-m6o4INllCF1FRMS262A5C_
+
+Tic Tac Toe in Python Using Classes Part 5
+https://youtu.be/RIPuZLHOPgw&list=PLlEgNdBJEO-m6o4INllCF1FRMS262A5C_
+
+Tic Tac Toe in Python Using Classes Part 6
+https://youtu.be/8t9ou2I0IOE&list=PLlEgNdBJEO-m6o4INllCF1FRMS262A5C_
+Simple Tic-Tac-Toe Game in Python (Basic Class Version)

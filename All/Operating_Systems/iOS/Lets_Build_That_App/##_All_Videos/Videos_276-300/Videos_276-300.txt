@@ -1,0 +1,76 @@
+
+Advantages of Swift vs Objective C Should I just learn Swift
+https://youtu.be/h3CKQajX99M
+
+Alt Conf, VidCon, Teaching Abroad, Mini-Break Updates
+https://youtu.be/B01iJSPujro
+
+Back from Taking Time Off in China
+https://youtu.be/MLH4qOTVlPo
+
+Best Coding Practices to Show during Job Interviews
+https://youtu.be/gnZh0CqOCA0
+
+Dangers of Xcode Updates, Firebase and How to Avoid Them
+https://youtu.be/g87vdHUqenw
+
+Firebase Chat App Updates and Reflections
+https://youtu.be/Tq0PGHGM9iw
+
+How do you guys stay energized
+https://youtu.be/ZJmGS5wKrtU
+
+How Do You Know You're Ready to Apply for Jobs
+https://youtu.be/hqWSq3EqMeE
+
+How Many Years to Become Good at Programming
+https://youtu.be/SpUocHsqxVY
+
+I Feel Like I'm Just Copying Code
+https://youtu.be/5F45DWsLceg
+
+iOS 11 First Impressions June WWDC (iPad)
+https://youtu.be/RE8wRE6rvpo
+
+iOS Career Jeopardy
+https://youtu.be/M2rl_hDP5p8
+
+iOS Development Equipment Improving Productivity
+https://youtu.be/35GTI4-fIeM
+
+Should you Upgrade your Mac Development machine
+https://youtu.be/L0Ct4RUh14Y
+
+Some good design inspiration websites
+https://youtu.be/5y5eKAulzpA
+
+Swift 4 Collage App - How to Drop Images in UIViewController with UIDropInteraction (Ep 1)
+https://youtu.be/YRrztQQGnGk
+
+Swift 4 Collage App - How to Generate Images and Share with UIActivityViewController (Ep 3)
+https://youtu.be/6o4PmMywIA8
+
+Swift 4 Collage App - How to Implement Dragging with UIDragInteraction (Ep 2)
+https://youtu.be/6Ft--MDvJ_Y
+
+Swift Magical Grid - Hash Map Views Dictionary (Ep 2)
+https://youtu.be/tq6xh-zjbIM
+
+Swift Magical Grid Animate Out Zoom Bounce Effect (Ep 3)
+https://youtu.be/DPJh4qnzBXE
+
+Swift Magical Grid to Tinder (Ep 1)
+https://youtu.be/Wi713xoTVsU
+
+What is Unit Testing, Why We Use It, and Sample Test Cases
+https://youtu.be/iWtxEDE1IR4
+
+What You Liked About Facebook F8 Conference Sunday Q&A
+https://youtu.be/OafoydyIVgc
+
+Who wants Server Side Swift tutorials Saturday Q&A
+https://youtu.be/TLStfNY2RoA
+
+Why I Don't Do Sponsors
+https://youtu.be/6YkdL1GG7T0
+Videos 276-300

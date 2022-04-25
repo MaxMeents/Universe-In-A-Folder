@@ -1,0 +1,61 @@
+
+Component-Based Modeling in Simulink
+https://youtu.be/fLVmzhCltHo&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Data-Free Parameter Pruning and Quantization
+https://youtu.be/4xhRcOvHxzY&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Deploy a MATLAB Function as a Standalone Executable on Raspberry Pi Hardware from MATLAB Online
+https://youtu.be/khC5DbsPA5c&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Deploying Simscape Models on Real-Time Hardware with HDL Coder
+https://youtu.be/cWywy6WoYlk&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Easily Check Data Types in MATLAB Functions and Objects
+https://youtu.be/z5KA5VjEkKM&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Enforce Constraints for PID Controllers
+https://youtu.be/SLM_yjMHw5o&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Generating Tests with Test for Model Component Wizard
+https://youtu.be/cym2oRyW188&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Hand Gesture Recognition Using Machine Learning on Arduino Hardware
+https://youtu.be/e4qveZfQPv8&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+How to Automatically Detect Design Errors in Your Simulink Models
+https://youtu.be/Jj5nlb0dA8c&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+How to Debug a Property Proving Counterexample
+https://youtu.be/B5zTtHcVoxc&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+How to Import C Code into Simulink for Testing
+https://youtu.be/atfO_3Wt2t8&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Managing Requirements Based Testing Process with Testing Dashboard
+https://youtu.be/vzoda1JYmSo&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Model Reference Acclerator Mode Linearization
+https://youtu.be/ndp6qACekK0&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Performing Parametric Analysis with System Composer
+https://youtu.be/Hrrr1gsoOXE&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Prototype FPGA Design on Hardware from the MATLAB Command Line
+https://youtu.be/SBxVgySjg0Q&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Scaling Test Execution with MATLAB Parallel Server
+https://youtu.be/8PXEDJ8f5rs&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Shift Left with Polyspace Find Bugs as You Code
+https://youtu.be/ui48-EW8jYs&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Teaching Vibrations and Control Labs Online Using Simscape and MATLAB Apps
+https://youtu.be/8nZ9zB8rWC4&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Top 7 Ways to Automate Your RTL Verification
+https://youtu.be/2Ugo1anCNX8&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+
+Using MATLAB with Python
+https://youtu.be/6Ji4vuJg2dw&list=PLn8PRpmsu08oe80iv5zRrqFpBtXDEivjz
+Verification, Validation, and Test  Developer Tech Showcase

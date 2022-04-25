@@ -1,0 +1,37 @@
+
+Associative array in php
+https://youtu.be/y3HCsWB776M&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+Count function in php  How to get the length of array in php
+https://youtu.be/k36VlYTN4D8&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+DBMS vs RDBMS in hindi by shanu sir
+https://youtu.be/MzBfiDAD12A&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+Display Image From Database using PHP In HINDI - 2020
+https://youtu.be/Uhw2XBU3Zb0&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+empty array, array_push,  array_pop function in php
+https://youtu.be/8E5fPCrC5WA&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+explode and implode functions in php
+https://youtu.be/GarX6tTAJHs&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+foreach loop with associative array
+https://youtu.be/GGOSZE1vWuQ&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+foreachloop in php
+https://youtu.be/D6YcTb_XaOo&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+include and  require function in php
+https://youtu.be/k-hx50uX1pE&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+include_once() and require_once() in hindi by shanu sir
+https://youtu.be/w37mCqHj6ls&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+print_r()  function  Testing of array using print_r()
+https://youtu.be/H81EkRCOBms&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+
+what is zend engine in php
+https://youtu.be/90tEbwpKlUg&list=PL2S5kpvp32F-WrfPxyTOnaTY0kri1Tbl-
+Videos 26-38

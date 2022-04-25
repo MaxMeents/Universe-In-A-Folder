@@ -1,0 +1,73 @@
+
+Alessandro Molina - Moving away from NodeJS to a pure python solution for assets
+https://youtu.be/5RJRHBBX6LU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Alexys Jacob - Using Service Discovery to build dynamic python applications
+https://youtu.be/S7bsPbJvBzU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Anders Hammarquist - Metaclasses for fun and profit Making a declarative GUI implementation
+https://youtu.be/gN1o7lIOXr4&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andrew Svetlov - Introduction to aiohttp
+https://youtu.be/pLyf1idJ4Lo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Andrii Soldatenko - What is the best full text search engine for Python
+https://youtu.be/Dq4ubrwMl9U&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Catherine Holloway - Simplifying Computer Art in Python
+https://youtu.be/8GIZW--41oE&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Daniele Procida - Documentation-driven development
+https://youtu.be/31Uhdd1efYA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Erik Näslund - Building a reasonably popular web application for the first time.
+https://youtu.be/aFlKpLMrM0c&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fabio PligerMarc-André Lemburg - EPS General Assembly
+https://youtu.be/fEbHimq0Wic&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fabio PligerMarc-André Lemburg - EuroPython 2017 Help us build the next edition!
+https://youtu.be/AQdWIp6rkcI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Helen Sherwood-Taylor - Managing Mocks
+https://youtu.be/Ahnw72diels&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Jameson Rollins - LIGO The Dawn of Gravitational Wave Astronomy
+https://youtu.be/qSlwRwFsUOI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Kali Kaneko - Against the silos usable encrypted email & the quest for privacy-aware services
+https://youtu.be/F7_NWyOmMb8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Larry Hastings - The Gilectomy
+https://youtu.be/fgWUwQVoLHo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Miguel Cabrera - Things I wish I knew before starting using Python for Data Processing
+https://youtu.be/KBcfWqNCvmA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Miguel RegueroRodrigo Núñez - Cybersecurity in the financial sector with Python
+https://youtu.be/Gv8KaK8j2KE&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mihai Iachimovschi - Real virtual environments without virtualenv
+https://youtu.be/y8x6-FyF6QE&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Naomi Ceder - PSF Meeting
+https://youtu.be/kuMf6lnEumo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Roberto De Ioris - Modern OpenGL with Python
+https://youtu.be/DhS3QWKsOrw&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Rudy Sicard - Leveraging documentation power for better web APIs
+https://youtu.be/3o9lgJ1pZms&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Sebastian Neubauer - Infrastructure as Code pip install your environment
+https://youtu.be/zL6G3nl0IjM&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Various speakers - Lightning Talks
+https://youtu.be/QWskFM3zHNg&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Victor Stinner - FAT Python a new static optimizer for Python 3.6
+https://youtu.be/zFl9RAfbSXE&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Victor StinnerLarry HastingsChristian HeimesYury Selivanov - Core Developers' Panel
+https://youtu.be/UaNt4GD2ebs&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+Videos 51-75

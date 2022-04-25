@@ -1,0 +1,13 @@
+
+Python Basics Sys Argv
+https://youtu.be/sf7POY2mF6g&list=PLaYT64KWZAEM8IAUdbTe0v1nCHWvxj2Tx
+
+Python Basics Sys Exit Method
+https://youtu.be/BKMJebr5xjI&list=PLaYT64KWZAEM8IAUdbTe0v1nCHWvxj2Tx
+
+Python Basics Sys Getsizeof Method
+https://youtu.be/sMtEVoVA6co&list=PLaYT64KWZAEM8IAUdbTe0v1nCHWvxj2Tx
+
+Python Basics Sys.Argv Deep Dive
+https://youtu.be/CUhgGHWeLqw&list=PLaYT64KWZAEM8IAUdbTe0v1nCHWvxj2Tx
+Sys Module

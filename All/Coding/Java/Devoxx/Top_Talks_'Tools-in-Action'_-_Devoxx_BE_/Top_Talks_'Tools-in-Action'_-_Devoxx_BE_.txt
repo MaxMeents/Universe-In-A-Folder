@@ -1,0 +1,31 @@
+
+Hands-on with JMH, become a benchmarking expert in 30 minutes! by Tom Vleminckx
+https://youtu.be/Bi0E7w1ZFFA&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Java EE Microservices - the Payara way by Mike Croft
+https://youtu.be/fn444op9gW8&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Modern JavaScript debugging Christophe Jollivet
+https://youtu.be/mfcantzLOCA&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+OrientDB - the 2nd generation of (MultiModel) NoSQL by Luigi Dell'Aquila
+https://youtu.be/kpLqfFGubKM&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+React, a new way to create web components by Mathieu Ancelin
+https://youtu.be/p99NwRgkTl4&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Selenide concise UI Tests in Java. From developers for developers by Andrei Solntsev
+https://youtu.be/BjEW08vDUfI&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Spring REST Docs - Documenting RESTful APIs using your tests by Andreas Evers
+https://youtu.be/iWj-t69EdN4&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Testing Microservices with a Citrus twist by Christoph Deppisch
+https://youtu.be/FPgXJveaLTo&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Thymeleaf by Daniel Fernández
+https://youtu.be/GVq0uzpHYoQ&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+
+Writing Groovy AST Transformations Getting Practical in an hour! by Baruch Sadogursky
+https://youtu.be/GVfrNwTBpUM&list=PLRsbF2sD7JVp3eS3Ud36I9XI2U3TohdsH
+Top Talks 'Tools-in-Action' - Devoxx BE 2015

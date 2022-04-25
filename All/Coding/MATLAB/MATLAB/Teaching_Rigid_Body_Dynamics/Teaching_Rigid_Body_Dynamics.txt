@@ -1,0 +1,19 @@
+
+Teaching Rigid Body Dynamics, Part 1 Computational Thinking
+https://youtu.be/t5zOInCrl28&list=PLn8PRpmsu08q8p8ke6UkhSFCsE4XixDkn
+
+Teaching Rigid Body Dynamics, Part 2 Spring-Mass-Damper System Case Study
+https://youtu.be/RN6bo1AABT0&list=PLn8PRpmsu08q8p8ke6UkhSFCsE4XixDkn
+
+Teaching Rigid Body Dynamics, Part 3 Two-Degrees-of-Freedom Non-Planar Robotic Manipulator Study
+https://youtu.be/r1wKzt9ZXog&list=PLn8PRpmsu08q8p8ke6UkhSFCsE4XixDkn
+
+Teaching Rigid Body Dynamics, Part 4 Automation
+https://youtu.be/sL1xxqJ2lZY&list=PLn8PRpmsu08q8p8ke6UkhSFCsE4XixDkn
+
+Teaching Rigid Body Dynamics, Part 5 Four-Degrees-of-Freedom Non-Planar Robotic Manipulator Study
+https://youtu.be/FihKuWPGld4&list=PLn8PRpmsu08q8p8ke6UkhSFCsE4XixDkn
+
+Teaching Rigid Body Dynamics, Part 6 Summary of Computational Thinking Implementation
+https://youtu.be/QOftya87Sxw&list=PLn8PRpmsu08q8p8ke6UkhSFCsE4XixDkn
+Teaching Rigid Body Dynamics

@@ -1,0 +1,76 @@
+
+21 Features You Need Now  Master Class with Loren Shure
+https://youtu.be/lSQ6vS6lBcw
+
+Algorithms for Object Detection and Tracking Using Lidar Data
+https://youtu.be/Nm7hARPlRHw
+
+Debug Baseline Test Failures Using Model Slicer
+https://youtu.be/Uy0pKyivqJA
+
+Deep Learning in Simulink
+https://youtu.be/fIvQM_Qr5Oc
+
+Drilling Systems Modeling & Automation, Part 6 Logic Verification and Testing
+https://youtu.be/xylntOIi2cM
+
+Drilling Systems Modeling & Automation, Part 7 PLC Code Generation
+https://youtu.be/c_XH8V0GTg0
+
+Drilling Systems Modeling & Automation, Part 8 Real-Time Testing - HIL Simulation
+https://youtu.be/pTzZG8oj1H8
+
+Drilling Systems Modeling & Automation, Part 9 PLC Ladder Diagram Import
+https://youtu.be/XLMw3jIjJLU
+
+How to Automatically Tune PID Controllers
+https://youtu.be/ENhFepqjFOY
+
+How to Make Subplots in MATLAB using Tiledlayout
+https://youtu.be/O-xbfZx_v1o
+
+Manage the Requirements-Based Testing Process with Model Testing Dashboard
+https://youtu.be/G70PbktSbME
+
+New Ways to Work in Simulink, Part 10 Upgrade Simulink to the Latest Release
+https://youtu.be/n21RxPdWu-s
+
+New Ways to Work in Simulink, Part 9 Manage Design Data
+https://youtu.be/ECNce9f-h7Q
+
+Object Detection on Lidar Point Clouds Using Deep Learning
+https://youtu.be/mt3zlaELI1s
+
+Object-Oriented Programming in MATLAB  Master Class with Loren Shure
+https://youtu.be/XOkn-zxhwc4
+
+Prototype and Adjust a Deep Learning Network on FPGA
+https://youtu.be/ZQOfnRL7YyQ
+
+Requirements Traceability for Systematic Development
+https://youtu.be/peZFal_nZms
+
+Simulating Delivery Drones in Simscape
+https://youtu.be/Mcqo2SFOsrg
+
+Simulink Your Way Advanced Customization
+https://youtu.be/LVFTCs6bdpw
+
+Towards a Model-Based Approach  Systems Engineering, Part 2
+https://youtu.be/bckHxdGjtQc
+
+Use MATLAB to Prototype Deep Learning on an Intel FPGA
+https://youtu.be/b0e7WVHKdFs
+
+What Is Lidar Toolbox
+https://youtu.be/Me7ZGpjwboA
+
+What Is MATLAB
+https://youtu.be/joilU9m-sNk
+
+What Is Systems Engineering  Systems Engineering, Part 1
+https://youtu.be/pSfZutP9H-U
+
+Working with Time and Frequency in MATLAB  Master Class with Loren Shure
+https://youtu.be/8L5yXj2x_ec
+Videos 451-475

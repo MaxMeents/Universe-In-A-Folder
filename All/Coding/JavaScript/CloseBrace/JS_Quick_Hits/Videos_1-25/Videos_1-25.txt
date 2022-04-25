@@ -1,0 +1,76 @@
+
+JS Quick Hits - Array Iterators
+https://youtu.be/yOJR01uILIA&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits - Array.filter()
+https://youtu.be/w80Jd-p_MQk&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits - Array.find()
+https://youtu.be/D6hn4UTCaCI&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits - For  Of Loop
+https://youtu.be/KCQeYD0yILc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits - Variable Destructuring
+https://youtu.be/J_SgUGfGYdE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 10 - Default Parameters
+https://youtu.be/Ef0tboGzl4o&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 11 - Object Shorthand
+https://youtu.be/0nTgpb3g8GA&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 12 - Arrow Functions Part 1
+https://youtu.be/yOkmmSWucXw&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 13 - Arrow Functions Part 2
+https://youtu.be/ie3llJ2LpiQ&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 14 - ES2015 Promises
+https://youtu.be/qmyU1D3aT8k&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 15 - Async  Await
+https://youtu.be/BvTeHs9Nabs&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 16 - DOM Query Selectors
+https://youtu.be/ngCv-HHu0tU&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 17 - Document Methods
+https://youtu.be/r9tW6cR1R1Y&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 18 - Nodelist vs. Array
+https://youtu.be/gCfx8MVXvDk&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 19 - Import  Export
+https://youtu.be/Cc2o55i8E7U&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 20 - Object.assign Basics
+https://youtu.be/zjDwTpwpmSY&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 21 - Object.assign Issues
+https://youtu.be/CCgffQHeZsk&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 22 - Prototypes Part 1
+https://youtu.be/MVMsqBfUBNU&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 23 - Prototypes Part 2
+https://youtu.be/PXPO-lC-Y9s&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 24 - Property Enumerability
+https://youtu.be/wSiVkvuTVq0&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 25 - Array.forEach
+https://youtu.be/JE77_Jr1w5c&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 6 - The Rest Operator
+https://youtu.be/fACSgnHBY9E&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 7 - Template Literals
+https://youtu.be/rJ6ndTvjI9U&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 8 - The Spread Operator
+https://youtu.be/S1HDS2n4gWI&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 9 - Ternary Operators
+https://youtu.be/7mdWtrcAbQI&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+Videos 1-25

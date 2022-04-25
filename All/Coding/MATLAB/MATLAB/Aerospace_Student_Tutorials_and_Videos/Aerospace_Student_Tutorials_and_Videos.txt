@@ -1,0 +1,13 @@
+
+Airframe Optimization with MATLAB
+https://youtu.be/RUGroG-92ls&list=PLn8PRpmsu08pwjdAkmNDdP9sh82P0_iAj
+
+Autopilot Development Using Simulink
+https://youtu.be/0Ha6JrJobdY&list=PLn8PRpmsu08pwjdAkmNDdP9sh82P0_iAj
+
+Building Graphical Aircraft Design Tools
+https://youtu.be/Bn3tM-orTd8&list=PLn8PRpmsu08pwjdAkmNDdP9sh82P0_iAj
+
+Simulating Quadcopter Missions with Simulink and ROS
+https://youtu.be/jrr2vlnlVQA&list=PLn8PRpmsu08pwjdAkmNDdP9sh82P0_iAj
+Aerospace Student Tutorials and Videos

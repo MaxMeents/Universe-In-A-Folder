@@ -1,0 +1,76 @@
+
+Alec MacQueen - Python and GraphQL
+https://youtu.be/LxoKPGvMXf0
+
+Alex Grönholm - Automating testing and deployment with Github and Travis
+https://youtu.be/btqFjNDdTlE
+
+Alex Willmer - Rehabilitating Pickle
+https://youtu.be/M8lASUaogbA
+
+Alexandre Figura - Integration Tests with Super Powers
+https://youtu.be/apcNyycpidw
+
+Andy Fundinger - A Taxonomy of Decorators A E
+https://youtu.be/pEL1THG6ysY
+
+Ben Nuttall - Programming paradigms for physical computing and IoT
+https://youtu.be/pRtpXzS2Weo
+
+Dan Taylor - Get Productive with Python in Visual Studio Code
+https://youtu.be/6YLMWU-5H9o
+
+Douglas Finch - Air Quality & Python Developing Online Analysis Tools
+https://youtu.be/bDvgZ_Yn_FM
+
+EuroPython 2018 - Closing
+https://youtu.be/Cm_7LARu_5w
+
+EuroPython 2018 - Sprint Orientation
+https://youtu.be/JkxGyg6HHH0
+
+Ian Ozsvald - Citizen Science with Python
+https://youtu.be/UXSr1OL5JKo
+
+Jeethu Rao - Faster Python startup
+https://youtu.be/KRqv2Bm1J18
+
+Kevin Lemagnen - Walking the Random Forest and boosting the trees
+https://youtu.be/SbeLVSyO9_E
+
+Marcel Raas - Change music in two epochs
+https://youtu.be/epPFCdEgHxM
+
+Marco Bonzanini - Lies, damned lies, and statistics
+https://youtu.be/cDhcmjCa7Pc
+
+Omar Gutiérrez - From linear algebra to machine learning
+https://youtu.be/0GoPTJE7Vms
+
+Pavlin Gergov - How async and await ended up in Python
+https://youtu.be/b4I6qWTtXWs
+
+Petr Viktorin - Bytecodes and stacks A look at CPython’s compiler and its execution model
+https://youtu.be/O2lXnayJ-tQ
+
+Philip Jones - Quart a asyncio alternative to Flask
+https://youtu.be/t8-Y7Kivuu0
+
+Pietro Mascolo - Good features beat algorithms
+https://youtu.be/ZBpwdKezv1E
+
+Raphael Pierzina - The Challenges of Maintaining a Popular Open Source Project
+https://youtu.be/3pokUifUyWM
+
+Robert Smallshire - Domain Driven Design Patterns in Python
+https://youtu.be/Ru2T4fu3bGQ
+
+Stefan Baerisch - The Boring Python Office Talk   Automate Powerpoint, Excel, and PDF with Python
+https://youtu.be/azbOfFipzws
+
+Sven Hendrik Haase - Rust and Python - Oxidize Your Snake
+https://youtu.be/dZ4ETY9Mzws
+
+Vincent Warmerdam, Bas Harenslak - Winning card games with 1000+ CPUs
+https://youtu.be/KUvB1hqF2OA
+Videos 401-425

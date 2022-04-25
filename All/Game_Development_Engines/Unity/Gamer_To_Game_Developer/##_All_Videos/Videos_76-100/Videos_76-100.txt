@@ -1,0 +1,76 @@
+
+[151] NPC State Alert - How To Make A Game
+https://youtu.be/ChvF2m1vXr4
+
+[152] NPC State Pursue - How To Make A Game
+https://youtu.be/vVdV2SH1bIw
+
+[153] NPC State Flee - How To Make A Game
+https://youtu.be/dXJgvNuGRXQ
+
+[154] NPC State Follow - How To Make A Game
+https://youtu.be/yjEJ3ExTKXk
+
+[155] NPC State Melee Attack - How To Make A Game
+https://youtu.be/zIfxstifiJY
+
+[156] NPC State Range Attack - How To Make A Game
+https://youtu.be/NBS-9FD4vCg
+
+[157] NPC State Struck - How To Make A Game
+https://youtu.be/G42nyq6aWsI
+
+[158] NPC State Investigate Harm - How To Make A Game
+https://youtu.be/NstNua-LiZ4
+
+[159] NPC Animations - How To Make A Game
+https://youtu.be/ExOvaiMnlbA
+
+[160] Edit Golem Controller - How To Make A Game
+https://youtu.be/_DWQ3fOuWms
+
+[161] NPC Health - How To Make A Game
+https://youtu.be/mIUebhkXeyg
+
+[162] Improve NPC State Melee Attack - How To Make A Game
+https://youtu.be/o9AqSAW-w1k
+
+[163] NPC Turn Off Animator - How To Make A Game
+https://youtu.be/yAV73ND-qog
+
+[164] NPC Turn Off Nav Mesh Agent - How To Make A Game
+https://youtu.be/V7yBfGEKw9M
+
+[165] NPC Turn Off State Pattern - How To Make A Game
+https://youtu.be/AkG_Ph31c2g
+
+[166] NPC Take Damage - How To Make A Game
+https://youtu.be/5Ib8MwjCUP8
+
+[167] NPC Collision Field - How To Make A Game
+https://youtu.be/CIFuOdj6g6A
+
+[168] NPC Ragdoll Activation - How To Make A Game
+https://youtu.be/3NxxDvYQRHs
+
+[169] NPC Drop Items - How To Make A Game
+https://youtu.be/UhBzGDjSnF0
+
+[170] Change To Item Master - How To Make A Game
+https://youtu.be/x6M67QdLO4U
+
+[171] NPC Head Look - How To Make A Game
+https://youtu.be/w3dqwZ8Kpb0
+
+[172] NPC Hold Range Weapon - How To Make A Game
+https://youtu.be/V2OHIdSyt2s
+
+[173] Gun Script Improvements - How To Make A Game
+https://youtu.be/2uOzGt3tAU4
+
+[174] Gun NPC Input - How To Make A Game
+https://youtu.be/tFxgFa6Enrg
+
+[1] GTGD S3 How To Make A Game
+https://youtu.be/lRzDyY5G0uY
+Videos 76-100

@@ -1,0 +1,10 @@
+
+Scikit Learn Machine Learning Tutorial for investing with Python p. 26
+https://youtu.be/nTWQN5SVqgE&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+
+Unsupervised Machine Learning - Flat Clustering with KMeans with Scikit-learn and Python
+https://youtu.be/ZS-IM9C3eFg&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+
+Unsupervised Machine Learning - Hierarchical Clustering with Mean Shift Scikit-learn and Python
+https://youtu.be/EQZaSuK-PHs&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+Videos 26-28

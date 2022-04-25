@@ -1,0 +1,55 @@
+
+Angular Directive Scope Explained & Code Structure
+https://youtu.be/ii7J-k661Zg
+
+angular-formly Ask for an Example
+https://youtu.be/lu-c5C1t4Sk
+
+angular-formly Create an Example
+https://youtu.be/4dsXXTPET4A
+
+angular-formly Getting Help or Asking a Question
+https://youtu.be/NXqFiSeBE-M
+
+angular-formly Report an Issue or Request a Feature
+https://youtu.be/Kw9fVgc3Tzk
+
+angular-formly Submitting Pull Requests
+https://youtu.be/QOchwBm9W-g
+
+AngularJS Batarang Tips
+https://youtu.be/gEjmv5gwF60
+
+BucketStreams Academic Demo
+https://youtu.be/xvWZSNiYmcw
+
+Build and App Structure
+https://youtu.be/0tCqLPKT1uc
+
+Chrome Canary Super Sonic
+https://youtu.be/wKxkYmRUgfg
+
+Codeship Deployment
+https://youtu.be/Ro4AxX0A7vo
+
+ES6 Demo by Kent C. Dodds
+https://youtu.be/_Pn32tTtbuQ
+
+GenieJS
+https://youtu.be/nJrtn8B4FzM
+
+Intro to AngularJS - Broadcast
+https://youtu.be/GmVUw_Efi_M
+
+Introducing BucketStreams (concept)
+https://youtu.be/7ID64AEbl-0
+
+Live coding test
+https://youtu.be/Jw2c-NSwuRM
+
+Setup for Intro to AngularJS
+https://youtu.be/yPTS0yBqOm8
+
+Spend My Cents - iOS
+https://youtu.be/jS_iTFN6JhI
+Videos 551-568

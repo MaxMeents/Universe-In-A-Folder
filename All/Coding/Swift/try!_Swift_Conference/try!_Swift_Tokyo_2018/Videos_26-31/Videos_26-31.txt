@@ -1,0 +1,19 @@
+
+try! Swift Tokyo 2018 - Creating conversational interfaces in iOSSwift
+https://youtu.be/NcYjfIeZgR8&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Digital Signal Processing with Swift
+https://youtu.be/TcTukRKHwnE&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - The Type Erasure Advantage
+https://youtu.be/ogQOzfO8pV8&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - The Type-Safe World of Codable
+https://youtu.be/CU-xOXHXPJ0&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - UIImageView vs Metal
+https://youtu.be/mebKTCPZwLc&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - 👾
+https://youtu.be/XekpwAFC7Eg&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+Videos 26-31

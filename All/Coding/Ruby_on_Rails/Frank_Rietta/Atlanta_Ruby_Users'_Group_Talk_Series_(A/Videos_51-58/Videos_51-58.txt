@@ -1,0 +1,22 @@
+
+An Intro to Monads Categories for the Working Programmer by James Dabbs
+https://youtu.be/Pms3h4M8kbs&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Batman.JS - Jonathan Martin (2013)
+https://youtu.be/fJwSb6__8CM&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Bundler Ruby Package Manager by Hemant Kumar - Atlanta Ruby User's Group 2013
+https://youtu.be/uF-_vFrJwk0&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Hosh's Talk on Kamino - Atlanta Ruby User's Group 2013
+https://youtu.be/ABol3rbag9A&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Linux for the enterprise environment - Kurt Nelson (2013)
+https://youtu.be/4U_7vxJKPOU&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Private video
+https://youtu.be/jSRpW7PepKE&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+
+Riak on Ruby Keys Values & CRDTs by Tom Santero - Atlanta Ruby User's Group 2013
+https://youtu.be/jeF2N20mmQM&list=PLqZY2tk6rSRn2Vapk2raOTFjXGiDbpQUU
+Videos 51-58

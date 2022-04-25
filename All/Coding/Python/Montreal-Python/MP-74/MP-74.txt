@@ -1,0 +1,13 @@
+
+Building a standalone app using electron and flask - Adil Addiya
+https://youtu.be/ty-n33mHwC4&list=PLQIcnBElABavjZaQhW6LChZdd3KOiqZjj
+
+Explore Your Data and Then Let Others Do It Too Plotly Express and Dash - Nicolas Kruchten
+https://youtu.be/5Cw4JumJTwo&list=PLQIcnBElABavjZaQhW6LChZdd3KOiqZjj
+
+Feedback loops in data systems - Matthieu Ranger
+https://youtu.be/DSp8H6P1n1I&list=PLQIcnBElABavjZaQhW6LChZdd3KOiqZjj
+
+Python Camera Simulator - Federico Ariza
+https://youtu.be/6eTBQx_E5Ac&list=PLQIcnBElABavjZaQhW6LChZdd3KOiqZjj
+MP-74

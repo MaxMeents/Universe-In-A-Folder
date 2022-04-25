@@ -1,0 +1,76 @@
+
+Achieving C-like performance in Python without Cython or other libraries
+https://youtu.be/Ri8sU5DphEE
+
+Coding Habits How to make coding part of your daily life 💻
+https://youtu.be/aSyUZbDxPR0
+
+How do you make money as a Python developer 💰💰💰
+https://youtu.be/t3jULw6_veI
+
+How do you write clean, yet readable Python code
+https://youtu.be/sQBDd4xUZ1Q
+
+How to avoid premature optimization in software development
+https://youtu.be/5wISuYbWpvs
+
+How to convince your team or company to use Python 🖥🐍
+https://youtu.be/3IVIZwXMFls
+
+How to maintain legacy Python codebases
+https://youtu.be/cm_eCSlhAFs
+
+How to stay up to date and employable as a Python developer
+https://youtu.be/c6miHMXgt1s
+
+I completed Python Tricks The Book — Am I a Beginner or Intermediate Python Dev
+https://youtu.be/vDvmfxXnl_A
+
+Object-Oriented Programming (OOP) in Python – A Good Idea 🚨🐍
+https://youtu.be/ixO9oXy1Dhw
+
+Programming blogs – Using Medium vs self-hosting with your own website 🤔
+https://youtu.be/y62p-dF1rN4
+
+Python Certifications – Worth It Or A Waste Of Money 💸🐍
+https://youtu.be/V-t4QLFjRAE
+
+Python Tricks is the #1 Python book on Amazon right now 😲 (Q&A)
+https://youtu.be/y8aX93b_Azk
+
+Python vs PHP Why are there so few (free) shared hosting offers
+https://youtu.be/TayhQFzw7RY
+
+Should you build your whole dev career on Python alone 🐍❓
+https://youtu.be/KpfAViSLAN8
+
+Should you stick with Python 2 or migrate to Python 3
+https://youtu.be/W8mieeEvMhs
+
+The skills and knowledge that will impact your Python career the most ❓🐍
+https://youtu.be/quVusFZ_iAs
+
+What can you do to become a better Python developer
+https://youtu.be/B7GwiFwN6T4
+
+What computer should I buy to learn Python programming
+https://youtu.be/n0NfObWYJ-Y
+
+What other languagesplatforms besides Python should you learn
+https://youtu.be/nkGnPbbIiHo
+
+What Python skills are the most relevant in the industry today
+https://youtu.be/1mH0m_7uawo
+
+What's the future of Python on mobile platforms
+https://youtu.be/bQS0MFDuFkI
+
+Where can you find clients as a Python freelance developer
+https://youtu.be/RVyNkTck2hk
+
+Will Python survive the NodeJS  JavaScript hype
+https://youtu.be/_DvjBg14Srk
+
+📘🐍 Python Tricks The Book – Now Available On Amazon
+https://youtu.be/qZyXh4FTFWk
+Videos 301-325

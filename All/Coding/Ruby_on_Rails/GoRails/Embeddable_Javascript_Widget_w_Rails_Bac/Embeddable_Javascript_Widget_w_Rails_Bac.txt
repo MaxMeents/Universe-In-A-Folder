@@ -1,0 +1,7 @@
+
+Cross-origin Resource Sharing with Rails - Embeddable JS Widget Part 4  Preview
+https://youtu.be/FHSVdexIzMk&list=PLm8ctt9NhMNW5hnmyl5J0iRFkejaNYGdK
+
+Restrict Javascript Widget to Registered Sites - Embeddable Javascript Widget Part 5  Preview
+https://youtu.be/OWruu264KN0&list=PLm8ctt9NhMNW5hnmyl5J0iRFkejaNYGdK
+Embeddable Javascript Widget w Rails Backend

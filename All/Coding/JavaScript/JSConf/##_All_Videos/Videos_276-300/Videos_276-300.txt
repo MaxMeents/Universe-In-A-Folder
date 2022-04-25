@@ -1,0 +1,76 @@
+
+A sneak peek into super optimized code in JS frameworks by Maxim Koretskyi  JSConf EU 2019
+https://youtu.be/_VHNTC67NR8
+
+Adopting Typescript at Scale - Brie Bunge  JSConf Hawaii 2019
+https://youtu.be/P-J9Eg7hJwE
+
+Back to the Future of JS II - Willian Martins  JSConf Hawaii 2019
+https://youtu.be/yWMlLhx3foI
+
+Bubble Up Your Node.JS IO - Matteo Collina  JSConf Hawaii 2019
+https://youtu.be/rYqh5LYfw0Y
+
+Collaborative, Remote, Design Working-Sessions - Anna Watt  JSConf Hawaii 2019
+https://youtu.be/61ji5L3GMeI
+
+Embedding V8 in the Real World - Stanimira Vlaeva   JSConf Hawaii 2019
+https://youtu.be/yde3oKsWltw
+
+Embedding V8 in the real world by Stanimira Vlaeva  JSConf EU 2019
+https://youtu.be/wz7Znu6tqFw
+
+ES2019 Features What Even Are They by Tara Z. Manicsic  JSConf EU 2019
+https://youtu.be/1_hHxra0Lf4
+
+Finding Your Abstraction Sweet Spot by Johnny Austin  JSConf EU 2019
+https://youtu.be/go5VCfJMJhw
+
+HI and AI - Kyle Oba  JSConf Hawaii 2019
+https://youtu.be/AGtDAO_a9Mk
+
+How to Cheat at Life with JS, CV, and AR - Visnu Pitiyanuvath  JSConf Hawaii 2019
+https://youtu.be/5vU6shMFiPA
+
+I Can Babel Macros (and So Can You!) - Shawn swyx Wang  JSConf Hawaii 2019
+https://youtu.be/1WNT5RCENfo
+
+JSConf.Asia 2019 - Day 1 - Live from Singapore
+https://youtu.be/otQkIbgPKrU
+
+JSConf.Asia 2019 - Day 2 - Live from Singapore
+https://youtu.be/9jWwO7McMbU
+
+JSConf.Asia 2019 - Day 3 - Live from Singapore
+https://youtu.be/facKhfPmeAs
+
+Let’s build a JavaScript Engine in Rust by Jason Williams  JSConf EU 2019
+https://youtu.be/_uD2pijcSi4
+
+llhttp - new HTTP 1.1 parser for Node.js by Fedor Indutny  JSConf EU 2019
+https://youtu.be/x3k_5Mi66sY
+
+New Adventures for WASM - Lin Clark and Till Schneidereit  JSConf Hawaii 2019
+https://youtu.be/MowRVWn02HM
+
+Offline P2P Mapping - James Halliday  JSConf Hawaii 2019
+https://youtu.be/_ACizzhxVqY
+
+Panel by TC39 Committee  JSConf EU 2019
+https://youtu.be/slA06pbTRi4
+
+Performance Empathy by Houssein Djirdeh  JSConf EU 2019
+https://youtu.be/uIBYN6w9cBc
+
+The Browser as a Modular, Networked Video Synthesizer - Olivia Jack  JSConf Hawaii 2019
+https://youtu.be/icrY_LURPY4
+
+The Contentious Relationship Between the LGBTQ+ community and Tech by Bryan Hughes  JSConf EU 2019
+https://youtu.be/fSN3LVbXTkg
+
+The Immersive Web in 2019 - Andres Cuervo  JSConf Hawaii 2019
+https://youtu.be/i8iylI6JDmc
+
+Why Can’t We All Just Get Along by Chidinma Kalu  JSConf EU 2019
+https://youtu.be/7-C0KGA7xb4
+Videos 276-300

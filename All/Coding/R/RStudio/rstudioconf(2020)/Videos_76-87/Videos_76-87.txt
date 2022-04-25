@@ -1,0 +1,37 @@
+
+Dr. Travis Gerke  UnicoRns are real  RStudio (2020)
+https://youtu.be/hg6UFv91_dg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Dr. Tyler Morgan-Wall  3D ggplots with rayshader  RStudio (2020)
+https://youtu.be/G6Y3-_GKtcs&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Riva Quiroga  The development of datos package for the R4DS Spanish translation RStudio (2020)
+https://youtu.be/kuHjpdgkSxg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Rob Hyndman  How Rmarkdown changed my life  RStudio (2020)
+https://youtu.be/_D-ux3MqGug&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Ron Keizer  Building a Medical Device with R  RStudio (2020)
+https://youtu.be/6q2U48zFOR0&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Sharla Gelfand  Don’t repeat yourself, talk to yourself! Reporting with R  RStudio (2020)
+https://youtu.be/JThd3YYQXGg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Therese Anders  Peer review in data science courses  RStudio (2020)
+https://youtu.be/Kx4u_Xda6zQ&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Thomas Lin Pedersen  Extending your ability to extend ggplot2  RStudio (2020)
+https://youtu.be/uj7A3i2fi54&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Tina Cormier  Embracing R in the Geospatial Community  RStudio (2020)
+https://youtu.be/v9JdAJXqvAg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Tyson Barrett  List-columns in data.table  RStudio (2020)
+https://youtu.be/HwRrEIPiTyk&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Winston Chang  Asynchronous programming in R  RStudio (2020)
+https://youtu.be/Vt6f3qMehXI&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Yihui Xie  One R Markdown Document, Fourteen Demos  RStudio (2020)
+https://youtu.be/qLEkUjxk7e8&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+Videos 76-87

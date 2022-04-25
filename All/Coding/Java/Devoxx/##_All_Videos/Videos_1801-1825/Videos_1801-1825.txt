@@ -1,0 +1,76 @@
+
+5 Years of 12 Factor Apps by Joe Kutner
+https://youtu.be/jufe_sHejXc
+
+A Pragmatist’s Guide to Functional Geekery by Michał Płachta
+https://youtu.be/3bkb6U5jJbs
+
+All machine learning is really complicated and I could never learn it. Right by Krishan Bhasin
+https://youtu.be/wWJqtEwLQqg
+
+Busy Developer's Guide to Building Languages by Ted Neward
+https://youtu.be/eieZOwxP9TY
+
+Canaries and Kubernetes by Burr Sutter
+https://youtu.be/0nqYa2pjlqk
+
+Cluster your MicroProfile Application using CDI and JCache by Roberto Cortez & Jonathan Gallimore
+https://youtu.be/WeqGROU-Tng
+
+Data Visualization with R by Matthew Renze
+https://youtu.be/xOLH9GwDrcY
+
+Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell
+https://youtu.be/NJVL2IsGXZ4
+
+Functional Sudoku Solver by Cesar Tron-Lozai
+https://youtu.be/mx8S_b5pQNw
+
+Git Workflow Strategies for Technical Debt Management by Raquel Pau Fernández
+https://youtu.be/a0wO87gel60
+
+I have a NoSQL toaster by Simon Leigh
+https://youtu.be/1oj2jp-aabc
+
+Image Optimization. The “how to” by Jon Sneyers
+https://youtu.be/MuH0wBX8uHs
+
+JVM Toolbox 2017 (Live coding) by Jonatan Kazmierczak
+https://youtu.be/IoJSIT8Zo4s
+
+Microsoft Visual Studio and DevOps for Any App, Any Developer, Any Platform by Giles Davies
+https://youtu.be/unQfEDwkv1w
+
+Realtime-Cognitive IoT using DeepLearning and Online Learning by Romeo Kienzler
+https://youtu.be/3lXrrx8ys4Y
+
+Rethinking Microservices with Stateful Streams by Ben Stopford
+https://youtu.be/c5sS1dB61Rs
+
+Services Assemble! by Mark Heckler
+https://youtu.be/XB8Jf2Xruu8
+
+The Art of Discovering Bounded Contexts by Nick Tune
+https://youtu.be/ez9GWESKG4I
+
+The end of polling  why and how to transform a REST API into a Data Streaming API by Audrey Neveu
+https://youtu.be/xclRxDb75l0
+
+The reactive landscape by Clement Escoffier
+https://youtu.be/JMYomqM92MM
+
+Transactional actors with Eclipse Vert.x by Mark Little & Michael Musgrove
+https://youtu.be/Ikwj7gxemLQ
+
+Turbo Charge CPU Utilization in ForkJoin Using the ManagedBlocker by Heinz Kabutz
+https://youtu.be/12qM3GFnfzI
+
+Using FlameGraphs To Illuminate The JVM by Nitsan Wakart
+https://youtu.be/ugRrFdda_JQ
+
+Using Java 8 Lambdas and StampedLock To Manage Thread Safety by Heinz Kabutz
+https://youtu.be/Q895_B9BhJ8
+
+Virtual Reality in Java, is it possible by Erik Pronk & Alexander Chatzizacharias
+https://youtu.be/31v5EE1Loyc
+Videos 1801-1825

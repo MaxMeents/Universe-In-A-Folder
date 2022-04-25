@@ -1,0 +1,19 @@
+
+Metrics for System Assessment  Autonomous Navigation, Part 6
+https://youtu.be/k3bzouQNIwE&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+
+Path Planning with A and RRT  Autonomous Navigation, Part 4
+https://youtu.be/QR3U1dgc5RE&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+
+Understanding SLAM Using Pose Graph Optimization    Autonomous Navigation, Part 3
+https://youtu.be/saVZtgPyyJQ&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+
+Understanding the Particle Filter    Autonomous Navigation, Part 2
+https://youtu.be/NrzmH_yerBU&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+
+What Is Autonomous Navigation  Autonomous Navigation, Part 1
+https://youtu.be/Fw8JQ5Q-ZwU&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+
+What Is Extended Object Tracking  Autonomous Navigation, Part 5
+https://youtu.be/jbfpwpqVDI8&list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+Autonomous Navigation

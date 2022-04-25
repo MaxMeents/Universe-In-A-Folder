@@ -1,0 +1,13 @@
+
+@mentions for Users with ActionText in Rails 6
+https://youtu.be/aE1Mqzpxa1U&list=PLm8ctt9NhMNWLpXEUj1qtMT8BDFVS0Qzq
+
+Action Text User Mention Notifications  Preview
+https://youtu.be/d10z-hc2ceU&list=PLm8ctt9NhMNWLpXEUj1qtMT8BDFVS0Qzq
+
+How to save Action Mailbox inbound HTML emails with Action Text & ActiveStorage  Preview
+https://youtu.be/j054Nu02IAk&list=PLm8ctt9NhMNWLpXEUj1qtMT8BDFVS0Qzq
+
+How to Use ActionText in Rails 6
+https://youtu.be/5V7wcDdK9sM&list=PLm8ctt9NhMNWLpXEUj1qtMT8BDFVS0Qzq
+ActionText

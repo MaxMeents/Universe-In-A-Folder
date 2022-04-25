@@ -1,0 +1,76 @@
+
+Bruce Gray - Perl 6 and the Emergent Program.
+https://youtu.be/DJCp6k1ts3g&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Buddy Burden - Making Dates Easy(er) in Perl
+https://youtu.be/FV23EnZf3OY&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Dave Jacoby - Care and Feeding of your User Group
+https://youtu.be/l4DiOu84qs8&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Dave Rolsky - Make Your Technical Hiring Process Suck at Least 20% Less
+https://youtu.be/-JzgEl782Jg&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+David Golden - Taking Perl to Eleven with Higher-Order Functions
+https://youtu.be/USF4BHMFKbg&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Graham Termarsch - Building a Culture of Learning and Sharing
+https://youtu.be/4MYEfvHEj0c&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+James Keenan - Testing CPAN Against the Perl 5 Core Distribution Where Do We Stand
+https://youtu.be/qtTZ4n3HA_E&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Jan Samborski - Training Your Inner Cowboy
+https://youtu.be/9aIGHKvKe-s&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Jeffrey Goff - Reduce, Reuse, Recycle – Parsing in Perl 6
+https://youtu.be/CxgELwuqj6o&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Jeremy Zawodny - Modernizing Legacy Perl Serving Millions Daily
+https://youtu.be/P49gduedYh0&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Jim Brandt -  TPF Welcome
+https://youtu.be/bdNr0hQAsy4&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Joelle Maslak - You’re Not Wanted Here!
+https://youtu.be/ZqpCKisOL5k&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+John Anderson - Introduction to Git for non-developers
+https://youtu.be/PuSFqiDm0YU&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+LIGHTNING TALK Chad Granum - gotofile – a batshit crazy idea
+https://youtu.be/LoZFP_e27mk&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+LIGHTNING TALK Chris Nandor - Perl, in a Nutshell, in the key of F
+https://youtu.be/Wdq3dyRBl70&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Michael Conrad - Building the Graphics of the DeLorean Digital Dash
+https://youtu.be/FtaBVVm5IBc&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Michael La Grasta - Ambient Information or My desk has 80k hits on YouTube
+https://youtu.be/lM6EwdofLh4&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Mickey Nasriachi - Dancer From Scratch
+https://youtu.be/-hIzHDQx8_U&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Nicolas R. - Learning XS by example
+https://youtu.be/4rrcICCfxco&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Ruth Holloway - Discourse Without Drama
+https://youtu.be/-lWnmVm5owQ&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Sawyer X - State Of The Velociraptors
+https://youtu.be/jMDNlgts1Tw&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Stevan Little - UNIVERSALObject – All your base class are belong to us
+https://youtu.be/lnleCcKqcv4&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+VM Brasseur - Importance of an Ecosystem
+https://youtu.be/ySWez59lhH0&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Walt Mankowski - A Punch Card Ate My Program
+https://youtu.be/Fh5HHj79ybw&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+
+Will Coleda - Promises and More in Perl 6
+https://youtu.be/moaGidO3eA4&list=PLA9_Hq3zhoFx1inHPmwmbXrPcI8cc0fyO
+Videos 1-25

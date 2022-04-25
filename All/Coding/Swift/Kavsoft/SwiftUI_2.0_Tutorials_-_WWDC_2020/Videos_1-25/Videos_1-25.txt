@@ -1,0 +1,73 @@
+
+How to Create Widgets For iOS 14 Using SwiftUI 2.0 - SwiftUI WidgetKit - WWDC 2020 SwiftUI Tutorials
+https://youtu.be/OpxFAzgmlK4&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 3D Cube Transition - Instagram Story 3D Cube Transition - SwiftUI 2.0 Tutorials
+https://youtu.be/NTun83toSQQ&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Apple Music Animations - WWDC 2020 Xcode 12 SwiftUI Tutorials
+https://youtu.be/EdoPmbpP-ek&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Carousel List - Custom Grids And Animations - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/Yn8t3exuml4&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Curved Tab Bar - Custom Paths - Solid Animations - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/SythDf1r4oE&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Dashboard - Grids - Tab View With Swipe Gestures - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/dRdguneAh8M&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Dating UI - Depth Stacks - Gestures - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/8gIsZb9miG0&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Firebase Connection - No App Delegate Solution - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/mzoRYuX-nmE&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Fitness Dashboard - Bar Charts - Progress Rings - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/OixdgS7vyXc&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Grids - Grids In SwiftUI 2.0 With Matched Geometry Effect - WWDC 2020 SwiftUI Tutorials
+https://youtu.be/kF4yFSiOee0&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Hero Animation - SwiftUI Custom Animations - Xcode 12 - WWDC 2020 SwiftUI 2.0 Tutorials
+https://youtu.be/XDln5Qy3zcc&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 iMessage Pinned View - SwiftUI Custom Swipe Actions - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/9xJc-pOpsIw&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 JSON Parsing - Completion Handlers - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/7qI9joPoFIw&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Login Page - Custom Curves - Shapes - Animations - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/P17SVs3mcc8&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Neumorphic Design - Music Player UI - Neumorphism In SwiftUI  - SwiftUI 2.0 Tutorials
+https://youtu.be/CpFQgzcIi2Y&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 New Features And Updates For iOS 14 - Xcode 12 - WWDC 2020 SwiftUI Tutorials
+https://youtu.be/YJwhzOijwwI&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 New Features And Updates For iOS 14 Part 2 - Xcode 12 - WWDC 2020 SwiftUI Tutorials
+https://youtu.be/Ozx2C5Qh4HA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 New PHPicker API - SwiftUI PhotosUI PHPicker - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/uARkVheOqSg&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Parallax Effect - SwiftUI Parallax Scrolling - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/vTwqAGziNwE&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Scroll Reader - Image Picker - Chat UI - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/Ebi1nts8QJY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Shoe App - Hero Animation - Custom Tab Menu's - Xcode 12 SwiftUI 2.0 Tutorials
+https://youtu.be/ia1XPWT06Tw&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Translucent Background Effect - Fashion App UI - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/HVLEzBJ-r9w&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Drag And Drop API - Xcode 12 - SwiftUI 2.0 Tutorials
+https://youtu.be/aLC53uoMSY0&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Gradient Picker API - Grids - Search Bar - Hex To RGB UIColor - SwiftUI 2.0 Tutorials
+https://youtu.be/cakEQx3p7bU&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+Videos 1-25

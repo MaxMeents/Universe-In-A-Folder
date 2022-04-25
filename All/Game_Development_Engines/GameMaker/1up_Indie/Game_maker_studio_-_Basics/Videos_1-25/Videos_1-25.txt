@@ -1,0 +1,76 @@
+
+🔴Game Maker Studio 2  Basics -  Sneaky and overlooked mechanics
+https://youtu.be/UGIXD4ygvpw&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Bounce or pong way to easy
+https://youtu.be/30YWjASOl7I&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Damage text or how to do it like the pros
+https://youtu.be/PQ8FZHprqOw&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Easy camera and why it makes so much trouble
+https://youtu.be/a9scW0i3tYw&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Glow, Light and Shader - Easy to understand
+https://youtu.be/bulc82zTLCc&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Grenades and axes How to improve your own game
+https://youtu.be/ZxT8Ksk7S5U&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - GUI & HUD - Essentail GMS knowledge
+https://youtu.be/O0EI1v3vfno&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Hit effects, sneaky things that boost every game
+https://youtu.be/WBdD0VSuqlc&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - How keyboards and gamepads work in GMS
+https://youtu.be/SmCH5tCNh68&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Laser beams the easy way
+https://youtu.be/0qsWP-ieLVU&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Parallax scrolling
+https://youtu.be/MTDyvarWY9I&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Particles Essential game magic
+https://youtu.be/DOKrIAn2z_Y&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Pixel perfect camera
+https://youtu.be/9SqqelZxSxs&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Quick and dirty  Switch
+https://youtu.be/jMvarDpCBfI&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Quick and dirty bullets and why you need to know that
+https://youtu.be/LLFKlYzH04w&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Quick and dirty If statement and operators
+https://youtu.be/V_tVTqhPISs&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Quick and dirty Inbuild object variables
+https://youtu.be/SnPOxXlymrI&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Quick and dirty objects and instances
+https://youtu.be/dUh209DcMG0&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Rotating Spikeball - Essentail know how
+https://youtu.be/7df_tHEBaJo&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Screen magic or application surface and how gms actually works
+https://youtu.be/h17ZUUlRuoc&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Screen ShakeCamera Shake
+https://youtu.be/HQG91LgxNpk&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Sound - How sound works in gamemaker
+https://youtu.be/JuOI2ADFDVI&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Surfaces or the real paint in gms
+https://youtu.be/cRXSW1e5C20&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Trail or shadow dash like a ninja
+https://youtu.be/Rivaxy6Y_Sc&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+
+🔴Game Maker Studio 2  Basics - Transitions or how to jump from room to room smoothly
+https://youtu.be/QkrRykZj9Mw&list=PLhvuXCmibF5rGtNHIDkqjS12fU079f8i6
+Videos 1-25

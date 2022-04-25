@@ -1,0 +1,13 @@
+
+Introduction to Panache
+https://youtu.be/5u59oNRH5SI&list=PL50BZOuKafAadeOWM8q8BZCYK3u1pYHtE
+
+Panache  Active Record Pattern
+https://youtu.be/p3gc0CGhr80&list=PL50BZOuKafAadeOWM8q8BZCYK3u1pYHtE
+
+Panache Repository Pattern
+https://youtu.be/zCg9Vl4M_G4&list=PL50BZOuKafAadeOWM8q8BZCYK3u1pYHtE
+
+Quarkus & Hibernate – Getting Started Guide
+https://youtu.be/hPikIWn71Lk&list=PL50BZOuKafAadeOWM8q8BZCYK3u1pYHtE
+Quarkus

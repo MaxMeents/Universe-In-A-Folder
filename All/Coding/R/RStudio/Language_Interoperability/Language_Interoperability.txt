@@ -1,0 +1,28 @@
+
+Ian Cook  Bridging the Gap between SQL and R  RStudio (2020)
+https://youtu.be/JwP5KdWSgqE&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Irene Steves  The dynamic duo SQL & R  RStudio
+https://youtu.be/gdzONbwfWk0&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Javier Luraschi  Using pins with Python and JavaScript  RStudio
+https://youtu.be/dsfEsJCiH-E&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Lou Bajuk & Sean Lopp  RStudio A Single Home for R & Python RStudio
+https://youtu.be/0Ty4y3ZYA1M&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Michael Chow  Bringing the Tidyverse to Python with Siuba  RStudio
+https://youtu.be/w4Mi0u4urbQ&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Nathan Stephens  Best Practices for Administering RStudio in Production  RStudio (2019)
+https://youtu.be/siIw5OHVR_o&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Panel  Debunking the R vs. Python Myth  RStudio (2020)
+https://youtu.be/6mp-BWPnqK4&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Sean Lopp  R & Python Going Steady  RStudio
+https://youtu.be/86X0n7jfUoM&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+
+Sean Lopp & Lou Bajuk  R & Python A Data Science Love Story  RStudio (2020)
+https://youtu.be/_50yZxOome4&list=PL9HYL-VRX0oQw5xWxjaOdY97P6gRbkaPG
+Language Interoperability

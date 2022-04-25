@@ -1,0 +1,25 @@
+
+Bad Tech Tests -  Lucia Velasco - PHPSW Lightning Talks, April 2018
+https://youtu.be/6nzcdPUkC9A&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+Development Dinosaurs - Andy Gale - PHPSW Lightning Talks, April 2018
+https://youtu.be/wfVhneM_Htc&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+Devkit. By the People, For the People - Vítor Brandão - PHPSW Lightning Talks, April 2018
+https://youtu.be/rHSaEtnCxi8&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+How to Not be a Cool Developer -  Jerguš Lejko - PHPSW Lightning Talks, April 2018
+https://youtu.be/-LeOALAO3MI&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+Not using the Git Command Line -  Nigel Dunn - PHPSW Lightning Talks, April 2018
+https://youtu.be/QiPh4DMhGpU&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+Speedy Seeding for Load Testing -  Martin Joiner - PHPSW Lightning Talks, April 2018
+https://youtu.be/cqFroTE6jM8&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+Static Site Generators & PHP - Drew McLellan - PHPSW Lightning Talks, April 2018
+https://youtu.be/MT6avUT6OcQ&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+
+Using a Framework or Not - Peter Fisher - PHPSW Lightning Talks, April 2018
+https://youtu.be/T8R3YTrqt6U&list=PLrEpsyNSHj03iDCrMq71iCe7w9TH__Wrc
+Lightning Talks, April 2018

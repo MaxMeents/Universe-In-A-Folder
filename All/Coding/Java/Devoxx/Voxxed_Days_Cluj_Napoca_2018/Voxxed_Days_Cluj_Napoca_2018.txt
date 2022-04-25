@@ -1,0 +1,58 @@
+
+ALASDAIR COLLINSON - The quantum computers are coming
+https://youtu.be/_NEeVLUq2zU&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+ALBERTO SALAZAR - Nowadays Architecture Trends, from Monolith to Microservices and Serverless
+https://youtu.be/WfqV7dvyoCQ&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+ALEX MOLDOVAN - The Modern Struggle of Web Development
+https://youtu.be/qZRjOrWdx-c&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+ANA MIHĂLCEANU - Helm your way with Kubernetes
+https://youtu.be/tGKk-KfwnQw&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+ANTON ARHIPOV - Kotlin DSL in under an hour
+https://youtu.be/zYNbsVv9oN0&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+CIPRIAN BORODESCU & ALEXANDRA ANGHEL - AI enhanced UX
+https://youtu.be/ga3gX1fs8vg&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+DAVID DELABASSEE - Serverless Java in Action with Fn!
+https://youtu.be/_6b8f29UJWM&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+FRANK LYARUU - ElasticSearch, MongoDB and Neo4j walk into a bar   a tale of different databases
+https://youtu.be/f4Lr8NWu5uc&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+How it feels like Voxxed Days Cluj-Napoca 2018
+https://youtu.be/ygCZXSxCjVM&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+KRZYSZTOF KUDRYNSKI, BLAZEJ KUBIAK - Flying services with a drone (Ending Keynote)
+https://youtu.be/fkJ-xEcYfcY&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+LAURENT PICARD - Building smarter apps with Machine Learning, from magic to reality
+https://youtu.be/Iqo6Mbnb4Ho&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+OLEH DOKUKA - How to build Reactive Server in 50 minutes
+https://youtu.be/4yhov43SGuw&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+PHILIPP KRENN - Centralized Logging Patterns
+https://youtu.be/vme_4hmKIDk&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+Private video
+https://youtu.be/f1AVY0NC0sM&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+RAFAEL BENEVIDES - Service Mesh and Sidecars with Istio and Envoy
+https://youtu.be/h72EGqloFDM&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+STEVE POOLE - The Anatomy of Java Vulnerabilities
+https://youtu.be/UU7OlQerEWY&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+VENKAT SUBRAMANIAM - Refactor your language knowledge portfolio - we are what we can code in
+https://youtu.be/zajUPJI19ZQ&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+VICTOR RENTEA - Functional Programming Patterns with Java8
+https://youtu.be/B-mLFobQ0aA&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+
+VLAD MIHALCEA - Java Persistence and Hibernate Tips that can boost up your application performance
+https://youtu.be/48w_8i9mCoM&list=PLRsbF2sD7JVrINttHR9h4KQMYYC_5eZJi
+Voxxed Days Cluj Napoca 2018

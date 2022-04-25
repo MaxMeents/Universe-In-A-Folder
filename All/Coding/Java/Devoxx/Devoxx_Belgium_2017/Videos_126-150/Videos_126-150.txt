@@ -1,0 +1,76 @@
+
+7 essential softskill survival secrets for developers by Nick Vanderhoven and Jeroen Horemans
+https://youtu.be/yU1P31muBNs&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+A Raspberry Pi and DeepLearning4J Brain That Plays Minecraft by Simon Ritter
+https://youtu.be/qouDTZbFhoc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+AI and Minecraft Lars by Lars Gregori
+https://youtu.be/4dvhGlcyKI0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Amazon Alexa Skills vs Google Home Actions  the Big Java VUI Faceoff Baruch Sadogursky, Viktor Gamov
+https://youtu.be/WO06mAa_zMw&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Building apps with React Native by Maarten Mulders
+https://youtu.be/oVcvtoVwUrM&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Deep Dive into Deep Learning with MXNet by Randall Hunt
+https://youtu.be/yYLK3ZE5JX0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Fallacies of Doom   Lessons learned from porting Doom 3 to Java Mahmoud Abdelghany
+https://youtu.be/cyCxhVoBWfw&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Highway to Elm by Jordane Grenat
+https://youtu.be/Ofx6LFCYea0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Aleksey Shipilev at Devoxx Belgium 2017
+https://youtu.be/87eNnyLa2BE&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Berit Anderson at Devoxx Belgium 2017
+https://youtu.be/q_1vB9N-Hn4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Brian Goetz at Devoxx Belgium 2017
+https://youtu.be/Su1ijHLvuNE&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Josh Long & Matt Raible at Devoxx Belgium 2017
+https://youtu.be/wUL02eI0eB4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Yakov Fain at Devoxx Belgium 2017
+https://youtu.be/pqIUkFberjc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Java EE 8 What's New in the Java EE 8 Release by David Delabassee
+https://youtu.be/9VnVZ3j8yDQ&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Java9 and REPL  Forget debugging, welcome joy and productivity by Jakub Marchwicki
+https://youtu.be/aPfcN9Pkkkk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Modules in One Lesson by Mark Reinhold
+https://youtu.be/IokevuiEKCY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Redirect http to https, how hard can it be by Marius Vaitkus
+https://youtu.be/acxxl9VFGA0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Serverless Deep Dive by Bert Ertman
+https://youtu.be/85S39yxe3sY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Serverless Machine Learning a beginner's guide by Bret McGowen and Yufeng Guo
+https://youtu.be/Fu8Sdh_wkQM&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Anatomy of Java Vulnerabilities by Steve Poole
+https://youtu.be/fkkFC-t61Mk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Computer Science behind a modern distributed data store by Max Neunhöffer
+https://youtu.be/B0HKpoVKqX0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Do's and Don'ts with Java 9 by Robert Scholte
+https://youtu.be/tHTmFlVAyAc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Twitter's quest for a wholly Graal runtime by Chris Thalinger
+https://youtu.be/ZbccuoaLChk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+WebHooks vs WebSub which one to stream your events in Real Time by Audrey Neveu
+https://youtu.be/dZBruTcnnyc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Welcome to Devoxx Belgium 2017 by Stephan Janssen
+https://youtu.be/6ethbpVl4eo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+Videos 126-150

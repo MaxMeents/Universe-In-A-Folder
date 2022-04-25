@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 104 - Learning Modern C++ - 4  const and constexpr
+https://youtu.be/UYEyHlynkPc&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 115 - Compile Time ARM Emulator
+https://youtu.be/UYcRvU9UO40&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 122 - `constexpr` With `optional` And `variant`
+https://youtu.be/2eCV_udkP_o&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 145 - Semi-Automatic `constexpr` and `noexcept`
+https://youtu.be/1FAcPvb0ZjU&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 159 - `constexpr` `virtual` Members In C++20
+https://youtu.be/JXJg_XMJFW0&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 18 C++17's constexpr if
+https://youtu.be/qHgM5UdzPQU&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 187 - C++20's `constexpr` Algorithms
+https://youtu.be/9YWzXSr2onY&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 188 - C++20's `constexpr` `new` Support
+https://youtu.be/FRTmkDiW5MM&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 213 - CTRE Compile Time Regular Expressions
+https://youtu.be/8aRfJp1oZGA&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 233 - stdmap vs constexpr map (huge perf difference!)
+https://youtu.be/INn3xa4pMfg&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 242 - Design By Introspection in C++20 (concepts + if constexpr)
+https://youtu.be/sy32kAtsIKg&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 251 - constexpr Parameters With C++20's CNTTP
+https://youtu.be/iIizz2bbkiA&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 261 - C++20's New consteval Keyword
+https://youtu.be/b22cKntJslU&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 269 - How To Use C++20's constexpr stdvector and stdstring
+https://youtu.be/cuFILbHp-RA&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 301 - C++ Homework `constexpr` All The Things
+https://youtu.be/cpdjQiRxEJ8&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 304 - C++23's 'if consteval'
+https://youtu.be/AtdlMB_n2pI&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 308 - 'if consteval' - There's More To This Story
+https://youtu.be/y3r9l3LZiJ8&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 312 - Stop Using `constexpr` (And Use This Instead!)
+https://youtu.be/4pKtPWcl1Go&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 313 - The `constexpr` Problem That Took Me 5 Years To Fix!
+https://youtu.be/ABg4_EV5L3w&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 314 - Every Possible Way To Force The Compiler To Do Work At Compile-Time in C++
+https://youtu.be/UdwdJWQ5o78&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 315 - constexpr vs static constexpr
+https://youtu.be/IDQ0ng8RIqs&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 41 - C++17's constexpr Lambda Support
+https://youtu.be/kmza9U_niq4&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 44 - constexpr Compile Time Random
+https://youtu.be/rpn_5Mrrxf8&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly - Ep 45 - Compile Time Maze Generator (and Solver)
+https://youtu.be/3SXML1-Ty5U&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++ Weekly Special Edition - Using C++17's constexpr if
+https://youtu.be/_Ny6Qbm_uMI&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+Videos 1-25

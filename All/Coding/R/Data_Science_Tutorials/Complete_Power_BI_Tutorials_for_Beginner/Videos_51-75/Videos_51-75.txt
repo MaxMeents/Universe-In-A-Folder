@@ -1,0 +1,76 @@
+
+Changing Power BI Date Slicer Look and Feel from Range to List or Dropdown
+https://youtu.be/3qVSKY-Gi74&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Creating Bowtie Chart in Power BI
+https://youtu.be/mO9CbqJ2BCc&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to change Power BI Date Format to US or UK date format
+https://youtu.be/l_9a_GlBuow&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create and Interpret Power BI Histogram
+https://youtu.be/K0vNt_NI1j0&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create and Interpret Power BI Sunburst Chart
+https://youtu.be/m8voZUVyy4Q&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create Bullet Chart in Power BI
+https://youtu.be/oO5AiRR7XLA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to create infographic in Power BI or image on bar chart
+https://youtu.be/TwOEN-QSTJ4&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create Power BI Box and Whisker Statistical Plot
+https://youtu.be/mFW2N-6o22k&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create Power BI Sankey Chart
+https://youtu.be/T7lVEk9pWY8&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to create word cloud in power bi  Power BI Text Analytics
+https://youtu.be/brkbbS4GSGw&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Improving Power BI Buttons Look and Feel to make them more interactive
+https://youtu.be/45QHf8Znqbc&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Bar chart for Comparison
+https://youtu.be/Y4goSyEDhA0&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Button Overview   Page Navigation Button
+https://youtu.be/R__tM6fFisQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Buttons to Jump on any Page within report
+https://youtu.be/m_mLOSw-aKM&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Clear All Filters  Slicers Bookmark Action with Button
+https://youtu.be/SrHDiN67594&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI CountRows Function Tutorial to Count Total Rows in Table
+https://youtu.be/FnECpj_AhyY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI CountX and Filter Function Tutorial to Conditionally Count the Rows
+https://youtu.be/UimVMDdBvFs&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI DAX Function Count tutorial for Counting Column Values
+https://youtu.be/ZXoSz6PmQtE&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Dax Function Divide Tutorial to make division between two fields
+https://youtu.be/IMcmhGXtYDg&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI DAX function Sum to sum up values and create new measure
+https://youtu.be/jCYN1LD3m98&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Min Dax Function to Find Minimum Values and Keeping them in new Measure
+https://youtu.be/pHYEJOVUsLE&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI QnA Button for Dynamic or Ad hoc queries
+https://youtu.be/AGIPfWUwWNA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Tutorial for finding Maximum Value and Creating New Measure using DAX MAX Function
+https://youtu.be/_TK6VjbEDyY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Tutorial on Date Formatting and adding Formatted Date to Slicer
+https://youtu.be/RE3OHeI9wRU&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Using Custom Image on Power BI Button  Applying Image on Power BI Button
+https://youtu.be/JJ0NvVkuGcs&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+Videos 51-75

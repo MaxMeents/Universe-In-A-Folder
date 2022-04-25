@@ -1,0 +1,55 @@
+
+#Simulink2012 Student Challenge. Modelling, control and 3d animation of a quadcopter
+https://youtu.be/C3tKtP4qV2o&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+#Simulink2012, Taylor Spatial Frame Simulation
+https://youtu.be/2cof9-U50QE&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Control of unstable aircraft
+https://youtu.be/c-6OPqcJfvc&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Dynamic Water Treatment Works Model
+https://youtu.be/MKeBme7mR0U&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+How I Use Simulink
+https://youtu.be/UxKNmHuOZ3E&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+M.Engr Seminar Presentation by Akuru Udochukwu Bola
+https://youtu.be/68ZSNpHN2B0&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+MLE+ Simulink Interface
+https://youtu.be/Pv5qIrgC4GE&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Optimization of the Forward  Voltage Drop of Power Diode Using Similink
+https://youtu.be/A6QUdiGDWSw&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Orbital Resonance - The project
+https://youtu.be/zlhoBqmqy-I&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+PhotoVoltaic System Simulation #Simulink2012
+https://youtu.be/WM0T_3fWT7E&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Private video
+https://youtu.be/-nKEtdoukuw&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+project
+https://youtu.be/2FUb_21m7y0&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Quadrotor
+https://youtu.be/ViRCc0XaXQc&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Simulink 3d animation of a wind turbine
+https://youtu.be/vr_GYGpy1HM&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+TFRS using Simulink
+https://youtu.be/3l-Qd2Zv5Xs&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+UWB-802.15.4A
+https://youtu.be/Ym35eV26iy8&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Visually Autonomous Landing of Helicopters on Ships
+https://youtu.be/yiuBEiEJuLo&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+
+Wireless networking with ECRobot toolbox (WINNER of #simulink2012)
+https://youtu.be/ZLB5A3vHSe4&list=PLn8PRpmsu08rxo8mezokLFXO_VrOh1UEr
+Simulink Student Challenge 2012 Entries

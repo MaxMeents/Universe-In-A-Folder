@@ -1,0 +1,76 @@
+
+Caitiln Rubin - Intentional Deployment Best Practices for Feature Flag Mngmnt, SF Python Apr 2019
+https://youtu.be/2xFfxQQmiVw
+
+Cristián Maureira - Write your first UI application with Python, SF Python Meetup May 2019
+https://youtu.be/xz5oXLsecCM
+
+Josh Grant - Moving Your Tests from Python 2 to Python 3, SF Python Meetup, Sept 2019
+https://youtu.be/pslGXfGnjug
+
+Lightning Talk - Dave Cox
+https://youtu.be/FhPJsJWQpSc
+
+Lightning Talk - Nick Casa
+https://youtu.be/klpuUJW9CyM
+
+Lusen Mendel - Make the Most of It Negotiation and Self-Advocacy, SF Python May 2019
+https://youtu.be/z0lt9ZIXOWs
+
+Lusen Mendel - Make the Most of It Negotiation and Self-Advocacy, SF Python Meetup, Sept 2019
+https://youtu.be/DDG_pJUdiLg
+
+Ministry of Silly Runtimes  Vintage Python on Cloud Run - Dustin Ingram
+https://youtu.be/KoaN2Y22KmY
+
+My Path to Becoming a Python Core Developer - Emily Morehouse Valcarcel
+https://youtu.be/rruQXfP2oEs
+
+mypy   Getting to Four Million Lines of Typed Python  - Michael Sullivan
+https://youtu.be/FT_WHV4-QcU
+
+Patterns for Clean API Design - Paul Ganssle
+https://youtu.be/9rKx-8bj-R0
+
+Profiling Python C++ ML applications using VSCode - R Gabriel Esteves
+https://youtu.be/KHi8UOpGgeM
+
+Project Jupyter  Tools for Interactive, Reproducible Data Science - Keeley Takimoto
+https://youtu.be/4qj0CcEsbUA
+
+Python for Industry  Pharmaceuticals and Healthcare - Parag Shrivastava
+https://youtu.be/doTMGOPK1Cw
+
+Python RTMIDI + Various Syntheszisers = Fun - Tom
+https://youtu.be/Crm3LUdZvt8
+
+Richard Haven - Python Decorators and Diversions, SF Python Meetup, May 2019
+https://youtu.be/bP2ougQ3LHA
+
+Robert Nishihara - Programming at any Scale with Ray, SF Python Meetup, Sept 2019
+https://youtu.be/LfpHyIXBhlE
+
+Talking to data as you would with built in types - Thor Whalen
+https://youtu.be/6lx0A6oVM5E
+
+The latest with BLACK, so you can stop worrying about Formatting - Łukasz Langa
+https://youtu.be/nnKvBwRt72Q
+
+The Mental Game of Python - Raymond Hettinger
+https://youtu.be/UANN2Eu6ZnM
+
+Understanding Concurrency in Python! - Annie Cook
+https://youtu.be/9g5IZDkwAC0
+
+Unit testing using monkey patching in pytest - Vikram Bhat
+https://youtu.be/sZMOJ9SLJf4
+
+Valerie Coffman - Using randomized trials and AI to analyze political ads, SF Python May 2019
+https://youtu.be/PyDuVxpeYSc
+
+Why you should be using structured logs - Stefan Krawczyk
+https://youtu.be/4Y3VdS2pLF4
+
+Writing good python APIs with autosig - Antonio Piccolboni
+https://youtu.be/vrIC1K9lj1U
+Videos 151-175

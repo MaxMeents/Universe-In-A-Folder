@@ -1,0 +1,76 @@
+
+Python 3 GUI Using wxFormBuilder XRC 1 - Basic Frame
+https://youtu.be/hzWzJYn5id0
+
+Python 3 GUI Using wxFormBuilder XRC 2 MenuBar Explained
+https://youtu.be/WuJDQTfRObw
+
+Python Web Frameworks 10 bottle item 1
+https://youtu.be/VKs9NPgYAzU
+
+Python Web Frameworks 11 bottle item 2
+https://youtu.be/k9Huu6IQG7g
+
+Python Web Frameworks 12 Bottle Edit Task 1
+https://youtu.be/fAgSPmHOHCY
+
+Python Web Frameworks 13 Bottle Edit Task 2
+https://youtu.be/9iETwsf7L-M
+
+Python Web Frameworks 4 Bottle Todo Templates 1
+https://youtu.be/1o0WNa3aqrc
+
+Python Web Frameworks 5 Bottle Todo Templates 2
+https://youtu.be/mY8DynrzIzk
+
+Python Web Frameworks 6 Bottle Todo Database
+https://youtu.be/WP01FY-I2C8
+
+Python Web Frameworks 7 Bottle Todo newtask 1
+https://youtu.be/3F9MREG4ANs
+
+Python Web Frameworks 8 bottle newtask 2
+https://youtu.be/b1yFXpimLY0
+
+Python Web Frameworks 9 Bottle Newtask 3
+https://youtu.be/Q5G2OrBKOpI
+
+Python Windows Evironment Variabled Setup
+https://youtu.be/3ThbXLXSazM
+
+Raspberry Pi -  6 View Desktop Remotely
+https://youtu.be/DNnO_HkLZTA
+
+Raspberry Pi - 5 Update and Upgrade Remotely
+https://youtu.be/zvwkjzCAZmY
+
+Raspberry Pi 3 -  Open Box Reveal
+https://youtu.be/B5NzHQ0Cq1U
+
+Raspberry Pi 3 - Format SD Card
+https://youtu.be/GK1Q2JPkebM
+
+Raspberry Pi 3 - Remote Into Raspberry Pi
+https://youtu.be/Pkuen56lGa4
+
+Raspberry Pi 3 Install Raspian OS
+https://youtu.be/JRqCRFtqtAc
+
+RTL-433 - 3 Determine Packet Timing With Audacity
+https://youtu.be/VarH42bc6o8
+
+RTL_433 - 1 Decoding Weather Station Telemetry
+https://youtu.be/sdwwqLYr_LE
+
+RTL_433 - 2 Assess The Telemetry Signal With Audacity
+https://youtu.be/YVaismBmFLE
+
+RTL_SDR - Ubuntu 16.04 Install
+https://youtu.be/YF0aeCRdS6s
+
+wxFormBuilder 1 - Create Frame
+https://youtu.be/YC5G96CkiFc
+
+wxFormbuilder 2 - Set Python Generate Code Default
+https://youtu.be/lURys4IzMIs
+Videos 26-50

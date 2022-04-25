@@ -1,0 +1,49 @@
+
+RustConf 2019 - Bringing Rust Home to Meet the Parents by Jeremy Fitzhardinge
+https://youtu.be/kylqq8pEgRs&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Class Fixes; Or, You Become the Rust Compiler by Isobel Redelmeier
+https://youtu.be/8rlai-F-_1o&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Closing Keynote by Lin Clark
+https://youtu.be/KFpU30xluxo&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald
+https://youtu.be/Ho3xr4b60Zg&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak
+https://youtu.be/lLzFJenzBng&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Is This Magic! Ferris Explores Rustc! by J Haigh & QuietMisdreavus
+https://youtu.be/KJ-V2BOtZnM&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Messing Around with fn main() and Getting Away with it by Yoshua Wuyts
+https://youtu.be/9MkZa70pfC4&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Monotron - Building a Retro Computer in Embedded Rust by Jonathan Pallant
+https://youtu.be/PXaSUiGgyEw&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Opening Keynote by Steve Klabnik & Florian Gilcher
+https://youtu.be/FSrQX4uYuOM&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Rust for Weld, a High Performance Parallell JIT Compiler by Shoumik Palkar
+https://youtu.be/AZsgdCEQjFo&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Syscalls for Rustaceans by Gargi Sharma
+https://youtu.be/G0e2lVENaCU&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Taking Constant Evaluation to the Limit by Oliver Schneider
+https://youtu.be/wkXNm_qo8aY&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - The Rust 2018 Module System by Josh Triplett
+https://youtu.be/AN9FoZgLcFg&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - The Symbiotic Relationship of C++ and Rust by Isabella Muerte
+https://youtu.be/YZomx3Jt4Xs&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Tokio-Trace Scoped, Structured, Async-Aware Diagnostics by Eliza Weisman
+https://youtu.be/JjItsfqFIdo&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
+RustConf 2019 - Towards an Open Ecosystem of Empowered UI Development by Adam Perry
+https://youtu.be/tmM756XZt20&list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+RustConf 2019

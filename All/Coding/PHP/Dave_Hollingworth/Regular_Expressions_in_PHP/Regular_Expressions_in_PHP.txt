@@ -1,0 +1,16 @@
+
+Extract parts of strings using regular expression capture groups
+https://youtu.be/Nxq9_EfbGh0&list=PLFbnPuoQkKsd9vxRRtu9iKlewyLx-sLSf
+
+How to do complex string comparisons an introduction to regular expressions in PHP
+https://youtu.be/ibnPw9QSRHU&list=PLFbnPuoQkKsd9vxRRtu9iKlewyLx-sLSf
+
+Replace parts of strings using regular expressions in PHP
+https://youtu.be/7cZy1-GlBH8&list=PLFbnPuoQkKsd9vxRRtu9iKlewyLx-sLSf
+
+Using special characters in regular expressions advanced pattern matching
+https://youtu.be/ZLO9Al4BHm0&list=PLFbnPuoQkKsd9vxRRtu9iKlewyLx-sLSf
+
+Write even more powerful regular expressions use character sets and ranges
+https://youtu.be/wiGyVRWW6o8&list=PLFbnPuoQkKsd9vxRRtu9iKlewyLx-sLSf
+Regular Expressions in PHP

@@ -1,0 +1,76 @@
+
+2021-04-14 Planning Meeting
+https://youtu.be/-V2zxC8YpnI
+
+2021-04-21 Design Meeting extern 'wasm' ABI
+https://youtu.be/XH4sXBa06ig
+
+2021-04-21 RFC 2229 Sync
+https://youtu.be/vX-GGzgbWoQ
+
+2021-04-27 Lang Team Triage
+https://youtu.be/StnbDE_2wO0
+
+2021-05-04 Lang Team Triage Meeting
+https://youtu.be/26sZ2g8UZhY
+
+2021-05-05 Lang Team Planning Meeting
+https://youtu.be/ILhBFqLRhZU
+
+2021-05-11 Lang Team Triage Meeting
+https://youtu.be/5hmVDeNc1t0
+
+2021-05-12 Trait Evaluation Caching (PR #85186)
+https://youtu.be/_tG2E9KVy5o
+
+2021-05-17 Cross Team Collaboration Fun Times (CTCFT)
+https://youtu.be/Ti63jvWjYFY
+
+Creusot A prototype tool for verification of Rust software
+https://youtu.be/b8sBtmzq0FM
+
+crux-mir Symbolic testing for Rust
+https://youtu.be/0mocaSR9f_M
+
+Ferrite A Rust EDSL for Message-passing Protocol Verification
+https://youtu.be/6dcf3tOPOwo
+
+hacspec succinct, executable, verifiable specifications for high-assurance cryptography
+https://youtu.be/k7_BcWwvz7k
+
+Leveraging Compiler Intermediate Representation for Multi- and Cross-Language Verification
+https://youtu.be/0DcIn7kiNxM
+
+Peeking at compiler-internal data (for fun and profit)
+https://youtu.be/SKmd5A-1cSE
+
+Polonius
+https://youtu.be/H54VDCuT0J0
+
+Prusti – Deductive Verification for Rust
+https://youtu.be/C9TTioH5JUg
+
+Rust & Tell - April 2021
+https://youtu.be/q-oANR8sspw
+
+Rust & Tell - May 2021
+https://youtu.be/YbguuQzHcfk
+
+Rust interest in safety- and mission-critical environments
+https://youtu.be/_DM36e2A9dg
+
+Rust Linz, May 2021 - Lisa Passing - Creative Rust
+https://youtu.be/VJUhINt5dF0
+
+RustBelt A Quick Dive Into the Abyss
+https://youtu.be/iAs0gZ8o0oQ
+
+Rustv Semi-automatic Verification of Unsafe Rust Programs
+https://youtu.be/bikmlNlwAYo
+
+Towards Automatic Verification of Unsafe Rust with Constrained Horn Solvers
+https://youtu.be/yJQZ7sG8xSM
+
+Verifying that Rust programs don't crash
+https://youtu.be/vMGilPbIotw
+Videos 76-100

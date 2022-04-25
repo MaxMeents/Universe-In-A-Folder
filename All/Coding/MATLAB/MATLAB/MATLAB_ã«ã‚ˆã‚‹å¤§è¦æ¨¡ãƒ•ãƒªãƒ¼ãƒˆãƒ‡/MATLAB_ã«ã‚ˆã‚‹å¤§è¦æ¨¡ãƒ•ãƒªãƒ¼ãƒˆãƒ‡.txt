@@ -1,0 +1,7 @@
+
+MATLAB による大規模フリートデータ解析 Part 1 デスクトップ編
+https://youtu.be/rmqiCVEsO1Y&list=PLn8PRpmsu08odd-8WlkuKtHC_La6awbYC
+
+MATLAB による大規模フリートデータ解析 Part 2 クラスター編
+https://youtu.be/fvVddve-gI0&list=PLn8PRpmsu08odd-8WlkuKtHC_La6awbYC
+MATLAB による大規模フリートデータ解析 ビデオシリーズ

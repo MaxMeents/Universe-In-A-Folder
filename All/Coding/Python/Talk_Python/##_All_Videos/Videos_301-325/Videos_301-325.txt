@@ -1,0 +1,76 @@
+
+#42 Python in Startups and Investing
+https://youtu.be/_ux3LypUB-s
+
+#43 Monitoring high performance Python apps at Opbeat
+https://youtu.be/ofrH0kDFq94
+
+#44 Project Jupyter and IPython
+https://youtu.be/D_9eQ3QEoZc
+
+#45 The Python Testing Column, Now a Thing
+https://youtu.be/cjH5IA6tkSk
+
+#46 Python in Movies and Entertainment
+https://youtu.be/_CMSRF4OJ4M
+
+#47 Python in Typeface and Font Development
+https://youtu.be/uFzG4hOqTiM
+
+#48 Building Flask-based Web Apps
+https://youtu.be/u7I7yxKIGPM
+
+#49 Microsoft's JIT-based Python Project Pyjion
+https://youtu.be/niQ1GuphziA
+
+#50 Web scraping at scale with Scrapy and ScrapingHub
+https://youtu.be/Fo5QJYdwyaI
+
+#51 SigOpt Optimizing Everything with Python
+https://youtu.be/GvLI9GYrppk
+
+#52 EVE Online MMO game powered by Python
+https://youtu.be/hfKGhMySFQg
+
+#53 Python in Visual Studio
+https://youtu.be/myP1sUCmqlA
+
+#54 Enterprise Software with Python
+https://youtu.be/UrBxbdmwuxQ
+
+#55 Interview How our engineering environments are killing diversity (and how we can fix it)
+https://youtu.be/BgHUk9fFPEE
+
+#56 Data Science from Scratch
+https://youtu.be/l_UmtIJbLtg
+
+#57 Python performance from the inside-out at Intel
+https://youtu.be/id8KAF0l9YA
+
+#58 Create better Python programs with concurrency, libraries, and patterns
+https://youtu.be/PZttJelKSKI
+
+#59 SageMath - Open source is ready to compete in the classroom
+https://youtu.be/zO595oZg5xs
+
+#60 Scaling Python to 1000's of cores with Ufora
+https://youtu.be/bkujINB20D0
+
+#61 Free software, free people
+https://youtu.be/Oxs7VVPBGRc
+
+#62 San Diego Technology Immersion Group Learns Python
+https://youtu.be/szV__IcAhgA
+
+#63 Validating Python tests with mutation testing
+https://youtu.be/0UYyWl4YTDQ
+
+Course Write Pythonic Code Like a Seasoned Developer
+https://youtu.be/NRevHrDyAAM
+
+Getting your first Python dev job (part 2) - Talk Python To Me episode
+https://youtu.be/q9NH4sF1U5g
+
+Kickstarter Python Jumpstart by Building 10 Apps [video course]
+https://youtu.be/Xb15JHp5wio
+Videos 301-325

@@ -1,0 +1,76 @@
+
+Automatic Tuning of a Helicopter Flight Control System
+https://youtu.be/stIS32tsbPI&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Automatic Tuning of a Multivariable Distillation Column Controller - Simulink Video
+https://youtu.be/80A6yYnBm4g&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Batch Mode Trimming and Linearization
+https://youtu.be/k8UWi49IYgA&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Control System Design with Control System Tuning App (Release 2013a)
+https://youtu.be/_bnz70ZjpyA&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Estimating and Validating Models
+https://youtu.be/ZGDnoKYonDM&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Estimating Nonlinear Black-Box Models
+https://youtu.be/Pz2EMiUP1e4&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Estimating State-Space and Polynomial Models
+https://youtu.be/y_vyfXgkRqY&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Estimating Transfer Functions and Process Models
+https://youtu.be/_3TEidI91WM&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Frequency Response Estimation
+https://youtu.be/c1UZE9kt9GU&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Gain Scheduling of PID Controllers (Previous Release)
+https://youtu.be/IGJQnMRFrmM&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Getting Started with Fuzzy Logic Toolbox (Part 1)
+https://youtu.be/O348HnWPm7A&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Getting Started with Fuzzy Logic Toolbox (Part 2)
+https://youtu.be/wBrHEXkTero&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Getting Started with Fuzzy Logic Toolbox (Part 3)
+https://youtu.be/LupUhRJo_sU&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Importing and Manipulating Data Sets
+https://youtu.be/60R91RkEXpE&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Introduction to System Identification Toolbox
+https://youtu.be/NrMRPrA6yKI&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Nonlinear Plant Control at Different Operating Points
+https://youtu.be/TpDLcVzrQ8M&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Optimizing a Flight Control System
+https://youtu.be/N3Tm__-77ak&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Optimizing a Wind Turbine Blade Pitch Control System
+https://youtu.be/dK9iq_zzMDM&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Optimizing Suspension System Performance
+https://youtu.be/Y0MweL_bwEo&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+PID Control Design with Control System Toolbox - MATLAB Video
+https://youtu.be/2tKe0caUv1I&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+PID Controller Design for a DC Motor
+https://youtu.be/jQOOCD-EqqY&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Preprocessing Data
+https://youtu.be/D8NuvY_bX6k&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Speed Control of a DC Motor Using PWM
+https://youtu.be/H7RzKY9SFHA&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+System Identification and Control Using OPC Data
+https://youtu.be/YPt0VYW1hDs&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+
+Weight Tuning for Model Predictive Controllers
+https://youtu.be/luAXOyU3iww&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7
+Videos 1-25

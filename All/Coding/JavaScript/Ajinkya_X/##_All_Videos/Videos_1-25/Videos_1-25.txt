@@ -1,0 +1,76 @@
+
+01 React + Redux Toolkit tutorial  configureStore
+https://youtu.be/bTf1TWVBBOk
+
+01 React Redux shopping cart project
+https://youtu.be/2-S-FiEl07I
+
+02 React + Redux Toolkit  createSlice (reducer)
+https://youtu.be/D1vqTSK_lL8
+
+02 React Redux Shopping cart - Add to cart
+https://youtu.be/qO4JsQ2VY-M
+
+03 React Redux Project  ES6 findIndex, slice methods
+https://youtu.be/FIiSRlyQf0c
+
+03 React Redux writing Tests
+https://youtu.be/rRFNRhUbMag
+
+04 React Redux Project  Create Products component
+https://youtu.be/ZsDsRBHVxB4
+
+05 React Redux ShoppingCart  Create Redux Store
+https://youtu.be/XtoGnn8At7g
+
+06 React Redux ShoppingCart Redux Container
+https://youtu.be/U1HRWsjl4eQ
+
+07 React Redux ShoppingCart  Redux Action Creator
+https://youtu.be/JLBPJzl92os
+
+08 React Redux Shopping Cart Update Cart Units Action
+https://youtu.be/-tO0C9DWg68
+
+2D RPG Game Development with Go (Tilemap editor)
+https://youtu.be/sKQWshq-Lpk
+
+2D RPG Game in GO (GoLang) DEVLOG 02
+https://youtu.be/lCOGEE-lu84
+
+BAD GUY composing in Firefox (Chrome Sound Maker)
+https://youtu.be/3TIFl2MatCo
+
+Develop 2D Game in GO with Pixel (GoLang) 03
+https://youtu.be/GhrFbhAl_ZA
+
+Ep.01  GO Web ScrapperCrawler
+https://youtu.be/2wmkHFTaXfA
+
+Game of life with GoLang (Go programming) Ebiten
+https://youtu.be/RWkvQe7zKf0
+
+GoLang Game Programming (2D RPG Game in GO - pixelgl)
+https://youtu.be/XBQ6jMGGk_Y
+
+GoLang Journey 01 Command-line App
+https://youtu.be/X-hd8gbxVvI
+
+jRPG 2D Game in GO (GoLang) DEVLOG 01
+https://youtu.be/yZpoXFUG6nc
+
+Learn Dgraph in 20 minutes (Graph Database) quick tutorial
+https://youtu.be/roHj5G4vM9Q
+
+Login Form in Flutter BLOC vs Provider (Inherited Widget) Pattern
+https://youtu.be/mmdie4f_abs
+
+Product App  React + Redux + Jest test [course]
+https://youtu.be/rTKex2Oa02w
+
+React with Redux toolkit & write Tests  Tutorial
+https://youtu.be/0WhGneB2s3Y
+
+RUST + Web Assembly (YEW) quick boilerplate
+https://youtu.be/DuTCVGB7UtI
+Videos 1-25

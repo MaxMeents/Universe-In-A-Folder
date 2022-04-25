@@ -1,0 +1,76 @@
+
+Chapter 17 exercise 1 solution
+https://youtu.be/JnLNYbMiYBM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 17 exercise 1
+https://youtu.be/MteeQKoZgnY&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 17 intro and built in errors  Python tutorial 203
+https://youtu.be/tPcnKDqBd4w&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Custom Exception    Python tutorial 211
+https://youtu.be/12cFGvSC0nk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Else finally with try except  Python tutorial 208
+https://youtu.be/e9j3ByFgTrw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Error raise example 1  Python tutorial 205
+https://youtu.be/NlIOQ7vAafo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+error raise example 2  tutorial 206
+https://youtu.be/fxNJoZf1gQw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 2 Better solution  Python tutorial 221
+https://youtu.be/H4YjxLe-eyU&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 2 solution
+https://youtu.be/MARHCApvndk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+File I0  Exercise 2
+https://youtu.be/KlRsTE9Zt-c&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+File IO  Exercise 1 solution
+https://youtu.be/Z7clq2mQaCs&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+File IO  Exercise 1
+https://youtu.be/D5iXgR9_HTM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+File IO  Read and Write Python tutorial 216
+https://youtu.be/W_g0OiLYwXI&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+File IO  Write to file  python tutorial 215
+https://youtu.be/Gdp7thRgmTc&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+inheritance Intro  Python tutorial 199
+https://youtu.be/TxOOUiNkZaA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Multilevel inheritance , MRO , Method Overriding  Python tutorial 200
+https://youtu.be/kQpPDWEiNQ8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Multiple Inheritance  Python tutorial 201
+https://youtu.be/tpH5fM2F6qE&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Python Debugger
+https://youtu.be/EYTpNRh1ONQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Raise errors  Python tutorial 204
+https://youtu.be/QWnM-HLDmoE&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Read LOVE STORY with python
+https://youtu.be/t15cXk_IiKU&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Read Text Files - Python tutorial 213
+https://youtu.be/xVk7Hkbyp8w&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Special magicdunder method, operator overloading, polymorphism  Python tutorial 202
+https://youtu.be/PrcIHPpXxWs&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Try , Except  exception handling, python tutorial 207
+https://youtu.be/9MkDFqpZ1rs&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+With Block - Read File
+https://youtu.be/36oVeSrrzwA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Work with CSV files using python
+https://youtu.be/095HWXD8Vuo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+Videos 201-225

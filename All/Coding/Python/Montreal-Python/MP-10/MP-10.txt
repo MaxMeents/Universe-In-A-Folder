@@ -1,0 +1,13 @@
+
+Montreal Python 10 Alexandre Bourget WSGI
+https://youtu.be/4eDX4dATZ78&list=PL93F2414B96E50989
+
+Montreal Python 10 Chris Steel Web2py
+https://youtu.be/JHOSSFTHHoU&list=PL93F2414B96E50989
+
+Montreal Python 10 Jeremy Barnes PyJML
+https://youtu.be/LUf6gSyVOz4&list=PL93F2414B96E50989
+
+Montreal Python 10 Marco Robado Sage
+https://youtu.be/wYVc_Ou_Zfo&list=PL93F2414B96E50989
+MP-10

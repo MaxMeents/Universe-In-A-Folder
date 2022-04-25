@@ -1,4 +1,0 @@
-
-iOS Tutorial Reactive Programming Basic - KVO & KVC.url
-https://youtu.be/xS7bvtGPiuU&list=PLyLxRAoqE6zEmy6DOWVkP8RJWpzvOlBVx
-iOS eTutorials Reactive Programming

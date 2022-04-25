@@ -1,0 +1,76 @@
+
+2020 Real Python Articles in Review  Real Python Podcast #41
+https://youtu.be/dgxbdy-21jE
+
+Building With Django REST Framework in Python
+https://youtu.be/D0OaOw-Jdg4
+
+C for Python Developers and Data Visualization With Dash  Real Python Podcast #46
+https://youtu.be/wj5wRjqXct0
+
+Changing Virtual Environments Workflow in Python
+https://youtu.be/fTs7yAIUiso
+
+Creating an Interactive Online Python Conference for PyCascades 2021  Real Python Podcast #44
+https://youtu.be/iNvWE78UwMg
+
+Deep Reinforcement Learning in a Notebook With Jupylet + Games and Synths  Real Python Podcast #43
+https://youtu.be/wlKulcJ6Op0
+
+Generators, Coroutines, and Learning Python Through Exercises  Real Python Podcast #39
+https://youtu.be/CZc4F46ezTs
+
+Getting Started With Turtle in Python
+https://youtu.be/Z6FKGQcjTOk
+
+How Python Manages Memory and Creating Arrays With np.linspace  Real Python Podcast #40
+https://youtu.be/IP2SjhIkAUU
+
+Intro to Sorting Algorithms in Python - Bubble Sort
+https://youtu.be/KLvH6yi5YYU
+
+Looping With enumerate() and Python GUIs With PyQt  Real Python Podcast #38
+https://youtu.be/mmXU2xAWPOk
+
+Memory Management in Python
+https://youtu.be/Vs8aN5wSyxA
+
+Plot With Pandas Data Visualizations For Python Beginners
+https://youtu.be/vlRGoTjYL4A
+
+Processing Images in Python With Pillow  Real Python Podcast #45
+https://youtu.be/pGIcrMonEuo
+
+Python eval() - Evaluate Expressions Dynamically
+https://youtu.be/M7VVxOEhi8E
+
+Security and Authorization in Your Python Web Applications  Real Python Podcast #35
+https://youtu.be/qIMwi83SdWE
+
+Sentiment Analysis, Fourier Transforms + More Python Data Science  Real Python Podcast #36
+https://youtu.be/qnLdC9zuJpg
+
+Setting Up the Django Admin With Python
+https://youtu.be/W34Xf5P7BAo
+
+Teaching Python and Finding Resources for Students  Real Python Podcast #37
+https://youtu.be/ENqja_2okC0
+
+The Python String .format() Method
+https://youtu.be/UwuBFtW9ni0
+
+Threads in Python Speed Up Python With Concurrency
+https://youtu.be/OtdL6jeyEE4
+
+Understanding the defaultdict Type in Python
+https://youtu.be/jf-6s520HEk
+
+Using the Python pickle Module
+https://youtu.be/XzkhtWYYojg
+
+Using the Python re Module for Regular Expressions
+https://youtu.be/8GKaA1aqnBg
+
+What Is Data Engineering and Researching 10 Million Jupyter Notebooks  Real Python Podcast #42
+https://youtu.be/yB7wmMH6h08
+Videos 126-150

@@ -1,0 +1,76 @@
+
+5G Explained Demodulation Reference Signals in 5G NR
+https://youtu.be/WE0y77m9Als
+
+5G Explained Uplink Control Information in 5G NR
+https://youtu.be/Tc_ECMWSH30
+
+Automating Image Registration  Student Competition Computer Vision Training
+https://youtu.be/I_AMREcibls
+
+Battery Cell Balancing and State of Charge (SOC) Estimation
+https://youtu.be/E5vqalOYOXw
+
+Battery Management System Development in Simulink
+https://youtu.be/R9UK41vOIRo
+
+Battery Thermal Management System Design
+https://youtu.be/s3HPdv9iD00
+
+Bluetooth Library Simulate, Design, and Test Bluetooth Systems in MATLAB
+https://youtu.be/LBnSf1VodJM
+
+Creating HEV Plant Models
+https://youtu.be/cSiVvwJjn9k
+
+Designing a Datapath from an FPGA to a Processor with SoC Blockset Xilinx Deployment
+https://youtu.be/TVv_NPHj_q0
+
+Developing HEV Control Systems
+https://youtu.be/lAfeCqhal3o
+
+How to Use Live Editor Controls
+https://youtu.be/Jq4WgHQPPlE
+
+Importing and Visualizing Videos  Student Competition Computer Vision Training
+https://youtu.be/xg8fLeyO7hk
+
+Matching Image Features  Student Competition Computer Vision Training
+https://youtu.be/E0ZmFhFMoks
+
+Modeling Batteries Using Simulink and Simscape
+https://youtu.be/eQX-iobIYmw
+
+Motion Estimation  Student Competition Computer Vision Training
+https://youtu.be/pzdr0j997Sc
+
+Neural Networks – Cornerstones in Machine Learning
+https://youtu.be/gv4jDxum1D0
+
+Object Detection Part 1  Student Competition Computer Vision Training
+https://youtu.be/bRcX8l17ayU
+
+Object Detection Part 2  Student Competition Computer Vision Training
+https://youtu.be/Xe4tCLcSS1c
+
+Object Detection Using Blob Analysis  Student Competition Computer Vision Training
+https://youtu.be/DJ3wBLrAolY
+
+Optimizing HEV Models
+https://youtu.be/7ueYrB6iGBw
+
+Point Clouds  Student Competition Computer Vision Training
+https://youtu.be/pLCjjsVGlg0
+
+Release 2019b Highlights - MATLAB and Simulink
+https://youtu.be/K2c8T5gk5Qo
+
+Stereo Vision  Student Competition Computer Vision Training
+https://youtu.be/GpU1Vx-b3VA
+
+What Is Object Detection
+https://youtu.be/m93eJ1d-Si0
+
+Why Model and Simulate HEVs
+https://youtu.be/0-MBO6PRMg0
+Videos 876-900

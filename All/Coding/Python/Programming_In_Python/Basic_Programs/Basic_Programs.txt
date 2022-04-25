@@ -1,0 +1,58 @@
+
+How to check whether a number is an Armstrong number or not in Python
+https://youtu.be/uBsn5U3BV_Y&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+How to find number of digits in a given number in Python  programminginpython.com
+https://youtu.be/bpBBcymXP0U&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+How to reverse a number using slice operations in python  programminginpython.com
+https://youtu.be/IkwgwS26_A4&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Largest and Smallest element in the list - Python Programming
+https://youtu.be/WMWDhKx5bpo&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program  to count vowels in a string  programminginpython.com
+https://youtu.be/e0H37OZ5Pm0&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python program for performing Arithmetic Operations  programminginpython.com
+https://youtu.be/gGDi443HY0E&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python program to check whether a number is Palindrome or not
+https://youtu.be/3VQNdXA2IPI&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python program to find a number is prime or composite  programminginpython.com
+https://youtu.be/hOKBY_96HG4&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python program to find average of N numbers  programminginpython.com
+https://youtu.be/2NKCBjuB0OM&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to find LCM of 2 numbers  programminginpython.com
+https://youtu.be/pMDEZYRtkeM&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to find reverse of a number  Programming In Python
+https://youtu.be/o9-1cjNWsio&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to find the Biggest and Smallest of 3 numbers using lists  programminginpython.com
+https://youtu.be/-q1_cmXP3mw&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to find the Biggest and Smallest of 3 numbers
+https://youtu.be/Cz6q5u4iW5w&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python program to find whether an integer is even or odd number  programminginpython.com
+https://youtu.be/fDI4x1ciJjY&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to Print Pattern of Letter C  Pattern Programming
+https://youtu.be/XmBPSyEyLW0&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to Print Pattern of Letter D  Pattern Programming
+https://youtu.be/2YPl0vt5ypI&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Python Program to Print Reverse Pyramid Pattern  Pattern Programming
+https://youtu.be/kUmL-u5B8AM&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Square root of a number in Python  Programming In Python
+https://youtu.be/5wF73IFjQpg&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+
+Square root of a number using exponential operation in Python
+https://youtu.be/Cvxoc1H2qAI&list=PLrKr3rQwMgsjN1yXsLu6OVtThryWYJY3Y
+Basic Programs

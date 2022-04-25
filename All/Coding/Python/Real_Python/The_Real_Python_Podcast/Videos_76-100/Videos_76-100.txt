@@ -1,0 +1,76 @@
+
+2021 Real Python Articles Wrap Up  Real Python Podcast #91
+https://youtu.be/KaEW9Qt0xxY&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+A Python Journey Cyber Security, Automating AWS, and TDD  Real Python Podcast #90
+https://youtu.be/hMnANVrXdhM&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Advantages of Completing Small Python Projects  Real Python Podcast #77
+https://youtu.be/q8N3GaN0H4A&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Building a Content Aggregator and Working With RSS in Python   Real Python Podcast #87
+https://youtu.be/ljcg9_Ma-hE&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Building With CircuitPython & Constraints of Python for Microcontrollers  Real Python Podcast #75
+https://youtu.be/gVBp5X8IwSU&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Continuing to Unravel Python's Syntatic Sugar With Brett Cannon  Real Python Podcast #92
+https://youtu.be/jFqQk5dzGAs&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Creating and Manipulating PDFs in Python With borb  Real Python Podcast #84
+https://youtu.be/xRzybRKLvW0&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Designing for Users and Building a Social Network With Django  Real Python Podcast #94
+https://youtu.be/h9XqsLTOtvE&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Discussing Type Hints, Protocols, and Ducks in Python  Real Python Podcast #88
+https://youtu.be/X9OtZFEA4PA&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Drawing Fractals With Python and Working With a Weather API  Real Python Podcast #98
+https://youtu.be/g2qcHd03aQI&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Exploring Django Templates, Tags, and Filters  Real Python Podcast #85
+https://youtu.be/OyUvpwfaKDE&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Exploring the New Features of Python 3.10  Real Python Podcast #81
+https://youtu.be/BjajuRgp8Yo&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Harnessing Python's math Module and Exposing Practical Pandas Functions   Real Python Podcast #76
+https://youtu.be/aoUlxYHI7sI&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Improving Your Django and Python Developer Experience  Real Python Podcast #97
+https://youtu.be/MvOUaxV6LAw&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Launching Python, Virtual Environments, and Locking Dependencies  Real Python Podcast #93
+https://youtu.be/5EU4HSZMOC8&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Learning Python Through Illustrated Stories  Real Python Podcast #78
+https://youtu.be/oMSk9t_eI9I&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Make Your Python App Interactive With a Text User Interface (TUI)  Real Python Podcast #80
+https://youtu.be/nmMFV0qXMnY&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Manipulating and Analyzing Audio in Python  Real Python Podcast #96
+https://youtu.be/xkGN-A9BqD4&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Measuring Your Python Learning Progress  Real Python Podcast #79
+https://youtu.be/x3J0WD4Nhb4&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+OAuth 2 and Authentication Choices for Your Python Project  Real Python Podcast #99
+https://youtu.be/PHCv_3zfM_Y&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Ready to Publish Your Python Packages   Real Python Podcast #83
+https://youtu.be/SghTaQuMBxE&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Solving Advent of Code Puzzles With Python  Real Python Podcast #89
+https://youtu.be/ABOVBwITyzI&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+The Legacy of OLPC and Charismatic Pitfalls in Teaching Programming   Real Python Podcast #86
+https://youtu.be/H9WRFkvYduQ&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+Welcoming the CPython Developer in Residence  Real Python Podcast #82
+https://youtu.be/G3X7FAFW-6Y&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+
+What Is a JIT and How Can a Pyjion Speed Up Your Python  Real Python Podcast #95
+https://youtu.be/WgXxrYa8RQ0&list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ
+Videos 76-100

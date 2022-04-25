@@ -1,0 +1,76 @@
+
+A Basic PyGame Program
+https://youtu.be/lHonHYdFCOY
+
+About The Show (Trailer)  Real Python Podcast #0
+https://youtu.be/aL5GK2LVMWI
+
+AsyncIO + Music, Origins of Black, and Managing Python Releases  Real Python Podcast #7
+https://youtu.be/ZvypJ5OTeXM
+
+Best Practices for Python Main Functions
+https://youtu.be/lOeIDvyRUQs
+
+Conditional Statements in Python (ifelseelif)
+https://youtu.be/yZ5LdU7EsqM
+
+Defining a Set in Python
+https://youtu.be/i_k2MtxkvKE
+
+Django Web Apps How to Structure Them
+https://youtu.be/5yJe443rOBw
+
+Docker + Python for Data Science and Machine Learning  Real Python Podcast #8
+https://youtu.be/EXzLLshQGmM
+
+Effective Python and Python at Google Scale  Real Python Podcast #3
+https://youtu.be/031eQHFCXck
+
+Exploring CircuitPython  Real Python Podcast #5
+https://youtu.be/KBCs5L4A-oM
+
+Hello World With Arduino (Python Setup Prep)
+https://youtu.be/QSC-POqb9Kw
+
+Implementing a Stack in Python
+https://youtu.be/atBxzwt4iSY
+
+Inheritance in Python Object Oriented Programming
+https://youtu.be/26_3d8Y4vLM
+
+Learn Python Skills While Creating Games  Real Python Podcast #2
+https://youtu.be/d7_QXUzET8k
+
+Learning Python Through Errors  Real Python Podcast  #4
+https://youtu.be/xmsmJf-NRm8
+
+Leveling Up Your Python Literacy and Finding Projects to Study  Real Python Podcast #9
+https://youtu.be/v6Srqh4W7ME
+
+Mock Objects Improve Your Testing in Python
+https://youtu.be/05QPrIv5auA
+
+NumPy arange() arange() vs range
+https://youtu.be/uy2FF8KSj-E
+
+PDFs in Python Watermarking and Encrypting
+https://youtu.be/cL2OPQO5Hbo
+
+Python Decorators and Writing for Real Python  Real Python Podcast #1
+https://youtu.be/NzD13-O_qQY
+
+Python Interview Question Merge k Sorted Linked Lists With a PriorityQueue
+https://youtu.be/YdHi3uuhEcs
+
+Python REST APIs and The Well-Grounded Python Developer  Real Python Podcast #6
+https://youtu.be/UyweT2Dy_WU
+
+Python's is and is not Operators
+https://youtu.be/onl0n7LpcwA
+
+Python's print() function Python 2 vs 3
+https://youtu.be/wi2N9Fpx-5U
+
+The Python import Statement
+https://youtu.be/IE6v8Gn_D6A
+Videos 201-225

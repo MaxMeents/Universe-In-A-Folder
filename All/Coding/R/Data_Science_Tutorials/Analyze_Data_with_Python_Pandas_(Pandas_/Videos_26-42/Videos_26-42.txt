@@ -1,0 +1,52 @@
+
+Applying Custom Function on Python Pandas DataFrame Columns using Lambda expressions
+https://youtu.be/N0m-9rHFUqE&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Creating Real time chart form Pandas Dataframe in Plotly Dash  Plotly Dash Tutorial Part -8
+https://youtu.be/WZERgVGUoIk&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+How to convert String Currency Values to Numeric Values in Python Pandas
+https://youtu.be/bq6ApRjvomk&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+How to Create Excel Pivot Table on Python Pandas DataFrame
+https://youtu.be/vARoIR100lc&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+How to find the mean or max or min of all the Python pandas columns
+https://youtu.be/k0hp_m9FvI0&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+How to Install Pandas and then Import it in Windows Python IDLE and Jupyter Notebook
+https://youtu.be/s1h8K_ssX28&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+How to use vlookup or mapping in python Pandas  Applymap function
+https://youtu.be/NUic-htTQ0I&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Data Analysis  Visualization Matplotlib Tutorial  Configuring Matplotlib Plots  Pandas
+https://youtu.be/SsClWEhxA_U&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Data Analysis  Visualization Matplotlib Tutorial  How to Save Plots  Pandas Tutorial
+https://youtu.be/lOkeRfoLifs&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Data Analysis Tutorial  Pandas Tutorial  How to Create Time Series Date Ranges Manually
+https://youtu.be/GkUAKvTApH0&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 23  How to iterate over columns of python pandas data frame
+https://youtu.be/eCmdSVE1qoE&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 24  How to loop in all the pandas dataframe columns and modify
+https://youtu.be/33-uebwQQ6Y&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 26  How to Filter Pandas data frame for specific multiple values in a column
+https://youtu.be/3Kl5oaT0dP0&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 27  How to reshape pandas data frame
+https://youtu.be/L8JEcXnk-to&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 28  How to create dataframe from a dictionary
+https://youtu.be/9wGdKZV78LQ&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 31  Python Data Visualization  How to Create Scatter Matrix
+https://youtu.be/SNurMMcFVy8&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+
+Python Pandas Tutorial 32  How to convert Python Machine Learning Toy data sets into a Data Frame
+https://youtu.be/5grNyrNPRqc&list=PLH6mU1kedUy-WsgQkYif794tD34e7UwU0
+Videos 26-42

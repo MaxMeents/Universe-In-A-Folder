@@ -1,0 +1,76 @@
+
+andrea crotti - Metaprogramming, from decorators to macros
+https://youtu.be/pXduirOmnJg&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Andreas Pelme - Introduction to pytest
+https://youtu.be/gUniRsB6hsY&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Ben Nuttall - Pioneering the Future of Computing Education
+https://youtu.be/ymU2uj6Ax3s&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Bob Ippolito - What can python learn from Haskell
+https://youtu.be/pJOmlFf5Je4&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Chris Clauss - Pythonista A full-featured Python environment for iOS devices
+https://youtu.be/hGxam9hUKkU&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Christian TismerAnselm Kruis - Stackless Recent advancements and future goals
+https://youtu.be/upnGzL4E49I&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Constanze Kurz - One year of Snowden, what's next
+https://youtu.be/7lNMmhCRRnw&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Dave Halter - Identifying Bugs Before Runtime With Jedi
+https://youtu.be/yPSmj2kmX8g&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Design considerations while Evaluating, Developing, Deploying a distributed task processing system
+https://youtu.be/e1GFr2DGxwk&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Designing NRT(NearRealTime) stream processing systems Using python with Storm and Kafka
+https://youtu.be/yDlMIRpVLJg&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Dougal Matthews - Using asyncio (aka Tulip) for home automation
+https://youtu.be/jNbfeqp8LbQ&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Emily Bache - Will I still be able to get a job in 2024 if I don't do TDD
+https://youtu.be/tS3oPThQ7y0&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Heiko - The Shogun Machine Learning Toolbox
+https://youtu.be/I0Z4z_3ZwE0&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Josef Heinen - Scientific Visualization with GR
+https://youtu.be/hF_FBsdr-Qk&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Marc-Andre Lemburg - Advanced Database Programming with Python
+https://youtu.be/VWdGxmJLRgE&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Markus Zapke-Gründemann - Writing multi-language documentation using Sphinx
+https://youtu.be/OMJJxhE6wWo&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Mislav StipeticDarko Ronić - Mobile Games to the Cloud With Python
+https://youtu.be/5DhDruQSIMk&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Petr Viktorin - The Magic of Attribute Access
+https://youtu.be/NiSqG6s8skA&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Pieter Hintjens - Our decentralized future
+https://youtu.be/QB7VXSc5H3A&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Reimar Bauer - pymove3D - Python moves the world - Attractive programming for young people.
+https://youtu.be/45SfZ7VX6Eo&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Robert Lehmann - Teaching Python
+https://youtu.be/lOsifzusvb8&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Sarah Mount - Message-passing concurrency for Python
+https://youtu.be/7UIbuwUlE60&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+synasius - How to make a full fledged REST API with Django OAuth Toolkit
+https://youtu.be/mOMXVBd8kTo&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Travis Oliphant - Python's Role in Big Data Analytics Past, Present, and Future
+https://youtu.be/18r346Tn768&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+
+Valerio Maggio - Scikit-learn to learn them all
+https://youtu.be/Zft1xvsi2bw&list=PL8uoeex94UhEomMao7wuOrOGuj3jxJYlz
+Videos 26-50

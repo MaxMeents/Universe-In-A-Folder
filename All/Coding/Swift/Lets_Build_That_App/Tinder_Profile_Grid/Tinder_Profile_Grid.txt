@@ -1,0 +1,7 @@
+
+Tinder Profile Grid - Mixing Code and Interface Builder (Ep 2)
+https://youtu.be/XCfVGYJAN0o&list=PL0dzCUj1L5JFFdj7_bQ5Aia_pLovhV6Mh
+
+Tinder Profile Grid Awesomeness of UIStackView in Interface Builder (Ep 1)
+https://youtu.be/k47D67a1zJ8&list=PL0dzCUj1L5JFFdj7_bQ5Aia_pLovhV6Mh
+Tinder Profile Grid

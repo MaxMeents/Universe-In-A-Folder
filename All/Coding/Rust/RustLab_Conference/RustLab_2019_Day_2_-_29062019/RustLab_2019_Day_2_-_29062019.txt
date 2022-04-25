@@ -1,0 +1,22 @@
+
+RustLab 2019 Adopting Rust by gracefully oxidising web applications • Neville Dipale
+https://youtu.be/Js6m_p-CXN0&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+
+RustLab 2019 Deliveroo Ruby to Rust • Michael Killough
+https://youtu.be/ySTkHT6YGP8&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+
+RustLab 2019 Fearless Security with Rust • Diane Hosfelt
+https://youtu.be/4Y9aK8bSJrE&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+
+RustLab 2019 Making life easier with Derive and other tools • Anthony Ramine
+https://youtu.be/k1SOQH3wbSI&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+
+RustLab 2019 Safe and Simple Rust Smart Contracts in NEAR • Maksym Zavershynskyi
+https://youtu.be/K382BLH6row&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+
+RustLab 2019 Syscalls for Rustaceans • Gargi Sharma
+https://youtu.be/Q2V_ceT-IBs&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+
+RustLab 2019 Writing a Nintendo 64 emulator in Rust • Giovanni Bajo
+https://youtu.be/VQHSI42_Ias&list=PLkgYzo_ZZ7KACuiy-AW_ClsEzGMKdkDu7
+RustLab 2019 Day 2 - 29062019

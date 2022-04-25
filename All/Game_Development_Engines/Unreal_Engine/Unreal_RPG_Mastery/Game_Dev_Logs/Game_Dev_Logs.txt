@@ -1,0 +1,10 @@
+
+Coding An Action RPG Combat System In UE4  Update 1 - Grey boxing, Stamina System, Weapon Switching
+https://youtu.be/-B2yx0S0r8E&list=PLrlmX34siH5_ChUb-f0Pc4yRy7l1nNk-2
+
+Coding An Action RPG Combat System In UE4  Update 2 - Lock-on System, Directional Roll, Back Stab
+https://youtu.be/T-ZQP7a8GzA&list=PLrlmX34siH5_ChUb-f0Pc4yRy7l1nNk-2
+
+Coding An Action RPG Combat System In UE4  Update 3 - Hit Reactions, Material Types, Data Tables
+https://youtu.be/X5cX2HDSfO4&list=PLrlmX34siH5_ChUb-f0Pc4yRy7l1nNk-2
+Game Dev Logs

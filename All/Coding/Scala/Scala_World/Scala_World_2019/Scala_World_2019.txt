@@ -1,0 +1,55 @@
+
+Adam Warski—Designing Programmer-Friendly APIs
+https://youtu.be/I3loMuHnYqw&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Alceste Scalas—Effpi Verified Message-Passing Programs in Dotty
+https://youtu.be/tCYtMc5sJLU&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Andy Scott—Code by Shape
+https://youtu.be/ifPTQ9CULdk&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Bartosz Milewski—Live-coding with Universal Constructions
+https://youtu.be/UjSQlUjuZWQ&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Dale Wijnand—How to Totally Fix PartialFunction
+https://youtu.be/n7PsbJwVSuE&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Daniel Beskin—Compile-time Logic Programming in Scala what for
+https://youtu.be/9i06TyYM_lI&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Emily Pillmore Type Arithmetic and the Yoneda Lemma
+https://youtu.be/aXS5HZ_1fNQ&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Eyjafjallajökull Lecture 2019—Paweł Szulc
+https://youtu.be/ZmoqVF-e0-Y&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Fabio Labella—How do Fibers Work A Peek Under the Hood
+https://youtu.be/x5_MmZVLiSM&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Guillaume Martres—Scala 3, Type Inference and You!
+https://youtu.be/lMvOykNQ4zs&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Jon Pretty—Fast and Furious
+https://youtu.be/4HVySqElcnI&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Jorge Vicente Cantero—Design Challenges of Bloop
+https://youtu.be/PgQyCnqm4QQ&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Justin Kaeser—Integrating Developer Experiences
+https://youtu.be/lncUc4oHwxg&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Luka Jacobowitz—Monoids, Monoids, Monoids
+https://youtu.be/DJyhWAwmGqE&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Paolo Giarrusso—The DOT Calculus An Introduction for Scala Programmers
+https://youtu.be/OVu7XzHY5U0&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Roland Kuhn—Meshing Robots and Humans with Distributed Apps
+https://youtu.be/u_SAszZLfag&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Sam Aaron—Sonic Pi
+https://youtu.be/6AKRm_bnW_8&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+
+Zoë Weil—A Learning Story Love, Scala & Artificial Intelligence
+https://youtu.be/o29DE8E8xJU&list=PL9KXdMOfekva4SJJqLDXQ73nMXt8-3pz7
+Scala World 2019

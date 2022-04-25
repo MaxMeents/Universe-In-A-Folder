@@ -1,0 +1,76 @@
+
+Aerial Lidar SLAM
+https://youtu.be/amXp9rnS1UQ
+
+Analysis and Visualization in ThingSpeak  IoT from Data to Action, Part 3
+https://youtu.be/d7vrh_6O_8o
+
+Centralize, Protect, and Scale Your Algorithms
+https://youtu.be/DDRg7RKL6YY
+
+Electric Motor Control  How to use RCP to Validate Electric Motors & Power Converters, Part 2
+https://youtu.be/RF2qioii_L0
+
+Feature Matching and Tracking Making Vehicles and Robots See
+https://youtu.be/rbjybw9UyOg
+
+Generate Native Half-Precision C Code from Simulink Models
+https://youtu.be/5ZL_Ar2OB44
+
+How Industry 4.0 Is Changing Our Way of Developing
+https://youtu.be/6p0eZO4v9q0
+
+How Students Used Model-Based Design to Model, Simulate and Fly a Minidrone
+https://youtu.be/_bfvcE_Zjdw
+
+Introduction to Classification  Predictive Modeling and Machine Learning, Part 2
+https://youtu.be/oAUq9woJirs
+
+Introduction to Hyperparameters  Predictive Modeling and Machine Learning, Part 4
+https://youtu.be/plIRVcZd8QQ
+
+Introduction to Supervised Learning  Predictive Modeling and Machine Learning, Part 1
+https://youtu.be/VZw_Hi4LzDQ
+
+Labeling Lidar Point Clouds for Object Detection
+https://youtu.be/eL2I815sNmQ
+
+Linear System Identification  System Identification, Part 2
+https://youtu.be/qC_C04SEV1E
+
+Market Trends and Benefits  How to use RCP to Validate Electric Motors & Power Converters, Part 1
+https://youtu.be/tXFRMSpsrzc
+
+Measure Transfer Functions Using Swept-Sine Excitation
+https://youtu.be/8jB0D7CD5Z8
+
+Measuring Unstable Plant Responses Without Breaking the Control Loop
+https://youtu.be/BR-iShC7ojM
+
+Motor Control with TI Multicore MCUs Using Simulink
+https://youtu.be/pucAcXmEL9Q
+
+Object Detection on Lidar Point Clouds Using Deep Learning
+https://youtu.be/7wnzsHFCCOw
+
+Optimizing Hyperparameters  Predictive Modeling and Machine Learning, Part 5
+https://youtu.be/98wdvb3Slwc
+
+Power Converter Control  How to use RCP to Validate Electric Motors & Power Converters, Part 4
+https://youtu.be/y1ABLtHanDo
+
+Radar Design with the Radar Designer App
+https://youtu.be/VhijgD15sWA
+
+RCP with MATLAB and Simulink  How to use RCP to Validate Electric Motors & Power Converters, Part 3
+https://youtu.be/U98QS9VEXR8
+
+S-Parameters to Impulse Response  Getting Started with S-Parameters, Part 4
+https://youtu.be/NJlrchTPrRc
+
+Transmission Line S-Parameter Generation  Getting Started with S-Parameters, Part 5
+https://youtu.be/W-sEaY--v60
+
+Using the Classification Learner App  Predictive Modeling and Machine Learning, Part 3
+https://youtu.be/hck8ImWS9UY
+Videos 76-100

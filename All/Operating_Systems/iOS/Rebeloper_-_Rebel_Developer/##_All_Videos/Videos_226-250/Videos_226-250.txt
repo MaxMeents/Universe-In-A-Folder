@@ -1,0 +1,76 @@
+
+Alternate Icons - Change Your App's Icon
+https://youtu.be/lB-094ki7Xo
+
+Cloud Firestore - Firestore Batch
+https://youtu.be/cUEhArDE5BE
+
+Cloud Firestore - Getting Started (STEP BY STEP)
+https://youtu.be/eo0WPFzLLEk
+
+Configure Constants in a plist File in Less than 10 Minutes (EASY)  Xcode 10, Swift 5
+https://youtu.be/IJT2WlB03D0
+
+Firebase Console - Manage Cloud Firestore
+https://youtu.be/FXeR2ZAn2GA
+
+Firebase Set Data - Firestore Add Data
+https://youtu.be/bw6518tM3VM
+
+Firebase Tutorial - Create New User (LIKE A PRO)
+https://youtu.be/RHaRs05O2_I
+
+Firestore Transaction Examples
+https://youtu.be/MDT3-wEzH9s
+
+Firestore Tutorial - Database Counter
+https://youtu.be/ZilaQ2NBA1g
+
+Firestore Tutorial - Update Data
+https://youtu.be/mqVRNrvUtLc
+
+Master TinyConstraints  AutoLayout for Humans in Swift 5 (SETUP)
+https://youtu.be/ucbaEkEJKrc
+
+SwiftUI - DON'T LEARN IT (JUST YET)
+https://youtu.be/AKHsFNtANes
+
+SwiftUI = Mind-blow  WWDC iOS developer reaction
+https://youtu.be/fbuOxKqC5wQ
+
+Tiny Constraints  Build Instagram Profile (part 1)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/JFZH4j01sto
+
+Tiny Constraints  Build Instagram Profile (part 2)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/gIgcqjse0Vw
+
+Tiny Constraints  Build Instagram Profile (part 3)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/NQOapSkIRTs
+
+TinyConstraints  Animate Views with AutoLayout  Swift 5, iOS 12, Xcode 10
+https://youtu.be/qZILBDHN3vA
+
+TinyConstraints  AutoLayout and UIEdgeInsets Made Easy  Swift 5, iOS 12, Xcode 10
+https://youtu.be/sQLLWuy4XRA
+
+TinyConstraints  AutoLayout in Superview (part 1)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/bcPZWr8bzR0
+
+TinyConstraints  AutoLayout in Superview (part 2)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/7Fr0TYhwQqw
+
+TinyConstraints  AutoLayout Made Easy (part 1)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/bBlhrEK-S1o
+
+TinyConstraints  AutoLayout Made Easy (part 2)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/XyDJ7u_VZyI
+
+TinyConstraints  AutoLayout Made Easy (part 3)  Swift 5, iOS 12, Xcode 10
+https://youtu.be/2TaQNwSSpEc
+
+TinyConstraints  The Superpower of Stack Views  Swift 5, iOS 12, Xcode 10
+https://youtu.be/VmQ-QX7uf1E
+
+Xcode Debugging - Debug with Better Print Statements
+https://youtu.be/NCRSRSgKUxA
+Videos 226-250

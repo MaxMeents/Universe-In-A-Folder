@@ -1,0 +1,76 @@
+
+Are Software Bootcamps worth the Investment
+https://youtu.be/CsnUm8SXsm4
+
+Asynchronously Loading Images in SwiftUI
+https://youtu.be/DnZvlanmpNE
+
+BindableObject in SwiftUI
+https://youtu.be/SbknK5PprtY
+
+Building a Grid Layout in SwiftUI
+https://youtu.be/RI5DDlC9rH0
+
+Building Forms in SwiftUI
+https://youtu.be/ngRYcjD29X8
+
+Dependency Injection Using Storyboards
+https://youtu.be/vMxhuSv2Fzw
+
+Implementing Drag Gesture in SwiftUI
+https://youtu.be/aU6GD8Lg2nU
+
+Implementing Fully Tappable List Cells in SwiftUI
+https://youtu.be/PnNWjX8T9JA
+
+Implementing Gestures in SwiftUI
+https://youtu.be/zoNeZkNVsiI
+
+Implementing Property Wrappers in Swift
+https://youtu.be/RNkRlCLxhdk
+
+Implementing TabbedView in SwiftUI
+https://youtu.be/xChnzg8wmrI
+
+Implementing Xcode Previews for UIKit Apps
+https://youtu.be/fzimT2GzI0Q
+
+Passing Data from Parent to Modal in SwiftUI
+https://youtu.be/LNBzUxEpsPE
+
+Presenting Modals from List in SwiftUI
+https://youtu.be/leCUswLLMEk
+
+Presenting Modals in SwiftUI
+https://youtu.be/Pnjshs6c2K8
+
+SwiftUI - Declarative Interfaces for any Apple Device
+https://youtu.be/ObdJTshyPe0
+
+SwiftUI Binding for Password Monkey Watcher )
+https://youtu.be/Ik7wqRacInU
+
+SwiftUI Changes for Xcode 11 Beta 4
+https://youtu.be/b5vQ7ypwriY
+
+SwiftUI Changes in Xcode 11 Beta 4 (Updated)
+https://youtu.be/Kum4Qurfr9k
+
+SwiftUI Tip Calculator Using MVVM Design Pattern
+https://youtu.be/gkAV4D1nopA
+
+Understanding @Binding in SwiftUI
+https://youtu.be/Fk5x_lJXkjw
+
+Understanding @EnvironmentObject in SwiftUI
+https://youtu.be/Vv6v897x97E
+
+Understanding @State in SwiftUI
+https://youtu.be/XWyPb7yWRgI
+
+What are expectations from a Junior developer
+https://youtu.be/-TwCzypyN8k
+
+Xcode 11 Beta 4 - .presentation = .sheet
+https://youtu.be/utKvOtDgp_g
+Videos 376-400

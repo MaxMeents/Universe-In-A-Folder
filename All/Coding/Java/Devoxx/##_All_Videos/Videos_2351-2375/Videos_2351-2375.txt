@@ -1,0 +1,76 @@
+
+A Groovy journey in Open Source land by Guillaume Laforge
+https://youtu.be/ccm7KeHUFyc
+
+Advanced Modular Development by Mark ReinholdAlan Bateman
+https://youtu.be/SU1WFX8yeKM
+
+AngularJS FTW by Sebastian JanzenRoman Stranghöner
+https://youtu.be/ViIUK9HvX7U
+
+Arquillian Cube Production Near Unit Tests Against Docker Images by Andy Gumbrecht
+https://youtu.be/o4-6Ix9K5ak
+
+Everything You Need to Know to Grow Open Source by Dan Allen
+https://youtu.be/a_vqg-go8XI
+
+Graal.JS - high-performance JavaScript on the JVM by Christian Wirth
+https://youtu.be/OUo3BFMwQFo
+
+HTTP 2 0 & Java Current Status by Simone Bordet
+https://youtu.be/QpLtBftqM04
+
+Interview Murat Yener
+https://youtu.be/WaR8lFg5i4Y
+
+Interview Sam Bessalah Devoxx Belgium 2015
+https://youtu.be/4zh60hyd5iw
+
+Interview Stephen Chin and Josh Long Devoxx
+https://youtu.be/kZ0PzY8mw4s
+
+Interview with Pepper robot
+https://youtu.be/A-2IVBIpnng
+
+IOT, timeseries and prediction with Android, Cassandra and Spark by Amira Lakhal
+https://youtu.be/1DV9Kdec0-A
+
+Java SE 8 for Java EE Developers by David DelabasseeJosé Paumard
+https://youtu.be/OCBqisJAwi8
+
+Lean Pricing – Pricing Strategies for Startups by Nick Boucart
+https://youtu.be/BJ3iKG6YcbA
+
+Lean Startup for Developers conference by Sebastien Arbogast
+https://youtu.be/gLHn8SXPTYg
+
+MVC 1.0 - by Example by Ivar GrimstadRene Gielen
+https://youtu.be/7YpZd742BDw
+
+Need for Async In pursuit of internet-scale apps by Konrad Malawski
+https://youtu.be/91jSc8tFTzA
+
+Plugin Gradle, take the control of the build! by Eyal LEZMY
+https://youtu.be/TfdiiYHWFTw
+
+Predicting the Future with Machine Learning by Amy Nicholson
+https://youtu.be/SlJ-zKvAUOE
+
+REST no more, use an actor and (Lego and Raspberry Pi’s ) by Johan Janssen & Willem Meints
+https://youtu.be/T2MqpgzDiF8
+
+Samsung Developer Program and Free Tools for Android Developers by Victor Okunev
+https://youtu.be/HKniJAclSVY
+
+Software architecture as code by Simon Brown
+https://youtu.be/oDpdaXt0HQI
+
+Startup in a corporate - The story of Start It @KBC
+https://youtu.be/5yxhRGK384M
+
+The Design of a Reliable and Secure Operating System by Andrew Tanenbaum
+https://youtu.be/oS4UWgHtRDw
+
+What is next for the JCP by Patrick Curran
+https://youtu.be/8BDV5xah8xU
+Videos 2351-2375

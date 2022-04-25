@@ -1,0 +1,22 @@
+
+为什么使用卡尔曼滤波器？
+https://youtu.be/9J-E_RfLyiY&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+
+了解卡尔曼滤波器——最优状态估计
+https://youtu.be/0VGw6aO4aR0&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+
+了解卡尔曼滤波器——最优状态估计算法和方程
+https://youtu.be/tqivOYmEwGc&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+
+了解卡尔曼滤波器——状态观测器
+https://youtu.be/G0YBzmMUvGA&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+
+了解卡尔曼滤波器——非线性状态估算器
+https://youtu.be/u2KpHT3nNrc&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+
+在 Simulink 中使用卡尔曼滤波器
+https://youtu.be/kirz0TJgMSg&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+
+在 Simulink 中使用扩展卡尔曼滤波器
+https://youtu.be/VANvNMWt_h4&list=PLn8PRpmsu08rSg2j8fBt4JsnBkMfiIhLI
+卡尔曼滤波器（Kalman Filters）

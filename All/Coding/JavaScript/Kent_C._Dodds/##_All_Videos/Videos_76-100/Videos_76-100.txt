@@ -1,0 +1,73 @@
+
+Building a call-in podcast app (attempt 2)
+https://youtu.be/IlCg02QkpQM
+
+Building a call-in podcast app
+https://youtu.be/TKHAwTY2kPo
+
+DearMoon Crew Submission
+https://youtu.be/znwnnLRFjIc
+
+Floating on my onewheel on a bike path 🤘
+https://youtu.be/A3Q5yJqgmUA
+
+KCD Office Hours 2021-02-27
+https://youtu.be/_hgx7wEbPtI
+
+KCD Office Hours 2021-03-06
+https://youtu.be/WFGTXtpjspI
+
+KCD Office Hours 2021-03-20
+https://youtu.be/OA6w-sXeOS8
+
+KCD Office Hours 2021-04-10
+https://youtu.be/p5WgAYnTq1Y
+
+KCD Office Hours 2021-04-17
+https://youtu.be/lj_p40ystIU
+
+KCD Office Hours 2021-04-24
+https://youtu.be/SMwSgiW7K_A
+
+KCD Office Hours 2021-05-01
+https://youtu.be/5dd47j6U2ys
+
+KCD Office Hours 2021-05-08
+https://youtu.be/ehhMtwlveTM
+
+KCD Office Hours 2021-05-15
+https://youtu.be/x0qFgez3knE
+
+KCD Office Hours 2021-05-22
+https://youtu.be/4PqkzED3Qy8
+
+Live with Kent Creating a Remix-based React Workshop App
+https://youtu.be/x-Ys9-xDE5g
+
+Live with Kent Figuring out user authentication
+https://youtu.be/uTYmSQbanA4
+
+Live with Kent mdx-bundler - swapping rollup and mdx-js for esbuild and xdm
+https://youtu.be/FdDumbqKjus
+
+Live with Kent Migrating Discord bot to TypeScript
+https://youtu.be/BhkJ-yDYLn0
+
+Live with Kent MSW + Cypress + Remix (backend)
+https://youtu.be/VB760fafDAk
+
+Live with Kent Remix + Firebase auth stuff
+https://youtu.be/bC4ZFe2CY00
+
+Live with Kent Remix and GitHub as an MDX CMS
+https://youtu.be/KK6z4UHRteE
+
+Live with Kent User registration on kentcdodds.com
+https://youtu.be/X5wwGdUHu0c
+
+Updating Remix App
+https://youtu.be/vn7L8IklBDQ
+
+Upgrading from react-query v2 to v3
+https://youtu.be/umJqHUcOaUo
+Videos 76-100

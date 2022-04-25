@@ -1,0 +1,76 @@
+
+Alternating Direction Methods for Hybrid Input Output (HIO) algorithm
+https://youtu.be/cCg481tYgns
+
+American Sign Language recognition by Gabor and SURF and hocd
+https://youtu.be/rl5DRj9m884
+
+Android app for recognize and evaluate arithmetic expressions by OCR
+https://youtu.be/5S0AWl9IcJY
+
+Android project about real time edge based markerless tracking
+https://youtu.be/9i0bgQ-ttNM
+
+Artistic Style Transfer MATLAB code
+https://youtu.be/Oy7pJO_qTGk
+
+Cell counting by Hough transform and SVM classifier
+https://youtu.be/9G5L1xYJj4M
+
+Cosine Shift an image in MATLAB
+https://youtu.be/ZP816SWNm2k
+
+Depth image MATLAB code
+https://youtu.be/QlhVxn4iGKY
+
+Detection of humans in low resolution infrared imagery
+https://youtu.be/0o3K9SOObSU
+
+Emotion Detection Through Facial Feature Analysis
+https://youtu.be/kICMHscnkzg
+
+Hybrid Input- Output (HIO) algorithm
+https://youtu.be/ZLcbyeJdBUk
+
+Image mosaicking and seam reduction of InSAR-derived Active-Layer Thickness Distributions
+https://youtu.be/dL3urZvXg24
+
+Image Obscuration within Moir´e Patterns
+https://youtu.be/mEA9-bDDSbE
+
+Improved Fluorescence Imaging in Medical Applications
+https://youtu.be/WV5YO9WQ6eE
+
+improvement of HIO algorithm by incorporating a low resolution image
+https://youtu.be/z9FzItQDV2k
+
+MATLAB and Android Client-Server Communication project
+https://youtu.be/IZIJ6Hbx1es
+
+Nuclie image segmentation by SURF detector
+https://youtu.be/QljsBr39WRk
+
+Object tracking via adaptive prediction of initial search point on mobile devices
+https://youtu.be/4clq0f6ayA0
+
+OpenCV and Java code for digital Image Steganography and Steganalysis
+https://youtu.be/JLkC_gU3i1g
+
+Python code for reconstruction of frame order from Unordered Images
+https://youtu.be/Ub8rpatqs0k
+
+Python code for Vehicle Make Detection by Convolutional Neural Networks
+https://youtu.be/zzpwq6cFHwI
+
+Refocusing Photos using Depth from Defocus
+https://youtu.be/9I03LiTDkF0
+
+Traffic Sign Recognition
+https://youtu.be/IA6Tt1x2Cts
+
+Vehicle Lane Deviation Detection
+https://youtu.be/C2hPc_nypI4
+
+XCode for Real Time Perspective Correction of Projector Image
+https://youtu.be/uhrSJRVRxsI
+Videos 326-350

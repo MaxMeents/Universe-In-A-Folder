@@ -1,0 +1,46 @@
+
+Datatables in Rails from Scratch with Hotwire  Preview
+https://youtu.be/_IUCRQGpRjc&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Dynamic Select Fields in Rails using Hotwire
+https://youtu.be/ReZS6wfh3lo&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Flash Messages and Toasts with Hotwire & Turbo.js  Preview
+https://youtu.be/McPMQVhDoHo&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Hotwire Modal Forms with Ruby on Rails  Preview
+https://youtu.be/z_fHnwis4AM&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+How to Upgrade from Turbolinks to Hotwire & Turbo
+https://youtu.be/cSEs_Ax5Xdo&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+How to use Devise with Hotwire & Turbo.js
+https://youtu.be/yZDTBItc3ZM&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+How to use Hotwire in Rails
+https://youtu.be/Qp6sxgjA-xY&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Inline Editing with Turbo Frames in Rails
+https://youtu.be/1WeKlk7GG80&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Migrating from Rails UJS to Hotwire Data Confirm, Method, and Disable With
+https://youtu.be/J1GAYLQvtBU&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Realtime Charts with Stimulus Target Callbacks  Preview
+https://youtu.be/Xw91QsXUWJE&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 1
+https://youtu.be/b7dx1Yt3FzU&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 2
+https://youtu.be/wAhfZA3tzC4&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 3  Preview
+https://youtu.be/J9nQbyrimNw&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Realtime Nested Comments in Rails with Hotwire & Turbo.js - Part 3
+https://youtu.be/d9ut3GNCLoI&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+
+Refactoring Javascript with Stimulus Values API & Defaults
+https://youtu.be/sM03QXDUWRU&list=PLm8ctt9NhMNWy8fC-7g9OC1IJPkYQ_pI7
+Hotwire for Rails

@@ -1,0 +1,76 @@
+
+Five Practical Tips to Speed Up Your Simulink Simulations Fast Restart
+https://youtu.be/e_TPjirs--U
+
+Five Practical Tips to Speed Up Your Simulink Simulations Performance Advisor
+https://youtu.be/IvGKM2sMjls
+
+Five Practical Tips to Speed Up Your Simulink Simulations Simulation Modes
+https://youtu.be/w9BtCOiYrXg
+
+Getting from Concept to Code Safely and Efficiently with Model-Based Design
+https://youtu.be/Bw2Mo4VuFcI
+
+Getting Started with Neural Networks Using MATLAB
+https://youtu.be/6T2yYTSw8z0
+
+How to Bring Your Own License of MATLAB Production Server to Microsoft Azure
+https://youtu.be/9zSOgpfva-Q
+
+How to Get Started with Control Systems in MATLAB
+https://youtu.be/MylJIqVVNr0
+
+How to Interact with Simulink Models from MATLAB Scripts
+https://youtu.be/pLYZRCY-RO8
+
+How to Run MATLAB in the Cloud on Microsoft Azure Marketplace
+https://youtu.be/uTn2cws3Lig
+
+How to Scope Model Coverage to Requirements-Based Tests
+https://youtu.be/R5xxYmH3mUQ
+
+How to Solve Math Problems Using Symbolic Math Toolbox
+https://youtu.be/yYyRUH1idWg
+
+Path Planning with A and RRT  Autonomous Navigation, Part 4
+https://youtu.be/QR3U1dgc5RE
+
+Quantizing a Deep Learning Network in MATLAB
+https://youtu.be/CGEa7CCieAI
+
+Reinforcement Learning for Field-Oriented Control of a Permanent Magnet Synchronous Motor
+https://youtu.be/1FGu-hqVtYA
+
+Requirements-Based Testing Workflow Example
+https://youtu.be/0STxZbqOUXg
+
+The Step Response  Control Systems in Practice, Part 9
+https://youtu.be/USH75nuHV6w
+
+Understanding SLAM Using Pose Graph Optimization    Autonomous Navigation, Part 3
+https://youtu.be/saVZtgPyyJQ
+
+Understanding the Particle Filter    Autonomous Navigation, Part 2
+https://youtu.be/NrzmH_yerBU
+
+What Is Autonomous Navigation  Autonomous Navigation, Part 1
+https://youtu.be/Fw8JQ5Q-ZwU
+
+What Is Simulink  Simulink Overview -  MATLAB and Simulink
+https://youtu.be/GvRugdEICyQ
+
+工程师谈强化学习 Part 1  什么是强化学习？
+https://youtu.be/DgfEBX0wo30
+
+工程师谈强化学习 Part 2  了解环境与奖励
+https://youtu.be/w5tDWAYom0w
+
+工程师谈强化学习 Part 3  策略和学习算法
+https://youtu.be/u3NlxZTfL5g
+
+工程师谈强化学习 Part 4  行走机器人示例
+https://youtu.be/R072KeexlYw
+
+工程师谈强化学习 Part 5  克服强化学习中的实际问题
+https://youtu.be/X5_13j6-Whc
+Videos 601-625

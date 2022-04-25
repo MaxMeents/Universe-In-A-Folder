@@ -1,0 +1,58 @@
+
+Chad Granum (Exodist) - Perl Testing, whats new with Test More and beyond
+https://youtu.be/uFzr6wu5Pq4&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+DrForr - Everything Old is New Again Quaternion in Perl6
+https://youtu.be/fKksZBUDMEo&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Henry Van Styn (vanstyn) - RapidApp by example - database web apps on steroids
+https://youtu.be/hWk1PjvKXX0&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+James E Keenan (kid51) - A Simple Development Tool for Refactoring & Benchmarking
+https://youtu.be/vSNdp1QkCyE&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Joel Berger (jberger) - Test Your App's Javascript using Test MojoRolePhantom
+https://youtu.be/CKbzBNz4Ksg&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Karen Pauley - Working with Volunteers Learning from My Mistakes
+https://youtu.be/ek4fmzyXGwM&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Lightning Talks Day 1
+https://youtu.be/q4LFSD3HPrI&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Logan Bell - Give Catalyst Some Swag
+https://youtu.be/mHmdrgnMCps&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Mark Prather (Trg404) - From bartending to nerdtending
+https://youtu.be/uvETUUMZo9E&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Matt S. Trout (mst) Build management with a dash of prolog
+https://youtu.be/C2RJfykfVcM&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Prairie Nyx - CoderDojo and Perl Evangelism
+https://youtu.be/kkD4pCRvwK4&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Private video
+https://youtu.be/JM3T1BF9jIM&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Sawyer X - Modern web scraping
+https://youtu.be/wcXmCMGwZQo&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Sean Quinlan (spq_easy) - Leave the system alone!
+https://youtu.be/mph-9hqJQ98&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Thomas Sibley (?trs?) - Highlights.  ?It slices, dices, and makes julienne data!?
+https://youtu.be/Zjqb0RJEasc&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Upasana Shukla (upsasana) How to Bring Newbies to Perl
+https://youtu.be/yewFM9XEmlQ&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Welcome to YAPC & States of the Velociraptors  The Perl5 community lightning talks
+https://youtu.be/88K1h1XhEeo&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+William Stevenson (wds) - Dude, where's my data analyst A quick guide to machine learning
+https://youtu.be/p53qpU78LxI&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+YAPCNA2015 Highlights
+https://youtu.be/HAXGD3JE7pU&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+Videos 51-72

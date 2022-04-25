@@ -1,0 +1,76 @@
+
+#EpicFriday March 2018  Unreal Engine
+https://youtu.be/rE4v0ToPSXk
+
+Animation Blueprint Setup & Walkthrough  Live Training  Unreal Engine Livestream
+https://youtu.be/ffuq5k-j0AY
+
+Building High-End Gameplay Effects with Blueprint
+https://youtu.be/67z5u8ZcEcw
+
+CAD Workflows with Datasmith  Feature Highlight   Unreal Studio
+https://youtu.be/0QhYK7xD3ps
+
+Connecting Maya to Unreal with Live Link  GDC 2018  Unreal Engine
+https://youtu.be/0wQhM8vcdJQ
+
+Creating Believable Characters in Unreal Engine  GDC 2018  Unreal Engine
+https://youtu.be/_OuCrbwEJW4
+
+Epic Games Internship Program  2018 EDU Summit  Unreal Engine
+https://youtu.be/wELOu1WTL3c
+
+Fortnite’s Real-Time Lighting Techniques and Tools  GDC 2018  Unreal Engine
+https://youtu.be/vef_ZPLhjt8
+
+Gameplay Instructor Guide   2018 EDU Summit  Unreal Engine
+https://youtu.be/MHVWM42MnPo
+
+GAMES. JOBS. BEER. Booth Tour  GDC 2018  Unreal Engine
+https://youtu.be/WJRFBwxqXXo
+
+GDC 2018 Special Event  Events  Unreal Engine Livestream
+https://youtu.be/54Wy7S0_64I
+
+Getting Started with Unreal Studio
+https://youtu.be/2T2QggCkzvo
+
+Introducing Unreal Studio  2018 EDU Summit  Unreal Engine
+https://youtu.be/khuh7ME9Lvw
+
+Introduction to the Niagara Visual Effects System  2018 EDU Summit  Unreal Engine
+https://youtu.be/mk3MJOqxT3g
+
+Masterclass Overview  2018 EDU Summit  Unreal Engine
+https://youtu.be/3BbJSwFWdx4
+
+Optimizing UE4 for Fortnite Battle Royale - Part 1  GDC 2018  Unreal Engine
+https://youtu.be/KHWquMYtji0
+
+Overview  2018 EDU Summit  Unreal Engine
+https://youtu.be/495Qdw6gVbM
+
+Programmable VFX with Unreal Engine's Niagara  GDC 2018  Unreal Engine
+https://youtu.be/mNPYdfRVPtM
+
+Teaching Programming with Blueprints  2018 EDU Summit  Unreal Engine
+https://youtu.be/UAF1cx1Nrok
+
+The All-New Unreal Engine Instructor Guides and Teaching Resources  2018 EDU Summit  Unreal Engine
+https://youtu.be/CXTEUaYCpmU
+
+Understanding Technical Art  2018 EDU Summit  Unreal Engine
+https://youtu.be/cSCIgbiZaY8
+
+Unreal Engine at GDC 2018
+https://youtu.be/V6bosHZ4cDI
+
+Unreal Studio Accelerate Design Workflows  Unreal Engine
+https://youtu.be/Gv_meeIAqws
+
+Volumetric Fog and Lighting in Unreal Engine 4  GDC 2018  Unreal Engine
+https://youtu.be/Xd7-rTzfmCo
+
+Winter #ue4jam Kickoff  News  Unreal Engine Livestream
+https://youtu.be/Z60MiyEHE1A
+Videos 1051-1075

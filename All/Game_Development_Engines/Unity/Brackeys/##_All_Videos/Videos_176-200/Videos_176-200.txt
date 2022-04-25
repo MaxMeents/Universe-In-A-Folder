@@ -1,0 +1,76 @@
+
+2D EFFECTORS in Unity - Tutorial
+https://youtu.be/p0n6EFR1M8c
+
+Ammo & Reloading - Unity Tutorial
+https://youtu.be/kAx5g9V5bcM
+
+Blender Beginner Tutorial #2 - MODELING
+https://youtu.be/qYKQwMc-WdE
+
+Blender Beginner Tutorial #3 - TEXTURING
+https://youtu.be/jLEpjSFHl4o
+
+Blender Beginner Tutorial #4 - RENDERING & EXPORTING
+https://youtu.be/AOoqt92IEcc
+
+Blender Beginner Tutorial - GETTING STARTED
+https://youtu.be/8hULmL9Ky94
+
+GENERAL TEXTURE PACK now on Dev Assets!
+https://youtu.be/HObt1uVKaos
+
+GENERATING TERRAIN in Unity - Procedural Generation Tutorial
+https://youtu.be/vFvwyu_ZKfU
+
+How to make a COLOR SWITCH Replica in Unity (Livestream Tutorial)
+https://youtu.be/gE7gc1sblUA
+
+How to make a CUSTOM INSPECTOR in Unity
+https://youtu.be/RInUu1_8aGw
+
+How to make a CUT THE ROPE Replica in Unity (Livestream Tutorial)
+https://youtu.be/dx3jb4muLjQ
+
+How to make a LEVEL EDITOR in Unity
+https://youtu.be/B_Xp9pt8nRY
+
+How to make a LOADING BAR in Unity
+https://youtu.be/YMj2qPq9CP8
+
+How to make an EDITOR WINDOW in Unity
+https://youtu.be/491TSNwXTIg
+
+How to make an RPG in Unity - Introduction
+https://youtu.be/nu5nyrB9U_o
+
+How to make CRISP TEXT in Unity
+https://youtu.be/D33d4w89vTs
+
+How to make Music for your Game - BOSCA CEOIL
+https://youtu.be/fZeZ75gM9p4
+
+Introduction to AUDIO in Unity
+https://youtu.be/6OT43pvUyfY
+
+Making of SHRINKING PLANET - Ludum Dare 38
+https://youtu.be/XldCg9sQYx0
+
+PERLIN NOISE in Unity - Procedural Generation Tutorial
+https://youtu.be/bG0uEXV6aHQ
+
+Post Processing in Unity - Image Effects Tutorial
+https://youtu.be/a0OQvWAPeuo
+
+REWIND TIME in Unity
+https://youtu.be/eqlHpPzS22U
+
+Shooting with Raycasts - Unity Tutorial
+https://youtu.be/THnivyG0Mvo
+
+Smooth Camera Follow in Unity - Tutorial
+https://youtu.be/MFQhpwc6cKE
+
+Weapon Switching - Unity Tutorial
+https://youtu.be/Dn_BUIVdAPg
+Videos 176-200

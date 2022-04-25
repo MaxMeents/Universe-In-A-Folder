@@ -1,0 +1,7 @@
+
+C++ Weekly - Ep 280 - A Quick Look At The Source To Amazon's O3DE Game Engine (constexpr surprises!)
+https://youtu.be/IndGlm2uZCU&list=PLs3KjaCtOwSYh2X7z0mxUbArhW1O4_4z1
+
+C++ Weekly - Live Stream 1 - Code Reviews
+https://youtu.be/rFnRzW3vvsQ&list=PLs3KjaCtOwSYh2X7z0mxUbArhW1O4_4z1
+C++ Code Reviews

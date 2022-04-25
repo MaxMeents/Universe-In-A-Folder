@@ -1,0 +1,10 @@
+
+[Scala Central] Courtney Robinson - Reactive is Dataflow, with Akka Streams
+https://youtu.be/RStMnDFhkW4&list=PLKh1qHtBk9VR-3gC82I6nlyq7F39cYMJT
+
+[Scala Central] Daniela Sfregola - Easy and Efficient Data Validation with Cats
+https://youtu.be/0LX3i7uQ-wI&list=PLKh1qHtBk9VR-3gC82I6nlyq7F39cYMJT
+
+[Scala Central] Tom Martin - Multiplayer games with Scala and DynamoDB
+https://youtu.be/qlFfuoCgZmg&list=PLKh1qHtBk9VR-3gC82I6nlyq7F39cYMJT
+Scala Central - Apr 17

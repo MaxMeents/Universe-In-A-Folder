@@ -1,0 +1,28 @@
+
+Amazon EC2 Spots Instances  #MP39
+https://youtu.be/cj7lLiD0OLU&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Analyzing Rap Lyrics Using Python and Beautiful Soup #MP39
+https://youtu.be/TSXaeIgQSuY&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Diving into Open Data with IPython Notebook & Pandas #MP39
+https://youtu.be/qdXJH5XbEDI&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Go for Python Hackers #MP39
+https://youtu.be/IjzS-Tne0pE&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Le Python académique au Québec #MP39
+https://youtu.be/gUwGPgUBC4c&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Module of the month progressbar #MP39
+https://youtu.be/6CCGjtYbRtY&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Person of the Month Lynn Root #MP39
+https://youtu.be/i1Vd0NQl9ZE&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+Revset in Mercurial #MP39
+https://youtu.be/Cov1FsopLSU&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+
+The Joys and Pains of Using Pyramid #MP39
+https://youtu.be/QA859VKeVCM&list=PLQIcnBElABasalrbgiJWJVoNoN0ym6Yz7
+MP-39

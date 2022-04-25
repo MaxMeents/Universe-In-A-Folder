@@ -1,0 +1,76 @@
+
+Access Items from a Dictionary in Python (Get) - Python Tutorial for Beginners
+https://youtu.be/c2ejOApfmxs&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Access Items from a List in Python (Indexing, Slicing) - Python Tutorial for Beginners
+https://youtu.be/PGFTd62n6KM&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Add and Update values from a Dictionary in Python - Python Tutorial for Beginners
+https://youtu.be/RCRijRfCEDU&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Add and Update Values from a List in Python (Append, Extend, Insert) - Python Tutorial for Beginners
+https://youtu.be/90JgvsiGBpk&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+BREAK in Python WHILE Loops - Python Tutorial for Beginners
+https://youtu.be/bikEMZMlpHE&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Check if an Item Exists in a List in Python (IN, NOT IN) - Python Tutorial for Beginners
+https://youtu.be/h-cFWLLmzrk&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Check if Item Exists in a Dictionary in Python (IN, NOT IN) - Python Tutorial for Beginners
+https://youtu.be/oTktTVR74xw&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+CONTINUE in Python WHILE Loops - Python Tutorial for Beginners
+https://youtu.be/uXNyT4SrV4U&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Dictionaries in Python Definition, Syntax & Declaration - Python Tutorial for Beginners
+https://youtu.be/2bNpc-htQtU&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+ELSE in Python WHILE Loops - Python Tutorial for Beginners
+https://youtu.be/4V2UnWYkpgw&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Function ENUMERATE in Python (FOR Loops with Indexes) - Python Tutorial for Beginners
+https://youtu.be/Iwfr7bbIj9s&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+How to Create a Dictionary in Python - Python Tutorial for Beginners
+https://youtu.be/85W3Z81aEAQ&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+How to create a List in Python - Python Tutorial for Beginners
+https://youtu.be/HJHDHZzkyYc&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Infinite WHILE Loops in Python - Python Tutorial for Beginners
+https://youtu.be/WL6uRp51RaU&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Iterate through Items of a Dictionary in Python (FOR Loop) - Python Tutorial for Beginners
+https://youtu.be/JWEF0bwaSew&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Iterate through Items of a List in Python (FOR Loops) - Python Tutorial for Beginners
+https://youtu.be/oSHlecoqRzs&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+List Items from a Dictionary in Python (Keys, Values, Items) - Python Tutorial for Beginners
+https://youtu.be/5fLBMNnLIbg&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Lists in Python Definition, Syntax & Declaration - Python Tutorial for Beginners
+https://youtu.be/ukVg17XoHxQ&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Merge two Dictionaries in Python (Update) - Python Tutorial for Beginners
+https://youtu.be/L_2Pcg-VPhM&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Merge two Lists in Python (Extend, Assignment Operator) - Python Tutorial for Beginners
+https://youtu.be/8-H-wIEbmjw&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Nested Lists in Python (Overview) - Python Tutorial for Beginners
+https://youtu.be/Z2ip3ETqn8g&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Remove Item from Dictionary in Python (Pop, Popitem, Del, Clear) - Python Tutorial for Beginners
+https://youtu.be/JpCdkyWJo2g&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Remove Items from a List in Python (Pop, Del, Remove, Clear) - Python Tutorial for Beginners
+https://youtu.be/5JHo7YULXPc&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+Tuples in Python Definition, Syntax & Advantages (Tuples vs Lists) - Python Tutorial for Beginners
+https://youtu.be/gojV8fKvgHc&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+
+WHILE Loops in Python Definition & Syntax - Python Tutorial for Beginners
+https://youtu.be/OMtveCgOFfk&list=PLNnG2akFozlItlHNKO7-6tD1ZmP3lLugg
+Videos 51-75

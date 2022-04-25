@@ -1,0 +1,19 @@
+
+Kingfisher Swift Tutorial
+https://youtu.be/5_oiKPCplew&list=PL_csAAO9PQ8YidWzGVkeaayTqMGqvqtqE
+
+MFMailComposeViewController - Swift Send Email Programmatically
+https://youtu.be/aJ0Fz4rCZbw&list=PL_csAAO9PQ8YidWzGVkeaayTqMGqvqtqE
+
+SDWebImage Swift Tutorial
+https://youtu.be/oEwCkaW8W2I&list=PL_csAAO9PQ8YidWzGVkeaayTqMGqvqtqE
+
+UIActivityViewController Swift
+https://youtu.be/KBjS6eeZ1K8&list=PL_csAAO9PQ8YidWzGVkeaayTqMGqvqtqE
+
+UIAlertController Swift [BEST EXAMPLE]
+https://youtu.be/aukhw5OFLfM&list=PL_csAAO9PQ8YidWzGVkeaayTqMGqvqtqE
+
+WKWebView - iOS WebView Tutorial [MUST KNOW]
+https://youtu.be/f3mFrWesbvM&list=PL_csAAO9PQ8YidWzGVkeaayTqMGqvqtqE
+UIKit Marbles 2020

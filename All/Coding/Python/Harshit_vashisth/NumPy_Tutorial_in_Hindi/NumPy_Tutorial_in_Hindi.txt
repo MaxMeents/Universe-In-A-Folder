@@ -1,0 +1,64 @@
+
+Create Arrays Using Numpy Functions(Hindi)
+https://youtu.be/qEgRnj2K0Is&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Create NumPy Arrays (Hindi)
+https://youtu.be/wvh2K6ccPXM&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Download and Install Anaconda(Hindi)
+https://youtu.be/Y3JVWAflXhs&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Jupyter Notebook Tutorial (Hindi)
+https://youtu.be/jc2_meAI-XQ&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy   Exercise Solution (Hindi)
+https://youtu.be/j49PldSKK-M&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Numpy  2-d Matrix - Indexing and Slicing (Hindi)
+https://youtu.be/l5NxJKvzDx8&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  Conditional Selection(Hindi)
+https://youtu.be/px8cKldl8uE&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  Horizontal and Vertical Stacking(Hindi)
+https://youtu.be/CU1jcRL1WrU&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  Indexing And Slicing of 1-d array(Hindi)
+https://youtu.be/cfQLAhXn66c&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  operations on two or more array(Hindi)
+https://youtu.be/KxrulpOezvM&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  Reshaping data(Hindi)
+https://youtu.be/9v-O6APKcFc&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  Seed Function (Hindi)
+https://youtu.be/oVoMIttc6Ug&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy  shuffle and unique (Hindi)
+https://youtu.be/QG_7zKNB8Bo&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Numpy  View Vs Copy(Hindi)
+https://youtu.be/owLohGv0SnM&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy -1 in reshape(Hindi)
+https://youtu.be/buK-rLSiXJQ&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy Axis (Hindi)
+https://youtu.be/hNKFl0VtEEE&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy Exercise (Hindi)
+https://youtu.be/Lc9an0BcExQ&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Numpy Operations on array with scaler(Hindi)
+https://youtu.be/6Rnd7oeMauQ&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+NumPy Overview (Hindi)
+https://youtu.be/RXB5HcOGLQo&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Numpy vs python lists [Hindi]
+https://youtu.be/rG3DGW9sSLo&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+
+Some more useful numpy functions(Hindi)
+https://youtu.be/Y2NSJDu0s28&list=PLwgFb6VsUj_l5aAB7jLT6MMNunydQDa6v
+NumPy Tutorial in Hindi

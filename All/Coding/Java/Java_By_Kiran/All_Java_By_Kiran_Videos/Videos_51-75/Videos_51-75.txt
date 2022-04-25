@@ -1,0 +1,76 @@
+
+Abstraction 28th January 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/15SEqUiCAhU&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Array - one dimensional and two dimensional - max no in array
+https://youtu.be/xuAwPC-gZ0M&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Collection - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/Oe8CiZJ0XtU&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Collection 10th feb 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/WN04oI60K1g&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Collection 6 February 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/wb3BEMkkHKw&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Collection Day 2 - 07 02 2020- JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/G5N4ptG5JMU&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Constructor - 29 01-2020 - morning batch -JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/TvVXJtCO2CM&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Dynamic Xpath 1 Feb 2020- JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/_h6bhrx6qgY&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Exception 3 Feb 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/SVKNQzojTSI&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Hibernate 21 February 2020- JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/8cEvi6TgyAQ&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Hibernate warm up. - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/kfaBpvEs_zA&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+InputOutput Stream in Java Ex 13 02 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/wZlWo-Xt8yE&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Java versions Differences - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/PQ2zm7pL2OQ&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+JDBC MYSQL -14 - 02 - 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/RzL9WyExMC8&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Maven Basics - 31 - 01 - 2020 - Java By Kiran
+https://youtu.be/2rtnxX4Y1nY&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Page Object Model - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/K8-kYyfW_qo&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Selenium (Testing) - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/_65RRN3fLVY&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Spring Boot REST API First session - 12 02 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/tb9mT6UgMdc&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Spring MVC - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/-Zp0OhoLHhQ&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+SQL session - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/fpYlkNluSaA&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Super and this keyword in Java - 30 01 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/IgLETZ2R98g&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+TestNg (Part-1) - 10th Feb 2020- JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/4FTFY1dg-xM&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+TestNG Listeners 18 Feb 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/PDsOsTn_cgU&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+TestNG Maven 13 Feb 2020 - JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/fQ7SnQbqkXY&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+
+Throw Throws 19 feb 2020- JAVA BY KIRAN  JAVA  SELENIUM  PYTHON
+https://youtu.be/K3DhiBjCfeU&list=PLQU_Gzt0f8XR4G4d0bdhbZequ-2-1yJji
+Videos 51-75

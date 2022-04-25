@@ -1,0 +1,76 @@
+
+Blueprint Communications  Live Training  Unreal Engine
+https://youtu.be/EM_HYqQdToE&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Creating a 2D Side-Scroller  03  Live Training  Unreal Engine
+https://youtu.be/XJLJzqcrcOE&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Creating a 2D Side-Scroller  04  Live Training  Unreal Engine
+https://youtu.be/axuwbkDWI5U&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Making a 3D Puzzle Game  Live Training  Unreal Engine
+https://youtu.be/d7JKfbk699Q&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint MOBA MinionCreep AI Lane Movement & Navmesh Debug  03  Live Training  Unreal Engine
+https://youtu.be/XB_sRVqiLV4&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint MOBA MinionCreep AI Spawning Waves  02  Live Training  Unreal Engine
+https://youtu.be/XYSXb6rq26s&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint MOBA MinionCreep AI The Basics  01  Live Training  Unreal Engine
+https://youtu.be/eND5XlHvX0o&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Mobile Leaderboards, Achievements & Ads  Live Training  Unreal Engine
+https://youtu.be/nJG5qJpCCxU&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+C++ Tanks vs Zombies  01  Live Training  Unreal Engine
+https://youtu.be/NyXq0Hy9xQs&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+C++ Tanks vs Zombies  02  Live Training  Unreal Engine
+https://youtu.be/eY3SKbVkO2Y&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+C++ Tanks vs Zombies  03  Live Training  Unreal Engine
+https://youtu.be/YSI-d_DNj18&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+C++ Tanks vs Zombies  04  Live Training  Unreal Engine
+https://youtu.be/vi3ZRD5VcgI&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Canon Man Tutorial Hierarchical Instanced Static Meshes  Live Training  Unreal Engine
+https://youtu.be/bOjYP-c4qhA&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Custom Material Node How to use and create Metaballs  Live Training  Unreal Engine
+https://youtu.be/HaUAfgrZjlU&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Get a Load of This How to make a Loading Screen  Live Training  Unreal Engine
+https://youtu.be/6CkR6KG2znM&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  09  Live Training  Unreal Engine
+https://youtu.be/EsBAOZ9IF_4&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  10  Live Training  Unreal Engine
+https://youtu.be/in6usW3aBko&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  11  Live Training  Unreal Engine
+https://youtu.be/-tosvDVxSZg&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Mastering Material Instances  Live Training  Unreal Engine
+https://youtu.be/edZo8PC5SYc&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Mesh Displacement & Material Editor  Live Training  Unreal Engine
+https://youtu.be/oPLQOViA8CA&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+New Sequencer Features  Live Training  Unreal Engine
+https://youtu.be/vHeRBCNVBok&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Virtual Reality Updates in 4.11  Feature Highlight  Unreal Engine
+https://youtu.be/lbRHv9Bxybo&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+VR Bow & Arrow Tutorial  Live Training  Unreal Engine
+https://youtu.be/hcbSzvSAK-0&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+VR Cameras, Multiplayer, Tips & Tricks  Live Training  Unreal Engine
+https://youtu.be/jVdFpuicptQ&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Working with Sequencer  Live Training  Unreal Engine
+https://youtu.be/CGo-sK-wvzw&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+Videos 101-125

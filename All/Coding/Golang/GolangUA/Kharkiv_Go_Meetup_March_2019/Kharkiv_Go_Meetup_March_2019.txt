@@ -1,0 +1,10 @@
+
+[RU] Building data storage microservice with Go - Alexander Shcherbyna
+https://youtu.be/ByHQ1F7CNFY&list=PLx8BUu6VdbceCEYqKz4ZsCRiKHesflo76
+
+[RU] Hints in Go - Viktor Pakhuchyi
+https://youtu.be/Oxmw-el7Pns&list=PLx8BUu6VdbceCEYqKz4ZsCRiKHesflo76
+
+[RU] Using shadowing and custom errors right - Denys Goldiner
+https://youtu.be/UeOAXSp75uk&list=PLx8BUu6VdbceCEYqKz4ZsCRiKHesflo76
+Kharkiv Go Meetup March 2019

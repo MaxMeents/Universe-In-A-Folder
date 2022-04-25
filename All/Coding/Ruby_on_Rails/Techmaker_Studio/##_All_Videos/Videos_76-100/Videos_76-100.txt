@@ -1,0 +1,76 @@
+
+Aleph.im Tutorial  How to Update Records (Amend) on the Network
+https://youtu.be/5CINJZAPqC0
+
+Chainlink Tutorial  How to Generate a Random Number with Chainlink VRF in Solidity - Part 1
+https://youtu.be/OkUMUWxsEAM
+
+Chainlink Tutorial  How to Generate a Random Number with Chainlink VRF in Solidity - Part 2
+https://youtu.be/tr1E0n3qpZ8
+
+Chainlink Tutorial  How to Generate a Random Number with Chainlink VRF in Solidity - Part 3
+https://youtu.be/6HJrNjg_AoY
+
+How a Malicious Developer Quietly Stole Over 325 ETH (over $600k) in 10 Hours
+https://youtu.be/V47glX9Hqqw
+
+New Series Building an NFT Book Store from Scratch
+https://youtu.be/xbf49GOy-lQ
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 10
+https://youtu.be/afAnJ3Wx4p0
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 11
+https://youtu.be/fPPJksDf1Fo
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 12
+https://youtu.be/nK7fNavIjrc
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 13
+https://youtu.be/kB-goCd0HDA
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 14
+https://youtu.be/9W8Umg__Sb4
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 15
+https://youtu.be/clJqJTK7cXM
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 16
+https://youtu.be/z5lSrKFdLZo
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 17
+https://youtu.be/yH1dHshLtis
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 18
+https://youtu.be/eeGt0_NDQ84
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 19
+https://youtu.be/KtHAGn6u1H0
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 20
+https://youtu.be/bBSrZz1BwBM
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 21
+https://youtu.be/pDNflQV2YT0
+
+Node JS Tutorial  Decentralized Chat Application with Aleph.im and Node.js - Part 22
+https://youtu.be/ozunoUkpWos
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 2
+https://youtu.be/5nkjSD2f1TM
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 3
+https://youtu.be/fnZ1n1r4Dnw
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 4
+https://youtu.be/zhxtkKkRuLQ
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 5
+https://youtu.be/uhE7t6T8I9k
+
+Solidity Tutorial  Creating an ERC-20 Token in Solidity with OpenZeppelin (for Beginners)
+https://youtu.be/DILDtLTrx_s
+
+Solidity Tutorial  Deploying an ERC-20 Contract to the Rinkeby Testnet with Truffle
+https://youtu.be/3TVanIG6B3A
+Videos 76-100

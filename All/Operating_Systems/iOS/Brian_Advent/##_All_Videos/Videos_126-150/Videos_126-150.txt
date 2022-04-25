@@ -1,0 +1,76 @@
+
+Create a Simple iOS and Web App with CloudKit and CloudKit JS
+https://youtu.be/A_yx8Dn46R8
+
+Improve your Swift Language Skills with the Map and Filter Functions
+https://youtu.be/swz9fzL3QB8
+
+iOS Game Tutorial Create an Award Winning 3D Touch Game
+https://youtu.be/Bd9fAqBJqCc
+
+iOS Swift Game Tutorial Create a Fun Sound Memory Game
+https://youtu.be/dddTC4RdpRU
+
+iOS Swift Tutorial Auto Layout Constraints in Code
+https://youtu.be/6EEMofQG93I
+
+iOS Swift Tutorial Create a Circular Transition Animation (Custom UIViewController Transitions)
+https://youtu.be/B9sH_VxPPo4
+
+iOS Swift Tutorial Create an Animated Control - Stacked Menu
+https://youtu.be/lVuHagEBTqk
+
+iOS Swift Tutorial Create the iOS Home Screen Parallax Motion Effect (Animation)
+https://youtu.be/-BiGO7CJZ7Q
+
+iOS Swift Tutorial Get started with Firebase and an App like Twitter
+https://youtu.be/D0MuaFzoxng
+
+iOS Swift Tutorial How to convert your projects to Swift 3.0
+https://youtu.be/AgURnpHMygs
+
+iOS Swift Tutorial Keyboard covering textView or textField
+https://youtu.be/3WWgBJkBQWM
+
+iOS Swift Tutorial Quick Tip - Working with Sets
+https://youtu.be/0ZJ4MDn6hiY
+
+iOS Swift Tutorial The power of UIStackView
+https://youtu.be/su03OyqPvv0
+
+iOS Swift Tutorial Use live rendering with Xcode
+https://youtu.be/bToFQRIPeGo
+
+iOS Swift Tutorial Why use Subclasses
+https://youtu.be/ACCkULy-tZ8
+
+iOS Tutorial Beta testing with TestFlight
+https://youtu.be/R-ZV5Aumu0Y
+
+iOS Tutorial How to use git with Xcode
+https://youtu.be/9jeQQ7xNb4U
+
+iOS Tutorial Quick Tip - iOS App Icons
+https://youtu.be/CAZ2v-CHLGA
+
+Live Stream Creating your first iOS App
+https://youtu.be/N_QrA_wZk7o
+
+Live Stream Introduction to Object Oriented Programming with Swift Part 1
+https://youtu.be/qFcRjLKBEhs
+
+Live Stream Introduction to Object Oriented Programming with Swift Part 2
+https://youtu.be/0b1p0vGhzDQ
+
+Live stream UIKit and the Model-View-Controller design pattern
+https://youtu.be/UhX_Xvc3fKU
+
+Swift Basics & Adaptive Layout
+https://youtu.be/aD3PUbl2GaE
+
+UI Design Tutorial Create a Login Form with Sketch - Meet the Conference Speaker
+https://youtu.be/FQGq2CqFyzA
+
+Xcode Basics I
+https://youtu.be/9h3b5ubOTkQ
+Videos 126-150

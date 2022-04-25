@@ -1,0 +1,76 @@
+
+Binary Heap Operations  Data Structure
+https://youtu.be/jqRh0oVdss4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+CreateBuild Binary Heap {min heap or max heap} From List Of Numbers  data Structure
+https://youtu.be/B8nlglpSfRw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graph Operations - Insertion  Data Structure  Python Tutorials
+https://youtu.be/ZYpKo4FUcds&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graph Representation - Adjacency List  Data Structures
+https://youtu.be/04oDTZmMNGk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Graph Representation - Adjacency Matrix  Data Structure  Python Tutorials
+https://youtu.be/wP9FBULI9E0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Heapq Module And Priority Queue  Binary Heap  Python Tutorials
+https://youtu.be/58cYFs_W2_s&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+How To Delete Root Node In Binary Search Tree  Python Program  Data Structure  Part 2
+https://youtu.be/Z2gWBkiboGY&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Introduction to Binary Heap Data Structure  Heap Tree
+https://youtu.be/4X6bXXLt1j8&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Introduction To Graphs  Data Structure
+https://youtu.be/KXnJQUzZ9iI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+List Representation of Binary Heap  Python Tutorials
+https://youtu.be/NCRIwhTThkk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Minimum and Maximum Value in Binary Search Tree  Data Structure
+https://youtu.be/Q2A5tOis2Qg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 1
+https://youtu.be/5kaVCwKd3hI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 2  Insertion With Example
+https://youtu.be/MD5moPUkTHU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 2  Insertion
+https://youtu.be/18YDhu9IFws&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 3  Search Operation
+https://youtu.be/l0ocgOuETiQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 4  Pre-Order Traversal Algorithm
+https://youtu.be/MV3nPSok0QQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 5  In-Order And Post-Order Algorithm
+https://youtu.be/fRoAiWP-4Xk&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 6  Deletion  Example
+https://youtu.be/kDbqMBgVr9s&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 6  Deletion{Except Root Node With 1 child}
+https://youtu.be/1x4eMO4ofbY&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Binary Search Tree  Program 7  Min and Max Key
+https://youtu.be/Zfmp2bpwP70&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Program To Implement Graph Insertion Operation  Add Node  Adjacency Matrix  Data Structure
+https://youtu.be/RS6pKl7hqR4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Terminologies of Graph  Data Structure
+https://youtu.be/LxN4oUWJNag&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Traversal Operation in Binary Search Tree  BST  Pre-order And In-order Traversal  Data Structures
+https://youtu.be/6E6dIi3B9lg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Traversal Operation in Binary Search Tree  Post-order And Level order Traversal  Data Structures
+https://youtu.be/gNZSyxqwyxI&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Types of Graph  Data Structure
+https://youtu.be/3EuMihE4HCU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 326-350

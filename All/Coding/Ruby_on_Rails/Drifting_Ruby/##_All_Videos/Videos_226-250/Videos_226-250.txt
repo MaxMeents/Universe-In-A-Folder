@@ -1,0 +1,76 @@
+
+Drifting Ruby Code Base  Gource
+https://youtu.be/puDoWyfJwys
+
+Episode #100 - Basic Testing Introduction in Rails
+https://youtu.be/jQvB0QWe5Bs
+
+Episode #101 - Testing with RSpec
+https://youtu.be/71eKcNxwxVY
+
+Episode #102 - Feature Testing with Capybara
+https://youtu.be/1kwCymmoLaY
+
+Episode #103 - Sample Data with Factory Bot and Faker
+https://youtu.be/x2qapy3s6Tg
+
+Episode #104 - Speeding Up Tests
+https://youtu.be/5xbAD6zKAOs
+
+Episode #105 - Continuous Integration with Travis CI  Preview
+https://youtu.be/GfgdSafZGhw
+
+Episode #106 - Deploying to AWS Elastic Beanstalk  Preview
+https://youtu.be/1THORITzV4k
+
+Episode #107 - Additional Dependencies in Beanstalk  Preview
+https://youtu.be/EJ4AmN2YbDA
+
+Episode #108 - Tracking Errors with Sentry
+https://youtu.be/n5hWUD2CXd8
+
+Episode #109 - Using React-Rails and Loading Data from Rails into React  Preview
+https://youtu.be/Uv4wtE8BsP4
+
+Episode #110 - React State Changes and Posting to the Rails App  Preview
+https://youtu.be/VC9SYiVI5Pg
+
+Episode #111 - In-depth Look into ActiveStorage
+https://youtu.be/mzaAHurohMc
+
+Episode #112 - Stimulus Javascript Framework  Preview
+https://youtu.be/Jri71csFMLU
+
+Episode #113 - Ruby on Rails 5.2.0 Changes and New Features
+https://youtu.be/Obd9nFWhlWE
+
+Episode #114 - Payment Gateway Basics with Stripe  Preview
+https://youtu.be/KIc7PoT4n9w
+
+Episode #115 - More on Stripe and Subscriptions  Preview
+https://youtu.be/KB2DvG9wIQg
+
+Episode #116 - More on Stripe and Webhooks  Preview
+https://youtu.be/IqxFhySleQA
+
+Episode #117 - Upgrading Ruby on Rails Versions  Preview
+https://youtu.be/0i2MbeddVDc
+
+Episode #118 - Ruby on Rails Tips and Tricks
+https://youtu.be/j9bYzwqNHF0
+
+Episode #119 - Introduction to GraphQL  Preview
+https://youtu.be/AlxnemxUI5E
+
+Episode #120 - Ruby Objects and Memoization  Preview
+https://youtu.be/FZwt5rr0svk
+
+Episode #122 - More on GraphQL - Organizing and Refactoring  Preview
+https://youtu.be/BO8qkkJInzc
+
+Episode #123 - Encrypted Credentials in Rails 5.2
+https://youtu.be/ypzj0tjU4Ho
+
+Episode #124 SimpleMDE and ActiveStorage  Preview
+https://youtu.be/jl-s7tB9Jc4
+Videos 226-250

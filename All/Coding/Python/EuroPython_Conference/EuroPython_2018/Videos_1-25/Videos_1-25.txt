@@ -1,0 +1,76 @@
+
+Almar Klein - Let’s embrace WebAssembly!
+https://youtu.be/u2kKxmb9BWs&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Anastasiia Tymoshchuk - How to develop your project from an idea to architecture design in 50 minute
+https://youtu.be/QB59ZibEOZ0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Antonia Mey - How is python used in biomolecular sciences
+https://youtu.be/NoTQLb0oN-4&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Antonio Verardi, Flavien Raynaud - How to write Rust instead of C, and get away with it yes, it's a
+https://youtu.be/u6ZbF4apABk&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Becky Smith - Python 2 is dead! Drag your old code into the modern age
+https://youtu.be/h5tmNkyNAKs&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Christian Heimes - SSLError, now what
+https://youtu.be/DDHF_OpQxMI&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Daniele Procida - The naïve programmer
+https://youtu.be/JNGNuiXLAcY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+David Beazley - Die Threads
+https://youtu.be/xOyJiN3yGfU&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Dimiter Naydenov - All You Need is Pandas Unexpected Success Stories
+https://youtu.be/8YH9u29_3dQ&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Doug Hellmann - reno - A New Way to Manage Release Notes
+https://youtu.be/tEOGJ_h0Lx0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Ed Singleton - Autism in development
+https://youtu.be/oo0Nq44d1yQ&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+EuroPython 2018 - Opening Session
+https://youtu.be/LoRq9yGeBWY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Guillem Duran - Hacking Reinforcement Learning
+https://youtu.be/rZpZU8LHPco&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Hayley Denbraver - Recursion, Fractals, and the Python Turtle Module
+https://youtu.be/b6AcYxIxXMA&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Isabel Lopez - ETL pipeline to achieve reliability at scale
+https://youtu.be/jNt37Sj4ebM&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Jiri Benes - Reliability in distributed systems
+https://youtu.be/JbZZlpEY3iA&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Nick Radcliffe - Quantum Computing   a Very Gentle Glimpse into a Possible Future
+https://youtu.be/OwzcvCx4FbY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Noam Elfanbaum - Let’s Build a Python Profiler in 25 LOC
+https://youtu.be/H8uVgtVv44Y&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Owen Campbell - Leadership of Technical Teams
+https://youtu.be/JIM1alCVZQ4&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Peter Babics - Python, Docker, Kubernetes, and beyond 
+https://youtu.be/KF6lU_fm_Bg&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Ronan Lamy - Adventures in compatibility   emulating CPython's C API in PyPy
+https://youtu.be/qH0eeh-4XE8&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Stephane Wirtel - What's new in Python 3 7
+https://youtu.be/uSp0-TkGx3c&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Steve Dower - Python on Windows is Okay, Actually
+https://youtu.be/ugeulM2gjvY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Yury Selivanov - Asyncio in Python 3 7 and 3 8
+https://youtu.be/ReXxO_azV-w&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Łukasz Kąkol - Pythonic code vs  performance
+https://youtu.be/1AqW9-E6VCM&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+Videos 1-25

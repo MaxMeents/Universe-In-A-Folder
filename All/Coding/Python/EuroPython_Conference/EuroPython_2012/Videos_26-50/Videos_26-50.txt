@@ -1,0 +1,76 @@
+
+Behaviour Driven Development at BSkyB
+https://youtu.be/OMLDHNaUMB8&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Beyond Clouds Open Source Edge Computing in Python with SlapOS
+https://youtu.be/U7twgv9IhqQ&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Building an Advanced Python Installation for Linux and Windows
+https://youtu.be/5TwRVEe9MpA&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Building complex  scalable systems on Python and AWS
+https://youtu.be/ymtlFdrwsZY&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Building your first app with python and MongoDB
+https://youtu.be/FLIEJt6IymY&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Costruire applicazioni web complesse con le pluggable applications di TurboGears2 in pochi minuti
+https://youtu.be/M8v06Wksx24&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Creating federated authorisation for a Django survey system
+https://youtu.be/OeToCdcv8zo&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Fast Data Mining with Pytables and pandas
+https://youtu.be/_JrZUm9ZHIw&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Functional programming in Python and even Haskell part 1
+https://youtu.be/83YIQwtXKzk&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Functional programming in Python and even Haskell part 2
+https://youtu.be/J992TknDAT8&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+How Brazil is building a digital nation with open source and Python
+https://youtu.be/SpaWsnCRNo8&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+How to set proprietary geospatial data free with GDALOGR and Proj4
+https://youtu.be/TPcDVxnsLuU&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Introduction to Number Crunching
+https://youtu.be/sq8ef-KVaRc&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Minimalism in software development- or why you should do less
+https://youtu.be/kEqwe7EGuQU&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Python is faster than fortran
+https://youtu.be/5kn3Sugrxz8&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Python web applications in multihost- low latency environments
+https://youtu.be/I_HqPjl6quo&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Repreducible installation of applications Zc Buildout
+https://youtu.be/29rzDcisVZQ&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Scegliere con saggezza il proprio WSGI server
+https://youtu.be/YKYpyGG6dvU&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Slew library GUIs made easy
+https://youtu.be/WqBlq09pyBI&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Some Experiences with Python-For-Android -Py4A
+https://youtu.be/RCBiw78SDb8&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+The integrators guide to duct-taping
+https://youtu.be/1yZmtiNeffg&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+The Larch Environment Python programs as visual interactive documents
+https://youtu.be/BaqaIw2c91o&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Twisted tutorial part 1
+https://youtu.be/GuNwewBU_Hw&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Twisted tutorial part 2
+https://youtu.be/VOUH4_ka2Ls&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Using sockets in Python
+https://youtu.be/cPZokpaA0Vw&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+Videos 26-50

@@ -1,0 +1,76 @@
+
+Commands - Adding a New Command
+https://youtu.be/XLX7Ew9OKTA&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Commands - Bug Squash Practice
+https://youtu.be/BK4VzcVRojc&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Commands - Finding and Fixing Bugs
+https://youtu.be/yQgLUy4wefA&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Commands - Issuing Commands
+https://youtu.be/CRivVdQmixU&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Commands - Portal Practice
+https://youtu.be/hW8wSRl_C6Q&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Commands - The Shortest Route
+https://youtu.be/GPtuTIIeX-M&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Commands - Toggling a Switch
+https://youtu.be/jD9C47Ynpdg&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Conditional Code - Checking for Switches
+https://youtu.be/HisgayzJ8Hg&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Conditional Code - Conditional Climb
+https://youtu.be/YtOdDyGVgDw&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Conditional Code - Looping Conditional Code
+https://youtu.be/2GYgD7Ja7EY&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Conditional Code - Using Else IF
+https://youtu.be/tkfnIWcT6VE&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loop - Using Loops
+https://youtu.be/cRSHsOUXZH4&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loops - Branch Out
+https://youtu.be/1jvxFGKj-fQ&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loops - Four Stash Sweep
+https://youtu.be/Cp9RmYhjOU4&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loops - Gem Farm
+https://youtu.be/lPnJi9OrZ68&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loops - Loop Jumper
+https://youtu.be/oZBqX1T9EDE&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loops - Looping All the Sides
+https://youtu.be/clEBWIkyK8Q&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+For Loops - To the Edge and Back
+https://youtu.be/lZk2OLGnqHg&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions - Collect, Toggle, Repeat
+https://youtu.be/dASv3bYDrFI&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions - Composing a New Behavior
+https://youtu.be/zaaf7ylA7G8&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions - Creating a New Function
+https://youtu.be/avM1s-raAqk&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions - Slotted Stairways
+https://youtu.be/5UuTB4Ll7g0&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions - Treasure Hunt
+https://youtu.be/vd14zZzDvMk&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions -Across the Board
+https://youtu.be/SdvvDghTMLA&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+
+Functions -Nesting Patterns
+https://youtu.be/rdEU4djAeuQ&list=PLepWyYEuKv9tT6rqrcfgXYumkQGsCM6Hw
+Videos 1-25

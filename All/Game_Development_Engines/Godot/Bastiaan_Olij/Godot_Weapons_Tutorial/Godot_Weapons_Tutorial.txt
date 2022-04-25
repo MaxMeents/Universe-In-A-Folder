@@ -1,0 +1,34 @@
+
+Godot VR Weapons part 5 - Reloading
+https://youtu.be/EK91zvMhck0&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 1 - Setting up the environment using GIProbe
+https://youtu.be/KaJSifo8Wis&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 2 - teleport and picking up objects
+https://youtu.be/gPVXwwvxlzs&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 3 - firing our gun
+https://youtu.be/57YxdOHQV2E&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 4 - animating our gun and adding audio
+https://youtu.be/e_KaRNYg3P4&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 6 - Ammo count, smoke trial and muzzle flash
+https://youtu.be/ERFCutI6mqc&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 7 - Projectile weapons
+https://youtu.be/rPVtFw6LljI&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial Part 7 teaser
+https://youtu.be/XG9uoIZcAzU&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 8 - Implement a scope
+https://youtu.be/GaKSdkVcSRo&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons tutorial part 9 - Two handed hold
+https://youtu.be/BghB0VIgmqU&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+
+Godot VR Weapons WIP
+https://youtu.be/DBN2gz6sj3w&list=PLe63S5Eft1KaIq9N5PsS5FA3pcLrh686y
+Godot Weapons Tutorial

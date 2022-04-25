@@ -1,0 +1,76 @@
+
+Episode #295 - Gathering Questionnaire Responses  Preview
+https://youtu.be/D3nfxmqExoI
+
+Episode #296 - Two-Way SMS Conversation  Preview
+https://youtu.be/EP6XVinJdic
+
+Episode #297 - Sign in with Apple  Preview
+https://youtu.be/KeoTB_bCKBg
+
+Episode #298 - AWS App Runner  Preview
+https://youtu.be/z6dZo8IxJV8
+
+Episode #299 - 10 Tips and Tricks
+https://youtu.be/uAtl4MjFCuU
+
+Episode #300 - Authentication from Scratch  Preview
+https://youtu.be/ORAcBCYH7zw
+
+Episode #301 - Managing User Session Devices  Preview
+https://youtu.be/tPHbRkNLCfA
+
+Episode #302 - Hardware Security Keys  Preview
+https://youtu.be/ZjCLWJtBMSE
+
+Episode #303 - Tracking Events with Ahoy
+https://youtu.be/W_Ww2sy2nn4
+
+Episode #304 - Cryptocurrency Payments  Preview
+https://youtu.be/N78Yhmjzi2c
+
+Episode #305 - Ransack Search and Hotwire  Preview
+https://youtu.be/X9DoLixVE04
+
+Episode #306 - Background Jobs with Resque  Preview
+https://youtu.be/XvDt8ewPWU4
+
+Episode #307 - Hotwire Turbo Replacing Rails UJS
+https://youtu.be/dn7bIWjgN7w
+
+Episode #308 - Slim Select with Stimulus  Preview
+https://youtu.be/zy33K1_bgZs
+
+Episode #309 - Creating Command Line Applications  Preview
+https://youtu.be/EJIpF7FJ_X4
+
+Episode #310 - Adding Custom Buttons to Action Text  Preview
+https://youtu.be/DvcAaC5apoc
+
+Episode #311 - Drag and Drop with Hotwire  Preview
+https://youtu.be/UuTalLeTIvI
+
+Episode #312 - Importmaps in Rails 7
+https://youtu.be/veWpot6zfUQ
+
+Episode #313 - esbuild for Rails
+https://youtu.be/qht_vqnYeEM
+
+Episode #314 - Logging in Rails  Preview
+https://youtu.be/LOMvLNqMrAc
+
+Episode #315 - Securing Downloads with Global ID  Preview
+https://youtu.be/2ZrL1aYFhzw
+
+Episode #316 - Reset Password from Scratch  Preview
+https://youtu.be/1BHiy5Szy8A
+
+Episode #317 - Error Tracking from Scratch
+https://youtu.be/DwVfqjEPyGA
+
+Episode #318 - Modern Chat Feature  Preview
+https://youtu.be/8H55owRgA_U
+
+Episode #319 - From Webpacker to esbuild  Preview
+https://youtu.be/nGW0p6YAP88
+Videos 26-50

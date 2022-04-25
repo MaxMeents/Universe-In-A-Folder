@@ -1,0 +1,67 @@
+
+Python Basics Tutorial All TDAmeritrade API's  Stock Screener
+https://youtu.be/LX8ajDFavaE&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Download Stock Data With Yfinance Tickers For Dow 30
+https://youtu.be/0RiqjEy7sbQ&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Find Complete List of Stock Market Ticker Symbols  Pandas Tolist Method
+https://youtu.be/lR4bMiXN02M&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Find Important Stock Market Data With Yfinance
+https://youtu.be/UPmf-eijhXI&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How Handle Pandas Dataframe Multi Column Index For Stock Data
+https://youtu.be/J2v4wqRPMRw&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How to Compare Companies Using  Pandas To Dict Function
+https://youtu.be/erFBmp_PFAo&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How to Compare Companies
+https://youtu.be/uXHnq2xg6ls&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How to Find 200 and 50 Day Moving Averages With Pandas Rolling Method
+https://youtu.be/aVaG45tgqvs&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How to Find the Percent of a 52 Week High Price
+https://youtu.be/fJtDKBbxUMg&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How to Group Stock Tickers By Industry
+https://youtu.be/UXpEOb7HEVk&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial How to Screen All Stock Market Symbols
+https://youtu.be/laYpYnhDHpY&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Install Alpha Vantage and API Key
+https://youtu.be/8NJHwk8dj-U&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Install Pandas Datareader and Stock Data Recap
+https://youtu.be/ojSvfWm5dl8&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Install Yahoo Finance Module For Stock Data
+https://youtu.be/QyiStgeZzbM&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Intro To YFinance For Stock Market Data
+https://youtu.be/TIKtS0UQCJ8&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Match A Stock Ticker List In a DataFrame   Pandas isin Method
+https://youtu.be/N85yCgih07E&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Plot A Stock Market Pandas DataFrame
+https://youtu.be/NdeNzWADjgc&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Questions About Stock Screener API
+https://youtu.be/S6VlfbWwHoI&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Real Time Stock Data with Pandas Datareader Data Module
+https://youtu.be/UyJiw5P5t_o&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Stock Percent of High on Second Y axis with Pandas and Matplotlib
+https://youtu.be/nDrUD1rLXac&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Stock Screener 90 Percent Of 52 Week High
+https://youtu.be/h6GJr74u-to&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+
+Python Basics Tutorial Yfinance Ticker History Method To Find Stock Price
+https://youtu.be/bMElPqhGdUA&list=PLaYT64KWZAEOOf3FnrYZKrm0GW7--go_a
+Stock Data

@@ -1,0 +1,16 @@
+
+How To Loop Over An Object
+https://youtu.be/-4_ApAo9BEE&list=PLXp1mdS6t_q36_Ojf71zsSXhc_SE-Z2sZ
+
+JavaScript Basics - Arrays
+https://youtu.be/LTQNLbuw4CY&list=PLXp1mdS6t_q36_Ojf71zsSXhc_SE-Z2sZ
+
+JavaScript Basics - Branching Logic
+https://youtu.be/axa1g5xPku4&list=PLXp1mdS6t_q36_Ojf71zsSXhc_SE-Z2sZ
+
+JavaScript Basics - Classes
+https://youtu.be/0CtMtstSIVY&list=PLXp1mdS6t_q36_Ojf71zsSXhc_SE-Z2sZ
+
+JavaScript Basics - Variables and Types
+https://youtu.be/SRb5g8yPr2A&list=PLXp1mdS6t_q36_Ojf71zsSXhc_SE-Z2sZ
+JavaScript Fundamentals

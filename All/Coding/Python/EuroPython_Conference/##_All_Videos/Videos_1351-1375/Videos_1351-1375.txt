@@ -1,0 +1,76 @@
+
+Beyond Clouds Open Source Edge Computing in Python with SlapOS
+https://youtu.be/U7twgv9IhqQ
+
+Building complex  scalable systems on Python and AWS
+https://youtu.be/ymtlFdrwsZY
+
+Composite Key is ready for Django 1 4
+https://youtu.be/tK45uXtNfUo
+
+Creating federated authorisation for a Django survey system
+https://youtu.be/OeToCdcv8zo
+
+Cubes light weight olap fw server
+https://youtu.be/WSHD029BAls
+
+Discovering Descriptors
+https://youtu.be/D3-NZXHO5QI
+
+Fully versioned  distributed object persistence
+https://youtu.be/iRR5K3bzxXg
+
+Going massive with uWSGI and nginx
+https://youtu.be/jfkKOaNsE00
+
+HeavyBASE a Python peer to peer database for clinical trials and biobanks
+https://youtu.be/fEIqPDFhRA4
+
+How Brazil is building a digital nation with open source and Python
+https://youtu.be/SpaWsnCRNo8
+
+How Did You Do That Or How a Non developer Snuck Python Into a Large Organization
+https://youtu.be/8NJTuubGbNc
+
+How to set proprietary geospatial data free with GDALOGR and Proj4
+https://youtu.be/TPcDVxnsLuU
+
+Introduction to Number Crunching
+https://youtu.be/sq8ef-KVaRc
+
+Lets play with Python and OpenCV
+https://youtu.be/lJYEup-0gJo
+
+Lightning talks - Friday
+https://youtu.be/f1t2M2wcY2k
+
+Minimalism in software development- or why you should do less
+https://youtu.be/kEqwe7EGuQU
+
+OpenGL and Python on computer and embed device part 2
+https://youtu.be/8sZaE2zWbUo
+
+OpenGL and Python on computer and embed device
+https://youtu.be/UjdU77m1228
+
+Pysmbc python c mods are easy
+https://youtu.be/Inzpxafkgr8
+
+Python for Startups
+https://youtu.be/7BIagoQdlrc
+
+Slew library GUIs made easy
+https://youtu.be/WqBlq09pyBI
+
+Some tricks for incremental refactoring of Python Code
+https://youtu.be/puf2x473RTE
+
+The Larch Environment Python programs as visual interactive documents
+https://youtu.be/BaqaIw2c91o
+
+Twisted tutorial part 2
+https://youtu.be/VOUH4_ka2Ls
+
+Using sockets in Python
+https://youtu.be/cPZokpaA0Vw
+Videos 1351-1375

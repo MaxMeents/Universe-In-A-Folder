@@ -1,0 +1,22 @@
+
+Making a Multiplayer FPS in Unity (E26. Sending Data) - uNet Tutorial
+https://youtu.be/makGoauwngQ&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+
+Making a Multiplayer FPS in Unity (E27. Cursor Lock) - uNet Tutorial
+https://youtu.be/nMgk72JSxz8&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+
+Making a Multiplayer FPS in Unity (E28. Scoreboard) - uNet Tutorial
+https://youtu.be/iyO4SdkHDXM&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+
+Making a Multiplayer FPS in Unity (E29. Killfeed) - uNet Tutorial
+https://youtu.be/3mWyixh9ffY&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+
+Making a Multiplayer FPS in Unity (E30. Reloading) - uNet Tutorial
+https://youtu.be/ejDJsGtf8Xg&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+
+Making a Multiplayer FPS in Unity (E31. Health Bar) - uNet Tutorial
+https://youtu.be/BYd1Mt-6v4k&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+
+Making a Multiplayer FPS in Unity (E32. Nameplates) - uNet Tutorial
+https://youtu.be/QDikh61llwU&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ
+Videos 26-32

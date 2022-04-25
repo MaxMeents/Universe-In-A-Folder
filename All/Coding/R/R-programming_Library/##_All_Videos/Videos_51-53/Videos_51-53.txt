@@ -1,0 +1,10 @@
+
+Building a calculator using R studio  Simple R Calculator 
+https://youtu.be/JbFTig_OQV4
+
+Graphics in Basic R  Tutorial -1 Introduction  Why base R Plots
+https://youtu.be/r2zbJneotwA
+
+How to read a CSV file in R   How to setup the working directory in R studio 
+https://youtu.be/_eMQlz8DULg
+Videos 51-53

@@ -1,0 +1,76 @@
+
+10 SQL Tricks That You Didn’t Think Were Possible by Lukas Eder
+https://youtu.be/er9A4Gttv0I&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+A practical RxJava example with Ratpack and Couchbase by Laurent Doguin
+https://youtu.be/UlDN8Zjjt0M&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+An introduction to JVM performance by Rafael Winterhalter
+https://youtu.be/p70k_ZR53ac&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Building microservices with Vert.x by Bert Jan Schrijver
+https://youtu.be/aW4ewPCHbJc&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Delivering Unicorns by Kasia Mrowca
+https://youtu.be/YO9QXbJasSc&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Emerging Application Architectures with Java and Node.js by Chris Bailey
+https://youtu.be/PvvS2lFctQ4&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Faster Java By Adding Structs (Sort Of) by Simon Ritter
+https://youtu.be/B6jjxF8XIXc&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Functional Data Structures and Java 8 by Oleg Šelajev
+https://youtu.be/Oob6QL_SUyU&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Functional Libraries for Java 8 by Rabea Gransberger
+https://youtu.be/C5_2d2Bfg2Y&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Java 9 Modularity in Action by Sander Mak & Paul Bakker
+https://youtu.be/OEKcuywm0mk&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Java Collections - The Force Awakens by Raoul Gabriel Urma & Richard Warburton
+https://youtu.be/s9F5Ynf3Wy4&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Just Enough App Server by Antonio Goncalves
+https://youtu.be/mQAloS7kfGM&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+MicroProfile, Apache TomEE Now & Beyond by Andy Gumbrecht
+https://youtu.be/BlCD1fXiAo0&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Optional - The Mother of All Bikesheds by Stuart Marks
+https://youtu.be/4f9j0LtULiM&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Panel Discussion MicroProfile Evolution and Direction
+https://youtu.be/TsQeiBJ8xbs&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Reactive Integrations with Akka Streams that Just Work! by Johan Andrén
+https://youtu.be/Hn4r7DqWA94&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Rise of the Machines – Automate Your Development by Sven Peters
+https://youtu.be/HTjK616JT-I&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Testing with Spock, the logical choice by Iván López
+https://youtu.be/ktBH_9Di5LY&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+The Art of Angular in 2016 by Matt Raible
+https://youtu.be/kHW667DT8mc&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+The Seven (More) Deadly Sins of Microservices by Daniel Bryant
+https://youtu.be/5nPJWud4ocE&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+Using Java 8 Idioms in Existing Code by Trisha Gee
+https://youtu.be/fTjT1lgnuvM&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+vJUG24 - AMERICAS region
+https://youtu.be/fDvH15PffoE&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+vJUG24 - APAC region
+https://youtu.be/9ZDmhHmitR0&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+vJUG24 - EMEA region
+https://youtu.be/OQbqNb77NDU&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+
+What’s In Java 9 by Gil Tene
+https://youtu.be/6tWPWLqSKlk&list=PLH0XhbA5QShPasG77Edr52wzFUms5v2w9
+Videos 1-25

@@ -1,0 +1,4 @@
+
+Why you should NOT use Rust - Nov 20, 2018 - Utah Rust  Provo Linux
+https://youtu.be/S3fAmfbiNk8&list=PLDWmoWFf46ggQxO1G2rrP2AXC3pHwVDaX
+Rust content in Utah

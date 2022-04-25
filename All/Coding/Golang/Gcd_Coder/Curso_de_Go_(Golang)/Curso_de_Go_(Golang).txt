@@ -1,0 +1,55 @@
+
+1. Curso de Go (Golang)  Presentación
+https://youtu.be/F_wmIVb_wBs&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+10. Curso de Go (Golang)  Tipos de Datos Integers I
+https://youtu.be/GB7rm9fICCY&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+11. Curso de Go (Golang)  Tipos de Datos Integers II
+https://youtu.be/4mOK2TfH90s&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+12. Curso de Go (Golang)  Tipos de Datos Floats y Complex
+https://youtu.be/G2sJSPhn_Gc&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+13. Curso de Go (Golang)  Tipos de Datos Boolean
+https://youtu.be/8RTvnpc9BCo&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+14. Curso de Go (Golang)  Tipos de Datos String
+https://youtu.be/f5t-s-c8JUU&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+15. Curso de Go (Golang)  Control de Flujo Introducción
+https://youtu.be/h_1AFw6zNos&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+16. Curso de Go (Golang)  Control de Flujo if  else if
+https://youtu.be/yTqhpI2afKk&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+17. Curso de Go (Golang)  Control de Flujo switch
+https://youtu.be/l1kFEOKX96I&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+18. Curso de Go (Golang)  Tipos compuestos Arreglos
+https://youtu.be/E4Q08ILHC_4&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+2. Curso de Go (Golang)  Instalación en Windows
+https://youtu.be/H11fXmvhXxw&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+3. Curso de Go (Golang)  Instalación en Linux (Ubuntu 16.04)
+https://youtu.be/bhm3Cd57gkY&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+4. Curso de Go (Golang)  Hola mundo
+https://youtu.be/wE2z2By9utw&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+5. Curso de Go (Golang)  Estructura de un Programa Declaración de variables
+https://youtu.be/FB52FtEM7UA&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+6. Curso de Go (Golang)  Paquetes
+https://youtu.be/Jn81GrdePh0&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+7. Curso de Go (Golang)  Scope
+https://youtu.be/ThBihtNHjlU&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+8. Curso de Go (Golang)  Punteros
+https://youtu.be/GiLHYjsBNx0&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+
+9. Curso de Go (Golang)  Tipos de datos Introducción
+https://youtu.be/yfbDRs2_kaA&list=PLz50rwjpxdLFo6H91idmRbyTVd4AqC9xd
+Curso de Go (Golang)

@@ -1,0 +1,76 @@
+
+Alex Castillo NeuroJS - Capturing And Visualizing Brainwaves With Angular 2 - JSConf.Asia 2016
+https://youtu.be/S7M2Dj-_fwU
+
+Alice in Web Animations API Land - Rachel Nabors
+https://youtu.be/q6F-2t4mv6U
+
+Building and maintaining messenger.com - Horia Dragomir
+https://youtu.be/eWIwQFqjVxU
+
+Chen Hui Jing How I Learn To CSS - CSSConf.Asia 2016
+https://youtu.be/gJA5sdyCWNQ
+
+Chris Lilley The Evolution Of CSS4 Colors - CSSConf.Asia 2016
+https://youtu.be/PqDw0ZPYIq8
+
+CSS Grids or How I learned to Stop Worrying and love the new spec - Ariel Wiznia
+https://youtu.be/rOB6fVQVvsw
+
+Fazli Sapuan & Eugene Cheah GPU.JS - GPU Accelerated JavaScript - JSConf.Asia 2016
+https://youtu.be/nUAZxpE9s9w
+
+Game Dev for Web Designers - Werther Azevedo
+https://youtu.be/tjnk1zjsWUY
+
+Kelsey Bresemann How To Talk To Hardware - JSConf.Asia 2016
+https://youtu.be/H52HezWtmm4
+
+Kenneth Auchenberg DevTools Of The Future - JSConf.Asia 2016
+https://youtu.be/KxRX_HRGRo4
+
+Lea Verou CSS Variables var(--subtitle) - CSSConf.Asia 2016
+https://youtu.be/kZOJCVvyF-4
+
+Lian Li Applying The Magic Of Neural Networks - JSConf.Asia 2016
+https://youtu.be/rZ_8xTX1LU4
+
+Michael Mifsud Real World HTTP2 - CSSConf.Asia 2016
+https://youtu.be/3WIDa5-bPDs
+
+Myles Borins Node.js Versions - How Do They Work - JSConf.Asia 2016
+https://youtu.be/3gkm7oafWxs
+
+Neha Sharma Ten Places Where You Can Ditch JS - CSSConf.Asia 2016
+https://youtu.be/PJHCpzAmr0w
+
+Practical Blend Modes - Una Kravets
+https://youtu.be/4opL0dLJMGA
+
+Raquel Vélez Wombat-Driven Understanding - An Interactive Guide To Using npm - JSConf.Asia 2016
+https://youtu.be/7MbXsRS-ZLg
+
+Refactoring CSS Without Losing Your Mind - Harry Roberts
+https://youtu.be/kbGYPm9uYfk
+
+Sarah Drasner Functional Animation - CSSConf.Asia 2016
+https://youtu.be/HaD5z2KqcGk
+
+Shiya Luo 3D On The Web - CSSConf.Asia 2016
+https://youtu.be/wvmllSN2RLA
+
+Simon Swain Rats Of The Maze - JSConf.Asia 2016
+https://youtu.be/-IvDnvtJ93s
+
+Slippy Map Style Geo-canvas design with CartoCSS - Aurelia Moser
+https://youtu.be/NxxDE5EEItY
+
+Speed up! Critical CSS to the rescue (Spanish) - Ami Reynoso
+https://youtu.be/VLobYS2ILpg
+
+What NOT to do in CSS (Spanish) - Sergio Behrends
+https://youtu.be/WRnf0n2FSz4
+
+Yosuke Furukawa Exploring Future Node - JSConf.Asia 2016
+https://youtu.be/m1LxOLAFHSo
+Videos 651-675

@@ -1,0 +1,19 @@
+
+Blue Pill (STM32) Rust Workshop Part 1 - Hello LED! - Oct 8, 2020 - Utah Rust
+https://youtu.be/KKS49cvgyVs&list=PLDWmoWFf46givBRQmh5DyE27OsXMJPfag
+
+Blue Pill (STM32) Rust Workshop Part 2 - Tooling Setup
+https://youtu.be/2tGSJpbZVS8&list=PLDWmoWFf46givBRQmh5DyE27OsXMJPfag
+
+Blue Pill (STM32) Rust Workshop Part 3 - Cargo Embed Hello World
+https://youtu.be/763-Nz7JsAQ&list=PLDWmoWFf46givBRQmh5DyE27OsXMJPfag
+
+Blue Pill (STM32) Rust Workshop Part 4 - Breadboard & Soldering Tips
+https://youtu.be/on1nD6lmgu4&list=PLDWmoWFf46givBRQmh5DyE27OsXMJPfag
+
+Blue Pill (STM32) Rust Workshop Part 5 - Soldering the Pin Rails
+https://youtu.be/4RQdpOYIMJI&list=PLDWmoWFf46givBRQmh5DyE27OsXMJPfag
+
+Microcontrollers Ferris Takes the Blue Pill, 2022 Edition (STM32) - Utah Rust (Mar 10, 2022)
+https://youtu.be/ThnvxxA-imM&list=PLDWmoWFf46givBRQmh5DyE27OsXMJPfag
+Ferris takes the Blue Pill (STM32) Rust Workshop

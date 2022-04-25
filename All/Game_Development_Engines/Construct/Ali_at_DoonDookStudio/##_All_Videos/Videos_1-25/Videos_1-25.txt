@@ -1,0 +1,76 @@
+
+2048 in 9 Minutes (Construct 3 Tutorial) + Project File
+https://youtu.be/IhsnOW0-_L0
+
+3D Particles in 5 Minutes (Construct 3 Tutorial)
+https://youtu.be/MgVD2Y6Lvsk
+
+Construct 3 Settings Menu (Most Common UI Elements) + Source Code
+https://youtu.be/SnkhMR49fUA
+
+Construct 3 Tween in 9 Minutes + Project File
+https://youtu.be/n2gHEn1pfDY
+
+DOP 2 Delete One Part in 8 Minutes (Mask in Construct 3) + Project File
+https://youtu.be/9VDudU-Sf38
+
+Gold Miner In Construct 3 In 13 Minutes + Free Source Code
+https://youtu.be/t5wm51EIRwI
+
+How to Make A 50M+ Downloads Game in 17 Minutes + Source Code
+https://youtu.be/ZFggueBrXn4
+
+How to Make A Flappy Game in 23 Minutes + Source Code
+https://youtu.be/jO06z9rSwwY
+
+HOW TO MAKE A GAME IN 10 MINUTES + SOURCE CODE
+https://youtu.be/l7DToqawTEY
+
+How to Make A Quiz Game in 15 Minutes + Source Code
+https://youtu.be/1-2X7Bbvtug
+
+How to Make Beautiful Texts in Construct 3 (SpriteFont)
+https://youtu.be/XemBx4p1Byc
+
+How to Make Money from itch.io (Publish Your First Game)
+https://youtu.be/bP8WHr8zBmo
+
+JSON in Construct 3 (Practical Example)
+https://youtu.be/aSGM1ZY7RSQ
+
+Knife Hit Replica in Construct 3 (14) + Full Source Code
+https://youtu.be/T70bfCWpn2Y
+
+Knife Hit Replica in Construct 3 (24) + Full Source Code
+https://youtu.be/NnQgpNK8TjI
+
+Knife Hit Replica in Construct 3 (34) + Full Source Code
+https://youtu.be/mLlMu0MwWsQ
+
+Knife Hit Replica in Construct 3 (44) + Full Source Code
+https://youtu.be/7DNIPAPC49A
+
+Pause Menu In Construct 3 - HTML5 Game Development Tutorial
+https://youtu.be/PEGoce9pS3Y
+
+Platformer Game in Construct 3 + Full Source Code
+https://youtu.be/1VhRlU_VlDk
+
+Save & Load System (LocalStorage in Construct 3) + Project File
+https://youtu.be/2XyVsaF1SEI
+
+Shooter Game Without Coding (Construct 3 for Dummies) + Project Files
+https://youtu.be/BYUPWJBGvS4
+
+Shop System In Construct 3 - HTML5 Game Development Tutorial
+https://youtu.be/DN--6zmmiRg
+
+Swipe Detection in Construct 3 + Project Files
+https://youtu.be/GbNbWzNayrM
+
+Toon Blast in 5 Minutes + Project File
+https://youtu.be/6giAs2YnRrE
+
+Word Connect Game (Crossword) in 12 Minutes + Construct 3 File
+https://youtu.be/0WZiQDfgfXw
+Videos 1-25

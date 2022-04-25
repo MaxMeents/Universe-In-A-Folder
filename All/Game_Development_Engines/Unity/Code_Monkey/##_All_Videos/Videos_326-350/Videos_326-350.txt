@@ -1,0 +1,76 @@
+
+A Pathfinding in Unity
+https://youtu.be/alU04hvz6L4
+
+Aim at Mouse in Unity 2D (Shoot Weapon, Unity Tutorial for Beginners)
+https://youtu.be/fuGQFdhSPg4
+
+Awesome FPS Hookshot Mechanic! (Unity 3D Tutorial)
+https://youtu.be/twMkGTqyZvI
+
+Awesome Radar Effect in Unity!
+https://youtu.be/J0gmrgpx6gk
+
+Custom Tilemap in Unity with Saving and Loading (Level Editor)
+https://youtu.be/gD5EQyt7VPk
+
+Download DataImages from inside Unity (HTTP WebRequest)
+https://youtu.be/Gk0-amfn5DM
+
+Enemy Line of Sight, Stealth Game in Unity (Field of View)
+https://youtu.be/3-jPo2wzvdw
+
+Field of View Effect in Unity (Line of Sight, View Cone)
+https://youtu.be/CSeUMTaNFYk
+
+Hold Mouse Button Down in Unity (Throw Force)
+https://youtu.be/2BJyG54eP4w
+
+How much MONEY did my Indie Game make Battle Royale Tycoon (Steam)
+https://youtu.be/e7cwJqvq_Fo
+
+How to Drag UI Windows and Send to Top in Unity
+https://youtu.be/Mb2oua3FjZg
+
+I made a Top-Down Shooter in 7 Days!
+https://youtu.be/Eyx3EfqqfMw
+
+I made an FPS in 5 days! (Unity Microgame)
+https://youtu.be/kY1Q2GraWiw
+
+Let's make an FPS together! Livestream TOMORROW!
+https://youtu.be/CMTi8Zq184w
+
+Making Minesweeper in Unity (Simple 2D game for Beginners)
+https://youtu.be/ty_sM-UAFYk
+
+Needs System from Red Dead Redemption 2 in Unity
+https://youtu.be/iHmnaXRYsc0
+
+Persistent Particle System (Blood, Shells, Dirt, Footprints)
+https://youtu.be/SkkxwsXwEhc
+
+Shield Force Field - Shader Graph Tutorial
+https://youtu.be/6AKR4b4C5jo
+
+Simple Drag Drop (Unity Tutorial for Beginners)
+https://youtu.be/BGr-7GZJNXg
+
+Simple Inventory System in Unity (Store, Use, Stack and Drop Items)
+https://youtu.be/2WnAOV7nHW0
+
+Simple Key Door System in Unity
+https://youtu.be/MIt0PJHMN5Y
+
+Simple Text Input Field Window in Unity (Submit Score, Name)
+https://youtu.be/4n6RT805rCc
+
+Sprite Dissolve - 2D Shader Graph Tutorial
+https://youtu.be/auglNRLM944
+
+Sprite Outline (Animated!) - 2D Shader Graph Tutorial
+https://youtu.be/FvQFhkS90nI
+
+Sprite Tint - 2D Shader Graph Tutorial
+https://youtu.be/93jnsgD-8Wo
+Videos 326-350

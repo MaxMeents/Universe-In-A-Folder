@@ -1,0 +1,76 @@
+
+5 Patterns to make your React Components more useful
+https://youtu.be/Jlj8mVaDrb4
+
+Advanced React Component Patterns workshop @ PayPal (Part 1)
+https://youtu.be/SuzutbwjUp8
+
+Advanced React Component Patterns workshop @ PayPal (Part 2)
+https://youtu.be/ubXtOROjILU
+
+AI Powered Visual UI Testing with Applitools
+https://youtu.be/wRrqtI3zVx4
+
+Confident React
+https://youtu.be/qXRPHRgcXJ0
+
+Converting a component to a render prop
+https://youtu.be/a7OhAQIx3xc
+
+Currying in JavaScript
+https://youtu.be/yIcve5wIuAg
+
+Drive with Kent - Tech Phone call recording
+https://youtu.be/vVlcq3e1ooI
+
+Emotion css prop without the babel plugin
+https://youtu.be/0LMFnzlPMuc
+
+Enable dynamic Hot Module Replacement with Webpack
+https://youtu.be/JGXAvgVHC5A
+
+How open source has made me and the stuff I make better
+https://youtu.be/6mtPPkKchcQ
+
+Introduction to Advanced React Component Patterns
+https://youtu.be/za3Ddz7woNw
+
+Introduction to reach-router for react
+https://youtu.be/J1vsBrSUptA
+
+JavaScript Object and Array Destructuring
+https://youtu.be/FsgGx1SMXn0
+
+JavaScript reduce
+https://youtu.be/lcfnrg7PZyk
+
+Migrating downshift from enzyme to react-testing-library (Part 3)
+https://youtu.be/buXMYy8y2n0
+
+Migrating downshift from enzyme to react-testing-library (Part 4)
+https://youtu.be/7KZLA5nMwMQ
+
+npm tips
+https://youtu.be/Dli_FisDdVU
+
+React component composition
+https://youtu.be/eLNS6GMejjw
+
+Simply React (@ OpenWest 2018)
+https://youtu.be/Q25lkYUZTMU
+
+Simply React (talk practice run)
+https://youtu.be/PJe8KXPw4cA
+
+Test Driven Development with react-testing-library
+https://youtu.be/kCR3JAR7CHE
+
+Use defaultProps for mocking
+https://youtu.be/d6SkUcBnIzg
+
+Use React DevTools
+https://youtu.be/DQjMiKEwl_E
+
+Use React Portals to build a Modal
+https://youtu.be/538Zu3Y0xTA
+Videos 401-425

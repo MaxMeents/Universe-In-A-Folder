@@ -1,0 +1,76 @@
+
+Platformer AI packs available (blue robot guy style)
+https://youtu.be/S561f-0sIkQ
+
+[8-bit Glory Spanish]Contra - 01 Introducción
+https://youtu.be/LlospXGOobs
+
+[8-bit Glory Spanish]Contra - 02 Configurar la plataforma
+https://youtu.be/BGmgXfuxl_c
+
+[8-bit Glory Spanish]Contra - 03 Animaciones
+https://youtu.be/096sMJ8x6Jg
+
+[8-bit Glory Spanish]Contra - 04 Saltar y caer
+https://youtu.be/cBUb-fpgeB0
+
+[8-bit Glory Spanish]Contra - 05 Disparos
+https://youtu.be/38X_lDiyOEg
+
+[8-bit Glory Spanish]Contra - 06 Diseño con celdas (Tilemaps)
+https://youtu.be/nwi4c2VK6Mc
+
+[8-bit Glory Spanish]Ice Climber - 07 reapareciendo y animación de daño
+https://youtu.be/19q7-g8o9io
+
+[8-bit Glory Spanish]Ice Climber - 08 Elementos del nivel
+https://youtu.be/oBUBkDwLGFE
+
+[8-bit Glory Spanish]Ice Climber - 09 Movimiento de cámara
+https://youtu.be/-kKF2bHxEhk
+
+[8-bit Glory Spanish]Ice Climber - 10 Zona de bonus y tiempo
+https://youtu.be/ShgT4mqJ8lk
+
+[8-bit Glory Spanish]Ice Climber - 11 Manejo del puntaje
+https://youtu.be/HhJZ9pNb49o
+
+[8-bit Glory]Contra - 01 Intro
+https://youtu.be/5fmVFUG0yRE
+
+[8-bit Glory]Contra - 02 Platform Setup
+https://youtu.be/AmxxWDavwTs
+
+[8-bit Glory]Contra - 03 Animations
+https://youtu.be/Z4n7r21XDVY
+
+[8-bit Glory]Contra - 04 Jump & Fall Through
+https://youtu.be/AO-AAjefK4k
+
+[8-bit Glory]Contra - 05 Shooting
+https://youtu.be/O6PhciAqFDE
+
+[8-bit Glory]Contra - 06 Tilemaps
+https://youtu.be/_4ys0_4a-gc
+
+[8-bit Glory]Contra - 07 Swimming
+https://youtu.be/kMnzq_N5K1w
+
+[8-bit Glory]Contra - 08 Weapons Upgrades
+https://youtu.be/_WgbhyN4oB4
+
+[8-bit Glory]Contra - 09 Power-ups
+https://youtu.be/Ep0shF-3vCU
+
+[8-bit Glory]Ice Climber - 08 Level Elements
+https://youtu.be/S87sWEtO-aY
+
+[8-bit Glory]Ice Climber - 09 Camera Movement
+https://youtu.be/YN28P1W-LPo
+
+[8-bit Glory]Ice Climber - 10 Bonus Zone & Timer
+https://youtu.be/NnWcG1WOYrE
+
+[8-bit Glory]Ice Climber - 11 Score Management
+https://youtu.be/z1t5P3AJ9CU
+Videos 51-75

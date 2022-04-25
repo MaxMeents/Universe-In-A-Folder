@@ -1,0 +1,67 @@
+
+Alex Sexton Your Very Own Component Library   JSConf.ar 2014
+https://youtu.be/Cs0n4YdMGac&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Alex Sexton Your Very Own Component Library  JSConf.ar 2014
+https://youtu.be/zSYo7m5kGHQ&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Alvaro Videla Building a Distributed Data Ingestion System with RabbitMQ  JSConf.ar 2014
+https://youtu.be/o9cp3NGoCEY&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Andreas Gal j2me.js - a multi-threaded Java VM in JavaScript  JSConf.ar 2014
+https://youtu.be/I7hZ8I9G5KA&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Angel Java Lopez JavaScript and Artificial Intelligence  JSConf.ar 2014
+https://youtu.be/6fnW1khlVGI&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Angel Lopez JavaScript and Artificial Intelligence  JSConf.ar 2014
+https://youtu.be/jhECkPcPj-c&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Brendan Eich The future of Javascript  JSConf.ar 2014
+https://youtu.be/l-15sDweT30&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Evangelina Ferreira Parallax 101  JSConf.ar 2014
+https://youtu.be/LWEFtkrXkOk&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Jason Chen Building Editors in the Browser  JSConf.ar 2014
+https://youtu.be/WLo3pfOOFj0&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Jaydson Gomes ES6 Rocks!  JSConf.ar 2014
+https://youtu.be/xzTfi7Wz6ac&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Jennifer De Walt How I learned to Code by Making 180 websites in 180 days  JSConf.ar 2014
+https://youtu.be/plNkmsg8kRo&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+JSConf.ar 2014  Final Thoughts
+https://youtu.be/ykzyt6PELqU&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+JSConf.ar 2014  Summary
+https://youtu.be/RTYoYNBEXZo&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+JSConf.ar 2014 - Closing
+https://youtu.be/sItvV4uol58&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Julian Duque JavaScript Robotics, A NodeBots show  JSConf.ar 2014.
+https://youtu.be/Pjb002vSvVc&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+María Evangelina Ferreira Parallax 101  JSConf.ar 2014
+https://youtu.be/bxsg-A6IxOk&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Nathan Rajlich Writing a Webmodule  JSConf.ar 2014
+https://youtu.be/5EFAnFske_w&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Nicolás García Belmonte Visualizing data with JavaScript at Twitter  JSConf.ar 2014
+https://youtu.be/Z04aHM4n29M&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Nikolay Bachiyski Else Considered Harmful  JSConf.ar 2014
+https://youtu.be/XDqZemwVXUk&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Sara Chipps From JS to manufacturing, a hardware journey  JSConf.ar 2014
+https://youtu.be/t9yzDACJ8QY&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Sebastián Markbage Moving JS from Libraries to Polyfills  JSConf.ar 2014
+https://youtu.be/UZjqdW9_qSg&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+
+Tomasz Janczuk Sandboxing Node.js with CoreOS and Docker  JSConf.ar 2014
+https://youtu.be/u81pS05W1JY&list=PL37ZVnwpeshGzyUHqDDUJA9A0KkIAzN31
+Videos 1-25

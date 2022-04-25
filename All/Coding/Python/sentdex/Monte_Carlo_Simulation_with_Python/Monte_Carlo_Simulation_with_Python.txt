@@ -1,0 +1,61 @@
+
+Labouchere system for Gambling tested and analysis
+https://youtu.be/bUFQNjjItok&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 1 - Intro
+https://youtu.be/9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 10 -Analyzing some results
+https://youtu.be/3vDLkSqZYhs&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 11 - Using Monte Carlo to find best multiple
+https://youtu.be/48QPYiI1iXo&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 12 - Checking Results
+https://youtu.be/6j75vtiQsYU&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 13 - D'Alembert Strategy
+https://youtu.be/w43uNAaF1hU&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 14 - 5050 odds
+https://youtu.be/QGu5hUarTik&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 15 - Analysis of D'Alembert
+https://youtu.be/SwSvVv0IO2E&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 16 - Comparing profitability
+https://youtu.be/u9mgSk9-IOY&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 17 - Using Monte Carlo to find best D'Alembert Increment
+https://youtu.be/UCp5tcUMdks&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 18 - 2D charting monte carlo variables
+https://youtu.be/p3WLN1-SohU&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 2 - Dice Function
+https://youtu.be/R5RoWfG7SLE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 3 - Simple Bettor Creation
+https://youtu.be/1TgOQvZ88hw&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 4 - Plotting with Matplotlib
+https://youtu.be/jeVZP5vgEC4&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 5 - Martingale Strategy
+https://youtu.be/ApGBEOK-jng&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 6 - Bettor Statistics
+https://youtu.be/nrkT06sVojE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 7 - More comparison
+https://youtu.be/S0MNZIp6b4g&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 8 - Graphing Results
+https://youtu.be/EIAa-wVazf0&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python 9 Fixing Debt Issues
+https://youtu.be/zJah4cVDNfs&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+
+Monte Carlo Simulation and Python
+https://youtu.be/uY3ZHfnFjJc&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0
+Monte Carlo Simulation with Python

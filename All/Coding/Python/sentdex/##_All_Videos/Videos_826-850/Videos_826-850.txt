@@ -1,0 +1,76 @@
+
+Jetson Tegra K1 Devkit - Setting up Desktop GUI (Ubuntu 14.04)
+https://youtu.be/ghqM8pzJZxg
+
+Jetson Tegra K1 Devkit - Unboxing
+https://youtu.be/oLeorJH5pOw
+
+Python 3 Programming Tutorial  - Getting user input
+https://youtu.be/ArL54Nmx9oU
+
+Python 3 Programming Tutorial - Built-in Functions
+https://youtu.be/7rjJrQy9gi4
+
+Python 3 Programming Tutorial - Dictionaries
+https://youtu.be/YNRc6c0wUA8
+
+Python 3 Programming Tutorial - List Manipulation
+https://youtu.be/LUoKlnK5wcc
+
+Python 3 Programming Tutorial - Lists and Tuples
+https://youtu.be/RVXIBZvg-W8
+
+Python 3 Programming Tutorial - Making Modules
+https://youtu.be/sKYiQLRe254
+
+Python 3 Programming Tutorial - Module Import Syntax
+https://youtu.be/MZlKCdybZrA
+
+Python 3 Programming Tutorial - Multi-dimensional List
+https://youtu.be/Go-FfGhxbSM
+
+Python 3 Programming Tutorial - Multi-line Print
+https://youtu.be/gINlrLx2zNA
+
+Python 3 Programming Tutorial - OS Module
+https://youtu.be/wgHeTJtth0w
+
+Python 3 Programming Tutorial - Parsing Websites with re and urllib
+https://youtu.be/GEshegZzt3M
+
+Python 3 Programming Tutorial - Reading from a CSV spreadsheet
+https://youtu.be/K_oXb04izZM
+
+Python 3 Programming Tutorial - Regular Expressions  Regex with re
+https://youtu.be/sZyAn2TW7GY
+
+Python 3 Programming Tutorial - Statistics (Mean, Standard Deviation)
+https://youtu.be/D2U6yg0i-oA
+
+Python 3 Programming Tutorial - Sys Module
+https://youtu.be/rLG7Tz6db0w
+
+Python 3 Programming Tutorial - Tkinter adding buttons
+https://youtu.be/QPeS0TI0yNo
+
+Python 3 Programming Tutorial - Tkinter event handling
+https://youtu.be/4FrQaowzIGo
+
+Python 3 Programming Tutorial - Tkinter menu bar
+https://youtu.be/Ihlpgw_HYic
+
+Python 3 Programming Tutorial - tkinter module making windows
+https://youtu.be/Ccct5D2AyNM
+
+Python 3 Programming Tutorial - Try and Except error Handling
+https://youtu.be/nqGhjLUhyDc
+
+Python 3 Programming Tutorial - urllib module
+https://youtu.be/5GzVNi0oTxQ
+
+Quadcopter restraint system testing x525 flight test
+https://youtu.be/T6w5s0-KdYM
+
+Raspberry Pi camera module streaming video to another computer
+https://youtu.be/JjPsW-7FUng
+Videos 826-850

@@ -1,0 +1,76 @@
+
+Arduino, Raspberry Pi, LEGO etc. - Sachen machen in Lehre und Hobby
+https://youtu.be/kFavCBgCfoM
+
+Battery Modeling with Simulink
+https://youtu.be/OFWCFefmvnM
+
+Date and Time Arrays
+https://youtu.be/JqBBPN4SrIk
+
+Estimating DC Motor Parameters
+https://youtu.be/AUtfvXtz12Y
+
+From Telemetry Data to Suspension Modeling
+https://youtu.be/ldsWe0gU1uU
+
+How to Import Data from Text Files Interactively in MATLAB 2014b
+https://youtu.be/jXr8OFWrVGc
+
+Interface Display
+https://youtu.be/7XYn-1sEV4o
+
+Introduction to Simulink Coder
+https://youtu.be/eVXQBUHMYCU
+
+Keine Zeit für Experimente E-Technik Grundlagen Teil 1
+https://youtu.be/cYjjr-zhcTw
+
+Loading and Logging Data
+https://youtu.be/frju8r5GjQw
+
+MATLAB Support for LEGO MINDSTORMS EV3
+https://youtu.be/rp3ChAZi1Aw
+
+New Simulation Data Inspector
+https://youtu.be/ihFkwxysLwM
+
+Release 2014b Highlights
+https://youtu.be/p8n698VgJzE
+
+Simulink Editor
+https://youtu.be/vl-UEM7cmB0
+
+Simulink Functions
+https://youtu.be/qL19DB6TPOE
+
+Source Control Integration
+https://youtu.be/KkMEwUX0IsI
+
+Using Custom Boards for FPGA-in-the-Loop Verification
+https://youtu.be/dHaElweDeqQ
+
+Using OpenCV with MATLAB
+https://youtu.be/BasC2jkgyaM
+
+Using Simulink with B&R Automation Studio Overview
+https://youtu.be/zgmSQfx0w4U
+
+Visualizing Simulation Results
+https://youtu.be/iB2Qf2NtDsI
+
+What is Simulink Code Inspector - Simulink Code Inspector Overview
+https://youtu.be/i95tf-W9ZIk
+
+What is Simulink Coder - Simulink Coder Overview
+https://youtu.be/1W7bGU4aj-4
+
+What is Simulink Design Verifier - Simulink Design Verifier Overview
+https://youtu.be/g04pJw0ZQW8
+
+What is Simulink PLC Coder - Simulink PLC Coder Overview
+https://youtu.be/UcBMPZPjqxo
+
+What is System Identification Toolbox - System Identification Toolbox Overview
+https://youtu.be/kGYa9vAXhVA
+Videos 2026-2050

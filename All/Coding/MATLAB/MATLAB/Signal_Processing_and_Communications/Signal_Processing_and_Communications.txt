@@ -1,0 +1,16 @@
+
+Determining Signal Similarities
+https://youtu.be/oCcUm0_rUJw&list=PLn8PRpmsu08oJyMJp7Lhkyf9KLG8CbAJB
+
+Digital Filtering
+https://youtu.be/N_v4xBsEwaM&list=PLn8PRpmsu08oJyMJp7Lhkyf9KLG8CbAJB
+
+Performing Peak Analysis
+https://youtu.be/_Lp-FUqRS0g&list=PLn8PRpmsu08oJyMJp7Lhkyf9KLG8CbAJB
+
+Signal Smoothing
+https://youtu.be/W6lCo2gSDdA&list=PLn8PRpmsu08oJyMJp7Lhkyf9KLG8CbAJB
+
+What Is DSP System Toolbox - DSP System Toolbox Overview
+https://youtu.be/1QE_h0MQ6ok&list=PLn8PRpmsu08oJyMJp7Lhkyf9KLG8CbAJB
+Signal Processing and Communications

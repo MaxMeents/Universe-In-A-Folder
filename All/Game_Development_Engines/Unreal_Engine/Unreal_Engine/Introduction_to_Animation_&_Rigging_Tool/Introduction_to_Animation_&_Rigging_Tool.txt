@@ -1,0 +1,49 @@
+
+ART Animation & Rigging Toolkit Overview  01  Tutorial Series  Unreal Engine
+https://youtu.be/knbZ_g8Hgvk&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Animation Interface  11  Tutorial Series  Unreal Engine
+https://youtu.be/xXo5lEhChlE&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Customizing Your Mannequin  05  Tutorial Series  Unreal Engine
+https://youtu.be/X7cPJsuKLcc&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Deformation Setup  06  Tutorial Series  Unreal Engine
+https://youtu.be/9bqc99TB1Us&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Editing Your Character  08  Tutorial Series  Unreal Engine
+https://youtu.be/i283O3taGgY&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Getting Started with Animating  09  Tutorial Series  Unreal Engine
+https://youtu.be/eba8eE9x6Oo&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Import & Export Motion Tools  12  Tutorial Series  Unreal Engine
+https://youtu.be/IXyYz-LSAIw&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Joint Mover Toolkit  04  Tutorial Series  Unreal Engine
+https://youtu.be/1guVwZqgPUI&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Matching Over Frame Range  15  Tutorial Series  Unreal Engine
+https://youtu.be/JSGcUkgjKiI&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Overview of the Rig  10  Tutorial Series  Unreal Engine
+https://youtu.be/8aeMreixkE4&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Publishing your Character  07  Tutorial Series  Unreal Engine
+https://youtu.be/zZloTUIHK7Y&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Skeleton Creation  02  Tutorial Series  Unreal Engine
+https://youtu.be/YlEhLWhFetQ&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Skeleton Placement  03  Tutorial Series  Unreal Engine
+https://youtu.be/iHZtD7ZtJ38&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Using the Pose Editor  14  Tutorial Series  Unreal Engine
+https://youtu.be/bv5ESmhufIM&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+ART Using the Space Switcher  13  Tutorial Series  Unreal Engine
+https://youtu.be/igjlxmRcXGM&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+
+Private video
+https://youtu.be/Wu7ZWJbT_bo&list=PLZlv_N0_O1gb2ZoKzTApbv3LvhaXJ9elg
+Introduction to Animation & Rigging Tools (ART)  Unreal Engine

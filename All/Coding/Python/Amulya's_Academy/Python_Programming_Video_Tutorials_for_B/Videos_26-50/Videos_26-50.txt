@@ -1,0 +1,76 @@
+
+Dictionaries in Python Programming  Video Tutorial
+https://youtu.be/NB--uUieY6A&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Dictionary Basic Operations  Insert  Access  Python 2  Python 3
+https://youtu.be/dpDDQiZpx34&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Modules in Python Programming  Video Tutorial
+https://youtu.be/n0IaCI44Dgg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Absolute Ceil Floor Round and Trunc Numeric Functions
+https://youtu.be/VEk8grAgsJM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Anonymous function  Lambda Function
+https://youtu.be/1wjoljgubkM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Dictionary Operations
+https://youtu.be/4b6x89C94V0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Exponential Sqrt Max Min and Log Functions
+https://youtu.be/7sEVk8i7L5Y&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Function types,actual and formal parameters
+https://youtu.be/WC8Mpfth2_Q&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Functions
+https://youtu.be/zTwL-M_o9zw&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Keyword and Default arguments
+https://youtu.be/xalpiDajAtA&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Local and Global variables
+https://youtu.be/_56BAHMuSrU&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Modf Power Pi Degree and Radians Functions
+https://youtu.be/4ailz69tPsg&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - String Functions capitalize count and endswith
+https://youtu.be/15l6-y5Fsmc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - String Functions find length split and title
+https://youtu.be/WmzLb1Mr970&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - String Functions lower upper islower and isupper
+https://youtu.be/IDtJaUPyyMQ&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - String Functions replace isdigit and isalpha
+https://youtu.be/vvyJvSl2io4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - String Functions strip lstrip and rstrip
+https://youtu.be/70juN7N13H0&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Updating Global Variables
+https://youtu.be/fKP2XcLWpCM&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Programming Tutorial - Variable length arguments
+https://youtu.be/UpbABC1_PR4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python range Function  Python Tutorial
+https://youtu.be/XSvmZ2dDv7E&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Dictionary Method  setdefault()
+https://youtu.be/7vcb0VHjmqc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Dictionary Method  update()
+https://youtu.be/dAPs6Hf8bz4&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Dictionary Methods  fromkeys()
+https://youtu.be/51CKtqTVsAc&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - Different Ways to Create Dictionaries in Python 2 and python 3
+https://youtu.be/0WkqO2gEIKs&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+
+Python Tutorial - How To Delete Values in Dictionary  del  pop()  clear()
+https://youtu.be/EnsNV8K_j9Y&list=PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T
+Videos 26-50

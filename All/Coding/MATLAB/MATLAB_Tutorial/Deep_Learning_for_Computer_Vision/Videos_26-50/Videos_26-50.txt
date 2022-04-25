@@ -1,0 +1,76 @@
+
+Chapter1  part26  Video analysis
+https://youtu.be/TPbF9sxHbmY&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part27  Development environment setup
+https://youtu.be/6ny3HuzJvvg&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part28  General Purpose Graphics Processing Unit GP GPU
+https://youtu.be/L5Kegupwy88&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part29  Computer Unified Device Architecture   CUDA
+https://youtu.be/PZ9YKqowx8Y&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter1  part30  CUDA Deep Neural Network   CUDNN
+https://youtu.be/4lG0z5GURhg&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2   part17  Training a model for image classification
+https://youtu.be/QFxqV9BZGXs&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2   part18  Augmenting the dataset
+https://youtu.be/xz8_LDyt_yk&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2   part19  Augmentation techniques
+https://youtu.be/oLbmLV64K1Q&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2   part20  Fine tuning several layers in deep learning
+https://youtu.be/MA1IMc18hWk&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2   part6  Building a multilayer convolutional network
+https://youtu.be/rjOqOSZuewg&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2   part7  Utilizing Tensorboard in deep learning
+https://youtu.be/wosxBGVAthc&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part10  AlexNet
+https://youtu.be/YTenIfEKA0U&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part11  VGG 16 model
+https://youtu.be/b1AZCmJPeiY&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part12  Google Inception V3 model
+https://youtu.be/0H72NCsd3J0&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part13  Microsoft ResNet 50 model
+https://youtu.be/_53abX2928U&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part14  SqueezeNet model
+https://youtu.be/FGE5eKufq8s&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part15  Spatial transformer networks
+https://youtu.be/g2LcYbKx7zA&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part16  DenseNet model
+https://youtu.be/XM_CYmFj1w0&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part2  Training the MNIST model in TensorFlow
+https://youtu.be/ysAWr4oK4nk&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part3  Loading the MNIST data in TensorFlow
+https://youtu.be/kM3Fc8yfTqE&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part4  MNIST data and perceptron neural neywork in TensorFlow
+https://youtu.be/8hAAr2KsiLo&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part5  final output
+https://youtu.be/7uhlJ5pNl3s&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part8  Convolutional Network in keras
+https://youtu.be/-I7_-nkx1ME&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2  part9  image dataset
+https://youtu.be/daDbIJd3koI&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter2 part1 introduction
+https://youtu.be/KcqKgCCJhX4&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+Videos 26-50

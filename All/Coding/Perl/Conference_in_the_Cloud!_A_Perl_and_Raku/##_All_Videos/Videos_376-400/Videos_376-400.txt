@@ -1,0 +1,76 @@
+
+2016 - Basic OO in Perl 6? - Dave Rolsky
+https://youtu.be/7mkmZVIizFY
+
+2016 - big data on little linux - Daniel Sterling
+https://youtu.be/QG9FIFKDKOU
+
+2016 - Everyone's a Critic A Constructive Look at perlcritic? - D. Ruth Bavousett
+https://youtu.be/EXPElOT2fRE
+
+2016 - Everything You Never Knew You Wanted to Ask About Time Series Databases -  Brad Lhotsky
+https://youtu.be/GgBh8XzI6no
+
+2016 - Getting started with modern web development in Perl? - Gabor Szabo
+https://youtu.be/oAkasBMJJ18
+
+2016 - Getting the Most out of Travis CI for Perl - Doug Bell
+https://youtu.be/QeY3ucrjnxc
+
+2016 - Immutable and Continuous Deployments? - Logan Bell
+https://youtu.be/sk-6OSb1QDA
+
+2016 - Introduction to Rex - Doug Bell
+https://youtu.be/nEVgui7-f78
+
+2016 - Lightning Talks Day 3?
+https://youtu.be/2Ln0YHtKgaI
+
+2016 - PONAPI Let's REST? - Mickey Nasriachi
+https://youtu.be/pQTt0yWgKUY
+
+2016 - Practical Consistency? -  David Golden
+https://youtu.be/hTAedFCex2A
+
+2016 - Q&A With Larry Wall?
+https://youtu.be/O8ZmqhaqaYw
+
+2016 - So, you want to host a Perl event - Dan Wright
+https://youtu.be/9bMHY2HsX0E
+
+2016 - Stranger in a Strange Land PostgreSQL for MySQL users - Josh Lavin
+https://youtu.be/sH41r_MOSH0
+
+2016 - Strategies for leading a remote team? - Logan Bell
+https://youtu.be/uW4UX8UBAjg
+
+2016 - Userspace entropy You too can dabble in voodoo!? - Dana Jacobsen
+https://youtu.be/Mv_BmVFuDQM
+
+2016 - VIM as a Perl IDE? - Damian Conway
+https://youtu.be/9u6O0dLuqhI
+
+2016 - Why a new CPAN client cpm is fast? - Shoichi Kaji
+https://youtu.be/CdpBV8BgPI4
+
+2016 - Writing Effective Documentation?  - Doug Bell
+https://youtu.be/T8BIEDdFSwo
+
+2016 - ?Introduction to Perl Testing? - David Oswald
+https://youtu.be/JYGH6I6B6TM
+
+2016 - ?Perl 6 for beginners -- part 1 of 2? - Patrick Michaud
+https://youtu.be/ySch4xpoPA0
+
+2016 - ?Perl 6 for beginners -- part 2 of 2? - Patrick Michaud
+https://youtu.be/ycLU424NPUw
+
+2016 - ?Wading Into the Perl Community with the PRC? - Jason Hall
+https://youtu.be/1KZB1jV_Ygo
+
+2016 - ?Writing your own tools for development? - Andrew Fresh
+https://youtu.be/tESvLTDSl8E
+
+2016 -?Perl's Worst Best Practices? - Daina Pettit
+https://youtu.be/Y1I1KcKvz9Q
+Videos 376-400

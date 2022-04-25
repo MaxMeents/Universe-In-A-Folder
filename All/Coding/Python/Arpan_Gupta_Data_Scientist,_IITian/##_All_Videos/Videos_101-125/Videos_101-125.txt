@@ -1,0 +1,76 @@
+
+apply, lapply and sapply in R
+https://youtu.be/6_3vVGllXCI
+
+Backpropagation Algorithm Neural Networks
+https://youtu.be/Pf7f67BuP2U
+
+Correlation Graph
+https://youtu.be/6Tw8wM90gW0
+
+Cross Validation in R  Arpan Gupta  Data Scientist & IITian
+https://youtu.be/p5rDg4OVBuA
+
+Data Visualization in R
+https://youtu.be/vdBtaKW7ViM
+
+Decision Tree in R
+https://youtu.be/9ED_cw1VjrE
+
+Decision Tree
+https://youtu.be/kG2l1crulC4
+
+Deep learning in R  Arpan Gupta  Data Scientist & IITian
+https://youtu.be/uALv0VkPI30
+
+Deeplearning Vs Machine Learning
+https://youtu.be/JsOGQDvCwF4
+
+How to plot ROC curve in Decision Tree in R
+https://youtu.be/B0ZuGCibYRw
+
+How to Split data into training and testing data set
+https://youtu.be/3EuqjW4QbRA
+
+How to Start H2o framework in R
+https://youtu.be/L_az_T5_sho
+
+How to take average for all columns in one line of code
+https://youtu.be/Aeexphz9Ql8
+
+Machine Learning with R
+https://youtu.be/ruEJi7MvaxQ
+
+Python Classes
+https://youtu.be/75qX675pSv0
+
+Python List Append
+https://youtu.be/o2GvKMgO1Z8
+
+Python List
+https://youtu.be/gYOpHx-FxlA
+
+Python write to file
+https://youtu.be/1rr4wnDBQzo
+
+Regression in R
+https://youtu.be/ySqN7Jta-dk
+
+Summary of Linear Regression Model in R
+https://youtu.be/wC9W-rjr-bw
+
+Tensorflow Python Tutorial
+https://youtu.be/AtO5rxRHM2A
+
+What is Cross validation
+https://youtu.be/NH1t_XfUtas
+
+What is Python List Comprehension
+https://youtu.be/Jnkrq5Fl5k8
+
+What is Tensorflow in Machine Learning
+https://youtu.be/KHpVVFCwxwA
+
+Xgboost in R
+https://youtu.be/GuOw4W_A8VE
+Videos 101-125

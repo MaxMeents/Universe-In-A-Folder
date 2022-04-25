@@ -1,0 +1,22 @@
+
+Binary Search Algorithm in Python  Searching Algorithms  Programming In Python
+https://youtu.be/TpPi5TCSE5Q&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+
+Bubble Sort algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/AthG28-_RuM&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+
+Insertion Sort Algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/ry5MoH0Qigk&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+
+Linear Search Algorithm in Python  Searching Algorithms  Programming In Python
+https://youtu.be/nt48BOyBsR8&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+
+Merge Sort Algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/tRTu9vM7wIw&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+
+QuickSort algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/hxEBHcwqwSo&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+
+Selection Sort Algorithm in Python  Sorting Algorithms  programminginpython.com
+https://youtu.be/5PjDmeNwoOE&list=PLrKr3rQwMgshRwQU_1OmAUgYh_xcF1r5P
+Algorithms

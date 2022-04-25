@@ -1,0 +1,34 @@
+
+RustFest Rome 2018 -   Yiming Jing  One Thousand Ways to Die in Rust FFI
+https://youtu.be/kGj-Fxg5txQ&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Aaron Turon Grappling with growth, and other good problems to have
+https://youtu.be/0sIgVnRAcn0&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Adam Kelly Rust, For Science!
+https://youtu.be/mlqxTfpF9Q4&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Alan Kavishe & Lee Baillie Increasing Rust's Reach Project Highlight
+https://youtu.be/xzzz-1e6HCo&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Igor Matuszewski Caging the SpiderMonkey - Ensuring safe JS bindings in Servo
+https://youtu.be/5etttfaOcNI&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Massimiliano Mantione Fun with Rusty Robots
+https://youtu.be/bmQw5zIP8pA&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Matteo Bertini  Simple CRDT in Rust
+https://youtu.be/CPbhrPPI1Xw&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Neal Walfield Sequoia A New OpenPGP Implementation in Rust
+https://youtu.be/X0CoMREirrI&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Pascal Hertleif Declarative programming in Rust
+https://youtu.be/0W20GPEqbcU&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Ryan Levick Oh Boy! Creating a Game Boy Emulator in Rust
+https://youtu.be/B7seNuQncvU&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+
+RustFest Rome 2018 -  Tshepang Lekhonkhobe Behind The Scenes Of Producing An Executable
+https://youtu.be/EZHnzTk8YaU&list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy
+RustFest Rome 2018

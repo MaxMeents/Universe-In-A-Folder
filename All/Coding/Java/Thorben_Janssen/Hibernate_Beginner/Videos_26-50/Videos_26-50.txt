@@ -1,0 +1,142 @@
+
+Example Lecture Basic Entity Mappings (JPA for Beginners)
+https://youtu.be/QVpQodGBb8U&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Getting started with Hibernate
+https://youtu.be/6TPDK6MOkz4&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate 6 Mappings to Avoid for High-Performance Applications
+https://youtu.be/fKZnw_3D-5c&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Best way to fetch an association defined by a subclass
+https://youtu.be/rEzwgL5jcMM&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Common Exceptions Every Developer Must Know
+https://youtu.be/6htsqYYhlGQ&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate How to Cache DTO Projections
+https://youtu.be/uuPoKipYZl4&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate How to change an attribute before INSERT and UPDATE
+https://youtu.be/gmyidHyg4d8&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Ordering vs Sorting – What should you use
+https://youtu.be/Xm5Ax9D7kyk&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Apply DISTINCT to Your JPQL But Not Your SQL Query
+https://youtu.be/afd1XBRv980&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Control cache invalidation for native queries
+https://youtu.be/UNlxYLBVDMs&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Create an EntityGraph with multiple SubGraphs
+https://youtu.be/TGdL9_9BxU8&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Customize the association mappings using a composite key
+https://youtu.be/syePgeQDTOQ&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Difference between @JoinColumn & @PrimaryKeyJoinColumn
+https://youtu.be/X9Jmn02WxBg&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Difference between @NotNull and @Column(nullable = false)
+https://youtu.be/i4CNH8pi3X4&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to activate an entity listener for all entities
+https://youtu.be/goil35wkPGY&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to Call a Function that returns a SYS_REFCURSOR
+https://youtu.be/U6HQPV9D43E&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to Customize a Constructor Expression for Different Subclasses
+https://youtu.be/95bnQwTPvGY&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to Handle NULL Values while Ordering Query Results in a CriteriaQuery
+https://youtu.be/9mhT-xd9Da0&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to initialize lazy relationships within a query
+https://youtu.be/oHYkQ5hQQe8&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to integrate an external query builder
+https://youtu.be/Tc-1i9PzZOw&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to Join Unassociated Entities in a Criteria Query
+https://youtu.be/wBD66qYcKuU&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to lazily load one-to-one associations
+https://youtu.be/qRWhFkB1D8c&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How To Map an Entity to a Query
+https://youtu.be/4deURytlQLI&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to map the latest element of an association
+https://youtu.be/3dCrlEGNnLs&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to override column mappings of a superclass
+https://youtu.be/GtldqkjNN-c&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip How to use @ElementCollection entries in a query
+https://youtu.be/ZIUNfJAhDv4&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Many-to-Many Association with additional Attributes
+https://youtu.be/RVlSVPATJio&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Map 1 Entity Attribute to  2 Columns
+https://youtu.be/0uN3UyhssMQ&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Map a bidirectional one-to-one association with shared composite primary key
+https://youtu.be/gISfIcLMykE&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Map an Unidirectional One-to-Many Association Without a Junction Table
+https://youtu.be/E8aWycVPebU&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Perform different validations for persist and update
+https://youtu.be/7Y9nEh887no&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Prevent the Removal of a Parent Entity with Children
+https://youtu.be/Jmcord4_ghY&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip SINGLE_TABLE strategy without discriminator column
+https://youtu.be/elG0EBQCW8o&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip The best way to work with scalar projections
+https://youtu.be/g34V7V6Ic_c&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Using LEFT JOIN and FETCH JOIN in a CriteriaQuery
+https://youtu.be/0Tgd5StMDuU&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip Validate that only 1 of 2 associations is not null
+https://youtu.be/VYkje7ng_ac&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip What’s the best way to persist a ZonedDateTime
+https://youtu.be/QkCdlpBYCxY&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Hibernate Tip What’s the Difference Between @Column(length=50)  and @Size(max=50)
+https://youtu.be/dk8XfhrHFuc&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Implementing Batch Jobs with Hibernate
+https://youtu.be/COrDelJMWqw&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Java Records How to use them with Hibernate and JPA
+https://youtu.be/033eo4t2mBY&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+JPA & Hibernate Entity Lifecycle Model
+https://youtu.be/Y7PpjerZkc0&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Localized Data How to Map It With Hibernate
+https://youtu.be/Xukv8rnnc8Y&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Lombok & Hibernate How to Avoid Common Pitfalls
+https://youtu.be/j_hEdLPDczI&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Private video
+https://youtu.be/lv2Ne1gm-3w&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+ResultTransformer with Hibernate 4 5 & 6
+https://youtu.be/DmlwmeuYxvg&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Ultimate Guide to Implementing Equals & HashCode with Hibernate & JPA
+https://youtu.be/YoF3RcxbVQ4&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+
+Your 2 best options to fix Hibernate's MultipleBagFetchException
+https://youtu.be/8IHUFYVgRe4&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR
+Videos 26-50

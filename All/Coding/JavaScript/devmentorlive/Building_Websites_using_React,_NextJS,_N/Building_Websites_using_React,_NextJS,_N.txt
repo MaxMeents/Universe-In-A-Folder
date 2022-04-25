@@ -1,0 +1,7 @@
+
+Building Websites using NextJS and TailwindCSS - Installation and Setup  [JavaScript 20201]
+https://youtu.be/Ak31wWRidRQ&list=PL7LIfgWox4lrKPImkaTrZmFuvzG9y1tB9
+
+EASY Authentication for NextJS Apps! NextAuth.js
+https://youtu.be/Ei-qKP3B49E&list=PL7LIfgWox4lrKPImkaTrZmFuvzG9y1tB9
+Building Websites using React, NextJS, NextAuth, MongoDB, and TailwindCSS

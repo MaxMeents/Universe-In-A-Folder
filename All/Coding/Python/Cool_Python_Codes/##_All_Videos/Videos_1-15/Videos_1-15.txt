@@ -1,0 +1,43 @@
+
+Android App  to control cars using the phone's accelerometer in NFS Most Wanted 2013 for PC
+https://youtu.be/tUEILQhkzAY
+
+How do I know which version of Python I have
+https://youtu.be/u8IVf01pTsE
+
+how to define a function in python
+https://youtu.be/5spR5ksSkGg
+
+How to get all the keywords in Python
+https://youtu.be/z74EPZVnDZk
+
+How to run Python code on Android(Quick and Easy)
+https://youtu.be/IZkiiaEZVJo
+
+How to use filter() in Python 3 to write a program
+https://youtu.be/n91VMb_XKJ8
+
+How to use lamba with filter() and map() to write a program in Python 3
+https://youtu.be/cMX_jULjZBM
+
+How to use lambda function to write a program in Python3
+https://youtu.be/QSJPtUrgBDs
+
+How to use Python map to write a program(quick and simple guide)
+https://youtu.be/4rp51R9XCAg
+
+Image Processing Project- Gesture driven Virtual Keyboard using OpenCV + Python
+https://youtu.be/Yv-3u5VXOQ4
+
+Image Processing Project- Motion Gesture Recognition using OpenCV +Python
+https://youtu.be/Y_cCCBfsAFE
+
+Image Processing Project- Two Hand Motion Gesture Recognition with OpenCV +Python
+https://youtu.be/idDlAN4Fvnw
+
+Machine learning Project demo video(identify colors of object with a webcam)
+https://youtu.be/TWWwcGvJ_u0
+
+My Live stream with DU Recorder
+https://youtu.be/MHZdKkXzDNw
+Videos 1-15

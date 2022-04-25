@@ -1,0 +1,16 @@
+
+Creating Complex In-Game Effects  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/Vhsllsv53K0&list=PLZlv_N0_O1gbRdp_2fmNxPCxPaSIsBSX5
+
+Fortnite Trailer Pipeline  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/LS0VsMMTaQA&list=PLZlv_N0_O1gbRdp_2fmNxPCxPaSIsBSX5
+
+Lighting with Unreal Engine Masterclass  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/ihg4uirMcec&list=PLZlv_N0_O1gbRdp_2fmNxPCxPaSIsBSX5
+
+Paragon Character Texturing Pipeline  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/nVes6OUyzdw&list=PLZlv_N0_O1gbRdp_2fmNxPCxPaSIsBSX5
+
+UE4 Performance and Profiling  Unreal Dev Day Montreal 2017  Unreal Engine
+https://youtu.be/hcxetY8g_fs&list=PLZlv_N0_O1gbRdp_2fmNxPCxPaSIsBSX5
+Masterclass

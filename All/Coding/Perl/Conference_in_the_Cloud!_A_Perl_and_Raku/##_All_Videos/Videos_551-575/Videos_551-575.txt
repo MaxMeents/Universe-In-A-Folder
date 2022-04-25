@@ -1,0 +1,76 @@
+
+Bill Humphries (whump) - Perl Meets Modern Web UI
+https://youtu.be/jEzgzMzgekU
+
+Bruce Gray (Util) - Exception to Rule
+https://youtu.be/8IDK4Fro7_M
+
+Curtis Poe (Ovid) - Testing with TestClassMoose
+https://youtu.be/S1Z5_Ba860g
+
+Dan Wright (?ehdonhon?) - TPF Year in Review
+https://youtu.be/kq2IIeexA0M
+
+Deb Nicholson - Software Patents Who's Behind the Curtain
+https://youtu.be/XwXVMrP3_e4
+
+Joe Axford (j0e) - Notes from a Newbie
+https://youtu.be/PkbfJQ8NfKA
+
+John Anderson (genehack) - Automate Yo'self
+https://youtu.be/ZEjMtg3u2YE
+
+John Anderson (?genehack) - Welcome
+https://youtu.be/dUTZUGaJaMQ
+
+Kevin Metcalf - Student Perl Code, Head-Desk Injuries and You
+https://youtu.be/oK-TjPScIEw
+
+Larry Wall (?TimToady?) - Perl 6
+https://youtu.be/mxLIQxSda0E
+
+Larry Wall - Stranger than Fact
+https://youtu.be/euzGIcwAtWQ
+
+Lightning Talks Monday
+https://youtu.be/wFXWV2yY7gE
+
+Liz - How the Camel is de-cocooning
+https://youtu.be/T4k3otua4tU
+
+Mark Keating (?mdk?) - Perl is Awesome the death and life of Perl
+https://youtu.be/hHy5h6ZRL6M
+
+Mark Smith - Sowing the Seeds of Diversity
+https://youtu.be/H_AF3IAjvEY
+
+Marty Pauley (?maokt?) - nix Fun with Perl
+https://youtu.be/CV0XN2SfWHo
+
+Nathan Gray (kolibrie) - Unit test CGI Scripts with mod_perl2 via Plack
+https://youtu.be/hn1VbaaIjj0
+
+Nicholas Perez (nperez) - It's All About the CloudPAN
+https://youtu.be/smofbHBRHSI
+
+Olaf Alders (oalders) - (Ab)using the MetaCPAN API for Fun and Profit
+https://youtu.be/J8ymBuFlHQg
+
+Peter Martini - Getting to sub signatures
+https://youtu.be/YvnIcLc2Nrs
+
+R Geoffrey Avery (?rGeoffrey?) - Lightning Talks Day 1
+https://youtu.be/fpxJHuopS5Y
+
+Reini Urban (rurban) - Design Decisions on p2
+https://youtu.be/aKru591-6Xw
+
+Sawyer X - Asynchronous Programming FTW
+https://youtu.be/BUxwvzMs_ic
+
+Tokuhiro Matsuno (?tokuhirom?) - ?plenv Yet Another Perl5 Installation Management Tool?
+https://youtu.be/ZP_SMO9cXTU
+
+Yusuke Wada (yusukebe) - Inside Bokete Tips of making web applications with Mojolicious
+https://youtu.be/l_-zk4h05rU
+Videos 551-575

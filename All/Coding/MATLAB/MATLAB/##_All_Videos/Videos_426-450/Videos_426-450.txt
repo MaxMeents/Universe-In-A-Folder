@@ -1,0 +1,76 @@
+
+Advanced Programming Techniques in MATLAB  Master Class with Loren Shure
+https://youtu.be/kE4SUA392_I
+
+An Introduction to Requirements  Systems Engineering, Part 4
+https://youtu.be/Iblo2Il-pOA
+
+Build a Collision Warning System with 2D Lidar Using MATLAB
+https://youtu.be/UC3ndKheLls
+
+Classify Data Using the Classification Learner App
+https://youtu.be/snOObq3n_W0
+
+Create a MathWorks Account (Using a MATLAB portal)
+https://youtu.be/-0K7Bhk0bAU
+
+Deep Learning in Simulink for NVIDIA GPUs Generate CUDA Code Using GPU Coder
+https://youtu.be/2ApfbhphlV8
+
+Deep Learning Overview for Images and Video  Master Class with Loren Shure
+https://youtu.be/GfC5fTiZH_4
+
+Deploying MathWorks Software
+https://youtu.be/vTXWE61Guq4
+
+Developing a Pick-And-Place Application in MATLAB and Simulink
+https://youtu.be/8dhnxpo_WOw
+
+Five Practical Tips to Speed Up Your Simulink Simulations Model References and Simulink Cache
+https://youtu.be/dOKfnlPuX3k
+
+Heat Transfer Analysis Using Finite Element Method (FEM) in MATLAB  Part 2
+https://youtu.be/eBgdtOY6Z58
+
+How to Build a GUI in MATLAB using App Designer
+https://youtu.be/nb0jHVXKY2w
+
+How to Visualize Multivariable Functions in MATLAB
+https://youtu.be/G9THGoGjNlo
+
+Image Processing Made Easy - MATLAB Video
+https://youtu.be/w658E77PQ4s
+
+Install an Individual License
+https://youtu.be/R6Zt0DwOWRg
+
+MATLAB in the Cloud
+https://youtu.be/lAb3lXponQw
+
+Reinforcement Learning for Ball Balancing Using a Robot Manipulator
+https://youtu.be/i9YK682-SsI
+
+ROS and ROS 2 Using MATLAB and Simulink
+https://youtu.be/BPj1bsnlDcQ
+
+Simulink Basics - A Practical Look
+https://youtu.be/QIAxyLchf4k
+
+Solving Optimization Problems with MATLAB  Master Class with Loren Shure
+https://youtu.be/4wgI3-RQqTY
+
+Some Benefits of Model-Based Systems Engineering  Systems Engineering, Part 5
+https://youtu.be/ABtFFxxRWF4
+
+Structural Analysis Using Finite Element Method (FEM) in MATLAB  Part 1
+https://youtu.be/-i366j61vok
+
+The Benefits of Functional Architectures  Systems Engineering, Part 3
+https://youtu.be/UTm1ORuZ1dg
+
+Update Your Campus-Wide License
+https://youtu.be/_qq2gVlmu1k
+
+What Is Optimization Toolbox
+https://youtu.be/XGx74KDCFMo
+Videos 426-450

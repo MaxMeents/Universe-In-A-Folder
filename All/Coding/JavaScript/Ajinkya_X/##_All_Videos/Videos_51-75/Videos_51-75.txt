@@ -1,0 +1,76 @@
+
+01 Build Fullstack React Applications ⚛️
+https://youtu.be/NNHfB5nMvn4
+
+02 Fullstack React Setup
+https://youtu.be/JK1dS4nUJc0
+
+03 Fullstack React - Folder structure
+https://youtu.be/kPdVMCV_xSQ
+
+Angular 2 Beginners tutorial Create Web Application #03 🔥
+https://youtu.be/36ry61f4n50
+
+Angular 2 Connect to Firebase Database ⚛️ video #09
+https://youtu.be/roLRe6nXlp8
+
+Angular 2 Firebase Authentication part 1 🔥#16
+https://youtu.be/CSi_C_hISFA
+
+Angular 2 Firebase Authentication part 2 🔥#17 (Login with Google, EmailPassword)
+https://youtu.be/_VeXby9A-qE
+
+Angular 2 Install Firebase, AngularFire2 🔥 video #08
+https://youtu.be/829GzjmovV8
+
+Angular 2 Pagination with Firebase 🔥#12
+https://youtu.be/rMy_h8wI3Uo
+
+Angular 2 Pagination with Stateless Service #14
+https://youtu.be/AUvmf5HLnxM
+
+Angular 2 Parent-Child Data Communication Patterns
+https://youtu.be/nwB_7uE7kjg
+
+Angular 2 Populate Shallow Database in Firebase (NEW) #13
+https://youtu.be/qoALnWa_VB0
+
+Angular 2 ROUTES Basics  Angular 2 Web Application #11
+https://youtu.be/I9UG2tUQDMw
+
+Angular 2 RxJs Behaviour-Subject - Stateful Service #15
+https://youtu.be/IpM3oUPuGME
+
+Angular 2 Singleton Service, Observables, Make $http request #06
+https://youtu.be/IrhP7bBlZXI
+
+Angular Dynamically Loading Components #05
+https://youtu.be/LjCOe1PcP5g
+
+ASYNC pipe with Rxjs Observables  Angular 2 Web Application #07
+https://youtu.be/4DYAVAumS5k
+
+Crack Angular 8  Javascript Interview - Crash course
+https://youtu.be/TqBDr4OK4pU
+
+Create Angular Web Application video #03 [NEW LINK BELOW]
+https://youtu.be/CFprzSiGDG4
+
+DOM Manipulation in Angular 2 Web Application #04
+https://youtu.be/uwHE67T8NfM
+
+Firebase Relational DB  Angular 4 Web App #13
+https://youtu.be/hd3p_q6hTyk
+
+Populate Firebase DATABASE 🔥 Angular 2 Web App #10
+https://youtu.be/IVG0YS7nIG0
+
+Should you pick AngularJS 1 or Angular 2 or Angular 4  video 00
+https://youtu.be/e2v35OHiZyg
+
+Sound Forge Audio Studio 10 GIVEAWAY
+https://youtu.be/1s_D5BklZK0
+
+Which version of ANGULAR should YOU choose
+https://youtu.be/e2DVkqCW5Fg
+Videos 51-75

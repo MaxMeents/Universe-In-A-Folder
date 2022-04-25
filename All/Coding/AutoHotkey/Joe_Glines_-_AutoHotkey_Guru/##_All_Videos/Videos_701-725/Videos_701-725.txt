@@ -1,0 +1,76 @@
+
+AHK Studio Auto Closing Parens, Braces, Quotes, etc.
+https://youtu.be/1lFW-51rUcs
+
+AHK Studio Auto Indent and Centering the  Caret
+https://youtu.be/pKQTE5S10QY
+
+AHK Studio Automatic Backups and Version control + Push to Github
+https://youtu.be/fHL5cdxP2yo
+
+AHK Studio Controlling the windows on screen like Project Explorer, Toolbars, etc.
+https://youtu.be/iKmYXiGE2Bk
+
+AHK Studio Creating a Toolbar
+https://youtu.be/1fH5YJY-lGE
+
+AHK Studio Dump text to the Output  Debug Window
+https://youtu.be/bxg9cj6iuPc
+
+AHK Studio Finding text across files & easily see their content
+https://youtu.be/PoTAag1OvIU
+
+AHK Studio Getting AHK Syntax help and Studio Menu Help
+https://youtu.be/0XGKYEYuEZc
+
+AHK Studio Getting Intellisense for items not in your file (Includes)
+https://youtu.be/aTo-ecsiw5E
+
+AHK Studio Hotstrings on Crack   Edit Replacements
+https://youtu.be/97td_3rmCJA
+
+AHK Studio Inserting & toggling comments
+https://youtu.be/5dbM-A7yz6M
+
+AHK Studio Jumping to functions, labels, classes
+https://youtu.be/J0cn0U1uHic
+
+AHK Studio Level-up Using the Debug Features
+https://youtu.be/ERyKuJ5Ogwo
+
+AHK Studio Opening non AHK files in Studio
+https://youtu.be/n1g2EyYJFlk
+
+AHK Studio Quick Find Search Replace
+https://youtu.be/GWKYSmCZ2FM
+
+AHK Studio Run Selected Text and Displaying Current Hotkeys
+https://youtu.be/llHPyZItDJk
+
+AHK Studio Second method to Find and multi line type
+https://youtu.be/qL9Ti5UtbKI
+
+AHK Studio Selecting and Customizing your Theme
+https://youtu.be/_d2EJ7D9TYM
+
+AHK Studio Showing White space and End of Line (EOL)
+https://youtu.be/rw5BinT2sto
+
+AHK Studio What to do when Studio won't load
+https://youtu.be/Gd2AntSOlvU
+
+AutoHotkey Las Vegas Convention
+https://youtu.be/bcTmfEvO2MM
+
+AutoHotkey Podcast 009 What AutoHotkey is NOT ideal for
+https://youtu.be/2DzcfdA7MX8
+
+AutoHotkey Podcast 010 What AutoHotkey is Good for
+https://youtu.be/rGQNx1Rl4pU
+
+AutoHotkey Webinar 032019 Hour 1- Recursion
+https://youtu.be/vwlrtgY5N9E
+
+AutoHotkey Webinar 032019 Hour 2- Recursion Q&A
+https://youtu.be/uiUzMONbCUo
+Videos 701-725

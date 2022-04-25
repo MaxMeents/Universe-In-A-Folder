@@ -1,0 +1,76 @@
+
+10 Reasons Why I Abandoned Storyboards and Interface Builder
+https://youtu.be/g6yz5oX5iWc
+
+Firebase Chat App Swift 3 migration, fix Keychain Sharing, and purge console garbage (Ep 24)
+https://youtu.be/ICEB51UE6sU
+
+First Time Meeting a Fan in Real Life
+https://youtu.be/D4vsm6g1sms
+
+Let's Build Twitter! (Sneak Peek)
+https://youtu.be/WXwmty7osmw
+
+Lets Build That App Live Stream Q&A Ask me anything!
+https://youtu.be/M1509QJWPJ8
+
+Moving Forward and Open Sourcing LBTAComponents
+https://youtu.be/JIDOjq4HQjU
+
+Swift 3 Audible - Creating our Login View and Keyboard Observing (Ep 5)
+https://youtu.be/rf0KWLGuvVc
+
+Swift 3 Audible - Hijacking Root View Controller from AppDelegate (Ep 8)
+https://youtu.be/uETyLoAaJVM
+
+Swift 3 Audible - How to handle Landscape and Portrait Orientation (Ep 7)
+https://youtu.be/YY06LNJ1mGY
+
+Swift 3 Audible - How to Implement Skip and Next Buttons (Ep 6)
+https://youtu.be/hg620whO5Kc
+
+Swift 3 Audible - Protocols and Custom Delegation (Ep 9)
+https://youtu.be/Ldz-J7Xrk28
+
+Swift 3 Audible - Tracking Current Page and Constraint Animations (Ep 4)
+https://youtu.be/y1Jvq1PZ0gA
+
+Swift 3 Audible - UserDefaults to Save Logged In State (Ep 10)
+https://youtu.be/gjYAIXjpIS8
+
+Swift 3 Firebase Social Login - Facebook Authentication and Cocoapods
+https://youtu.be/iSszeW1aH6I
+
+Swift 3 Firebase Social Login - Facebook Email and Custom Login Button (Ep 2)
+https://youtu.be/Tl_uCGjCZd8
+
+Swift 3 Firebase Social Login - Firebase SDK and Sign In Facebook User (Ep 3)
+https://youtu.be/64OKb60tBJ0
+
+Swift 3 Firebase Social Login - Google Sign In (Ep 4)
+https://youtu.be/rDKtMz_PcLQ
+
+Swift 3 Firebase Social Login - How to implement Twitter Login (Ep 5)
+https://youtu.be/jeRsyGLXvYA
+
+Swift 3 YouTube - Migrating to Xcode 8 and Swift 3.0 (Ep 20)
+https://youtu.be/29DWwkQ7MJ4
+
+Swift Audible - Migrating to Swift 3 and Adding UIPageControl (Ep 3)
+https://youtu.be/XoA6kQ8Ujf4
+
+Swift Twitter - Headers, Cells, and Footers (Ep 1)
+https://youtu.be/2fcf9yFe944
+
+Swift Twitter - Integrating LBTAComponents (Ep 2)
+https://youtu.be/9ZCoLepLu0w
+
+Swift Twitter - User Cell Design (Ep 4)
+https://youtu.be/p_ak_ORr3KY
+
+Swift Twitter - User Cell Subview Layout (Ep 3)
+https://youtu.be/wN_vhAjnGvo
+
+Top 5 Programming Languages to Learn for 2017
+https://youtu.be/SBVVtvQ-HBE
+Videos 351-375

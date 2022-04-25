@@ -1,0 +1,76 @@
+
+Dictionaries in Python Programming  Video Tutorial
+https://youtu.be/NB--uUieY6A&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Modules in Python Programming  Video Tutorial
+https://youtu.be/n0IaCI44Dgg&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Absolute Ceil Floor Round and Trunc Numeric Functions
+https://youtu.be/VEk8grAgsJM&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Anonymous function  Lambda Function
+https://youtu.be/1wjoljgubkM&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Dictionary Operations
+https://youtu.be/4b6x89C94V0&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Exception Handling (Part-1)
+https://youtu.be/vNroINvugAc&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Exception Handling part 2
+https://youtu.be/1qZyUGyf5U4&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Exponential Sqrt Max Min and Log Functions
+https://youtu.be/7sEVk8i7L5Y&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - File handling
+https://youtu.be/okz3lWAFMZU&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Function types,actual and formal parameters
+https://youtu.be/WC8Mpfth2_Q&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Functions
+https://youtu.be/zTwL-M_o9zw&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Keyword and Default arguments
+https://youtu.be/xalpiDajAtA&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - List vs Dictionaries
+https://youtu.be/6dU5VfefG94&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Local and Global variables
+https://youtu.be/_56BAHMuSrU&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Managing Directories
+https://youtu.be/_4nGCtd2x7M&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Modf Power Pi Degree and Radians Functions
+https://youtu.be/4ailz69tPsg&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Renaming and Deleting files
+https://youtu.be/WnamrvcB6cs&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - String Functions capitalize count and endswith
+https://youtu.be/15l6-y5Fsmc&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - String Functions find length split and title
+https://youtu.be/WmzLb1Mr970&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - String Functions lower upper islower and isupper
+https://youtu.be/IDtJaUPyyMQ&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - String Functions replace isdigit and isalpha
+https://youtu.be/vvyJvSl2io4&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - String Functions strip lstrip and rstrip
+https://youtu.be/70juN7N13H0&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Updating Global Variables
+https://youtu.be/fKP2XcLWpCM&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Programming Tutorial - Variable length arguments
+https://youtu.be/UpbABC1_PR4&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+
+Python Tutorial - range vs xrange function
+https://youtu.be/d_mxzMas2p8&list=PLzgPDYo_3xukVT-9RT6TIS7SGO4B2pHs3
+Videos 26-50

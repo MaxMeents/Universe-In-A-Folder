@@ -1,0 +1,55 @@
+
+Adam Bien - Java, Clouds and Cost Driven Architectures #lowslides (Keynote)
+https://youtu.be/kl_Hu38nK34&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Alex Soto - Winning the hybrid cloud
+https://youtu.be/sOgLA0HlCpo&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Ana-Maria Mihălceanu - Techniques for maintainable Quarkus Applications
+https://youtu.be/4u8xabnwKu4&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Burr Sutter - Dev^Ops Raising Devs to the power of Ops (Keynote)
+https://youtu.be/y6Zv0cYLmcU&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Hans-Peter Grahsl&Gunnar Morling - Dissecting our Legacy The Strangler Fig Pattern with ...
+https://youtu.be/rl06nAIdIhQ&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Johan Janssen - How and Why to Upgrade to Java 17
+https://youtu.be/N9ATMhH2bL0&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Josh Long - Bootiful Edge Services (Keynote)
+https://youtu.be/lp5bSfNHHZg&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Kevlin Henney - Software is details (Keynote)
+https://youtu.be/9hlBEI-3Gro&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Ko Turk - [LIVE CODING] Own your software by using Micrometer and Spring Boot  Micronaut!
+https://youtu.be/Sv9wh2MA3KQ&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Mete Atamel - Choreography vs Orchestration in serverless microservices
+https://youtu.be/i3mUg-lNYiI&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Mohamed Taman - Do you use Optional class as it should be
+https://youtu.be/_O81ve3ChG0&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Nicolas Frankel - Introduction to data streaming
+https://youtu.be/dNPu8XWeZwI&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Oana Brezai - More on More Like This Recommendations in SOLR
+https://youtu.be/X_ZYpaT9a5M&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Piotr Przybyl - Sailing modern Java
+https://youtu.be/wNRKWwmiTS8&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Roy Braam - End-to-End test architectures, a dead End road
+https://youtu.be/Jo-_6c_kuLg&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Rustam Mehmandarov - 5 tips on creating modern, cloud-native applications
+https://youtu.be/6SHBpO0e4xI&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Tom Cools - Advanced Testing Patterns
+https://youtu.be/rGxNcrfix_M&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+
+Vlad Cârcu-Dobrin - Enforcing Best Practices Through Design (Keynote)
+https://youtu.be/zPYmH7s3988&list=PLRsbF2sD7JVpsLBhP8Grz2henLimijXQU
+Videos 26-43

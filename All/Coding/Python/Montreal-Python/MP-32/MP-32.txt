@@ -1,0 +1,25 @@
+
+ddbmock tests avec DynamoDB rapides et efficaces #MP32
+https://youtu.be/ikZsciz5tF0&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+DynamoDB and DynamoDB-Mapper #MP32
+https://youtu.be/0RImm7EvIJw&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+Gevent-socketio, cross-framework real-time web live demo #MP32
+https://youtu.be/xi4PNVk0RIc&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+Génération de courriels avec Genshi #MP32
+https://youtu.be/gKKzO1DQNBk&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+Hacking Corruption 2012 Explained By Michael Lenczner #MP32
+https://youtu.be/_hdPkgdnHFo&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+How you can contribute to Python #MP32
+https://youtu.be/wTDuOlmqIg4&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+Réseau Libre  un réseau Mesh à Montréal #MP32
+https://youtu.be/Dzequ8RzlxA&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+
+Shinken  quand un Python rencontre Nagios #MP32
+https://youtu.be/6qAEOozgYwU&list=PLQIcnBElABavvthvNB61pOiHpFyVEt_pi
+MP-32

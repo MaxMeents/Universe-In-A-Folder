@@ -1,0 +1,76 @@
+
+After Effects for iOS Developers Dynamic Content in Animations
+https://youtu.be/2HhgLir6Jz0
+
+ARKit Tutorial Simple Augmented Reality Game
+https://youtu.be/R8U8rGdMop4
+
+Core ML Tutorial Create a Simple Machine Learning App - Image Classification
+https://youtu.be/NNKPbdT9gXU
+
+iOS Design Tutorial Designing with standard UIKit components - A Christmas App 2124 🎄
+https://youtu.be/c-69OF2pSVo
+
+iOS Swift Tutorial Animations with Auto Layout 1524 🎄
+https://youtu.be/Di6tGjYAl2M
+
+iOS Swift Tutorial Basic Custom Camera App - AVFoundation
+https://youtu.be/Zv4cJf5qdu0
+
+iOS Swift Tutorial Create a simple 3D Game with Scene Kit
+https://youtu.be/haZmF3ZYIYc
+
+iOS Swift Tutorial Create a Weather App from Scratch
+https://youtu.be/doqtsIsbtqs
+
+iOS Swift Tutorial Create Custom Segue Transition Animations 1124 🎄
+https://youtu.be/jn-93qElOT4
+
+iOS Swift Tutorial Customize Table Views 1424 🎄
+https://youtu.be/WTxOsh3z6vw
+
+iOS Swift Tutorial From Sketch Design to Real App with Standard Components - 2424 🎄
+https://youtu.be/D1JMZIJrmKw
+
+iOS Swift Tutorial Get started with Core Data and Swift 3 - A Present App
+https://youtu.be/bnxQQgHL1hM
+
+iOS Swift Tutorial Get started with UITableView 1324 🎄
+https://youtu.be/cWtCt8GFSDg
+
+iOS Swift Tutorial Guide to Using JSON Data from the Web
+https://youtu.be/_c0pAz3UPEs
+
+iOS Swift Tutorial Insane Animations with AfterEffects and Lottie
+https://youtu.be/ESjFEaZx7UI
+
+iOS Swift Tutorial Interactive Animations with After Effects and Lottie
+https://youtu.be/QyL-jp9bFdM
+
+iOS Swift Tutorial Interactive Core Graphics with PaintCode
+https://youtu.be/5KXtbkP49Z8
+
+iOS Swift Tutorial Rich and Interactive Notifications - iOS 10
+https://youtu.be/e7cTZ4Tp25I
+
+iOS Swift Tutorial UIAlertController Tips & Tricks 1624 🎄
+https://youtu.be/lwhGTS2hPeQ
+
+iOS Swift Tutorial UINavigationBar Customization - Tips & Tricks
+https://youtu.be/gUhhFPTKCrE
+
+iOS Swift Tutorial UITextView Tips and Tricks 1224 🎄
+https://youtu.be/oienPcLcbkA
+
+iOS Swift Tutorial Use Segues for Visual Transitions between View Controllers 1024 🎄
+https://youtu.be/OZix7etsd8g
+
+iOS Swift Tutorial Working with Camera & Photo Library - UIImagePickerController 1724 🎄
+https://youtu.be/4CbcMZOSmEk
+
+MacBook Pro with Touch Bar. Good for developers
+https://youtu.be/ac7HIQFwmgc
+
+WWDC17, Xcode 9 and Swift Tutorial Conference 2017
+https://youtu.be/ddtRHCYyS44
+Videos 76-100

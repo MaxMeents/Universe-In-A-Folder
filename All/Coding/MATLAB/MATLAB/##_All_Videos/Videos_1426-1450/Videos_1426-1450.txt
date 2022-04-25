@@ -1,0 +1,76 @@
+
+Automatic Project Creation - Simulink Tutorial
+https://youtu.be/_F-Phmzri9Y
+
+Contact Modeling with Simscape
+https://youtu.be/VZIG0HlBHC4
+
+Data Type Exploration and Visualization of Signal Ranges
+https://youtu.be/jeyfSKp8TCs
+
+Deploying a Deep Learning Network on NVIDIA Jetson Using GPU Coder - MATLAB Tutorial
+https://youtu.be/0BjSC6nsk5Y
+
+ECU Tuning and Data Logging Using CAN and Simulink
+https://youtu.be/2UfdusKjAMs
+
+Editing at the Speed of Thought with Simulink - What's New in Simulink
+https://youtu.be/yF9-4cGa3eU
+
+Estimating Direction of Arrival with MATLAB
+https://youtu.be/Sz_4jJKjPIQ
+
+Generating CUDA Code from MATLAB Code - MATLAB Tutorial
+https://youtu.be/emVRH4HfhQY
+
+How to Create a GUI with GUIDE - MATLAB Tutorial
+https://youtu.be/Ta1uhGEJFBE
+
+How to Make a Matrix in a Loop in MATLAB - MATLAB Tutorial
+https://youtu.be/ESpvG6cgY5c
+
+How to Write a MATLAB Program - MATLAB Tutorial
+https://youtu.be/zr_aB7V79DE
+
+Implementing Image Processing and Vision Algorithms in Fixed Point and Single Precision
+https://youtu.be/rZkb_NVmhh8
+
+Mechatronics with MATLAB and Simulink, Part 11 Playing Pinball Just Like Ben Heck
+https://youtu.be/QVOqzEmLw0I
+
+Model Coverage - Simulink Tutorial
+https://youtu.be/YG90N8KiWHU
+
+Production Code Coverage Tool for Simulink and Embedded Coder
+https://youtu.be/bof_SC_NXuA
+
+Programming ECUs Using Simulink
+https://youtu.be/EK505A5AcrU
+
+Programming the VEX ARM-Cortex Using Simulink
+https://youtu.be/6Q9fDpob9vY
+
+Prototyping Audio Processing Applications on a Raspberry Pi
+https://youtu.be/cwY45Ur0Teo
+
+Release 2017b Highlights
+https://youtu.be/PcEoqPXFP8U
+
+Running Massive Parallel Simulations in Simulink - Wha'ts New in Simulink
+https://youtu.be/T-4jClbYJvs
+
+Simulink Design Patterns for Partitioning and Scheduling - What's New in Simulink
+https://youtu.be/EM5Us0KS-5I
+
+Simulink Quick Start for Student Competition Teams
+https://youtu.be/ajVN2Pd-p20
+
+Vehicle Modeling Using Simscape
+https://youtu.be/cFg9k5SVHGo
+
+Walking Robots, Part 3 Trajectory Optimization - MATLAB and Simulink Robotics Arena
+https://youtu.be/-dEX1SZOZEY
+
+ディープラーニング：製造現場で使える画像による異常検知 ～キズあり「ナット」の発見～
+https://youtu.be/brNuygyOmBQ
+Videos 1426-1450

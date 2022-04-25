@@ -1,0 +1,25 @@
+
+Rusty Days 2020 -  Nell Shamrell - Harrington The Rust Borrow Checker - A Deep Dive
+https://youtu.be/knhpe5IUnlE&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Jan-Erik Rediger Leveraging Rust to build cross-platform mobile libraries
+https://youtu.be/j5rczOF7pzg&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Lachezar Lechev Drone Control - Controlling a drone using Rust over WiFi
+https://youtu.be/e2mJq9qm_Io&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Luca Palmieri Are we observable yet
+https://youtu.be/HtKnLiFwHJM&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Michalina Kotwica Low-level optimization of algebraic and similar structures
+https://youtu.be/qBlEi7szSkU&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Peter Parkanyi Fast encrypted backups with Rust
+https://youtu.be/rspSTNDap5A&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Steve Klabnik Should we have a Rust 2021 edition
+https://youtu.be/7LynNMrS8Z0&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+
+Rusty Days 2020 - Tim McNamara How 10 open source projects manage unsafe code
+https://youtu.be/9M0NQI5Cp2c&list=PL85XCvVPmGQjExxqoVGORVt93pudDHGXl
+Rusty Days 2020

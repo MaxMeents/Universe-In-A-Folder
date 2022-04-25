@@ -1,0 +1,76 @@
+
+12 July 2018 Meeting
+https://youtu.be/ZtQCYVZObhI
+
+19 July 2018 Meeting
+https://youtu.be/2NhyayMSMCM
+
+5 July 2018 Meeting
+https://youtu.be/FTdXAhfMt_w
+
+Coherence in Chalk by Sunjay Varma - Bay Area Rust Meetup
+https://youtu.be/rZqS4bLPL24
+
+Data Oriented GUI in Rust by Raph Levien - Bay Area Rust Meetup
+https://youtu.be/4YTfxresvS8
+
+Graph Mining in Rust by Siddhartha Sahu - Rust KW Meetup
+https://youtu.be/ToNBubLqPRI
+
+Gábor Lóki  — Implementing WebBluetooth in RustServo (Rust Hungary Kickoff, 2017-09-23)
+https://youtu.be/Nyd6E-WE5BY
+
+Ingvar Stepanyan — Rust + WebAssembly = ❤️ (Rust Hungary Kickoff, 2017-09-23)
+https://youtu.be/Kn5T0i4Pplc
+
+Project Demos Syntect, dlib-rs, & Arbitrary Self Types - Rust KW Meetup
+https://youtu.be/a8ClXNfUN-0
+
+Rust Cologne  An introduction to 'Share Secrets Safely'
+https://youtu.be/Ddrx0FMR_10
+
+Rust Cologne  hyperjson
+https://youtu.be/f1ln5j3aoSI
+
+RustConf 2018 - Benchmarking and Optimization of Rust Libraries by Paul Mason
+https://youtu.be/d2ZQ9-4ZJmQ
+
+RustConf 2018 - C2Rust Migrating Legacy Code to Rust by Per Larsen
+https://youtu.be/WEsR0Vv7jhg
+
+RustConf 2018 - Closing Keynote - Using Rust For Game Development by Catherine West
+https://youtu.be/aKLntZcp27M
+
+RustConf 2018 - Getting Something for Nothing by James Munns
+https://youtu.be/t99L3JHhLc0
+
+RustConf 2018 - My Little Procedural Macro by Chris Wong
+https://youtu.be/11Bme1xw0ag
+
+RustConf 2018 - No Spaghetti Designing for Understanding by  Brandon W. Maister
+https://youtu.be/2uBbjq-Trnk
+
+RustConf 2018 - Opening Keynote  by Aaron Turon, Ashley Williams & Niko Matsakis
+https://youtu.be/J9OFQm8Qf1I
+
+RustConf 2018 - Project Mentat a store for evolving data in Rust Delivered by Grisha Kruglov
+https://youtu.be/bqG5OfGXI_E
+
+RustConf 2018 - Rust and the Web Platform A Rookie’s Guide by Sarah Meyer
+https://youtu.be/EDoNNFWIRrw
+
+RustConf 2018 - Space, The Rusty Frontier by Ryan Plauche
+https://youtu.be/y5Yd3FC-kh8
+
+RustConf 2018 - The Dark Secrets Lurking Inside cargo doc by Quiet Misdreavus
+https://youtu.be/3wcXj67N6eE
+
+RustConf 2018 - Using Raft in Rust by Siddon Tang
+https://youtu.be/ueA44Tz1NF8
+
+RustConf 2018 - Writing Crates for Complete Beginners - A Tour of Turtle by Sunjay Varma
+https://youtu.be/ZtER1Wllbeo
+
+RustConf 2018 Integrating Rust into Tor Successes and Challenges by Isis Lovecruft & Chelsea Komlo
+https://youtu.be/WI4ApeHH9QE
+Videos 501-525

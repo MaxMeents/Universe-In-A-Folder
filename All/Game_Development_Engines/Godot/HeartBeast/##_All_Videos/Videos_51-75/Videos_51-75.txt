@@ -1,0 +1,76 @@
+
+Controller Input in Godot (+Channel Status Update)
+https://youtu.be/w0PDCarXsa8
+
+Godot 3 Tutorial - Mobile RPG - P5 Turn-based Code Refactor
+https://youtu.be/wA7PK7_eDzY
+
+Godot 3 Tutorial - Mobile RPG - P6 Adding More Battle Actions
+https://youtu.be/ET2Y1Y7PgRI
+
+Godot 3 Tutorial - Mobile RPG - P7 Accessing Battle Units with Scriptable Objects
+https://youtu.be/900MO07hq1A
+
+Godot 3 Tutorial - Mobile RPG - P8 Room Transition and Adding New Enemies
+https://youtu.be/KSi35Gh6SL0
+
+Godot 3 Tutorial - Mobile RPG - P9 Adding Button and Enemy Descriptions
+https://youtu.be/eC-013ETkwA
+
+Godot Shader Tutorial - Chromatic Aberration
+https://youtu.be/-PJOHAsBcoI
+
+Laser beams in Godot 3.2 (using a RayCast2D)
+https://youtu.be/anJ2A2NmaVs
+
+Make an Action RPG in Godot 3.2 (P10  Signals + Instancing Scenes in Code)
+https://youtu.be/1mI04gPhd3E
+
+Make an Action RPG in Godot 3.2 (P11  Melee attacks with Hurtboxes and Hitboxes)
+https://youtu.be/vDbEfmPcv-Q
+
+Make an Action RPG in Godot 3.2 (P12  Roll State)
+https://youtu.be/GWBt1LV9An0
+
+Make an Action RPG in Godot 3.2 (P13  Knockback and Enemy Bat)
+https://youtu.be/mm4D1ETclAc
+
+Make an Action RPG in Godot 3.2 (P14  Enemy Stats + Export Variables + Setget)
+https://youtu.be/srQz4Ix8rZM
+
+Make an Action RPG in Godot 3.2 (P2  delta + smooth movement)
+https://youtu.be/EQA9MJ5_TxU
+
+Make an Action RPG in Godot 3.2 (P3  collisions + move_and_slide)
+https://youtu.be/TQKXU7iSWUU
+
+Make an Action RPG in Godot 3.2 (P4  scenes + ysort node)
+https://youtu.be/UfKMgHbaGow
+
+Make an Action RPG in Godot 3.2 (P5  AnimationPlayer)
+https://youtu.be/wX145eoLFSM
+
+Make an Action RPG in Godot 3.2 (P6  Animation in all directions with an AnimationTree)
+https://youtu.be/Z9aR9IiiHT8
+
+Make an Action RPG in Godot 3.2 (P7  Background Grass and Dirt Path Autotile)
+https://youtu.be/v75IMavnRUs
+
+Make an Action RPG in Godot 3.2 (P8  Collisions with Autotiles)
+https://youtu.be/RPgTlxb7Bno
+
+Make an Action RPG in Godot 3.2 (P9  Attacking Animation + State Machines)
+https://youtu.be/0nd1zNiy0C4
+
+Make an Action RPG in Godot 3.2
+https://youtu.be/mAbG8Oi-SvQ
+
+Pixel Perfect Platformer  FOLLOW UP - Godot 3.2
+https://youtu.be/jAVHjfnOZ5Y
+
+Pixel Platformer - Godot 3.2
+https://youtu.be/0713nlQxU7I
+
+Tilesetter Tutorial - Getting Started
+https://youtu.be/SI3mZ3ynrTw
+Videos 51-75

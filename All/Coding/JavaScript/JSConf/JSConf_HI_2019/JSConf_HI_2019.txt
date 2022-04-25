@@ -1,0 +1,73 @@
+
+Adopting Typescript at Scale - Brie Bunge  JSConf Hawaii 2019
+https://youtu.be/P-J9Eg7hJwE&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Back to the Future of JS II - Willian Martins  JSConf Hawaii 2019
+https://youtu.be/yWMlLhx3foI&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Bubble Up Your Node.JS IO - Matteo Collina  JSConf Hawaii 2019
+https://youtu.be/rYqh5LYfw0Y&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Building Up the Electron Project Team and Community Engineering - Jessica Lord  JSConf Hawaii 2019
+https://youtu.be/I4ugdJRCj9Q&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Collaborative, Remote, Design Working-Sessions - Anna Watt  JSConf Hawaii 2019
+https://youtu.be/61ji5L3GMeI&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Embedding V8 in the Real World - Stanimira Vlaeva   JSConf Hawaii 2019
+https://youtu.be/yde3oKsWltw&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+GraphQL, the Domain Way - Thais Correia  JSConf Hawaii 2019
+https://youtu.be/UM-RhglTyKA&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+HI and AI - Kyle Oba  JSConf Hawaii 2019
+https://youtu.be/AGtDAO_a9Mk&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+How (Not) to Fail at Accessibility - Trish Ang  JSConf Hawaii 2019
+https://youtu.be/Mnc8ck_DuaE&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+How to Calculate the Phase of the Moon - Amy SailorHG Wibowo  JSConf Hawaii 2019
+https://youtu.be/JybbgAz3meQ&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+How to Cheat at Life with JS, CV, and AR - Visnu Pitiyanuvath  JSConf Hawaii 2019
+https://youtu.be/5vU6shMFiPA&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+How to Make Your Website Not Ugly - Hilary Stohs-Krause  JSConf Hawaii 2019
+https://youtu.be/F4G2i4eS7x0&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+I Can Babel Macros (and So Can You!) - Shawn swyx Wang  JSConf Hawaii 2019
+https://youtu.be/1WNT5RCENfo&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Improving React Native Performance in Facebook Marketplace  - Konstantin Raev  JSConf Hawaii 2019
+https://youtu.be/g3jwd0kAIDU&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+JavaScript is AsynchroWAT - Crystal Martin  JSConf Hawaii 2019
+https://youtu.be/el9fhSbby5E&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+JSParty Live at JSConf Hawaii 2019 on the Future of JavaScript
+https://youtu.be/HkRrJvvnlvU&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Navigating Unconscious Bias - Emily Kearney  JSConf Hawaii 2019
+https://youtu.be/VGcqkF2XDgA&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+New Adventures for WASM - Lin Clark and Till Schneidereit  JSConf Hawaii 2019
+https://youtu.be/MowRVWn02HM&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Offline P2P Mapping - James Halliday  JSConf Hawaii 2019
+https://youtu.be/_ACizzhxVqY&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+The Browser as a Modular, Networked Video Synthesizer - Olivia Jack  JSConf Hawaii 2019
+https://youtu.be/icrY_LURPY4&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+The Immersive Web in 2019 - Andres Cuervo  JSConf Hawaii 2019
+https://youtu.be/i8iylI6JDmc&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+The Teenage Mutant Ninja Turtle Guide to Color Theory - Louisa Barret  JSConf Hawaii 2019t
+https://youtu.be/NdKAUXAvt8E&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+What Tamagotchis Can Teach You About ES6 Generators - Jenn Creighton  JSConf Hawaii 2019
+https://youtu.be/09V_JAGTs2E&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+
+Where Did All My Servers Go - Garth Henson  JSConf Hawaii 2019
+https://youtu.be/LFUnn-8IAjQ&list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh
+JSConf HI 2019

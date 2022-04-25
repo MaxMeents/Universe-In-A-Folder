@@ -1,0 +1,76 @@
+
+Alyssa Ong Bot Building - Debunking Myths And Hard Lessons Learned - JSConf.Asia 2018
+https://youtu.be/dH1w90_i5fs&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Bruce Lawson If You're Going Out Of San Francisco, Be Sure To Wear... - JSConf.Asia 2018
+https://youtu.be/OZ7rc0_Ps68&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Chen Hui Jing When East Meets West Web Typography And How It Can Inspire ... - JSConf.Asia 2018
+https://youtu.be/Tqxo269aORM&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+David Bryant Enabling New Web Experiences - JSConf.Asia 2018
+https://youtu.be/yqZYAM2es9Q&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Dickson Tan & Ken Chua How People With Visual Impairment Use Websites - JSConf.Asia 2018
+https://youtu.be/7cEfxhsn3Bg&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Feross Aboukhadijeh Write Perfect Code With Standard And ESLint - JSConf.Asia 2018
+https://youtu.be/kuHfMw8j4xk&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Inian Parameshwaran Performing Dynamic Analysis Of JS Apps - JSConf.Asia 2018
+https://youtu.be/obkdza-dPco&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Irina Shestak Storytelling With Performance Observers - JSConf.Asia 2018
+https://youtu.be/dpxq4QWVhc0&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+István Szmozsánszky Flaki Honey, I Shrunk The Scripts — The Secret Life Of ... - JSConf.Asia 2018
+https://youtu.be/8n4jCTbvYwI&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Jake Archibald In The Loop - JSConf.Asia
+https://youtu.be/cCOL7MC4Pl0&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Jerome Etienne How To Do Augmented Reality On The Web - The AR.js OS Project - JSConf.Asia 2018
+https://youtu.be/NBrM7YVznzk&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+JSConf.Asia 2018 Day 1 - Live
+https://youtu.be/sRPOyYILD3E&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Martin Splitt Virtual Reality In Your Browser - JSConf.Asia 2018
+https://youtu.be/QYnJUrvzlLk&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Matteo Collina My Node.JS Process Is On Fire - JSConf.Asia 2018
+https://youtu.be/G9Vkpe55Gu8&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Pasindu De Silva & the Node Party Bot Attendees Party Bots United - JSConf.Asia 2018
+https://youtu.be/SkTfzSR72hY&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Sareh Heidari Accessibility And You - JSConf.Asia 2018
+https://youtu.be/pOqX-TdyvXU&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Shazron Abdullah Serverless Apps With Node.JS In Openwhisk And Adobe IO Runtime - JSConf.Asia 2018
+https://youtu.be/ne6YvKWbQYg&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Shirley Wu & Nadieh Bremer Datasketches - A Year Of Exotic Data Visualizations - JSConf.Asia 2018
+https://youtu.be/Ww57lUS9dF4&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Thai Pangsakulyanont Smells In React Apps - JSConf.Asia 2018
+https://youtu.be/xBa0_b-5XDw&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Thomas Gorissen JavaScript Feud Opening - JSConf.Asia 2018
+https://youtu.be/gHol4xu3ZP8&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Tim Holman Jolly JS Journeys - JSConf.Asia 2018
+https://youtu.be/iGPzwotXgfk&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Tony Sebastian Evolving DBS Frontend - JSConf.Asia 2018
+https://youtu.be/sltPORiz1Ks&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Una Kravets CSS Blend Modes, Because ... - JSConf.Asia 2018
+https://youtu.be/XZmvHVVj0Ns&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Wilson Mendes Micro Frontend  - A Microservice Architecture From ... - JSConf.Asia 2018
+https://youtu.be/Kphwg2IsJfA&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+
+Zell Liew What Writing About Frontend Dev Taught Me About Communicating ... - JSConf.Asia 2018
+https://youtu.be/XnDGJrvEzJg&list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl
+Videos 1-25

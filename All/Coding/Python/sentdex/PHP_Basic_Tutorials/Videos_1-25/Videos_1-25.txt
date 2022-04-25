@@ -1,0 +1,76 @@
+
+Basic PHP Programming Tutorial 20 Saving to a File  writing and appending
+https://youtu.be/ML2uu8rJQPE&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Programming Tutorial 21 MD5 Hashing For Security
+https://youtu.be/ggMZQLFIY2o&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Programming Tutorial 22 Hashing part 2 salting
+https://youtu.be/IAURBYqBHdE&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Programming Tutorial 23 Variables in Strings and tokenizing
+https://youtu.be/R4ocOgYxLzU&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Programming Tutorial 24 String similarity
+https://youtu.be/kJ5IrwSCgws&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Programming Tutorial 25 Time and Time stamps
+https://youtu.be/S32NKR_fOoA&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 1 Intro to PHP
+https://youtu.be/C9Tg1h53Q8s&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 10 Switch Statement
+https://youtu.be/WvwD5chM9gg&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 11 Arrays part 1, basic array
+https://youtu.be/ATUmSmiDPkA&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 12 Associative Array
+https://youtu.be/dxKRwuDwE9s&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 13 Multi-dimensional Array
+https://youtu.be/0AW3dV8s5RY&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 14 Foreach loop
+https://youtu.be/urM5-7mvFVc&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 15 Functions and Global Variables
+https://youtu.be/QXmO5436Ka8&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 16 Include and Require
+https://youtu.be/yDQnTsvS52w&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 17 User Input Form Example  String Manipulation
+https://youtu.be/Tw-2eRvhDn8&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 18 HTML Entities and forms cont'd
+https://youtu.be/KbPHahyvwuM&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 19 Finding words in strings
+https://youtu.be/YF3LykaDqoA&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 2 Print and Echo
+https://youtu.be/iIoaGqJ7u28&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 3 HTML with PHP
+https://youtu.be/CIdmXx9hGZc&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 4 Variables and Comments
+https://youtu.be/7EvRCaXeyJU&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 5 If else and else if conditional statements
+https://youtu.be/jP8rov5uFNM&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 6 If else and else if conditionals cont'd
+https://youtu.be/BBQpJ_FqHiA&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 7 Assignment, comparison and Logical operators
+https://youtu.be/6mIdkgO1u7Y&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 8 Arithmatic Operators Doing math with php
+https://youtu.be/zKqJqHYti6M&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+
+Basic PHP Tutorial 9 While Loop
+https://youtu.be/PFdJc5MDxpA&list=PLQVvvaa0QuDcYpcjrNB43_iKqla5UeQw_
+Videos 1-25

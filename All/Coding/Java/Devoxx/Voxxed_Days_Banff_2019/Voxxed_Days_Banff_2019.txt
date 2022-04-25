@@ -1,0 +1,43 @@
+
+Always Be Running - Long Running and Fault Tolerant Java Services
+https://youtu.be/2O2SaB70nh8&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Bootiful Testing
+https://youtu.be/oeZlncrOSH0&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Building Reactive Pipelines
+https://youtu.be/yuTWU-0weCE&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Dehuman future  Fifth sun
+https://youtu.be/Zodml0etcnM&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+EventSourcingWithEvent Store
+https://youtu.be/AbNmQFIzvUw&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Incremental Architecture
+https://youtu.be/cuXbtJUbnIQ&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+James Wries Java
+https://youtu.be/yAaMHAW3SsY&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Java on the Desktop
+https://youtu.be/M1NszZ_K2yk&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Packaging And Deploying 5 Java Frameworks in 5 Ways
+https://youtu.be/lzjM0BALlmk&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Passwords Are So 1990
+https://youtu.be/wISsXmqr-so&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Realtime Analytics Geofencing Kafka
+https://youtu.be/3VGQmGew3RA&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Remote Work
+https://youtu.be/INs_FyL-F8M&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+The Impact of Sci Fi on Technology
+https://youtu.be/UwWA0NqJMlo&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+
+Values Driven Development
+https://youtu.be/z9S8E5nooNw&list=PLRsbF2sD7JVpgQTO5u3njTN0kaUbbCsXC
+Voxxed Days Banff 2019

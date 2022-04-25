@@ -1,0 +1,76 @@
+
+Advanced Pipelines for Hypothesis-Driven Development Smart Routers... - Edson Yanaga
+https://youtu.be/x0f_GSuRFX8
+
+Database migrations the missing link to continuous delivery - Stefano Monti (video only)
+https://youtu.be/MaG_eYZshlE
+
+Devoxx Poland 2018 - Recap
+https://youtu.be/QGQZZrT_ewA
+
+Devoxx Ukraine our newest family member
+https://youtu.be/TEfQPAorNGI
+
+Stream processing in telco with Apache Flink & TouK Nussknacker - Maciej Próchniak (video only)
+https://youtu.be/2Gg-JbtgFkw
+
+Voxxed Days Microservices 2018 first speakers announced
+https://youtu.be/FDIsve8xqvc
+
+[VDT18] A Developers Guide to a Blue-Green Deployment Using Kubernetes by Andreas Postl
+https://youtu.be/cQoWsevATRg
+
+[VDT18] AI, Machine Learning, Deep Learning... ma quindi di cosa stiamo parlando by Stefano Sarioli
+https://youtu.be/ScyqJ9rHvIs
+
+[VDT18] Camel microservices with Spring Boot and Kubernetes by Claus Ibsen
+https://youtu.be/G8h7oCGsTVQ
+
+[VDT18] Challenges in Mixed Reality by Sebastien Broggi & Benjamin Sen
+https://youtu.be/JdEBmxNJhdM
+
+[VDT18] Do things blazingly fast with WebAssembly by Sendil Kumar
+https://youtu.be/T5787gaVCSE
+
+[VDT18] Domain Driven Testing Know What You're Doing by Dmitry Vinnik
+https://youtu.be/82bVGCLZQCo
+
+[VDT18] Google Cloud Native with Spring Boot by Ray Tsang
+https://youtu.be/2AtVHCaEi54
+
+[VDT18] How SQL Databases Come up with Algorithms that You Would Have Never Dreamed Of by Lukas Eder
+https://youtu.be/XaC1rQZ_LKs
+
+[VDT18] How Well Relational Database Engines Support JSON by Christian Antognini
+https://youtu.be/jQ_Z7hQS_r8
+
+[VDT18] Java 91011 - What's new and why you should upgrade by Simone Bordet
+https://youtu.be/cUqcSFLnk_E
+
+[VDT18] Keynote - The gordian knot by Alberto Brandolini
+https://youtu.be/pXHqgt7ELLc
+
+[VDT18] Leveraging Feature Toggles for your Microservices by Cedrick Lunven
+https://youtu.be/LeSZvCnzi5k
+
+[VDT18] OpenCV e TensorFlow in pratica by Vanni Galli
+https://youtu.be/lvz5ldXN0NQ
+
+[VDT18] Playtrip a CQRSES architecture in Erlang by Nicola Fiorillo
+https://youtu.be/NdZquZb03tA
+
+[VDT18] RESTEasy beyond JAX-RS 2.1 reactive, non-blocking IO and more by Alessio Soldano
+https://youtu.be/FWZf62zJ3JE
+
+[VDT18] Set your code on fire with FlameGraphs by Francesco Nigro
+https://youtu.be/exoAdaR4a7c
+
+[VDT18] Sopravvivere ad una codebase legacy by Paolo D'Incau  & Pietro Di Bello
+https://youtu.be/89cS7WNOLb4
+
+[VDT18] Sweet Web Animations API by   Rodolfo Dias
+https://youtu.be/K_NvuO3JyjI
+
+[VDT18] Twitter's quest for a wholly Graal runtime by Chris Thalinger
+https://youtu.be/1EJJirPvgpE
+Videos 1076-1100

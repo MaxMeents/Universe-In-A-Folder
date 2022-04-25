@@ -1,0 +1,76 @@
+
+Algorithms to Live By The Computer Science of Human Decisions - Brian Christian
+https://youtu.be/W2_xruenOtw&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Architecting for performance. A top-down approach - Ionut Balosin
+https://youtu.be/vLvgpH915Vo&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Back to basics threads - Adam Dubiel
+https://youtu.be/IYHYk3rgfGI&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Blockchain for dummies - Mateusz Herbut
+https://youtu.be/hETPKx8rCCM&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Building Serverless Interactive Applications - Adrian Hornsby
+https://youtu.be/XI8NXxW47X4&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Client says your awesome web app works slowly. Now what - Aleksandra Kunysz
+https://youtu.be/_xz-KkxmgO8&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+CONTEXTVS, STVLTE! (Context, stupid!) - Piotr Przybył
+https://youtu.be/WKcTxAZ5-vo&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Deep Learning in Computer Vision - Krzysztof Kudrynski, Blazej Kubiak
+https://youtu.be/dtD37EkicSs&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+DSL - Do Super Language with Kotlin - Artur Czopek
+https://youtu.be/hYXAFO3q3qU&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Fallacies of Doom - Lessons learned from porting Doom 3 to Java - Mahmoud Abdelghany
+https://youtu.be/dU0KrDRKoCA&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+GraphQL - when REST API is not enough - lessons learned - Marcin Stachniuk
+https://youtu.be/vMGet_9y40g&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+How to impress your boss and your customer in a modern company - Wojciech Seliga
+https://youtu.be/DU1CbeN6GIs&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+How Uber builds reliable redeliveries and dead letter queues with Apache Kafka - Mingmin Chen
+https://youtu.be/K4cmLrrIUUY&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Lessons and experiences of leading a large agile transformation - Sławek Zając
+https://youtu.be/gEe6sbHWN10&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Liderem być - Anita Przybył
+https://youtu.be/6Yv8DM3CgOE&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Securing Customer Accounts with Streaming Analytics - Jan Griebsch
+https://youtu.be/cZGuhVBQ6BM&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Serverless or Serverfull Microservices^Functions - Rafael Benevides
+https://youtu.be/orxk96DLjjc&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Serverless The Future of the Cloud! - Bert Ertman
+https://youtu.be/x0n26bKT-eA&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Spring, Functions, Serverless and You - Nate Schutta
+https://youtu.be/FGm3kxWSGGc&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+State or events Which shall I keep - Jakub Pilimon
+https://youtu.be/maQXoRp6BH4&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Synchronous replication across data center for messaging system at Uber - Mingmin Chen, Hongliang Xu
+https://youtu.be/QRurCd4dx_o&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Through the valley of darkness, the road to microservices - Dominik Boszko
+https://youtu.be/KgJAjxrzPWQ&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+Top Performance Challenges in Distributed Architectures - Andreas Grabner
+https://youtu.be/fAdqbzyQgb0&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+User Stories considered harmful - Jakub Nabrdalik
+https://youtu.be/2df8_PHJuzk&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+
+When Terraform alone isn't enough - Marcin Żbik
+https://youtu.be/nR1U9sdcR3k&list=PLRsbF2sD7JVrSMm9aK4juBQz9AyU_rakc
+Videos 1-25

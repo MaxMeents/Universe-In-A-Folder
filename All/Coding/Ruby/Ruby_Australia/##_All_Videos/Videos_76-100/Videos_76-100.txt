@@ -1,0 +1,76 @@
+
+10X your teamwork through pair programming - Selena Small, Michael Milewski (RubyConf AU 2020)
+https://youtu.be/wujR20wFhNM
+
+300x faster ruby - Dana Sherson (RubyConf AU 2020)
+https://youtu.be/hnGVFzZ0DuI
+
+A Message to the Stars - Rob Howard (RubyConf AU 2020)
+https://youtu.be/W5A7_TWd4QM
+
+Anton Katunin - Rails as a static site generator
+https://youtu.be/wgz2-zpyLvM
+
+Build a voice based smart home using Sinatra & mrubyc
+https://youtu.be/0V-MJgklza4
+
+Chris Aitchison - Data democratisation at UP
+https://youtu.be/Rk31iOgJhJM
+
+Developing your Dreamcast games with mruby - Yuji Yokoo (RubyConf AU 2020)
+https://youtu.be/ni-1x5Esa_o
+
+Escape Your Framework - Julian Doherty (RubyConf AU 2020)
+https://youtu.be/IsRCJA-SXBU
+
+Escaping The Tar Pit - Ernesto Tagwerker (RubyConf AU 2020)
+https://youtu.be/ORb2UQ0_8zg
+
+How much pressure can your app handle - Performance testing with Ruby
+https://youtu.be/Q09wJm4P8Xw
+
+How To Write Tech Documentation That Will Save Your Career - Carmen Chung (RubyConf AU 2020)
+https://youtu.be/ocqjOFrrios
+
+Inclusiveness - It's In Your Hands - Adel Smee (RubyConf AU 2020)
+https://youtu.be/6QKA7LtYiG0
+
+Just my type things I learned from writing my own programming language
+https://youtu.be/3wSLmQWlixc
+
+Murdering our Mongo Database (or how we migrated to a relational database)
+https://youtu.be/Knd3m2qh0o8
+
+My Experience With Experience - Xavier Shay (RubyConf AU 2020)
+https://youtu.be/0na_1A_-Ebo
+
+Phil Nash - Servers We don't need them
+https://youtu.be/8HcImvJpMEE
+
+Start your own engineering apprenticeship program - Elle Meredith (RubyConf AU 2020)
+https://youtu.be/HVREurpIvsg
+
+Tales from the Ruby Grimoire - Brandon Weaver (RubyConf AU 2020)
+https://youtu.be/xRj5DWvdx6k
+
+The Cost of Data - Vaidehi Joshi (RubyConf AU 2020)
+https://youtu.be/iEUPwHyIOBQ
+
+The Milewski family - How I created an interactive slide show
+https://youtu.be/uIj-ipbPI3A
+
+Toby Nieboer - Working Remotely
+https://youtu.be/P01gclPahxo
+
+Walking A Mile In Your Users' Shoes - Jameson Hampton (RubyConf AU 2020)
+https://youtu.be/w-zYKo8f7nM
+
+Welcome (Thursday) - Caitlin Palmer-Bright, Melissa Kaulfuss (RubyConf AU 2020)
+https://youtu.be/1zqoH6LxnIE
+
+Working remotely and how to scale a remote first environment - Liam McNally (RubyConf AU 2020)
+https://youtu.be/Ljjy9IHNUWo
+
+Xavier Shay - Tiny Turing Toys Tapes, States and Breaks
+https://youtu.be/JJ5oQ6bya-I
+Videos 76-100

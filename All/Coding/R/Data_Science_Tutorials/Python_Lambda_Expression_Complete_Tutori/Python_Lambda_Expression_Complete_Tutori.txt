@@ -1,0 +1,58 @@
+
+1 Python Data Analysis Project For Beginners on Restaurant Data with Pandas and Seaborn Library
+https://youtu.be/nrLLw5nL_ck&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Applying Custom Function on Python Pandas DataFrame Columns using Lambda expressions
+https://youtu.be/N0m-9rHFUqE&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+How to convert String Currency Values to Numeric Values in Python Pandas
+https://youtu.be/bq6ApRjvomk&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+How to Create Excel Pivot Table on Python Pandas DataFrame
+https://youtu.be/vARoIR100lc&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+How to find the mean or max or min of all the Python pandas columns
+https://youtu.be/k0hp_m9FvI0&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+How to use vlookup or mapping in python Pandas  Applymap function
+https://youtu.be/NUic-htTQ0I&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #1 Introduction of Python Lambda and Anonymous Function
+https://youtu.be/HBR6wqXj2iY&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #10 Filtering Dictionary using filter function and lambda function
+https://youtu.be/TmZ5930lsJY&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #11  Processing multiple list with map function & lambda function
+https://youtu.be/Cz3iJWfFBLY&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #2 Python map and lambda function to process lists
+https://youtu.be/tNNwixmpkLY&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #3 Sorting data in Python with lambda function
+https://youtu.be/yHOHAU96uGM&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #4 Filtering data in python with lambda function
+https://youtu.be/jJcy1atQN-U&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #5 Python lambda function with Reduce function
+https://youtu.be/45n5jlVH4H4&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #6 Lambda Function and Reduce Function with Aggregation Functions
+https://youtu.be/EPEDMRKgags&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #7 if else conditional statement with lambda and reduce function
+https://youtu.be/cNr7B4lChzQ&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #8 Accessing Nested list within lambda function and map function
+https://youtu.be/8DHhXcd8liQ&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python 3 Programming Tutorial  #9 Accessing Dictionary key and value using map & lambda function
+https://youtu.be/sGbPz9dyV70&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python Lambda Expressions (Anonymous Functions)  Python Tutorial for Beginners [Full Tutorial]
+https://youtu.be/ue8UICrzwVI&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+
+Python Pandas book For Finding Missing Values in a Dataset - 25 Recipes
+https://youtu.be/hk9LZLHQCQc&list=PLH6mU1kedUy84TsNa1654qkHjIeZ_wllA
+Python Lambda Expression Complete Tutorials with Example

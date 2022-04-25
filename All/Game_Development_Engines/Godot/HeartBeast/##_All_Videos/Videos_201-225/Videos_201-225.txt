@@ -1,0 +1,76 @@
+
+GameMaker Course Christmas Gift
+https://youtu.be/AXoJxIrcBsI
+
+[Beginner Tutorial] Make an RPG in GameMaker [P11] Hitboxes and Knockback
+https://youtu.be/m072NP-6qv0
+
+[Beginner Tutorial] Make an RPG in GameMaker [P12] Better Character Sprite Control
+https://youtu.be/G_lllFibYmE
+
+[Beginner Tutorial] Make an RPG in GameMaker [P13] Adding Enemy States
+https://youtu.be/huvEsQ-U3Is
+
+[Beginner Tutorial] Make an RPG in GameMaker [P15] Adding Stats for the Player
+https://youtu.be/spojGWywIk0
+
+[Beginner Tutorial] Make an RPG in GameMaker [P16] Level Up!
+https://youtu.be/imR9XZh4_FE
+
+[Beginner Tutorial] Make an RPG in GameMaker [P17] Limit Dash and Fix a Bug
+https://youtu.be/mhamOkFs1UI
+
+[Beginner Tutorial] Make an RPG in GameMaker [P18] Fixed Enemy Movement
+https://youtu.be/dbQFyD7LBEA
+
+[Beginner Tutorial] Make an RPG in GameMaker [P19] Moving Between Rooms
+https://youtu.be/GLbn5MBCzKc
+
+[Beginner Tutorial] Make an RPG in GameMaker [P20] Enemy Loot Drop
+https://youtu.be/MgtyK_Ax_O0
+
+[Beginner Tutorial] Make an RPG in GameMaker [P21] Fixed Enemy Movement
+https://youtu.be/zkQwzVj9Z70
+
+[Beginner Tutorial] Make an RPG in GameMaker [P22] Dialog
+https://youtu.be/T6ujorMHjfE
+
+[Beginner Tutorial] Make an RPG in GameMaker [P23] Improved Dialog
+https://youtu.be/8kL4kfWiLsg
+
+[Beginner Tutorial] Make an RPG in GameMaker [P24] Pause Menu
+https://youtu.be/yMgI1yi480Y
+
+[Beginner Tutorial] Make and RPG in GameMaker [P14] Enemies that Attack!
+https://youtu.be/qmlnbPuSK48
+
+[GameMaker Tutorial] Explosions using Particles
+https://youtu.be/FbdBaN7-nTE
+
+[GameMaker Tutorial] HeartBeast Movement Engine [Now with Slopes]
+https://youtu.be/ewGlUPFq1OQ
+
+[GameMaker Tutorial] HeartBeast Movement Engine
+https://youtu.be/E59MUTFYhrc
+
+[GameMaker Tutorial] Hidden Character Silhouette Effect
+https://youtu.be/v5Odrc6aEB8
+
+[GameMaker Tutorial] Random Level Generation [P7] Enemy Pathfinding
+https://youtu.be/VtyGR5HmJY8
+
+[Heartbeast Plays] Griffin Card [Ludum Dare #34]
+https://youtu.be/miPc7av2F6E
+
+[Let's Pixel] Stegosaurus is Awesome
+https://youtu.be/p6pOP0VeujI
+
+[Ludum Dare 34 Livestream] Griffin Card [P1]
+https://youtu.be/56F9zFbD1W0
+
+[Ludum Dare 34 Livestream] Griffin Card [P2]
+https://youtu.be/_S4ycJcsuuM
+
+[Ludum Dare 34 Livestream] Griffin Card [P3]
+https://youtu.be/Ff77h5GrSxQ
+Videos 201-225

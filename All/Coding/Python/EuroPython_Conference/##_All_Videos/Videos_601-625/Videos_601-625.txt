@@ -1,0 +1,76 @@
+
+A. Skrobov - How CPython parser works, and how to make it work better
+https://youtu.be/qq6eHivQOjI
+
+Alessandro Amici - Fast Python! Coding competitions with CPython and PyPy
+https://youtu.be/857c3LE4eH4
+
+Alexander Hendorf - Neat Analytics with Pandas Indexes
+https://youtu.be/WjEVJ4x2SXE
+
+Alisa Dammer - Baby steps in short-text classification with python
+https://youtu.be/5ExfLYdYzQE
+
+Anjana Vakil - Mary had a little lambda
+https://youtu.be/7BsfMMYvGaU
+
+Antonio Cuni - The joy of PyPy JIT abstractions for free
+https://youtu.be/NQfpHQII2cU
+
+Dmitry Trofimov - PyCharm tips and tricks
+https://youtu.be/SVxuUGjB8YU
+
+Emma Gordon - Writing code Pfft... Evolve it instead!
+https://youtu.be/-DcZvwbq27s
+
+Francesco Nazzaro - Facing the challenge of climate change with xarray and Dask
+https://youtu.be/yUl9g4YtNZo
+
+Giuseppe Di Bernardo - Big Data Analytics at the MPCDF GPU Crystallography with Python
+https://youtu.be/7oROuV-HjSQ
+
+Jean-Sébastien Bevilacqua - Call a C API from Python becomes more enjoyable with CFFI
+https://youtu.be/AHHlohyHh2w
+
+Katharine Jarmul - If Ethics is not None
+https://youtu.be/FtRbAePXUoI
+
+Kristi Progri, Jona Azizaj - How to build up a Python community and empower women
+https://youtu.be/x08ehgfbp34
+
+Marc Garcia - A Gentle Introduction to Data Science
+https://youtu.be/jufpfjjpgUU
+
+Marc-Andre Lemburg - Automatic Conference Scheduling with PuLP
+https://youtu.be/y3hKSB-qYME
+
+Marc-Andre Lemburg - EPS General Assembly 2017
+https://youtu.be/la3Py9Dh5XY
+
+Martin Christen - Rendering complex 3D-Geodata using pyRT
+https://youtu.be/xFgFtk-0zsk
+
+Max Tepkeev - How to make money with your Python Open-Source Project
+https://youtu.be/4V5ph6Hz9HQ
+
+Mihai Iachimovschi - Teach your (micro)services speak Protocol Buffers with gRPC.
+https://youtu.be/JO0U8QbzSw8
+
+Paolo Melchiorre - Full-Text Search in Django with PostgreSQL
+https://youtu.be/ufhK14CJpjM
+
+Pietro Battiston - How to use pandas the wrong way
+https://youtu.be/4JwpDGrMsJE
+
+Reimar Bauer - MSS - Software for planning research aircraft missions
+https://youtu.be/G3h21DdDTjQ
+
+Romain Dorgueil - Simple ETL in python 3.5+ with Bonobo
+https://youtu.be/rEP-4Di3d-A
+
+Tim Großmann - Automating Instagram with Python and Selenium
+https://youtu.be/bGJ41J5b_90
+
+Ville Säävuori - Pythonic JavaScript for Web Developers
+https://youtu.be/ecD0U06iVTs
+Videos 601-625

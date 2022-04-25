@@ -1,0 +1,76 @@
+
+3D Bar Charts in Python and Matplotlib
+https://youtu.be/W94Kv8-c_5g
+
+3D Charts in Matplotlib for Python Multiple datasets scatter plot
+https://youtu.be/jj72SdnTMfE
+
+3D Graphs in Matplotlib for Python Basic 3D Line
+https://youtu.be/ZlpFQNVhB7I
+
+3D Plane wire frame Graph Chart in Python
+https://youtu.be/Zv9a_wMJMe4
+
+3D Plotting in Matplotlib for Python 3D Scatter Plot
+https://youtu.be/6ljHxJQ47Uk
+
+How to Parse Twitter for Twitter Analysis Part 1
+https://youtu.be/-_26vpe-PGo
+
+How to Parse Twitter for Twitter Analysis Part 2
+https://youtu.be/iBO1bD9c4Wg
+
+How to Parse Twitter for Twitter Analysis Part 3
+https://youtu.be/fY_XDLgeL00
+
+How to Parse Twitter for Twitter Analysis Part 4
+https://youtu.be/di5CSbmlR_8
+
+How to smooth graph and chart lines in Python and Matplotlib
+https://youtu.be/uSB8UBrbMfk
+
+Python Tutorial File Deletion and Folder Deletion  directory deletion
+https://youtu.be/JJaNqB43Mrs
+
+Python Tutorial How to Rename Files and Move Files with Python
+https://youtu.be/VlRUC4tF8TA
+
+Raspberry Pi Part 1 Introduction
+https://youtu.be/hiwv-Rt85E4
+
+Raspberry Pi Part 10 How to set up a Linux Web Server on your Pi
+https://youtu.be/5WqpKPRrQEY
+
+Raspberry Pi Part 2 Installing an Operating System
+https://youtu.be/JWKPiVK2nIs
+
+Raspberry Pi Part 3 Plugging everything in
+https://youtu.be/Ai9ccR8aSfE
+
+Raspberry Pi Part 4 Actually Installing an Operating System
+https://youtu.be/934uhTExwXM
+
+Raspberry Pi Part 5 Navigating Your New Pi
+https://youtu.be/OlYtvP0nzy4
+
+Raspberry Pi Part 6 Overclocking and how to overclock Raspberry Pi
+https://youtu.be/TyJH0OKyibw
+
+Raspberry Pi Part 7 Overclocking and how to overclock Raspberry Pi part 2
+https://youtu.be/LBObxnNIxOI
+
+Raspberry Pi Part 8 First Download and Update! (Firmware)
+https://youtu.be/a7X36jheRS8
+
+Raspberry Pi Part 9 Navigating the Terminal
+https://youtu.be/wcLPZY0h2Ds
+
+Sikuli Tutorial 1 Visually programming in python!
+https://youtu.be/rrVHoYBknGo
+
+Sikuli Tutorial 2 Program visually in python!
+https://youtu.be/dlBX7FE5ApA
+
+Sikuli Tutorial 3 Program visually in python!
+https://youtu.be/D9vdhjR8eWE
+Videos 1176-1200

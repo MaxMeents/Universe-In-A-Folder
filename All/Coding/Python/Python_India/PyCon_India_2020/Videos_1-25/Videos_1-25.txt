@@ -1,0 +1,76 @@
+
+Keynote Making apps seem faster without optimizing - Anand S
+https://youtu.be/T-t1k4uT5G0&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Keynote Python performance Past, Present, Future - Victor Stinner
+https://youtu.be/m6Q-jgoHw6k&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Lightning Talk Label Studio - Sasidhar
+https://youtu.be/v0DptdgAKuw&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Lightning Talk Microbit - Anand Chitipothu
+https://youtu.be/pK4heoTUJNQ&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+PyCon India 2020 Opening Session - Sayan Chowdhury
+https://youtu.be/ZL0aPgQY7k8&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Sponsored Talk  Array Time travel with version HDf5 - Arvid Bessen (D  E  Shaw)
+https://youtu.be/ZZ0ku_6VCac&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Sponsored Talk Serverless Machine Learning 101 - Tania Allard (Microsoft)
+https://youtu.be/ZnUC6NRZZt8&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk A deep dive and comparison of Python drivers for Cassandra and Scylla - Alexys Jacob
+https://youtu.be/n22tmNWbE8A&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk A thousand Djangoes within (or Django multi-tenant) - Lorenzo Peña
+https://youtu.be/pmBDoC-d9yw&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk ApiVer – a versioning policy for libraries - Paweł Polewicz
+https://youtu.be/FgcoAKchPjk&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Building production ready distributed task queue management system with celery - Vishrut Kohli
+https://youtu.be/rk8RE8HYecg&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Discrete Probability Distributions Learn & Test with tools from Fourier Analysis - Bala Priya
+https://youtu.be/o8YjPB35GA4&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Going serverless with Django on AWS Lambda - Siddharth Goyal  extend()
+https://youtu.be/t4P8tr6m0ns&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk How Decorators Function - Andrew Knight
+https://youtu.be/WuVDEcwv9Xk&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Let's build a no-code tool for small businesses to reduce churn - Padmaja, Bargava
+https://youtu.be/jZl2HtilcxU&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk No more tears from project nightmares - Aman Sharma  .extend()
+https://youtu.be/8U-U-q6h6Pw&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Predicting the Traffic Jam   Congestion Aware Routing - Niharika Shrivastava
+https://youtu.be/g-m_T1PU52g&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Python & Programmable Logic Controllers -  A Step by Step Guide - Jonas Neubert
+https://youtu.be/gsPlmBDxHH0&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Self Driving cars with Opencv - Abirami Ravishankar   extend()
+https://youtu.be/wESdQB8EyhY&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Serverless Computing with Python - Wesley Chun
+https://youtu.be/1UQmiFR407A&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk The View from Above Getting Started with Satellite Images - Siddharth Srivastava  .extend()
+https://youtu.be/u5Pbiu0X_Cs&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Towards a more transparent AI - Decrypting AI models using LIME - Laisha Wadhwa
+https://youtu.be/Rr42ldLUo8E&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Understand Heap Memory layout with pwndbg - Rohit Keshri
+https://youtu.be/2oUXNLQe4H4&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Talk Write Prose, Not just programs - Puneeth Chaganti
+https://youtu.be/0TucAxOO68c&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+
+Tallk Publishing well formed Python packages - Julin S
+https://youtu.be/EAtYleEk0ig&list=PL6GW05BfqWIf5TzoTkQSwg-gDTuJVZk4a
+Videos 1-25

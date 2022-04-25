@@ -1,0 +1,28 @@
+
+UITableView Pt  710  DRAG AND DROP TO MOVE CELL IN TABLE VIEW SWIFT TUTORIAL
+https://youtu.be/8T6yOrUJseE&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 2  Create Data Model Classes to Display On UITableView & UITableViewController
+https://youtu.be/IohAGvQj6TE&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 3  Create Basic UITableView and UITableViewController, UITableViewCell
+https://youtu.be/KRFpB-uLPOA&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 4 Create Custom Table View Cell, Dynamic Table View Cell Height, Self-Sizing Cell
+https://youtu.be/nwnRmw_rjBM&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 510  CREATE MULTIPLE SECTIONS IN TABLE VIEW
+https://youtu.be/GHTwGi4L_58&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 610 DELETE ROWS FROM TABLE VIEW SWIFT TUTORIAL
+https://youtu.be/iRZq_igJlOA&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 810  CREATE STATIC UITABLEVIEW AND UITABLEVIEWCONTROLLER
+https://youtu.be/Nbx44G0oVBg&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Pt 910  USE SHOW SEGUE TO TRANSITION FROM MASTER TO DETAIL VIEW CONTROLLER
+https://youtu.be/OPe0XPhi5Bg&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+
+UITableView Series Pt 110 Introduction to UITableView and UITableViewController Tutorial in Swift
+https://youtu.be/NQpvABzgIeU&list=PLHmNdpdzx21EpFyKFXbSa-4k5lK2tQs_n
+UITableView and UITableViewController Tutorial in Swift

@@ -1,0 +1,13 @@
+
+Developing DC-DC Converter Control Automatically Generating Controller Code for Embedded Processors
+https://youtu.be/J6c--Uxl9Yo&list=PLn8PRpmsu08rgCYib2DSkwWiy1Avt8ZUY
+
+Developing DC-DC Converter Control Designing Digital Controller
+https://youtu.be/tOypILqb20o&list=PLn8PRpmsu08rgCYib2DSkwWiy1Avt8ZUY
+
+Developing DC-DC Converter Control Determining Power Losses and Simulating Thermal Behavior
+https://youtu.be/Wz7bFPJWdlY&list=PLn8PRpmsu08rgCYib2DSkwWiy1Avt8ZUY
+
+Developing DC-DC Converter Control Modeling, Simulating, and Sizing Passive Components
+https://youtu.be/FBqi7smxCeA&list=PLn8PRpmsu08rgCYib2DSkwWiy1Avt8ZUY
+Developing DC-DC Converter Control with Simulink

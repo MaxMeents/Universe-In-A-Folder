@@ -1,0 +1,76 @@
+
+Python Basics Fibonacci Numbers
+https://youtu.be/8WKl8qDzJA4
+
+Python Basics How to find the Powerball Lottery Odds
+https://youtu.be/98ELH8jj9Qs
+
+Python Basics List Remove Method
+https://youtu.be/Os2R4txWnzQ
+
+Python Basics Math Module Factorial Method
+https://youtu.be/sXPMKQCvvAA
+
+Python Basics Math Module Pi Value
+https://youtu.be/nhdF1vHFRr4
+
+Python Basics Monty Hall Odds Pt  2
+https://youtu.be/IGQw2qwyTUA
+
+Python Basics Monty Hall Odds Pt  3
+https://youtu.be/o9XLyc3WWoI
+
+Python Basics Monty Hall OddsPt  1
+https://youtu.be/8mbor291w2E
+
+Python Basics Nested Functions
+https://youtu.be/oFbVxObOyEc
+
+Python Basics Packing and Unpacking
+https://youtu.be/ElK1sCg79zo
+
+Python Basics Pythagorean Theorem
+https://youtu.be/fvoNZ5SmRdc
+
+Python Basics Random Choice
+https://youtu.be/2NCyNTCjL3k
+
+Python Basics Scope Built-in or Global Variables
+https://youtu.be/XI9HhuP6u2o
+
+Python Basics Scope Local and Global Variables
+https://youtu.be/D18izsX-IPM
+
+Python Basics Scope Nonlocal Variables
+https://youtu.be/OaoswUojMqE
+
+Python Basics String Endswith Method
+https://youtu.be/io5XB5ru0-Q
+
+Python Basics String Format Phone Number
+https://youtu.be/nUrSDdVTol0
+
+Python Basics String Method Join
+https://youtu.be/qMfUyDsbDMg
+
+Python Basics String Startswith Method
+https://youtu.be/5BdFgG62yoE
+
+Python Basics String Tab and New line
+https://youtu.be/1oIodRrMRsE
+
+Python Basics Time List comprehension and for loops
+https://youtu.be/D0UEwoMTq28
+
+Python Basics Time Module
+https://youtu.be/2_psoPwyEuE
+
+Python Basics Tip Calculator
+https://youtu.be/XVPz9CDga2M
+
+Python Basics Try and Except
+https://youtu.be/s7f4fs0Png8
+
+Python Basics Tutorial Random Seed Method  Data Science Building Block
+https://youtu.be/mZiwtDYrpO8
+Videos 826-850

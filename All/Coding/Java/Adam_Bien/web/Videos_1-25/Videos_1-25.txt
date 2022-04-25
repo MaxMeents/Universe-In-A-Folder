@@ -1,0 +1,76 @@
+
+A No-Dependencies JavaScript  HTML 5 App With Java EE Backend
+https://youtu.be/Gndr4pBFRm0&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Building A React App With Java EE Backend
+https://youtu.be/A800BaLBB2k&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Building Angular 2 App With Java EE Backend
+https://youtu.be/HhroyiYFmjc&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Building Polymer 3 App With Java EE 8 Backend
+https://youtu.be/bknGPEwCTso&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Building Web Component with Java EE 8 Backend
+https://youtu.be/ztGJUPsWMHs&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Combining Custom Elements, Shadow DOM (Web Components) and lit-html templates
+https://youtu.be/mnbrxARvCTQ&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Deploying Web Components to Amazon S3 #slideless
+https://youtu.be/EtvyaUJjg_E&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Editing local files with Chrome Browser
+https://youtu.be/j3_pOaU2h08&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+ES 6 Template String and HTML
+https://youtu.be/K2KdY7sn6As&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Exposing JAX-RS Services with Quarkus and CORS
+https://youtu.be/X11qgJWbohI&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Implement a Dependency-Free Web Standard Web Component  Adam Bien
+https://youtu.be/6poytG4ccLc&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Implementing a Router With Hashchange Event
+https://youtu.be/1g1fICJR8YQ&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Increasing Code Coverage Metrics--without testing trivial methods -)
+https://youtu.be/B88kyMJAO6M&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Loading JS Scripts On Demand and Asynchronously
+https://youtu.be/sTvZOLpAE60&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Mixins with Plain JavaScript
+https://youtu.be/h4m-SIw9nEg&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Modern Web - Like Java EE #slideless #usetheplatform
+https://youtu.be/5wPg3jY62jo&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Receiving Server Sent Events with plain, vanilla JavaScript client
+https://youtu.be/qQLVCgmiMgQ&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Responsive Design with Media Queries and Flexbox Layout
+https://youtu.be/QiQnOhst6_U&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Unidirectional Dataflow with WebComponents, fetch and CustomEvents
+https://youtu.be/B9YCoE8jO8E&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Using a DatePicker WebComponent
+https://youtu.be/uemSjttryv8&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+Using a Grid as Web Component with Java EE 8 Backend
+https://youtu.be/txPrx14H_6w&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+WebComponents in Unsupported Browsers
+https://youtu.be/eSdAC8d5_Nw&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+What is a polyfill
+https://youtu.be/kJZFEI67HoM&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+What is CSS Scroll Snapping #slideless
+https://youtu.be/1BNwNnwSEOU&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+
+yarn vs. npm
+https://youtu.be/RPqxNsLHT3c&list=PLxU9yM-_yPs_B-kaWK0c44KgyWAre4hCH
+Videos 1-25

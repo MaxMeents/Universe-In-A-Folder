@@ -1,0 +1,76 @@
+
+Aaron Ma - Machine Learning for Everyone
+https://youtu.be/TSs43j41pZU&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Alexander Hendorf - 15 Things You Should Know About Spacy
+https://youtu.be/-hJcklCooHU&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Anmol Krishan Sachdeva - Painting with GANs Challenges and Technicalities of Neural Style Transfer
+https://youtu.be/Qd50-uRerZc&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Bence Arató - The Python Data Visualization Landscape in 2020
+https://youtu.be/35e0Chuxqi0&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Dean Wampler - Ray A System for High-performance, Distributed Python Applications
+https://youtu.be/OYLJ6l7KF6c&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Gajendra Deshpande - Deceptive Security using Python
+https://youtu.be/nR6hqmJ3GJM&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Griffith S Rees - Resurrecting a django project in python 2.7 for 3.8
+https://youtu.be/0em-4h7Cg9M&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Gunjan Dewan - Developing a match-making algorithm between customers and Go-Jek products!
+https://youtu.be/m8-9Q8gI5eQ&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Hui Xiang Chua - Top 15 Python Tips for Data Cleaning Understanding
+https://youtu.be/-Vlqwtbg1wg&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Ian Ozsvald - Making Pandas Fly
+https://youtu.be/JgBV7p9jNo0&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+JunWei Song, KunYu Chen - So, You Want to Build an Anti-Virus Engine
+https://youtu.be/OWeAumHkv7A&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Krishna Kanta Singh - Writing Extensions and Bindings for GPU made Easy
+https://youtu.be/Q3VBIOf2shg&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Leonardo Giordani - Clean Architectures in Python
+https://youtu.be/bieO6YOZ4uc&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Mario Corchero, Marianna Polatoglou - Growing a Python Community at an Enterprise Scale
+https://youtu.be/okPbkPkZz_I&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Miki Tebeka - IPython The Productivity Booster
+https://youtu.be/Zmo2ZN1SJ_Q&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Mridu Bhatnagar - Object Internals
+https://youtu.be/UkUY6cVxlLY&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Philipp Thomann - NLPeasy - a Workflow to Analyse, Enrich, and Explore Textual Data
+https://youtu.be/N5pdZIJ_Whw&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Ram Rachum - Live-coding a music synthesizer
+https://youtu.be/SSyQ0kRHzis&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Robson Junior - Mastering a data pipeline with Python 6 years of learned lessons from mistakes
+https://youtu.be/O-0Z6NKRfvk&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Ruud van der Ham - Simulation of logistic systems in Python with salabim
+https://youtu.be/pRAO6J66o9k&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Sarah Gibson - Sharing Reproducible Python Environments with Binder
+https://youtu.be/wTVMHallSSA&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Takuya Futatsugi - Bringing your Python script to more users!
+https://youtu.be/yP0zfOUuDdw&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Tania Allard - Docker and Python making them play nicely and securely for Data Science and ML
+https://youtu.be/ycMlokcQ9iE&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+V. Fedotova, F. Schlimbach - The Painless Route in Python to Fast and Scalable Machine Learning
+https://youtu.be/0lA7qQWxMMA&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+
+Vijay Sajjanar - Reduce hardware costs in Internet of Things using Python
+https://youtu.be/OBUEiuzIASQ&list=PL8uoeex94UhHgMD9GOCbEHWku7pEPx9fW
+Videos 51-75

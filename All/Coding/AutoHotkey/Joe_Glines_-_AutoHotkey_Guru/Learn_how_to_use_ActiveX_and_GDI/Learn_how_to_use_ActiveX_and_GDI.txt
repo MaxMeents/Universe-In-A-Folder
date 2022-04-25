@@ -1,0 +1,13 @@
+
+GDI vs ActiveX Which is faster 🚀  The answer may surprise you!
+https://youtu.be/XUvnrVqTlK0&list=PL3JprvrxlW250PDal-SivCF1ZHkiDjONA
+
+Simple ActiveX GUI tutorial drawing 1,000 images with AutoHotkey
+https://youtu.be/5m30RaCsttc&list=PL3JprvrxlW250PDal-SivCF1ZHkiDjONA
+
+Taking ActiveX to a new level with AutoHotkey V2 by Dimitri
+https://youtu.be/CXo0uDCUdQY&list=PL3JprvrxlW250PDal-SivCF1ZHkiDjONA
+
+The Magic of ActiveX & AutoHotkey Maestrith adapts Hellbent's code
+https://youtu.be/04e5xwLAFt4&list=PL3JprvrxlW250PDal-SivCF1ZHkiDjONA
+Learn how to use ActiveX and GDI

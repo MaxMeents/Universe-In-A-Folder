@@ -1,0 +1,73 @@
+
+2020-08-26 Design Meeting Stream Trait
+https://youtu.be/rIQHws2_lQg
+
+2020-09-02 Backlog Bonanza
+https://youtu.be/1p-eE2yD8K8
+
+2020-09-14 Lang Team Triage Meeting
+https://youtu.be/0tl30zIVJoU
+
+2020-10-08 Sync
+https://youtu.be/HBUMzfn2sHQ
+
+2020-10-14 Backlog Bonanza
+https://youtu.be/Ypgix8rEIQI
+
+2020-10-15 sync
+https://youtu.be/_UF6RcWMD3U
+
+2020-10-19 Triage meeting
+https://youtu.be/VeTkLgD179Q
+
+2020-10-22 RFC 2229
+https://youtu.be/eQJi0OB1SKQ
+
+Core Team Meeting 2020-08-19
+https://youtu.be/XFDvBzEcv_k
+
+Core Team Meeting 2020-08-26
+https://youtu.be/J0SsTiO3sog
+
+Core Team Meeting 2020-09-02
+https://youtu.be/yPjpizA68d4
+
+Core Team Meeting 2020-09-09
+https://youtu.be/GICIDHOgkd8
+
+incr-comp meeting #2 (2020-08-25)
+https://youtu.be/t5NxS2NcbOU
+
+incr-comp meeting #3 (2020-09-22)
+https://youtu.be/6bL5QN1ArIo
+
+incr-comp meeting #4 (2020-10-06)
+https://youtu.be/p-79a3pn3LI
+
+Rust Linz, October 2020 - Matthias Heiden - Writing a Kernel Driver with Rust
+https://youtu.be/wREGR7QQHco
+
+Rust Linz, October 2020 - Valentin Tolmer - How not to rely on inheritance
+https://youtu.be/m6Gee5kNe7U
+
+Rust Linz, September 2020 - Meaghan Lewis - Get to Know Rust
+https://youtu.be/GDbkrsEI6qA
+
+Rust Linz, September 2020 - Roland Ruckerbauer - Embedded Rust
+https://youtu.be/xY342ACNXFg
+
+RustConf 2020 - Closing Keynote by Siân Griffin
+https://youtu.be/RNsEsZbXE-4
+
+RustConf 2020 - Controlling Telescope Hardware with Rust by Ashley Hauck
+https://youtu.be/xlVnp7VOxRE
+
+RustConf 2020 - Macros for a More Productive Rust by jam1garner
+https://youtu.be/dZiWkbnaQe8
+
+RustConf 2020 - My First Rust Project Creating a Roguelike with Amethyst by Micah Tigley
+https://youtu.be/GFi_EdS_s_c
+
+RustConf 2020 - Rust for Non-Systems Programmers by Rebecca Turner
+https://youtu.be/BBvcK_nXUEg
+Videos 201-225

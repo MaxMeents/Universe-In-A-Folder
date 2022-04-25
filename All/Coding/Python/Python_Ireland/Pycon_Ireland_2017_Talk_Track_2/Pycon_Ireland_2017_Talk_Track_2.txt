@@ -1,0 +1,40 @@
+
+Pycon Ireland 2017  Discrete Event Simulation - Jan van der Vegt
+https://youtu.be/Ss13QdNU1vY&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 A Django project template for a RESTful Application using Docker -Jaime Buelta
+https://youtu.be/oMQh6Qk5Egw&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Convolution Neural Networks for Legal Text Analytics - Michael Dineen
+https://youtu.be/13PJtIZSNRo&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 How to make a Lisp - Neal Ó Riain
+https://youtu.be/0r8eIU_aJsY&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Interacting with C and Rust using CFFI - Romain Guillebert
+https://youtu.be/5ISvuk5pw90&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Microservices Death by a Thousand Cuts - Vishal Vatsa
+https://youtu.be/FxV5g_u4Uzk&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Predicting the past - Piotr Milian
+https://youtu.be/HjMpQXabvqw&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Recruitment Session
+https://youtu.be/i7nkK2txleI&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Star Wars A Social Network Analysis - Siobhán Grayson
+https://youtu.be/HYm0Lnj6HQ0&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Text Classification with Word Vectors & Recurrent Neural Networks - Shane Lynn
+https://youtu.be/KcS6nVUT3Gc&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Understanding Customer Intent at Scale in an e-commerce Platform
+https://youtu.be/aMl06NL99V0&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Understanding Natural Language using Word Vectors - Marco Bonzanini
+https://youtu.be/GlKjHjPqUnE&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+
+Pycon Ireland 2017 Using Scikit Learn to Improve Existing Risk Models - PJ Fitzpatrick
+https://youtu.be/_vmDFJx5mHg&list=PLNeBS51Q0m9-nO6L1r6_WQP08Q8_cVcTo
+Pycon Ireland 2017 Talk Track 2

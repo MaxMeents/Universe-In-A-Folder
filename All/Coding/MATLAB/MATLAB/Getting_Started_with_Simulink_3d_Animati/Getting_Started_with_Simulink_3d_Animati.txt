@@ -1,0 +1,16 @@
+
+Getting Started with Simulink 3D Animation (Part 1) - Build a Simulink Model
+https://youtu.be/2kK__pD-6_k&list=PLn8PRpmsu08oH6ik5NK-fdbt5QVWdCFhG
+
+Getting Started with Simulink 3D Animation (Part 2) - Build a 3D World in VRML
+https://youtu.be/WhYA6RvOea0&list=PLn8PRpmsu08oH6ik5NK-fdbt5QVWdCFhG
+
+Getting Started with Simulink 3D Animation (Part 3) - Connect Simulink Model with 3D World
+https://youtu.be/xITaSozcq00&list=PLn8PRpmsu08oH6ik5NK-fdbt5QVWdCFhG
+
+Getting Started with Simulink 3D Animation (Part 4) - Damped Oscillations
+https://youtu.be/YtUnzmmaEpM&list=PLn8PRpmsu08oH6ik5NK-fdbt5QVWdCFhG
+
+Getting Started with Simulink 3D Animation (Part 5) - Temperature Visualization
+https://youtu.be/YHVNQevoQGo&list=PLn8PRpmsu08oH6ik5NK-fdbt5QVWdCFhG
+Getting Started with Simulink 3d Animation

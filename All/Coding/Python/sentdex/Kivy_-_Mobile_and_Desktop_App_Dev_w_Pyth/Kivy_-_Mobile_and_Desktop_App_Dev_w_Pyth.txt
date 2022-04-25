@@ -1,0 +1,22 @@
+
+Android deployment - Kivy Mobile and Desktop App Dev w Python
+https://youtu.be/CIW0H70wo0M&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+
+Buttons & Events - Kivy Mobile and Desktop App Dev w Python
+https://youtu.be/8I2fMqrruwc&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+
+Changing Screenviewpage - Kivy Mobile and Desktop App Dev w Python
+https://youtu.be/sJmkhV02lnM&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+
+Chat Application Page - Kivy Mobile and Desktop App Dev w Python
+https://youtu.be/62LSK62Gudc&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+
+Finishing Chat Application - Kivy Mobile and Desktop App Dev w Python
+https://youtu.be/lmWE2bydekk&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+
+Kivy Intro - Mobile and Desktop App Dev w Python
+https://youtu.be/FjwD0SOGQ1k&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+
+Scheduling tasksfunctionsmethods - Kivy Mobile and Desktop App Dev w Python
+https://youtu.be/hsnch676Lco&list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF
+Kivy - Mobile and Desktop App Dev w Python

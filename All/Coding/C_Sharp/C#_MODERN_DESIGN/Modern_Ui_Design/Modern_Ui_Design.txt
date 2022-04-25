@@ -1,0 +1,31 @@
+
+Age Calculator design  Formula  C#
+https://youtu.be/K_72v0sdWXY&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Bubble Sort Algorithm Design  Time Complexity  C#
+https://youtu.be/WmwPaWO4zWA&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Caculator Winforms Design  C#
+https://youtu.be/Q-hsoM131Uo&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Chat App modern design  C#
+https://youtu.be/xeTScEIi7HU&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+ChatBot design using the concept of AI  C#
+https://youtu.be/4NXe-RTgcjw&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+DESKTOP Shareit design  Send and Receive Data  C#
+https://youtu.be/xIHci6e9LX4&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Mp3 Player design  C#
+https://youtu.be/RG4JuXwBuvY&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Send Attachment  Emails in C# design  C#
+https://youtu.be/7Td0pyK8IbU&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Take Screenshot in C# design  Capture Screen  C#
+https://youtu.be/QAKErIbIdK0&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+
+Text to Speech Converter  Voice Recorder  C#
+https://youtu.be/nqcxHk1s7WI&list=PLD4yJgnADM0qLupPkLo5XLErMJh3TClhx
+Modern Ui Design

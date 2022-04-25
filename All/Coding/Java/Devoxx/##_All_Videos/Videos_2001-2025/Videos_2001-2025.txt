@@ -1,0 +1,76 @@
+
+6 years of Gradle at LinkedIn by Szczepan Faber
+https://youtu.be/XnilWruJ6WU
+
+A Post Apocalyptic sun misc Unsafe World
+https://youtu.be/_bVcHCt-J6Y
+
+Cloud Native Java with Josh Long
+https://youtu.be/cX7_I58NiAI
+
+Collections Refueled by Stuart Marks
+https://youtu.be/q6zF3vf114M
+
+Developing Microservices with Aggregates by Chris Richardson
+https://youtu.be/gR_EGN86fvg
+
+Docker for developers and ops by Patrick Chanezon
+https://youtu.be/HY6H5lsCdzo
+
+Eclipse JDT Embraces Java 9 - An Insider's view by Manoj Palat
+https://youtu.be/o9rZmvWglno
+
+Fifty Shades of Android Studio by Murat Yener
+https://youtu.be/O3Xj1vBc0Xg
+
+Finalizers - The not so good, the bad and the ugly by Gautam Singh
+https://youtu.be/2Ucu6OReVwA
+
+Great tools for engineers even cleaner tests with Mockito 2 by Szczepan Faber
+https://youtu.be/Rl7g0duuDkU
+
+Hijacking IoT with IBM Watson
+https://youtu.be/G3_aCxtzfFk
+
+Implementing IoT Architectures with Open Source by Benjamin Cabe
+https://youtu.be/LK_a1RtCspo
+
+Java 9 in Anticipation by Trisha Gee
+https://youtu.be/eDV1JUMqMDU
+
+Java for Education using SnapCode by Jeff Martin
+https://youtu.be/KjcvZyN3DYA
+
+JDK 9 Language, Tooling, and Library Features by Joe Darcy
+https://youtu.be/KQiYlWFvc68
+
+Lets learn to talk to GC logs by Poonam Parhar
+https://youtu.be/YujkxK3RfS0
+
+Machine Learning at Scale by Yufeng Guo
+https://youtu.be/hOpMu8eIvhg
+
+Modular Development with JDK 9 by Alex Buckley
+https://youtu.be/rfOjch4p0Po
+
+My Slow Internet Vs Docker by Ray Tsang
+https://youtu.be/PUOuhPk0WAg
+
+Navigate All the Knowledge by James Weaver
+https://youtu.be/M14jH8tfsaU
+
+Netflix Keystone - Real-time Stream Processing Cloud Service by Monal Daxini
+https://youtu.be/YrENL4J-fGk
+
+Nuking Nasty Memory Leaks by Pierre-Yves Ricau
+https://youtu.be/fhE--eTEW84
+
+Preparing for JDK 9 - AKA The Sharp Edges of JDK 9
+https://youtu.be/PvdMuvfqC9g
+
+The End of Polling by Audrey Neveu
+https://youtu.be/T26J0akZxWs
+
+Your next JVM Panama, Valhalla, Metropolis by John Rose
+https://youtu.be/OMk5KoUIOy4
+Videos 2001-2025

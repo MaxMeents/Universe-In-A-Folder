@@ -1,0 +1,13 @@
+
+Cloud Firestore Tutorial for iOS - (with Firebase authentication!)
+https://youtu.be/P1cNScXGlVI&list=PLMRqhzcHGw1ZsFRLAWa_Axx7daXteynjh
+
+Firebase Authentication Tutorial 2020 - Custom iOS Login Page (Swift)
+https://youtu.be/1HN7usMROt8&list=PLMRqhzcHGw1ZsFRLAWa_Axx7daXteynjh
+
+Firebase Firestore Tutorial - Data Model (Lesson 2)
+https://youtu.be/OunS3tLLrPY&list=PLMRqhzcHGw1ZsFRLAWa_Axx7daXteynjh
+
+Firebase Tutorial - Create, Read, Update, Delete data (Lesson 3)
+https://youtu.be/qA9L3_cK9Z0&list=PLMRqhzcHGw1ZsFRLAWa_Axx7daXteynjh
+Firebase Tutorial for iOS (2019)

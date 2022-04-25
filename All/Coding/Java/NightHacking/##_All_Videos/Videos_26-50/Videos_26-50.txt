@@ -1,0 +1,34 @@
+
+Compare Java's var with C#'s var
+https://youtu.be/VIvgFPeOonM
+
+CQRS, Event Sourcing & When to Choose What - JCrete 2018
+https://youtu.be/VhsqM21Iqcc
+
+Decrypting Tech Hype for the Busy Coder
+https://youtu.be/3Qr1jXn_Ct8
+
+Future JDK Releases - JCrete 2018
+https://youtu.be/luNP8tspuUc
+
+Get ready for a service-meshed Java Enterprise
+https://youtu.be/6tYxoCpy2Bs
+
+Introduction of DevTour Japan 2018 in Osaka
+https://youtu.be/xsFOlXMwMdk
+
+Jfokus VM Tech Summit
+https://youtu.be/GQNAvbnVMCg
+
+Kubernetes for Docker Developers
+https://youtu.be/mgh4FS2B_Jw
+
+L2C Benchmarks or how I learned to stop worrying and love JMH
+https://youtu.be/DL-8PbwOTAM
+
+NightHacking Live Stream
+https://youtu.be/cg-IwCJl4Ig
+
+Running Java applications on Docker pratical tips and valuable insights
+https://youtu.be/_wWKLN-3W7U
+Videos 26-50

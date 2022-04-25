@@ -1,0 +1,76 @@
+
+Alexander Hendorf - Data Analysis and Map-Reduce with mongoDB and pymongo
+https://youtu.be/O_pzz5X0s04
+
+Antoine Pitrou - Numba, a JIT compiler for fast numerical code
+https://youtu.be/-3KMZEPXQNQ
+
+Armin Rigo - The GIL is dead PyPy-STM
+https://youtu.be/e8wUiGDDVno
+
+Brecht Machiels - RinohType, a document processor inspired by LaTeX
+https://youtu.be/HLRQPZI4L5Y
+
+Ekaterina Tuzova - NumPy vectorize your brain
+https://youtu.be/wSsuggB6dCM
+
+Eugene Amirov - Sustainable way of testing your code
+https://youtu.be/FbKlSXTK98c
+
+Guido van Rossum - Keynote Python now and in the future
+https://youtu.be/bp3mCgrdMxU
+
+Guido van Rossum - Type Hints for Python 3.5
+https://youtu.be/Yqnrfa5ri7E
+
+Holger Krekel - Keynote Towards a more effective, decentralized web
+https://youtu.be/10XUZVKzfZA
+
+Honza Král - Beyond the basics with Elasticsearch
+https://youtu.be/yIixWzjTNog
+
+Ignacio Elola - Everyone can do Data Science in Python
+https://youtu.be/67SZeV1iSL4
+
+Igor Davydenko - Asyncio Stack & React.js or Development on the Edge
+https://youtu.be/WCez3zbM2eU
+
+Jean-Philippe Caissy - Static type-checking is dead, long live static type-checking in Python!
+https://youtu.be/xuY7qlDY6_s
+
+Juan Manuel Santos - Salting things up in the sysadmin's world
+https://youtu.be/w1zcUNMwac0
+
+Jyrki Pulliainen - How-To Build a local Python community
+https://youtu.be/BJ_1ROah-lI
+
+Larry Hastings - Python's Infamous GIL
+https://youtu.be/4zeHStBowEk
+
+Lesuisse - Odoo the underdog python killer app. A python framework for web based business apps.
+https://youtu.be/qQi9Vor-5-M
+
+Lynn Root - Metrics-driven development
+https://youtu.be/URwL23hQn4U
+
+Michal Hořejšek - Testing web apps with Selenium
+https://youtu.be/gxNE1O9s-9w
+
+Patrick Mühlbauer - Building nice command line interfaces - a look beyond the stdlib
+https://youtu.be/BdQClprjdjU
+
+Peter Hoffmann - PySpark - Data processing in Python on top of Apache Spark.
+https://youtu.be/ukW89Dbt5hk
+
+Radosław Jankiewicz - Writing quality code
+https://youtu.be/05gOxcsup9c
+
+Raphael Pierzina - Come to the Dark Side! We have a whole bunch of Cookiecutters!
+https://youtu.be/yxXio-jzAMQ
+
+Vaidik Kapoor - Understanding Non-blocking IO
+https://youtu.be/t0VljE9kq1Q
+
+Vlad Temian - gitfs - building a filesystem in Python
+https://youtu.be/LEJb1VZxRoE
+Videos 976-1000

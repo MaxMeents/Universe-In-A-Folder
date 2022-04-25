@@ -1,0 +1,28 @@
+
+Hunter Gatherer, a 1-click search summarizer #MP35
+https://youtu.be/DuwWlXh9-vI&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+Intro to Pandas with IPython notebook #MP35
+https://youtu.be/2JJ102ZpoH0&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+La personne du mois Greg Wilson #MP35
+https://youtu.be/O2hFZH_OOlg&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+Léa transformée avec scikit-image #MP35
+https://youtu.be/fqCu6kkPNxU&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+Module of the Month mock #MP35
+https://youtu.be/sB4hfBt_Ckc&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+PyBrain, a modular machine learning library for Python #MP35
+https://youtu.be/thAHR3_nj8E&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+Python for high performance and scientific computing #MP35
+https://youtu.be/k_Z8REQo3Ks&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+Using NLTK #MP35
+https://youtu.be/KwDjL3lXz8Y&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+
+Using Python for large scale network analysis #MP35
+https://youtu.be/7pZH3BsiexM&list=PLQIcnBElABass184Zw954C66ijIgWWMLM
+MP-35

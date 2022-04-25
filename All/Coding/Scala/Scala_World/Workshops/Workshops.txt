@@ -1,0 +1,49 @@
+
+A Whirlwind Tour of scala.meta—Ólafur Páll Geirsson
+https://youtu.be/-l7pV0sFq1c&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+An Unexceptional Scalaz Workshop — Chris Marshall
+https://youtu.be/ilKb66-PCm0&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Brian Clapper—Spark for Scala Developers
+https://youtu.be/zXipqCcVmQM&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Edmund Noble—Data, and when not to use it
+https://youtu.be/q6JCvdMWtmo&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Emily Pillmore Type Arithmetic and the Yoneda Lemma
+https://youtu.be/aXS5HZ_1fNQ&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Encoding Async Graphs with Dependent Types—Jon Pretty
+https://youtu.be/v60SWyYUW6Q&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Essential vs Accidental Complexity in Scala & Dotty—Andrew Phillips
+https://youtu.be/Ay-9aanosUM&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Formal Logic Undressed — Paul Snively
+https://youtu.be/saMtzIaDCJM&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Hands-on Dotty — Dmitry Petrashko
+https://youtu.be/aftdOFuVU1o&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Hands-on Scala.Meta — Eugene Burmako
+https://youtu.be/RBjZ7OxFxxg&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Principles for Modular, Functional, Approachable Libraries — Erik Osheim
+https://youtu.be/iKyIKozv8a8&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Reactive Streams  Akka Streams — Mathias Doenitz & Johannes Rudolph
+https://youtu.be/6VBn9V3S2aQ&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Scala.js Workshop — Sébastien Doeraene
+https://youtu.be/4tM-jwlfvLg&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Scalafix Workshop—Gabriele Petronella
+https://youtu.be/uaMWvkCJM_E&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+The Type Astronaut's Guide to Shapeless—Dave Gurnell
+https://youtu.be/Zt6LjUnOcFQ&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+
+Writing a Compiler Plugin or Macro—Sam Halliday & Rory Graves
+https://youtu.be/tIFEKeDYiTo&list=PL9KXdMOfekvYHwik9sgslVLbBAnApLIGA
+Workshops

@@ -1,0 +1,76 @@
+
+Argparse for CLI - Intermediate Python Programming p.3
+https://youtu.be/0twL6MXCLdQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Args and Kwargs - Intermediate Python Programming p.25
+https://youtu.be/gZB_ENJD34E&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Creating an Environment for our Object - Intermediate Python Programming p.14
+https://youtu.be/hLJfNuPg_oI&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Decorators - Intermediate Python Programming p.18
+https://youtu.be/rPCeCPT-f28&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Detecting collisions - Intermediate Python Programming p.20
+https://youtu.be/MF4NWqArewo&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Enumerate - Intermediate Python Programming p.7
+https://youtu.be/bOGmYvtw-kk&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Error Handling - Intermediate Python Programming p.23
+https://youtu.be/7-2rNHi9EfU&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Getting returned values from Processes - Intermediate Python Programming p.11
+https://youtu.be/kUKOEuPJXGc&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Introduction - Intermediate Python Programming p. 1
+https://youtu.be/YSe9Tu_iNQQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+List comprehension and generator expressions - Intermediate Python Programming p.4
+https://youtu.be/ZoWgzG_r2qo&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Logging - Intermediate Python Programming p.22
+https://youtu.be/-RcDmGNSuvU&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Many Blob Objects - Intermediate Python Programming p.15
+https://youtu.be/Cf9r5oOe5CY&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+More on list comp and generators - Intermediate Python Programming p.5
+https://youtu.be/MJUbUDa-YCA&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Multiprocessing - Intermediate Python Programming p.10
+https://youtu.be/oEYDqQ1pq9o&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Multiprocessing spider example - Intermediate Python Programming p.12
+https://youtu.be/N0ph2a6Vd7M&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Object Modularity Thoughts - Intermediate Python Programming p.16
+https://youtu.be/mbHc1prq-4g&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Object Oriented Programming Introduction - Intermediate Python Programming p.13
+https://youtu.be/ekA6hvk-8H8&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+OOP inheritance - Intermediate Python Programming p.17
+https://youtu.be/GZeGkjE38bI&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Operator overloading - Intermediate Python Programming p.19
+https://youtu.be/Qhj21B7kTkM&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Special Methods, OOP, Iteration - Intermediate Python Programming p.21
+https://youtu.be/jucLTJCM5jA&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+String Concatenation and Formatting - Intermediate Python Programming p.2
+https://youtu.be/jA5LW3bR0Us&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Timeit Module - Intermediate Python Programming p.6
+https://youtu.be/Fw7u3fKFDqI&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Writing our own Generator - Intermediate Python Programming p.9
+https://youtu.be/PewCyZSrnOI&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+Zip - Intermediate Python Programming p.8
+https://youtu.be/bMxEU0iG-KA&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+
+__str__ and __repr__  - Intermediate Python Programming p.24
+https://youtu.be/vOqrMPcF7xQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
+Videos 1-25

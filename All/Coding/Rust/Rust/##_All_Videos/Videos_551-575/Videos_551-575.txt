@@ -1,0 +1,76 @@
+
+Antonin Carette - Why you should take a look at Rust
+https://youtu.be/Fn0TZCt_Fno
+
+Donald Whyte - Testing in Rust
+https://youtu.be/sZ8mF3CBAZE
+
+Dzmitry Malyshau, Markus Siglreithmaier - Portable graphics abstraction in Rust
+https://youtu.be/oy6xFkJcoi8
+
+Farid Nouri Neshat - Writing Node.js Modules in Rust
+https://youtu.be/5Cbjk8w9mEM
+
+Frank Rehberger - Rust - embedding WebAssembly for scripting
+https://youtu.be/EmoaYQ4MpC0
+
+Guillaume Gomez - Introducing gtk-rs
+https://youtu.be/WtnntRAlo40
+
+Jan-Erik Rediger - WebAssembly for the Rust of Us (Rust Hungary #3, 2017-11-23)
+https://youtu.be/FJoYZUMOwM4
+
+Jorge Aparicio Rivera - Rusty Robots
+https://youtu.be/XyMqYdJeXu8
+
+Jos van den Oever - Qt GUIs with Rust
+https://youtu.be/fJ-6wsn1bZg
+
+Luca Barbato - Introducing rust-av
+https://youtu.be/lBFdr85PgW8
+
+Matthias Endler - Idiomatic Rust
+https://youtu.be/P2mooqNMxMs
+
+Nikita Baksalyar - Demystifying Rust Parsing
+https://youtu.be/4qEuWJPVeFs
+
+Oliver Schneider - Reaching const evaluation singularity
+https://youtu.be/EnL2mhkyeuE
+
+Pascal Hertleif - rustfix
+https://youtu.be/TelWL2YfYk0
+
+Péter Czibik - Fast & Safe Native node.js Modules with Rust (Rust Hungary #3, 2017-11-23)
+https://youtu.be/zz1Gie9FkbI
+
+RustFest Zürich 2017 - Impractical Macros by Alex Burka
+https://youtu.be/ApOUBBOvZDo
+
+RustFest Zürich 2017 - Mistakes to avoid when writing a wrapper around a C library by Pierre Krieger
+https://youtu.be/LLde-PJJZQA
+
+RustFest Zürich 2017 - Rust an alternative to high-level programming languages by Élisabeth Henry
+https://youtu.be/Uocesohc6Z0
+
+RustFest Zürich 2017 - Rust In Rhymes by Andre 'llogiq' Bogus
+https://youtu.be/JR6aHXlRAOM
+
+RustFest Zürich 2017 - SHAR Rust's gamedev experience by Fedor Logachev
+https://youtu.be/nXR8f4r6ggM
+
+RustFest Zürich 2017 - Teaching an IDE to understand Rust by Igor Matuszewski
+https://youtu.be/-OPc_XvVLVs
+
+Sebastian Dröge - GStreamer & Rust
+https://youtu.be/znEEkyGmkcc
+
+Siddon Tang - TiKV - building a distributed key-value store with Rust
+https://youtu.be/mSRwr7I-ZOg
+
+Valentin Goşu - Oxidation - How We Got Rust Code into Firefox (Rust Hungary #3, 2017-11-23)
+https://youtu.be/7ti6EtP8W8c
+
+Zeeshan Ali - Rust Memory Management
+https://youtu.be/LYxxJL6Jumo
+Videos 551-575

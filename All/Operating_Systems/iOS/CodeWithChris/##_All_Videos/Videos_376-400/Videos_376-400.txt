@@ -1,0 +1,76 @@
+
+Build a Shopping App with Moltin - Ep 1 - Introduction
+https://youtu.be/Dxuy4pagxiY
+
+Build a Shopping App with Moltin - Ep 2 - Setting up your store
+https://youtu.be/L0gSi3HUo3o
+
+Build a Shopping App with Moltin - Ep 3 - Xcode project, Cocoapods and Moltin SDK
+https://youtu.be/2Ai433HaTjo
+
+Build a Shopping App with Moltin - Ep 4 - Listing our Products
+https://youtu.be/lim3t6xdbXg
+
+Build a Shopping App with Moltin - Ep 5 - Product Details
+https://youtu.be/yFv3nHw0eRw
+
+Build a Shopping App with Moltin - Ep 6 - Add to Cart
+https://youtu.be/Lcy3lCQzq1w
+
+Build a Shopping App with Moltin - Ep 7 - Checkout
+https://youtu.be/g157A59d_CY
+
+How To Make a YouTube Video App - Ep 01
+https://youtu.be/JDbEgOsWGG4
+
+How To Make a YouTube Video App - Ep 02 - Adding the UITableView
+https://youtu.be/DO_3ECSL0rc
+
+How To Make a YouTube Video App - Ep 03 - Creating the Video Data
+https://youtu.be/48kekFLZkXU
+
+How To Make a YouTube Video App - Ep 04 - Displaying Video Titles
+https://youtu.be/AZxK_6OQV7c
+
+How To Make a YouTube Video App - Ep 05 - Video Thumbnails
+https://youtu.be/mlzu_DXtG80
+
+How To Make a YouTube Video App - Ep 06 - Titles on Thumbnails
+https://youtu.be/nVu0naGTS_I
+
+How To Make a YouTube Video App - Ep 07
+https://youtu.be/ewSBggmhfrE
+
+How To Make a YouTube Video App - Ep 08 - Custom class detail view controller
+https://youtu.be/MkPQEXK5lRE
+
+How To Make a YouTube Video App - Ep 09 - Displaying the Video Detail Views
+https://youtu.be/kHU8sdqxmKA
+
+How To Make a YouTube Video App - Ep 10 - YouTube Data API, Alamofire
+https://youtu.be/YGIyaim_5kw
+
+How To Make an App - Ep 11 - Swift IBOutlet Properties (Xcode 7, Swift 2)
+https://youtu.be/LNs25ecXnxk
+
+How To Make an App - Ep 13 - Image Asset Library in Xcode 7 (Swift 2, iOS 9)
+https://youtu.be/mM-FQHIctTA
+
+How To Make an App - Ep 14 - Randomizing the cards (Xcode 7, Swift 2, iOS 9)
+https://youtu.be/n39h7gK1Q40
+
+How To Make an App - Ep 15 - Introducing Arrays in Swift (Xcode 7, Swift 2)
+https://youtu.be/3yU9LWzw018
+
+How To Make an App - Ep 16 - Determining a Winner with IF Statements (Xcode 7)
+https://youtu.be/tkx06nlP15s
+
+How To Make an App - Ep 17 - Styling and Keeping Score (Xcode 7, Swift 2)
+https://youtu.be/vJKctN58qrU
+
+How To Play a Local Video File in Your App using AVPlayerViewController
+https://youtu.be/N7fE93tvqqk
+
+How To Play a Movie Stream using AVPlayerViewController
+https://youtu.be/zG7qgyA5Gb4
+Videos 376-400

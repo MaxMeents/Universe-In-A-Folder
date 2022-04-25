@@ -1,0 +1,31 @@
+
+New Ways to Work in Simulink, Part 1 Introduction and New Simulink Features
+https://youtu.be/UdSogEVGGG0&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 10 Upgrade Simulink to the Latest Release
+https://youtu.be/n21RxPdWu-s&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 2 Editing and Building Models Quickly
+https://youtu.be/8GBAc_6d5MI&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 3 Componentize Your Design
+https://youtu.be/FOE0v68RZ7g&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 4 Model Run-Time Software
+https://youtu.be/c69N2iFJ8_A&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 5 Speed Up Simulations
+https://youtu.be/DN0DhZHXMiA&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 6 Analyze Simulations
+https://youtu.be/DkkImwNzEpU&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 7 Run Algorithms on Hardware
+https://youtu.be/ZoTaoAtaVJU&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 8 Manage Projects Using Automation and Source Control
+https://youtu.be/XuiGJoKwABI&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+
+New Ways to Work in Simulink, Part 9 Manage Design Data
+https://youtu.be/ECNce9f-h7Q&list=PLn8PRpmsu08rVD5-hGVKTKTtUPHpGy3Te
+New Ways to Work in Simulink

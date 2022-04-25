@@ -1,0 +1,46 @@
+
+AES Rijndael Cipher explained as a Flash animation
+https://youtu.be/gP4PqVGudtg
+
+Applied Go Quick Bits 001 go fmt
+https://youtu.be/H3dLAr8ucT0
+
+Applied Go Quick Bits 002 How to make generic data containers type safe
+https://youtu.be/rco7GEg3v0I
+
+Applied Go Quick Bits 003 Pointers vs References
+https://youtu.be/A6G7qxnFUS0
+
+Applied Go Quick Bits 004 Go has no classes
+https://youtu.be/rIr9rtgxgpI
+
+Applied Go Quick Bits 005 An Interface Gotcha
+https://youtu.be/owGPGK5YJ8I
+
+Applied Go Quick Bits 006 goroutines
+https://youtu.be/vyYPU9UE-OI
+
+Applied Go Quick Bits 007 Are goroutines threads
+https://youtu.be/5LfqrEGwDmE
+
+Basic JSON in Go
+https://youtu.be/xyoEqDlokw8
+
+GitHub Copilot And Go
+https://youtu.be/wMCQ5ydkZaM
+
+How to create PDF documents
+https://youtu.be/q7zya972CkI
+
+My new Master Go course has launched
+https://youtu.be/8taRenJ14gE
+
+Regular Expression Basics for Go Programmers
+https://youtu.be/nDiFzmGFjS8
+
+RESTful Web API Basics in Go
+https://youtu.be/iVXaPD_Jbu0
+
+Working with Spreadsheets in Go
+https://youtu.be/fGD5rjENGRc
+Videos 1-15

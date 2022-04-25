@@ -1,0 +1,7 @@
+
+Behaviour Driven Development & Behat - Matt Brunt - PHPSW Testing & Debugging, March 2017
+https://youtu.be/9sRy2LZwkE4&list=PLrEpsyNSHj02BDMoz_wDsUxFirbXohszH
+
+Remote debugging with Xdebug - Tom Adam - PHPSW Testing & Debugging, March 2017
+https://youtu.be/kuYWpjRxz_c&list=PLrEpsyNSHj02BDMoz_wDsUxFirbXohszH
+Testing & Debugging, March 2017

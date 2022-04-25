@@ -1,0 +1,19 @@
+
+Ben Shaw An introduction to Helio
+https://youtu.be/w_fFONTSzig&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Brenda Moon Exploring Science on Twitter with IPython Notebook and Python Pandas
+https://youtu.be/FzCk747yjCU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Craig de Stigter Intro to Metaclasses
+https://youtu.be/OCDbLcCB-uA&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Dylan Jay The myth of goldilocks and the three frameworks, Pyramid, Django and Plone
+https://youtu.be/XdKk5rrZG8E&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Graham Dumpleton Advanced methods for creating decorators
+https://youtu.be/W7Rv-km3ZuA&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Rhys Elsmore How to Lose Friends and Influence Burnout
+https://youtu.be/2lrRix3PM4k&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+Videos 26-31

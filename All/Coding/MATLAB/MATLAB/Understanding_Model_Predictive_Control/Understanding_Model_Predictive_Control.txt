@@ -1,0 +1,25 @@
+
+Nonlinear MPC Design  Understanding Model Predictive Control, Part 8
+https://youtu.be/4aEWX05v9pk&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 1 Why Use MPC
+https://youtu.be/8U0xiOkDcmw&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 2 What is MPC
+https://youtu.be/cEWnixjNdzs&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 3 MPC Design Parameters
+https://youtu.be/dAPRamI6k7Q&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 4 Adaptive, Gain-Scheduled and Nonlinear MPC
+https://youtu.be/hkYf-Chqwdw&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 5 How To Run MPC Faster
+https://youtu.be/1MpbPd6Ri-8&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 6 How to Design an MPC Controller with Simulink
+https://youtu.be/evyvdvApPLY&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+
+Understanding Model Predictive Control, Part 7 Adaptive MPC Design with Simulink
+https://youtu.be/aQhpvrQPxD4&list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8
+Understanding Model Predictive Control

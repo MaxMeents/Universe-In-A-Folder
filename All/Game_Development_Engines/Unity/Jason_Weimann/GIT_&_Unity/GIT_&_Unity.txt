@@ -1,0 +1,16 @@
+
+Collaborating with Unity - How to use Git Remotes
+https://youtu.be/tbToX-yqAN4&list=PLB5_EOMkLx_X7VgZxsjsd2WatkjocMXcb
+
+How to use Source Control with Unity & Git
+https://youtu.be/tNhIh3NzANc&list=PLB5_EOMkLx_X7VgZxsjsd2WatkjocMXcb
+
+Unity3D - How to Merge Scenes in GIT
+https://youtu.be/yQvbaBgxA34&list=PLB5_EOMkLx_X7VgZxsjsd2WatkjocMXcb
+
+Unity3D Branching & Merging with GIT
+https://youtu.be/hBvr1zXlMco&list=PLB5_EOMkLx_X7VgZxsjsd2WatkjocMXcb
+
+Unity3D HowTo Avoid Scene Merge Conflicts with GIT
+https://youtu.be/YgoCp2tzRh0&list=PLB5_EOMkLx_X7VgZxsjsd2WatkjocMXcb
+GIT & Unity

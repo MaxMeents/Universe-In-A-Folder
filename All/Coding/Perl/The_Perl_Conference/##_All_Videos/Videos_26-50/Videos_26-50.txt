@@ -1,0 +1,76 @@
+
+20 years of Perl - brian d foy
+https://youtu.be/S_L6Ey2bs-k
+
+CMDB Driven by Perl - Jens Rehsack
+https://youtu.be/P7Lk1C4sbXM
+
+cperl - Reini Urban
+https://youtu.be/60gkNmDWyes
+
+ES6 Almost an acceptable perl5? - Matt S Trout
+https://youtu.be/-c-uA9F4-o4
+
+Fighting technical debt with kritika.io? - Viacheslav Tykhanovskyi
+https://youtu.be/fsrr5SVuzW4
+
+Function Signatures Compared - Perl6, Perl5.20 and Sub?Sig? - Rolf Langsdorf
+https://youtu.be/lwW9SSak1yE
+
+Functional Programming in Perl 6 - Laurent Rosenfeld
+https://youtu.be/bJ_zYJXTLWg
+
+Introduction to Mojolicious - Marcus Ramberg
+https://youtu.be/tHU3ls11y6w
+
+Is the application translation problem solved - Lars Dieckow
+https://youtu.be/n3aIdh9IaoQ
+
+It's in the bag How to cheat at interviews using Pel 6 - John Haltiwanger
+https://youtu.be/BE8F47-GuoA
+
+Low-end Perl - Choroba
+https://youtu.be/Fy-e7N-vXW0
+
+Mapping World Literature - Ervin Ruci
+https://youtu.be/2gA3-kJ5avk
+
+Mob programming the CPAN Pull Request Challenge - Lance Wicks
+https://youtu.be/FTMZ8__6uPk
+
+Porting the Perl Programming Language to the JVM - Flavio Glock
+https://youtu.be/n9htVGitBIE
+
+Practical cryptography - Leon Timmermans
+https://youtu.be/r3nLX05pog4
+
+Precise Math in Perl 5 - A Lost Cause - Martin Becker
+https://youtu.be/Sq4d9ZAuJgM
+
+Rakudo.js - compiling Perl 6 to JavaScript? - Paweł Murias
+https://youtu.be/LN0mKjmraVs
+
+Spit A Postmodern DevOps tool, written in Perl 6? - Lloyd Fournier
+https://youtu.be/RGaQ397bTv4
+
+Template toolkit translations - Mark Overmeer
+https://youtu.be/LCgvc4UfUH0
+
+Working with Perl in cloud-land - Jose Luis Martines Torres
+https://youtu.be/YBsCJ6k9brU
+
+“Asynchronous communication using RabbitMQ” - Miroslav Tynovsky
+https://youtu.be/6JjB8_HXVF4
+
+“High-Performance IO or How to write a SSD to death? “ - Thomas Reifenberger
+https://youtu.be/oMIHsNSji8o
+
+“How to test your web application in a browser” - Jan Henning Thorsen
+https://youtu.be/A3zAXAf22jg
+
+“Perl 6 Q&A From The Trenches?” - Elizabeth Mattijsen
+https://youtu.be/m2AC-aDPDhM
+
+?Adding Structured Data to Log?Any? - Philipp Gortan
+https://youtu.be/oJTQOy-OXPc
+Videos 26-50

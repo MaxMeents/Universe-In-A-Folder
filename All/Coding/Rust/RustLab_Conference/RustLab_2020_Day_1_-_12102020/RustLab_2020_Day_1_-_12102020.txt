@@ -1,0 +1,16 @@
+
+Conference opening - Simone Zinanni & Matteo Benci
+https://youtu.be/2LbAoAx-gWQ&list=PLkgYzo_ZZ7KCpdDYenwahg3-I7xQfqjDg
+
+Getting Started with MongoDB & Rust - Mark Smith
+https://youtu.be/fm6oinNergw&list=PLkgYzo_ZZ7KCpdDYenwahg3-I7xQfqjDg
+
+KEYNOTE A journey through incremental computation - Raph Levien
+https://youtu.be/DSuX-LIAU-I&list=PLkgYzo_ZZ7KCpdDYenwahg3-I7xQfqjDg
+
+Transistor, a bitemporal database client - Julia Naomi & Otavio Paulino Pace
+https://youtu.be/WZ_kkWfjY0g&list=PLkgYzo_ZZ7KCpdDYenwahg3-I7xQfqjDg
+
+Write HTTP APIs - Tommaso Allevi
+https://youtu.be/0Fe1aJO3d-s&list=PLkgYzo_ZZ7KCpdDYenwahg3-I7xQfqjDg
+RustLab 2020 Day 1 - 12102020

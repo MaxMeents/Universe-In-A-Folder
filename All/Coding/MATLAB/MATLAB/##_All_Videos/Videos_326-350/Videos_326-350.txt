@@ -1,0 +1,76 @@
+
+Create Plots from Your Data Quickly and Interactively in MATLAB
+https://youtu.be/9J76Q1C8i2k
+
+Creating Arena Tracks - MathWorks Minidrone Competition
+https://youtu.be/bkpEEVXruPM
+
+Data Preprocessing and the Short-Time Fourier Transform  Deep Learning for Engineers, Part 3
+https://youtu.be/N780rQIXSgc
+
+Deploying Deep Learning Models   Deep Learning for Engineers, Part 5
+https://youtu.be/WcRWd2SzL8k
+
+Field-Oriented Control Calibrating Sensors, Estimating Parameters, and Modeling
+https://youtu.be/Lb2VpRjqrXI
+
+Field-Oriented Control Deploying Code to a Microcontroller
+https://youtu.be/_HPdjZUXmao
+
+Field-Oriented Control Designing the Control Algorithm
+https://youtu.be/IBlyOyvARmM
+
+Getting Started with Image Processing
+https://youtu.be/nAVgUfk-ALE
+
+How to Filter Signals in Simulink
+https://youtu.be/gXSCgj_vu1A
+
+Impact of Cell Temperature on Battery Aging
+https://youtu.be/O5v9n_yFyBw
+
+Introduction to GPU Computing with MATLAB
+https://youtu.be/F2z5iP9EcnI
+
+Model and Simulate an Electric All-Terrain Vehicle with Simscape
+https://youtu.be/ZcE05doIAoI
+
+Simulink for Virtual Vehicle Development
+https://youtu.be/_UzCuU8CjqY
+
+Tutorial on Support Vector Machines and using them in MATLAB
+https://youtu.be/Qkw1IPy--Vc
+
+Using MATLAB Grader for Assignments in the Canvas LMS
+https://youtu.be/V_wo5dMWpOo
+
+Using Transfer Learning  Deep Learning for Engineers, Part 4
+https://youtu.be/mxvSnCRFM6s
+
+What Are Messages in Simulink
+https://youtu.be/k0yVviAsujg
+
+What Is Aerospace Blockset
+https://youtu.be/Pqt54HDqWJw
+
+What Is Aerospace Toolbox
+https://youtu.be/YVX89RSaUhU
+
+What is Simulink Real-Time
+https://youtu.be/gjPEvzLyTcY
+
+What Is Stateflow - Model and Simulate Decision Logic using State Machines and Flow Charts
+https://youtu.be/TuL8cFqDu6A
+
+What Is Vehicle Network Toolbox
+https://youtu.be/Gin5qfmT3lE
+
+Whats New in MATLAB and Simulink R2021a - MATLAB EXPO 2021
+https://youtu.be/u0Y7vbDd4Zs
+
+Why Choose Deep Learning  Deep Learning for Engineers, Part 1
+https://youtu.be/PqDwddEHswU
+
+Working with Synthetic Data  Deep Learning for Engineers, Part 2
+https://youtu.be/ufGvn0GTkXE
+Videos 326-350

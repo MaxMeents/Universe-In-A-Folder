@@ -1,0 +1,76 @@
+
+try! Swift India 2017 - How Flipkart scrolls at 60fps
+https://youtu.be/Lu1EI-oCTsc
+
+try! Swift India 2017 - Magic Time
+https://youtu.be/edSufQnZDPo
+
+try! Swift India 2017 - May the ‘open’ source be with you.
+https://youtu.be/hijStPBO0Qc
+
+try! Swift India 2017 - Optical Illusion
+https://youtu.be/RHLyU9pNmro
+
+try! Swift India 2017 - Pair programming with the computer
+https://youtu.be/5HJ11WuX4Fs
+
+try! Swift NYC 2016 - There and back again ( Functional Programming )
+https://youtu.be/pgwM-LvMiDU
+
+try! Swift NYC 2017 - A Funny Thing Happened On The Way To This Array
+https://youtu.be/k07P4JbPRQQ
+
+try! Swift NYC 2017 - Building a Framework with VIPER
+https://youtu.be/ET3dPiFjEZE
+
+try! Swift NYC 2017 - Core Data Migrations Can we do Better
+https://youtu.be/Ewo22Z3Z5hg
+
+try! Swift NYC 2017 - Creating Rich Custom UI Notifications
+https://youtu.be/zTLx8gxx8Wc
+
+try! Swift NYC 2017 - Driving View-State through Data for Fun andor Debugging
+https://youtu.be/q1-zQK-LFk0
+
+try! Swift NYC 2017 - Error Handling Made Easy
+https://youtu.be/BVpoU6yactk
+
+try! Swift NYC 2017 - Exploring Natural Language Processing
+https://youtu.be/1N-YVSkcLmE
+
+try! Swift NYC 2017 - Flexible View Controller Interfaces With Swift 4
+https://youtu.be/iOdgQ7i2o7s
+
+try! Swift NYC 2017 - Getting Started with ARKit
+https://youtu.be/0Q-AGuDSDC8
+
+try! Swift NYC 2017 - Improving Swift Tools with libSyntax
+https://youtu.be/5ivuYGxW_3M
+
+try! Swift NYC 2017 - Map and FlatMap Magic
+https://youtu.be/iQ_94Nn2rdU
+
+try! Swift NYC 2017 - Modern RxSwift Architectures
+https://youtu.be/qZZTYIwrhsY
+
+try! Swift NYC 2017 - MVVM at Scale Not so Simple
+https://youtu.be/YCirgnPnZpc
+
+try! Swift NYC 2017 - Server-side Swift Using Vapor
+https://youtu.be/cS01KB2bS3Y
+
+try! Swift NYC 2017 - Ship your App in Less than 10 Minutes
+https://youtu.be/Yhh144dqS9g
+
+try! Swift NYC 2017 - Spontaneous Swift Sudoku Solving
+https://youtu.be/lBLLZxOQNqE
+
+try! Swift NYC 2017 - Swift 4 Codable
+https://youtu.be/RXof713gsqs
+
+try! Swift NYC 2017 - Swift Chatbots for Fun! and Profit
+https://youtu.be/w8Npd8qQx8g
+
+try! Swift NYC 2017 - Twilio Programmable Chat API
+https://youtu.be/0pxSfjtn5XY
+Videos 176-200

@@ -1,0 +1,13 @@
+
+Ashley Williams - How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!
+https://youtu.be/GCsxYAxw3JQ&list=PL85XCvVPmGQi_Dw-8KVZ9PGyG3UO71YDR
+
+Fletcher Nichol - Taking Rust to Production Lessons Learned From the Habitat Project
+https://youtu.be/zAXbPnfTJg4&list=PL85XCvVPmGQi_Dw-8KVZ9PGyG3UO71YDR
+
+Philly ETE 2016 #40 - Rust in Production - Steve Klabnik
+https://youtu.be/0emIUsU1_0E&list=PL85XCvVPmGQi_Dw-8KVZ9PGyG3UO71YDR
+
+RustConf 2017 - Type System Tips for the Real World by Sean Griffin
+https://youtu.be/wxPehGkoNOw&list=PL85XCvVPmGQi_Dw-8KVZ9PGyG3UO71YDR
+Rust in ProductionIndustry

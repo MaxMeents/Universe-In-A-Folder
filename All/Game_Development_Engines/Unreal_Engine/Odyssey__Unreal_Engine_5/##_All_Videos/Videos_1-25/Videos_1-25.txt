@@ -1,0 +1,73 @@
+
+Creating a Zombie AI in UE4 [4.25]  Getting Started [Part 1]
+https://youtu.be/TjoE7Pmank0
+
+Creating a Zombie AI in UE4 [4.25]  More Tasks, More Keys & Sight Perception! [Part 3]
+https://youtu.be/g_WVxm-Wum0
+
+Creating a Zombie AI in UE4 [4.25]  Tasks, Keys & Behaviour Trees! [Part 2]
+https://youtu.be/5qnPGlvmov4
+
+Creating a Zombie AI in UE4 [4.26]  Adding the HUD and Health Bar [Part 7]
+https://youtu.be/eUZOFSZ6tR8
+
+Creating a Zombie AI in UE4 [4.26]  Creating the Attack Logic [Part 6]
+https://youtu.be/yPH-Jyb61lY
+
+Creating a Zombie AI in UE4 [4.26]  New Player Model, Smooth Rotation and Player Chasing [Part 5]
+https://youtu.be/VgqaE_3yVgw
+
+Creating a Zombie AI in UE4 [4.26]  Perception Refinements, Mesh & Animations [Part 4]
+https://youtu.be/kOhWcRjy7yM
+
+Creating a Zombie AI in UE4 [4.26]  The Death Screen, Health Packs and Ragdoll! [Part 8]
+https://youtu.be/c7G5CSP78O0
+
+Fast Track to Unreal Engine 4 - Introduction [S1 E0]
+https://youtu.be/y0Qx92NxM_I
+
+Making a Third Person Shooter in Unreal Engine 4 [4.24]  Adding the HUD and Health Bar [PART 4]
+https://youtu.be/Nw6w6aHC6B8
+
+Making a Third Person Shooter in Unreal Engine 4 [4.24]  Adding Walking and Sprinting [PART 3]
+https://youtu.be/ZLqUPrQcvo8
+
+Making a Third Person Shooter in Unreal Engine 4 [4.24]  Creating the Project [PART 1]
+https://youtu.be/leuYhItmQ5w
+
+Making a Third Person Shooter in Unreal Engine 4 [4.24]  Importing a Character from Mixamo [PART 2]
+https://youtu.be/Y_AZmzv6k9A
+
+Making a Third Person Shooter in Unreal Engine 4 [4.25]  Adding Crouching and Bug Fixes [PART 5]
+https://youtu.be/SNvRRZVYOOw
+
+Mixamo to Unreal Engine 4 Importing and correcting hair materials
+https://youtu.be/DHss0je810k
+
+New UE4 Zombie AI episodes coming very soon!
+https://youtu.be/xDbLrE-P0rY
+
+Preparing AI zombie video - NEW VID 5TH MARCH date error in vid ;)
+https://youtu.be/l3herqF0Zxo
+
+Preparing AI zombie video
+https://youtu.be/72rL5GIoJ44
+
+UE4  Re-creating The Division 2 Inventory - Final [LIVE]
+https://youtu.be/l4hrh24UquI
+
+UE4  Re-creating The Division 2 Inventory [LIVE]
+https://youtu.be/QqF8TQNS6gE
+
+UE5 Early Access  A Quick Introduction
+https://youtu.be/qicGfn57a4E
+
+Unreal Engine 4.24  Basic Main Menu Tutorial
+https://youtu.be/RR6GShccFSs
+
+Unreal Engine 5 Reveal  Incredible New Technologies
+https://youtu.be/KHXY-mjd2NA
+
+[Channel Update] New AI episodes coming very soon + THANK YOU for 100 subs!
+https://youtu.be/1X8HiP2XjtU
+Videos 1-25

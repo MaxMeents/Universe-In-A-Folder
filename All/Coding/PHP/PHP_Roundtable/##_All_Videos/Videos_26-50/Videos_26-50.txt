@@ -1,0 +1,76 @@
+
+034 Debugging is more than var_dump()
+https://youtu.be/HzzRBltZas4
+
+035 Immutable PHP
+https://youtu.be/TNqy3gZdWXQ
+
+036 A Room 11 Special
+https://youtu.be/H6d1DD9yids
+
+037 An ORM Discussion
+https://youtu.be/PmGLGKm4HwE
+
+038 RFC Show & Tell
+https://youtu.be/0ZwjzVlFRcU
+
+039 From Idea To Production Part 2
+https://youtu.be/uWuLklfVRVc
+
+040 Graph Databases
+https://youtu.be/Q8dGkCGxCo8
+
+041 The PHP-FIG Past, Present & Future
+https://youtu.be/tAHfoh641wM
+
+042 Staying Relevant For Web Development
+https://youtu.be/kgic-pFsPvk
+
+043 A Lone Star PHP 2016 Special
+https://youtu.be/5pWVvkFHSPk
+
+044 Asynchronous PHP
+https://youtu.be/XVKi_1eYbrs
+
+045 A phptek 2016 Special
+https://youtu.be/KH52A1mnyuc
+
+046 Character Encoding and UTF-8 in PHP
+https://youtu.be/wHh24GY09xY
+
+047 All About HTTP2
+https://youtu.be/rgHdIvmipwA
+
+048 Docker & PHP
+https://youtu.be/KE_44i1IpE0
+
+049 Event Sourcing in PHP
+https://youtu.be/ithfZs9Uf7E
+
+050 PHP For Beginners
+https://youtu.be/Q7WnSnecj_0
+
+051 What happened to PHP 6
+https://youtu.be/FS_NpP2rD24
+
+052 Happy Birthday PHP Roundtable!
+https://youtu.be/-McEgEyMqlw
+
+053 Why I'm Afraid To Admit I Use PHP
+https://youtu.be/5xRRdqJXdlU
+
+054 Security Encryption, Hashing and PHP
+https://youtu.be/gUjTzhNADRQ
+
+055 Acceptance Testing with Behat
+https://youtu.be/sIgKEhFPoNE
+
+056 Hourly vs Value-Based Pricing
+https://youtu.be/YKcHRn5O_Pc
+
+057 All things Zend
+https://youtu.be/Rheit-aPdew
+
+058 HTTPlug, Guzzle & API's
+https://youtu.be/wwoptpIM7ZE
+Videos 26-50

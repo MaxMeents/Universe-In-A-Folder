@@ -1,0 +1,37 @@
+
+Chapter2   part21  Developing real world applications
+https://youtu.be/xvt0_tEXwFw&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part1  image retrieval
+https://youtu.be/0lsu02GI3Ik&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part10  Content based image retrieval
+https://youtu.be/-JkUGI5kFrA&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part11  Building the retrieval pipeline
+https://youtu.be/hzTo6d9EBPQ&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part2  Understanding visual features
+https://youtu.be/E4-ajaH5ya8&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part3  Visualizing activation of deep learning models
+https://youtu.be/NymyppvaKM0&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part4  Embedding visualization in TensorFlow
+https://youtu.be/nxnht3j5DR0&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part5  Guided backpropagation
+https://youtu.be/9D9pcExWg7w&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part6 The DeepDream in TensorFlow
+https://youtu.be/Ve-4lcnp6ww&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part7  Adversarial examples in machine leanring
+https://youtu.be/wUk3YRcw7ng&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part8  Model inference in TensorFlow
+https://youtu.be/fUq5loGlW4k&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+
+Chapter3  part9  Serving the trained model in TensorFlow
+https://youtu.be/dK0pCjfPhQM&list=PLCPhGzMRqu8Ug68XiGJE__myH2KfIcGht
+Videos 51-62

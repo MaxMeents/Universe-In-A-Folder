@@ -1,0 +1,61 @@
+
+Android Development vs iOS - Should I Learn Both
+https://youtu.be/PLVIiyu_zmo&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Bundle ID iOS - How to create Bundle ID with Xcode
+https://youtu.be/cXxh5HHtflw&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Chart in Swift - Setting Up a Basic Line Chart Using iOS Charts
+https://youtu.be/mWhwe_tLNE8&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Clean Architecture iOS [MVC vs MVVM]
+https://youtu.be/29WppyhWO5c&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Core Data with SwiftUI
+https://youtu.be/_GJlFk-Hhz8&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+EVERYTHING You Need to KNOW About SwiftUI TabView
+https://youtu.be/4ywuzr3NDiM&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+iOS Development for Windows in 2020
+https://youtu.be/yJD8rBsoGII&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+iOS Roadmap to Professional Developer Skills you MUST have!
+https://youtu.be/7Td1RfB8nVs&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Make a STUNNING App from Your Website - WKWebView Swift
+https://youtu.be/6QwdbyonXUg&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Make MONEY with Swift StoreKit (Step by Step)
+https://youtu.be/37qEN4flc3I&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Remove App from App Store (NEW FEATURE)
+https://youtu.be/Wk6mDuyEc_A&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+SENIOR DEV Submit App to Apple Store
+https://youtu.be/ykiD5wqwSe4&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+SHOCKINGLY Good SwiftUI Media Picker!
+https://youtu.be/FLkYV5yURbc&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+STEP BY STEP SwiftUI Firebase Auth
+https://youtu.be/hwbHQf1Mvxk&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+STOP using MVVM for SwiftUI  Clean iOS Architecture
+https://youtu.be/SOA0IT7sxvc&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Swift Framework - Create a Custom Framework in iOS
+https://youtu.be/oZloIsF1H4g&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Swift Protocol Delegate Pattern (BEST EXPLANATION)
+https://youtu.be/UQnSdXFDAQQ&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+TestFlight Invitation Code - How can you send TestFlight Invitation
+https://youtu.be/vdkv0z7002Y&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+The FUTURE of SwiftUI Navigation View
+https://youtu.be/pGqoV31qtsA&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+
+Using TestFlight in 2020
+https://youtu.be/VNXM4ez9Nf0&list=PL_csAAO9PQ8aoNmhhB7TxK2JUyCXGuPJs
+New Here Check Out The BEST Rebeloper videos

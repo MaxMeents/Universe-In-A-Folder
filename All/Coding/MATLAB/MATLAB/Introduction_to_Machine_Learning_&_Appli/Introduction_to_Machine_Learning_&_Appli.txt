@@ -1,0 +1,25 @@
+
+Embedded Systems  Applied Machine Learning, Part 4
+https://youtu.be/FZC7ovLwtb4&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+Feature Engineering  Applied Machine Learning, Part 1
+https://youtu.be/ABV2YS9jbzE&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+Getting Started with Machine Learning  Introduction to Machine Learning, Part 4
+https://youtu.be/DMznK5LXPvE&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+Hyperparameter Optimization  Applied Machine Learning, Part 3
+https://youtu.be/DjP6CiZcrF8&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+Machine Learning Fundamentals  Introduction to Machine Learning, Part 1
+https://youtu.be/wKU5L2XMyyI&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+ROC Curves  Applied Machine Learning, Part 2
+https://youtu.be/XGsw2QcJF1A&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+Supervised Machine Learning  Introduction to Machine Learning, Part 3
+https://youtu.be/vpRAgnXeQSw&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+
+Unsupervised Machine Learning  Introduction to Machine Learning, Part 2
+https://youtu.be/JdFw-kKfBzw&list=PLn8PRpmsu08ovspo8ov49m1bSO3VUdzty
+Introduction to Machine Learning & Applied Topics

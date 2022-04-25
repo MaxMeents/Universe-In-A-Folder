@@ -1,0 +1,76 @@
+
+A Live Introduction to GameMaker Studio 2
+https://youtu.be/qy3pYW_tJtI
+
+Burning Tsar Trailer
+https://youtu.be/1yyTUvZS8tM
+
+Entity Component Systems - My Thoughts After Making a Game with One
+https://youtu.be/SE2Ded01lUU
+
+GameMaker Studio 2 - 2D Hack-n-Slash INTRODUCTION
+https://youtu.be/U0fQHIueFw4
+
+GameMaker Studio 2 - 3D Racecar - Sprite Stacking
+https://youtu.be/sNgb3guusMA
+
+GameMaker Studio 2 - Random Level Generation P2 - Player and Collisions
+https://youtu.be/uJk2DB1xQms
+
+GameMaker Studio 2 - Random Level Generation
+https://youtu.be/Hds06We0_g0
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #1 FIRST LINE OF CODE
+https://youtu.be/DygFS9GzlAA
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #2 BASIC MOVEMENT
+https://youtu.be/b_cWKPt9cpg
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #3 ANIMATED CHARACTER + COLLISIONS
+https://youtu.be/LUavubOKYEE
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #4 ROLLING STATE
+https://youtu.be/HD7qeI8MjXc
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #5 ATTACKING STATE
+https://youtu.be/RiKnq8KZtqc
+
+Godot 3 Engine - Platformer Game Tutorial P7 - Menu UI and Signals
+https://youtu.be/sBuJRHvk5sY
+
+Godot Engine - Importing 3D Models
+https://youtu.be/JgQpHwFUdlA
+
+Godot Engine - Projectile Attacks
+https://youtu.be/rY7wzK59-Jw
+
+Godot Engine 3 - Platform Game Tutorial
+https://youtu.be/wETY5_9kFtA
+
+Godot Engine 3 - Platformer Game Tutorial P2 - Tiles and Animated Sprites
+https://youtu.be/BfQGXtlmE7k
+
+Godot Engine 3 - Platformer Game Tutorial P3 - Smooth Character Movement
+https://youtu.be/ZsP7JDrRTJY
+
+Godot Engine 3 - Platformer Game Tutorial P4 - Moving Between Levels
+https://youtu.be/KzLfi0r4Muw
+
+Godot Engine 3 - Platformer Game Tutorial P5 - Autotiles
+https://youtu.be/uV5WKocIycY
+
+Godot Engine 3 - Platformer Game Tutorial P6 - Parallax Background
+https://youtu.be/K-eM2ZLI1q8
+
+Heart JAM - My 5 Favorite Games
+https://youtu.be/t4DQHzmpEWE
+
+Let's Pixel - Hit Effect
+https://youtu.be/2ojMSlX9aHs
+
+Let's Pixel - Turret and Rat 16x20
+https://youtu.be/-HzviX_j34Y
+
+The HEART JAM!
+https://youtu.be/JZej4A_tiOA
+Videos 126-150

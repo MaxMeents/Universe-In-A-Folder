@@ -1,0 +1,76 @@
+
+Paver the build tool you missed
+https://youtu.be/WNH2wAPlGQE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Pitfalls of Continuous Deployment
+https://youtu.be/qLKNjpudFbY&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Playing tasks with Django-Celery
+https://youtu.be/mAXz2kbh_3U&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+PostgreSQL - the database-sister of Python
+https://youtu.be/1YUFLLl8bGE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system
+https://youtu.be/KKkuu_A6ZhQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Pricing products using Python graphs and sets
+https://youtu.be/XzXvVqdL6yk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Programmazione MapReduce in Python con Pydoop
+https://youtu.be/iKqWk-yz8R8&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+PyPy in production
+https://youtu.be/nTpte3_jNO0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python 103 Mmmm... Understanding Python's Memory Model, Mutability, and Methods
+https://youtu.be/34LcNUrFe30&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python 3 the Next Generation (is here already)
+https://youtu.be/ovVCnhwu9qQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python Design Patterns
+https://youtu.be/bPJKYrZjq10&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python Enterprise vento di libertà
+https://youtu.be/JETzbuanMds&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python for High Performance and Scientific Computing
+https://youtu.be/q3hAFI8iaqg&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python MapReduce Programming with Pydoop
+https://youtu.be/IyXOP7SJqKQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python Tips, Tricks, and Idioms
+https://youtu.be/JbNG3rVLJvA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python(x,y) diving into scientific Python
+https://youtu.be/fVc1ruuixts&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Realizzare un emulatore di videogiochi
+https://youtu.be/XA80glyC9kE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Refactoring PyChart
+https://youtu.be/hdytprStoXc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Relate or !Relate
+https://youtu.be/rZCANK4by0Q&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Rubrica indirizzi all'ennesima potenza
+https://youtu.be/5IYPF0YY6jo&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Saving Gaia with jQuery Mobile and GeoDjango
+https://youtu.be/xE2-QKe9rGc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Scraping Techniques to Extract Advertisements from Web Pages
+https://youtu.be/cCKGqKTwfqI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Scrivere un tool parallelo e distribuito per backup multi-terabyte
+https://youtu.be/t4eycS8ayFA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Sfrutta la potenza della GPU con PyCUDA (e compagni)
+https://youtu.be/5XjxTBgETfU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Snakes on a cloud the OpenStack project
+https://youtu.be/-rmctl-VB1Y&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+Videos 101-125

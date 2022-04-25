@@ -1,0 +1,22 @@
+
+Dan Callahan - My Python's a little Rust-y - PyCon 2015
+https://youtu.be/3CwJ0MH-4MA&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+
+Felix Klock - Rust A type system you didn't know you wanted - Curry On
+https://youtu.be/Q7lQCgnNWU0&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+
+Full Stack Fest 2015 Rewriting a Ruby C Extension in Rust, by Yehuda Katz
+https://youtu.be/2BdJeSC4FFI&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+
+RailsConf 2015 - Bending the Curve How Rust Helped Us Write Better Ruby
+https://youtu.be/LazvK39Oc4U&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+
+rustc in userland by Richo Healey
+https://youtu.be/UGT029s_9-Y&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+
+Safe and fast parsers with Nom and Rust by Geoffroy Couprie
+https://youtu.be/EXEMm5173SM&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+
+The Rust Programming Language
+https://youtu.be/d1uraoHM8Gg&list=PL85XCvVPmGQg8IE3-67vuDzHQEsqPl2E9
+Other conferences 2015

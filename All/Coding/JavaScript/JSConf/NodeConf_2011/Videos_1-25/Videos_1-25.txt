@@ -1,0 +1,76 @@
+
+Brendan Eich SpiderNode, V8Monkey, and You
+https://youtu.be/irnvtt09CAM&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Charlie Robbins Running Node.js in Production
+https://youtu.be/UIfWmFaCtuk&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Chris Williams Fuck cyberspaces, we'll do it live!
+https://youtu.be/3o0aXOGpSVY&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Curtis Chambers Being Uber with Node
+https://youtu.be/2Y4EZZFnumo&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Elijah Insua Why node has a DOM
+https://youtu.be/YSgAyXvBzHM&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Felix Geisendörfer How to Test Asynchronous Code
+https://youtu.be/_9ZeKhARilA&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Guillermo Rauch socket.io
+https://youtu.be/AdA25J7gVDI&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Henrik Joreteg Building Realtime Singlepage Apps
+https://youtu.be/Lw3oFjzWRqI&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Isaac Schlueter How npm Works
+https://youtu.be/ShRDgdvlZQ8&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+James Halliday Freestyle RPC for node
+https://youtu.be/R2bA9w5zoiY&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+John Schulz Canvas in Node.js
+https://youtu.be/JF-PDZFt9OU&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Marak Squires Every node.js module ever!
+https://youtu.be/Ryx9efq3V_I&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Marco Rogers Creating Node Addons, CC++ extensions for fun and profit
+https://youtu.be/q1ri36UI5GA&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Matt Eernisse Lessons learned in production
+https://youtu.be/O_uXfA4TOVs&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Matt Ranney Debuggin a Large Node Cluster
+https://youtu.be/Y1pCVajebpE&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+NodeCommit Panel A panel of selected node contributors
+https://youtu.be/ZyFcZjGCths&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+NodeConf 2011 Welcome Video
+https://youtu.be/RluhUUtjGtc&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Paul Querna Cast Project & Node.js
+https://youtu.be/gKEFXbRCO9g&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Peter Hallam & Alex Russell The future of JS ans You
+https://youtu.be/ntDZa7ekFEA&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Robert Kieffer Node @ Facebook
+https://youtu.be/2YxQpsjg684&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Ryan Dahl Node v0.5 Roadmap
+https://youtu.be/Oeh1ppU8ygg&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Ryan Day Bacon Themed QRCodes for Hungry Devices
+https://youtu.be/U1LxzVl2wB8&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Sean Cribbs riak-js
+https://youtu.be/qtgMzabHPpk&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Tyler Gillies Dirty Little Hacks
+https://youtu.be/bVK-dmrCqcQ&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+
+Visnu Pitiyanuvath How To Win at NodeKnockout
+https://youtu.be/uzNpZItWDDc&list=PL37ZVnwpeshHfMdifGs4ed2sXgbCtVD_c
+Videos 1-25

@@ -1,0 +1,22 @@
+
+Building and Downloading a Simulink Model to VEX Microcontroller
+https://youtu.be/sj99xknx6v4&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+
+Controlling Servomotor Angle with Gamepad Buttons
+https://youtu.be/Od0lsE_zFXc&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+
+Creating a Simple Robot Model
+https://youtu.be/52u_vC8xtSU&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+
+Private video
+https://youtu.be/DCWPCvRFLlA&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+
+Simulink Quick Start
+https://youtu.be/0UOHydEwNYc&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+
+Tune Parameters Using Simulink External Mode for VEX Cortex
+https://youtu.be/jSbmqYWdB_c&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+
+Using GamepadController for Simulation Input
+https://youtu.be/MKak4qHSWvk&list=PLn8PRpmsu08o3u4EuiQ8E4fGx4Y1ZI3qh
+Simulink Support for VEX ARM Cortex Microcontroller

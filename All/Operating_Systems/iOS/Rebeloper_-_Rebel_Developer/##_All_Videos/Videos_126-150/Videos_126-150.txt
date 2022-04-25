@@ -1,0 +1,76 @@
+
+ARKit Tutorial - Create an AR Shopping Experience with ConfigWise
+https://youtu.be/ozQA3NmBJsg
+
+AUTOLAYOUT iOS PROGRAMMATICALLY [Spend less time writing UI code]
+https://youtu.be/DhXUo9PrWYg
+
+Chart in Swift - Setting Up a Basic Line Chart Using iOS Charts
+https://youtu.be/mWhwe_tLNE8
+
+CORE DATA ATTRIBUTES IN SWIFT [Tips to be Fast]
+https://youtu.be/c2Qtn5ehHMQ
+
+CORE DATA iOS - FETCHING DATA [CRUD Best Practices]
+https://youtu.be/UFt2PQXF8K0
+
+CORE DATA SWIFT - CORE DATA STACK in 2020
+https://youtu.be/UAqP_JuAdm4
+
+CORE DATA SWIFT TUTORIAL [Must Learn in 2020]
+https://youtu.be/nwNx-WXA-pw
+
+Custom Navigation Bar Swift (Fast and Easy)
+https://youtu.be/GNtQZHx2zLI
+
+JSON PARSING - CODABLE SWIFT [My Strategy]
+https://youtu.be/JwlzpHmdbaQ
+
+Kingfisher Swift Tutorial
+https://youtu.be/5_oiKPCplew
+
+MapKit Swift and Core Location Tutorial
+https://youtu.be/5fWG5ofhHsY
+
+MFMailComposeViewController - Swift Send Email Programmatically
+https://youtu.be/aJ0Fz4rCZbw
+
+SDWebImage Swift Tutorial
+https://youtu.be/oEwCkaW8W2I
+
+Swift UIColor - The Missing System Colors
+https://youtu.be/5BjpZc5TScs
+
+TestFlight Alternatives 2020
+https://youtu.be/m8UPiLUGHMg
+
+Testflight Tutorial Crash Reports in 2020
+https://youtu.be/Th6n0oxfBao
+
+Testflight Tutorial External Testers in 2020
+https://youtu.be/FCa-LBB3DZ8
+
+TestFlight Tutorial in 2020
+https://youtu.be/MFD4snJfBaw
+
+UIActivityViewController Swift
+https://youtu.be/KBjS6eeZ1K8
+
+UIAlertController Swift [BEST EXAMPLE]
+https://youtu.be/aukhw5OFLfM
+
+UIFont - Complete Guide
+https://youtu.be/JegutXcer60
+
+UINavigationController [THE BEST WAY TO USE IT]
+https://youtu.be/MNMWMyQcs_I
+
+UIViewController Transition Animation [MY SECRET WAY]
+https://youtu.be/M5GYJnQnT_g
+
+Using TestFlight in 2020
+https://youtu.be/VNXM4ez9Nf0
+
+WKWebView - iOS WebView Tutorial [MUST KNOW]
+https://youtu.be/f3mFrWesbvM
+Videos 126-150

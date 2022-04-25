@@ -1,0 +1,76 @@
+
+Achieving APPARE in Robocon 2017 using MATLAB - Part 1
+https://youtu.be/ATec-V41hz0
+
+Achieving APPARE in Robocon 2017 using MATLAB - Part 2
+https://youtu.be/OTCjhExLnnw
+
+Control Raspberry Pi from your Android Device using Simulink
+https://youtu.be/4eI8IrcPGII
+
+Deep Learning Transfer Learning in 10 Lines of MATLAB Code
+https://youtu.be/NQjoaptSEoo
+
+For Each Subsystems in HDL Coder - MATLAB and Simulink Video
+https://youtu.be/KI-EDJuyA2k
+
+Getting started with PicoZed SDR with MATLAB and Simulink, Part 1 Tool setup and Radio IO
+https://youtu.be/azIL-EYtj2I
+
+Getting started with PicoZed SDR with MATLAB and Simulink, Part 2 Hardware  Software Codes
+https://youtu.be/P-pfHB6ad8I
+
+LTE MIMO Beamforming on Ray Tracing Channels
+https://youtu.be/57S6av_bRtk
+
+MATLAB Speaks Hardware TI C2000 for Digital Power Applications
+https://youtu.be/CstjgrGR7dY
+
+Mechatronics with MATLAB and Simulink, Part 10 Going to Hardware
+https://youtu.be/iev0jyqX2CI
+
+Model AUTOSAR ECU Power-Up and Power-Down Behavior in Simulink
+https://youtu.be/2qOoTkoURpY
+
+Optimal State Estimator  Understanding Kalman Filters, Part 3
+https://youtu.be/ul3u2yLPwU0
+
+Powertrain Blockset Overivew
+https://youtu.be/W8eEKEoJGv4
+
+Real-Time Multi-User Transmit Beamforming with USRP and Communication Toolbox
+https://youtu.be/WrXEHP6U_vQ
+
+Release 2017a Highlights
+https://youtu.be/Jhrxi5O5iz8
+
+RF Budget Analysis with RF Toolbox
+https://youtu.be/swjgr4YBhRM
+
+State Observers  Understanding Kalman Filters, Part 2
+https://youtu.be/4OerJmPpkRg
+
+TUfast Eco Team's Longitudinal Cruise Controller
+https://youtu.be/rhSpNTrFOHE
+
+What is RF Blockset - RF Blockset Overview
+https://youtu.be/AJIGbAgmHtI
+
+What is Symbolic Math Toolbox - Symbolic Math Toolbox Overview
+https://youtu.be/G2hzWTgVcJE
+
+Why Use Kalman Filters  Understanding Kalman Filters, Part 1
+https://youtu.be/mwn8xhgNpFY
+
+WINNER II channel model for Communications Toolbox
+https://youtu.be/vPff-Yu0xDg
+
+Winning Strategies with MATLAB and Simulink for Robocon 2017
+https://youtu.be/FxCDtjUzNmo
+
+Working at MathWorks Internship Program
+https://youtu.be/_JmnC4Q-OAo
+
+医用画像処理 テクスチャ解析の基礎
+https://youtu.be/iSdHl7sWcmQ
+Videos 1651-1675

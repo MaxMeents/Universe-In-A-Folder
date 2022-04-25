@@ -1,0 +1,16 @@
+
+Design Patterns in the Light of Lambda Expressions by Subramaniam
+https://youtu.be/e4MT_OguDKg&list=PLRsbF2sD7JVp9lL794fGMuX7ATzLU__V7
+
+Frege, a Haskell for the JVM by Dierk König
+https://youtu.be/1P1-HXNfFPc&list=PLRsbF2sD7JVp9lL794fGMuX7ATzLU__V7
+
+Get Hip with JHipster Spring Boot + AngularJS + Bootstrap by Matt Raible
+https://youtu.be/baVOGuFIe9M&list=PLRsbF2sD7JVp9lL794fGMuX7ATzLU__V7
+
+Getting started with Spring Cloud by Josh Long
+https://youtu.be/SFDYdslOvu8&list=PLRsbF2sD7JVp9lL794fGMuX7ATzLU__V7
+
+Open Source Workflows, Business Rules and Case Management live and in action by Bernd Rücker
+https://youtu.be/x9ceAoZt8xw&list=PLRsbF2sD7JVp9lL794fGMuX7ATzLU__V7
+Top Talks Wednesday - Devoxx BE 2015

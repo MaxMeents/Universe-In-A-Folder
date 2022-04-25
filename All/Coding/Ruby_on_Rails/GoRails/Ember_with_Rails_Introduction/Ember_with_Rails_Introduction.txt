@@ -1,0 +1,16 @@
+
+Ember #1 Why Ember
+https://youtu.be/siIZb0yClQ4&list=PLm8ctt9NhMNWJq-Ep5PLAwE3n1c0WyK8R
+
+Ember #2 Your First Ember App
+https://youtu.be/TD-8M5U4xZk&list=PLm8ctt9NhMNWJq-Ep5PLAwE3n1c0WyK8R
+
+Ember #3 Connecting with the Rails API
+https://youtu.be/QVjiFI6b_Lk&list=PLm8ctt9NhMNWJq-Ep5PLAwE3n1c0WyK8R
+
+Ember #4 User Interaction With Ember
+https://youtu.be/ws5YraZ0PH4&list=PLm8ctt9NhMNWJq-Ep5PLAwE3n1c0WyK8R
+
+Ember #5 Fantastic Features And Where To Find Them
+https://youtu.be/2vxTIR-2hqA&list=PLm8ctt9NhMNWJq-Ep5PLAwE3n1c0WyK8R
+Ember with Rails Introduction

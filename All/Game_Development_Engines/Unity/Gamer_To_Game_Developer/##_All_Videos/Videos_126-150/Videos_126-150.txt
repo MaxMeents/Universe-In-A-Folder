@@ -1,0 +1,76 @@
+
+1 Introduction - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/ovUnNJlREIk
+
+10 Shooting (Single Player) - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/Cm3KuIJu9gY
+
+11 Adding Multiplayer Shooting - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/arhpEQFTz6k
+
+12 Player Health (Single Player) - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/RcHvsH1Pf_Q
+
+13 Networking Player Health - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/ZM_4hIpdQEA
+
+2 The Network Manager - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/h0u2oMyAmB8
+
+3 Setting Up The Player Prefab - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/-pDjMx6EEJk
+
+4 Registering The Player Prefab - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/AKXrCyFALsI
+
+5 Creating Player Movement - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/3I_akL6DJKs
+
+6 Testing Player Movement Online - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/4mJVC5om5pk
+
+7 Networking Player Movement - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/NIur25vCYYk
+
+8 Testing Multiplayer Movement - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/CiAsvr11XaM
+
+9 Identifying The Local Player - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/IjJFJrWkoYE
+
+GTGD S3 Now available on Steam!
+https://youtu.be/7Ur24hT3eTM
+
+GTGD S3 Why my Steam store page looks the way it does
+https://youtu.be/hV41cNxAPSU
+
+[124] Destructible Degenerate - How To Make A Game
+https://youtu.be/WAujk0RXoW8
+
+[125] Destructible Player Inventory Update - How To Make A Game
+https://youtu.be/X__NFgvxUpw
+
+[126] Scorpion81 Fracture - How To Make A Game
+https://youtu.be/engBu7oE0u4
+
+[127] Destructible Activate Shards - How To Make A Game
+https://youtu.be/FCZj2jipDbQ
+
+[128] Item Drop - How To Make A Game
+https://youtu.be/x2u6Tk2TRCQ
+
+[129] Item Transparency - How To Make A Game
+https://youtu.be/vWu1JVYTx6s
+
+[130] Item Set Rotation - How To Make A Game
+https://youtu.be/VVGBqR2DUfo
+
+[131] Pocket Hut Part 1 - How To Make A Game
+https://youtu.be/MMGRCFiFxhk
+
+[132] Pocket Hut Part 2 - How To Make A Game
+https://youtu.be/FsxzDeA-g6A
+
+[133] Pocket Hut Part 3 - How To Make A Game
+https://youtu.be/Si_ymvkFby0
+Videos 126-150

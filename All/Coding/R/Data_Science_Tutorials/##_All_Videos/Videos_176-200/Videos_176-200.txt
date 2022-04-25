@@ -1,0 +1,76 @@
+
+8 Power BI DAX Function AllSelected to get Grand Totals for Each Category
+https://youtu.be/1wW-BAWHBRU
+
+How to Create Resume in Tableau  Tableau Resume Dashboard Example
+https://youtu.be/PxXRjAUbWiY
+
+How to Download and Install Matplotlib in Windows or Mac using Jupyter Notebook  10 Topics Inside
+https://youtu.be/1jPPsA6afdU
+
+How to get Help related to Python PIP commands in Jupyter Notebook
+https://youtu.be/AopdsS6Caak
+
+How to Uninstall Multiple Packages in Python in Jupyter Notebook using PIP Command
+https://youtu.be/0QNynBBuHgM
+
+How to Uninstall Pakages in Python Jupyter Notebook using PIP Comand
+https://youtu.be/uZZMUVuAoSM
+
+How to Upgrade a Package in Python Jupyter Notebook using PIP Command
+https://youtu.be/uAtGgIsWLjE
+
+How to Upgrade Multiple Python Packages in Jupyter Notebook using PIP Command
+https://youtu.be/1OoMMMcWwtE
+
+How to view complete information of a installed python package like summary version repo link
+https://youtu.be/Y5NXx1Jlk4A
+
+How to view the list of All of the Outdated Python Packages in Jupyter Notebook using PIP Command
+https://youtu.be/jHdVMde9KDg
+
+Power BI Averagex DAX Function Tutorial  Average vs AverageX  Calculation Average
+https://youtu.be/Qu1EtMiVXg8
+
+Power BI CalculateTable DAX function to create new virtual table and measure based on condition
+https://youtu.be/5ra8N-rnebA
+
+Power BI Creating New Table using Calculate Table and Selecting only Required Columns
+https://youtu.be/x-K4UPZSouQ
+
+Power BI DAX Function ALL to remove the impact of a Filter from Chart or Visualisation
+https://youtu.be/tOtbxdBy4mU
+
+Power BI Dax Function Average to Calculate Average of Numeric Field
+https://youtu.be/NgyfWgK7T7Y
+
+Power BI Dax Function Calculate to Conditionally Calculate and create New Measures
+https://youtu.be/wRGU_4cZZkA
+
+Power BI Dax Function Divide Tutorial to make division between two fields
+https://youtu.be/IMcmhGXtYDg
+
+Power BI Dax Function Filter Tutorial for Creating New Filtered Table and Measure
+https://youtu.be/qqgRgkLVrNM
+
+Power BI DAX Function MAXX Tutorial  MAX vs MAXX  Finding Maximum Value of Calculation
+https://youtu.be/kuABnZInsms
+
+Power BI Dax Function MinX Tutorial  Min vs MinX  Finding Minimum of Calculation
+https://youtu.be/tPlTdoO4Aqo
+
+Power BI DAX function Sum to sum up values and create new measure
+https://youtu.be/jCYN1LD3m98
+
+Power BI DAX Function Sumx Tutorial  SUM vs SUMX
+https://youtu.be/3Y9LMfZhxtY
+
+Power BI Median and Medianx Function with Example
+https://youtu.be/qS5IN2Z18mY
+
+Power BI Min Dax Function to Find Minimum Values and Keeping them in new Measure
+https://youtu.be/pHYEJOVUsLE
+
+Power BI Tutorial for finding Maximum Value and Creating New Measure using DAX MAX Function
+https://youtu.be/_TK6VjbEDyY
+Videos 176-200

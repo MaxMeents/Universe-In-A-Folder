@@ -1,0 +1,34 @@
+
+AC Power Conversion
+https://youtu.be/BqFZ8yqXiqI&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Danfoss Solar Inverters Adopts Model-Based Design
+https://youtu.be/1ZTHUIhvN4U&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Data Analysis, Modeling, and Simulation for the Venturi Buckeye Bullet
+https://youtu.be/UR_HHXrNNSI&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Developing DC-DC Converter Control Automatically Generating Controller Code for Embedded Processors
+https://youtu.be/J6c--Uxl9Yo&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Developing DC-DC Converter Control Designing Digital Controller
+https://youtu.be/tOypILqb20o&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Developing DC-DC Converter Control Determining Power Losses and Simulating Thermal Behavior
+https://youtu.be/Wz7bFPJWdlY&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Developing DC-DC Converter Control Modeling, Simulating, and Sizing Passive Components
+https://youtu.be/FBqi7smxCeA&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Experiences of Introducing Model Based Design at Danfoss Solar Inverters
+https://youtu.be/fCkv0rd3zQQ&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Implement Maximum Power Point Tracking Algorithms Using MATLAB and Simulink
+https://youtu.be/tZZ74pOa-eE&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+Maximum Power Point Tracking Algorithm Overview
+https://youtu.be/Auk9jU3Ee4M&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+
+PID Controller Tuning for a Buck Converter
+https://youtu.be/CSyR2Ot-ZpM&list=PLn8PRpmsu08oXmudIFr2KDVzeCn2fMbl8
+Power Conversion Control

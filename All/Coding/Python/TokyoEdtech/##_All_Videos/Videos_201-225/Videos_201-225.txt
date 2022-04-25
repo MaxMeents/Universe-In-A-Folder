@@ -1,0 +1,76 @@
+
+Common Errors Logic
+https://youtu.be/vy3y5gCniKA
+
+Common Errors Runtime
+https://youtu.be/JzoEHnjDdBU
+
+Common Errors Syntax
+https://youtu.be/nL0b6S0FHUI
+
+Debugging Practice Using Print Statements
+https://youtu.be/r0JvqH6OWKQ
+
+Help Me Help You
+https://youtu.be/L6AwVuu6O3Y
+
+How to Play a Sound in Windows with Python
+https://youtu.be/1FyqFqAN9UM
+
+Python 3 Making a Stoplight (for Beginners)
+https://youtu.be/f-nNK0NgXpQ
+
+Python 3 Making Multiple Stoplights with Classes (for Beginners)
+https://youtu.be/VanxJiUwOrQ
+
+Python Bouncing Ball Simulator 1
+https://youtu.be/HHQV3ifJopo
+
+Python Bouncing Ball Simulator 2
+https://youtu.be/ibdICVK0W3Q
+
+Python Bouncing Ball Simulator 3
+https://youtu.be/CZO_UzegLC0
+
+Python Bouncing Ball Simulator 4
+https://youtu.be/horBQxH0M5A
+
+Python Game Programming Tutorial Missile Command Part 2
+https://youtu.be/OtL7x3f9-yQ
+
+Python Game Programming Tutorial Missile Command Part 4
+https://youtu.be/WqvmtySd0Ac
+
+Python Game Programming Tutorial Missile Command Part 6
+https://youtu.be/-Ll9O84_NBc
+
+Python Game Programming Tutorial Missile Command Part 7
+https://youtu.be/C40cz0I4LA0
+
+Python Game Programming Tutorial Missile Command Part 8
+https://youtu.be/uWNv_YyGjW8
+
+Python Game Programming Tutorial Missile Command Part 9
+https://youtu.be/f5aemFTJ54s
+
+Python Game Programming Tutorial Pong Part 2 Game Objects
+https://youtu.be/9LhS5IFh78I
+
+Python Game Programming Tutorial Pong Part 3 Moving the Paddles
+https://youtu.be/DplYMapxi3Y
+
+Python Game Programming Tutorial Pong Part 5 Colliding with the Paddles
+https://youtu.be/uCBWhIdxqFQ
+
+Python Game Programming Tutorial Pong Part 6 Scoring
+https://youtu.be/3rBrRG-vxKI
+
+Python Game Programming Tutorial Pong Part 7 Sounds
+https://youtu.be/YZknoOWCaj4
+
+Python How to Save and Load Data for Beginners
+https://youtu.be/GC50dexQsRo
+
+Viewer Questions - NameError 'y' is not defined
+https://youtu.be/yTVhzg-fApI
+Videos 201-225

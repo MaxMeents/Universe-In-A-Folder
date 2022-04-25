@@ -1,0 +1,76 @@
+
+15 HUNGER and THIRST System Setup - Drain Slowly Over Time
+https://youtu.be/L-Ho3TiOgFA
+
+Automatic Weapon Firing Tutorial - #11  UE4 Coop Survival Game Tutorial
+https://youtu.be/bq2QHIPAkks
+
+Character Selection Screen and Spawning - UE4 Tutorial
+https://youtu.be/4cB1IS_7iAQ
+
+FREE DOWNLOAD Character Customization in Unreal Engine 4 - UE4 Character Creator Tutorial
+https://youtu.be/8VztOG15fps
+
+Get Steam Name and Avatar  #21 UE4 Steam Multiplayer Series
+https://youtu.be/K1lf7N3DBoE
+
+Headshot Hitbox Using Physical Materials - #10 Unreal Engine Survival Tutorial
+https://youtu.be/vQOJ3tNvLxs
+
+Health Component and Player Death - #12  UE4 Coop Survival Game Tutorial
+https://youtu.be/dkN0LY5y6o4
+
+Health UI Widget Blueprint - #13  UE4 Coop Survival Game Tutorial
+https://youtu.be/KvyH33uwqg4
+
+How to Create Aim Offset Animations - #8  UE4 Multiplayer Survival Game Tutorial
+https://youtu.be/wWXT7x_1ReE
+
+How to Get FREE Models and Assets for Game Development
+https://youtu.be/vga6wGT-qjk
+
+How to Make Blood Particle Effect in UE4 and Photoshop Tutorial
+https://youtu.be/eL7JXd4xIqo
+
+I Made a Game in 6 Hours in Unreal Engine 4!
+https://youtu.be/uPlJNgn-_LM
+
+Let's Make a Game in 2 HOURS in Unreal Engine 4 [Top-Down Shooter]
+https://youtu.be/nI1KcW3mjAA
+
+Make a Flamethrower With AOE Damage Tutorial  Unreal Engine 4
+https://youtu.be/c8aA-pDfEo4
+
+Multiplayer Day Night Cycle Tutorial in Unreal Engine 4
+https://youtu.be/tsrwI-6FUB8
+
+Multiplayer Door Tutorial (Replicated) - Unreal Engine 4
+https://youtu.be/UhB5tWMizkg
+
+Multiplayer Melee Combat Tutorial for Unreal Engine 4
+https://youtu.be/dxYDOOvqtQI
+
+PART 2 AI Waves Spawning, Countdown Timer, and Main Menu - Top Down Shooter
+https://youtu.be/JQGFNBz5PPQ
+
+Shake Player Camera When Shooting - #9  UE4 Coop Survival Game Tutorial
+https://youtu.be/lMsejGR6VZY
+
+Stamina System and Sprinting - #14  UE4 Coop Survival Game Tutorial
+https://youtu.be/cai6EKJDweE
+
+Steam Friend's List Setup  #22 UE4 Steam Multiplayer Tutorial
+https://youtu.be/23OXxCK_Fc0
+
+UE4 CUT DOWN TREES AND HARVEST RESOURCES TUTORIAL
+https://youtu.be/vrZqy-9rPWU
+
+UE4 Melee Combat Tutorial  Quick, Easy System To Setup
+https://youtu.be/JNUik-YLWUc
+
+Unreal Engine 4 Beginner Tutorial Getting Started
+https://youtu.be/qeKDRqWtGV0
+
+Unreal Engine 4 Realistic Dynamic Lighting Tutorial for Beginners
+https://youtu.be/cywvAq4dAeQ
+Videos 26-50

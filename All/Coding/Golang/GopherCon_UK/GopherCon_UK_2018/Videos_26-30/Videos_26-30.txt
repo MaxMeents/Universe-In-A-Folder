@@ -1,0 +1,16 @@
+
+GopherCon UK 2018 Andre Carvalho - Understanding Go's Memory Allocator
+https://youtu.be/3CR4UNMK_Is&list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
+
+GopherCon UK 2018 Diana Carolina Ortega Munoz - Deep Learning, Ready Go!
+https://youtu.be/-icuVKErWbA&list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
+
+GopherCon UK 2018 Jelmer Snoeck - Experimental Refactoring with Go
+https://youtu.be/9MW4H6kFb7M&list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
+
+GopherCon UK 2018 Liz Rice - Debuggers From Scratch
+https://youtu.be/ZrpkrMKYvqQ&list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
+
+GopherCon UK 2018 Nathan Davies - Reducing Fragmentation in System Architectures
+https://youtu.be/FiMEgS6fGqc&list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
+Videos 26-30

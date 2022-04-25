@@ -1,0 +1,76 @@
+
+AVSpeechSynthesizer  Accessibility  Swift 4, Xcode 10
+https://youtu.be/MO_09UCI5i0
+
+Change Image Color  Swift 4, Xcode 10
+https://youtu.be/WGsH9vKWZF0
+
+Change Your App's Icon  Swift 5, Xcode 10
+https://youtu.be/c4XZewWdmD4
+
+Changing Tab Bar  Swift 4, Xcode 10
+https://youtu.be/QaNgi1fCLTc
+
+Checking Code Efficiency  Swift 4, Xcode 10
+https://youtu.be/WtlHoeUJZro
+
+Custom Alerts  Swift 4, Xcode 10
+https://youtu.be/NP7H_LjTZGw
+
+DateComponentsFormatter  Swift 4, Xcode 10
+https://youtu.be/kMZqUSub-Vs
+
+Deep Linking  Swift 4, Xcode 10
+https://youtu.be/IUA6BR-BUTY
+
+Double Tap To Like  Swift 4, Xcode 10
+https://youtu.be/b9aPba5wT-4
+
+Error Handling  Swift 5, Xcode 10
+https://youtu.be/fhcINdzuq4A
+
+Key-Value Coding (KVC)  Swift 4, Xcode 10
+https://youtu.be/KcmIcr8bvOI
+
+Key-Value Observing  Swift 4, Xcode 10
+https://youtu.be/_AWyXA1sPuc
+
+Login To Your Database  Swift 5, Xcode 10
+https://youtu.be/XYRykbU97yA
+
+Opening Other Apps  Swift 4, Xcode 10
+https://youtu.be/xJU634A14u4
+
+Progress (NSProgress)  Swift 4, Xcode 10
+https://youtu.be/nKDBAIGlu2g
+
+Spontaneous Speed Coding Challenge
+https://youtu.be/f3Mb9Hnqkqk
+
+Start Using Lazy  Swift 5, Xcode 10
+https://youtu.be/ByEY4mfSAPM
+
+String Formatting  Swift 4, Xcode 10
+https://youtu.be/u8CfwjHWQdo
+
+TableView Forms  Cocoa & Coffee
+https://youtu.be/E_7ce0hyHm4
+
+Timer (aka NSTimer)  Swift 4, Xcode 10
+https://youtu.be/EO-RjPik9p0
+
+UIProgressView  Swift 4, Xcode 10
+https://youtu.be/BEQTE5jnb8U
+
+Universal Links  Swift 4, Xcode 10
+https://youtu.be/IEXn7QIwPFo
+
+Use Closures Not Delegates  Swift 5, Xcode 10
+https://youtu.be/vST4UN4s1kg
+
+Voice Over Labels  Accessibility  Swift 4, Xcode 10
+https://youtu.be/Vyqi_UQRwhI
+
+📦 This Unboxing Changes Everything!
+https://youtu.be/FRgYVvItXGA
+Videos 151-175

@@ -1,0 +1,7 @@
+
+[C#] Delegates and Events (E01 delegates)
+https://youtu.be/G5R4C8BLEOc&list=PLFt_AvWsXl0dliMtpZC8Qd_ru26785Ih_
+
+[C#] Delegates and Events (E02 events)
+https://youtu.be/TdiN18PR4zk&list=PLFt_AvWsXl0dliMtpZC8Qd_ru26785Ih_
+Delegates and Events

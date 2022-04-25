@@ -1,0 +1,76 @@
+
+A Dance with Tools — Iulian Dragoş
+https://youtu.be/c1tIbHATjB0
+
+A Deep Dive into Scalac — Chris Birchall
+https://youtu.be/2742pWdUm6c
+
+A Snorkelling Excersion into Bugfixing — Simon Ochsenreither
+https://youtu.be/_m4CiBL6Vl4
+
+A Whirlwind Tour of scala.meta—Ólafur Páll Geirsson
+https://youtu.be/-l7pV0sFq1c
+
+An Unexceptional Scalaz Workshop — Chris Marshall
+https://youtu.be/ilKb66-PCm0
+
+Beyond Scala Lenses—Julien Truffaut
+https://youtu.be/6nyGVgGEKdA
+
+Can we make concurrency in Scala safer—Philipp Haller
+https://youtu.be/nwWvPeX6U9w
+
+Distributed Systems vs Compositionality—Roland Kuhn
+https://youtu.be/LcUIIRqXwTY
+
+Enterprise Algebras—Tim Perrett
+https://youtu.be/oAu0MIe072M
+
+Essential vs Accidental Complexity in Scala & Dotty—Andrew Phillips
+https://youtu.be/Ay-9aanosUM
+
+First-class Coroutines for Scala—Aleksandar Prokopec
+https://youtu.be/B3hKOUtc4e0
+
+For What is it good for—Josh Suereth & Dick Wall
+https://youtu.be/WDaw2yXAa50
+
+Formal Logic Undressed — Paul Snively
+https://youtu.be/saMtzIaDCJM
+
+Generic Derivation The Hard Parts—Travis Brown
+https://youtu.be/80h3hZidSeE
+
+Hands-on Scala.Meta — Eugene Burmako
+https://youtu.be/RBjZ7OxFxxg
+
+Managing Your Resources—Denys Shabalin
+https://youtu.be/MV2eJkwarT4
+
+Précepte — Julien Tournay & Pascal Voitot
+https://youtu.be/Cs6HmoQbQwc
+
+Pure Functional Database Programming with Fixpoint Types—Rob Norris
+https://youtu.be/7xSfLPD6tiQ
+
+Quaich A serverless Scala microframework for AWS Lambda—Brendan McAdams
+https://youtu.be/xHLQcS5BGbo
+
+Scala and the JVM as a Big Data Platform — Dean Wampler
+https://youtu.be/7mzsZq__Oh4
+
+Scala World Opening Keynote—Martin Odersky
+https://youtu.be/w1ca4KL9UXc
+
+Scala.js Workshop — Sébastien Doeraene
+https://youtu.be/4tM-jwlfvLg
+
+Staged Parser Combinators—Manohar Jonnalagedda
+https://youtu.be/Cc6QrgqsoVI
+
+The Story of a Parallel Scala Library—Vlad Ureche
+https://youtu.be/0VUDy37hszg
+
+Writing a Compiler Plugin or Macro—Sam Halliday & Rory Graves
+https://youtu.be/tIFEKeDYiTo
+Videos 51-75

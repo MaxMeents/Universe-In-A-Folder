@@ -1,0 +1,19 @@
+
+Intern Presentation Handsome Macros in Rust
+https://youtu.be/v7i6YSmxPhw&list=PL85XCvVPmGQixaIh-t5arXD0jlpXxSqHC
+
+Proc Macro Rules An overview of procedural macros.
+https://youtu.be/V-Oa5Td_a3A&list=PL85XCvVPmGQixaIh-t5arXD0jlpXxSqHC
+
+Procedural Macros in Rust
+https://youtu.be/lhCQkbSb-zk&list=PL85XCvVPmGQixaIh-t5arXD0jlpXxSqHC
+
+RustConf 2017 - Building Rocket by Sergio Benitez
+https://youtu.be/t_FUZ34ahBE&list=PL85XCvVPmGQixaIh-t5arXD0jlpXxSqHC
+
+RustFest Zürich 2017 - Impractical Macros by Alex Burka
+https://youtu.be/ApOUBBOvZDo&list=PL85XCvVPmGQixaIh-t5arXD0jlpXxSqHC
+
+RustFest Zürich 2017 - Macromancy an introduction to Rust macros by Geoffroy Couprie
+https://youtu.be/8rodUyaGkQo&list=PL85XCvVPmGQixaIh-t5arXD0jlpXxSqHC
+Macros

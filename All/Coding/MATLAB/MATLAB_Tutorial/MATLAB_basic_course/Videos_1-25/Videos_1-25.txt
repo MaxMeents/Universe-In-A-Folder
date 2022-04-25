@@ -1,0 +1,73 @@
+
+Add on manager and explorer in MATLAB
+https://youtu.be/dnXMuk6IqLw&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Analyzer and Profiler in MATLAB
+https://youtu.be/HjralJlFTh8&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+App Tab in MATLAB
+https://youtu.be/YuNvgt5GDIQ&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Compare file and folder in MATLAB
+https://youtu.be/-zMQjjjVI1E&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Entering Command in MATLAB
+https://youtu.be/1SVbokK7fO8&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Find files in MATLAB
+https://youtu.be/AhQj2wKTHQE&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 1)
+https://youtu.be/YHXNSwYBDH4&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 4)
+https://youtu.be/4nFNJSnAqgg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 5)
+https://youtu.be/qsM-dwPxKCo&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 6)
+https://youtu.be/NfCLZPLCLbc&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 7)
+https://youtu.be/-71U2MciFpM&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 8)
+https://youtu.be/geyEFcKP4co&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part 9)
+https://youtu.be/6naYXkheWi8&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Get Started with MATLAB (part3)
+https://youtu.be/Ed2h0oYfV58&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Help MATLAB
+https://youtu.be/ukJDLkniBdg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+How to call a function in MATLAB
+https://youtu.be/ZFJAY7pDsAs&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Import Data in MATLAB
+https://youtu.be/biZUQkVFodc&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+MATLAB Tutorial - Full course [2021]
+https://youtu.be/8G1iyOpygqU&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Plot Tab in MATLAB
+https://youtu.be/S38dVJxqfkI&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Preferences in MATLAB
+https://youtu.be/HzqBwXRTTvc&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Save data in MATLAB
+https://youtu.be/V12UG5gdYRM&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Search Path in MATLAB
+https://youtu.be/2xMlLqBEYPs&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Short introduction of Simulink
+https://youtu.be/Ki-M_LAob20&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Short introduction to Curve Fitting app in MATLAB
+https://youtu.be/932iE69Fyt4&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+Videos 1-25

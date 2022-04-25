@@ -1,0 +1,73 @@
+
+Building a contact form with Lambda Functions
+https://youtu.be/uS4fZZ94J84&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Building auto-jest-axe check
+https://youtu.be/atwgOH6bZfM&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Exporting Medium Posts to Markdown
+https://youtu.be/9Uy1db7qsT0&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Exporting Medium to Markdown (part 2)
+https://youtu.be/T70G-kJonXI&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream 2020-02-04
+https://youtu.be/lYF2kGVwgg0&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Editing egghead videos
+https://youtu.be/uM1NLWHpaDk&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Improving search experience
+https://youtu.be/0D8OlYPqk6M&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Maintaining Open Source
+https://youtu.be/gbu0Rz_qiQw&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Open Source Maintenance (Part 2)
+https://youtu.be/EnGe8Te8zKA&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Open Source Maintenance
+https://youtu.be/y04xbNWbzpk&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Recording Egghead videos
+https://youtu.be/3WxpI94Zdhg&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Removing paginated blog posts in favor of search page
+https://youtu.be/N7QD9zg1cLQ&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Updating the Bookshelf App (and adding E2E tests)
+https://youtu.be/nCqi1Rl31iw&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Working on the Beginner's Guide to React course
+https://youtu.be/OOy2j1vT74I&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Livestream Writing a blog post
+https://youtu.be/nzSdkGadalw&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Making a new async query type for dom-testing-library
+https://youtu.be/s0GLe81-9QY&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Making an app to redirect blog.kentcdodds.com to kentcdodds.comblog
+https://youtu.be/1EOj__JPN08&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Medium to Markdown (part 3)
+https://youtu.be/eq7VuQnAzAE&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+More dom-testing-library maintenance.
+https://youtu.be/4z5boCIXNoE&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Preparing dom-testing-library for a major release
+https://youtu.be/b_1-i5C8p98&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Recording an egghead video
+https://youtu.be/71nLBHKX9Xs&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Saving Form State in Local Storage with React
+https://youtu.be/bfRjtGfYETk&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Updating react-testing-library for React 16.8.0 (part 2)
+https://youtu.be/fARYHP8ixi4&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+
+Updating the jest-cypress-react-babel-webpack repository
+https://youtu.be/MeicsdIQ6dU&list=PLV5CVI1eNcJgJCEkMlsqXea6OIF_uV_ub
+Videos 26-50

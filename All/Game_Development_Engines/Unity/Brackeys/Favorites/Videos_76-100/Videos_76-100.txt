@@ -1,0 +1,76 @@
+
+2D Animation in Unity (Tutorial)
+https://youtu.be/hkaysu1Z-N8&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+2D Camera in Unity (Cinemachine Tutorial)
+https://youtu.be/2jTY11Am0Ig&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+2D Movement in Unity (Tutorial)
+https://youtu.be/dwcT-Dch0bA&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+2D Shooting in Unity (Tutorial)
+https://youtu.be/wkKsl1Mfp5M&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Basics of Shader Graph - Unity Tutorial
+https://youtu.be/Ar9eIn4z6XE&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+DISSOLVE using Unity Shader Graph
+https://youtu.be/taMp1g1pBeE&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+HOLOGRAM using Unity Shader Graph
+https://youtu.be/KGGB5LFEejg&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to Fade Between Scenes in Unity
+https://youtu.be/Oadq-IrOazg&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+How to make a 2D Game in Unity
+https://youtu.be/on9nwbZngyw&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+MAKE GAMES WITHOUT CODE! - Unity 3D Game Kit
+https://youtu.be/qsU4nM0L_n0&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making of CRAFTY - Ludum Dare 41
+https://youtu.be/QkLXhdWq_0A&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Making of SUGAR WARRIOR!
+https://youtu.be/AcRuRtBhF2U&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+MODELING IN UNITY! - ProBuilder Tutorial
+https://youtu.be/PUSOg5YEflM&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+NEW FANTASY PACKS! Download Now!
+https://youtu.be/odLEkNXlWEA&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+NEW FEATURES! - Unity Hub & Templates
+https://youtu.be/bcRDJFuyNw4&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+NEW PREFAB WORKFLOWS! - Unity Tutorial
+https://youtu.be/6_gAiPPKyUg&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+NEW UNITY UI! - Unite 2018 Recap
+https://youtu.be/YxTrUAZQuhs&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+SCULPT, PAINT & TEXTURE in Unity
+https://youtu.be/JWAnQiN9Zkw&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+THE FUTURE OF UNITY!
+https://youtu.be/WYzC0LlYnt0&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+THIS TOOL IS AWESOME - ProGrids Tutorial
+https://youtu.be/UtNvtIrJcNc&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+UNITY GDC KEYNOTE 2018
+https://youtu.be/vGBBl7q3YmY&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Unity NavMesh Tutorial - Animated Character
+https://youtu.be/blPglabGueM&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+Unity Shortcuts you NEED to know!
+https://youtu.be/yMqefz8XNC4&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+WE MOVED INTO A NEW STUDIO!
+https://youtu.be/BFm5_rDsZL4&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+
+WHAT'S NEW IN UNITY 2018.3
+https://youtu.be/raYkwmxuXEc&list=FLYbK_tjZ2OrIZFBvU6CCMiA
+Videos 76-100

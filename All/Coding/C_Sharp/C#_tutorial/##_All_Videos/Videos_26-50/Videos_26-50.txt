@@ -1,0 +1,76 @@
+
+C# Code for Age Calculate using Datetimepicker and TextBox in .net
+https://youtu.be/5DgfwgjEilQ
+
+C# Code for Arithmetic Calculation Using TextBox in .net
+https://youtu.be/h8YgZ0Cn3XE
+
+C# Create Dynamic DataTable, DataRow and Insert Data in .net
+https://youtu.be/XeuNYFY5HSU
+
+C# Create Session part 1
+https://youtu.be/BwNBgT92v7k
+
+C# Create Session Part 2
+https://youtu.be/iCnGgloFx-g
+
+C# Double Time CONFIRM Message Step by Step
+https://youtu.be/070y7tuR7mc
+
+C# For create Point of Sale Application in .net Part 1
+https://youtu.be/kmGie5oSh4o
+
+C# For Export data from datagridview to excel Sheet
+https://youtu.be/hwJ-YxvjYfI
+
+C# Insert and Read IMAGES in ASP.NET Step by Step
+https://youtu.be/G2IIMNxNrXw
+
+C# Insert Button, Image, CheckBox, ComboBox, TextBox into DataGridView (Manually and Dynamically)
+https://youtu.be/wZKepTC_6Z0
+
+C# Insert, Delete, Update, View with Local DataBase Step by Step
+https://youtu.be/ByuTHuKV73c
+
+C# ListBox Search In .net
+https://youtu.be/r7Fye9NtBMQ
+
+C# Login With User Authentication
+https://youtu.be/p0hz-aeSmTg
+
+C# MDI Parent for Multiple Form in .net
+https://youtu.be/M9JF3fddk-Y
+
+C# Pass or Sent value One Form to Another form in .net
+https://youtu.be/WcK9IP7SLuk
+
+C# Pass Records Selected Row from one Form to another Form DataGridview in .net
+https://youtu.be/iuSUFUOjjdQ
+
+C# Primary Key in .NET
+https://youtu.be/BBalKjgQyaU
+
+C# Retrieve Image from Database
+https://youtu.be/d7klnhcFBEg
+
+C# Upload or Insert Image into SQL DataBase
+https://youtu.be/XMhcF-zex6k
+
+C# Windows Application for Absolute Beginners in visual studio
+https://youtu.be/tavZI_8FKeQ
+
+Fetch or Filter Data from Date to Date
+https://youtu.be/ohfWdi-v0DE
+
+Fully C# Save, Insert, Update, Delete, View, Search, Clear in Visual studio
+https://youtu.be/GysB6QEc04Y
+
+Get Data From SQL DB to excel Sheet
+https://youtu.be/0VoJ74IxOw4
+
+How to Sum & Average by using SQL Query in .net
+https://youtu.be/kZu0pDkYNP8
+
+Search Datagridview ASC or DESC Order MANUALLY in .net
+https://youtu.be/v4gtU6nekGY
+Videos 26-50

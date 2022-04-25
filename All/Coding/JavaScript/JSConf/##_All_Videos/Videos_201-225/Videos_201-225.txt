@@ -1,0 +1,76 @@
+
+10 things I learned making the fastest JS server runtime in the world by Paulo Lopes  JSConf EU
+https://youtu.be/-npTuvzflh4
+
+A Working Theory Of Components by Elyse Holladay  CSSconf EU 2019
+https://youtu.be/RObdwvLLVvM
+
+About life, robots and cats! by Constanza Yáñez Calderón  JSConf EU 2019
+https://youtu.be/GJ7zLofY1V8
+
+Animations — Learning from Cartoons by Martin Sonnenholzer  JSConf EU 2019
+https://youtu.be/Bpu_WQXONlM
+
+BDD - Baby Driven Development by Allison McMillan  JSConf EU 2019
+https://youtu.be/EndmLEaKPw8
+
+Building WebApps Like It's 1972 🧙?♂️by Leandro Ostera  JSConf EU 2019
+https://youtu.be/yuk7n43xU4g
+
+Class 🥊Clash by Alex Tait  CSSconf EU 2019
+https://youtu.be/vJvgXPCVo30
+
+CSSconf EU 2019 Closing Keynote by Sareh Heidari
+https://youtu.be/S2iI52SfoKE
+
+Design System Magic with CSS Houdini by Samuel Richard  CSSconf EU 2019
+https://youtu.be/1W79T2ibd5Y
+
+GraphQL Towards a universal query language by Michael Mifsud  JSConf EU 2019
+https://youtu.be/Xi3sxygtDc4
+
+HTTP headers for the responsible developer by Stefan Judis  JSConf EU 2019
+https://youtu.be/Mjqf2kkFLy8
+
+Javascript is for Everyone! by Meya Stephen Kenigbolo  JSConf EU 2019
+https://youtu.be/4WuZozUZuHM
+
+JavaScript, JavaScript…. Rocks You! by Vitalii Bobrov  JSConf EU 2019
+https://youtu.be/_yt89v0S1MA
+
+Making It All Fit Together with React and GraphQL by Paul Asjes  JSConf.Asia 2019
+https://youtu.be/EjJVf2s60s8
+
+Offline-first data Getting Bigger by Kevin Doran  JSConf EU 2019
+https://youtu.be/_deWuTbHb5I
+
+OpenJS Foundation Panel at JSConf EU 2019
+https://youtu.be/FQek3WAjpBM
+
+Promises API in Node.js core where we are and where we’ll get to by Joe Sepi  JSConf EU 2019
+https://youtu.be/-4p_qLYjUDc
+
+Recreating Retro Computer Art with JS! by Sher Minn Chong  JSConf EU 2019
+https://youtu.be/nC5q5JxLjnY
+
+Simulating Sand Building Interactivity With WebAssembly by Max Bittker  JSConf EU 2019
+https://youtu.be/-dD-EaZ29hs
+
+Tales from the Toilet by Pier Paolo Fumagalli  JSConf EU 2019
+https://youtu.be/G_56cutmrBc
+
+Teaching Kids to Code by a 13 year-old with Michael & Jason Straughan  JSConf EU 2019
+https://youtu.be/26hois9cs-o
+
+The Case for Augmented Reality on the Web by Marley Rafson  JSConf EU 2019
+https://youtu.be/Jk4tEMBJleE
+
+Web APIs in Node.js Core Past, Present, and Future by Joyee Cheung  JSConf EU 2019
+https://youtu.be/ceiUozUFF3Y
+
+What JS Devs can Learn from Medieval Coats of Arms about A11y by Amanda Sopkin  JSConf EU 2019
+https://youtu.be/jVfVsKXdYK0
+
+You should start a tech community too by Roshan Gautam  JSConf EU 2019
+https://youtu.be/xZrfXATxJ38
+Videos 201-225

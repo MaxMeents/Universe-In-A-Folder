@@ -1,0 +1,13 @@
+
+Building the Network - Using Convolutional Neural Network to Identify Dogs vs Cats p. 2
+https://youtu.be/Ge65ukmJTzQ&list=PLQVvvaa0QuDf5h6si5lUbTh4ejzTQVJCW
+
+Intro and preprocessing - Using Convolutional Neural Network to Identify Dogs vs Cats p. 1
+https://youtu.be/gT4F3HGYXf4&list=PLQVvvaa0QuDf5h6si5lUbTh4ejzTQVJCW
+
+Training - Using Convolutional Neural Network to Identify Dogs vs Cats p. 3
+https://youtu.be/ViO56ASqeks&list=PLQVvvaa0QuDf5h6si5lUbTh4ejzTQVJCW
+
+Using our Network - Using Convolutional Neural Network to Identify Dogs vs Cats p. 4
+https://youtu.be/27FPv1VHSsQ&list=PLQVvvaa0QuDf5h6si5lUbTh4ejzTQVJCW
+Using Convolutional Neural Network to Identify Dogs vs Cats

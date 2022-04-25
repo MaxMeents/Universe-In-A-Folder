@@ -1,0 +1,76 @@
+
+Amazing AutoHotkey resources cheat sheet  74 great links to AHK topics
+https://youtu.be/6sB2VFZt628&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Announcing the 2020 AutoHotkey User Survey
+https://youtu.be/iF9B8vdp98c&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Auto-Replace Illegal Characters for dumb CMS systems (2021)
+https://youtu.be/pTEspxeSf_8&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Automate Extracting tracking codes from HTML pages (2021)
+https://youtu.be/AuVusHjA_2g&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Compare lists and identifying overlaps (2021)
+https://youtu.be/eHXG7gory_Y&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+get mapping to network drive on windows 10 (great script)
+https://youtu.be/VCBOuRsSELg&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Help the Automator by posting my Link on  your AutoHotkey forum signature
+https://youtu.be/mu9MBGuZAMQ&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to clean up a text file with AutoHotkey and Pushing content into Excel
+https://youtu.be/bWzbIj7cRRs&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to Close a Windows Program  Restart your Taskbar with AutoHotkey
+https://youtu.be/IX74AvfvBEg&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to configure extra keyboard buttons with AutoHotkey  Natural Ergonomic keyboard 4000
+https://youtu.be/-hYm8lmB-Fw&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to easily add a GUI to your script  AutoHotkey GUIs are easy
+https://youtu.be/pgj3qjwYpKw&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to hide a program from the Taskbar
+https://youtu.be/-n8fegQaTP0&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to never forget your Webcam is covering the screen
+https://youtu.be/qdTbonetyEY&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to wrap each line of text with AutoHotkey  Easy AHK Tutorial
+https://youtu.be/ogIt3t3XWCE&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+I hit my 3,000 subscriber in record time!
+https://youtu.be/m9ztQexiwV8&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Incremental gains add-up!  Regularly investing in yourself is critical in 2021
+https://youtu.be/H1bcRg8z6N4&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Intro to GUIs with AutoHotkey (Promo)  GUIs are easy with AHK!
+https://youtu.be/vQWiL_2CQb8&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Is the AutoHotkey script safe Peek inside with this cool tool (2021)
+https://youtu.be/koQh2Jd2NkU&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Script to reboot computer Remotely with AutoHotkey (2021)
+https://youtu.be/kspZPCs2fjY&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Simple HTML Preview with AutoHotkey script (2021)
+https://youtu.be/rB-JS6GHExo&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Speed-up WebScraping with this AutoHotkey Script (2021)
+https://youtu.be/ceeouLX0884&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Take thousands of items and push into inlist for SQL Query (2021)
+https://youtu.be/2X9nuIWJuUw&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Testing new Webpages  Cool script to automate it! (2021)
+https://youtu.be/6eJossEaSkQ&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Transferring posts between systems with Webscraping
+https://youtu.be/pR9Soj6AaSY&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+What AutoHotkey course should we create next
+https://youtu.be/zc6TMPcMtPg&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+Videos 126-150

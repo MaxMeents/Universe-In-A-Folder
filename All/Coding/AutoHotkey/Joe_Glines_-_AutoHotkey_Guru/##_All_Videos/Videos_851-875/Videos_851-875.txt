@@ -1,0 +1,76 @@
+
+API calls are easy with AutoHotkey Use AHK to pull weather conditions
+https://youtu.be/5wZOi8kb5pE
+
+API calls with AutoHotkey are easy  4 example Google maps API requests using WinHTTPRequests
+https://youtu.be/8y2GiwdcKUU
+
+AutoHotkey Webinar 072017 Hour 1-SciTE4Autohotkey  SciTE is an amazing ahk editor!
+https://youtu.be/L0eWUsjp3HE
+
+AutoHotkey Webinar 072017 Hour 2- SciTE4Autohotkey user properties
+https://youtu.be/Jxj5jRg9Y2A
+
+AutoHotkey Webinar 082017 Hour 1-Parsing Plain Text files with AutoHotkey
+https://youtu.be/h_tvoG_okt4
+
+AutoHotkey Webinar 082017 Hour 2-Parsing plain Text files
+https://youtu.be/SOSoCGApsDE
+
+Example Webservice  API call- Yahoo query
+https://youtu.be/d3Fgrnagz6M
+
+Excel & AutoHotkey- Search Headers for terms & return references to columns
+https://youtu.be/j0uuujbD6AI
+
+Excel & AutoHotkey-Adding & Removing Borders
+https://youtu.be/1-obbk_Gu1s
+
+Excel & AutoHotkey-Clear Cell Content, Format, Links, etc.
+https://youtu.be/WY2rqEbQlm4
+
+Excel & AutoHotkey-Excel Insert email hyperlink
+https://youtu.be/FMenoVMOy34
+
+Excel & AutoHotkey-Performing email merge with Offset
+https://youtu.be/c8YadDnXs4E
+
+Excel & AutoHotkey-Replace Null  Missing values
+https://youtu.be/P9RW8jbzCbw
+
+Excel & AutoHotkey-Worksheet functions Mean, Median & Mode
+https://youtu.be/fn4Jwiq9Jvs
+
+Funniest thing I've seen in a while
+https://youtu.be/TzpMHljfdQg
+
+How to Automate Clicking an image with AutoHotkey
+https://youtu.be/k8D95Wb5Cl4
+
+How to create shortcuts to folders, programs, and snippets
+https://youtu.be/xu72F5KEDlI
+
+How to Find and click images or text with this cool tool (2021)
+https://youtu.be/aWRAtvJq9ZE
+
+How to personalize SciTE Intellisense with variables, labels, functions
+https://youtu.be/tVKkm7P8KnU
+
+How to setup SciTE auto-closing of quotes, brackets, parens etc.
+https://youtu.be/7diHtKE5guU
+
+How to use the Yelp API with AutoHotkey  working through oAuth2
+https://youtu.be/_nsNs43_ABk
+
+How to use the Zillow API  Easily extract free data from Zillow!
+https://youtu.be/i0XhlInTFfE
+
+Passing methods or properties as a variable in a COM object
+https://youtu.be/3omvzabRHHo
+
+Robotics Automation as a Service
+https://youtu.be/Pn422Fjywts
+
+Zoom API tutorial  How to connect to the Zoom API
+https://youtu.be/tw3kLhoRhnI
+Videos 851-875

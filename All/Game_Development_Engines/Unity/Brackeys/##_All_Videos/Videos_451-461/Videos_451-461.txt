@@ -1,0 +1,34 @@
+
+1. Unity Tutorial Basics - Create a Survival Game
+https://youtu.be/fRED_-LvJKQ
+
+2. Unity Tutorial Melee Combat- Create a Survival Game
+https://youtu.be/HzTceINFowY
+
+3. Unity Tutorial Animation and Health - Create a Survival Game
+https://youtu.be/FKT7jIW6ORU
+
+4. Unity Tutorial Animation System - Create a Survival Game
+https://youtu.be/OgFa4H2P6Z0
+
+5. Unity Tutorial, Crosshairs - Create a Survival Game
+https://youtu.be/FRSZpQDdV1Y
+
+6. Unity Tutorial, Timing, Animation and Importing - Create a Survival Game
+https://youtu.be/C6c9J9CSEvA
+
+7A. Unity Tutorial, Render Settings - Create a Survival Game
+https://youtu.be/_brBV61f2ss
+
+7B. Unity Tutorial, Glowing Particles - Create a Survival Game
+https://youtu.be/YD0mkX6T9b8
+
+8. Unity Tutorial, Terrains - Create a Survival Game
+https://youtu.be/pSZzlOvfdtI
+
+9. Unity Tutorial, Lamps, Materials, Shaders - Create a Survival Game
+https://youtu.be/KsCDvFX7Mdk
+
+Robot Speed Modeling #1 - The Leg
+https://youtu.be/NfAhCFNTRtE
+Videos 451-461

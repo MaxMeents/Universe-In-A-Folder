@@ -1,0 +1,13 @@
+
+Day 1 - FP vs OOP (fight)
+https://youtu.be/q0BQMbwzPJw&list=PLr2F5WUnrawsv70plCUt-aB0qpqO8ORYa
+
+Legacy Rails Q&A Michael Feathers, Adam Hawkins, Andrzej Krzywda
+https://youtu.be/csiK5GCcjt8&list=PLr2F5WUnrawsv70plCUt-aB0qpqO8ORYa
+
+Panel DDDCQRSES - wroc_love.rb 2015
+https://youtu.be/Rh2A96rpGpY&list=PLr2F5WUnrawsv70plCUt-aB0qpqO8ORYa
+
+Single Page Applications Frameworks (fight)
+https://youtu.be/h8XeZFW1Ad0&list=PLr2F5WUnrawsv70plCUt-aB0qpqO8ORYa
+[EN] Arkency - Discussion Panels

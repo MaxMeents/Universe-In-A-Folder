@@ -1,0 +1,28 @@
+
+Difference between Iterator and Generator in Python  Generator vs Iterator  Generator & Iterator
+https://youtu.be/rUs-blyYUbQ&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Disadvantages of Iterators  Iterators Disadvantages  Iterators in Python
+https://youtu.be/aHVreijzCvc&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to create your own Iterators in Python  Creating Your Own Iterators
+https://youtu.be/W41TOgAUru0&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Built-in Iterators in Python  iter()  next()  Iterators and Iterables  Iterables
+https://youtu.be/tUSMrv4lqWk&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Decorators in Python
+https://youtu.be/Yfj6dYg_pFI&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Decorators in Python  Decorators  Decorators in Python  Python Decorators
+https://youtu.be/RHHfM2hOF2Y&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Generators in Python  How to use Generators in Python  Generators
+https://youtu.be/CNI58s8Bdhk&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What are Iterators in Python  Iterators in Python  Python Iterators  Iterators
+https://youtu.be/TB8Co3D4fm4&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+yield vs return  Yield  Return  What's YIELD in Python  What's Return in Python
+https://youtu.be/1d_HCJhNhFA&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+Videos 76-84

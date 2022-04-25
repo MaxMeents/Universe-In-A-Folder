@@ -1,0 +1,13 @@
+
+C++ Weekly - Ep 297 - C++ Homework `auto` All The Things
+https://youtu.be/ZbmaeSoNDXc&list=PLs3KjaCtOwSb5GDEC-H79GBj9J-eJr9Qx
+
+C++ Weekly - Ep 299 - C++ Homework `const` All The Things
+https://youtu.be/ZYtVuVPOY4A&list=PLs3KjaCtOwSb5GDEC-H79GBj9J-eJr9Qx
+
+C++ Weekly - Ep 301 - C++ Homework `constexpr` All The Things
+https://youtu.be/cpdjQiRxEJ8&list=PLs3KjaCtOwSb5GDEC-H79GBj9J-eJr9Qx
+
+C++ Weekly - Ep 303 - C++ Homework Lambda All The Things
+https://youtu.be/_xvAmEbK1vE&list=PLs3KjaCtOwSb5GDEC-H79GBj9J-eJr9Qx
+C++ Homework

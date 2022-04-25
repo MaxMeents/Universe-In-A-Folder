@@ -1,0 +1,76 @@
+
+Alejandro Castillo - Deja de pegarte con tus servicios; import lymph
+https://youtu.be/LP9J93qdZp0
+
+Alessandro Amici - Solving the web most popular code shortening competition in Python.
+https://youtu.be/4-3zLTg3GKk
+
+Alessandro Molina - Why storing files for the web is not as straightforward as you might think.
+https://youtu.be/PckwHNNe8pw
+
+Alessio Siniscalchi - Citizen Science Tracking Aliens with Python!
+https://youtu.be/9SP54aEmmVw
+
+Anders Lehmann - Online Education challenges and opportunities for Staff and Students
+https://youtu.be/ukxOwyKie-Q
+
+Bhaumik Shukla - Python for Cloud Services and Infrastructure Management
+https://youtu.be/et0Hnntk3-s
+
+Francisco Fernández Castaño - Knowing your garbage collector
+https://youtu.be/sSMPiQZTyrI
+
+Getting started with Bokeh  Let's build an interactive data visualization for the web..in Python!
+https://youtu.be/EQCtGIdA0nE
+
+Hitul Mistry - Python Multithreading and Multiprocessing Concurrency and Parallelism
+https://youtu.be/6EBBWv6tuA8
+
+James Robinson - Raspberry Pi Weather Station
+https://youtu.be/VAbTDiYsY6U
+
+Jan Pazdziora - External authentication for Django projects
+https://youtu.be/62_jD-8zV4M
+
+Jesús Espino - Todo es una trampa
+https://youtu.be/js_5dDRWe48
+
+João Santos - Using Git Hooks to Help Your Engineering Teams Work Autonomously
+https://youtu.be/pwmZ7AGhcuo
+
+Kyle Knapp - It Works on My Machine Writing Python Code for Any Environment
+https://youtu.be/DOQUPQZTXXs
+
+Lynn Root - Diversity We are not done yet
+https://youtu.be/xWLFiKfoOTA
+
+Mikel Larreategi - Python gure etxean (r)eboluzioa atzo, gaur eta bihar
+https://youtu.be/cFXvEZr7oFI
+
+oier etxaniz - Karakate magaletik EuroPythoneko tontorrera
+https://youtu.be/069YOG8HaXw
+
+Raúl Cumplido - Metaprogramación en Python
+https://youtu.be/jSxBHLqeX-A
+
+Sam Thursfield - Introduction to Baserock
+https://youtu.be/qYGlMCk15hs
+
+Sever Banesiu - Distributed Workflows with Flowy
+https://youtu.be/-Jm_ZNPIqjY
+
+Stephan Jaensch - Building mobile APIs with services at Yelp
+https://youtu.be/UUkyzCwgqPw
+
+Tibor Arpas - Mashing up py.test, coverage.py and ast.py to take TDD to a new level
+https://youtu.be/nrSZthcAN2U
+
+Timo Stollenwerk - The Butler and the Snake - Continuous Integration for Python
+https://youtu.be/uPeHwxfYB_I
+
+Waits - Incorporando administrado repositorios de información para generar documentación on-demand
+https://youtu.be/Zhd1pRQKoNE
+
+Yamila Moreno - Lecciones aprendidas en un proyecto grande de Django
+https://youtu.be/8NIGl_xiCb8
+Videos 901-925

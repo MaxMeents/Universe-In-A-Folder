@@ -1,0 +1,76 @@
+
+Aleph.im Tutorial  Exploring the New Virtual Machine Tech  10-Minute Tutorials
+https://youtu.be/mTrmbsDJew8
+
+Aleph.im Tutorial  Using Aleph VMs to Store NFT Metadata  10-Minute Tutorials
+https://youtu.be/J4BR5RCxPGQ
+
+Ethereum Tutorial  How to Get Free Test ETH from an Ethereum Faucet  Techmaker Tips
+https://youtu.be/xefhmOWio1E
+
+How rare is that NFT you want How to compareDetermine Rarity with Rarity.Tools!
+https://youtu.be/G_SKo1AonNI
+
+How to Earn Bitcoin while online shopping with Lolli
+https://youtu.be/zuT1iJoK8V0
+
+How to Earn Free Crypto with Coinbase
+https://youtu.be/Ur-zF7eus_I
+
+How to Get Started with Metamask - A Step by Step Guide  Techmaker Tips
+https://youtu.be/I_oakkaYY4k
+
+How to Mine Bitcoin with your Gaming PC
+https://youtu.be/kMo3NK5jTpg
+
+How to mint NFTs from project websites
+https://youtu.be/rE3RWUWHouI
+
+How to Register an ENS Domain  Techmaker Tips
+https://youtu.be/SRH0_tobSAA
+
+OpenSea NFT Tutorial  How to Sell NFTs on OpenSea (for Beginners)
+https://youtu.be/0YhNo43E--A
+
+OpenSea Tutorial  How to flip or list an owned NFT for Sale
+https://youtu.be/lIw-L2CR-UQ
+
+Python Pillow Tutorial  How to Combine Images in Python with Pillow
+https://youtu.be/hvy9msjJdMs
+
+Python Random Choice Tutorial  How to Create NFT Rarity in Python with Random Choice
+https://youtu.be/E11msL3NsUs
+
+Python Tutorial  Saving Images to IPFS via the Aleph Network  10-Minute Tutorials
+https://youtu.be/lFfhP0uyzSU
+
+React JS Tutorial  Building an NFT Bookstore from Scratch - Part 1
+https://youtu.be/ao2M2jkpR3E
+
+React JS Tutorial  Building an NFT Bookstore from Scratch - Part 2
+https://youtu.be/PyzHVCufnh0
+
+React JS Tutorial  Building an NFT Bookstore from Scratch - Part 3
+https://youtu.be/E1FUZK6hk7s
+
+React JS Tutorial  Building an NFT Bookstore from Scratch - Part 4
+https://youtu.be/sEWqliga1Sc
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 6
+https://youtu.be/PpgG4X8BZHg
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 7
+https://youtu.be/topTk6-Qsbo
+
+Solidity Tutorial  Building an NFT Book Store from Scratch - Part 8
+https://youtu.be/AYBX3-dd_RA
+
+Techmaker Tips  How to Earn Crypto With Brave Browser
+https://youtu.be/BymcVhGprog
+
+Techmaker Tips  How to Swap Tokens on Uniswap Tutorial
+https://youtu.be/NSJC4EnhYP8
+
+Vagrant Tutorial  How to Setup a Basic Vagrant VM  10-Minute Tutorials
+https://youtu.be/AlRejC0lIGk
+Videos 51-75

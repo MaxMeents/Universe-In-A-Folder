@@ -1,0 +1,76 @@
+
+[25] Events - How To Make A Game
+https://youtu.be/oeyRt_e80-Q&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[26] Clean Up - How To Make A Game
+https://youtu.be/ZwmH50rhZeE&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[27] Your Assignment - How To Make A Game
+https://youtu.be/e4rbg9rWVQw&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[28] Intro To Chapter 2 - How To Make A Game
+https://youtu.be/AMJXm9o-wko&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[29] Game Manager Master - How To Make A Game
+https://youtu.be/Pd80uJEfdE4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[30] Game Manager Pause Toggle - How To Make A Game
+https://youtu.be/PmX5UM0PyF8&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[31] Game Manager Toggle Menu - How To Make A Game
+https://youtu.be/wVS9aGvrFwY&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[32] Menu UI - How To Make A Game
+https://youtu.be/zyLGWk0C1DY&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[33] Game Manager Toggle Player - How To Make A Game
+https://youtu.be/x_6R7InDHp4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[34] Game Manager Toggle Cursor - How To Make A Game
+https://youtu.be/L-xG2JxW-hY&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[35] Game Manager References - How To Make A Game
+https://youtu.be/3tJLu-mk_Ro&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[36] Game Manager Toggle Inventory UI - How To Make A Game
+https://youtu.be/pSNT2kJIQUg&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[37] Inventory UI - How To Make A Game
+https://youtu.be/MUgbRd27Ox0&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[38] Main Menu - How To Make A Game
+https://youtu.be/dowN8b-JEgk&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[39] Game Manager Go To Menu Scene - How To Make A Game
+https://youtu.be/FwAWMQ7Fi6k&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[40] Game Manager Restart Level - How To Make A Game
+https://youtu.be/4YQV-46S_UI&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[41] Game Manager Game Over - How To Make A Game
+https://youtu.be/9z7_tlX8OTg&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[42] Script Template - How To Make A Game
+https://youtu.be/jwAt1HM8EeQ&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[43] Panel Instructions UI - How To Make A Game
+https://youtu.be/CgGAyZvj0uY&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[44] Game Manager Panel Instructions - How To Make A Game
+https://youtu.be/LKtckumarE8&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[45] Intro To Chapter 3 - How To Make A Game
+https://youtu.be/zLv58hYpu_Q&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[46] Player Master - How To Make A Game
+https://youtu.be/baB1_Qjs3ys&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[47] Player Health - How To Make A Game
+https://youtu.be/5u56VBP4n1Y&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[48] Canvas Health - How To Make A Game
+https://youtu.be/9fIeCLocDNc&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[49] Player Canvas Hurt - How To Make A Game
+https://youtu.be/vvh4TTKZvfU&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+Videos 26-50

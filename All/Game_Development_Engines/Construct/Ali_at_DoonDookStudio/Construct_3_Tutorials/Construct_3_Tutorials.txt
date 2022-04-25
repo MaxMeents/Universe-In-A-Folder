@@ -1,0 +1,43 @@
+
+3D Particles in 5 Minutes (Construct 3 Tutorial)
+https://youtu.be/MgVD2Y6Lvsk&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Audio in Construct 3 - How to Fix Common Problems
+https://youtu.be/3Haj74T85IM&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Construct 3 Settings Menu (Most Common UI Elements) + Source Code
+https://youtu.be/SnkhMR49fUA&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Construct 3 Tween in 9 Minutes + Project File
+https://youtu.be/n2gHEn1pfDY&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+DOP 2 Delete One Part in 8 Minutes (Mask in Construct 3) + Project File
+https://youtu.be/9VDudU-Sf38&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+How to Make a Game Responsive In Construct 3
+https://youtu.be/5Fl3GVsDXFQ&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+How to Make Beautiful Texts in Construct 3 (SpriteFont)
+https://youtu.be/XemBx4p1Byc&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+How to Make Snow Particles in Construct 3 Game
+https://youtu.be/K9vVUNdAmYo&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Implementing Admob Ads in Construct 3
+https://youtu.be/QM7ISrQuOA8&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+JSON in Construct 3 (Practical Example)
+https://youtu.be/aSGM1ZY7RSQ&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Pause Menu In Construct 3 - HTML5 Game Development Tutorial
+https://youtu.be/PEGoce9pS3Y&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Save & Load System (LocalStorage in Construct 3) + Project File
+https://youtu.be/2XyVsaF1SEI&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Shop System In Construct 3 - HTML5 Game Development Tutorial
+https://youtu.be/DN--6zmmiRg&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+
+Swipe Detection in Construct 3 + Project Files
+https://youtu.be/GbNbWzNayrM&list=PLxVrDQQa42OTjn-UwAfqFyG6v95kg9NNN
+Construct 3 Tutorials

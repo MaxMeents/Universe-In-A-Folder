@@ -1,0 +1,13 @@
+
+7 common mistakes in Go and when to avoid them by Steve Francia (Docker)
+https://youtu.be/29LLRKIL_TI&list=PLtLJO5JKE5YB55ExLApKU0S8_eN5eaGkU
+
+GopherFest 2015 Andrew Gerrand on the Current State of Go and Go 1.5 Release
+https://youtu.be/S9Bu6fZnLGM&list=PLtLJO5JKE5YB55ExLApKU0S8_eN5eaGkU
+
+GopherFest 2015 Concurrency Conventions in Go by Aaron Schlesinger
+https://youtu.be/0xpv7SFQ0T4&list=PLtLJO5JKE5YB55ExLApKU0S8_eN5eaGkU
+
+GopherFest 2015 Rob Pike on the move from C to Go in the toolchain
+https://youtu.be/cF1zJYkBW4A&list=PLtLJO5JKE5YB55ExLApKU0S8_eN5eaGkU
+Gopherfest SF 2015

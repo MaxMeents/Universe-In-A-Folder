@@ -1,0 +1,76 @@
+
+2. Downloading JDK & Eclipse setting up Path - Java Programming Tutorial For Beginners
+https://youtu.be/vE0WZvm-t90
+
+3. Java Programming Tutorial For Beginners - Very First Java Program
+https://youtu.be/eD4cb3RR7NQ
+
+C++ Programming Tutorial For Beginners - 11 - Concept of Loops
+https://youtu.be/J_h6HcEzlZA
+
+C++ Programming Tutorial For Beginners - 12 - While Loops
+https://youtu.be/KgT9k-4o9YM
+
+C++ Programming Tutorial For Beginners - 13 - For Loops
+https://youtu.be/InNbK9P2lCE
+
+C++ Programming Tutorial For Beginners - 14 - Do While Loops
+https://youtu.be/kibsHopEpuE
+
+C++ Programming Tutorial For Beginners - 15 - Concept Of Arrays Simple Explanation
+https://youtu.be/NLs0mLCPKRA
+
+C++ Programming Tutorial For Beginners - 16 - Putting Values Inside Array and Accessing Values
+https://youtu.be/sj-0CfPbq9Y
+
+C++ Programming Tutorial For Beginners - 17 - Concept of Functions (Definition and Declaration)
+https://youtu.be/BV5J7rI1e7Q
+
+C++ Programming Tutorial For Beginners - 18 - Functions With Parameters
+https://youtu.be/IGzegBM9omU
+
+C++ Programming Tutorial For Beginners - 19 - Function Overloading
+https://youtu.be/l0CiYlbKT1o
+
+C++ Programming Tutorial For Beginners- 20 - Constant Variables with Const keyword
+https://youtu.be/-LFsWhT0nzg
+
+C++ Programming Tutorial For Beginners- 22 - Structures in C++
+https://youtu.be/8gTiVk5YXh0
+
+C++ Programming Tutorial For Beginners-21- sizeof Operator
+https://youtu.be/OfoBI0eqhlI
+
+C++ Programming Tutorials For Beginners - 10 - Switch Case statements
+https://youtu.be/f45bRtg2pKA
+
+Java For Beginners -  public static void main(String[] args) Detailed Explanation
+https://youtu.be/Xxtl04Lawes
+
+Lets Play Prince Of Persia The Sands of Time Gameplay - Part 1
+https://youtu.be/eojggM1ytPs
+
+Unity - 2D Infinite Scrolling Background the Simplest Way
+https://youtu.be/HrDxnMI7pCc
+
+Unity 2D Brick Breaker Game Tutorial- 1 - Boundary , Paddle and Ball
+https://youtu.be/WmnH26Bb2EM
+
+Unity 2D Brick Breaker Game Tutorial-2- Moving The Paddle
+https://youtu.be/arIQYf9baec
+
+Unity 2D Brick Breaker Game Tutorial-3- Ball Bouncing and Scripting
+https://youtu.be/MejzzB3UZ1w
+
+Unity 2D Brick Breaker Game Tutorial-4- Adding Bricks to Our Game
+https://youtu.be/AhTYpNCFhpA
+
+Unity 2D Brick Breaker Game Tutorial-5- Adding Background and Colorful Bricks
+https://youtu.be/3PBX-zzJoWQ
+
+Unity 2D Brick Breaker Game Tutorial-6-Reloading Level on Game Over
+https://youtu.be/TW-Sa0I0WGA
+
+Unity Pause Your Game Easiest Way - Unity Pause Game Tutorial
+https://youtu.be/7dCtacifmU8
+Videos 151-175

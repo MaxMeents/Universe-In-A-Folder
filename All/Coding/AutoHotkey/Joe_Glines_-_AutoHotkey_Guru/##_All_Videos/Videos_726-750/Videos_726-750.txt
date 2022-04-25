@@ -1,0 +1,76 @@
+
+#10 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/7I4YonWuC-Q
+
+#11 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/WmnROUrWqKI
+
+#9 AutoHotkey automation  Robotics Process Automation examples
+https://youtu.be/vfJIP2_Lb1k
+
+AHK Studio Add words to your Personal Variable List so they show in Intellisense
+https://youtu.be/SCJrOGVRRjo
+
+AHK Studio Auto-create Includes & Publish (bringing all Includes back into script)
+https://youtu.be/ZH6i26FAbxM
+
+AHK Studio Creating a default New File Template
+https://youtu.be/UvJN6A3RktY
+
+AHK Studio Customizing, Adding, & Editing your Hotkeys
+https://youtu.be/xsiYAEa9zl8
+
+AHK Studio Easily share your code with Pastebin  AHKScript org
+https://youtu.be/KFYjPMRrpEU
+
+AHK Studio Editing your Context menus  Right click menu
+https://youtu.be/2BTkOIs7MCA
+
+AHK Studio Highlighting cursor location in Functions and commands
+https://youtu.be/-T4rwjZYzXc
+
+AHK Studio Smart ways to Move Text around the screen
+https://youtu.be/VhQEjIDEqKE
+
+AHK Studio Using the OmniSearch to change settings  find items
+https://youtu.be/XynRkrO6Fas
+
+AutoHotkey Podcast 008 AutoHotkey Forum issues
+https://youtu.be/6-YSe-nRmX4
+
+AutoHotkey Webinar 022019 Hour 1 - Debugging Vars script from Lexicos
+https://youtu.be/lvPt4hJPBD8
+
+AutoHotkey Webinar 022019 Hour 1
+https://youtu.be/CCK056qVmKQ
+
+AutoHotkey Webinar 022019 Hour 2
+https://youtu.be/Ep3abNDVabs
+
+Automating Saving Amazon Invoices with AutoHotkey
+https://youtu.be/Z2zGcdV7W20
+
+How to create context sensitive Hotkeys and Hotstrings in AutoHotkey
+https://youtu.be/uQ3ygqQY9ms
+
+Parsing more Text with StrSplit and InStr
+https://youtu.be/HWEu7oRlz4E
+
+Parsing text with StrSplit in AutoHotkey and breaking on a double quote
+https://youtu.be/9jmlkU3m0ZI
+
+Splitting main window in AHK Studio to see other sections of your script
+https://youtu.be/99EGg7j5Q4g
+
+Updated FindText function- Quickly identify a smaller search area to see speed gains
+https://youtu.be/pEnpnM0K5fA
+
+Using RegEx in AutoHotkey to Parse a mailing address
+https://youtu.be/1vnTQy5h2dY
+
+Waiting for an image to be present on a screen
+https://youtu.be/Q6arKjPBsNU
+
+Webscraping with AutoHotkey Wait for Element to Exist or Be visible
+https://youtu.be/Wzd5pxeUqLM
+Videos 726-750

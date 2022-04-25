@@ -1,0 +1,73 @@
+
+10 Asciidoc Tips from Andres Almiray
+https://youtu.be/dEE09B4lj3k&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Bert Jan Schrijver on Decoding the Air
+https://youtu.be/ofzjb2xoz_k&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+David Blevins on Java EE Connectors
+https://youtu.be/KxE8N7doUwU&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+David Blevins Presenting to JUG Darmstadt
+https://youtu.be/5wX8RmBHMVY&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+DukeScript and Duke Sewing with Toni Epple
+https://youtu.be/JX4gePM0pVA&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Eberhard Wolff on Microservices
+https://youtu.be/bKWqdhEAdCA&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Heather VanCura interviewing Java EE Experts
+https://youtu.be/iEdyjG49zNk&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Interview with Nicolas Rigaud and NAO
+https://youtu.be/E1PcAjWtXd4&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Ivar Grimstad on JMS 2.1
+https://youtu.be/D61EGZbwNnc&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Java SE 8 and Java EE 7 with Adam Bien
+https://youtu.be/xeSLmm0Ci64&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Berlin-Brandenburg NightHacking
+https://youtu.be/T3AnECbXoow&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Bodensee - Putting Hypermedia back in REST
+https://youtu.be/y9GmYhqV3Ds&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Bodensee - RetroPi Handheld Java Gaming
+https://youtu.be/KlcPtXCgzkI&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Bodensee Member Interviews
+https://youtu.be/fGLUjAoou0o&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Dortmund NightHacking - JAX-RS
+https://youtu.be/igrGLREO_cQ&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Dortmund NightHacking - RetroPi
+https://youtu.be/Ca3-_D2bau0&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Dortmund NightHacking Intro
+https://youtu.be/OAfSGdiTEL4&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+JUG Hannover NightHacking
+https://youtu.be/w6xr_OE9mLc&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Kirk Pepperdine on the G1 Garbage Collector
+https://youtu.be/XsySaAxP-a4&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Live from JavaLand - Terminator meets Minority Report (Augmented Reality)
+https://youtu.be/61X_hRvJLMo&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+NightHacking Germany Tour Overview
+https://youtu.be/EDVuHIEiD0M&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+NightHacking with Toni Epple Audience Intro
+https://youtu.be/xm674xvcyAE&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+RetroPi Java Console Interview
+https://youtu.be/vOx2D5llkDs&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+
+Toni Epple on DukeScript
+https://youtu.be/KnJt2LUPv68&list=PL2ekzZZrxVUlHYIwX9CoyiRVK5Tj3nB77
+NightHacking Germany Tour

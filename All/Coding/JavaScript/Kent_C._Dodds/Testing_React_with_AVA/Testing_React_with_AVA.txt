@@ -1,0 +1,7 @@
+
+How to setup the AVA Testing Framework
+https://youtu.be/FgjxXntElEY&list=PLV5CVI1eNcJiHxKQcYIlbt0t9PEOa4XCQ
+
+Using AVA's watch mode
+https://youtu.be/jfWK8LMD8mw&list=PLV5CVI1eNcJiHxKQcYIlbt0t9PEOa4XCQ
+Testing React with AVA

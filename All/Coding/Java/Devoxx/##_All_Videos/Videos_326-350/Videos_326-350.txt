@@ -1,0 +1,76 @@
+
+Devoxx Morocco 2019  20% discount code
+https://youtu.be/x6vyKgLFbSE
+
+Devoxx Ukraine 2019 promo code
+https://youtu.be/UeRLhKN7rJ0
+
+Docker image testing in GitLab CI - Thomas Holene Loekkeborg
+https://youtu.be/I7uHAuU-p8M
+
+Graph Network in High Energy Physics - Jean-Roch Vlimant
+https://youtu.be/__JSkXPeB1s
+
+Providing Continuous Integration at CERN - Daniel Juarez Gonzalez
+https://youtu.be/DqOZslyj03E
+
+Semantic Event Sourcing case study of moving from CRUD to log based state management - Neil Boddy
+https://youtu.be/uNodMFBgsDs
+
+[VDT19] Angular, React, Vue and Co. – peacefully united thanks to Web Components and Micro Apps
+https://youtu.be/kYAvBEW3M74
+
+[VDT19] Applied machine learning a few lessons I learned the hard way by Alessandro Giusti
+https://youtu.be/p3O_bxIFYZk
+
+[VDT19] Build your own voice recognition solution with Alexa by Johan Janssen
+https://youtu.be/rOvHjMNUzyA
+
+[VDT19] Cognitive UX Using cognitive science and psychology to drive UX design by Emilia Ciardi [IT]
+https://youtu.be/_H-AT3aLbhg
+
+[VDT19] Design and Effectiveness of Internal DSLs in Scala by Andrea Mocci
+https://youtu.be/pvs3uvUHDPs
+
+[VDT19] Design for errors - An introduction to Domain Modeling with a bit of Arrow by Ivan Morgillo
+https://youtu.be/1pEffDww4-Q
+
+[VDT19] Digital Enterprise DevOps Toolchain by Marco Bizzantino [IT]
+https://youtu.be/t7NrwfJwvjU
+
+[VDT19] Gradle Ex Machina by Andres Almiray
+https://youtu.be/C6XrD0bQceE
+
+[VDT19] How and why I turned my old Java project into a first-class serverless component
+https://youtu.be/t01Utg4WB0w
+
+[VDT19] Java - Quo Vadis by Tobias Hartmann
+https://youtu.be/149Q1Xbud2I
+
+[VDT19] Keynote Performance tuning by Chris Thalinger
+https://youtu.be/BgWqyu_u9NQ
+
+[VDT19] Mastering UI tests by Stefano Magni
+https://youtu.be/RwWz4hllDtg
+
+[VDT19] MySQL 8.0 un database SQL+NoSQL per i micro servizi by Marco Carlessi [IT]
+https://youtu.be/ztuKUEnO9gY
+
+[VDT19] One app to rule them all - Building a white-label application with React Native
+https://youtu.be/M0Y01qrXQHo
+
+[VDT19] Passwords are so 1990 by Sam Bellen
+https://youtu.be/PQnpAO2yD5c
+
+[VDT19] Quarkus super fast java to enable AI in enterprise application
+https://youtu.be/o67SCGk12-o
+
+[VDT19] Start writing security tests now! by Nanne Baars
+https://youtu.be/e2k84VbH1_U
+
+[VDT19] Untangled Sneak peek at Project Loom by Arnaud Bos
+https://youtu.be/v5Z8rOTzM8s
+
+[VDT19] Where is my cache Architectural patterns for caching microservices by example
+https://youtu.be/BC6NvHssquI
+Videos 326-350

@@ -1,0 +1,76 @@
+
+[Beginner Tutorial] Make an RPG in GameMaker [P10] Player Attack State
+https://youtu.be/D2Cll6aINPI&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P11] Hitboxes and Knockback
+https://youtu.be/m072NP-6qv0&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P12] Better Character Sprite Control
+https://youtu.be/G_lllFibYmE&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P13] Adding Enemy States
+https://youtu.be/huvEsQ-U3Is&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P15] Adding Stats for the Player
+https://youtu.be/spojGWywIk0&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P16] Level Up!
+https://youtu.be/imR9XZh4_FE&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P17] Limit Dash and Fix a Bug
+https://youtu.be/mhamOkFs1UI&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P18] Fixed Enemy Movement
+https://youtu.be/dbQFyD7LBEA&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P19] Moving Between Rooms
+https://youtu.be/GLbn5MBCzKc&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P1] Basic Movement and Collisions
+https://youtu.be/WB2alpO62GM&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P20] Enemy Loot Drop
+https://youtu.be/MgtyK_Ax_O0&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P21] Fixed Enemy Movement
+https://youtu.be/zkQwzVj9Z70&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P22] Dialog
+https://youtu.be/T6ujorMHjfE&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P23] Improved Dialog
+https://youtu.be/8kL4kfWiLsg&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P24] Pause Menu
+https://youtu.be/yMgI1yi480Y&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P25] Saving!
+https://youtu.be/09qF7AcNxkY&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P2] Step Event + Views
+https://youtu.be/nFqr8d9Qq0I&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P3] Variables and Character Sprites
+https://youtu.be/g2VMatd232M&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P4] Draw Event, Backgrounds, Scripts, and States
+https://youtu.be/N9kZZlj7ktI&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P5] Smooth View Movement
+https://youtu.be/O39dK4YBorA&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P6] Better Player Movement
+https://youtu.be/1xNly7-KNJY&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P7] GamePad Input
+https://youtu.be/720S9GuwC94&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P8] Dash State
+https://youtu.be/EvYXRefDQHU&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make an RPG in GameMaker [P9] Adding Enemies, Depth, and Inheritance
+https://youtu.be/h-fqwqZHyKU&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+
+[Beginner Tutorial] Make and RPG in GameMaker [P14] Enemies that Attack!
+https://youtu.be/qmlnbPuSK48&list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd
+Videos 1-25

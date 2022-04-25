@@ -1,0 +1,148 @@
+
+Analyzing arguments during a debate using NLP in Python - PyCon India 2015
+https://youtu.be/eS2N3AeYnyk&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Avoiding common pitfalls of datetime from a webapp's perspective - PyCon India 2015
+https://youtu.be/kKDbiibuT7Y&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Building flexible filesystems with FUSE-Python - PyCon India 2015
+https://youtu.be/C2FuPxyip2A&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Building NextGen IoT solutions using Python and Cloud - PyCon India 2015
+https://youtu.be/QEqYUFCPN6s&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Building Offensive Web Security Framework in Python - PyCon India 2015
+https://youtu.be/KF60itcTQTA&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Consuming Government Data with Python and D3 - PyCon India 2015
+https://youtu.be/u386R-bNgf4&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Create flexible Neuroimaging pipelines using nipype - PyCon India 2015
+https://youtu.be/dOWVKtZynas&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Creating, deployment & customizing Linux VMs on Azure with Python - PyCon India 2015
+https://youtu.be/2DoN4kCS7J8&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Discussion on Building and Running Communities - PyCon India 2015
+https://youtu.be/IWHH6c3wZVQ&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Education Education Education - Keynote By Nicholas H.Tollervey - PyCon India 2015
+https://youtu.be/Q3kXXtlviiM&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Explore Big Data using Simple Python Code and Cloud Environment - PyCon India 2015
+https://youtu.be/ix0eBavAnbE&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Fedmsg The message bus of Fedora Infrastructure - PyCon India 2015
+https://youtu.be/eymAVMG5bHQ&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+How to build micro services using ZeroMQ and WSGI - PyCon India 2015
+https://youtu.be/98AKS-aMi0g&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+How to detect Phishing URLs using PySpark Decision Trees - PyCon India 2015
+https://youtu.be/LCI4ay11UBY&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Introduction and Keynote - Ajith Kumar - PyCon India 2015
+https://youtu.be/bDbXUAOIo4w&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Laying out your Django projects - Promises and Pitfalls - PyCon India 2015
+https://youtu.be/dDnpeHzsDs4&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Analytics Vidhya - PyCon India 2015
+https://youtu.be/MdeVreHvbxw&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Bitten by Python - PyCon India 2015
+https://youtu.be/dMEDn9XEapQ&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Deployment automation - PyCon India 2015
+https://youtu.be/dEA-0o7kBzY&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Django deployment with git push - PyCon India 2015
+https://youtu.be/qwv4zcRy-6E&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Import Python - PyCon India 2015
+https://youtu.be/1DHSsMj7RZo&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Indian men are not still rapist - PyCon India 2015
+https://youtu.be/BB5rtsJGbUI&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Klonio - PyCon India 2015
+https://youtu.be/uZ2X7fyluGU&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Pani - PyCon India 2015
+https://youtu.be/Gqvn2V1UF4M&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - PyDelhi & Dgplug - PyCon India 2015
+https://youtu.be/RW8A_alJQco&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Python Requests - PyCon India 2015
+https://youtu.be/9CR5_WLW-uo&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - SymPy - PyCon India 2015
+https://youtu.be/E5hSvojqBzU&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Ticketing plus deployment automation - PyCon India 2015
+https://youtu.be/u9pLem_3EhY&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Why SQLAlchemy - PyCon India 2015
+https://youtu.be/rwXyv9YG7Z4&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Lightning Talk - Yet Another Lightning talk - PyCon India 2015
+https://youtu.be/QmScfOsdxqg&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Machine learning techniques for building a large scale production  system - PyCon India 2015
+https://youtu.be/w97Y7ILe-Fw&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Pretty printing in Python - PyCon India 2015
+https://youtu.be/9OxWgyjlDmQ&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Python 3 Metaprogramming, Macros, Madness & More! - PyCon India 2015
+https://youtu.be/hPk57osSEgw&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Python and Riak DB, a perfect couple for huge scale distributed computing - PyCon India 2015
+https://youtu.be/NAwFrYcAY8Y&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Python load balancer 0 to 1 million requests per second - PyCon India 2015
+https://youtu.be/5jNQgX-bTeM&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Python Traceback For Humans! - PyCon India 2015
+https://youtu.be/EGhG8VEatBE&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+REST APIs - What, Why and How - PyCon India 2015
+https://youtu.be/-W5GVW4Vwlw&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+RIP Nagios. Hello Docker Shinken! - PyCon India 2015
+https://youtu.be/piM30OavEdk&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Simple Hacks to Make Your Django Website Faster - PyCon India 2015
+https://youtu.be/XVv_z5q4MC8&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Solving Logical Puzzles with Natural Language Processing - PyCon India 2015
+https://youtu.be/LSQpWZlKAaA&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Build Python Web Apps in a breeze with Visual Studio - PyCon India 2015
+https://youtu.be/AILMP-5XhbM&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Contributors, colleagues, clients & customers - Open Source - PyCon India 2015
+https://youtu.be/a85aubUGoMU&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Python at Scale @ Linkedin - PyCon India 2015
+https://youtu.be/LKgF3ScNudQ&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Python in Enterprise - Part2 - ZeOmega - PyCon India 2015
+https://youtu.be/LeuQ409r1hg&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Python in Enterprise - ZeOmega - Part1 - PyCon India 2015
+https://youtu.be/CGF6rklyV88&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Revolutionizing e-commerce using hyper-local way - Zopper- PyCon India 2015
+https://youtu.be/JffTjK2Hkl0&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Sponsored - Technology Stack @ Goibibo - PyCon India 2015
+https://youtu.be/rizc12Tuw-I&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+SymEngine The future fast core of computer algebra systems - PyCon India 2015
+https://youtu.be/DWU2tKlacZE&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+
+Test Driven Development with Ansible - PyCon India 2015
+https://youtu.be/c21VnhhQYNQ&list=PL6GW05BfqWIe6rMoFFWmllPegB2gU069m
+Videos 1-25

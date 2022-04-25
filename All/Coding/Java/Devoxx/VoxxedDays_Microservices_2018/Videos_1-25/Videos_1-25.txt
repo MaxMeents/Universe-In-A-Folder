@@ -1,0 +1,76 @@
+
+A Software Architect's Approach towards SPA Based Micro Apps (Manfred Steyer)
+https://youtu.be/SeHUZoqf5zQ&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Ask the architects (Ken Finnigan, Bridget Kromhout, Susanne Kaiser)
+https://youtu.be/OLvF9oCgius&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Data Consistency in Microservices Architecture (Grygoriy Gonchar)
+https://youtu.be/CFdPDfXy6Y0&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Data in a Microservices world from conundrum to options (E. Bernard, M. Coulibaly)
+https://youtu.be/_ghmLa7KOf0&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Distant Past of Microservices (Ken Finnigan)
+https://youtu.be/En-ve2fXEgU&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Distributed of systems and teams (Bridget Kromhout)
+https://youtu.be/NlkET54KOkw&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Dynamic configuration management in microservice architecture with Spring Cloud (Bartłomiej Słota)
+https://youtu.be/3RHLLA7IBow&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+From a legacy monolith to a scalable SaaS application (Melanie Rao, Rachel Orti)
+https://youtu.be/m3zHWaE18no&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Habitat Automation that travels with the app (Romain Sertelon)
+https://youtu.be/NJv6ukJsvRA&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Hexagonal at Scale, with DDD and microservices! (Cyrille Martraire)
+https://youtu.be/xZOO_CksS-E&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+How do we use Serverless Architectures on AWS Lambda (Serhat Can)
+https://youtu.be/rNSxpk_UsTk&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Hybrid batch and stream processing (Marcos Almeida)
+https://youtu.be/4HsjivBJihA&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Integrating microservices by accepting the data dichotomy (Damien Gasparina)
+https://youtu.be/j5TTaim8I84&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Managing incidents in microservices (Serhat Can)
+https://youtu.be/x2RMD0_iuLk&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Microservices Highway to hell (Broutin Mathieu)
+https://youtu.be/PK1UDRb1YAQ&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Microservices in the future (Susanne Kaiser)
+https://youtu.be/sIlQ5iYeqIE&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Microservices Lessons Learned (Susanne Kaiser)
+https://youtu.be/mYCdVjMMmck&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Monitor Your Microservices with Logs, Metrics, Pings and Traces (David Pilato)
+https://youtu.be/AOjgHGGT7KM&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Monitoring a JHipster microservice architecture in practice (Pierre Besson)
+https://youtu.be/NpLef-jmX2Y&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Monolith 2 MicroServices Houston we've got a problem (Mike Francois)
+https://youtu.be/XMviQwUTlIk&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+New serverless solutions on Google Cloud for functions, apps and containers (Guillaume Laforge)
+https://youtu.be/Ke89_rFx7tI&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+State or events Which shall I keep (Jakub Pilimon, Kenny Bastani)
+https://youtu.be/4LVokI3BXEg&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Stop reinventing the wheel with Istio (Mete Atamel)
+https://youtu.be/DBZtKZ4FZtI&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Voxxed Days Microservices 2018 first speakers announced
+https://youtu.be/FDIsve8xqvc&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+
+Welcome to Voxxed Days Microservices 2018 (Antonio Goncalves)
+https://youtu.be/g5lq6E8CN0E&list=PLRsbF2sD7JVrhlYIKTI--IU6xcfUjdNt2
+Videos 1-25

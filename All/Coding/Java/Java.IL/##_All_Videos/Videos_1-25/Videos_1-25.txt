@@ -1,0 +1,76 @@
+
+A Tour of the Modern Java Platform  James Ward
+https://youtu.be/jALS67cfw_k
+
+Amazon Corretto, A Journey into Latency Reduction  Yishai Galatzer - Amazon
+https://youtu.be/pmlAJ31opwM
+
+Apache Pulsar Under the Hood for Java Developers
+https://youtu.be/8DkZKsjjcG0
+
+Avoiding GC for Soft Real-time Applications  Eric Bruno
+https://youtu.be/18mTJ99k5fs
+
+Customizing and Extending JUnit5  Sven Ruppert
+https://youtu.be/-GXXswxIHbo
+
+Dropping ACID  Avishay Ish Shalom - Scylla
+https://youtu.be/BVpJjAXHjcc
+
+How we Built a Highly Scalable User Engagement Platform  Idan Fridman - Draftkings
+https://youtu.be/Ey3nxS3SvyA
+
+In-Memory Computing Essentials for Java Developers and Architects  Denis Magda - GridGain
+https://youtu.be/Osg59rSZqq0
+
+Integration Testing with Testcontainers  Kevin Wittek - AtomicJar
+https://youtu.be/961Sm9ykoGk
+
+Introduction to Spring Native
+https://youtu.be/XPB25r2TIrg
+
+It is perfectly noORMal to use JDBI  Haim Yadid - Next Insurance
+https://youtu.be/jd3brL00j-c
+
+Java After 8  Gil Tene - Azul [Hebrew]
+https://youtu.be/XJWgzMVi1MM
+
+Kubernetes Operators in Java - Nicolas Frankel  Hazlecast
+https://youtu.be/4pnpMX_9Hgk
+
+Leveraging Shenandoah to cut Cassandra’s Tail Latency  Amir Hadadi - Outbrain
+https://youtu.be/QCGv4UWSAPY
+
+Lies, damn lies and async IO  Avishai Ish-Shalom
+https://youtu.be/q89SHmXrJ9I
+
+Log4Shell - Log4j vulnerability  Doron Levi - Pointer Software Systems
+https://youtu.be/mCK0ar0E8yk
+
+Making Maven Marvellous
+https://youtu.be/YonGvSGewFY
+
+Measure Your Code Complexity with Checkstyle  Yonatan Ben Avraham   - Outbrain
+https://youtu.be/G4U0oij9qjA
+
+Oak A Scalable Off-Heap Key-Value Map
+https://youtu.be/k2bexLYcn2E
+
+Refactoring Frenzy - Don't settle for short term  Tal Doron - NICE
+https://youtu.be/rEoUghQk4ss
+
+Releasing At The Speed Of Light
+https://youtu.be/3N15-B0VHE8
+
+Server-side development with Kotlin and Ktor  Anton Arhipov - JetBrains
+https://youtu.be/hY8jBINm0xc
+
+State of Project Loom + Q&A [Hebrew]  Ron Pressler - Oracle
+https://youtu.be/PZQJdKlmyTY
+
+Unlock The Developer  Cybereason
+https://youtu.be/RR8wIuldW-8
+
+[Hebrew] Kafka’s New Architecture - Replacing Zookeeper with KafkaesqueGwen Shapira - Confluent
+https://youtu.be/AFookNBtkzU
+Videos 1-25

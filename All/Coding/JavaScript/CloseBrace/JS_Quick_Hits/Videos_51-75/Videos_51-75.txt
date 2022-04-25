@@ -1,0 +1,76 @@
+
+JS Quick Hits 51 - GraphQL Mutations
+https://youtu.be/G-8jhRsGkdc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 52 - Intro to Express
+https://youtu.be/ZQuM6xnAC7M&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 53 - Express App.js
+https://youtu.be/vbMb9F5r_TU&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 54 - Express Routes
+https://youtu.be/n7KScdl2N8c&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 55 - Express Views
+https://youtu.be/yamjBieKnDM&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 56 - Express Middleware
+https://youtu.be/2dFN2EAkw9U&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 57 - Event Listeners
+https://youtu.be/9RsYVpyHasc&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 58 - Working with the Querystring
+https://youtu.be/Ib4bbtB1cK8&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 59 - Interview Gotchas 1
+https://youtu.be/Q1uxUUIj_tQ&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 60 - Full-Stack Project Part 1 - Setup
+https://youtu.be/892S4AYC6n0&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 61 - Full-Stack Project Part 2 - Validation
+https://youtu.be/dPNZ3APe05w&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 62 - Full-Stack Project Part 3 - Handling POSTs
+https://youtu.be/DoGW6dNQKKo&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 63 - Full-Stack Project Part 4 - XHR
+https://youtu.be/uGGTurjoxdU&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 64 - Full-Stack Project Part 5 - SMTP
+https://youtu.be/Z8uyYtrJqSw&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 65 - Full Stack Project Part 6 - .env Demystified
+https://youtu.be/gUlQyoASWHU&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 66 - Mmmm ... Cookies
+https://youtu.be/5dx5iXwzw4s&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 67 - Try  Catch  Finally
+https://youtu.be/krI4gjA09IE&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 68 - The Error Constructor
+https://youtu.be/d6CWTidOAv4&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 69 - Custom Errors
+https://youtu.be/afrGLtz7omk&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 70 - Local Storage
+https://youtu.be/NFqeGLDnj-I&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 71 - Array Index Methods
+https://youtu.be/UkDwKKBBajg&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 72 - The While Loop
+https://youtu.be/IW-JyxP_HsM&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 73 - IIFEs Explained
+https://youtu.be/Jpn1zOjYQ-Y&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 74 - MongoDB & Mongoose Part 1 - Setup
+https://youtu.be/Cp9t9UQHy5A&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+
+JS Quick Hits 75 - MongoDB & Mongoose Part 2 - Schemas
+https://youtu.be/A-EdbExcK9M&list=PL3Ld4LsLih55DVztm8VEyoVTHjUjchr-V
+Videos 51-75

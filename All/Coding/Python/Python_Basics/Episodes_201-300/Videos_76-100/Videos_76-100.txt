@@ -1,0 +1,76 @@
+
+Python Basics 0 == False and 1 == True
+https://youtu.be/nn46zvj_51c&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics 300 Videos
+https://youtu.be/k88QxpB_SjI&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics BackSlash or Forward Slash
+https://youtu.be/LlupiOrzXP0&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Deep Dive with Generators
+https://youtu.be/SEEg_ivpnIU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics How Does Multiple Key up Work For Pygame
+https://youtu.be/FFnNavvpJCc&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Itertools Compress Method
+https://youtu.be/8rbVRZOPtb0&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Itertools Cycle Methods
+https://youtu.be/Kv1HP3YhtEw&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Itertools Islice Method
+https://youtu.be/Z-YGt4ATImk&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Itertools Product Method
+https://youtu.be/QXT_aCFYYDA&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Matplotlib Pyplot Figure & Axis Methods
+https://youtu.be/YGlTUKcMyW4&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Matplotlib Pyplot Grid Method
+https://youtu.be/as4A2M6ZabI&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Matplotlib Pyplot Line Graph
+https://youtu.be/MaYwrd0mrRU&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Matplotlib Pyplot Markers and Line Style
+https://youtu.be/8Ahw2V1yBLs&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Monday Motivation
+https://youtu.be/yvMY565x6Ns&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics OS path Join Method
+https://youtu.be/2v80VM1lDjQ&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Os Rmdir
+https://youtu.be/N-Fx0pnwZKA&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics OS Scandir Method
+https://youtu.be/-BE-uon_Z_M&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics OS Walk Method
+https://youtu.be/Vl6mhu0xdsI&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics OS.Path Getsize Method
+https://youtu.be/EDJLLLa5698&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Pygame Clock Tick Method
+https://youtu.be/aX4DnBeXa-Y&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Pygame Image Load and Surface Blit
+https://youtu.be/jGU0Pocpgfk&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Pygame Keyboard Input Pt  2
+https://youtu.be/EjSfZL3BrJg&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Pygame Keyboard Input
+https://youtu.be/kLKLiNZY5wg&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics RGB Color Assignment
+https://youtu.be/JygYIDsgkn0&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+
+Python Basics Sys Getsizeof Method
+https://youtu.be/sMtEVoVA6co&list=PLaYT64KWZAENa0WfswdDzhivkiS6hA-Uj
+Videos 76-100

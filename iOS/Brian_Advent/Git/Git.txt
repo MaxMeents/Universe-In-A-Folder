@@ -1,7 +1,0 @@
-
-iOS Swift Tutorial Git Version Control with Xcode 9.url
-https://youtu.be/RWlG08FM5FA&list=PLY1P2_piiWEbFHPcePbKeNIfAArG6_x83
-
-iOS Tutorial How to use git with Xcode.url
-https://youtu.be/9jeQQ7xNb4U&list=PLY1P2_piiWEbFHPcePbKeNIfAArG6_x83
-Git

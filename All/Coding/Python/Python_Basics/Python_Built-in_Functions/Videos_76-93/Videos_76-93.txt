@@ -1,0 +1,55 @@
+
+Python Basics Built in Filter Function
+https://youtu.be/l81i_uY4Bv8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Built in Float Function
+https://youtu.be/ceFVDnQ6ruk&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Built in Functions
+https://youtu.be/OxcupdYlBpw&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Built in Repr Function
+https://youtu.be/cY51xd_WBRk&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Built in Reverse Function
+https://youtu.be/3_SqrEnVtwo&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Built-in Pow Function
+https://youtu.be/jBctokUY7Q8&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Dir and Help Deep Dive Requested Video
+https://youtu.be/sxAQIe81D-M&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Pop Quiz #3 Answer
+https://youtu.be/W4GSLfaY6OQ&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Print Sep Default
+https://youtu.be/lDzckGRkBZc&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Re Findall Method
+https://youtu.be/uRpFU9iEYgs&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Requested Video Os Path Join
+https://youtu.be/TRq7JbgKN2s&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Tutorial Built in Slice Function
+https://youtu.be/PDI9D_tJl0E&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Tutorial Deep Dive Sorted Function Key Argument
+https://youtu.be/mKPBE_a0tPk&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Tutorial Doing Math with Input Function  Converting User Input
+https://youtu.be/nHEJo6RFcUU&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Tutorial How to handle Int or Float with  Builtin Eval Function
+https://youtu.be/GbEWP-C4kLA&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Tutorial How to Mulit sort With Sorted Function
+https://youtu.be/q9X5p2bFg5c&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Tutorial Multi Direction Multi Sort List of Lists
+https://youtu.be/zWwVcu5x8oU&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+
+Python Basics Unpack Dictionary with Items Method
+https://youtu.be/AJ9mi2pk7jw&list=PLaYT64KWZAEMJYvVaWoTQFdCg_fbKRgqX
+Videos 76-93

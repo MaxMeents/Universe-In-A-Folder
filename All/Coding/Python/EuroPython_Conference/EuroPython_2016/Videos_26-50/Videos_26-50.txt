@@ -1,0 +1,76 @@
+
+Alex Willmer - CloudABI Capability based security on LinuxUnix
+https://youtu.be/EssolXRfAWo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Alexander Hendorf - Game Theory to the Rescue When Hard Decisions Are to Be Made
+https://youtu.be/IaexAq-o5Ao&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Ankit Bahuguna - Query Embeddings Web Scale Search powered by Deep Learning and Python
+https://youtu.be/Hcwovymu21o&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Christian Trebing - Get in control of your workflows with Airflow
+https://youtu.be/i3AL3OQGJ6A&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Daniele Procida - Minds, machines and Python
+https://youtu.be/SzPSA_qZfuA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Dougal Matthews - Effective Code Review
+https://youtu.be/uIwl01Nazdg&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fabio Pliger - EuroPython 2016 Recruiting Session
+https://youtu.be/jOO2LUm8_Ak&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Honza Král - Designing a Pythonic Interface
+https://youtu.be/FPQrUuddT0s&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Ilia Kurenkov - re-Discovering Python's Regular Expressions
+https://youtu.be/FASl4pYm6lU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Juan Luis Cano - Per Python ad Astra
+https://youtu.be/VCpTgU1pb5k&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Juan Manuel Santos - Salting things up in the DevOps' World things just got real
+https://youtu.be/srx6SvSw2us&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Marko Samastur - Publish your code so others can use it in 5 easy steps
+https://youtu.be/gc9dkktg1gU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Mike Müller - Conda - Easier Installs and Simpler Builds
+https://youtu.be/_OhogXMaKAM&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Radomir Dopieralski - Making robots walk with Python
+https://youtu.be/W5wN7pf2iLo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Ricardo Bánffy - Lessons Learned after 190 Million Lessons Served
+https://youtu.be/_RmWNN_-J4g&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Scott Triglia - Protect your users with Circuit Breakers
+https://youtu.be/vdS88uyGayM&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Sebastian Witowski - Writing faster Python
+https://youtu.be/YjHsOrOOSuI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Shahriar Tajbakhsh - Go for Python Programmers
+https://youtu.be/yqg4tEjzO9M&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Stephane Wirtel - Exploring our Python Interpreter
+https://youtu.be/R0lDKw0FQSI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Theo Crevon - Automate, contribute, repeat.
+https://youtu.be/RyrxWqpHRcc&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Various speakers - Lightning Talks
+https://youtu.be/nBcWwMJYCKI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+vincent warmerdam - The Joy of Simulation for Fun and Profit
+https://youtu.be/TkHT3sLwtkY&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Vinicius Pacheco - APIs and Microservices With Go
+https://youtu.be/Txt7JjtCO-U&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Yury Selivanov - High Performance Networking in Python
+https://youtu.be/pi49aiLBas8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Zuria BauerDaniel Domene López - How to improve your diet and save money with Python
+https://youtu.be/YgC-Eqw47fI&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+Videos 26-50

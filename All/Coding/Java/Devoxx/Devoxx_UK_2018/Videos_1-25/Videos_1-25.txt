@@ -1,0 +1,76 @@
+
+7 serverless recipes for big data architectures with Blanca Garcia Gil & Neil Crofts
+https://youtu.be/29USGcDcXg0&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+A cloud application journey with Helm and Kubernetes with Ana-Maria Mihalceanu
+https://youtu.be/0VEeuM-CUWQ&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+A thunk a saga and an epic walk into a bar...with Artur Daschevici
+https://youtu.be/_OfJZfmZCgU&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Apps are Making Us Dumber with Heather Wilde
+https://youtu.be/C9WJmPmuoWA&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Ask the Architect with Mark Reinhold
+https://youtu.be/Zzs4zEkGbiE&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Automated testing on steroids – Trick for managing test data using Docker snapshots
+https://youtu.be/uTQNDzeIrNI&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Baking a Microservice PI(e) with Antonio Goncalves Roberto Cortez
+https://youtu.be/AP4XDUUKq-k&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Big Data Platform for Hybrid Transaction and Analytics Processing with Jon Payne
+https://youtu.be/r8fJx3feuD4&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Bug Wars Episode IV – A New Hope with Ben Cripps & Marin Pinner
+https://youtu.be/l_KGeDVdShU&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Building a Front end Pipeline with Nathaniel Schutta
+https://youtu.be/n-ulmM00K0Q&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Containers, VMs, Processes… Deep dive and learn about your Operating System
+https://youtu.be/7KC8ljXb6Bs&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Data-driven Post-mortems with Daniel Maher
+https://youtu.be/11X_m3tFekU&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Deploy a software factory under 15 minutes with Laurent Doguin
+https://youtu.be/N-8Rltaf7CE&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Flood the UK and Ireland with female tech talent with Amali de Alwis
+https://youtu.be/8CtzDbOsdnU&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Fully serverless, a case study with Stephen Colebourne & Chris Kent
+https://youtu.be/8mj-Q_oknd8&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Functional Groovy with Paul King
+https://youtu.be/T8QPng97CQA&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Functional Programming Patterns with Java8 with Victor Rentea
+https://youtu.be/F02LKnWJWF4&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+GraphQL as an alternative approach to REST with Luis Weir
+https://youtu.be/hJOOdCPlXbU&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Minecraft and Reinforcement Learning with Lars Gregori
+https://youtu.be/q5iislMQwtA&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Not can but should we build it Lean Design driven development with Matthew Doyle
+https://youtu.be/k6H191LUQEc&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+One size fits all with Ixchel Ruiz
+https://youtu.be/oBJMtDy5kuc&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam
+https://youtu.be/0hQvWIdwnw4&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Reactive Spring Deep Dive Building & Testing Reactive Cloud-native Java Microservices
+https://youtu.be/BC2BcYviBZM&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Secure microservices made easy with MicroProfile JWT with Emily Jiang
+https://youtu.be/w5gfYDuiqrE&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+
+Streaming Data Platforms & Clojure with Derek Troy-West
+https://youtu.be/4sUaF4m5TWI&list=PLRsbF2sD7JVpRvLpv_Cub94zsM1aHm-Op
+Videos 1-25

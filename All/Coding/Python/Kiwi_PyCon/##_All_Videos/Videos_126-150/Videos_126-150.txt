@@ -1,0 +1,76 @@
+
+Ben Shaw An introduction to Helio
+https://youtu.be/w_fFONTSzig
+
+Brenda Moon Exploring Science on Twitter with IPython Notebook and Python Pandas
+https://youtu.be/FzCk747yjCU
+
+Chris Esther OSINT, Maltego & Python
+https://youtu.be/HkRuVNRbieU
+
+Christopher Neugebauer Java for Python Developers
+https://youtu.be/RfGldwLoiUk
+
+Craig de Stigter Intro to Metaclasses
+https://youtu.be/OCDbLcCB-uA
+
+Dylan Jay The myth of goldilocks and the three frameworks, Pyramid, Django and Plone
+https://youtu.be/XdKk5rrZG8E
+
+Graham Dumpleton Advanced methods for creating decorators
+https://youtu.be/W7Rv-km3ZuA
+
+Grant Paton-Simpson  Ben Denham basil - Build a System Instant-Like
+https://youtu.be/ynxQ3qF7LwY
+
+Greig Roulston Find All the Books
+https://youtu.be/VOEbhYxWimU
+
+Hilary James Oliver The Cylc Suite Engine
+https://youtu.be/Mv-hBTcncKM
+
+Jen Zajac Integrating JavaScript with Python Web Frameworks
+https://youtu.be/efzaKGnNAjE
+
+Katie Miller Cloud Craft for Spatial Cadets
+https://youtu.be/YI9VNrXYIQM
+
+Marek Kuziel Python in Home Automation
+https://youtu.be/hXnDyHidDqo
+
+Mike Haworth Surprise features you didnt ask for
+https://youtu.be/1x0XS7jkwzs
+
+Ravi Chandra Fake it till you make it
+https://youtu.be/HbJZu2qcC-s
+
+Rhys Elsmore How to Lose Friends and Influence Burnout
+https://youtu.be/2lrRix3PM4k
+
+Robert Collins Semver and Python with PBR
+https://youtu.be/6hjg-Uia5AU
+
+Ryan Kelly PyPy.js What How Why
+https://youtu.be/pt-e-X_q-dk
+
+Thomi Richards A Testing Talk
+https://youtu.be/Mydv_EOuezs
+
+Tim Knapp How to build a $0 SaaS app with Pyramid & GAE
+https://youtu.be/keVHrgqNSt4
+
+Tim McNamara A look at NuPIC - A self-learning AI engine
+https://youtu.be/rY7GLyxINFY
+
+Tim Penhey Deploying a Django application using Juju
+https://youtu.be/6hc8VkFeHjA
+
+Tobi Wulff Control All Your Programs with MIDI Controllers
+https://youtu.be/p2CsRZoatc8
+
+Tom Eastman Using Cython for distributed-multiprocess steganographic md5sum-collision generation...
+https://youtu.be/Dj9_EIlc_NU
+
+Xuanyi Chew Exploring The Philosophy of Programming
+https://youtu.be/hUP27HAtSOc
+Videos 126-150

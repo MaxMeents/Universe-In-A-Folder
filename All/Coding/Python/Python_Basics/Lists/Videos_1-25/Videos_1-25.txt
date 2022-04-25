@@ -1,0 +1,151 @@
+
+Python Basics 25 Horse Race Test Pt 1
+https://youtu.be/TSrQMFTf94E&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics 25 Horse Race Test pt 2
+https://youtu.be/qS8hUo84HX4&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics 25 Horse Race Test Uncut
+https://youtu.be/TDRHNEbvvYs&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Better Than Average Full
+https://youtu.be/61BSiv3w2bg&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Better than average pt 1
+https://youtu.be/uaa8vOCaScM&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Better than average pt 2
+https://youtu.be/85cWmnKr2EM&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Better than average pt 3
+https://youtu.be/gzAGTTe0d2M&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Board Game Pt  1
+https://youtu.be/fzAEwJgWHfM&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Board Game Pt  2
+https://youtu.be/lE_GPgw1NoU&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Board Game Pt  3
+https://youtu.be/rHAG3XNhAJg&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Board Game Pt  4
+https://youtu.be/irCSc8dMoMk&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Built-in Sorted Function
+https://youtu.be/Hk8ZtsdrBAU&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Can You Solve This
+https://youtu.be/oTn05FW34C4&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Factor List Comprehension
+https://youtu.be/G4JRgHDs_dI&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics For Loop with List
+https://youtu.be/3p-eT-Vsqec&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics GCD Part 1
+https://youtu.be/Zvrn7_IsBaM&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Gcd pt 2
+https://youtu.be/pxMtT97g-3I&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Gcd pt 3
+https://youtu.be/Ct6_Nf4Dh_A&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics How To Split a String
+https://youtu.be/lu9yA84tNKo&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List Comprehension with Conditions
+https://youtu.be/Y7UWZoAME4I&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List Comprehension
+https://youtu.be/ljd3BqTOS8Y&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List Copy Method
+https://youtu.be/EUfXIgvXqHc&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List Index Method
+https://youtu.be/usi6-H3F2jw&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List of Lists comprehension
+https://youtu.be/MogcG7Y4Yxw&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List of Lists
+https://youtu.be/JeNUZ0qSzvo&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics List Remove Method
+https://youtu.be/Os2R4txWnzQ&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Lists Append and Extend Methods
+https://youtu.be/3_HLQfSPiZM&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Lists Method Sort
+https://youtu.be/5gDs_ifF25o&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics More With Lists
+https://youtu.be/q1eqYK7GXPU&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Nested List Comprehension of Two Strings
+https://youtu.be/A6n4LKP71mQ&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Nested List Comprehension
+https://youtu.be/L1GHuT8tdw0&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Pop Method
+https://youtu.be/Ill7XMojpvQ&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Pop Quiz #1 Answer
+https://youtu.be/7mixaBNSGVs&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Pop Quiz #1
+https://youtu.be/avgO2QpjZTs&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Pop Quiz #3 Answer
+https://youtu.be/W4GSLfaY6OQ&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Pop Quiz #3
+https://youtu.be/wU_ROiyHj4I&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Prime Numbers
+https://youtu.be/4CMHEQjjgqo&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Solve This Answer
+https://youtu.be/Mb5Y5PKF4Jg&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Sort List of Lists pt 2
+https://youtu.be/YuNXepZjkTU&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Sort List of Lists pt 3
+https://youtu.be/1g0ne8YC4BA&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Sort List of Lists Pt. 1
+https://youtu.be/SrSfRvyaueg&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Sort List of Lists Uncut
+https://youtu.be/oReW9YQc3DE&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics String Value Unicode
+https://youtu.be/goyOGo_kop8&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics String Value Using a Dictionary
+https://youtu.be/UPpz08tKINA&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Sum All Positive Numbers
+https://youtu.be/30nPCSkVPgA&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Time List comprehension and for loops
+https://youtu.be/D0UEwoMTq28&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Tutorial How Nested List Comprehension Works
+https://youtu.be/v1pOt32hqzQ&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Tutorial How to Make a Copy Of A List
+https://youtu.be/s-iega_17-I&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Tutorial Problem Solving #1  Sort a String Challenge
+https://youtu.be/-cxpI6YCuI0&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+
+Python Basics Tutorial What's the difference between Lists and Dictionaries
+https://youtu.be/h-D5A3mj5KI&list=PLaYT64KWZAEMilZPoXneYtspAH0EVnXzG
+Videos 1-25

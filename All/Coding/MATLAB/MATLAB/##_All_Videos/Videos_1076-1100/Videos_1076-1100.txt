@@ -1,0 +1,76 @@
+
+Asset Liability Management Using MATLAB
+https://youtu.be/6Prw5Xd-l2g
+
+BEST Simulink Design Award Winners 2017
+https://youtu.be/e4c7PZuIRf4
+
+Deep Learning on Jetson AGX Xavier using MATLAB, GPU Coder, and TensorRT
+https://youtu.be/5oQ-uR86Jb4
+
+Defining Parts for Multibody Simulation
+https://youtu.be/93hTnR1rNHE
+
+Labeling Ground Truth for Object Detection
+https://youtu.be/ow_B_30WU1s
+
+LQR Control of an Autonomous Underwater Vehicle - MATLAB and Simulink Robotics Arena
+https://youtu.be/py4ZFnMfu5E
+
+MATLAB Live Editor A Scientific Computing Playground for Students
+https://youtu.be/6x4DECKlGag
+
+Mechatronic Simulation with Simscape Electrical
+https://youtu.be/kY_vcOyXJYQ
+
+Modeling a Mechatronic System
+https://youtu.be/MBqOx79ZndM
+
+Modeling a Scissor Lift
+https://youtu.be/QcfVXHCjXxI
+
+Multibody Simulation Workflow
+https://youtu.be/nFAnYEWXo7s
+
+Physical Modeling Tutorial, Part 10 Importing CAD Models into SimMechanics
+https://youtu.be/KelMmgcaQh8
+
+Physical Modeling Tutorial, Part 11 Design Optimization
+https://youtu.be/hYkQIBq451k
+
+Physical Modeling Tutorial, Part 8 Building Mechanical Assemblies Part 1
+https://youtu.be/zgSr2xFPSTI
+
+Predictive Maintenance, Part 3 Remaining Useful Life Estimation
+https://youtu.be/Dd_4rbWYgI4
+
+Robotics Education with MATLAB - MATLAB and Simulink Robotics Arena
+https://youtu.be/7W54MZvX75g
+
+Simulating in Real Time Electrical Actuator
+https://youtu.be/3zsYWWUMyjE
+
+Simulating Mobile Robotics Using Virtual Worlds
+https://youtu.be/tTWGg12XI1Q
+
+State Space, Part 4 What Is LQR control
+https://youtu.be/E_RDCFOlJx4
+
+Training and Validating Object Detectors
+https://youtu.be/UnXDQmjYvDk
+
+予知保全シリーズ Part 1 予知保全の概要と開発事例
+https://youtu.be/ltW7CJaecJg
+
+予知保全シリーズ Part 2 予知保全システムの開発フロー
+https://youtu.be/EPvPNsTegB0
+
+予知保全シリーズ Part 3 予知保全を可能にする特徴量選択
+https://youtu.be/QRICEAZt6lI
+
+予知保全シリーズ Part 4 機器の寿命を予測するモデル構築
+https://youtu.be/jSvg4GOOk7s
+
+予知保全シリーズ Part 5 「故障データが無い」場合のアプローチ
+https://youtu.be/lDpcXNf0720
+Videos 1076-1100

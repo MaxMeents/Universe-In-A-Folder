@@ -1,0 +1,46 @@
+
+Amanda Gadrow  Lessons about R I learned from my cat  RStudio (2020)
+https://youtu.be/kee91QUJfBI&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Athos Damiani  Sound annotation with Shiny and wavesurfer  RStudio (2020)
+https://youtu.be/fhf9NdacAo4&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Caroline Ledbetter  Rproject templates to automate and standardize your workflow  RStudio (2020)
+https://youtu.be/c2l-GF6RaYI&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Colin Rundel  `livecode` broadcast your live coding sessions from and to RStudio  RStudio (2020)
+https://youtu.be/-srGSVuhZaA&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Davis Vaughn  Sliding Windows and Calendars  RStudio (2020)
+https://youtu.be/wb76gXropuw&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Dr. Amelia McNamara  Making a tidy dress  RStudio (2020)
+https://youtu.be/82Byshg0Z-k&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Hunter Glanz  The Five Principles of Data Science Education  RStudio (2020)
+https://youtu.be/Gb1BcUx6CGk&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Javier Luraschi  Datasets in Reproducible Research with 'pins'  RStudio (2020)
+https://youtu.be/xwItECnphRU&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Jay Campanell  A high school student’s journey to bring R into the classroom  RStudio (2020)
+https://youtu.be/5gt7Jol9loU&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Jon Harmon  Learning by Teaching Mentoring at the R4DS Online Learning Community  RStudio (2020)
+https://youtu.be/-lzVF_hfL3Q&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Katherine Simeon  Every voice matters An analysis of @WeAreRLadies  RStudio (2020)
+https://youtu.be/nzmkYUr0wS0&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Kelly Bodwin  Course Material Creation in the R Ecosystem  RStudio (2020)
+https://youtu.be/2lGednFDq6c&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Mike K Smith  Learn to teach, for goodness sake  RStudio (2020)
+https://youtu.be/zEvN0_9i-vs&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Rebecca Barter  Becoming an R blogger  RStudio (2020)
+https://youtu.be/fT1nLGDvaPA&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+
+Therese Anders  Peer review in data science courses  RStudio (2020)
+https://youtu.be/Kx4u_Xda6zQ&list=PL9HYL-VRX0oRdmsWyRT7MUx3OykMvJYFa
+lighting talks - rstudioconf(2020)

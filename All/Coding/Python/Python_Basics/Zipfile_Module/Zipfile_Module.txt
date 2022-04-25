@@ -1,0 +1,19 @@
+
+Python Basics Zipfile Extract Method
+https://youtu.be/6AzqM0EIxQE&list=PLaYT64KWZAEO7KEWvv4sipsbKmYoKOwnX
+
+Python Basics Zipfile Extractall Method
+https://youtu.be/9KtJl38qQcI&list=PLaYT64KWZAEO7KEWvv4sipsbKmYoKOwnX
+
+Python Basics Zipfile is zipfile Method
+https://youtu.be/JH6FrAxtR3c&list=PLaYT64KWZAEO7KEWvv4sipsbKmYoKOwnX
+
+Python Basics Zipfile Module
+https://youtu.be/--bYxLsG0qA&list=PLaYT64KWZAEO7KEWvv4sipsbKmYoKOwnX
+
+Python Basics Zipfile Namelist Method
+https://youtu.be/udVk-mXTwos&list=PLaYT64KWZAEO7KEWvv4sipsbKmYoKOwnX
+
+Python Basics Zipfile ZipFile Method
+https://youtu.be/OrP4V0WOJzE&list=PLaYT64KWZAEO7KEWvv4sipsbKmYoKOwnX
+Zipfile Module

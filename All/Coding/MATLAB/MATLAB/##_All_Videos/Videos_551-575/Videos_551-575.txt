@@ -1,0 +1,76 @@
+
+Discovering Editor Features The Aha! Moment
+https://youtu.be/2h_btOZbWZo
+
+Drilling Systems Modeling & Automation, Part 1 Introduction to Digital Twins
+https://youtu.be/tn0u4uzDGPI
+
+Drilling Systems Modeling & Automation, Part 2 Introduction to Simulink and Simscape
+https://youtu.be/hGOXK3Cxhvo
+
+Drilling Systems Modeling & Automation, Part 3 Validating Model with Field Data
+https://youtu.be/dHoFi0GrVY0
+
+Drilling Systems Modeling & Automation, Part 4 Using Simulation to Optimize System Performance
+https://youtu.be/q6ObJtnqcSk
+
+External Mode Simulation with XCP Communication
+https://youtu.be/rTgLpmFluGg
+
+Generate HDL for a Deep Learning Processor
+https://youtu.be/cwbJSBhBUks
+
+Grid Fault Location Detection Using System Simulation and Machine Learning
+https://youtu.be/cxLhCcuhC2c
+
+How to Debug a Property Proving Counterexample
+https://youtu.be/48Op3_xztnw
+
+How to Use Function Handles in MATLAB
+https://youtu.be/Ud7buvncHQ0
+
+How to Use Model Callbacks with Simulink
+https://youtu.be/1JjV4BlxZe4
+
+How to Use the Solver-Based Optimize Live Editor Task
+https://youtu.be/HgF_ObdXErI
+
+IoT Data Explorer for ThingSpeak and MATLAB
+https://youtu.be/7B5OALGzTK0
+
+Latest Code Generation Advances Deployment to CPU
+https://youtu.be/395ztmTPL6w
+
+Machine Learning with MATLAB  Coursera Course Highlights and Q&A
+https://youtu.be/pgAb5Rtm0OY
+
+MATLAB Basics – A Practical Look
+https://youtu.be/hYSGTdbO-5g
+
+Model Interpretability in MATLAB
+https://youtu.be/wliwqhpOrIc
+
+Modeling Fuel Cells in Simscape
+https://youtu.be/9LgxHuDrk-8
+
+Modeling SerDes CTLE Using Transfer Function Data
+https://youtu.be/3fWeG-fahp8
+
+New Ways to Work in Simulink, Part 5 Speed Up Simulations
+https://youtu.be/DN0DhZHXMiA
+
+New Ways to Work in Simulink, Part 6 Analyze Simulations
+https://youtu.be/DkkImwNzEpU
+
+New Ways to Work in Simulink, Part 7 Run Algorithms on Hardware
+https://youtu.be/ZoTaoAtaVJU
+
+Understanding Sensor Fusion and Tracking, Part 6 What Is Track-Level Fusion
+https://youtu.be/r0THmp0WxJI
+
+Use Machine and Deep Learning to Categorize Risk in Underground Utility Distribution Cable Systems
+https://youtu.be/GCbBnxV8tAk
+
+Using Mixed-Precision to Solve a Resource Crisis
+https://youtu.be/6dJO8eoDdlk
+Videos 551-575

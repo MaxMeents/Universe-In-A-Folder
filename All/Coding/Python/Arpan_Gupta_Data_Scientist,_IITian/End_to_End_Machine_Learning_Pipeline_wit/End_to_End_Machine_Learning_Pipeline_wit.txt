@@ -1,0 +1,46 @@
+
+Basic Data Cleaning -Part 7  Python ML   Arpan Gupta
+https://youtu.be/6LfDnk1CZoA&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Basic data exploration -a Part 6 Python ML Arpan
+https://youtu.be/cVIf1iWHQPQ&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Basic Data exploration -b Part 6 Python ML Arpan Gupta
+https://youtu.be/y3lCWjJVvDE&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Basic Data exploration -c Part 6 Python ML Arpan Gupta
+https://youtu.be/42GydRj-Aew&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Basic Data exploration -d Part 6 Python ML Arpan Gupta
+https://youtu.be/R9VVDE8wEL0&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Crossvalidation in python Part-10Python ML Arpan Gupta
+https://youtu.be/EEyMe90s304&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Defining Model  Part 9 Python ML Arpan Gupta
+https://youtu.be/ptJWbMSnRi0&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Defining X & Y for Model -Part 8 Python ML  Arpan Gupta
+https://youtu.be/8mp2jtGPugk&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Download data set -Part2  Python ML  Arpan Gupta
+https://youtu.be/AiaVjr_HQb0&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Explanation about dataset -Part 3  Python ML  Arpan Gupta
+https://youtu.be/7ouJksNpIqk&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Final Modelling and Predictions on Test data set-Part 11 Python ML Arpan Gupta
+https://youtu.be/lxZqoz7QBUk&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+How to install python in your machine
+https://youtu.be/GfZwbt8uHrY&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Importing libraries -Part 4 Python Machine Learning  Arpan Gupta
+https://youtu.be/tdfN8fp9YzQ&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Intro to Machine learning with python-Part 1
+https://youtu.be/3kQUA34jgYw&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+
+Reading data set using pandas-Part 5 Python ML Arpan Gupta
+https://youtu.be/44LcW7IpKkM&list=PLbNJQ-D5RH19phcTasDujncNM1flPPRPW
+End to End Machine Learning Pipeline with Python

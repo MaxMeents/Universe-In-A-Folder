@@ -1,0 +1,76 @@
+
+AutoHotkey - Getting Coding Help On Reddit
+https://youtu.be/RU1F8GC2Yqk
+
+AutoHotkey - Most Common Gaming Questions (Toggle, Rapid click, Timers, Get Key Name, and More)
+https://youtu.be/05Cj-BkdKII
+
+AutoHotkey - Valheim Part 1 - Auto Skills Leveling Up
+https://youtu.be/sNYiUR9ibzw
+
+AutoHotkey - Valheim Part 2 - Auto Run Q , Auto Chop and Auto Re Gear After DeathReady for Battle
+https://youtu.be/0DwwDJKKqnw
+
+AutoHotkey Alexa and Nest - Use Amazon Echo or Google Nest to Trigger Scripts Remotely
+https://youtu.be/D6kXPRd8ZGQ
+
+AutoHotkey Chrome Part 4 - Simplest Way With Out Admin Rights or Installing Anything Outside of AHK
+https://youtu.be/2DfaTWNkU7I
+
+AutoHotkey Code Skipping - Stop Your Code Mid Running With Out Reload  Inject Command During Run.
+https://youtu.be/1E2mJiC3vz4
+
+AutoHotkey GUI 6 - Pretty GUIs, BackgroundsBorder, and Button Pictures
+https://youtu.be/Auv-jGuz-XQ
+
+AutoHotkey INI Files 4 - Store to script vs INI File
+https://youtu.be/Uhx3HEb7Ffs
+
+AutoHotkey Interview - Joe Glines Introduces TAB Nation (Thom's AHK Origin Story)
+https://youtu.be/sWzmYTeBoX0
+
+AutoHotkey OCR - Optical Character Recognition, Get Text From A Picture
+https://youtu.be/nKGv0sQ3KbI
+
+AutoHotkey Password - Hide a Window Then Unhide With a Password
+https://youtu.be/IcHlyz-YUXY
+
+AutoHotkey Pranks - Play Some Fun Little Jokes With AHK
+https://youtu.be/SMBloEVY3Fs
+
+AutoHotkey Roblox - Automating Game Play (Jump, Run, Click) keyboard press's
+https://youtu.be/O7KK3098Cu0
+
+AutoHotkey Selenium Part 1 - How To Install and Fill Text Input Box (IE, Chrome, Firefox, Edge)
+https://youtu.be/_Di0q7nB6MA
+
+AutoHotkey Selenium Part 2 - Grab Info From Browser and load user info (IE, Chrome, Firefox, Edge)
+https://youtu.be/5lsLW4Shigw
+
+AutoHotkey Valheim Part 3 - SandboxCreative ModeCheat Program - Auto Item Spawning  Commands
+https://youtu.be/BP7npksH99A
+
+AutoHotkey valheim Part 4 - Auto Cook and Auto Coal Farm
+https://youtu.be/iKPpdVDq0ss
+
+AutoHotkeys - Adding Icons to EXE, Context Menus, Tray Menu
+https://youtu.be/0f3Yhr_cpIM
+
+AutoHotkeys - Drag and Drop Block Coding. Visual Coding Intro (ahk.zvecr and cloudahk)
+https://youtu.be/o5BVo6WHOh4
+
+AutoHotkeys - Fast keys 5  - Don't feel like coding today try this out
+https://youtu.be/TuJUvI889jM
+
+AutoIT Intro Part 1 - How to Install and Run First Script (Search Google in Chrome and Auto Type)
+https://youtu.be/ovsoOApS5pc
+
+Intro Tutorial For Free Power Automate Desktop From Microsoft (Automate Chrome Windows 10)
+https://youtu.be/kC-1dRF3BbA
+
+TAB Nation Intro
+https://youtu.be/C2s-BkK84WA
+
+TAB Nation Website Intro
+https://youtu.be/AtUo1ZTiCBA
+Videos 101-125

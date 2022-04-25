@@ -1,0 +1,76 @@
+
+How To Build Full Login + Registration Page With Firebase Using SwiftUI 2.0 - SwiftUI Tutorials
+https://youtu.be/qWO7PJ5Icwg&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Animated Splash Screen With Login Page UI - Lottie Animations - SwiftUI Tutorials
+https://youtu.be/UODvp5CIYYM&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Animated Tab Bar - Bubble Tab Bar - SwiftUI Tutorials
+https://youtu.be/Lw-vimpu6Cs&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 App Store Animations - Hero And Swipe Down To Close Animations - SwiftUI Tutorials
+https://youtu.be/J86h1mt5bio&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Apple Music Animations - Mini Player - Now Playing Transition - SwiftUI Tutorials
+https://youtu.be/ew_99X-DQI4&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Building Custom Camera - Custom Camera View - AVFoundation -  SwiftUI Tutorials
+https://youtu.be/8hvaniprctk&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex App UI - E-Commerce App - Complex Animations - SwiftUI Tutorials
+https://youtu.be/bVrS6TEhcEY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex UI - Custom Swipe To Action - Custom Tab Bar - SwiftUI Tutorials
+https://youtu.be/TQFmo53LVio&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex UI With Complex Shapes And Curves - Custom Bottom Sheet - SwiftUI 2.0 Tutorials
+https://youtu.be/fiZvpv2DasY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Composing Complex App UI's - SwiftUI Tutorials
+https://youtu.be/_ofJ_k44ghw&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Carousel Slider With Hero Animations - SwiftUI Tutorials
+https://youtu.be/B_DzMJOVzMo&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Shapes Animation - Animated Ratings View - SwiftUI Tutorials
+https://youtu.be/grORpxXpWgM&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Honey Comb Grid View - Custom Grid View - SwiftUI Tutorials
+https://youtu.be/YhGeuBsZ3Ns&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Login Page With Firebase Phone Auth - Part 1 Designing - SwiftUI 2.0 Tutorials
+https://youtu.be/swbTmF0SuRw&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Login Page With Firebase Phone Auth - Part 2 Firebase Integration
+https://youtu.be/P4avA9K9r1U&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Parallax Carousel - Custom Carousel Slider - Parallax Effect - SwiftUI Tutorials
+https://youtu.be/W9ndztlb5Dk&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Parsing JSON And Storing To Core Data - SwiftUI 2.0 Core Data
+https://youtu.be/mlHnCz3Pjzs&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Pull To Refresh - Custom Pull To Refresh Control - SwiftUI 2.0 Tutorials
+https://youtu.be/lYJrfHCyLP4&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Quiz App Using Firebase Firestore - Firebase Tutorials - SwiftUI Tutorials
+https://youtu.be/elhzkcoBl-A&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Search Bar In Navigation Bar - Custom Navigation View - SwiftUI Tutorials
+https://youtu.be/nuag1PILxCA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Bill Split App UI - Custom Slider - Composing Complex UI - SwiftUI Tutorials
+https://youtu.be/z0PqbaHHjfA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Custom Action Sheets With CheckBoxes - SwiftUI Checkbox - SwiftUI 2.0 Tutorials
+https://youtu.be/EWcAPyhf2FE&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Custom NavBar  Resizable App Bar  Custom Tabbed Picker   SwiftUI 2.0 Tutorials
+https://youtu.be/h7dWHr5gTzc&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI In-App Notifications With Category Actions - User [Local] Notifications - SwiftUI 2.0
+https://youtu.be/LSU-QmeUXP0&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Lottie Animation View - Animated Cart Page UI - SwiftUI Tutorials
+https://youtu.be/cKXilbuff2g&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+Videos 76-100

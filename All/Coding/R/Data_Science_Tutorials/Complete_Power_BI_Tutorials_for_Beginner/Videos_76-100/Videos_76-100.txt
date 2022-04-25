@@ -1,0 +1,76 @@
+
+8 Power BI DAX Function AllSelected to get Grand Totals for Each Category
+https://youtu.be/1wW-BAWHBRU&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Set Power BI Chart Level or Visual Level Filters
+https://youtu.be/p_1ihCuvntE&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI -  Counting Distinct Values
+https://youtu.be/HEPquSiWI-c&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI -  How to Calculate MTD (Month to Date) Rolling Total Values
+https://youtu.be/ofqWBiFAwBs&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI -  How to Create Ultimate Dynamic Calendar in Power BI Based on Minimum and Maximum Date
+https://youtu.be/2-q2oXYNL-o&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI - Adding Multiple Measures as tooltip in the chart
+https://youtu.be/9sQ5wb3JjCo&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI - Conditional Sum of Two or More Than Two Categories in Table
+https://youtu.be/3EVYw96QpjI&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI - How to Calculate YTD (Year to Date) Rolling Sum
+https://youtu.be/jcL0wH5hc_M&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI - How to count missing values  DAX Function to Count Missing Values
+https://youtu.be/ASHmK4AxLr0&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI - How to count table rows  Row Count Function
+https://youtu.be/rLrCg_pk1W0&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI - How to write If and nested if conditional statement with example
+https://youtu.be/WaihbAT1tEc&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Averagex DAX Function Tutorial  Average vs AverageX  Calculation Average
+https://youtu.be/Qu1EtMiVXg8&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI CalculateTable DAX function to create new virtual table and measure based on condition
+https://youtu.be/5ra8N-rnebA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Creating New Table using Calculate Table and Selecting only Required Columns
+https://youtu.be/x-K4UPZSouQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI DAX Function ALL to remove the impact of a Filter from Chart or Visualisation
+https://youtu.be/tOtbxdBy4mU&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Dax Function Average to Calculate Average of Numeric Field
+https://youtu.be/NgyfWgK7T7Y&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Dax Function Calculate to Conditionally Calculate and create New Measures
+https://youtu.be/wRGU_4cZZkA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Dax Function Filter Tutorial for Creating New Filtered Table and Measure
+https://youtu.be/qqgRgkLVrNM&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI DAX Function MAXX Tutorial  MAX vs MAXX  Finding Maximum Value of Calculation
+https://youtu.be/kuABnZInsms&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Dax Function MinX Tutorial  Min vs MinX  Finding Minimum of Calculation
+https://youtu.be/tPlTdoO4Aqo&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI DAX Function Sumx Tutorial  SUM vs SUMX
+https://youtu.be/3Y9LMfZhxtY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI How to Calculate QTD (Quarter to Date) Rolling Sum
+https://youtu.be/1l6U7tJkdVY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Median and Medianx Function with Example
+https://youtu.be/qS5IN2Z18mY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Page Level Filter to Filter All the Visualization of a Particular Page
+https://youtu.be/1aND2yxL0nQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Report Level Filter or  Global Filter to Filter Entire Report
+https://youtu.be/5DHzhMKB1qY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+Videos 76-100

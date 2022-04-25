@@ -1,0 +1,76 @@
+
+100 UE4 Tips and Tricks   Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/zX0gilGIpRQ&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+A Postmortem on Implementing AutoPlay in UE4  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/uQVBCJiHedg&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Aggregating Ticks to Manage Scale in Sea of Thieves  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/CBP5bpwkO54&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Architecting Content for a Live Service Game  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/uAg1SETGhEU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Automated Testing at Scale in Sea of Thieves  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/KmaGxprTUfI&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Blueprints In-depth - Part 1  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/j6mskTgL7kU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Blueprints In-depth - Part 2  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/0YMS2wnykbc&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Design, Production, Ballistics for Insurgency Sandstorm  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/LmLwlMLcgaw&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Engine Tools for Performance on Open World Games  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/VTjALz6dhvw&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Fantastic Bottlenecks and Where to Find Them  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/0SwlwgV-cz8&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Growing a Healthy UE4 Ecosystem   Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/CXhYFwurKL4&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Overcoming Early Challenges in Unreal  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/Lz5z0nF1WRU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Replication Graph For Optimizing Real-Time Strategy Games  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/VusAHXoHF3Y&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+The Fusion of Nostalgia and Novelty in Octopath Traveler  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/K6wW0pO08LE&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+The Visual Logger For All Your Gameplay Needs!  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/hWpbco3F4L4&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+UE4 Pixel Streaming  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/6r9OZ5RfRJg&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+UE4 Raytracing for Games  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/ZrJodtJ3b3U&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Unreal Fest Europe 2019 Overview  Unreal Engine
+https://youtu.be/xQjRhBFcMjM&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Using Plugins to Share Code Among Several UE4 Projects  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/bAQEnOWHJdU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Using Python to Streamline Asset Workflows  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/FOSwlDQY6N0&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Using the Gameplay Ability System  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/_713CSOWkTU&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Using UE4 to Develop for Oculus Rift and Oculus Quest  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/hEtu-ciPc7g&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Vulkan! Powering AAA Experiences on Android  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/piDcBkUY7aQ&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+We’ve Got Your Back Engineering Optimization Ease  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/EaIIagd1Quc&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+
+Workflow on Fortnite  Unreal Fest Europe 2019  Unreal Engine
+https://youtu.be/p4RcDpGQ_tI&list=PLZlv_N0_O1gbmtS-hQFAVEF_zBOJPCaaX
+Videos 1-25

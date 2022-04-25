@@ -1,0 +1,76 @@
+
+Python - Boolean Operators  What is and How to Python Not Operator
+https://youtu.be/MZcsbkn-HNc&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial  #1 Introduction of Python Lambda and Anonymous Function
+https://youtu.be/HBR6wqXj2iY&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial  Python Range Function to Create a range of values
+https://youtu.be/VAyI-B5D274&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial - Function  Exercise solution -How to format the output in Python
+https://youtu.be/00bNmNtwU2o&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial - Function  How to pass arguments in python functions
+https://youtu.be/dDrzURoDtzI&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial - Function  How to print multiple values from a python function
+https://youtu.be/asdg_HdXg1U&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial - Function  How to return values from python function
+https://youtu.be/Mz2JAyxuPWo&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial 14  Loops  Python Apply Function to create new calculated columns
+https://youtu.be/ovKk5vl7cJA&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python 3 Programming Tutorial for Functions  P.1  How To Use Functions In Python
+https://youtu.be/tJvDpn1Hygo&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Dictionary Tutorial 16  Python Dictionary Function fromkeys
+https://youtu.be/hYIcHMfeV3k&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Dictionary Tutorial 17  Python Dictionary Copy Function to create a duplicate dictionary
+https://youtu.be/FUD5v--2p8A&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Dictionary Tutorial 18  Python Dictionary Function del pop popitem and clear to remove value
+https://youtu.be/8FbYOMBWsEw&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Pandas Tutorial 29  How to format dates in Python  Pandas to_datetime function
+https://youtu.be/-0_yjR7qFz0&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 1 -Functions  Function Parameters
+https://youtu.be/m9xExn0_eWk&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 10 - Functions  What is variable scoping in python functions
+https://youtu.be/rg-Z6aNS1fA&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 11 - Functions  How to return multiple values in Python
+https://youtu.be/3ikoiyp29bA&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 12 - Functions  Functions with Multiple Parameters in Python
+https://youtu.be/TmEglF2mpvE&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 2 - Function  Variable length keyword parameter processing with kwargs
+https://youtu.be/Fv0c3qCbPbM&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 3 - Function  How to Call function with variable length parameter args
+https://youtu.be/cfP_cxJXMKk&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 4 - Function  Processing multiple variable args parameter in python
+https://youtu.be/B7-H5inOQws&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 5 - Function  How to pass multiple variable in python function
+https://youtu.be/3ZWV4Kr5Yi4&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 6 - Function  How to Pass multiple default argument in python function
+https://youtu.be/q-MBQhlJYB8&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 7 - Function  How pass default parameters argument in python function
+https://youtu.be/KmYcvG4FfGk&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 8 - Functions  How to create nested function in python
+https://youtu.be/kEqxtw5s4a4&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+
+Python Tutorial 9 - Function  How to Get all the available functions in Python Package
+https://youtu.be/yC9CMRwzCZI&list=PLH6mU1kedUy8kBGMzCWiQegyi2r6-Ci81
+Videos 1-25

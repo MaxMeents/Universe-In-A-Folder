@@ -1,0 +1,73 @@
+
+Andrew Johnson   Distributed Processing Applications with Helios
+https://youtu.be/HfZBa-k8cRI&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Belden Lyman   A Test Driven Developers Cookbook
+https://youtu.be/rjO6HSwhiNE&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Breno de Oliveira   DataPrinter   A New Look on Dumping Variables
+https://youtu.be/bcuuL9hp3hc&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Brock Wilcox   NoiseGen Generate Sound With Perl  Blips and Beeps
+https://youtu.be/jn89nnyqsf4&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Bruce Gray   Why my
+https://youtu.be/Ton-5tvDQiE&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Chris Prather   The Secret Diary of a Small Perl Shop
+https://youtu.be/Uy_ZrN25orY&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Daisuke Maki   STF   Serve Billions Of User Uploaded Media On PSGI and Commodity Hardware
+https://youtu.be/ABJ7NjPW9Mo&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Dan Wright   Perl Foundation Treasurer
+https://youtu.be/8jao9mGzlpc&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Dan Wright   So, you want to run a Perl event
+https://youtu.be/NGaMweeCMP4&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+David Mertens   Interactive Data Analysis with Prima and PDL
+https://youtu.be/J2jn5uy-FvM&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Gabor Szabo   Refactoring Perl code
+https://youtu.be/gIsc39vU22w&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Glen Hinkle   Intro to Mojolicious
+https://youtu.be/_lJ3IHRyAxQ&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Jesse Luehrs   Dependency Injection with BreadBoard
+https://youtu.be/R2VRwRpZ3CQ&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Joel Berger   Baby XS to get you started
+https://youtu.be/EPZHXVZwsY4&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Joel Berger   Modeling Physical Systems with Modern Object Oriented Perl
+https://youtu.be/wmdmlruYmfc&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+John Anderson   Code Fast, Die Young, Throw Structured Exceptions
+https://youtu.be/O1b-z7QvVW0&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+John Anderson   Tweakers Anonymous
+https://youtu.be/HVEDjLPZovA&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+John Napiorkowski   What I Learned Teaching Perl for Advocacy
+https://youtu.be/NLthtfHO8rg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Jonathan Swartz   CHI Universal caching for Perl
+https://youtu.be/Z_TZlM7OYsU&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Josh Jore   Practical Tools for Perl Emergencies
+https://youtu.be/6q6raN-vw98&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+JT Smith   Closing Remarks
+https://youtu.be/AWS5dM2HqaQ&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Maggie Xiong   Statistics and data mining with Perl Data Language
+https://youtu.be/DFX_cNB97yQ&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Mark Allen   Perl Platform as a Service Shootout
+https://youtu.be/AJrZtU-I7E8&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Private video
+https://youtu.be/6Y38PNcOWnA&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+Videos 51-75

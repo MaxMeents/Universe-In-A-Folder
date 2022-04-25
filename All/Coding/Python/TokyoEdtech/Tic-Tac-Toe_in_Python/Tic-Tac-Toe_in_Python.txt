@@ -1,0 +1,22 @@
+
+Simple Tic-Tac-Toe Game in Python (Part 1)
+https://youtu.be/9jw4ndKDpBE&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+
+Simple Tic-Tac-Toe Game in Python (Part 2)
+https://youtu.be/9zekMfGjNR0&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+
+Simple Tic-Tac-Toe Game in Python (Part 3)
+https://youtu.be/aO5lByTxjR8&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+
+Simple Tic-Tac-Toe Game in Python (Part 4)
+https://youtu.be/TCIUn-oRGq4&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+
+Simple Tic-Tac-Toe Game in Python (Part 5)
+https://youtu.be/ED7skeow2kc&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+
+Simple Tic-Tac-Toe Game in Python (Part 6)
+https://youtu.be/vhcEKqrOJJ4&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+
+Simple Tic-Tac-Toe Game in Python (Part 7)
+https://youtu.be/kK5hQ-AZTwc&list=PLlEgNdBJEO-ky309V4VV9amEZ2vtKge_u
+Tic-Tac-Toe in Python

@@ -1,0 +1,13 @@
+
+01 React + Redux Toolkit tutorial  configureStore
+https://youtu.be/bTf1TWVBBOk&list=PLq5m66kIJ5Z8JgWEee1hszc10B8qxeMGE
+
+02 React + Redux Toolkit  createSlice (reducer)
+https://youtu.be/D1vqTSK_lL8&list=PLq5m66kIJ5Z8JgWEee1hszc10B8qxeMGE
+
+03 React Redux writing Tests
+https://youtu.be/rRFNRhUbMag&list=PLq5m66kIJ5Z8JgWEee1hszc10B8qxeMGE
+
+React with Redux toolkit & write Tests  Tutorial
+https://youtu.be/0WhGneB2s3Y&list=PLq5m66kIJ5Z8JgWEee1hszc10B8qxeMGE
+React with Redux Toolkit & Tests

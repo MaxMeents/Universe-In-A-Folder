@@ -1,0 +1,67 @@
+
+Capacity The Journey from Pre-Rendered to Real-Time  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/mIbNiSK-A68&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Causing Chaos Physics and Destruction in UE4  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/y2QIpPTv6yU&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Cine Tracer - Cinematic Lighting with Emotion  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/vjdSDuFS9DI&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Creating Unreal Visualizations with Twinmotion  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/Yfa1wMcAeCI&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Design Visualization Using UE 4.23  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/6IKGwM0Yj-0&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Digital Domain - Building a Real-Time Digital Human Framework for Live Events  SIGGRAPH 2019
+https://youtu.be/L1cG2gba6v8&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Halon Entertainment - A Rewarding Journey  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/0s3omYjmHjs&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+HOK - Gaming the Future of Architecture  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/-5bt1Rmu7hs&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+ILMxLAB - Inside Vader Immortal  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/0ZTUr0wJodg&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+In-Camera VFX with UE4  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/vyYXLEz0k1Y&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Light, shadow, and fractal patterns in emergence  Unreal Engine
+https://youtu.be/5KqTv8ibNRQ&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Magic Leap - Spatial Computing and the Future of Enterprise  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/4jpFGGqND5A&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+PBR Workflows  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/DGrnJ1Ar-tI&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Quixel - Rebirth Leveraging Scan Data in UE4  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/K1cpRZ8BUF8&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Ray Tracing in UE 4.23  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/ObjsnVw0QBY&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Real-Time Archviz  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/DTd2jaR1scg&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Real-Time In-Camera VFX for Next-Gen Filmmaking   Project Spotlight  Unreal Engine
+https://youtu.be/bErPsq5kPzE&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Sequencer for Linear Animation Workflows  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/JtBWWG_2zFc&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Sequin - Planning Choreographed AR Performances  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/db1vKgTG590&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+SIGGRAPH 2019 User Group Highlights  Unreal Engine
+https://youtu.be/fWtGR7KV668&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Unreal Engine User Group at SIGGRAPH 2019
+https://youtu.be/apLzZBqfqeU&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+
+Virtual Production in UE4  SIGGRAPH 2019  Unreal Engine
+https://youtu.be/rbnXa0SVKT8&list=PLZlv_N0_O1gZi090h4tektyFq1zGYhI2N
+SIGGRAPH 2019  Unreal Engine

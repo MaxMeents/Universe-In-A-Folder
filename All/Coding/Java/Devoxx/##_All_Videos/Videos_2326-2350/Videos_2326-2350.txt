@@ -1,0 +1,76 @@
+
+115 batshit stupid things you can put on the internet in as fast as I can go  by Dan Tentler
+https://youtu.be/hMtu7vV_HmY
+
+Apache Spark If only it worked. by Marcin Szymaniuk
+https://youtu.be/u8MXemztChU
+
+Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan
+https://youtu.be/dzdjP3CPOCs
+
+Deep Learning An Introduction by Breandan Considine
+https://youtu.be/RouuW2APMqM
+
+Devoxx Live Drone Racing Devoxx
+https://youtu.be/WI0v4AMdrPo
+
+Devoxx on Wheels at Devoxx Belgium 2015
+https://youtu.be/UCyAXxhAiCI
+
+Elasticsearch + Hibernate from artisanal to industrial integration by Emmanuel BernardDavid Pilato
+https://youtu.be/_NGnbON3xAo
+
+Going global with Nomad and Google Cloud Platform by Bastiaan Bakker
+https://youtu.be/cZY6kLyoI7I
+
+Gradle meets Kotlin by Rene Groeschke
+https://youtu.be/_QaECMYonhk
+
+Interview Baruch Sadogursky Devoxx Belgium 2015
+https://youtu.be/PFK7OPLNzxE
+
+Interview Brasil Yara and Vini Senger Devoxx Belgium 2015
+https://youtu.be/Rv-IajdulyY
+
+Interview Linda Van der Pal and Mike Croft Devoxx Belgium 2015
+https://youtu.be/hW6zLoDNSBM
+
+Interview Mark Reinhold at Devoxx Belgium 2015
+https://youtu.be/Gta0JtNzTdc
+
+Interview Victor Samsung Devoxx Belgium 2015
+https://youtu.be/0kakNqA6oQU
+
+keynote session by Dr Lawrence Krauss
+https://youtu.be/T-Kf2dR_SrQ
+
+Keynote session by Stephan Janssen
+https://youtu.be/Nv0t_K3415o
+
+Providing Eyes, Ears, and a Mouth to Your IoT Project by Vinicius Senger and Yara Senger
+https://youtu.be/6aXLZ109AG0
+
+Redefining PaaS  by Ludovic ChampenoisAmanda Waite
+https://youtu.be/aKUlu9-psZo
+
+Sentiment analysis of social media posts using Apache Spark by Niels Dommerholt
+https://youtu.be/jyPkiU8vX5A
+
+Serverless Microservices with Google Cloud Functions by Bret McGowen
+https://youtu.be/5CZ1f6wzn4Q
+
+The Devoxx Belgium 2015 opening keynote by Pepper
+https://youtu.be/_7yoiHy8clM
+
+The First IoT JSR Units of Measurement by Werner KeilMohamed TamanOtávio Santana
+https://youtu.be/AGLX-HlPHrc
+
+The Intelligence of your Things by Amy Nicholson
+https://youtu.be/rFNnRgv8NEM
+
+unRESTful Web Services with HTTP2 by Fabian Stäber
+https://youtu.be/wR3o6HA47Ao
+
+You've built a prototype... and then it takes off by Peter Minne
+https://youtu.be/cJAZqleHeDo
+Videos 2326-2350

@@ -1,0 +1,76 @@
+
+Apache NetBeans! by Kirk Pepperdine, Sven Reimers, Geertjan Wielenga, Martin Klän
+https://youtu.be/EkfX-W0tgNo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Asciidoctor New, Noteworthy, and Beyond by Alex Soto
+https://youtu.be/T7RVT2_ntRU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Blue Team Security  Actual Security work for Actual Developers by Siren Hofvander
+https://youtu.be/yaLq88OjfoQ&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Build, Scale, & Create IoT and Mobile connected applications with the Cloud by Tara Walker
+https://youtu.be/I7k-5MQIqdw&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Building Cloud Native Progressive Web Apps  by Matt Raible and Josh Long
+https://youtu.be/tCyLDzhz_mg&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+CloudFoundry or KubernetesKubo Choosing the Right Platform for the Job by Pieter Humphrey
+https://youtu.be/2fK_sKaLF1Y&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Comparison Method Violates Its General Contract! (Part 2) by Stuart Marks
+https://youtu.be/bvnmbRo7a1Y&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Continuous Delivery with Containers The Good, the Bad, and the Ugly by Daniel Bryant
+https://youtu.be/t3vOSMeFqLk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Deep into the IoT trenches how to build a connected product by Jeroen Mols
+https://youtu.be/7ZBC2fWqEfk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Dr. Strangecode by Alex Snaps
+https://youtu.be/vVheDbrQBDk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+From 0 $100 billion Inside lessons on how to scale your dev workflow by Michiel Michiel Toneman
+https://youtu.be/OMrASg7dx-E&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Interview with Deepu K Sasidharan & Julien Dubois at Devoxx Belgium
+https://youtu.be/dl6LtO2yveA&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Introducing RIG – the Reactive Interaction Gateway by Kevin Bader
+https://youtu.be/wNF51mmnsMo&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Love is ... Git by Sascha Binger
+https://youtu.be/i5m2GrSykQk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Migrating to Java 9 Modules with ModiTect by Gunnar Morling
+https://youtu.be/BhuOSGrNBek&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Next Generation Asynchronous Patterns in JavaScript by Jonathan Mills
+https://youtu.be/p5eEl-e_sFY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Polishing the Diamond Core Library Improvements in Java 9 by Richard Warburton, Raoul Gabriel Urma
+https://youtu.be/phJ4MkDKdY4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Sencha Ext JS   a framework for building enterprise data intensive web applications by Olga Petrova
+https://youtu.be/7RxH9Cz99WY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Spring Framework 5 Hidden Gems by Juergen Hoeller
+https://youtu.be/LQN2ptVdaJE&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Spring Framework 5 Themes & Trends by Juergen Hoeller
+https://youtu.be/69tJKcmKVQk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The Diabolical Developer's Guide to Perfomance Tuning    Martijn Verburg
+https://youtu.be/_y37cbS19JY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+The impact of the GDPR by Michaël Demey
+https://youtu.be/hQGaQzjspKk&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Top Elasticsearch tips by Nicolas Buisson
+https://youtu.be/ALa11tIIOCM&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Using Android Things to detect & exterminate Reptilians by Gautier Mechling
+https://youtu.be/6XY94XZMPG4&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Video Games are for idiots by Laurent Victorino
+https://youtu.be/uI0MI4xZWQU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+Videos 101-125

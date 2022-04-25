@@ -1,0 +1,19 @@
+
+Control LBR Manipulator Motion Through Joint Torque Commands - MATLAB Video
+https://youtu.be/zWLleKqhXHo&list=PLn8PRpmsu08pglJT9u9aStCWuYSX9kxZ4
+
+Control PR2 Arm Movements Using ROS Actions and Inverse Kinematics - MATLAB Video
+https://youtu.be/l6j9deRD93g&list=PLn8PRpmsu08pglJT9u9aStCWuYSX9kxZ4
+
+Implement Simultaneous Localization and Mapping (SLAM) with MATLAB
+https://youtu.be/XZxpmS0QuHI&list=PLn8PRpmsu08pglJT9u9aStCWuYSX9kxZ4
+
+Private video
+https://youtu.be/eG0FrNV9I7c&list=PLn8PRpmsu08pglJT9u9aStCWuYSX9kxZ4
+
+Simulink Blocks for Robot Manipulators and Safe Trajectory Tracking Control
+https://youtu.be/q4mIAX-Rcmg&list=PLn8PRpmsu08pglJT9u9aStCWuYSX9kxZ4
+
+Work with Mobile Robotics Algorithms in MATLAB
+https://youtu.be/H3ZxAugdrYQ&list=PLn8PRpmsu08pglJT9u9aStCWuYSX9kxZ4
+Robotics System Toolbox

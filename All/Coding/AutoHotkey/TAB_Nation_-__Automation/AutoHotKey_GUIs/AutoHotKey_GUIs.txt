@@ -1,0 +1,31 @@
+
+AutoHotKey - Basic GUI and AHK Ideas With SmartGUI Creator
+https://youtu.be/YhH7kwlR85Q&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotkey - Creating A GUI Survey Then Drawing A Winner
+https://youtu.be/G4N5c2kSFDI&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotKey Basic Gui 3 clickable pictures
+https://youtu.be/0nKKxYQwU7s&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotKey Basic GUI Part 2 -  Features
+https://youtu.be/x92C7BWp7rs&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotKey GUI 4  save GUI coordinates and GuiControl (update gui text)
+https://youtu.be/LIZSskQxWig&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotKey GUI 5 - Transparent GUIs and Context Menus
+https://youtu.be/6qRxkWo1fSo&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotkey GUI 6 - Pretty GUIs, BackgroundsBorder, and Button Pictures
+https://youtu.be/Auv-jGuz-XQ&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotkey GUI 7 - Text Overlay On Another Program
+https://youtu.be/WzDIwxfFsoo&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotkey GUI 8 - Add GIF and Video To GUIs
+https://youtu.be/hhe_3AXh5SY&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+
+AutoHotkey Intro 6 - Winmove, WinMaximize, WinMinimize, WinClose and more with AHK
+https://youtu.be/bQmfe04o1uI&list=PLfHPAKSz_DJqb2ldyzFRH0FWjRPa-r-hM
+AutoHotKey GUIs

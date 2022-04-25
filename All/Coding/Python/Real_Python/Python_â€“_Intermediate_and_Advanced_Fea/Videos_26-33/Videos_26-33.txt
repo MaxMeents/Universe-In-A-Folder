@@ -1,0 +1,25 @@
+
+A Python Shorthand for Swapping Two Variables
+https://youtu.be/xpxhS7b60M0&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+A Shorthand for Merging Dictionaries in Python 3.5+
+https://youtu.be/Duexw08KaC8&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Click & Jump to Test Failures from the Command Line (iTerm2)
+https://youtu.be/Gw43Q0WZptI&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Forward References and Python 3 Type Hints
+https://youtu.be/AJsrxBkV3kc&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Functional Programming in Python Immutable Data Structures
+https://youtu.be/xJCPpDlk9_w&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+How to find great Python packages on PyPI, the Python Package Repository
+https://youtu.be/4MLp_iXDpX0&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Python Plugin System Load Modules Dynamically With importlib
+https://youtu.be/cbot48lckOs&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Working Effectively with Python Virtual Environments (Virtualenv)
+https://youtu.be/8KWVEc6vFgA&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+Videos 26-33

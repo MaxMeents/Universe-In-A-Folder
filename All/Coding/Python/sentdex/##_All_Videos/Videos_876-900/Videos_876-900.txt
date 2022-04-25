@@ -1,0 +1,76 @@
+
+Monte Carlo Simulation and Python 11 - Using Monte Carlo to find best multiple
+https://youtu.be/48QPYiI1iXo
+
+Monte Carlo Simulation and Python 12 - Checking Results
+https://youtu.be/6j75vtiQsYU
+
+Monte Carlo Simulation and Python 13 - D'Alembert Strategy
+https://youtu.be/w43uNAaF1hU
+
+Monte Carlo Simulation and Python 14 - 5050 odds
+https://youtu.be/QGu5hUarTik
+
+Monte Carlo Simulation and Python 15 - Analysis of D'Alembert
+https://youtu.be/SwSvVv0IO2E
+
+Monte Carlo Simulation and Python 16 - Comparing profitability
+https://youtu.be/u9mgSk9-IOY
+
+Monte Carlo Simulation and Python 17 - Using Monte Carlo to find best D'Alembert Increment
+https://youtu.be/UCp5tcUMdks
+
+Monte Carlo Simulation and Python 18 - 2D charting monte carlo variables
+https://youtu.be/p3WLN1-SohU
+
+Monte Carlo Simulation and Python
+https://youtu.be/uY3ZHfnFjJc
+
+Python 3 Programming Tutorial - Appending Files
+https://youtu.be/O3KAyaDvM-k
+
+Python 3 Programming Tutorial - Classes
+https://youtu.be/Beu5_JZEWsI
+
+Python 3 Programming Tutorial - Common errors
+https://youtu.be/AWIgW_F_k50
+
+Python 3 Programming Tutorial - Frequently asked questions
+https://youtu.be/hlxCpeb9pbU
+
+Python 3 Programming Tutorial - Function Parameter Defaults
+https://youtu.be/KeRxe9rll2Q
+
+Python 3 Programming Tutorial - Function Parameters
+https://youtu.be/CGRKqnoQGgM
+
+Python 3 Programming Tutorial - Functions
+https://youtu.be/owglNL1KQf0
+
+Python 3 Programming Tutorial - Global and Local Variables
+https://youtu.be/r9LtArXOYjk
+
+Python 3 Programming Tutorial - Installing modules
+https://youtu.be/UKXx4e9PotI
+
+Python 3 Programming Tutorial - Read from a file
+https://youtu.be/0SyyGIFnVCA
+
+Python 3 Programming Tutorial - Writing to File
+https://youtu.be/f6zeuk5UjuE
+
+Raspberry pi with Python for Robotics 1 - Supplies Needed
+https://youtu.be/LlFkybEQFFA
+
+Raspberry pi with Python for Robotics 2 - Motor Control
+https://youtu.be/pbCdNh0TiUo
+
+Raspberry pi with Python for Robotics 3 - Connecting 4 motors
+https://youtu.be/T4tp14zNnYI
+
+Raspberry pi with Python for Robotics 4 - Forward and Reverse Motors
+https://youtu.be/TtKUSFqtFmE
+
+Raspberry pi with Python for Robotics 5 - Turning our car
+https://youtu.be/FNv78F8kuW8
+Videos 876-900

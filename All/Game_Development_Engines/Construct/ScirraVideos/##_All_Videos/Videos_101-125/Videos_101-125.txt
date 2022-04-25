@@ -1,0 +1,76 @@
+
+Adding a new dimension Q3D Plugin for Construct 2 - with John Maksym
+https://youtu.be/ouFRc0EDgX4
+
+Building a Basic SaveLoad System in Construct 2 - with John Maksym
+https://youtu.be/zLgQ9v0uEXs
+
+Building more Top Down Style Games Part 1 Pokemon Construct 2 Version - with John Maksym
+https://youtu.be/hNaVjhUaGM8
+
+Cut Scenes and Transitions in Construct 2 - with Kyatric
+https://youtu.be/RHVF_Utc1Sk
+
+Game Mechanics Anti-Gravity and Switches - with John Maksym
+https://youtu.be/fagWE7QsZ1I
+
+Game Mechanics Wall Jump and Slide - with Jerementor
+https://youtu.be/-ojZJWAf0O8
+
+How to make a 2D Platform Game Part 10 Uploading to the Scirra Arcade - with Jerementor
+https://youtu.be/pmzfdIC9FVg
+
+How to make a 2D Platform Game Part 2 Collisions & Events - with Jerementor
+https://youtu.be/qfMcaCN7BaY
+
+How to make a 2D Platform Game Part 3 Level Elements - with Jerementor
+https://youtu.be/FEXRrLZ-2X4
+
+How to make a 2D Platform Game Part 4 Coins and more! - with Jerementor
+https://youtu.be/OTYAo7taDgw
+
+How to make a 2D Platform Game Part 5 Enemy AI - with Jerementor
+https://youtu.be/l-G6Vw-agiQ
+
+How to make a 2D Platform Game Part 6 Bring in the Boss - with Jerementor
+https://youtu.be/nJHVRD80PsA
+
+How to make a 2D Platform Game Part 7 New Layouts! - with Jerementor
+https://youtu.be/bo3H_EyMeA4
+
+How to make a 2D Platform Game Part 8 More Menus - with Jerementor
+https://youtu.be/P8LlTWgJhmA
+
+How to make a 2D Platform Game Part 9 Pause & Fine-Tune - with Jerementor
+https://youtu.be/rpQZ6BjY4KQ
+
+How to make a dress-up game in Construct 2
+https://youtu.be/OuI_Epn9PX8
+
+How to make an open world space game in Construct 2!
+https://youtu.be/eMIZ3bk7LyA
+
+Isometric Game Development Part 1 Terrain Rendering - with Kyatric
+https://youtu.be/5gTKJqVw70o
+
+Isometric Game Development Part 2 Main Character and Grid Movement - with Kyatric
+https://youtu.be/fZaf7PogzY0
+
+Isometric Game Development Part 3 AI, Pathfinding and Line of Sight - with Kyatric
+https://youtu.be/Xrb3j0YSp9I
+
+Let's Build a Top Down Racing Shooter Game Part 1 - with Jerementor
+https://youtu.be/A4MbrGMGfZU
+
+Let's Build a Top Down Racing Shooter Game Part 2 - with Jerementor
+https://youtu.be/w3YW7e7WtIU
+
+Let's Build a Top Down Racing Shooter Game Part 3 - with Jerementor
+https://youtu.be/61_r-N1R0Cg
+
+Let's Build a Top-Down Zombie Shooter Part 1 Getting Started - with John Maksym
+https://youtu.be/597kxhUsijI
+
+Using a Basic Array for Weapons Select in Construct 2 - with Jerementor
+https://youtu.be/2HwCVMv_n10
+Videos 101-125

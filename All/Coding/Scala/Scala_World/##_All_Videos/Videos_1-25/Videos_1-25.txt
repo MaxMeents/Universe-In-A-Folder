@@ -1,0 +1,76 @@
+
+Adam Warski—Designing Programmer-Friendly APIs
+https://youtu.be/I3loMuHnYqw
+
+Alceste Scalas—Effpi Verified Message-Passing Programs in Dotty
+https://youtu.be/tCYtMc5sJLU
+
+Andy Scott—Code by Shape
+https://youtu.be/ifPTQ9CULdk
+
+Bartosz Milewski—Live-coding with Universal Constructions
+https://youtu.be/UjSQlUjuZWQ
+
+Brian Clapper—Spark for Scala Developers
+https://youtu.be/zXipqCcVmQM
+
+Dale Wijnand—How to Totally Fix PartialFunction
+https://youtu.be/n7PsbJwVSuE
+
+Daniel Beskin—Compile-time Logic Programming in Scala what for
+https://youtu.be/9i06TyYM_lI
+
+Edmund Noble—Data, and when not to use it
+https://youtu.be/q6JCvdMWtmo
+
+Emily Pillmore Type Arithmetic and the Yoneda Lemma
+https://youtu.be/aXS5HZ_1fNQ
+
+Eyjafjallajökull Lecture 2019—Paweł Szulc
+https://youtu.be/ZmoqVF-e0-Y
+
+Fabio Labella—How do Fibers Work A Peek Under the Hood
+https://youtu.be/x5_MmZVLiSM
+
+Guillaume Martres—Scala 3, Type Inference and You!
+https://youtu.be/lMvOykNQ4zs
+
+Jakub Kozłowski—A Sky Full of Streams
+https://youtu.be/oluPEFlXumw
+
+Jon Pretty—Fast and Furious
+https://youtu.be/4HVySqElcnI
+
+Jorge Vicente Cantero—Design Challenges of Bloop
+https://youtu.be/PgQyCnqm4QQ
+
+Justin Kaeser—Integrating Developer Experiences
+https://youtu.be/lncUc4oHwxg
+
+Luka Jacobowitz—Monoids, Monoids, Monoids
+https://youtu.be/DJyhWAwmGqE
+
+Mirco Dotta—Crack Open Sbt and Master your Build Times
+https://youtu.be/Mx_gQz8MTrI
+
+Nicolas Rinaudo—Much Ado About Testing
+https://youtu.be/Jhzc7fxY5lw
+
+Paolo Giarrusso—The DOT Calculus An Introduction for Scala Programmers
+https://youtu.be/OVu7XzHY5U0
+
+Roland Kuhn—Meshing Robots and Humans with Distributed Apps
+https://youtu.be/u_SAszZLfag
+
+Sam Aaron—Sonic Pi
+https://youtu.be/6AKRm_bnW_8
+
+The 2016 Eyjafjallajökull Lecture—Bodil Stokke
+https://youtu.be/3ImZZ3AvjhA
+
+Validating SQL at the Type Level—Tamer AbdulRadi
+https://youtu.be/dbqRqhHpggs
+
+Zoë Weil—A Learning Story Love, Scala & Artificial Intelligence
+https://youtu.be/o29DE8E8xJU
+Videos 1-25

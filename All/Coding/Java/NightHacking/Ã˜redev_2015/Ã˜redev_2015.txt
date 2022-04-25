@@ -1,0 +1,37 @@
+
+Anton Arhipov on Java Agents
+https://youtu.be/XcLVJhIZuZM&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Chris Noessel on Agentive Technologies
+https://youtu.be/ukRZr3qBzjk&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Jonas Ernhill on Kung Fury
+https://youtu.be/xYWnYPo0ZSE&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Karl-Henrik Nilsson on IoT Hardware Hacking
+https://youtu.be/Dhr-unXETNU&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Kodsnack discussion with Tim Urban and Torill Kornfeldt
+https://youtu.be/xDu4-o4uFRQ&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Kodsnack interviewing Aaron Gustafson
+https://youtu.be/XCq0wzwQF-A&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Kodsnack interviewing James Turnbull
+https://youtu.be/5qjPTg8wDw8&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Kodsnack interviewing Pete Hunt
+https://youtu.be/ea-q_GvGCpk&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Markus Eisele on Microservices
+https://youtu.be/5fPQEFZYSUg&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Niall Merrigan on Security and Hacking
+https://youtu.be/PJnXxr-gCzM&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Reza Rahman on Java EE 8
+https://youtu.be/_TpxidD7ik0&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+
+Øredev Behind the Scenes with Pär Siko
+https://youtu.be/lqUGzuoElGc&list=PL2ekzZZrxVUlUasR9604EKZH8r3Zt7IRu
+Øredev 2015

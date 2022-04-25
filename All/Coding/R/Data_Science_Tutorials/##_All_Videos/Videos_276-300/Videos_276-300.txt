@@ -1,0 +1,76 @@
+
+12 How to create and customize Power BI stacked bar chart
+https://youtu.be/f9BffgPk2oQ
+
+Creating & Formatting Bar Chart in Power BI Desktop
+https://youtu.be/s7RxDAm4TP0
+
+Creating First DAX calculated Field in Power BI Desktop
+https://youtu.be/hdmS55-wnAg
+
+How create and customize 100% stacked bar chart in power BI
+https://youtu.be/6NhvaBLFjmQ
+
+How to Change Power BI Slicer Look & Feel  Power BI Button Filters
+https://youtu.be/tKbGuu7zrrw
+
+How to create and Customize Area Chart in Power BI
+https://youtu.be/NTDjUXKX-0g
+
+How to Create and Customize Date Slicer  Filter in Power BI
+https://youtu.be/Rs_sbl0VSPA
+
+How to Create and Customize Line and Stacked Bar Chart in Power BI  Combo Chart
+https://youtu.be/ypwc9U58gIQ
+
+How to create and customize Power BI Pie Chart
+https://youtu.be/YWcYU3FzM8Q
+
+How to Create Numeric Range Slicer or Data Filter in Power BI
+https://youtu.be/WvrhUhWBIu4
+
+How to Create Power BI Line Chart to Show the Trend in Data
+https://youtu.be/cjaUY76uw-Q
+
+How to create Power BI Text Slicer or Filter in Report or Dashboard to Filter the Visualizations
+https://youtu.be/ws3pqH_GAXs
+
+How to create stack area chart in power BI  Beginners Tutorial
+https://youtu.be/GEBwTzWvk1w
+
+Importing CSV data inside power BI Desktop
+https://youtu.be/B6joIrnWY7Q
+
+Importing Excel Data inside Power BI Desktop
+https://youtu.be/LOnXePDb2hQ
+
+Power BI Desktop Layout Overview  Power BI Desktop Features Overview
+https://youtu.be/EOvwBnwZb1k
+
+Power BI Introduction  What is Power BI  How to Download and Install Power BI
+https://youtu.be/dPrDJ4C3stY
+
+Tableau Business Dashboard Design Tutorial
+https://youtu.be/MEZRk4-PuTI
+
+Tableau Data Visualization Dashboard Project Tutorial for Google Play store Apps Data Analysis
+https://youtu.be/sGza70pTZeI
+
+Tableau KPI Dashbaord Design for Project Management  Tableau Interactive Dashboard for Beginners
+https://youtu.be/DIgE5T-ioW8
+
+Tableau KPI dashboard Design for Business Dashboards
+https://youtu.be/WT-8TLEXpF4
+
+Tableau KPI Dashboard for Business to Analyze Airport Travel Data [Complete Tutorial]
+https://youtu.be/Y3ATCEBNxSQ
+
+Tableau Social Impact KPI dashboard project tutorial to analyze UK education workforce data
+https://youtu.be/JEVUuV_ryxY
+
+Tableau Spend Analytics KPI Business Dashboard and Story Complete tutorial for Social Media
+https://youtu.be/HXDfykCSWYs
+
+Tableau Story Example - Google App Analytics In Tableau  How to Create Stories in Tableau
+https://youtu.be/u3PehgoxtPg
+Videos 276-300

@@ -1,0 +1,7 @@
+
+Refactoring Huge Legacy PHP Applications - Tomas Votruba - PHPSW Level Up!, October 2019
+https://youtu.be/4fUIB9Ht02I&list=PLrEpsyNSHj02pjnhduUOX-UfjxvdktYfn
+
+Things I Wish I Knew When I Started Playing Developer - Gary Hockin - PHPSW Level Up!, Oct 2019
+https://youtu.be/ty0yJcTG4hg&list=PLrEpsyNSHj02pjnhduUOX-UfjxvdktYfn
+Level Up! - Playing Developer and Refactoring, October 2019

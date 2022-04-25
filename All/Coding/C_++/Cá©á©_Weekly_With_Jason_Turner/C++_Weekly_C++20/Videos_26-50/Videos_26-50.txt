@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 211 - C++20's Bit Manipulation Functions
+https://youtu.be/8EyZ6mRDlx8&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 216 - C++20's lerp, midpoint And Why They Are Necessary
+https://youtu.be/gwHL4EOb-R8&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 218 - C++20's stdto_array
+https://youtu.be/IcQl1Oh9AvQ&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 220 - C++20's [[likely]] and [[unlikely]] With Practical use Case
+https://youtu.be/ew3wt0g99kg&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 228 - C++20's (High Precision) Mathematical Constants
+https://youtu.be/VPC17U-twrY&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 229 - C++20 Why Deprecate The Comma Operator
+https://youtu.be/qD1aKLux5Fw&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 230 - Building A High Performance Bit Pattern Match DSL
+https://youtu.be/-GqMLnWuHTU&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 231 - Multiple Destructors in C++20! How and Why
+https://youtu.be/A3_xrqr5Kdw&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 232 - C++20's `using enum`
+https://youtu.be/JM8F2DPm_0E&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 240 - Start Using [[nodiscard]]!
+https://youtu.be/nhsahjY5jdE&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 242 - Design By Introspection in C++20 (concepts + if constexpr)
+https://youtu.be/sy32kAtsIKg&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 251 - constexpr Parameters With C++20's CNTTP
+https://youtu.be/iIizz2bbkiA&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 253 - C++20 is Official! How To Get Your Copy of the Standard
+https://youtu.be/fWWBG7zekL8&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 258 - The Awesome Power of C++20's stdsource_location
+https://youtu.be/TAS85xmNDEc&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 261 - C++20's New consteval Keyword
+https://youtu.be/b22cKntJslU&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 265 - C++20's stdbit_cast
+https://youtu.be/crErQJMwz1g&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 266 - C++20's stdshift_left and stdshift_right
+https://youtu.be/I-rEkLyaeTE&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 267 - C++20's starts_with and ends_with
+https://youtu.be/qyQvJc-GRro&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 269 - How To Use C++20's constexpr stdvector and stdstring
+https://youtu.be/cuFILbHp-RA&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 276 - C++20's Conditionally `explicit` Conversions
+https://youtu.be/CMmkoy24XhU&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 284 - C++20's Safe Integer Comparisons
+https://youtu.be/iNeHHczBTIs&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 293 - RPG in C++20 Project Major Updates!
+https://youtu.be/IWEdaC9evBc&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 296 - Constraining `auto` in C++20
+https://youtu.be/A8nNjpaiP5M&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 313 - The `constexpr` Problem That Took Me 5 Years To Fix!
+https://youtu.be/ABg4_EV5L3w&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+
+C++ Weekly - Ep 314 - Every Possible Way To Force The Compiler To Do Work At Compile-Time in C++
+https://youtu.be/UdwdJWQ5o78&list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv
+Videos 26-50

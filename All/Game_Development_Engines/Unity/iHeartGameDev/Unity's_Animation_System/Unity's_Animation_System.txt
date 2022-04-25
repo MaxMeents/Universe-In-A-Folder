@@ -1,0 +1,34 @@
+
+Animations in Unity3D
+https://youtu.be/URjXL0QXwm4&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+Character Movement in Unity 3D  New Input System + Root Motion Explained
+https://youtu.be/IurqiqduMVQ&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How To Animate Characters In Unity 3D  Animation Layers Explained
+https://youtu.be/W0eRZGS6dhQ&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Animate Characters in Unity 3D  Animation Retargeting Explained
+https://youtu.be/BEZHVYk6Fa4&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Animate Characters in Unity 3D  Animation Transitions With Booleans
+https://youtu.be/FF6kezDQZ7s&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Animate Characters in Unity 3D  Animator Explained
+https://youtu.be/vApG8aYD5aI&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Animate Characters in Unity 3D  Blend Trees Explained One Dimensional
+https://youtu.be/m8rGyoStfgQ&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Animate Characters in Unity 3D  Importing Free Characters and Animations from Mixamo
+https://youtu.be/-FhvQDqmgmU&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Animate Characters in Unity 3D  Two Dimensional Blend Trees Explained
+https://youtu.be/_J8RPIaO2Lc&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Move Characters In Unity 3D  Character Controllers Explained
+https://youtu.be/e94KggaEAr4&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+
+How to Move Characters in Unity 3D Animated Movement Explained [Built-In Character Controller #2]
+https://youtu.be/bXNFxQpp2qk&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO
+Unity's Animation System

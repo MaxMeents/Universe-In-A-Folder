@@ -1,0 +1,7 @@
+
+Advanced React Component Patterns workshop @ PayPal (Part 1)
+https://youtu.be/SuzutbwjUp8&list=PLV5CVI1eNcJgBniABPfk_tMliLrSJNC-T
+
+Advanced React Component Patterns workshop @ PayPal (Part 2)
+https://youtu.be/ubXtOROjILU&list=PLV5CVI1eNcJgBniABPfk_tMliLrSJNC-T
+Advanced Component Patterns Workshop (recording at PayPal)

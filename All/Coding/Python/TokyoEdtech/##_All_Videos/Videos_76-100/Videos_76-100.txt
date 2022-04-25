@@ -1,0 +1,76 @@
+
+Intermediate Python Game Coding Space Arena (Preview 5)
+https://youtu.be/LByHHhISaB0
+
+Python Game Coding Splash Screen and Game Over Screen
+https://youtu.be/Wk37sCX5xTY
+
+Space Invaders Smooth Motion (Update)
+https://youtu.be/qEX8V3oJj1Q
+
+TokyoEdTech Live Stream Simple Sidescrolling Shooter in Pygame Part 2
+https://youtu.be/2gYQSEwuC3k
+
+TokyoEdTech Live Stream Simple Sidescrolling Shooter in Pygame Part 3
+https://youtu.be/2RqDCqOlvB4
+
+TokyoEdTech Live Stream Simple Sidescrolling Shooter in Pygame
+https://youtu.be/MvQU2ZVfSOo
+
+TokyoEdTech Live Stream Simple Sidescrolling Shooter
+https://youtu.be/oNOCx9My8FY
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 1 (Getting Started)
+https://youtu.be/KaYvfBkgr_k
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 10 (Level Setup)
+https://youtu.be/KBNmj5KTtdg
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 11 (Gameplay Enemies)
+https://youtu.be/WU0_GSkkr-w
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 12 (PlayerEnemy Collisions)
+https://youtu.be/6-khZVXMtRc
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 13 (Camera Movement)
+https://youtu.be/DeH3j7yxpF0
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 14 (Radar)
+https://youtu.be/I6pFfnTTqDk
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 15 (Drawing Text)
+https://youtu.be/ruegabF9Ev0
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 16 (Enemy Types)
+https://youtu.be/nGtULD4jfGA
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 17 (Multiple Missiles)
+https://youtu.be/5n8h3ujIlA4
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 2 (Sprite Class)
+https://youtu.be/fbIMNfyfBbA
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 3 (Sprite Update)
+https://youtu.be/iYKB7aI6Tdg
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 4 (Player Class)
+https://youtu.be/pOtf7eYtrIU
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 5 (Player Spaceship Movement)
+https://youtu.be/y4yTUPSK_ZE
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 6 (Health Meter)
+https://youtu.be/cVPGtrbze4c
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 7 (Arena Borders)
+https://youtu.be/0OcSEIke0Nk
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 8 (Player Missile)
+https://youtu.be/2OqzHUrMVs8
+
+Ultimate Python Turtle Graphics Tutorial Space Arena 9 (Collision Detection)
+https://youtu.be/4vbQiT4rrIw
+
+Ultimate Python Turtle Graphics Tutorial Space Arena Introduction
+https://youtu.be/nUoJjHOlY24
+Videos 76-100

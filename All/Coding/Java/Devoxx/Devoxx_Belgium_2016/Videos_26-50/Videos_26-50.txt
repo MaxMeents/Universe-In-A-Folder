@@ -1,0 +1,76 @@
+
+Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan
+https://youtu.be/dzdjP3CPOCs&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Continuous Delivery At GitHub by Alain Hélaïli
+https://youtu.be/BJbGLERYVGk&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Devoxx, where wireless dreams comes true by Glenn De Haes
+https://youtu.be/D0TdOaISXWA&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Docker for developers and ops what's new and what's next by Patrick Chanezon
+https://youtu.be/3OohD03k-y0&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Effective Service API Design by Elliotte Rusty Harold
+https://youtu.be/JG00rfoWVeU&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Elegant Builds at Scale with Gradle 3.0 by Hans Dockter
+https://youtu.be/SuQXOpY2u5M&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Elixir - Easy fun for busy developers by David Schmitz
+https://youtu.be/naNN_gJas2A&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Exploring Java 9 by Venkat Subramaniam
+https://youtu.be/8XmYT89fBKg&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Google Dataflow The New Open Model for Batch and Stream Processing by Sara Robinson & Robert Kubis
+https://youtu.be/JZPTQrNKsqI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+graph databases and the panama papers by Stefan Armbruster
+https://youtu.be/8VJ4njrA0TQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+How to Create a New JVM Language in Under an Hour by Oleg Šelajev
+https://youtu.be/14hqB7Q0I58&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Java Language and Platform Futures A Sneak Peek by Brian Goetz
+https://youtu.be/oGll155-vuQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Java on Google Cloud Platform by Patrick Flynn and Rajeev Dayal
+https://youtu.be/9iaqAcbS2vU&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Java on Mobile, WORA at your fingertips by Johan Vos
+https://youtu.be/RIvQsG-VFYQ&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Migrate your traditional VM-based clusters to Containers by Arun Gupta
+https://youtu.be/1-dB62t6jn8&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Nuts and Bolts of Docker by Patrick Chanezon
+https://youtu.be/fs1tG8PhGTE&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Sharing 2 years experience using Scala in a real project by a Java team by Joost den Boer
+https://youtu.be/uBaqV2exd5g&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Sherlock, a Watson Cognitive Computing Use Case by Sandhya Kapoor, James Weaver and Daniel De Luca
+https://youtu.be/39IrbA8lSc4&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Tensorflow and deep learning - without a PhD by Martin Görner
+https://youtu.be/qyvlt7kiQoI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Testing made sweet with a Mockito by Jeroen Mols
+https://youtu.be/DJDBl0vURD4&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+The road to Node Package Manager Hell by Paul Watson
+https://youtu.be/6qibcuTeaG4&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Unikernels and Docker From revolution to evolution by Richard Mortier
+https://youtu.be/f8uQ3ecEutY&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Using Machine Learning to Enhance your Apps by Sara Robinson and Mete Atamel
+https://youtu.be/kiy1uTW1CRI&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+Why you should really care about the blockchain by Sebastien Arbogast & Said Eloudrhiri
+https://youtu.be/dQVxbPqlBkE&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+
+“Right Size” your Services with WildFly Swarm by Heiko BraunDimitris Andreadis
+https://youtu.be/S8L9qTaEO7Y&list=PLRsbF2sD7JVq_TvmCyJC3-oT9nBGdwq6s
+Videos 26-50

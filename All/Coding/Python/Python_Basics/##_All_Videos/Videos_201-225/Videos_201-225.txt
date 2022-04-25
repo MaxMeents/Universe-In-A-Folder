@@ -1,0 +1,76 @@
+
+Python Basics Tutorial BeautifulSoup Object  Web Scrapping HTML Parser  And Prettify
+https://youtu.be/nJx7gZ9XqIg
+
+Python Basics Tutorial BeautifulSoup Object Attributes  Web Scrapping
+https://youtu.be/mijMb-j4Fsg
+
+Python Basics Tutorial Django HTML Drop Down Choice
+https://youtu.be/FXYKXmsVpAM
+
+Python Basics Tutorial Django Login Authentication
+https://youtu.be/Y1N6rAenFZM
+
+Python Basics Tutorial Django Moving From Register to Login Using Redirect and HttpResponseRedirect
+https://youtu.be/1_-PU2kDDjo
+
+Python Basics Tutorial Download and Parse HTML With Requests and BeautifulSoup
+https://youtu.be/8VF4cu62U3I
+
+Python Basics Tutorial Find and Navigate To Contact Page With BeautifulSoup  Web Scrapping
+https://youtu.be/jyCjU3qia4o
+
+Python Basics Tutorial Garbage Collection  Requested Video
+https://youtu.be/nZpBqBR7_Yk
+
+Python Basics Tutorial How to Connect DataBase to Django Admin
+https://youtu.be/WaeQZasr1Dk
+
+Python Basics Tutorial How to Customize Django Registration Form
+https://youtu.be/25djdL26uxM
+
+Python Basics Tutorial How To Handle Django Registration Form Data
+https://youtu.be/LcqPTuw02io
+
+Python Basics Tutorial How to Restrict Access With Django Login Required Decorator Function
+https://youtu.be/MTkvLoNhx4I
+
+Python Basics Tutorial How to Use Decorators
+https://youtu.be/rfO4MBQ7rrE
+
+Python Basics Tutorial How to Use Django Form Attributes with HTML
+https://youtu.be/VhGNVQTD7ho
+
+Python Basics Tutorial Install Beautiful Soup  Web Scrapping
+https://youtu.be/09jOlV6wX0E
+
+Python Basics Tutorial Intro To Beautiful Soup  Web Scrapping
+https://youtu.be/1u44L1FWIV8
+
+Python Basics Tutorial Linking Path To Templates Settings
+https://youtu.be/blovGsHLt34
+
+Python Basics Tutorial Logging Out of a Web Page With Django Logout Function
+https://youtu.be/lOnauHf_ILE
+
+Python Basics Tutorial RE IGNORECASE Flag
+https://youtu.be/z19Kdm_O_XM
+
+Python Basics Tutorial Resources To Help You Learn
+https://youtu.be/9PRE2qt2KwY
+
+Python Basics Tutorial Scrap A Web Page For All Links With BeautifulSoup  Web Scrapping
+https://youtu.be/fh9Um2VIlmk
+
+Python Basics Tutorial Scrap A Web Page For Email Addresses With BeautifulSoup  Web Scrapping
+https://youtu.be/DYfriOJ1_JY
+
+Python Basics Tutorial Thank You For The Growth and Interaction
+https://youtu.be/v-qFSmlGsJ4
+
+Python Basics Tutorial Ultimate Beginners Guide 2020 5 Hours
+https://youtu.be/d6NtisTEOrU
+
+Python Basics Tutorial Why Requested Videos Are Awesome
+https://youtu.be/9nQ_ykKe0MA
+Videos 201-225

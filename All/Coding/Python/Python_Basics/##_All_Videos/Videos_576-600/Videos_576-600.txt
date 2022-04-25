@@ -1,0 +1,76 @@
+
+Python Basics 1K Views Second Conversion
+https://youtu.be/n0_mqDcyDsM
+
+Python Basics 400 Videos
+https://youtu.be/WuOgeJC_S0c
+
+Python Basics Built in Reverse Function
+https://youtu.be/3_SqrEnVtwo
+
+Python Basics Deep Dive Re Fnmatch Glob (Requested Video)
+https://youtu.be/rBNwYitC5Gw
+
+Python Basics Django
+https://youtu.be/F7G9BG2ATmw
+
+Python Basics Fnmatch Filter Method
+https://youtu.be/8IX9rQyWzbc
+
+Python Basics Fnmatch Fnmatch Method
+https://youtu.be/HcjqcVcDrtw
+
+Python Basics Increment Numpy Arrays
+https://youtu.be/Qidv6Jmn1_8
+
+Python Basics Intro tkinter Module
+https://youtu.be/Dxk1Ugr5au4
+
+Python Basics Iter Splat Trick
+https://youtu.be/3TNUJP6xt38
+
+Python Basics Itertools Filter False Method
+https://youtu.be/HPDzq6JjLPM
+
+Python Basics Itertools Takewhile Method
+https://youtu.be/YtyBR4khzmY
+
+Python Basics Matplotlib Fig Savefig
+https://youtu.be/r_QaWmWuVIo
+
+Python Basics Matplotlib Pie Chart Arguments
+https://youtu.be/VdulJzQghKY
+
+Python Basics Matplotlib Pyplot Pie Chart
+https://youtu.be/l67OhtwDrLs
+
+Python Basics Ntpath Commonpath
+https://youtu.be/FMIU-O5j0YA
+
+Python Basics Ntpath Get M Time Function
+https://youtu.be/85lrDgdyTzU
+
+Python Basics Ntpath Module
+https://youtu.be/wgF3fTs01Ms
+
+Python Basics Numpy Reshape Method
+https://youtu.be/tT8q5UTuNmw
+
+Python Basics Pandas DataFrame Head Method
+https://youtu.be/TlkcYSZ187A
+
+Python Basics Pandas DataFrames Columns
+https://youtu.be/VFzCVDWdHcQ
+
+Python Basics Pygame Mouse Button Down
+https://youtu.be/36Qxe6wTGJg
+
+Python Basics Pygame Mouse Down Specific Position
+https://youtu.be/K9j4cKuJaIM
+
+Python Basics Re Findall with {} brackets
+https://youtu.be/e4qjuhzRW50
+
+Python Basics Re w+ Character Findall Method
+https://youtu.be/VWT41VZVn_s
+Videos 576-600

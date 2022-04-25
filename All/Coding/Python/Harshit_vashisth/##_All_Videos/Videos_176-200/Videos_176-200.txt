@@ -1,0 +1,76 @@
+
+Analyse World Happiness Report Pandas Exercise
+https://youtu.be/AxVyGpoKmKk
+
+Different Ways to Create Pandas Series
+https://youtu.be/vG-8GzB-Es4
+
+Download and install Python, VsCode and Git
+https://youtu.be/iWA1ExXAAMo
+
+Java Architecture Explained  JDK , JRE, JVM (Hindi)
+https://youtu.be/kToBR6JBANc
+
+NumPy   Exercise Solution (Hindi)
+https://youtu.be/j49PldSKK-M
+
+NumPy  Horizontal and Vertical Stacking(Hindi)
+https://youtu.be/CU1jcRL1WrU
+
+NumPy Exercise (Hindi)
+https://youtu.be/Lc9an0BcExQ
+
+Numpy vs python lists [Hindi]
+https://youtu.be/rG3DGW9sSLo
+
+Pandas  Filter Data Part 2
+https://youtu.be/jMef5iKAfqw
+
+Pandas  Filter Data
+https://youtu.be/XyaR1s_OjRk
+
+Pandas  iloc (Hindi)
+https://youtu.be/g6aiD9gwy7E
+
+Pandas  Index Object
+https://youtu.be/yZJgbqOb3dc
+
+Pandas  Loc
+https://youtu.be/h-nR45xJJPo
+
+Pandas  Selecting Columns(Hindi)
+https://youtu.be/gp7skyak-VQ
+
+Pandas  Selecting rows using square brackets
+https://youtu.be/igEGUeJCcSk
+
+Pandas  Sort Series
+https://youtu.be/CbYU2II34jw
+
+Pandas Overview(Hindi)
+https://youtu.be/zJUS1kyQpPM
+
+Pandas Series   nsmalest nlargest idxmin idxmax
+https://youtu.be/eIsaKv1nqio
+
+Pandas Series Part 1
+https://youtu.be/opxr61jA0A0
+
+Pandas Series [2]
+https://youtu.be/ybE2T2gRFaY
+
+pd.DataFrame
+https://youtu.be/cXDM92gYRps
+
+Read CSV Files using pandas
+https://youtu.be/QGiImP7wefs
+
+Series to list
+https://youtu.be/P5CyqR64Gz0
+
+TYMNNAP  Episode 1
+https://youtu.be/VeumuSkKI1M
+
+[Solution]Analyse World Happiness Report Solution
+https://youtu.be/AKu4dDSbDDw
+Videos 176-200

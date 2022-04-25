@@ -1,0 +1,55 @@
+
+Andrew Grangaard Effective Git
+https://youtu.be/oS-mMKnAAL0&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Brad Lhotsky Lessons from High Velocity Logging?
+https://youtu.be/6gXxBgGEv_I&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Brian Gottreau If you can't remember history rewrite it so you can
+https://youtu.be/6ByzqrG2Nsc&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+bulk 88 Writing XS in plain C
+https://youtu.be/Iu6RV2wKQwo&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Dana Jacobsen  ?BigNums When 64 bits just is not enough
+https://youtu.be/Dhl4_Chvm_g&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+David Golden ?Juggling Chainsaws Perl and MongoDB
+https://youtu.be/Nf3e6cPU9B0&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Graham Ollis Practical FFI with Platypus
+https://youtu.be/XjvpxfVJLNg&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Ivan Kohler ?How Perl helped us make a million dollars?
+https://youtu.be/D9fzN18F8iQ&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Jason McIntosh ?The True Story of Plerd
+https://youtu.be/5X4VaeoCSe8&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+John McDonald HPCI manage cluster cloud computing
+https://youtu.be/fb7XZj__Pqg&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Jonathan Taylor ?Moose in Production A Two year Retrospective?
+https://youtu.be/tD1oRoaVn2M&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Joseph Hall and A Series of Unfortunate Requests
+https://youtu.be/wbaH_jxcA7g&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Lightning Talks, Phil Windley, YAPC 2015 Closing
+https://youtu.be/e5_7v7q98-g&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Michael Conrad DeLorean Digital Dashboard
+https://youtu.be/SERH3_gZOTo&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Neil Mansilla ?Building Smarter Microservices with Scale Oriented Architecture?
+https://youtu.be/USXSnfilG4g&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Private video
+https://youtu.be/HKkpIkl4GMg&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Shawn Moore ?Lifting Moose
+https://youtu.be/w9HHHNVrmOs&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+
+Walt Mankowski Making movies for fun and science
+https://youtu.be/xf2UHZu9NJA&list=PLA9_Hq3zhoFxjn-BFNMc_n6zsd41I1ISB
+Videos 1-25

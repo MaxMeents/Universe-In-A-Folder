@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 233 - stdmap vs constexpr map (huge perf difference!)
+https://youtu.be/INn3xa4pMfg
+
+C++ Weekly - Ep 234 - map[] vs map.at()
+https://youtu.be/kDqS1xVWGMg
+
+C++ Weekly - Ep 235 - PMR Amazing, Fast, But, Not Quite Magic
+https://youtu.be/vXJ1dwJ9QkI
+
+C++ Weekly - Ep 236 - Creating Allocator-Aware Types
+https://youtu.be/2LAsqp7UrNs
+
+C++ Weekly - Ep 237 - Teach Yourself C++ in ∞ Days
+https://youtu.be/zUQz4LBBz7M
+
+C++ Weekly - Ep 238 - const mutable Lambdas
+https://youtu.be/qXy0facG6cA
+
+C++ Weekly - Ep 239 - stdmem_fun vs stdmem_fn Fight!
+https://youtu.be/geE-LyR_NrM
+
+C++ Weekly - Ep 240 - Start Using [[nodiscard]]!
+https://youtu.be/nhsahjY5jdE
+
+C++ Weekly - Ep 241 - Using `explicit` to Find Expensive Accidental Copies
+https://youtu.be/5wJ-jKK_Zy0
+
+C++ Weekly - Ep 242 - Design By Introspection in C++20 (concepts + if constexpr)
+https://youtu.be/sy32kAtsIKg
+
+C++ Weekly - Ep 243 - Computer Science The Magic of Two's Complement Binary Math
+https://youtu.be/s89pOAC_X08
+
+C++ Weekly - Ep 244 - Channel News, Updates, Thank Yous, and Changes
+https://youtu.be/dGYOc41m81U
+
+C++ Weekly - Ep 245 - PMR Mistakes Were Made (By Me)
+https://youtu.be/6BLlIj2QoT8
+
+C++ Weekly - Ep 246 - (+[](){})() What Does It Mean
+https://youtu.be/fYd84StM5OI
+
+C++ Weekly - Ep 247 - -O3, -Os, -Og, -Oz, Oh My!
+https://youtu.be/THE14sSDT6A
+
+C++ Weekly - Ep 248 - Understand the C++17 PMR Standard Allocators and Track All the Things
+https://youtu.be/Zt0q3OEeuB0
+
+C++ Weekly - Ep 249 - Types That Shall Not Be Named
+https://youtu.be/jWgSkM8N0Bc
+
+C++ Weekly - Ep 250 - Custom Allocation - How, Why, Where (Huge multi threaded gains and more!)
+https://youtu.be/5VrX_EXYIaM
+
+C++ Weekly - Ep 251 - constexpr Parameters With C++20's CNTTP
+https://youtu.be/iIizz2bbkiA
+
+C++ Weekly - Ep 252 - Real World PMR 2-3x Faster JSON Parsing with Custom Allocation Strategies
+https://youtu.be/R5PHRY5Pnlg
+
+C++ Weekly - Ep 253 - C++20 is Official! How To Get Your Copy of the Standard
+https://youtu.be/fWWBG7zekL8
+
+C++ Weekly - Ep 254 - C++23's signed  unsigned size_t Literals
+https://youtu.be/iadZWeOWr0U
+
+C++ Weekly - Ep 255 - C++11-17 Features You Still Cannot Use in 2021
+https://youtu.be/RpSjU2C5SYc
+
+How To Actually Fix The Davinci Resolve clip could not be processed Error!
+https://youtu.be/B025C1dwKMQ
+
+I2C Device Hacking With Raspberry Pi 2
+https://youtu.be/pTcX1GD1uTQ
+Videos 76-100

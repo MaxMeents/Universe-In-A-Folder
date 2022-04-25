@@ -1,0 +1,13 @@
+
+Creational Design Patterns in Go - Olena Stoliarova (RUS)
+https://youtu.be/dD3dPp18jew&list=PLx8BUu6VdbcfbAf44mHMy-7PKFFCKTyzU
+
+Go and GCP Introduction - Viktor Pakhuchyi (RUS)
+https://youtu.be/7qv-2LJFJLM&list=PLx8BUu6VdbcfbAf44mHMy-7PKFFCKTyzU
+
+ORM in Go. Internals and tips & tricks - Dmytro Istratkin (RUS)
+https://youtu.be/YLr7fVfbB24&list=PLx8BUu6VdbcfbAf44mHMy-7PKFFCKTyzU
+
+The Go concurrency under the hood - Denys Goldiner (RUS)
+https://youtu.be/43gEXivvxNc&list=PLx8BUu6VdbcfbAf44mHMy-7PKFFCKTyzU
+Kharkiv Go Meetup September 2019

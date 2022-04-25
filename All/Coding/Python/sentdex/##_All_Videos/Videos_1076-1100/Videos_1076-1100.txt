@@ -1,0 +1,76 @@
+
+Average prediction pattern recognition Machine Learning for Algorithmic Trading
+https://youtu.be/sULjlddakrc
+
+Cleaning up Tweets How to use the Twitter API v1.1 with Python to stream tweets
+https://youtu.be/AtqqVXZ365g
+
+Conclusion - Machine Learning and Pattern Recognition for Algorithmic Trading p. 19
+https://youtu.be/nN6Ng8k9wzU
+
+Current Pattern Machine Learning for Algorithmic Trading in Forex and Stocks
+https://youtu.be/Js_7NsZCmAQ
+
+Displaying all Patterns Recognized Machine Learning for Algorithmic Trading in Forex and Stocks
+https://youtu.be/JSCyNkhnPV0
+
+Finding Patterns  Machine Learning for Automated Trading in Forex and Stocks Part 5
+https://youtu.be/Yf-P9w36Q1s
+
+ImportError DLL load failed %1 is not a valid Win32 application - Python Debugging
+https://youtu.be/fGuHMVAruAE
+
+Increasing Pattern Complexity Machine Learning for Algorithmic Trading in Forex and Stocks
+https://youtu.be/LOyWJnFJEDY
+
+Machine Learning and Pattern Recognition for Algorithmic Forex and Stock Trading Intro
+https://youtu.be/v_L9jR8P-54
+
+Machine Learning and Pattern Recognition for Algorithmic Trading p. 17
+https://youtu.be/HwrG_NIs35A
+
+Machine Learning and Pattern Recognition for Stocks and Forex Part 3
+https://youtu.be/SwI6sFySNbI
+
+Past outcomes as predictions Machine Learning for Automated Trading in Forex and Stocks p. 14
+https://youtu.be/bSujVFWXX_I
+
+Pattern Finding and Storing Machine Learning for Algorithmic Trading in Forex and Stocks Part 6
+https://youtu.be/vEu9OvHj8QE
+
+Pattern Recognition and Outcome Machine Learning for Algorithmic Trading in Forex and Stocks
+https://youtu.be/2VVKW5uhZUM
+
+Pattern Recognition Machine Learning for Algorithmic Trading Part 9
+https://youtu.be/w04WKecd2hc
+
+Percent Change Machine Learning for Automated Trading in Forex and Stocks Part 4
+https://youtu.be/fL4lGl5CoTM
+
+Predicitions From Patterns Machine Learning and Pattern Recognition for Forex and Stock Trading
+https://youtu.be/k8pZWl1sCBY
+
+Predicting outcomes with Pattern Recognition Machine Learning for Algorithmic Trading p. 8
+https://youtu.be/RCdTVy1xcek
+
+Preparing back-test Machine Learning and Pattern Recognition for Algorithmic Trading p. 18
+https://youtu.be/PgVlXvxJklg
+
+Python for Spreadsheets and CSV File manipulation - Part 1 Basics
+https://youtu.be/pbjGo3oj0PM
+
+Python for Spreadsheets and CSV File manipulation - Part 2 Row Manipulation
+https://youtu.be/PxtPxx1TJ2U
+
+Python for Spreadsheets and CSV File manipulation - Part 3 using other rows
+https://youtu.be/Vjbx5pHMDBI
+
+Quick look at our Data Machine learning for Stocks and Forex Technical Analysis
+https://youtu.be/cExOVprMlQg
+
+Saving Tweets How to use the Twitter API v1.1 with Python to stream tweets
+https://youtu.be/d-Et9uD463A
+
+Variables in Pattern Recognition Machine Learning for Algorithmic Trading in Forex and Stocks p. 13
+https://youtu.be/_qArnFg1Xhg
+Videos 1076-1100

@@ -1,0 +1,58 @@
+
+Becoming a better programmer
+https://youtu.be/oquJqXsSQ38&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Clone detection in python
+https://youtu.be/xmsK1geCDq4&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Come liberare i dati catastali in formato CXF con GDALOGR e Proj4
+https://youtu.be/BP3G1s4eYMk&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Esageriamo con uWSGI e Ngnix
+https://youtu.be/-xuelXMtYNE&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Further neck and amd shoulder massage training
+https://youtu.be/itn8W9zI0Wk&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Getting the logging module to your bidding
+https://youtu.be/m8mS28xBh_A&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Hands on Pygame
+https://youtu.be/fm78gjYkYKc&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+How to bootsrap a startup using django
+https://youtu.be/gmIG56Hf9dc&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Juju - Service orchestration and deployment
+https://youtu.be/HlGDP92dlfY&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Method restrictions and implementing them for python
+https://youtu.be/WX7aB0e4-Lk&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Openstack Overview - Operational Detail of a large Python Project
+https://youtu.be/5yzzjDHpbgc&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+PostSQL - using PostgreSQL as a better NoSQL
+https://youtu.be/fkrpe4olen8&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Protocol specifications written in python
+https://youtu.be/Cgf73JmuINU&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Pypedia a python development environment on a wiki
+https://youtu.be/di3csK0Wsik&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+PyPy JIT under the hood
+https://youtu.be/cMtBUvORCfU&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Snakes and onions - Python developers and Tor
+https://youtu.be/lmuhyc4aPYs&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Spotify - pipelining your music
+https://youtu.be/OH4Q9db0xFw&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Sviluppare una Restful web API con Python fask e MongoDB
+https://youtu.be/Q6EKaBd7jmY&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+
+Tornado in Depth
+https://youtu.be/4Ztq-Yz1ero&list=PL8uoeex94UhFKYBeJWJoRf_AIAej08-2K
+Videos 101-119

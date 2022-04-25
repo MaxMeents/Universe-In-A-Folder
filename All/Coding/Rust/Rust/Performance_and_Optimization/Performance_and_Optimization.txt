@@ -1,0 +1,4 @@
+
+RustConf 2017 - Improving Rust Performance Through Profiling and Benchmarking by Steve Jenson
+https://youtu.be/hTHp0gjWMLQ&list=PL85XCvVPmGQi3m7fjsdRImbX2bQ8RgUp4
+Performance and Optimization

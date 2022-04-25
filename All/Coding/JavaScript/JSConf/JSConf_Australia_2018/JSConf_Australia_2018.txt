@@ -1,0 +1,46 @@
+
+Alexander Pope - OUTBREAK index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js
+https://youtu.be/t7WraVE8rY8&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Amy Nguyen - Using Chrome Developer Tools to hack your way into concerts
+https://youtu.be/tXssxJgIHbs&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Brittany Storoz - A year of other’s bugs the sad state of error handling
+https://youtu.be/fQHH6aSpYV0&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Caleb Sotelo - Taming the World’s Largest Trojan Horse
+https://youtu.be/Oz-87M6O3HY&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Craig Spence - Fantastic ASTs and where to find them
+https://youtu.be/UKCoRKzRqN4&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Irina Shestak - HTTP2, one frame at a time
+https://youtu.be/KpkTLmLTvAI&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Madalyn Parker - Uncharted territory using aXe to forge a path
+https://youtu.be/JWqHioGOELs&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Madlaina Kalunder - Building a raytracing engine with JavaScript
+https://youtu.be/4W06d_kcafE&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Malte Ubl - Designing very large JavaScript applications
+https://youtu.be/ZZmUwXEiPm4&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Mathias Bynens - V8 internals for JavaScript developers
+https://youtu.be/m9cTaYI95Zc&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Nikolay Matvienko - Node js applications diagnostics under the hood
+https://youtu.be/y2PRfNsY28w&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Patricia Realini - Is A Hot Dog A Sandwich And Other Analogies Not To Trifle With
+https://youtu.be/XV3zUI5WiOM&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Suz Hinton - I'm afraid your browser has been talking to the robots again   a gentle intro to WebUSB
+https://youtu.be/ov2R3vEn14k&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Tim Holman - Generative Art Speedrun
+https://youtu.be/4Se0_w0ISYk&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+
+Vigneshwer Dhinakaran - Pumping up Node js modules with Rust!
+https://youtu.be/Zqzwkiii2NE&list=PL37ZVnwpeshH2dgOfKBH1UOgOT198ZzZy
+JSConf Australia 2018

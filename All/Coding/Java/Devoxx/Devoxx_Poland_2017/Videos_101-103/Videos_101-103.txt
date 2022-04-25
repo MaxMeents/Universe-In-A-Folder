@@ -1,0 +1,10 @@
+
+Anomaly detection in real-time a.k.a. simplicity is the ultimate sophistication by Piotr Guzik
+https://youtu.be/O8LMHe3ehcw&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+JVM Toolbox 2017 - Choose the right JVM language for the right task by Jonatan Kaźmierczak
+https://youtu.be/RkJaoxfyXhw&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Offline-first apps with WebComponents by AMahdy Abdelaziz
+https://youtu.be/4hB-NzPpOEk&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+Videos 101-103

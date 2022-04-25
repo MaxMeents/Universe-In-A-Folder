@@ -1,0 +1,76 @@
+
+Anchoring UIViews LBTAComponents in Swift 4 [STEP BY STEP]
+https://youtu.be/9sMPJ91FvZM
+
+ARKit Tutorial - ARKit Vertical Planes
+https://youtu.be/d8wRG9BXjtQ
+
+Bundle Display Name
+https://youtu.be/RzLq0SizoZQ
+
+Cached Image View in Swift 4 LBTAComponents (Easy)
+https://youtu.be/4u8dgBhVdY0
+
+Collection View with DatasourceController LBTAComponents (Easy)
+https://youtu.be/dSBsUcDcQyg
+
+Facebook Login Swift - Firebase Authentication
+https://youtu.be/D4Ex2QgBy4A
+
+Firebase Authentication iOS - Install Firebase Tools
+https://youtu.be/ZSMO3y5b9B0
+
+Firebase Database - Firebase User Profile
+https://youtu.be/zXqOZiTLGfs
+
+Firebase Database Tutorial - Fetch User Profile
+https://youtu.be/s8F1qMAFe3I
+
+Firebase Sign Out - Firebase Authentication iOS
+https://youtu.be/9-2G0EEQqlU
+
+Firebase Social Login - Twitter iOS Integration
+https://youtu.be/VExDPgNIPTw
+
+Firebase Tutorial - Catching Errors
+https://youtu.be/mmMxSB8Hwqk
+
+Firebase Users [LOGIC and UI]
+https://youtu.be/Syv_5XDWPjY
+
+Header and Footer in CollectionView LBTAComponents in Swift 4
+https://youtu.be/mnofxHaj9O8
+
+I'm Back! Future Plans and what I have been doing (May 2018)
+https://youtu.be/YmL8ojme45I
+
+Installing Cocoapods in an Existing Project (FAST)
+https://youtu.be/HOqwg3GfxWY
+
+MBProgressHUD Hidden Features in Swift 4 (FRESH)
+https://youtu.be/rB-AKhg18ys
+
+MBProgressHUD Swift
+https://youtu.be/yx6brS7a9Xo
+
+MBProgressHUD Tutorial
+https://youtu.be/_rOHh3-s3c4
+
+MBProgressHUD UI Setup
+https://youtu.be/9jESaewbRBQ
+
+ONE Line of Code iOS Game Creation [AMAZING]
+https://youtu.be/OkxGgOMsjJE
+
+Passwordless Login with Firebase
+https://youtu.be/lTvurtlc2I0
+
+Readable Date in Swift (in 2018)
+https://youtu.be/ZtQG1lC_Xsc
+
+Required Text for Subscriptions (NEW) iOS11 auto-renewable subscriptions in app purchases text
+https://youtu.be/km-ZxKq93Ro
+
+Revealing Splash View in Swift (NEW STEP BY STEP TUTORIAL)
+https://youtu.be/jtCsh4R8UWo
+Videos 401-425

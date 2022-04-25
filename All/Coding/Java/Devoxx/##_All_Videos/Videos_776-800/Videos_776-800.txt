@@ -1,0 +1,76 @@
+
+ANTON ARHIPOV - Kotlin DSL in under an hour
+https://youtu.be/zYNbsVv9oN0
+
+Building a Culture of Continuous Delivery at Netflix
+https://youtu.be/_TaXqUbvtw0
+
+CIPRIAN BORODESCU & ALEXANDRA ANGHEL - AI enhanced UX
+https://youtu.be/ga3gX1fs8vg
+
+Create Your Own Music Rec. System Using ML by J. Lehn, M. Gopinathan, Malte L. Knowit
+https://youtu.be/BJfNGeFlqiQ
+
+Dev Culture Hacking and Org Refactoring   Transformation tips from Software Pros
+https://youtu.be/EQewkOMf-y0
+
+FRANK LYARUU - ElasticSearch, MongoDB and Neo4j walk into a bar   a tale of different databases
+https://youtu.be/f4Lr8NWu5uc
+
+Full stack Reactive Java with Project Reactor & Spring Boot 2
+https://youtu.be/e762IOhcZK8
+
+Interview with Alex Rickabaugh at Devoxx Belgium 2018
+https://youtu.be/1b2SOJXtwmE
+
+Interview with Erin Coughlan at Devoxx Belgium 2018
+https://youtu.be/LLIzZnphm2A
+
+KRZYSZTOF KUDRYNSKI, BLAZEJ KUBIAK - Flying services with a drone (Ending Keynote)
+https://youtu.be/fkJ-xEcYfcY
+
+One size fits all Not Really!
+https://youtu.be/3zWk95Qs73g
+
+Practicing to be ~Perfect~ Better Improving how you work through deliberate practice
+https://youtu.be/HeT7XmHGUHI
+
+Techy for Gen Z
+https://youtu.be/bC76YnYakJw
+
+When everything looks like a hammer
+https://youtu.be/ZTuVE6irn3g
+
+[VDZ19] Building microservices with Kotlin and gRPC by Marharyta Nedzelska
+https://youtu.be/gDsri-zcD_s
+
+[VDZ19] Forgetting Passwords like a Pro by Ben Dechrai
+https://youtu.be/IV2gvojhrCA
+
+[VDZ19] GraalVM & Database Multilingual Engine by Lucas Braun and Julia Kindelsberger
+https://youtu.be/yyqfdTIok1g
+
+[VDZ19] How to leverage Angular Schematics to empower Devs of Frontend Apps & Libraries by T. Trajan
+https://youtu.be/eFzjY4uWgCA
+
+[VDZ19] Kotlin DSL in under an hour by Anton Arhipov
+https://youtu.be/_KFofyA5VJ0
+
+[VDZ19] Meetup Recommendations with Micronaut by Michael Hunger
+https://youtu.be/cIMfpWXSBuQ
+
+[VDZ19] New features of Java 12 in action (live coding) by Jonatan Kazmierczak & Marco Molteni
+https://youtu.be/aYeSt4jULgY
+
+[VDZ19] Performance tuning Twitter services with Graal and Machine Learning by Chris Thalinger
+https://youtu.be/kLz-DTaYQ3U
+
+[VDZ19] PROGRESSIVE WEB APPS 🚀 WITH ANGULAR by Brian Love
+https://youtu.be/ZhqJvCtUIV4
+
+[VDZ19] Service Mesh and Sidecars with Istio and Envoy by Rafael Benevides
+https://youtu.be/KLBFR_rUreE
+
+[VDZ19] The Dark Side of Java 8 - Lessons Learned by Grzegorz Piwowarek
+https://youtu.be/YVhc6E_GJ1E
+Videos 776-800

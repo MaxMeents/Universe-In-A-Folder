@@ -1,0 +1,76 @@
+
+Adjust the Database behind Recent files and folders
+https://youtu.be/5TKgWv92Yvw
+
+Are You Dead  Use this script to auto-timeout unless you do something
+https://youtu.be/dlkOTqb45pU
+
+AutoHotkey Webinar 062021 Hour 1 Fiddler Everywhere, APIs and Snagit
+https://youtu.be/561GzhS2tsU
+
+AutoHotkey Webinar 062021 Hour 2 GUI, PID, HWND ID, etc.
+https://youtu.be/Gjc0zlhnlx8
+
+AutoHotkey webinar 72021 Hour 1
+https://youtu.be/XSRP8HA8SfM
+
+AutoHotkey webinar 72021 Part 2
+https://youtu.be/X9G29YlUClU
+
+Benchmark Comparison parsing JSON object vs. RegEx match
+https://youtu.be/Hco6D4AiU9U
+
+Changing GUI to be editable & great fuzzy matching script Sift
+https://youtu.be/GverJBqObXw
+
+contest winner to 10-year anniversary of YouTube channel
+https://youtu.be/MdeH4Y0nKds
+
+Hellbent & RaptorX discuss advanced topics using AutoHotkey
+https://youtu.be/tQEb7ZtfXro
+
+How to Quickly Automate Forms with Quick Access Popup
+https://youtu.be/32ObgELDGk8
+
+How to swap order of Compared files in VS code
+https://youtu.be/OlspWbCVuEE
+
+Maestrith and RaptorX discuss FixIE function so HTML renders properly
+https://youtu.be/z7II4mkdMNQ
+
+Maestrith showing htmlGUI to Isaias and Joe
+https://youtu.be/oXgpx0Hdev8
+
+Programming GUIs in C# with Maestrith
+https://youtu.be/p4yFmC1Q6mQ
+
+Remotely Disabling a Hotkey The simple solution is sometimes elusive
+https://youtu.be/oN-Chz9NdnE
+
+Save time Using Placeholders in your Snippets with Quick Access Popup
+https://youtu.be/fQ9bMlUzuo8
+
+Speed benchmarking with cJSON from GeekDude & 32 bit vs. 64 bit
+https://youtu.be/75jNycH-Rww
+
+The death of AutoHotkey Windows 365  Windows in the cloud
+https://youtu.be/g8Q-V1t9ddU
+
+the-Automators' Podcast #104  7 things to be sure you include in your code
+https://youtu.be/X2YP7i2tlvE
+
+the-Automators' Podcast #105 7 ways to help find processes to automate
+https://youtu.be/vTaF-KIqWn4
+
+The-Automators' Podcast #106 5 Reasons why being pigheaded is a good thing
+https://youtu.be/xK3bfqUcID0
+
+Troubleshooting ErrorLevel on SendMessage in AutoHotkey  Oops!
+https://youtu.be/IpF560i_S68
+
+Update to Resizable GUI
+https://youtu.be/DzLaA531m5g
+
+WebScraping but no browser network traffic Peaking at JavaScript
+https://youtu.be/LSmyVcHSipY
+Videos 176-200

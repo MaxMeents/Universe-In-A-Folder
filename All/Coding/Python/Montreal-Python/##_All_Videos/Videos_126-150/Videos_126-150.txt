@@ -1,0 +1,76 @@
+
+Amazon EC2 Spots Instances  #MP39
+https://youtu.be/cj7lLiD0OLU
+
+Analyzing Rap Lyrics Using Python and Beautiful Soup #MP39
+https://youtu.be/TSXaeIgQSuY
+
+Competitive data-mining with R and Python #MP38
+https://youtu.be/9C6tHO-o-yo
+
+Design Patterns in Python #MP38
+https://youtu.be/t-5Ak9B1pr0
+
+Diving into Open Data with IPython Notebook & Pandas #MP39
+https://youtu.be/qdXJH5XbEDI
+
+Go for Python Hackers #MP39
+https://youtu.be/IjzS-Tne0pE
+
+Good Support Channels Matter #MP40
+https://youtu.be/TZ4niNerJCM
+
+Hunter Gatherer, a 1-click search summarizer #MP35
+https://youtu.be/DuwWlXh9-vI
+
+La performance d'une API en temps réel avec Graphite #MP36
+https://youtu.be/Z4_BgzOdO88
+
+La personne du mois Brett Cannon #MP40
+https://youtu.be/axwZ2RO84UQ
+
+La personne du mois Diana Clarke #MP38
+https://youtu.be/sVdtoJv_LP8
+
+La personne du mois Greg Wilson #MP35
+https://youtu.be/O2hFZH_OOlg
+
+Le Python académique au Québec #MP39
+https://youtu.be/gUwGPgUBC4c
+
+Lording over your minions with salt #MP36
+https://youtu.be/iCD-LJEt8g8
+
+Léa transformée avec scikit-image #MP35
+https://youtu.be/fqCu6kkPNxU
+
+Module of the Month collections #MP36
+https://youtu.be/J8Og6NDgckM
+
+Module of the month path.py #MP40
+https://youtu.be/WoyMIaW2Ovc
+
+Module of the month progressbar #MP39
+https://youtu.be/6CCGjtYbRtY
+
+Module of the Month sh #MP38
+https://youtu.be/-bWvlXYwjmM
+
+OS deduplication with SIDUS #MP38
+https://youtu.be/SKY9P1SwC2k
+
+Person of the Month Lynn Root #MP39
+https://youtu.be/i1Vd0NQl9ZE
+
+Python for high performance and scientific computing #MP35
+https://youtu.be/k_Z8REQo3Ks
+
+Revset in Mercurial #MP39
+https://youtu.be/Cov1FsopLSU
+
+The Joys and Pains of Using Pyramid #MP39
+https://youtu.be/QA859VKeVCM
+
+Écrire un décompilateur C en Python #MP38
+https://youtu.be/5GR7lfUArIE
+Videos 126-150

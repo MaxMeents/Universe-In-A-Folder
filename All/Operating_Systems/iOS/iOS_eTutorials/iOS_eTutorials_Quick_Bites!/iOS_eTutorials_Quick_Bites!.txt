@@ -1,0 +1,16 @@
+
+Detailed Explanation on What's New in Swift 4.1 #iOSBySheldon #iOSQuickBite
+https://youtu.be/e4WZhI3uXlE&list=PLyLxRAoqE6zEE9BIf4XHkeLNZ1zdFLyuR
+
+iOS Swift 4 new feature - String Multi-line Literal #iOSQUICKBITES
+https://youtu.be/58oGNixlx5s&list=PLyLxRAoqE6zEE9BIf4XHkeLNZ1zdFLyuR
+
+iOS Swift 4 Tutorial - Print 💖 in String Using Unicode #iOSQUICKBITES
+https://youtu.be/HXJuqHoKRHI&list=PLyLxRAoqE6zEE9BIf4XHkeLNZ1zdFLyuR
+
+iOS Swift Tuorial - How to Use Do-Try-Catch with the Best Practice #iOSBySheldon
+https://youtu.be/o4WvH-C_TeQ&list=PLyLxRAoqE6zEE9BIf4XHkeLNZ1zdFLyuR
+
+iOS Swift4 - I found another UITableView Bug by Apple #iOSBySheldon
+https://youtu.be/UOzA3raei2I&list=PLyLxRAoqE6zEE9BIf4XHkeLNZ1zdFLyuR
+iOS eTutorials Quick Bites!

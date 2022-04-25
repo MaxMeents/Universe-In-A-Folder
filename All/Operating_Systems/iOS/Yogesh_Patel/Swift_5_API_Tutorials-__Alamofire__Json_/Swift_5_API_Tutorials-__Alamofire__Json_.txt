@@ -1,0 +1,28 @@
+
+Lazy Loading Images in UICollectionView using Image Caching & URLSession  Async swift 5 Hindi.
+
+
+MVVM  Alamofire  JSON Decoder  Codable  Coding Keys  URLSession  API Tips  Swift 5 iOS Hindi.
+https://youtu.be/4IUc9Wf5yS8&list=PLWZIhpNhtvfq4MHDAIEkCBXYRA0G9RwhP
+
+Swift 4 & Xcode 11 - How to make URLSession POST Request iOS Hindi.
+https://youtu.be/LuXgDLkKRAo&list=PLWZIhpNhtvfq4MHDAIEkCBXYRA0G9RwhP
+
+Swift 4 - How To Parse JSON Data(GET) in UITableViewCell  Using JsonDecoder in iOS Hindi.
+https://youtu.be/jMTw3JVYK70&list=PLWZIhpNhtvfq4MHDAIEkCBXYRA0G9RwhP
+
+Swift 4 [PART-1] - How To Parse JSON Data into TableView with Image Using SwiftyJson in iOS Hindi.
+
+
+Swift4[PART2]-How To Parse JSONData into StaticTableView with Image Using SwiftyJson in iOS Hindi.
+
+
+[PART -2] User LogIn  Sign In API Calling using Alamofire in Swift 5  Xcode 11  English
+https://youtu.be/fs_Flrgchco&list=PLWZIhpNhtvfq4MHDAIEkCBXYRA0G9RwhP
+
+[PART -3] User Logout  API Calling  handling Login & Logout APP Flow in Swift 5 (English).
+https://youtu.be/yttVeo4FFzM&list=PLWZIhpNhtvfq4MHDAIEkCBXYRA0G9RwhP
+
+[PART-1] User Register  Sign Up API Calling using Alamofire in Swift 5  Xcode 11  English.
+https://youtu.be/OQ6wm1QQPWA&list=PLWZIhpNhtvfq4MHDAIEkCBXYRA0G9RwhP
+Swift 5 API Tutorials-  Alamofire  Json Decoder  Codable  Encodable  Kingfisher

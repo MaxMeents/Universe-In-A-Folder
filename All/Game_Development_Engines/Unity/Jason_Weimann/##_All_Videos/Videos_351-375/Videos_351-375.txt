@@ -1,0 +1,76 @@
+
+5 ways to Reference GameObjects in Unity3D
+https://youtu.be/ymq2AUckws0
+
+Communicating with Events in Unity
+https://youtu.be/wlo-ZvV3ovg
+
+How do I get my first game job in Unity
+https://youtu.be/QTcFXz4t94c
+
+How to Adjust to a New Team
+https://youtu.be/Z8zfamJQIOw
+
+How to do a Screen Wipe for level loading  transitions in Unity3D - Using UGUI
+https://youtu.be/clN7JItftTE
+
+HowTo Build a 3rd person shooter in Unity - Part 4
+https://youtu.be/qmdC7kydWa4
+
+My Great Experience with Mob Programming
+https://youtu.be/D_TZBxUGn3M
+
+Overtime & Crunching in Game Development (vs others)
+https://youtu.be/9IaKlOzUdmg
+
+Should game developers work from home or go into an office
+https://youtu.be/xKD2LiN5rM0
+
+Unit Testing with Unity
+https://youtu.be/dP5reGqo8U0
+
+Unity Architecture - Composition or Inheritance
+https://youtu.be/8TIkManpEu4
+
+Unity GDC 2018 Keynote Recap
+https://youtu.be/J-MMA5TPayY
+
+Unity3D - Bolt Visual Scripting with SteamVR
+https://youtu.be/DCw-dPzqDOI
+
+Unity3D - Clean Code VS Progress
+https://youtu.be/L0Ur3RrVMFo
+
+Unity3D - How much Math do I need to be a game developer
+https://youtu.be/UIY7Ms-88cg
+
+Unity3D - How to find game jobs & where to look
+https://youtu.be/-Qb-3DrsBzs
+
+Unity3D - Mobile Input  Controls  Thumbstick  Joystick
+https://youtu.be/VW58CT27LsM
+
+Unity3D Assembly Reflection - How & Why to use it
+https://youtu.be/bic0WlxAoDA
+
+Unity3D Code Review #1 Fuze
+https://youtu.be/gTGVGcN-Kko
+
+Unity3D Code Review #2 Asteroids
+https://youtu.be/gjkprZj983g
+
+Unity3D Code Review #3 Number Cruncher
+https://youtu.be/w7Zobo_w8v0
+
+Unity3D Debugger Basics  VisualStudio Debugging Intro
+https://youtu.be/w0Po3N0xoV0
+
+Unity3D Top 10 Time Saving Visual Studio Shortcuts
+https://youtu.be/BCS-SOS_1n4
+
+Unity3D.College Survey Results
+https://youtu.be/dhE6NyURs3Y
+
+Why I ditched the underscore
+https://youtu.be/oDVan60VBPs
+Videos 351-375

@@ -1,0 +1,52 @@
+
+Chris Prather (?perigrin?) - ?I Never Metaphor I Didn't Like
+https://youtu.be/u35S53kvEAg&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Curtis Jewell (?CSJewell?) - ?I need a web framework, but which one?
+https://youtu.be/NN-juCnZNy0&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Hugh Esco - ?Bootstrapping a useful development environment in 20 minutes?
+https://youtu.be/QUHFg1IW_UA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Joe Kline (?gizmo?) - ?Perl and Scientific Programming A panel discussion?
+https://youtu.be/tkrwAVZZgMY&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+John Anderson (?genehack?) - ?Yet Another Keynote Speech?
+https://youtu.be/MU6IFUZZBuQ&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Logan Bell - ?Templates as a service - with swig.js?
+https://youtu.be/kFS9wSgTAgM&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Mark Allen (?mallen?) - ?Deploying Perl apps with Docker?
+https://youtu.be/uyE-SUUMgU8&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Matt S Trout (?mst?) - ?Devops Logique?
+https://youtu.be/RQwY28DItLI&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Michael McClennen - ?Designing and Implementing Web Data Services in Perl?
+https://youtu.be/Gbv20RM2xuo&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Peter Martini - ?Sub Signatures Next Steps?
+https://youtu.be/ot5yOrMJogA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+R Geoffrey Avery (?rGeoffrey?) - ?Dancer Getting to Hello World?
+https://youtu.be/UbzLWxU4Me8&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Ricardo Signes (?rjbs?) - ?Perl 5.20 Perl 5 at 20?
+https://youtu.be/D1LHFKGHceY&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Sawyer X - ?The Joy in What We Do
+https://youtu.be/CjOQZf0Ad74&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Steven Lembark - ?Getting testy with Perl?
+https://youtu.be/IXNwofjIZUM&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Tim Bunce - ?Performance Profiling with DevelNYTProf?
+https://youtu.be/T7EK6RZAnEA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Walt Mankowski (waltman) - Scientific Programming with NumPy and SciPy
+https://youtu.be/I_XLoTQSuUk&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+YAPCNA2014 Highlights
+https://youtu.be/GLqtHab06dM&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+Videos 51-67

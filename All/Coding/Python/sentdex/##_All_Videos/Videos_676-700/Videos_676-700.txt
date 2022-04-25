@@ -1,0 +1,76 @@
+
+Flask Tutorial Web Development with Python 1 - Intro
+https://youtu.be/Lv1fv-HmkQo
+
+Flask Tutorial Web Development with Python 10 - Message Flashing
+https://youtu.be/rjIuZbG9190
+
+Flask Tutorial Web Development with Python 2 - Basic site setup
+https://youtu.be/qZNL4Ku1UQg
+
+Flask Tutorial Web Development with Python 3 - Bootstrap and Jinja Templates
+https://youtu.be/8aTgOs_cv2g
+
+Flask Tutorial Web Development with Python 4 - Starting the Homepage
+https://youtu.be/C30xMkLNoUI
+
+Flask Tutorial Web Development with Python 5 - Home page improvements
+https://youtu.be/AvIBdDI7h5A
+
+Flask Tutorial Web Development with Python 6 - Finishing Homepage
+https://youtu.be/hLR71ZJBUFU
+
+Flask Tutorial Web Development with Python 7- Dynamic Dashboard
+https://youtu.be/FmfpMLoRjWU
+
+Flask Tutorial Web Development with Python 8 - Content Management
+https://youtu.be/Lr4gGYDXsRo
+
+Flask Tutorial Web Development with Python 9 - Error Handling
+https://youtu.be/tyfwwSNc9Jg
+
+Kivy with Python tutorial for Mobile Application Development Part 1
+https://youtu.be/CYNWK2GpwgA
+
+Kivy with Python tutorial Part 10 - Screen Manager
+https://youtu.be/g4y0x3dptMs
+
+Kivy with Python tutorial Part 11 - Drawing Application with Screen Manager
+https://youtu.be/SlZLnxgFuls
+
+Kivy with Python tutorial Part 12 - Adding better Navigation
+https://youtu.be/RxZKbEmm7z0
+
+Kivy with Python tutorial Part 2 - Widgets and Labels
+https://youtu.be/cJtdb-vPxBo
+
+Kivy with Python tutorial Part 3 - The Kivy .kv Language
+https://youtu.be/74zCdYRCtog
+
+Kivy with Python tutorial Part 4 - Kivy .kv Language cont'd
+https://youtu.be/IoCpQcWZnT0
+
+Kivy with Python tutorial Part 5 - Dynamic Resizable Placement
+https://youtu.be/Ha7TP11H0EI
+
+Kivy with Python tutorial Part 6 - Layouts Float Layout
+https://youtu.be/wQQ0sUI2lJo
+
+Kivy with Python tutorial Part 7 - Getting Mouse  Press  Touch Input
+https://youtu.be/1wBtgQW74WE
+
+Kivy with Python tutorial Part 8 - Simple Drawing Application
+https://youtu.be/U9TnXzQgIJU
+
+Kivy with Python tutorial Part 9 - Builder for loading .kv Files Smarter
+https://youtu.be/JxUVXbS1pXQ
+
+Scikit Learn Machine Learning Tutorial for investing with Python p. 26
+https://youtu.be/nTWQN5SVqgE
+
+Unsupervised Machine Learning - Flat Clustering with KMeans with Scikit-learn and Python
+https://youtu.be/ZS-IM9C3eFg
+
+Unsupervised Machine Learning - Hierarchical Clustering with Mean Shift Scikit-learn and Python
+https://youtu.be/EQZaSuK-PHs
+Videos 676-700

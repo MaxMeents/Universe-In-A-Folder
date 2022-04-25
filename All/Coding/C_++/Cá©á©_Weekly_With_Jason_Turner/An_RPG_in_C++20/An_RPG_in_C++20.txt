@@ -1,0 +1,31 @@
+
+(SavingReplaying Game Events. It Works!) Hacking On the C++ Weekly Game Project - Part 2
+https://youtu.be/XHxdGXHTKKM&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+(SavingReplaying Game Events. Prep work.) Hacking On the C++ Weekly Game Project - Part 1
+https://youtu.be/2fnZB8u0L14&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 209 - An RPG in C++20 - Part 0 The Plan
+https://youtu.be/kwFcRvxy0D0&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 210 - An RPG in C++20 - Part 1 Getting Started With SFML & Dear ImGui
+https://youtu.be/av0SYeUxVMU&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 212 - An RPG In C++20 - Part 2 Finding Errors As Soon As Possible
+https://youtu.be/sZBVLDbJRwg&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 215 - An RPG in C++20 Part 3 - Handling Command Line Parameters
+https://youtu.be/U_2WDRTdImk&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 219 - RPG In C++20 - Part 4 Reading SFML Joystick States
+https://youtu.be/jUh9q_qWhlM&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 224 - RPG In C++20 - Part 5 Dealing With Game Input Events
+https://youtu.be/EF-lO3daS7I&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 227 - RPG In C++20 - Part 6 Dealing With Game Events - 2
+https://youtu.be/wRTWnGse3vo&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+
+C++ Weekly - Ep 293 - RPG in C++20 Project Major Updates!
+https://youtu.be/IWEdaC9evBc&list=PLs3KjaCtOwSZ-74ryhrQQkqr8kZW50_mZ
+An RPG in C++20

@@ -1,0 +1,76 @@
+
+Apex Legends Ping System built in Unity (Unity Tutorial)
+https://youtu.be/vcQe_0rtvzc
+
+Battle Royale Damage Circle Shrink (Unity Tutorial)
+https://youtu.be/qGdf1T4Ew8I
+
+Game Object Icons in Unity (Quick Unity Tip)
+https://youtu.be/3X1VmoyiJJ4
+
+High Score Table with Saving and Loading (Unity Tutorial for Beginners)
+https://youtu.be/iAbaqGYdnyI
+
+Highlights from Unity 2019.1 Release, DOTS, Shader Graph!
+https://youtu.be/AGu6oJ3iup4
+
+How I added VIPs to Battle Royale Tycoon
+https://youtu.be/0ZPVkfMqDPg
+
+How to make Damage Popup Text (Unity Tutorial)
+https://youtu.be/iD1_JczQcFY
+
+How to modify the Game Object Transform Pivot (Unity Tutorial)
+https://youtu.be/NsUJDqEY8tE
+
+Live Chat Game Test - Join the Game and Gather Gold!
+https://youtu.be/aCk1eA5XKEA
+
+Live Chat Game Test, Sekiro Posture System and a Game Design Document! (Unity Tutorials March 2019)
+https://youtu.be/sPNaMgrtTCw
+
+Make Money Game Dev, Speedometer, Apex Legends Systems! (February 2019 Summary)
+https://youtu.be/RdSL2rlDb_0
+
+Making Snake in Unity Game Over Window (Unity Tutorial for Beginners)
+https://youtu.be/YVcd23VTMhE
+
+Making Snake in Unity Main Menu (Unity Tutorial for Beginners)
+https://youtu.be/63cnxRWYHqg
+
+Making Snake in Unity Sound + Highscore (Unity Tutorial for Beginners)
+https://youtu.be/ctCa1rH3CIc
+
+Modular Spritesheets used in Battle Royale Tycoon [SUMMARY]
+https://youtu.be/ZRRc7J-OwGo
+
+Quick Tip Console Log Line Amount (Unity Tutorial)
+https://youtu.be/LRw1ujZvznA
+
+Quick Tip Multiple Ways to Create Game Objects (Unity Tutorial)
+https://youtu.be/eSg8VyfiJWI
+
+Quick Tip Use Enums for State handling (Unity Tutorial)
+https://youtu.be/-PT-LADWymI
+
+Scene Manager in Unity (Unity Tutorial)
+https://youtu.be/3I5d2rUJ0pE
+
+Sekiro's Vitality Posture System built in Unity (Unity Tutorial)
+https://youtu.be/nliDeB_OQP4
+
+Should you make a Game Design Document
+https://youtu.be/1_DBsrJGiVY
+
+Simple Jump in Unity 2D (Unity Tutorial for Beginners)
+https://youtu.be/ptvK4Fp5vRY
+
+Simple Sound Manager (Unity Tutorial)
+https://youtu.be/QL29aTa7J5Q
+
+Trigger an Action after some Time (Unity Tutorial)
+https://youtu.be/1hsppNzx7_0
+
+Two Inspectors at once in Unity (Quick Unity Tip)
+https://youtu.be/GtyvxKCVPfQ
+Videos 401-425

@@ -1,0 +1,76 @@
+
+009 Coding Securely in PHP
+https://youtu.be/c3xbErpHBK0
+
+010 ReactJS and the Flux architecture
+https://youtu.be/xKlBivF4f44
+
+011 Accessibility On The Web
+https://youtu.be/XnwjPeUxno0
+
+012 A Sunshine PHP Special
+https://youtu.be/6XtOtFU7bY4
+
+013 Test-Driven Development And Behavior-Driven Development in PHP
+https://youtu.be/5kMSNIMmyR8
+
+014 A Midwest PHP Special
+https://youtu.be/gIlAU3g1c0Y
+
+015 SemVer, Licensing & OS Support Expectations
+https://youtu.be/HxcIv5lEK5c
+
+016 Contributing To PHP 7
+https://youtu.be/vI7r0AkVY0g
+
+017 Modernizing Legacy Codebases
+https://youtu.be/DsbEVMqia1A
+
+018 F8 Afterglow & The PHP SDK
+https://youtu.be/pD0XKftPjdA
+
+019 The Business of PHP
+https://youtu.be/RCa3nZ6e7Gw
+
+020 A Loosely Coupled Mashup @ php[tek]
+https://youtu.be/X7Hy38W1s7c
+
+021 From Idea To Production Part 1
+https://youtu.be/xKWurQ296FY
+
+022 All About PSR-7
+https://youtu.be/ZU5MZijl1ao
+
+023 PHP's Major Bus Factor Problem
+https://youtu.be/5qI6vi3kmS4
+
+024 Becoming A PHP Entrepreneur
+https://youtu.be/TYjRywSKCXs
+
+025 PHP7 Release Management
+https://youtu.be/_qq4LQYzkj8
+
+026 Documentation & Developer Experience
+https://youtu.be/wNGmtk_e87c
+
+027 A Laracon US Special
+https://youtu.be/k9VLVdjow4o
+
+028 The Alcoholic & Unfit PHP Culture
+https://youtu.be/MyKIpiPgj0c
+
+029 The Only Girl In The Room
+https://youtu.be/Ek-oUILCZCk
+
+030 SOA and Microservices
+https://youtu.be/a2AGGud099I
+
+031 Checking in with PHP & HHVM internals
+https://youtu.be/zQXFVMTbwyE
+
+032 Running A Rockin' PHP User Group
+https://youtu.be/BRrhHnmhrAA
+
+033 Design Patternmania
+https://youtu.be/rwXDnKokiks
+Videos 51-75

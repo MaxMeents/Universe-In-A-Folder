@@ -1,0 +1,76 @@
+
+3 Ways of Creating Hashes in Ruby
+https://youtu.be/eVJaWNj3YbY
+
+Binary Search & Linear Search Algorithms With Ruby
+https://youtu.be/7RPr83FYEkE
+
+Code Review, Ruby Gems & Fun!
+https://youtu.be/fyTS8tY6I-I
+
+Happy Holidays With RubyGuides! )
+https://youtu.be/VIGeFMILpfc
+
+How Deleting Code Can Improve Your Code Quality
+https://youtu.be/qnfnyrNjuQA
+
+How to Convert String to Numbers & Numbers to String in Ruby
+https://youtu.be/RQgaTG5Zgd8
+
+How to Create Beautiful Charts For Your Rails Application
+https://youtu.be/Xelz7vWktog
+
+How to Implement Pagination in Ruby on Rails (Without Gems)
+https://youtu.be/ickfSasKfts
+
+How to Make Your Rails Project Look More Professional With Bootstrap
+https://youtu.be/moBfdFkxqJo
+
+How to Print Matrix-Style Text Using Ruby!
+https://youtu.be/PBHkTNlxUrA
+
+How to Use Active Record An Introduction For Beginner Rails Developers
+https://youtu.be/-zQdVV7D4w8
+
+How to Use Rails Spring Preloader Correctly (With Examples)
+https://youtu.be/s0cCkDGVN50
+
+How to Write Better Code by Using The Best Ruby Method
+https://youtu.be/Pz5-RJvh_bg
+
+Image Uploads With Rails & Active Storage (Step-by-Step Guide)
+https://youtu.be/V4qIyADwhyA
+
+Introduction to Code Katas in Ruby & How to Solve Them
+https://youtu.be/GaqPhHpeXz8
+
+Let's Make Stuff With Ruby - NASA API - Fun!
+https://youtu.be/TiK38NdVyeU
+
+Ruby Gem Review & Guide OS (Get Operating System Info)
+https://youtu.be/CeqrvO34Fkw
+
+Ruby Interview Challenge Binary Counting & Longest Sequence
+https://youtu.be/IBJFjyAuDD8
+
+Ruby, Web Development & Fun!
+https://youtu.be/BWzrqA9r-Ls
+
+Selection Sort Algorithm in Ruby
+https://youtu.be/efzLD0A3gmo
+
+Talking & Programming Ruby! Ask Your Ruby Questions Here.
+https://youtu.be/1ztOGkA1Q4Q
+
+Understanding Rails Forms
+https://youtu.be/28wOvW5x7HY
+
+Understanding Rails Params & How to Use Them
+https://youtu.be/01xF2U2oA2M
+
+Understanding Ruby Percent Syntax (%w, %q, %x)
+https://youtu.be/lgXSLVqg-Ds
+
+What Are Permutations in Ruby & How to Find Them
+https://youtu.be/l8tcAc-66Hw
+Videos 26-50

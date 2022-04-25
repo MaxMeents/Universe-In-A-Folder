@@ -1,0 +1,49 @@
+
+5 Hibernate Features You Should Use With Spring Data JPA
+https://youtu.be/9xKHZIEErIE&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Criteria API Migrate from Hibernate to JPA
+https://youtu.be/NDPFZ09BjiI&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Fetching A DTO Projection with a To Many Association
+https://youtu.be/5oTH_Slettc&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate & Testcontainers A Perfect Match For Your Tests
+https://youtu.be/y-lt5JdPjDw&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate How to Generate Values of Basic Entity Attributes
+https://youtu.be/gkh1oojif60&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Proxies – Why they’re used and How to Unproxy them
+https://youtu.be/rADkGuDZkU4&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Read-Only Query Hint For Faster Read Operations
+https://youtu.be/-SZKWIwYtAc&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate’s Query Plan Cache How It Works and How to Tune It
+https://youtu.be/QIBii_E42CY&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+JPA & Hibernate - Why, When & How to use DTO Projections
+https://youtu.be/_WjUiYQdbm0&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+JPA How & When to use getReference() Method
+https://youtu.be/O87L2lWT02w&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Panache Repository Pattern
+https://youtu.be/zCg9Vl4M_G4&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Private video
+https://youtu.be/vEYaE_sYK4E&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Quarkus & Hibernate – Getting Started Guide
+https://youtu.be/hPikIWn71Lk&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+QueryDSL  How to use QueryDSL with Hibernate
+https://youtu.be/IQBhvQcnV5I&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Result Set Mapping Complex Mappings
+https://youtu.be/kWqdfFs87bY&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+The Best Mapping for Shared Technical Attributes With Hibernate
+https://youtu.be/f5CHTPCsBVM&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+Videos 76-91

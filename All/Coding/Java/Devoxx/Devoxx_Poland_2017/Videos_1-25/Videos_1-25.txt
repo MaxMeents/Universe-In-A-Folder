@@ -1,0 +1,76 @@
+
+Angular vs. React Framework Smackdown by Nate Schutta
+https://youtu.be/UVbp2KTD_PE&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Betting on performance a note on hypothesis-driven performance testing by James Lewis
+https://youtu.be/2V0n4a5lGV4&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Brainstorming your way from a Monolith to a Clean Architecture by Victor Rentea
+https://youtu.be/4-4ahz7zDiQ&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Build To Last From Frontend To Backend #slideless #talk by Adam Bien
+https://youtu.be/5VFOYM6DlJc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Consumer Driven Contracts and Your Microservice Architecture by Marcin Grzejszczak and Josh Long
+https://youtu.be/IiK9A9nQ6NU&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Do it yourself - How to create a successful Uber type ride sharing company in 30 days! by Andy Tryba
+https://youtu.be/tAiPZuw98Ls&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Docker Container Orchestration Platforms on Amazon by Arun Gupta
+https://youtu.be/D_TW4TJtu1I&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Event Sourcing and CQRS with Spring Stream by Jakub Pilimon
+https://youtu.be/eqPMmotEfsA&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Feature Branches And Toggles In A Post-GitHub World by Sam Newman
+https://youtu.be/dvqvhC8N05c&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+From Tic Tac Toe to AlphaGo Playing games with AI and machine learning by Roy van Rijn
+https://youtu.be/M5rV0EZuNgo&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Git Anti-Patterns How Mess Up With Git And Love It Again by Lemi Orhan Ergin
+https://youtu.be/m3ITI7tT_Qo&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+How to CARE about software project in 4 simple words by Aga Żaboklicka
+https://youtu.be/ZLeumsZxQ6Q&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Java 8 anti-patterns by Sergey Morenets
+https://youtu.be/ohu8dJu8KKw&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Java EE 8 - What's coming by David Delabassee
+https://youtu.be/NMYWsxb9BXU&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Java Performance Puzzlers by Douglas Hawkins
+https://youtu.be/fN3MtD-lNHc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+JVM Mechanics by Douglas Hawkins
+https://youtu.be/htwv78eb4TU&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Knot.x - Reactive web integration platform by Maciej Laskowski and Tomasz Michalak
+https://youtu.be/vBGbiVpWm3U&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Migrating to Microservice Databases From Relational Monolith to Distributed Data by Edson Yanaga
+https://youtu.be/o_ZzdVMUo2o&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+On @annotations - liberate yourselves from demons by Jarek Ratajski
+https://youtu.be/kkWvF1ec23c&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Practical Kotlin - let’s forget about Java 9 for a moment by Artur Czopek
+https://youtu.be/-SIUGvpY2JY&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Rethinking Microservices with Stateful Streams by Ben Stopford
+https://youtu.be/hqt9QIhwAW8&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Serverless Not so FaaS!The JVM and Docker, a good idea by Matt Stine
+https://youtu.be/E5dk9Xdhw7E&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Ship every change to production! How it’s done in Mockito and Shipkit... by Wojtek Wilk
+https://youtu.be/E2Ww9pT84Bc&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+The Future of Event-driven Microservices with Spring Cloud Stream by Kenny Bastani
+https://youtu.be/M9i8ORKqXQI&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+
+Think Async in Java 8 by Dmitry Aleksandrov
+https://youtu.be/4UJddZ87rDw&list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH
+Videos 1-25

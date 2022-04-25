@@ -1,0 +1,76 @@
+
+A simple way to decouple Models & Views in iOS apps
+https://youtu.be/XUc_4G0Vuc8
+
+Avoiding iOS runtime issues with SOLID Swift interfaces
+https://youtu.be/MAaTjIDdilw
+
+Creating content as an iOS dev The path to better opportunities  iOS Lead Essentials Podcast #017
+https://youtu.be/TWWXs8ofM_Y
+
+Engaging with like-minded iOS devs instead of chasing likes
+https://youtu.be/XkGoQU49dZo
+
+How can I design a clean iOS architecture
+https://youtu.be/erhNR9W6M1k
+
+How can I evaluate my iOS app architecture
+https://youtu.be/V3KZ4wbG614
+
+How MVCMVVMMVP fit in a clean iOS architecture
+https://youtu.be/NCNAkq8UpIg
+
+How to improve and promote your iOS skills at the same time
+https://youtu.be/qW60-zTA33I
+
+How to refactor a legacy app into a clean iOS architecture
+https://youtu.be/wGpsH40seGQ
+
+It's hard to share my iOS experience in English
+https://youtu.be/0YLdDBkx3Gc
+
+Max lines of code recommended for Swift classes in iOS apps
+https://youtu.be/Ty9I_e7yb3A
+
+Promoting your iOS dev skills when you don't have a lot of free time
+https://youtu.be/pbfDLQvEP3E
+
+S02E11 Cleaning up Swift code backed by tests  Professional iOS Engineering Series
+https://youtu.be/-sfpxScNPNI
+
+S02E12 Test-driving a standalone scoring function in Swift  Professional iOS Engineering Series
+https://youtu.be/vegzOYl9_IY
+
+S02E13 Calculating score with zip, reduce & generics in Swift  Professional iOS Engineering Series
+https://youtu.be/-3EeFuTfvvk
+
+S02E14 Changing struct initializers without breaking clients  Professional iOS Engineering Series
+https://youtu.be/11z2Lo4LXEY
+
+S02E15 Migrating the Quiz ResultsPresenter guided by tests  Professional iOS Engineering Series
+https://youtu.be/hWlBFTsGKXI
+
+S02E16 Migrating the View Controller Factory guided by tests  Professional iOS Engineering Series
+https://youtu.be/3VSsp3iPoUQ
+
+Swift.fatalError() in iOS apps can violate this design principle
+https://youtu.be/OeLrfrnS020
+
+What is an iOS architect and how can I become one
+https://youtu.be/jxJmtRKyivQ
+
+Why a Swift classstructfunction should have one responsibility
+https://youtu.be/oHFZkgWtiws
+
+Why accomplished iOS devs keep creating content
+https://youtu.be/LLklNF3pTy8
+
+Why creating content leads to better iOS careers
+https://youtu.be/sUhxs3z7a50
+
+Why should I bother learning clean iOS architecture
+https://youtu.be/m8baUKh_hj8
+
+Why smaller Swift types will improve your iOS codebases
+https://youtu.be/evf0DyYd8ls
+Videos 251-275

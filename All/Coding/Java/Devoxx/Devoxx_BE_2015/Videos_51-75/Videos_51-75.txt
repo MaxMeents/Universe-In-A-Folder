@@ -1,0 +1,76 @@
+
+$HOME Sweet $HOME by Xavier Mertens
+https://youtu.be/wQfaKLD_JhM&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+5 reasons developers should pay attention to robotics by Nicolas Rigaud
+https://youtu.be/9vMpqag1yI0&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+7 Ways to Hack Your Brain to Write Fluently by Dan Allen
+https://youtu.be/r6RXRi5pBXg&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+A quick introduction to AWS Lambda by Oliver Geisser
+https://youtu.be/c9HgOwCziBU&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Asynchronous programming in Java 8 how to use CompletableFuture by José Paumard
+https://youtu.be/HdnHmbFg_hw&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Brace Yourselves, the REPL is Coming. by Roy van Rijn
+https://youtu.be/CN3tGi4eZZ4&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Distributed Load Testing with Kubernetes by Amanda Waite
+https://youtu.be/PyUOZC20lSI&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Dive into Spark Streaming by Gerard Maas
+https://youtu.be/mgvYg-0OXkU&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Docker Container Lifecycles – Problem or Opportunity by Baruch Sadogursky
+https://youtu.be/-ApAPoxxaaw&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Dockerize user stories with Mayfly by Maarten Dirkse
+https://youtu.be/cHU8yEV8FwQ&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Get Hip with JHipster Spring Boot + AngularJS + Bootstrap by Matt Raible
+https://youtu.be/baVOGuFIe9M&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+How you can play a part in evolving Java by Patrick Curran
+https://youtu.be/9VgcnQZRZvU&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+HTTP2 for the Web developer by Brian Clozel
+https://youtu.be/ssp1ve_A1to&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Java on mobile, finally by Johan Vos
+https://youtu.be/maF1oHZrcK0&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+JRuby 9000 by Charles Nutter
+https://youtu.be/1t4iu7tefi4&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Let's have 100 phones connected to a cinema multi-player game by Ernest Micklei
+https://youtu.be/uHJ0KxAM-KU&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Managing Docker containers in a cluster - introducing Kubernetes by Marc Sluiter
+https://youtu.be/2G-A6Knjrvo&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Reflection No Reflection by Stéphane Nicolas
+https://youtu.be/TJ3CgQOSE94&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Shooting the Rapids by Maurice NaftalinKirk Pepperdine
+https://youtu.be/cK20GhYd8UA&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Sigfox — A cellular network, just for Things by Nick De Cooman
+https://youtu.be/ABLDPYDtDYw&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+Smartwatch Landscape  by Sebastien ArbogastSaid Eloudrhiri
+https://youtu.be/qnOPUURhQCM&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+TCP UDP Que – Fundamentals that were abstracted away from us by Hadi Hariri
+https://youtu.be/cTKQAe4DN6g&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+The Java Council by Simon MapleMartijn VerburgMark ReinholdTrisha Gee
+https://youtu.be/Dqhgv_8eUbM&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+The Power of Open Source, Open Containers, and an Open Cloud by Philip EstesRalph Bateman
+https://youtu.be/3kGnRVmC9Q8&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+
+WebRTC Security is web-based peer-to-peer ready for primetime by Lieven Desmet
+https://youtu.be/YunkATJKLLs&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
+Videos 51-75

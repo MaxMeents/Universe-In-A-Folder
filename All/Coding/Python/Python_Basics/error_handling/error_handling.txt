@@ -1,0 +1,13 @@
+
+Python Basics Guessing Game pt  2
+https://youtu.be/QXAA5kNvvEo&list=PLaYT64KWZAEPrta-O5U7s-Zi5FYS_JcLy
+
+Python Basics Times Table
+https://youtu.be/I6_dnsCNDS8&list=PLaYT64KWZAEPrta-O5U7s-Zi5FYS_JcLy
+
+Python Basics Try and Except
+https://youtu.be/s7f4fs0Png8&list=PLaYT64KWZAEPrta-O5U7s-Zi5FYS_JcLy
+
+Python Basics Tutorial Deep Dive Into Handling Exceptions  Try Except
+https://youtu.be/DaitBD4R_qU&list=PLaYT64KWZAEPrta-O5U7s-Zi5FYS_JcLy
+error handling

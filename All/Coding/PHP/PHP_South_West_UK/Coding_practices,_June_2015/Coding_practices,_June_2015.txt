@@ -1,0 +1,10 @@
+
+Embracing Change - Jakub Zalas - PHPSW Coding Practices, June 2015
+https://youtu.be/9cjlaeoRW3g&list=PLrEpsyNSHj03mQhHx4f0_E32g2B0x9CFL
+
+Extremely Defensive PHP - Marco Pivetta - PHPSW Coding Practices, June 2015
+https://youtu.be/8d2AtAGJPno&list=PLrEpsyNSHj03mQhHx4f0_E32g2B0x9CFL
+
+Go Mad for Monads - Warren Seymour - PHPSW Coding Practices, June 2015
+https://youtu.be/F5fUgXFSH0Q&list=PLrEpsyNSHj03mQhHx4f0_E32g2B0x9CFL
+Coding practices, June 2015

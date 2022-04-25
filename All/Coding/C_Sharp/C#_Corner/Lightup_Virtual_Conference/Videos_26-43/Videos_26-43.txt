@@ -1,0 +1,55 @@
+
+A new future with AI tools by Rahat Yasir   Lightup Conference
+https://youtu.be/WKGTcpUKghM&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+An Introduction to Terraform, Infrastructure as Code by John Martin   Lightup Conference
+https://youtu.be/7XtVOlk-AdQ&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Azure BOT Service by Shweta Lodha   Lightup Conference
+https://youtu.be/hQfdMEZMEjo&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Azure SQL Database – The Database of Choice by Sanjay Mishra  Lightup Conference
+https://youtu.be/YnHr5zpW--s&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Azure SQL What to use when by Anna Hoffman  Lightup Conference
+https://youtu.be/bu_Ktfu5Kr8&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Build Apps that Don't Get Hacked by Chris Gali  Lightup Conference
+https://youtu.be/MQQLEVzqa_Q&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Developing with Kinect for Azure - Understanding the human body by Andreas Erben
+https://youtu.be/BwSvYnrVzhw&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Explore .Net core Microservices with Azure Services by Menaka Baskerpillai
+https://youtu.be/RoS402DXylg&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Help! I cannot find out where is the bug by Jose Manuel Jurado Diaz  Lightup Conference
+https://youtu.be/lCGuDzui2C0&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Introduction to Xamarin Forms Shell by Chris Miller  Lightup Conference
+https://youtu.be/gsMt3FlkRx4&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Microsoft Teams in Education by Marcin Siewnicki  Lightup Conference
+https://youtu.be/ZvbkZD-9Qi4&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Navigating and Customizing the SharePoint Interface by Sarah Patrick   Lightup Conference
+https://youtu.be/oatfB3VkYoQ&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Power of Business Insight in a Digital Transformed World using Microsoft Planner as project collabor
+https://youtu.be/-bP4ELDQx_k&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Run the world from the palm of your hand by Jared Rhodes  Lightup Conference
+https://youtu.be/csj4YpObg6c&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+SQL Containers in Microsoft Azure by Carlos Robles    Lightup Conference
+https://youtu.be/Erh87lPKC9s&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Streamline Database Deployments by lizabeth Noble  Lightup Conference
+https://youtu.be/1txZnlVRHik&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+The Internals of the External Sqlpackage Tool - Inside a Bacpac File by Ronen  Lightup Conference
+https://youtu.be/N0BC68j0Ex0&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+
+Working with time intelligence DAX functions by Parv Chana  Lightup Conference
+https://youtu.be/11X4G-AtKrw&list=PLEy5IbO-F1-n5-Avcz7AiH6--Uo7AGGJV
+Videos 26-43

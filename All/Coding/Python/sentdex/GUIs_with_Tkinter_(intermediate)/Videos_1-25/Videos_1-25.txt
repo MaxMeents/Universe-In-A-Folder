@@ -1,0 +1,76 @@
+
+Adding a tutorial option - Tkinter tutorial Python 3.4 part 19
+https://youtu.be/-bTuXf1xM_8&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Adding indicator menu - Tkinter tutorial Python 3.4 part 15
+https://youtu.be/7VsyZLl5DRg&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Adding Indicators cont'd - Tkinter tutorial Python 3.4 part 16
+https://youtu.be/H37G-83ZREg&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Adding indicators cont'd - Tkinter tutorial Python 3.4 part 17
+https://youtu.be/jMIjv9OFNMs&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Adding other exchanges p.2 - Tkinter tutorial Python 3.4 part 21
+https://youtu.be/k_qoth-0L48&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Adding other Exchanges p.3- Tkinter tutorial Python 3.4 part 22
+https://youtu.be/BiMI8FsU3Ds&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Creating our GUI Main Menu - Tkinter tutorial Python 3.4 part 11
+https://youtu.be/sBZ8C-RAIKg&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Customizing embedded graph - Tkinter GUI development series p. 10
+https://youtu.be/kfMSN7JEtAA&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Exchange choice change - Tkinter tutorial Python 3.4 part 20
+https://youtu.be/0hrrycamKPM&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Exchange choice option - Tkinter tutorial Python 3.4 part 13
+https://youtu.be/yO6BIchm3F4&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Functions with Parameters with Tkinter GUI buttons - Tkinter tutorial Python 3.4 p. 3
+https://youtu.be/Y6cir7P3YUk&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+How to add a Matplotlib Graph to Tkinter Window in Python 3 - Tkinter tutorial Python 3.4 p. 6
+https://youtu.be/Zw6M-BnAPP0&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Indicator Support - Tkinter tutorial Python 3.4 part 23
+https://youtu.be/0NBLXOwVYbA&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Live Matplotlib Graph in Tkinter Window in Python 3 - Tkinter tutorial Python 3.4 p. 7
+https://youtu.be/JQ7QP5rPvjU&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Multiple WindowsFrames in Tkinter GUI with Python - Tkinter tutorial Python 3.4  p. 4
+https://youtu.be/jBUpjijYtCk&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Object Oriented Programming Crash course with Python 3 - Tkinter tutorial Python 3.4  p. 2
+https://youtu.be/A0gaXfM1UN0&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Organizing our GUI window - Tkinter tutorial Python 3.4 p. 8
+https://youtu.be/eJRLftYo9A0&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Plotting live bitcoin price data - Tkinter GUI development series p. 9
+https://youtu.be/uK7wAvS8C0U&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Pop-up message window - Tkinter tutorial Python 3.4 part 12
+https://youtu.be/TQJRM8hIbXA&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Pulling from Sea of BTC API - Tkinter tutorial Python 3.4 part 24
+https://youtu.be/LrhDIqxI9yM&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Setting up sub plots - Tkinter tutorial Python 3.4 part 25
+https://youtu.be/5wbx_KMTgT8&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Styling GUIs and windows in Python 3 - Tkinter tutorial Python 3.4 p. 5
+https://youtu.be/oV68QJJUXTU&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Timeframe and sample size option - Tkinter tutorial Python 3.4 part 14
+https://youtu.be/ydE1mMYBx64&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Tkinter tutorial Python 3.4, creating a full scale Program GUI part 1
+https://youtu.be/HjNHATw6XgY&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+
+Trading option, startstop, and help - Tkinter tutorial Python 3.4 part 18
+https://youtu.be/yc4uMCV3_es&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk
+Videos 1-25

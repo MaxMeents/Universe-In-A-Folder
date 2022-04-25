@@ -1,0 +1,55 @@
+
+Creating a database, table, and inserting - SQLite3 with Python 3 part 1
+https://youtu.be/o-vsdfCBpsU&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Exec - Python programming tutorial
+https://youtu.be/ILPtmMAv7RM&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Graph from database table example - SQLite3 with Python 3 part 4
+https://youtu.be/pq4nwICEB4U&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Inserting variables to database table - SQLite3 with Python 3 part 2
+https://youtu.be/qfGu0fBfNBs&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 2to3 - Convert your Python 2 to Python 3 automatically!
+https://youtu.be/8qxKYnAsNuU&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - ftplib FTP transfers Python
+https://youtu.be/QVyAeM12wVY&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Matplotlib legends
+https://youtu.be/X4_LraGY_VQ&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Matplotlib plotting from a CSV
+https://youtu.be/MNLmQJtCCZY&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Scatter plots and bar charts
+https://youtu.be/MAMu8wawNo8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Sockets Binding and listening
+https://youtu.be/Q1a12QFq3os&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Sockets client server system
+https://youtu.be/WrtebUkUssc&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Sockets intro
+https://youtu.be/wzrGwor2veQ&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Sockets simple port scanner
+https://youtu.be/szm3camsf8k&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python 3 Programming Tutorial - Threaded port scanner
+https://youtu.be/icE6PR19C0Y&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python Eval programming tutorial
+https://youtu.be/1NJpqi5pqoU&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Python Pickle Module for saving objects (serialization)
+https://youtu.be/2Tw39kZIbhs&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+Read from (SELECT) Database table - SQLite3 with Python 3 part 3
+https://youtu.be/NCc5r7Wr7gg&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+UPDATE and DELETE - SQLite3 with Python 3 part 5
+https://youtu.be/AtBZC9F-MjI&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+Videos 51-68

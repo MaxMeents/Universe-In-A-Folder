@@ -1,0 +1,76 @@
+
+[JSConfEU 2009] Alexandre Morgaut Wakanda
+https://youtu.be/DqW4b5B4k1I
+
+[JSConfEU 2009] Alois Reitbauer Tracing JS Performance
+https://youtu.be/0mm1jCjv8Fw
+
+[JSConfEU 2009] Douglas Crockford The State and Future of JavaScript
+https://youtu.be/JUKPcWzsPpo
+
+[JSConfEU 2009] Francisco Tolmasky Building Desktop-Caliber Web Apps
+https://youtu.be/PAAj50R3duc
+
+[JSConfEU 2009] Julian Viereck & Dion Almaer Bespin
+https://youtu.be/EWjGTwCKUDo
+
+[JSConfEU 2009] Remy Sharp HTML5 JavaScript APIs
+https://youtu.be/Ry_wrXHJFnI
+
+[JSConfEU 2009] Robert Nyman JavaScript - From Birth to Closure
+https://youtu.be/0Dc-KENiyhE
+
+[JSConfEU 2009] Steve Souders JavaScript in Browser Performance
+https://youtu.be/FR8RwsM2Sq0
+
+[JSConfEU 2010] Fabian Jakobs Kick ass code editing and end to end JavaScript debugging
+https://youtu.be/hN_7tAKh0dM
+
+[JSConfEU 2010] Guillermo Rauch Socket.IO - WebSockets for everyone
+https://youtu.be/rEk_eIpBuEY
+
+[JSConfEU 2010] Jed Schmidt Getting Functional with (fab)
+https://youtu.be/ViQ8kiLtDXc
+
+[JSConfEU 2010] Jens Arps The hitchhiker's guide to client side persistent data storage
+https://youtu.be/tOz1s07zie4
+
+[JSConfEU 2010] John-David Dalton Srsly R1pp3d J@vaScript
+https://youtu.be/kuF4TRw6gcw
+
+[JSConfEU 2010] Kevin Dangoor, Joe Walker, Patrick Walton Bespin
+https://youtu.be/_a4gkE1IQJw
+
+[JSConfEU 2010] Nicolas Garcia Belmonte Creating Interactive Data Visualizations for the Web
+https://youtu.be/lJ549fRcDZ4
+
+[JSConfEU 2010] Nicole Sullivan CSS Lint for Massive Sites
+https://youtu.be/fampLn_i7Co
+
+[JSConfEU 2010] Nikolai Onken & Jörn Zaefferer Robotic JavaScript
+https://youtu.be/cZ7JjaN9uBk
+
+[JSConfEU 2010] Paul Bakaus Aves Engine High performance browser games
+https://youtu.be/UuKoSYVKCIA
+
+[JSConfEU 2010] Paul Irish The State of HTML5 - Inaugural Address
+https://youtu.be/U1gkXAxo-DI
+
+[JSConfEU 2010] Ryan Dahl Techniques for a single stack world
+https://youtu.be/Yb9rnP2MhYc
+
+[JSConfEU 2010] Sebastian Deutsch & Stephan Seidt If it moves they will watch it
+https://youtu.be/WbhmuJ-EdFo
+
+[JSConfEU 2010] Sebastian Werner Introducing Unify - A Framework for Cross Platform Applications
+https://youtu.be/_opRKu67qsc
+
+[JSConfEU 2010] Tim Caswell Techniques and Tools for Taming Tangled Twisted Trains of Thought
+https://youtu.be/yhCA14HB4Tk
+
+[JSConfEU 2010] Tom Hughes-Croucher Don't write spaghetti code in server side JavaScript
+https://youtu.be/VqHkzbHEUd0
+
+[JSConfEU 2010] Ulrike Mueller Server-side JavaScript the untold story
+https://youtu.be/jk3Gs5CsiT0
+Videos 1426-1450

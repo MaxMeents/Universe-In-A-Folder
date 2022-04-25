@@ -1,0 +1,22 @@
+
+Color Morphing Easing Healthbar - GMS2 - BEGINNER - Pt. 1 of Advanced Health Systems Tutorials
+https://youtu.be/5pMOwOBxQp8
+
+ConditionalTernary Operators and Why You Should Use Them - GMS2 Tutorial
+https://youtu.be/F3yC2rxPTfc
+
+GMS 2.3 Tutorial - RewindUndo Player Action with Constructs
+https://youtu.be/FgJcYiLmKr0
+
+Kingdom Hearts Style Boss Healthbar - GMS2 - ADVANCED - Pt. 4 of Advanced Health Systems Tutorials
+https://youtu.be/cQ6giJV49PM
+
+Simple Turn Based Combat - GMS2 Tutorial
+https://youtu.be/usU9q1bJECo
+
+Sprite Healthbar with Alternating Colors - GMS2 - EASY- Pt. 2 of Advanced Health Systems Tutorials
+https://youtu.be/IUArF7YHZeg
+
+Zelda-like Quarter-Heart System -- GMS2 - INTERMEDIATE - Pt. 3 of Advanced Health Systems Tutorials
+https://youtu.be/L0PLr5k2tbE
+Videos 1-7

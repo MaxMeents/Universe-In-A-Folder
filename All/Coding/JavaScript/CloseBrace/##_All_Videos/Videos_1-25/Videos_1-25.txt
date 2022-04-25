@@ -1,0 +1,76 @@
+
+JS Quick Hits 100 - Strict Mode Part 2
+https://youtu.be/Wr38CwAIqA0
+
+JS Quick Hits 101 - Array.prototype.flat
+https://youtu.be/QiQvjapnDaw
+
+JS Quick Hits 102 - Variable Hoisting
+https://youtu.be/1PM-w68IbYM
+
+JS Quick Hits 103 - Applying Lessons
+https://youtu.be/TslRAbVzUwc
+
+JS Quick Hits 104 - Errors vs. Exceptions
+https://youtu.be/M7WCzkXz67U
+
+JS Quick Hits 105 - Viewer Survey!
+https://youtu.be/7hSIN4a4DV0
+
+JS Quick Hits 106 - How to Remove Elements from an Array
+https://youtu.be/0YgtBcsgkEc
+
+JS Quick Hits 107 - Math Methods
+https://youtu.be/9X1CVUgmpLU
+
+JS Quick Hits 108 - How to Find an Element In an Array
+https://youtu.be/pp9_Xmd96oc
+
+JS Quick Hits 109 - Finding Objects in an Array
+https://youtu.be/Dyk7evtbNUQ
+
+JS Quick Hits 110 - Matching Objects
+https://youtu.be/RlKB7ZImaiA
+
+JS Quick Hits 111 - Object Iterators
+https://youtu.be/yL3XP0--ZTM
+
+JS Quick Hits 112 - Creating Elements
+https://youtu.be/lv945qGRDrI
+
+JS Quick Hits 113 - Building a Tree With Recursion
+https://youtu.be/rWOmbXqDP08
+
+JS Quick Hits 114 - JavaScript Testing Part 1
+https://youtu.be/PjEjrf5ciyw
+
+JS Quick Hits 115 - JavaScript Testing Part 2
+https://youtu.be/RqMI2n6dBfA
+
+JS Quick Hits 91 - TypeScript Part 3
+https://youtu.be/oHVu6FchZ3w
+
+JS Quick Hits 92 - TypeScript Part 4
+https://youtu.be/XaXWBISW2Lg
+
+JS Quick Hits 93 - TypeScript Part 5 (Wrapup)
+https://youtu.be/cpfiMrxR0rE
+
+JS Quick Hits 94 - function.apply and function.call
+https://youtu.be/BYubpRkWhtk
+
+JS Quick Hits 95 - Call and Apply Part 2
+https://youtu.be/FR-U2XniyAM
+
+JS Quick Hits 96 - Maps vs. Objects
+https://youtu.be/XOIKgqK0JDg
+
+JS Quick Hits 97 - JavaScript Sets
+https://youtu.be/fmCVh3nxzaE
+
+JS Quick Hits 98 - Weakmap and Weakset
+https://youtu.be/yxKgh02b8eI
+
+JS Quick Hits 99 - Strict Mode Part 1
+https://youtu.be/Y0owZB7UYpE
+Videos 1-25

@@ -1,0 +1,28 @@
+
+Construct 3 (#0) Introduction of Snake Game Tutorial  HTML5 Game Tutorial
+https://youtu.be/z0qf8d0RHK8&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#1) Creating a Grid Using For Loops  HTML5 Game Tutorial
+https://youtu.be/ZCgC5bxv-yw&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#2) Putting the Grid in the Middle of the Screen  HTML5 Game Tutorial
+https://youtu.be/doL_cc1fjG0&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#3) Creating the Snake's Head & Moving it  HTML5 Game Tutorial
+https://youtu.be/PvGctkQh5Gc&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#4) Moving the Snake Parts  HTML5 Game Tutorial
+https://youtu.be/rJ75IF9BAiM&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#5) Wrapping the Play Area  HTML5 Game Tutorial
+https://youtu.be/QGjzmdN4rLk&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#6) Creating Foods  HTML5 Game Tutorial
+https://youtu.be/LC7icOgurSs&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#7) Implementing Score System  HTML5 Game Tutorial
+https://youtu.be/p2p104Q6IBY&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+
+Construct 3 (#8) Adding Game Over  HTML5 Game Tutorial
+https://youtu.be/eHIH0F8rylw&list=PLxVrDQQa42ORUuicwJzsSZltCh4huaYQR
+Construct 3 Classic Snake Tutorial  HTML5 Game

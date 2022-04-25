@@ -1,0 +1,76 @@
+
+15 Years of Spring in 15 Minutes by Juergen Hoeller
+https://youtu.be/bifohFDhJBk
+
+An instruction set for the web by Alex Rickabaugh
+https://youtu.be/lg7l8quJuS4
+
+Architecting with blockchain for dummies by Pim Otte
+https://youtu.be/yELzwKttdKY
+
+AutoML + ML APIs = machine learning for all developers by Laurent Picard
+https://youtu.be/qc-990lp6D4
+
+Boost your teamwork with Randoris by Philippe Bourgau
+https://youtu.be/CDvZSk0dXbg
+
+Developers, you should stop estimating your tasks! #noEstimates by Julien Topçu
+https://youtu.be/Ub2qhENLU3w
+
+Diversity and Inclusion Beyond Women in Tech by Heather VanCura
+https://youtu.be/Ws99XlBzOqA
+
+Embrace the Anarchy  Apache Kafka’s Role in Modern Data Architectures by Robin Moffatt
+https://youtu.be/bapHWhtf6fE
+
+Evil Inspiration for Kotlin by Simon Schell
+https://youtu.be/UKEYx81VQQ8
+
+From Java EE to Jakarta EE   by Dmitry Kornilov
+https://youtu.be/z-lcl8n0ZF4
+
+Go - one language you should try by Andrzej Grzesik
+https://youtu.be/eMsntC38j_c
+
+Into the unknown The power of admitting we don't know  yet by Nathan Murados
+https://youtu.be/gsfz4p4ddAw
+
+Keeping your head cool with a serverless voice controlled fan by Paco van Beckhoven
+https://youtu.be/BBQaRU4kn8w
+
+Monolith 2 MicroServices   Houston we've got a problem ! by Mike Francois
+https://youtu.be/pZmeRLQdjDU
+
+Optimising Kubernetes deployments with Helm by Erwin de Gier
+https://youtu.be/TXZBuBQpm-Q
+
+Panama A Foreign Policy for Java by Maurizio Cimadamore
+https://youtu.be/cfxBrYud9KM
+
+Pivotal and AxonIQ   Quickstart your Event Driven Architecture  by  Ben Wilcock, Steven van Beelen
+https://youtu.be/15hzHUI4WNA
+
+Production Profiling What, Why and How by RIchard Warburton, Sadiq Jaffer
+https://youtu.be/mtD8hI2jXkI
+
+Project Jigsaw and OSGI Microkernel architecture in the spotlight by Ana maria Mihalceanu
+https://youtu.be/-xCT95Q0aJs
+
+project versioning like a git by Matthieu Brouillard
+https://youtu.be/mQmH_Ws9GFI
+
+The dyslexic programmer, creativity did not kill the cat by  Pieter Van Der Meer
+https://youtu.be/K1tH6W8qylc
+
+The Internet of Drums by Piet van Dongen
+https://youtu.be/8HXrImzXiu4
+
+To JAR Hell And Back   A Live Migration to Java 11 by Nicolai Parlog
+https://youtu.be/xKmv24_2Asw
+
+Visualizing Mandelbrot fractals using Riff and Spring Cloud Function  by  Dieter Hubau
+https://youtu.be/nqPJWaL3ocQ
+
+Ways of improv ing work and life #DifferentKindOfTalk  by  Alexandros Zotos
+https://youtu.be/WPTB0xC2wZQ
+Videos 951-975

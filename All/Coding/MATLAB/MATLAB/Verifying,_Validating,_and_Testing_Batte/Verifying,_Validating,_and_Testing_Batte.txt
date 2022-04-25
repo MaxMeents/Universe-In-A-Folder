@@ -1,0 +1,28 @@
+
+Hardware-in-the-Loop Simulation for Battery Management Systems
+https://youtu.be/mDAvo6bDp4s&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 1 Introduction to Testing Battery Management System (BMS) Software
+https://youtu.be/VcceRI7HObc&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 2 Managing Requirements for Battery Management Systems (BMS) in Simulink
+https://youtu.be/gzMLrOd_gkM&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 3 Unit Testing for Battery Management System (BMS) Software in Simulink
+https://youtu.be/7oyCleffruc&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 4 Managing Battery Management System (BMS) Tests in Simulink
+https://youtu.be/s8HTZHxwPhc&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 5 Measuring and Improving Battery Management System (BMS) Test Coverage
+https://youtu.be/UERwru_mtEw&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 6 Generating Code for a Battery Management System (BMS)
+https://youtu.be/6FV-0bH7yDk&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 7 Testing Generated Code for a Battery Management System (BMS)
+https://youtu.be/zbxa8Nmudio&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+
+Part 8 Closed-Loop Testing of a Battery Management System (BMS)
+https://youtu.be/qcAI1Yot2UM&list=PLn8PRpmsu08r-YVmXLND7VNpN1sv-XXbk
+Verifying, Validating, and Testing Battery Management Systems

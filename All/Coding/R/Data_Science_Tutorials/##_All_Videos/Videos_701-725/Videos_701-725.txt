@@ -1,0 +1,76 @@
+
+Introduction of Matplotlib Python Data Visualization Library  Creating first chart in matplotlib
+https://youtu.be/seHN6VbdACs
+
+Pandas Python Tutorial 17  How to Create Dummy Variable  Creating Dummy Variables in Pandas Python
+https://youtu.be/qk5M1n0-NrE
+
+Python Data Analysis  Visualization Matplotlib Tutorial  Configuring Matplotlib Plots  Pandas
+https://youtu.be/SsClWEhxA_U
+
+Python Data Visualization  How to Create Area or Stack Chart in Python using Matplotlib Library
+https://youtu.be/uANrX5dbcVQ
+
+Python Data Visualization  How to create Boxplot in Matplotlib  Box plot chart with Real Data
+https://youtu.be/RxvozehYAGs
+
+Python Data Visualization  How to Create Histogram in Python using Matplotlib Library
+https://youtu.be/WrIpRkF87rI
+
+Python Data Visualization  How to Create Scatter Plot in Python using Matplotlib library
+https://youtu.be/xuFvZdD5VMM
+
+Python Data Visualization  Matplotlib Data Visualization Issue in Practical Work
+https://youtu.be/4HRJqoONfJk
+
+Python Data Visualization  Reindexing to resolve data visualization issue
+https://youtu.be/pj7A9rPpUzk
+
+Python Data Visualization with Matplotlib  Creating Bar Chart and Adjusting its properties
+https://youtu.be/3-ZnGWUy7Bc
+
+Python Matplotlib Tutorial  Customize Matplotlib Plot Aesthetic by Adding Labels Legends and Limits
+https://youtu.be/UjRcLkIuxjk
+
+Python Matplotlib Tutorial  How to Create Interactive Matplotlib Charts
+https://youtu.be/u0tbuJGqxtY
+
+Python Matplotlib Tutorial  How to Remove Text that Comes Before the Matplotlib Inline Plot
+https://youtu.be/aXuN0X7hIW8
+
+Python numpy Tutorial  How to identify the size of an array  How to get count of array elements
+https://youtu.be/azt_40Yc3o4
+
+Python Numpy Tutorial  How to Select Single and Multidimensional Values from an Array
+https://youtu.be/bRNj6HuDjIw
+
+Python Numpy Tutorial  Introduction of numpy array  how to create numpy array from list and tuple
+https://youtu.be/Vgpl21g7-4c
+
+Python Numpy Tutorial  Using Linsapce Ones and Zeros numpy Function to Create Arrays
+https://youtu.be/dFo7SlVXDfw
+
+Python Pandas Tutoral 18  How to Manipulated Dates in Python  Python Pandas Date Properties
+https://youtu.be/cuZHkmi9Oyc
+
+Python Pandas Tutorial 15  How to Identify and Drop Null Values  Handling Missing Values in Python
+https://youtu.be/57vFbsiZYHg
+
+Python Pandas Tutorial 16  How to Fill Up NA Values  Various ways to fill missing values in python
+https://youtu.be/ktQOTU7hxCo
+
+Python Pandas Tutorial 19  How to Identify and Drop Duplicate Values  Removing duplicate values
+https://youtu.be/ix9iGffOA5U
+
+Python Pandas Tutorial 20  How to align two different series or DataFrames
+https://youtu.be/YglFZR04rDE
+
+Python Pandas Tutorial 21  How to Rank a DataFrame in Python  Ranking Data in Python
+https://youtu.be/SeFu3Noexzs
+
+Python Pandas Tutorial 22  How to Process Hierarchical Index
+https://youtu.be/pXpPsk90JwY
+
+Python Pandas Tutorial 31  Python Data Visualization  How to Create Scatter Matrix
+https://youtu.be/SNurMMcFVy8
+Videos 701-725

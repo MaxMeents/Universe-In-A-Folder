@@ -1,0 +1,76 @@
+
+Alexys Jacob - Create beautiful and localized documentations and websites using MkDocs + Github
+https://youtu.be/0pYN6Z-t1-s&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Anastasiia Tymoshchuk - Continuous Documentation for your code
+https://youtu.be/S9U2gfk88Hg&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Antonis Christofides - Why you always had trouble understanding metaclasses
+https://youtu.be/A2dOFAXLb1E&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Ben Nuttall - Innovation in the newsroom
+https://youtu.be/JfrqKOO0Yoc&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Chiin-Rui Tan, Sara Nunnington - How Scientific Computing is advancing the world of Football
+https://youtu.be/m1iYz1XYuQ8&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Christian Burger - Why You Should Consider Getting a Python Pet Project
+https://youtu.be/Jot0d7DNS7Y&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Dhanshree Arora - Federated Machine Learning with Python
+https://youtu.be/fkLgRhcyPSU&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Europython 2021 - Opening Session Conference
+https://youtu.be/3GvWh3XlJ-0&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Haki Benita - Taming Nondeterminism with Dependency Injection
+https://youtu.be/UC9p9UBwQMU&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Irina Grechikhina - Sentry as a way not to be afraid
+https://youtu.be/N8oPve29Gjk&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Joel Christiansen - Managing transient dependencies
+https://youtu.be/Tln0fgb8Rno&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Kracekumar  - Type Check your Django app
+https://youtu.be/LbaiQPPjZMY&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Marcin Wojnarski - Hypertag an Indented Language for easy HTML Generation & Web Templating
+https://youtu.be/KJIWIEEHcxA&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Markus Holtermann - An Introduction to Kubernetes
+https://youtu.be/ifZ7b7X54S4&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Mauro Pelucchi - Data Ingestion and Big Data
+https://youtu.be/r0zMHwgLLS0&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Miroslav Šedivý - Should We Return to Python 2
+https://youtu.be/bV_v81v7MMM&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Pablo Galindo Salgado - Nobody expects the Spanish inquisition
+https://youtu.be/DLn9J93--BY&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Paula Dozsa - Creative Coding with imagiLabs
+https://youtu.be/ZmNA_iO9fRs&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Sebastiaan Zeeff - Introducing Asynchronous SQLAlchemy
+https://youtu.be/1Ruy2b8yyBQ&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Sebastian Buczyński - Refactoring legacy Django app using OOP
+https://youtu.be/hI4R1qY4pIk&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Sebastian Witowski - Python Versions and Dependencies Made Easy
+https://youtu.be/yfHOlS4rqdY&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Stefan Behnel, David Woods - Fast native data structures CC++ from Python
+https://youtu.be/NCD4DnvBvMM&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Sylvain Marié - Powerful tests and reproducible benchmarks with `pytest-cases`
+https://youtu.be/QTyfr2UNR98&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Tobie Langel - Towards a sustainable solution to open source sustainability
+https://youtu.be/Cv0UAsfqru0&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+
+Xavier Thompson - Extending Cython with GIL-free types
+https://youtu.be/Lb6q1hhBp-k&list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq
+Videos 1-25

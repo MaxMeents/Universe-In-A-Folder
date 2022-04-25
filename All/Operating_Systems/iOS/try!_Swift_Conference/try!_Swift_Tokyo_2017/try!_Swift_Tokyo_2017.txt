@@ -1,0 +1,73 @@
+
+try! Swift Tokyo 2017 - 3D Touch Bring Your Apps to a New Dimension
+https://youtu.be/gIzW-yHJusQ&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - A Neatly Typed Message Improving Code Readability
+https://youtu.be/YT0Qw7-irPU&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Architecting a Robust Color System with Swift
+https://youtu.be/ta1PO9xNneY&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Building a Swift Web API
+https://youtu.be/e2pbzVSVlUQ&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Building Your Own Tools
+https://youtu.be/Rug4ZY3Avq8&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Crafting Collaborative Apps with Realm
+https://youtu.be/HCjAnF4Q1ko&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Document Indexing and App Search in iOS
+https://youtu.be/_ZB0cIT-zBc&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Everyday Reactive
+https://youtu.be/3HGsKizRFj0&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Everything a Swift Dev Needs to Know About Machine Learning
+https://youtu.be/OsnfQsBpKIs&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Lessons in Swift Error Handling and Resilience
+https://youtu.be/H54gj7zp0y8&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Making Mock Objects More Useful
+https://youtu.be/xiq4Uiy1C0c&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Minimizing Decision Fatigue to Improve Team Productivity
+https://youtu.be/vgDKETrs67s&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Pixels, Process, and Passion
+https://youtu.be/Tr2hNEqTiOQ&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Providing Better Feedback in Real-time Object Detection Apps
+https://youtu.be/gT-3VFkOPCw&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Scaling Open Source Communities
+https://youtu.be/vFoBB-CGKQ0&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Server-Side Swift Live Coding
+https://youtu.be/Zhual7IZkN4&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Startup Swift
+https://youtu.be/MvRspWPw_eE&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Swift Chatbots for Fun! and Profit
+https://youtu.be/h0t8rlDGp74&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Swift on Android The Future of Cross-Platform Programming
+https://youtu.be/1yvxxuB8EgA&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Swift's Pointy Bits Unsafe Swift & Pointer Types
+https://youtu.be/zFEpNtAZi9o&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Tasting Tests at Cookpad
+https://youtu.be/0zXSQlyiNdI&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - The Safety of Unsafe Swift
+https://youtu.be/pxMy_MC3Z3M&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Why We Climb
+https://youtu.be/y6nmicqDSSA&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+
+try! Swift Tokyo 2017 - Writing Your UI Swiftly
+https://youtu.be/w38s9r6KILs&list=PLCl5NM4qD3u91zjMotx3pMbZM-iCpOkdb
+try! Swift Tokyo 2017

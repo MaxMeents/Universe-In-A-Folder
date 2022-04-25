@@ -1,0 +1,13 @@
+
+Marijn Haverbeke - The Rust That Could Have Been
+https://youtu.be/olbTX95hdbg&list=PL85XCvVPmGQic7kjHUfjHb6vz1H5UTEVG
+
+Mozilla - How Rust Does Open Development - June 13, 2018
+https://youtu.be/rdmpOktHLmM&list=PL85XCvVPmGQic7kjHUfjHb6vz1H5UTEVG
+
+Rust Meetup Cologne (2016-06-06) Alex Crichton - State of Rust 2016
+https://youtu.be/mRGb4hoGuPs&list=PL85XCvVPmGQic7kjHUfjHb6vz1H5UTEVG
+
+The History of Rust
+https://youtu.be/79PSagCD_AY&list=PL85XCvVPmGQic7kjHUfjHb6vz1H5UTEVG
+Rust History

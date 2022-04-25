@@ -1,0 +1,13 @@
+
+Camera System - Edge Scrolling  Unity Tutorial
+https://youtu.be/haN-WLx7_9Y&list=PLzDRvYVwl53uid7zTrGwxDyfb_eSE3PWe
+
+Camera System - Mouse Wheel Zoom  Unity Tutorial
+https://youtu.be/0s1a3m0F1G0&list=PLzDRvYVwl53uid7zTrGwxDyfb_eSE3PWe
+
+How to make a Camera Follow System - Movement  Unity 2D
+https://youtu.be/U66VYM-ShVg&list=PLzDRvYVwl53uid7zTrGwxDyfb_eSE3PWe
+
+How to make a Camera Follow System - Zoom  Unity 2D
+https://youtu.be/tuTYq6y_Y4A&list=PLzDRvYVwl53uid7zTrGwxDyfb_eSE3PWe
+Camera System in Unity

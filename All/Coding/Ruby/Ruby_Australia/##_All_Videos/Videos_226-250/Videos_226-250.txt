@@ -1,0 +1,76 @@
+
+RubyConf AU 2013 bundle install Y U SO SLOW Server Edition by Terrence Lee
+https://youtu.be/AZYsvDTqmvA
+
+RubyConf AU 2013 Closing Keynote by Dave Thomas
+https://youtu.be/ca_UEQlf6LM
+
+RubyConf AU 2013 Dear God What Am I Doing Concurrency and Parallel Processing by Adam Hawkins
+https://youtu.be/C4dB2rrZdFM
+
+RubyConf AU 2013 Down the rb_newobj() Rabbit Hole Garbage Collection in Ruby by Chris Kelly
+https://youtu.be/o9El1zJ0Gmk
+
+RubyConf AU 2013 From Stubbies to Longnecks by Geoffrey Giesemann
+https://youtu.be/fQRd-0ukAEM
+
+RubyConf AU 2013 Hacking With Gems by Benjamin Smith
+https://youtu.be/DKKyGAeNEPw
+
+RubyConf AU 2013 High Performance Ruby by Charles Nutter
+https://youtu.be/3Fm-n_Vr7e4
+
+RubyConf AU 2013 Immutable Ruby by Michael Fairley
+https://youtu.be/a1XZ1fhPiV0
+
+RubyConf AU 2013 Keith and Mario’s Guide to Fast Websites by Keith Pitt & Mario Visic
+https://youtu.be/d3e5zaiBR-c
+
+RubyConf AU 2013 Keynote by Mikel Lindsaar
+https://youtu.be/Wr_Aqwhvqc8
+
+RubyConf AU 2013 Lessons from the Masters by Geoffrey Grosenbach
+https://youtu.be/vzjARuXpFZY
+
+RubyConf AU 2013 Millions of Apps What we’ve Learned by Richard Schneeman
+https://youtu.be/fFOl-oiugZk
+
+RubyConf AU 2013 Off the Tracks - Challenging the Rails Mindset by Nick Sutterer
+https://youtu.be/Xj24IuwjW-0
+
+RubyConf AU 2013 Opening Keynote by Corey Haines
+https://youtu.be/UJ_6NZ6UX18
+
+RubyConf AU 2013 Refactoring from Good to Great - A Live-Coding Odyssey by Ben Orenstein
+https://youtu.be/AfK_Iyr07Ho
+
+RubyConf AU 2013 Schemas for the Real World by Carina C. Zona
+https://youtu.be/NxAyZ8Z3vsI
+
+RubyConf AU 2013 Sinatra in SIX lines - How to do crazy stuff with Ruby by Konstantin Haase
+https://youtu.be/2CUijbZH2bs
+
+RubyConf AU 2013 State of the Ruby by Ben Hoskings
+https://youtu.be/a3aOltpjAGw
+
+RubyConf AU 2013 The C Word by Pat Allan
+https://youtu.be/qX0e4kf_G7s
+
+RubyConf AU 2013 The Setup Managing an Army of Laptops with Puppet by Will Farrington
+https://youtu.be/3d0Uez2N4Hc
+
+RubyConf AU 2013 Uptime == Money High Availability at Braintree by Paul Gross
+https://youtu.be/mBmAlqaapcc
+
+RubyConf AU 2013 Using Ruby for iOS development (RubyMotion) by Amit Kumar
+https://youtu.be/-xgh0p4DpDw
+
+RubyConf AU 2013 Web scale for the rest of us by John Barton
+https://youtu.be/7y2JeLtRCRs
+
+RubyConf AU 2014 How Github (No Longer) Works by Zach Holman
+https://youtu.be/Jy__R9RFe7c
+
+RubyConf AU 2014 Tales of Interest by Jon Rowe
+https://youtu.be/EC1dY-nKTYY
+Videos 226-250

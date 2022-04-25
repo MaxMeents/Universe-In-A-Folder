@@ -1,0 +1,7 @@
+
+Probabilistic Programming and Bayesian Modeling with PyMC3 - Christopher Fonnesbeck
+https://youtu.be/M-kBB2I4QlE&list=PLQIcnBElABavIf1WL1r0e31BoiANEoQY3
+
+Socket in Python - Éric Lafontaine
+https://youtu.be/PHIRBeyTgwc&list=PLQIcnBElABavIf1WL1r0e31BoiANEoQY3
+MP-72

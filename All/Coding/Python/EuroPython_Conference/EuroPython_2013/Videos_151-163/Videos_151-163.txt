@@ -1,0 +1,40 @@
+
+Alessio Siniscalchi  - Flussi di dati GPS in near real time
+https://youtu.be/BpjgoYxt6Yg&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Alex Martelli - Good enough is good enough!
+https://youtu.be/gHG9FRSlPxw&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Armin Ronacher - Thinking outside of the box
+https://youtu.be/5pZVqBFtuLk&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+B. Renenié - Deployability of Python Web Applications
+https://youtu.be/fJSZ8oH00vE&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+C. Kerstiens - Postgres Demystified
+https://youtu.be/Qvy1sQH3wM4&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+D Mattews   ElasticSearch  Introduction and lessons
+https://youtu.be/QDCpkXYXaCI&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+H. Percival - Obidire alla capra
+https://youtu.be/u0L3DuAPOVw&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Holger Krekel - The return of peer to peer computing
+https://youtu.be/SCgl0xXFVOg&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Lightning talks
+https://youtu.be/lP4cLqLMzS0&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Lynn Root -  GETTING MORE DEVELOPER GIRLS USING PYTHON
+https://youtu.be/tVB_krH04-g&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Lynn Root - Sink or swim 5 life jackets to throw to New Coders
+https://youtu.be/NLZKjYxJHk8&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Muharem Hrnjadovic I see Openstack In Your Future
+https://youtu.be/UvVMwJtfnUw&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+
+Questions to Holger Krekel - The return of peer to peer computing
+https://youtu.be/-T5l3vh5X2U&list=PL8uoeex94UhF5drIP18ZB9uU3r2P_DARE
+Videos 151-163

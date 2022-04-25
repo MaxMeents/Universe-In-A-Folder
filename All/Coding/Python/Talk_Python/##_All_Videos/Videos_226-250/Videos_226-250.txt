@@ -1,0 +1,76 @@
+
+#111 Pythonic Career Advice and More
+https://youtu.be/g5WcPuq7ros
+
+#112 Geeking out in the golden years
+https://youtu.be/VHljSM-mxMc
+
+#113 Dedicated AI chips and running old Python faster at Intel
+https://youtu.be/F3Ovxy0FVUk
+
+#114 Empowering developers at the Hidden Genius project
+https://youtu.be/7drgLR3QhdU
+
+#115 Python for Humans projects
+https://youtu.be/4vzjFHFfxQw
+
+#116 10 top talks of PyCon 2017 reviewed
+https://youtu.be/bJjKfSvMOGM
+
+#117 Functional Python with Coconut
+https://youtu.be/x--NWuaBy5I
+
+#118 Serverless software
+https://youtu.be/35aBJ1pb6qc
+
+#119 Python in Engineering
+https://youtu.be/BtkacokLpMg
+
+#120 Python in Finance
+https://youtu.be/rpaE9bj6LGo
+
+#121 Microservices in Python
+https://youtu.be/d1VnyCt2vEg
+
+#122 Home Assistant Pythonic Home Automation
+https://youtu.be/bHvzJLrDIMQ
+
+#123 Lessons from 100 straight dev job interviews
+https://youtu.be/a6XIpWUMRwQ
+
+#124 Python for AI research
+https://youtu.be/bvVQD1gobek
+
+#125 Django REST framework and a new API star is born
+https://youtu.be/2TRloMhON90
+
+#126 Kubernetes for Pythonistas
+https://youtu.be/3k3jfiXlXyE
+
+#127 Shipping software to users
+https://youtu.be/PVj9gJOyFC0
+
+#128 Pythonic Networks with NAPALM
+https://youtu.be/n8Taxh02I1Q
+
+#129 Falcon The bare-metal Python web framework
+https://youtu.be/K-bG2n9V7zg
+
+#130 10 books Python developers should be reading
+https://youtu.be/PeV78TIlibY
+
+#131 Top 10 machine learning libraries
+https://youtu.be/SuTdJJPTm3g
+
+#132 Contributing to open source
+https://youtu.be/jOOm4bOUGTU
+
+#133 Productivity for developers
+https://youtu.be/-blcdgPhOiw
+
+#134 Python in Climate Science
+https://youtu.be/gSjEAEFCjv0
+
+#135 Capturing human moments with AI and Python
+https://youtu.be/nEc8yiMCG0k
+Videos 226-250

@@ -1,0 +1,64 @@
+
+15 HUNGER and THIRST System Setup - Drain Slowly Over Time
+https://youtu.be/L-Ho3TiOgFA&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+16 Multiplayer Inventory System for Unreal Engine 4 [Free Download]
+https://youtu.be/QOMa4RKvaOw&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+17 Add First Person Camera Mode - Unreal Engine Survival Game Series
+https://youtu.be/MnrXexr1NeM&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+18 Line Trace Item Pickup Tutorial - Unreal Engine 4
+https://youtu.be/NUrtKxYUk2Q&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+19 Improving Weapon Pickup System & Inventory - UE4 Survival Game
+https://youtu.be/junhf0M2yo4&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+20 Weapon Ammo and Updating UI - UE4 Multiplayer Survival Series
+https://youtu.be/XNZNk-3-9RQ&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Adding a Grenade Launcher! - #7  UE4 Coop Survival Game
+https://youtu.be/-vEGcHrtZmY&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Aim Down Sites Iron Sights Tutorial - #6  UE4 Coop Survival Game
+https://youtu.be/TNBLKxlo_PQ&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Automatic Weapon Firing Tutorial - #11  UE4 Coop Survival Game Tutorial
+https://youtu.be/bq2QHIPAkks&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Fire The Weapon - #4  UE4 Coop Survival Game Tutorial
+https://youtu.be/0JK3MzVcwSs&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Headshot Hitbox Using Physical Materials - #10 Unreal Engine Survival Tutorial
+https://youtu.be/vQOJ3tNvLxs&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Health Component and Player Death - #12  UE4 Coop Survival Game Tutorial
+https://youtu.be/dkN0LY5y6o4&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Health UI Widget Blueprint - #13  UE4 Coop Survival Game Tutorial
+https://youtu.be/KvyH33uwqg4&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+How to Create Aim Offset Animations - #8  UE4 Multiplayer Survival Game Tutorial
+https://youtu.be/wWXT7x_1ReE&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+How to Make Blood Particle Effect in UE4 and Photoshop Tutorial
+https://youtu.be/eL7JXd4xIqo&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Make A Multiplayer Survival Game in UE4 Tutorial  #1 Setup
+https://youtu.be/maG2YnVnIVM&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Pick Up and Equip Weapons (Multiplayer) - #3  UE4 Coop Survival Game Tutorial
+https://youtu.be/nc7F7IJLuik&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Rifle Damage and Effects (Replicated) - #5  UE4 Coop Survival Game Tutorial
+https://youtu.be/9e9KgA2IT84&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Setup the Animation Blueprint - #2  UE4 Coop Survival Game Tutorial
+https://youtu.be/s6z5WaDBO0Q&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Shake Player Camera When Shooting - #9  UE4 Coop Survival Game Tutorial
+https://youtu.be/lMsejGR6VZY&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+
+Stamina System and Sprinting - #14  UE4 Coop Survival Game Tutorial
+https://youtu.be/cai6EKJDweE&list=PLM5xJtuLgIuzurXfGvGIHa8OALE-Dadhq
+UE4 Survival Game

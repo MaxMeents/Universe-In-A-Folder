@@ -1,0 +1,76 @@
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #10 ENEMY CHASE STATE
+https://youtu.be/boHDx303FUo
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #11 ENEMY ATTACK STATE
+https://youtu.be/_dH2ylYJrHc
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #12 ANIMATION HIT FRAME SCRIPT
+https://youtu.be/EUoKzQMhyTU
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #13 HITBOXES
+https://youtu.be/5cOZlimtESU
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #14 INHERITANCE
+https://youtu.be/B2Gd-jVeAn8
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #15 HEALTH & DAMAGE
+https://youtu.be/-b22ahKFHHg
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #16 LIST DATA STRUCTURES
+https://youtu.be/fylj77CbpTU
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #17 ENEMY KNOCKBACK STATE
+https://youtu.be/Askd_aRufx8
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #18 PLAYER KNOCKBACK STATE
+https://youtu.be/ndhnJjJAWwo
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #19 ENVIRONMENT
+https://youtu.be/ZkeHNO9tHHM
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #20 PARALLAX BACKGROUND
+https://youtu.be/7Y4ZurIEvqo
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #21 PLAYER HUD
+https://youtu.be/8zyMurZgNf0
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #23 Level System
+https://youtu.be/V_PcdoAgvFQ
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #24 Crow Enemy
+https://youtu.be/TD5d5Mj-sdg
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #6 SCRIPTS
+https://youtu.be/QHXu-f8QuGI
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #7 COMBOS PART 1
+https://youtu.be/ojZoJWiRUHY
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #8 COMBOS PART 2 + VARIABLE SCOPE
+https://youtu.be/E2sgrO9wjFM
+
+GameMaker Studio Tutorial - 2D Hack-n-Slash #9 INPUT OBJECT AND MAPPING
+https://youtu.be/ryHvyABisy0
+
+GameMaker Tutorial - 2D Hack-n-Slash #22 HUD PART 2
+https://youtu.be/-pNGmon77EA
+
+How Heartbeast was Born
+https://youtu.be/M5TIkO1th_4
+
+How I Learned Portuguese and How You Can Learn to Code
+https://youtu.be/OF6LmoPrx84
+
+Let's Pixel - RPG Grass Background Tiles
+https://youtu.be/9TlmBmMonIc
+
+My Favorite Game Engine
+https://youtu.be/glPFa0_O-s8
+
+What Happened to Grain War
+https://youtu.be/KC-_pn4i1ng
+
+What is Success to Heartbeast
+https://youtu.be/U4LYtt_xIWM
+Videos 101-125

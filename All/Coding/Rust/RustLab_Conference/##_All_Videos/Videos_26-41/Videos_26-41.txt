@@ -1,0 +1,49 @@
+
+RustLab 2019 Adopting Rust by gracefully oxidising web applications • Neville Dipale
+https://youtu.be/Js6m_p-CXN0
+
+RustLab 2019 An unfair battle • Federico Dolce
+https://youtu.be/eI7u7NC0yKA
+
+RustLab 2019 Asynchronous networking • Pierre Krieger
+https://youtu.be/q31tTVtIv54
+
+RustLab 2019 Conference introduction birth of RustLab - Giovanni Bajo
+https://youtu.be/nWEOcUMLes4
+
+RustLab 2019 Deliveroo Ruby to Rust • Michael Killough
+https://youtu.be/ySTkHT6YGP8
+
+RustLab 2019 Fearless Security with Rust • Diane Hosfelt
+https://youtu.be/4Y9aK8bSJrE
+
+RustLab 2019 From C to Rust and back • Luca Barbato
+https://youtu.be/DnFFds_zsFI
+
+RustLab 2019 How to write Rust instead of C, and get away with it • F. Raynaud, A. Verardi
+https://youtu.be/BFHUDA3GCmE
+
+RustLab 2019 Lightning talks
+https://youtu.be/I9nD0oQCA-Y
+
+RustLab 2019 Machine Learning is changing - is Rust the right tool for the job • Luca Palmieri
+https://youtu.be/odI_LY8AIqo
+
+RustLab 2019 Making life easier with Derive and other tools • Anthony Ramine
+https://youtu.be/k1SOQH3wbSI
+
+RustLab 2019 Neobuffer Safe, Lock Free, Cross-Process Channels in Rust • Bernardo Meurer
+https://youtu.be/3NVev3FhGgk
+
+RustLab 2019 Open Sesame! A simple majordomo system built with Rust • Antonio Piraino
+https://youtu.be/IF8ZQZfo6LQ
+
+RustLab 2019 Safe and Simple Rust Smart Contracts in NEAR • Maksym Zavershynskyi
+https://youtu.be/K382BLH6row
+
+RustLab 2019 Syscalls for Rustaceans • Gargi Sharma
+https://youtu.be/Q2V_ceT-IBs
+
+RustLab 2019 Writing a Nintendo 64 emulator in Rust • Giovanni Bajo
+https://youtu.be/VQHSI42_Ias
+Videos 26-41

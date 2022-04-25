@@ -1,0 +1,76 @@
+
+Brad Lhotsky - Writing Command Line Tools for Other People
+https://youtu.be/lUGm5c4ubZA&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Bulk88 - Writing XS in Plain C
+https://youtu.be/EKqCAo0O63I&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Chris Prather - Make New Friends
+https://youtu.be/KmoUk3a9fH4&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Dave Rolsky - A Date with Perl
+https://youtu.be/enr5_FoToiA&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Henry Van Styn - RapiBlog - All-new maximalist blogging powered by RapidApp
+https://youtu.be/5s_eSYwXDwM&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Jason McIntosh - BumpySkies A Passion-Project Postmortem
+https://youtu.be/N4JNYCjerNM&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Jason Terry - Amazon Alexa and Perl
+https://youtu.be/Q7hGl_WKsDA&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Joe Kline - To Serve Human
+https://youtu.be/o9V6O8qZfcc&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+John Anderson - A Modest Introduction to Swift
+https://youtu.be/n-st1-DpKHI&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Leon Fayer - The Lost Art of Troubleshooting
+https://youtu.be/sNjm3ul5WYo&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Liam Mcnerney - Thrown in the Deep End Learning to Swim with Perl
+https://youtu.be/G9iP-mRRw60&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Brad Lhotsky - Hacking the Interviewing Process
+https://youtu.be/1rcKBrD81Ec&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Brian Duggan - Election Protection Runs On Request Tracker
+https://youtu.be/0-fIOLpIyz0&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Chas. Owens - Perl 6 Str Considered Harmful
+https://youtu.be/_zJ-2VXpUyM&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Drew Taylor - Administering Slack Contests with Perl
+https://youtu.be/uihIyKFkMoA&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Eric Johnson - MooXCommander
+https://youtu.be/topB0jOxL6o&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by James E. Keenan - Impact of U.S. Immigration Policies on Open Source Communities
+https://youtu.be/lc0gjymliOI&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Joel Berger - Build Your Own Peace of Mind
+https://youtu.be/aJc5yYONBBc&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Len Budney - Manners for Perl Scripts
+https://youtu.be/ud3isNiB_C0&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Leon Fayer - Adventures in Public Speaking
+https://youtu.be/cwKrXBfnaTI&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Nicolas R. - grepmetacpan
+https://youtu.be/f0CqeVw7nXc&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Lightning Talk by Vadim Belman - Reinventing Foswiki
+https://youtu.be/Wp60wXGBaTs&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Nicolas R. - Introduction to Perl Internals
+https://youtu.be/zNsew4U-quM&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Philip Hood - Basic Autonomous Driving Research
+https://youtu.be/Fn1ZvGiK4hc&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+
+Stevan Little - Hold My Beer and Watch This!
+https://youtu.be/w5U7eoeuO90&list=PLA9_Hq3zhoFxdSVDA4v9Af3iutQxLI14m
+Videos 26-50

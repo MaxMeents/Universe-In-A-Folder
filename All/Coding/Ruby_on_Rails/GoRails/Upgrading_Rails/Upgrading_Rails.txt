@@ -1,0 +1,7 @@
+
+How to Dual Boot Rails Versions
+https://youtu.be/xy7whyUMSFk&list=PLm8ctt9NhMNVJjEccXJ3RjmwBDooKE1B5
+
+Upgrading Rails Deprecation Exceptions
+https://youtu.be/5EV_Hh_5AVw&list=PLm8ctt9NhMNVJjEccXJ3RjmwBDooKE1B5
+Upgrading Rails

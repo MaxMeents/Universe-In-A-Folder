@@ -1,0 +1,19 @@
+
+#1 Setting Up Express Server in Node
+https://youtu.be/8JzIlaOcER0&list=PLDMXqpbtInQj5GOzYAwc1P_76cUmJ5LzA
+
+#4 Posting a New Trip
+https://youtu.be/nPPOHWV7b98&list=PLDMXqpbtInQj5GOzYAwc1P_76cUmJ5LzA
+
+#5 Displaying New Trips
+https://youtu.be/zxGEuOllNOU&list=PLDMXqpbtInQj5GOzYAwc1P_76cUmJ5LzA
+
+#6 Express Router
+https://youtu.be/ocYsplGWR00&list=PLDMXqpbtInQj5GOzYAwc1P_76cUmJ5LzA
+
+2) Setting Up Mustache
+https://youtu.be/3MfyIL6Rt0g&list=PLDMXqpbtInQj5GOzYAwc1P_76cUmJ5LzA
+
+3) Displaying List in Mustache
+https://youtu.be/saqaO3bOuVA&list=PLDMXqpbtInQj5GOzYAwc1P_76cUmJ5LzA
+Node

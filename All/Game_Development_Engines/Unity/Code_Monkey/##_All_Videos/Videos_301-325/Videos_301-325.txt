@@ -1,0 +1,76 @@
+
+7 Steps to become a Game Developer in 2021!
+https://youtu.be/Vlcop0uxFIQ
+
+Ability Bar in Unity (Swap WeaponsItems)
+https://youtu.be/obvUYZK-kGE
+
+Awesome Boss Fight in Unity with Stages and Increasing Difficulty!
+https://youtu.be/qZC1VYWnHZ8
+
+Awesome Pulse Radar Effect in Unity!
+https://youtu.be/pBB_YYSujrc
+
+Collisions and Triggers (OnTriggerEnter not working!)
+https://youtu.be/Bc9lmHjqLZc
+
+Dynamic Buffers in Unity DOTS (Array, List)
+https://youtu.be/XC84bc95heI
+
+Getting Started with Unity DOTS Physics
+https://youtu.be/B3SFWm9gkL8
+
+Have you found the Videos Valuable
+https://youtu.be/GMy2P3ZbyEo
+
+How to Equip Weapons and Items in Unity (Drag Drop, Inventory)
+https://youtu.be/isAmoM3RPEI
+
+How to Instantiate Prefabs in Unity DOTS (Convert Game Object to Entity)
+https://youtu.be/pk-C_h0WJZs
+
+How to Send Data to Unity WebGL from Javascript or PHP
+https://youtu.be/3g0N__K7Wlo
+
+Make games without Code Visual Scripting! (Unity, DOTS, ECS)
+https://youtu.be/nqt3p1n342A
+
+Minecraft Crafting System in Unity!
+https://youtu.be/LmQ6U3YkHHk
+
+Parallax Infinite Scrolling Background in Unity
+https://youtu.be/wBol2xzxCOU
+
+Pathfinding in Unity DOTS! (Insane Speed!!!)
+https://youtu.be/1bO1FdEThnU
+
+Pixelate Effect - Shader Graph Tutorial
+https://youtu.be/siiqnXA156Y
+
+Simple Battle System in Unity (Spawn Enemy Waves, Trigger)
+https://youtu.be/gbFBWxtpgpQ
+
+Simple Enemy AI in Unity (State Machine, Find Target, Chase, Attack)
+https://youtu.be/db0KWYaWfeM
+
+Simple Shop in Unity (Buy Items, Weapons, Armor)
+https://youtu.be/HuXy4XX0hzg
+
+Simple Skill Tree in Unity (Unlock Abilities, Talents)
+https://youtu.be/_OQTTKkwZQY
+
+Sprite Blur - 2D Shader Graph Tutorial
+https://youtu.be/dKsqupXLuSU
+
+Thank you! 🎉 270+ Videos and 100,000 Subscribers!
+https://youtu.be/ZvgsC0IpnY0
+
+Unity 2019.3 is Out! What's New
+https://youtu.be/2_pB9PkK1Z4
+
+Unity DOTS - What changed
+https://youtu.be/JxbvRhxeKTo
+
+What are Value Types and Reference Types in C# (Class vs Struct)
+https://youtu.be/KGFAnwkO0Pk
+Videos 301-325

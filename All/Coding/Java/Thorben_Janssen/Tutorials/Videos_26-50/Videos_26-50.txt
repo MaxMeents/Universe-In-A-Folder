@@ -1,0 +1,76 @@
+
+CockroachDB How to use it with Hibernate
+https://youtu.be/04idSDuaTeI&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Composite Repositories Extend your Spring Data JPA Repository
+https://youtu.be/tHVyEA8svIg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Criteria API Migrate from Hibernate to JPA
+https://youtu.be/NDPFZ09BjiI&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Database Migration with Spring Boot
+https://youtu.be/TMUMWfSS3yw&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+From Monolith to Microservices – Migrating a Persistence Layer
+https://youtu.be/LsIcxffIPWc&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate & Testcontainers A Perfect Match For Your Tests
+https://youtu.be/y-lt5JdPjDw&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Modeling Self-referencing Associations
+https://youtu.be/G1MW35xUWys&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Performance Tuning Done Right
+https://youtu.be/nMM2TH0VM9o&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Query API
+https://youtu.be/fRgB4D2wOV8&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Query Spaces Optimizing Flush & Cache Operations
+https://youtu.be/FG9tnaSPjYY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Reactive Getting Started Guide
+https://youtu.be/tizUPOv3Pk4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Speed up Your Query With Parameter Padding
+https://youtu.be/4pJMfYH6KZU&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to define named queries at runtime with JPA 2.1
+https://youtu.be/3rfDrAiVhNQ&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to Initialize Entity Associations with Spring Data JPA
+https://youtu.be/E8a0H1UIrZQ&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Implementing Batch Jobs with Hibernate
+https://youtu.be/COrDelJMWqw&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA & Hibernate - Why, When & How to use DTO Projections
+https://youtu.be/_WjUiYQdbm0&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Mapping Arrays with Hibernate
+https://youtu.be/E04CuDSZzVc&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Mapping Collections with Hibernate and JPA
+https://youtu.be/UVycxHur2mA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Mapping Definitions in JPA and Hibernate  Annotations, XML or Both
+https://youtu.be/2xzHUeQG7eA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Native Queries with Spring Data JPA
+https://youtu.be/AFG8lDX7iUg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Pagination with JPA and Hibernate
+https://youtu.be/p_sFYoJ4A_E&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Private video
+https://youtu.be/vEYaE_sYK4E&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Result Set Mapping Complex Mappings
+https://youtu.be/kWqdfFs87bY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+ResultTransformer with Hibernate 4 5 & 6
+https://youtu.be/DmlwmeuYxvg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Ternary Associations Modelling Associations between 3 Entities
+https://youtu.be/vCHWem81E5g&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+Videos 26-50

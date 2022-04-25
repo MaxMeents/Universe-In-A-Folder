@@ -1,0 +1,40 @@
+
+PyCon Ireland 2019 - Automated Web-UI testing with behave-manners - Panos Christeas
+https://youtu.be/7iGB5Xkv1X4&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Chaos Engineering - Brian Neary & Vel Sailaja
+https://youtu.be/TY_72akfCR8&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - How I made a python program to beat the game I couldn't - Sanket Thakur
+https://youtu.be/nTJBXgPvOR8&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - How to Curate an NLP Dataset With Python - David Curran
+https://youtu.be/_WxmTGC9kqg&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Leveraging Public APIs for Machine Learning Datasets Johannes Ahlmann
+https://youtu.be/jSydevZgroc&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - MicroPython fun on €10 hardware - Sean Doherty
+https://youtu.be/FK_PpRP2Rss&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Python & digital preservation of Ireland's moving image heritage Kieran O'Leary
+https://youtu.be/fMIrEWOcg4k&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Recruitment Session
+https://youtu.be/fmNXFYohAVY&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - The Gender Data Gap - Louise O'Connor
+https://youtu.be/0IQcXbabChQ&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Unit & Integration Testing - Ignasi Bosch
+https://youtu.be/n6Xgfag-ylc&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Visualising Youtube video context (NLP pipeline) - Krunoslav Plecko
+https://youtu.be/ire1M5npxao&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - What's beyond Django Girls tutorial - Leticia Portella
+https://youtu.be/CAFOxnntH7U&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+
+PyCon Ireland 2019 - Zero to Blockchain in 30 minutes
+https://youtu.be/CdMcRbHsW0Q&list=PLNeBS51Q0m9_npO7zeUF61Bf0TTvIIIor
+PyCon Ireland 2019 - Track 3

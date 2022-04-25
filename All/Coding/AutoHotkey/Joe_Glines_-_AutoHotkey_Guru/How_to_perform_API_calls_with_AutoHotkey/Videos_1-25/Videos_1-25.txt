@@ -1,0 +1,76 @@
+
+API calls are easy with AutoHotkey Use AHK to pull weather conditions
+https://youtu.be/5wZOi8kb5pE&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+API calls with AutoHotkey are easy  4 example Google maps API requests using WinHTTPRequests
+https://youtu.be/8y2GiwdcKUU&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+AutoHotkey Webinar 062017 Hour 1-Web services  API calls with AutoHotkey
+https://youtu.be/86S-bWS_smM&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+AutoHotkey Webinar 062017 Hour 2-Web services  API calls  Q&A
+https://youtu.be/Igd5-P4BtpQ&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Easily Filtering Fiddler Traffic & keeping your filters across sessions
+https://youtu.be/DtTBLa0SeM8&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Example Webservice  API call- Clearbit Discovery API
+https://youtu.be/GjTJl2HLuic&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Example Webservice  API call- Exporting JSON and binary data from SmartSheets
+https://youtu.be/6qfWKrVjYPI&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Example Webservice  API call- phone number to email address for mobile phones
+https://youtu.be/pKwHH7hySPo&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Example Webservice  API call- Top post on AutoHotkey reddit
+https://youtu.be/nuyd2NnxOxM&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Example Webservice  API call- Yahoo query
+https://youtu.be/d3Fgrnagz6M&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Fiddler Everywhere Tutorial & Web scraping verse API calls
+https://youtu.be/-T7mchDw9Ro&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Fiddler tutorial to help Webscraping & API calls  Monitor the Network traffic
+https://youtu.be/rfO2_OU4mLE&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+FullContact API  Simple Example using WinHTTPRequest
+https://youtu.be/wcbFh39kLe8&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+get your AutoHotkey Merchandise from the-Automator
+https://youtu.be/6IMNpwZRp1I&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Getting text from ResponseBody instead of ResponseText in API call
+https://youtu.be/iOI2gIQ51B4&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Hacking hidden APIs for noobs  Fiddler Everywhere
+https://youtu.be/NYMQ5f5dcCE&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+How to use the Yelp API with AutoHotkey  working through oAuth2
+https://youtu.be/_nsNs43_ABk&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Learn what is multipart form data and how to built it
+https://youtu.be/vqFbyVu7_dY&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Parse XML with this amazing XML parsing class in AutoHotkey
+https://youtu.be/vPAAuh79gPI&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+the-Automators' AHK Talk Microsoft Objects for connecting to Servers
+https://youtu.be/PtZjfzk0qU0&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+URLDownloadToFile, Web scraping & API calls Working wHTTP Protocol
+https://youtu.be/fzfJCLeEWfQ&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Use Fiddler to write syntax for API call in AutoHotkey (2021)
+https://youtu.be/QuCf1goLccA&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Using XML Class in AutoHotkey to save user settings
+https://youtu.be/h3LgG63cMVE&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+xmlHTTPRequest vs. WinHTTPRequest- What killer advantage does the xmlRequest have
+https://youtu.be/OIYrRrbodIU&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+
+Zoom API tutorial  How to connect to the Zoom API
+https://youtu.be/tw3kLhoRhnI&list=PL3JprvrxlW242fgxzzavJM7lRkCB90y4R
+Videos 1-25

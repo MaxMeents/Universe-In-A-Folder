@@ -1,0 +1,76 @@
+
+A privacy first period tracker Is it even possible by Benedicte Raae  JSConf Budapest 2019
+https://youtu.be/nS36D2zUkvA
+
+Algorithms and Their Habitat by Vitalii Bobrov  JSConf Budapest 2019
+https://youtu.be/5JsQ7mvUeSU
+
+API Modernization Building Bridges As You Cross Them by Shelley Vohr  JSConf Budapest 2019
+https://youtu.be/GI2Vo-UQG5w
+
+Building Better Products Faster by Yu Ling Cheng & France Wang  CSSConf Bp 2019
+https://youtu.be/GeZxuhnRhSY
+
+Composing music with composed functions by Adam Giese  JSConf Budapest 2019
+https://youtu.be/boQhrk-AKMM
+
+Crafting Stateful Styles with State Machines by David Khourshid  CSSConf BP 2019
+https://youtu.be/0cqeGeC98MA
+
+CSS Animation - Beyond Transitions by Steven Roberts  CSSConf BP 2019
+https://youtu.be/TYlA-eolzLs
+
+CSS Architecture for Modern Web Applications by Mike Riethmuller  CSSConf BP 2019
+https://youtu.be/ZWPMzJfJHnc
+
+CSS Games and Drawings in the Real World Useful or Just Fun by Giulia Cardieri  CSSConf BP 2019
+https://youtu.be/6o6lgcdrDdU
+
+CSS in JS - beware the Hype! by Kathrin Holzmann  CSSConf BP 2019
+https://youtu.be/L4vIAGPPuDQ
+
+Deciphering Brainwaves with the Web Audio API by Braden Moore  JSConf Budapest 2019
+https://youtu.be/k46qeHzKbuY
+
+Essential JavaScript debugging tools for the modern detective by Rebecca Hill  JSConf Budapest 2019
+https://youtu.be/TtsvMRxmfGA
+
+Getting Browser Bugs Fixed by Alan Stearns  CSSConf BP 2019
+https://youtu.be/l4lwLCGRrAc
+
+How not to read the room Creating socially awkward wearables by Stephanie Nemeth  JSConf BP 2019
+https://youtu.be/pCCTMo6reHU
+
+JS in Extreme Conditions WebApps for the Refugee Aid Movement by Taylor Fairbank  JSConf Bp 2019
+https://youtu.be/3VW2Q9kZ_MA
+
+Making things fast in world of build tools by Surma & Jake Archibald  JSConf Budapest 2019
+https://youtu.be/fWc3Zu6A3Ws
+
+Mastering UIs with Finite State Machines by Rubén Sospedra  JSConf Budapest 2019
+https://youtu.be/t9XBzM6Tdmk
+
+StrangerDanger Finding Security Vulnerabilities Before They Find You! by Liran Tal  JSConf BP 2019
+https://youtu.be/3H8pF6yoSgU
+
+Taming `Git`osaurus Using Mystical Trees by Damini Satya Kammakomati  JSConf Budapest 2019
+https://youtu.be/j4UMWk6Zr0Q
+
+Testing in production Ideas, experiences, limits, roadblocks by Jorge Marin  JSConf Budapest 2019
+https://youtu.be/1l55ZH3pm_E
+
+Testing presentation components visually by Balázs Korossy-Khayll  JSConf Budapest 2019
+https://youtu.be/JrO3qjBSddY
+
+The Weird — Yet Practical — World of Paint Worklets by Jeremy Wagner  CSSConf BP 2019
+https://youtu.be/VccJldua8tc
+
+Variable Fonts & Readability by Damien Senger  CSSConf BP 2019
+https://youtu.be/VFbrpIDhCOA
+
+Weaving the web - Programming textile-based interactions by Charlie Gerard  JSConf Budapest 2019
+https://youtu.be/0H27M9TExvg
+
+Web Norms of the World An exploration of the internet beyond the West by Kat Kitay  JSConf BP 2019
+https://youtu.be/OnOCq8GaG4Q
+Videos 126-150

@@ -1,0 +1,76 @@
+
+15 iOS Developer Portfolios  Review
+https://youtu.be/auDNAzGRA3k
+
+App Store Universal Purchases - iOS & macOS apps - 1 Purchase!
+https://youtu.be/S3LM6Izzeoo
+
+Course Preview - Navigation Setup - UITabBarController & UINavigationController
+https://youtu.be/VI3HaNWTYVg
+
+Hired's 2020 State of Software Engineers Review
+https://youtu.be/WXCCykDL5y0
+
+How to Customize Your Xcode Theme  Xcode 11
+https://youtu.be/9tDD6FU1PZ8
+
+How to Improve Your App's Onboard Process
+https://youtu.be/xaLNqVdKDhE
+
+How to use a Switch Statement in Swift  Beginner
+https://youtu.be/ZeLEGJfpJ5M
+
+How to use Lazy in Swift
+https://youtu.be/xKoua1Mi6qE
+
+How to use Random and Shuffle in Swift
+https://youtu.be/ms3NBvob8mg
+
+HUGE iOS Developer Survey Results
+https://youtu.be/zaVLXTsAtEc
+
+I'm an AVERAGE Software Developer
+https://youtu.be/00o8oBjhdhk
+
+IBOutlet, IBAction & IBOutletCollection Tutorial  Xcode 11 & Swift 5.1
+https://youtu.be/mr7pJB2eyK4
+
+Indie Dev Apps - Fireworks, 30 Day Workout, Adaptivity, Book Track
+https://youtu.be/H_sOFB4DiyU
+
+iOS Dev Launchpad - Beginner Course Overview
+https://youtu.be/poQZDVKOZOE
+
+iOS Navigation Controller Tutorial  Xcode 11.4 Swift 5.2
+https://youtu.be/LbAd2FIlnos
+
+Story of a Laid Off iOS Dev - How to prepare for bad times  Kilo Loco
+https://youtu.be/M6rn-dBdvtI
+
+Swift - How to use typealias  Swift 5.2, Xcode 11
+https://youtu.be/JvynRYZEU-8
+
+Swift 6 Roadmap
+https://youtu.be/t2hzdT5zrA8
+
+Swift For Beginners - Loops (For, While, Repeat)
+https://youtu.be/9Snw7polcBU
+
+Swift Timer - Xcode 11, Swift 5.1
+https://youtu.be/CGnOe4bl8_A
+
+UISegmentedControl - Storyboard & Programmatic - Swift
+https://youtu.be/ESOZa40GUHk
+
+UIViewController - Lifecycle  Swift  viewDidLoad
+https://youtu.be/d7ZqxvbiTyg
+
+Xcode - Check Spelling in Your Code While You Type  Swift
+https://youtu.be/b_HFXergIz8
+
+Xcode IBOutlet Collections
+https://youtu.be/llwqcyubnAc
+
+Xcode Simulator Environment Override
+https://youtu.be/s8JPQ8jLD00
+Videos 151-175

@@ -1,0 +1,73 @@
+
+16.Unity transform.position - Unity C# Scripting Tutorial-
+https://youtu.be/9yrUCs5l_6k&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+17.Unity Moving objects with transform.Translate - Unity C# Scripting Tutorial
+
+
+18.Unity Rotating GameObjects transform.Rotate - Unity C# Scripting Tutorial
+
+
+19. Unity Scaling GameObjects and Changing Size  - Unity C# Scripting Tutorial
+
+
+20.Unity Tags with Example - Unity C# Scripting Tutorial
+https://youtu.be/LoeFzKTTZU4&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+21.Unity C# Tutorial- Checking Collisions with OnCollisionEnter2D
+https://youtu.be/W7ZtCEbeQEA&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+22.Unity Triggers and OnTriggerEnter2D - Unity C# Scripting Tutorial
+https://youtu.be/7wAjJBSQxys&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+23.Unity C# Scripting Tutorial- Public & Private
+https://youtu.be/YoWwKDu3bv4&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+24. Unity C# Scripting Tutorial- SerializeField
+https://youtu.be/1Py2WBFHOmM&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+25.Unity C# Scripting Tutorial- HideInInspector
+https://youtu.be/UcJX5wuh_S8&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+26.Unity C# Scripting Tutorial- Finding GameObject with Tag
+https://youtu.be/wOVu5bQxnbA&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+27.Unity C# Tutorial- Finding Multiple GameObjects with Tag
+https://youtu.be/INtG1nm0p2o&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+28.Unity Prefabs & Instantiate - Unity C# Scripting Tutorial Beginners
+https://youtu.be/NVRnAU2Wfk8&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+29.Unity C# Tutorial- InvokeRepeating calling Functions repeatedly
+https://youtu.be/XUBpN3FfLyU&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+30.Unity C# Scripting Tutorial-Inputs with Input.GetKeyDown
+https://youtu.be/kmioxc0qEPo&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+31.Unity C# Scripting Tutorial-Inputs with Input.GetButtonDown
+https://youtu.be/T8OxzLG-rUQ&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+32.Unity Mouse Input & Mouse Position - Unity C# Scripting Tutorial
+https://youtu.be/riX1wv0JYv0&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+33.Unity Taking Input with Input.GetAxis - Unity C# Scripting Tutorial
+https://youtu.be/B8OraV1-Z1I&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+34.Unity Coroutines with IEnumerator  & WaitForSeconds - Unity C# Scripting Tutorial
+
+
+35.Unity C# Scripting Tutorial- GetComponent Function In Unity C#
+https://youtu.be/OsAyxNd2sQQ&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+36.Unity C# Scripting Tutorial-GetComponentInChildren Function In Unity C#
+
+
+How To Learn C# Scripting For Unity Game Development - QA
+https://youtu.be/0K3lMXwjMu0&list=PLytjVIyAOStpT8xJyijH4uG4nEPexvj18
+
+Unity 5.3 Loading Levels  Scenes Detailed Explanation - Unity C# Scripting Tutorial
+
+
+Unity Time.deltaTime Detailed Explanation - Unity Game Development Tutorial For Beginners
+
+Videos 26-49

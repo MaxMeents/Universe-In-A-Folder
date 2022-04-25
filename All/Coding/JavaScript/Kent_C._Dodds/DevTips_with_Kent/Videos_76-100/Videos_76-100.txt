@@ -1,0 +1,76 @@
+
+API Flexibility through Inversion of Control and Composition
+https://youtu.be/5k2YasGFX7o&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Array methods vs loops
+https://youtu.be/Ux4g3E2VkIo&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Comparing Object.{preventExtensions,seal,freeze}
+https://youtu.be/9fkYC3wm9E0&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Create a from-html-testing-library using dom-testing-library
+https://youtu.be/OLA1xZ4-tmQ&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Creating gifs using Kap to explain your work
+https://youtu.be/F5fvEPsiMww&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Debug tests in create-react-app
+https://youtu.be/b7EB6iNUqnU&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Designing an API for extensibility
+https://youtu.be/LYB0SEYaBlE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+DOM MutationObservers and dom-testing-library's waitForElement
+https://youtu.be/kVS78Ztq9RY&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Effective and simple note-taking with Workflowy.com
+https://youtu.be/ZeHqIa-bVv8&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Example of Classless Components with @reachcomponent-component
+https://youtu.be/45SeRiE00E8&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+How prettier is a testing tool
+https://youtu.be/UMDcuShpETo&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+How toolkits (like react-scripts) work
+https://youtu.be/ZWfY-v1DCTE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Installing Gatsby
+https://youtu.be/GYzW7FcYQvg&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Intro to Docz Amazingly easy and powerful documentation
+https://youtu.be/VCvum6COleQ&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Learn By Speaking
+https://youtu.be/w4UXftfsGvg&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Quick Emojis input methods on Mac
+https://youtu.be/ayVanacVcAI&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Reduce bundle size with @babelplugin-transform-runtime
+https://youtu.be/O_wbkFdr3WM&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Releasing downshift 3.0.0
+https://youtu.be/z7UXDsItspI&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Should you test child components or parent components Or both
+https://youtu.be/0qmPdcV-rN8&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Stepping through React's code for lifecycles and setState
+https://youtu.be/qKITFYvbIcg&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Use Promise.race to avoid the flash of loading state
+https://youtu.be/QPDA4QwkJxk&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Using and writing custom babel macros with create-react-app v2
+https://youtu.be/1ERAJG9ILhk&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Validation with HTMLInputElements
+https://youtu.be/kN7-EBjSilU&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+What is `...` (the restspread syntax) in JavaScript
+https://youtu.be/1KQ4QJ_gzrs&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+What's coming in downshift 3.0.0
+https://youtu.be/32cz61bw2oI&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+Videos 76-100

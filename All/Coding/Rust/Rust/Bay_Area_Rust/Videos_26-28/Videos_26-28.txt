@@ -1,0 +1,10 @@
+
+Bay Area Rust Meetup @ Cloudflare December 3, 2019
+https://youtu.be/xH2x99FTY4k&list=PL85XCvVPmGQj2BbwgM19o_UA1_TubKbbn
+
+Rust Bay Area Meetup - November 13, 2018 Flatbuffers and Low-Latency Music Synthesis
+https://youtu.be/YsiQDX20lXI&list=PL85XCvVPmGQj2BbwgM19o_UA1_TubKbbn
+
+Rust Bay Area Meetup - September 12, 2019 Contributing in Rust and UI in Rust
+https://youtu.be/QKbdBwjra5o&list=PL85XCvVPmGQj2BbwgM19o_UA1_TubKbbn
+Videos 26-28

@@ -1,0 +1,76 @@
+
+Architecting for Failures in Microservices by Bhakti Mehta
+https://youtu.be/GhPPaFtIcAk&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Building an Autonomous Robotic Vehicle by Marcus Hirt
+https://youtu.be/PVSa6cmD9S4&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Deep Learning in Biomedicine Challenges and Opportunities by Dr. Olivier Gevaert
+https://youtu.be/9uBRKvbj0fk&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Develop microservices faster with an open source platform by James Strachan
+https://youtu.be/QU60XTe4LoM&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Devoxx US Opening Keynote with Mike Milinkovich & Stephan Janssen
+https://youtu.be/arTa60sGSMc&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Docker for developers and ops by Patrick Chanezon
+https://youtu.be/HY6H5lsCdzo&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Docker Swarm or Kubernetes – Pick your framework! by Arun Gupta
+https://youtu.be/nqeqmVVOlrY&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+From Science Fiction to Science Fact by Rama Akkiraju
+https://youtu.be/y10h_BLtla0&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Great tools for engineers even cleaner tests with Mockito 2 by Szczepan Faber
+https://youtu.be/Rl7g0duuDkU&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+How to create a new JVM language by Oleg Šelajev
+https://youtu.be/8Lt8au76emA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+JavaPosse LIVE at Devoxx US
+https://youtu.be/T0pFgZqAafA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Lets learn to talk to GC logs by Poonam Parhar
+https://youtu.be/YujkxK3RfS0&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Managing State with RxJava by Jake Wharton
+https://youtu.be/0IKHxjkgop4&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Operational Service Views - Reactive Web Programming with Baratine by Sean Wiley
+https://youtu.be/ksnPqv57RpI&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Personality Is the New Ringtone Experiments in AI design by Brian Kane
+https://youtu.be/ckNHZ8wJldg&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Preparing for JDK 9 - AKA The Sharp Edges of JDK 9
+https://youtu.be/PvdMuvfqC9g&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Project Hummingbird by Joonas Lehtinen
+https://youtu.be/WCBfTu_cjxI&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Business of Technology Business Technology by Chet Haase
+https://youtu.be/NrmbPSAYUKc&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Life and Death of an Android Activity by Kristin Marsicano
+https://youtu.be/sNL2z0hxwGM&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Monster Coming Over The Hill by Sarah Saunders
+https://youtu.be/h0xmbsHLqEc&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Prototype Mindset by Marty Haught
+https://youtu.be/Ng0DkvOCQxA&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+The Verification of a Distributed System by Caitie McCaffrey
+https://youtu.be/ZMbqbXxRthE&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+Three years of breaking things to make them better by Donny Nadolny
+https://youtu.be/bEGinWILidY&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+What Is Identity by Janelle Klein
+https://youtu.be/JsXzx-EEX8Y&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+
+What's new in JHipsterLand by Matt Raible
+https://youtu.be/N5bN-wvLZMg&list=PLRsbF2sD7JVqk90s0ogP_dcfM9T-y1DRm
+Videos 26-50

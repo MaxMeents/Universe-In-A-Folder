@@ -1,0 +1,25 @@
+
+Perl Script Basic Tutorial 12 Special Hash
+https://youtu.be/CIP7Tra7WR8
+
+Perl Script Basic Tutorial 2 Running Perl Program
+https://youtu.be/wJ_EMNtIXFs
+
+Perl Script Basic Tutorial 21 Numeric Functions
+https://youtu.be/_Gdq6FA-tiY
+
+Perl Script Basic Tutorial 22 Array Funcitons
+https://youtu.be/BKpWWAYDcjQ
+
+Perl Script Basic Tutorial 23 Functions Array Funcitons
+https://youtu.be/kV7Rqk6wbg8
+
+Perl Script Basic Tutorial 24 Array Functions Join Spiit
+https://youtu.be/T83yFnCysEc
+
+Perl Script Basic Tutorial 25 Hash Functions
+https://youtu.be/4eD8ZX-UIPI
+
+Perl Script Basics Tutorial 1 - Introduction to Perl
+https://youtu.be/VgWhcNTIlko
+Videos 26-33

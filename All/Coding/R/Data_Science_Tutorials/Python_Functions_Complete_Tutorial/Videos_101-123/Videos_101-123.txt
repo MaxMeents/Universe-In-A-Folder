@@ -1,0 +1,70 @@
+
+1 Python Data Analysis Project For Beginners on Restaurant Data with Pandas and Seaborn Library
+https://youtu.be/nrLLw5nL_ck&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Applying Custom Function on Python Pandas DataFrame Columns using Lambda expressions
+https://youtu.be/N0m-9rHFUqE&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to Change Tableau Line Chart Date Levels Dynamically using Date Function
+https://youtu.be/HSPRXZvWiug&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to convert String Currency Values to Numeric Values in Python Pandas
+https://youtu.be/bq6ApRjvomk&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to Create Excel Pivot Table on Python Pandas DataFrame
+https://youtu.be/vARoIR100lc&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to find the mean or max or min of all the Python pandas columns
+https://youtu.be/k0hp_m9FvI0&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to install numpy Library in Windows python IDLE and Jupyter Notebook
+https://youtu.be/1vNdt6ooQeQ&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to Install Pandas and then Import it in Windows Python IDLE and Jupyter Notebook
+https://youtu.be/s1h8K_ssX28&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+How to use vlookup or mapping in python Pandas  Applymap function
+https://youtu.be/NUic-htTQ0I&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+KNN Machine Learning Algorithm Tutorial Explained and Implemented using Python and Parameter Tuning
+https://youtu.be/L3PC3FkqGUA&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Logistic Regression in Python Explained - Theory and implementation
+https://youtu.be/dtdpFyCMNEY&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Python - Boolean Operators  What is and How to Python Not Operator
+https://youtu.be/MZcsbkn-HNc&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Python 3 Programming Tutorial 13  Loops  How to loop over dataframe & create new calculated column
+https://youtu.be/nH1gw-slnOo&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Python Pandas book For Finding Missing Values in a Dataset - 25 Recipes
+https://youtu.be/hk9LZLHQCQc&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Python Tutorials- What are Python operators  Arithmetic operators  Comparison operators in Python
+https://youtu.be/wryDh_6E91U&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense Financial IRR Function  Qlik Sense Training
+https://youtu.be/fo4lrlrpJB0&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense NPV Financial Function  Qlik Sense Training
+https://youtu.be/YZkmvzChQr0&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense Training  Qlik sense Avg Script and Chart Function
+https://youtu.be/2mIRPhT-b9Y&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense Training  Qlik Sense Correlation Chart and Script Function
+https://youtu.be/MHKcLEofikE&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense Training  Qlik Sense Fractile Chart and Script Function
+https://youtu.be/VKGyL1Vf7wk&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense XIRR Financial Function  Qlik sense Training
+https://youtu.be/eztL0Hle7xk&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+Qlik Sense XNPV Financial Function  Qlik sense Training
+https://youtu.be/pCUGas2XVKk&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+
+What is Cross Validation and How to implement it in python
+https://youtu.be/-faMObc604g&list=PLH6mU1kedUy9cwPl4kPAOLRhKmC3j1_Fh
+Videos 101-123

@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 124 - ABM and BMI Instruction Sets
+https://youtu.be/i0wrcw8W75w&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 125 - The Optimal Way To Return From A Function
+https://youtu.be/9mWWNYRHAIQ&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 126 - Lambdas With Destructors
+https://youtu.be/9L9uSHrJA08&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 127 - C++20's Designated Initializers
+https://youtu.be/44rs_hX1dxE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 128 - C++20's Template Syntax For Lambdas
+https://youtu.be/ixGiE4-1GA8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 129 - The One Feature I'd Remove From C++
+https://youtu.be/GeimpPHYYPk&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 130 - C++20's for init-statements
+https://youtu.be/gqhHbhBoDtw&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 131 - Literals in ARM Assembly
+https://youtu.be/eMluWRp5hbI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 132 - Lambdas In Fold Expressions
+https://youtu.be/QhY7Fx-YsGs&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 133 - What Exactly IS A Lambda Anyhow
+https://youtu.be/br4tez2G9eM&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 134 - The Best Possible Way To Create A Visitor
+https://youtu.be/EsUmnLgz8QY&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 135 - {fmt} is Addictive! Using {fmt} and spdlog
+https://youtu.be/KeS1ehp9IiI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 137 - C++ Is Not An Object Oriented Language
+https://youtu.be/AUT201AXeJg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 138 - Will It C++ MIPS Architecture (1985)
+https://youtu.be/2HRqtx859ks&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 139 - References To Pointers
+https://youtu.be/0QOxC7ADT80&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 140 - Use `cout`, `cerr`, and `clog` Correctly
+https://youtu.be/lHGR_kH0PNA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 141 - C++20's Designated Initializers And Lambdas
+https://youtu.be/L8Egig4qH0I&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 142 - Short Circuiting With Logical Operators
+https://youtu.be/WhOdvwRku9Y&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 143 - GNU Function Attributes
+https://youtu.be/ub4bVs8ixko&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 144 - Pure Functions in C++
+https://youtu.be/8ZxGABHcu40&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 145 - Semi-Automatic `constexpr` and `noexcept`
+https://youtu.be/1FAcPvb0ZjU&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 146 - C++20's stdto_address
+https://youtu.be/ka7yYnxV1l8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 147 - C++ And Python Tooling
+https://youtu.be/ZsKdRtQM7EA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 148 - clang-tidy Checks To Avoid
+https://youtu.be/oxpsHk1yq88&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 149 - C++20's Lambda Usability Changes
+https://youtu.be/JxYD8_OHQg8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+Videos 126-150

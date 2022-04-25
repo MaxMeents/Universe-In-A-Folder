@@ -1,0 +1,25 @@
+
+Deep dive into Rails Cross-Site Request Forgery (CSRF) Protection  Preview
+https://youtu.be/-TejfiEKJC8&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+How to Create and Test a Rails Engine  Preview
+https://youtu.be/xTzUOKXcEkc&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+How to Test Against Multiple Databases in Rails with the DATABASE_URL Env Var  Preview
+https://youtu.be/EGPdVcakR2c&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+How to Write C Extensions for Ruby Gems  Preview
+https://youtu.be/yZq9-yImofg&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+Multiple Device support with Request Variants in Rails  Preview
+https://youtu.be/afefQ-6M-Zs&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+Private video
+https://youtu.be/LTMNVkShVms&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+Rails Custom Configuration Options  Preview
+https://youtu.be/6WDO0QYXPOk&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+
+Rails PR Code Review with Kasper Timm Hansen
+https://youtu.be/I6MWhGiNPPg&list=PLm8ctt9NhMNWF8aG7hvfK1ijpBcf5UMcc
+Advanced Rails

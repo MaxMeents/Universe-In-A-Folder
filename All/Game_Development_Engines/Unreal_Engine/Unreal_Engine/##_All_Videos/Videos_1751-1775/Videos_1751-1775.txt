@@ -1,0 +1,76 @@
+
+4.7 Release & Feb #ue4jam Winners 2015  Feature Highlight  Unreal Engine
+https://youtu.be/eFsW2dZNq94
+
+Adding a Hover Component  Live Training  Unreal Engine
+https://youtu.be/5kltaGld6fQ
+
+Adding Camera Shake  Live Training  Unreal Engine
+https://youtu.be/1nMKHwsXSCc
+
+Announcing Unreal Dev Grants  News  Unreal Engine
+https://youtu.be/WDdesD_5Xm0
+
+Blender & UE4  01  Live Training  Unreal Engine
+https://youtu.be/Ayp1lof0RJU
+
+Blender & UE4  02  Live Training  Unreal Engine
+https://youtu.be/BeaKeiepoas
+
+Building a Jump Pad  Live Training  Unreal Engine
+https://youtu.be/6admWItFIsE
+
+C++ Extending the Editor  Live Training  Unreal Engine
+https://youtu.be/zg_VstBxDi8
+
+Colour Grading Your Scene  Live Training  Unreal Engine
+https://youtu.be/oBzHB-VRCS0
+
+Creating a Slow Motion Effect  Live Training  Unreal Engine
+https://youtu.be/oX_uSjO270g
+
+Feb #ue4jam Entries 2015  Project Spotlight  Unreal Engine
+https://youtu.be/-A3vNzza-ME
+
+GDC Demo Projects & Feb #ue4jam Kickoff 2015 News  Unreal Engine
+https://youtu.be/h7uUzIRKGRY
+
+GitHub Interview & Jan #ue4jam Winners 2015  News  Unreal Engine
+https://youtu.be/yQVMZ1xO15A
+
+Jan #ue4jam Entries 2015  Project Spotlight  Unreal Engine
+https://youtu.be/o-fwtswmOlw
+
+Making a Destructible Mesh  Live Training  Unreal Engine
+https://youtu.be/-gGiEmYj4oE
+
+Making a Simple Converyor Volume  Live Training  Unreal Engine
+https://youtu.be/aqRUe7pm4Ok
+
+Republic Sniper by MartianCraft  Developer Interview  Unreal Engine
+https://youtu.be/G-AFAkRJWSQ
+
+Silly Geo Creating a Twin-Stick Shooter  Live Training  Unreal Engine
+https://youtu.be/AA6OdxeDIJU
+
+Translucent Water Detail  Live Training  Unreal Engine
+https://youtu.be/-XyeFXdKi08
+
+UE4 is Free A Message from Tim Sweeney  News  Unreal Engine
+https://youtu.be/Pt86Ab4_TnA
+
+Unreal Stick Figure 2D  Live Training  Unreal Engine
+https://youtu.be/qWUEkTd2Xu8
+
+Using BP Components for Game Behaviour  Live Training  Unreal Engine
+https://youtu.be/qr4ZjieAQKY
+
+Using Timers to Update Your Game  Live Training  Unreal Engine
+https://youtu.be/BeztKC4cO18
+
+Water Pack Overview, New Launcher & More  News  Unreal Engine
+https://youtu.be/CIi0t-HgXyw
+
+Water Surface Overview  Live Training  Unreal Engine
+https://youtu.be/aJ1M0Ejd_ts
+Videos 1751-1775

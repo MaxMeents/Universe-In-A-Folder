@@ -1,0 +1,76 @@
+
+5G Beamforming Design
+https://youtu.be/ijiFWLdUorA
+
+ASIC and FPGA Workflow for ISO 26262 and IEC 61508
+https://youtu.be/cMeS43BbeOI
+
+Come accedere alla Simulink Code Inspector Library
+https://youtu.be/S8MJlbutFoM
+
+Costruire App per desktop e web in MATLAB con appdesigner
+https://youtu.be/90LJBxslxfI
+
+Fixed-Point Made Easy for FPGA Programming
+https://youtu.be/cZK-AN19isc
+
+Gestione dei Dati di Design in MATLAB e Simulink
+https://youtu.be/iHmhfl9ptGY
+
+How to Design and Train Generative Adversarial Networks (GANs)
+https://youtu.be/PyrGhzndBuM
+
+How to Improve Simulation Performance Using the Solver Profiler
+https://youtu.be/-EQI2Osbeug
+
+Modeling and Simulation of an Autonomous Underwater Vehicle
+https://youtu.be/ogSQXPyt504
+
+Part 5 Measuring and Improving Battery Management System (BMS) Test Coverage
+https://youtu.be/UERwru_mtEw
+
+Part 6 Generating Code for a Battery Management System (BMS)
+https://youtu.be/6FV-0bH7yDk
+
+Part 7 Testing Generated Code for a Battery Management System (BMS)
+https://youtu.be/zbxa8Nmudio
+
+Simulating Longitudinal and Lateral Vehicle Dynamics
+https://youtu.be/WID-MBOIIt8
+
+Using Vision Sensors for Robot Autonomy
+https://youtu.be/atlhcauQ-40
+
+What Is MATLAB Web App Server
+https://youtu.be/22XaIBGE9PE
+
+What Is Vehicle Dynamics Blockset
+https://youtu.be/NqknKmVPeEA
+
+Working with Tables and Table Arrays in MATLAB
+https://youtu.be/vkQSAxTzfII
+
+信号处理中的深度学习
+https://youtu.be/7u0-QmAqso4
+
+可视化数据  MATLAB 数据科学系列视频，Part 4
+https://youtu.be/xlCIP2OXTKA
+
+大数据扩展  MATLAB 数据科学系列视频，Part 6
+https://youtu.be/aJUXneE2lcU
+
+导入数据  MATLAB 数据科学系列视频，Part 1
+https://youtu.be/DpLvVL1wpLI
+
+分析数据  MATLAB 数据科学系列视频，Part 3
+https://youtu.be/Y7z4mxQio9I
+
+模型部署  MATLAB 数据科学系列视频，Part 7
+https://youtu.be/C07i3WW2pS0
+
+预处理数据  MATLAB 数据科学系列视频，Part 2
+https://youtu.be/S3TxEqoFyAw
+
+预测模型  MATLAB 数据科学系列视频，Part 5
+https://youtu.be/A_5_JpqNMio
+Videos 626-650

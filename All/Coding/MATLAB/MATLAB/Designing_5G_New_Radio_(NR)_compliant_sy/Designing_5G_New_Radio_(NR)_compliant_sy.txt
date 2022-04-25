@@ -1,0 +1,19 @@
+
+5G What's behind the next generation of mobile communications
+https://youtu.be/GQhlBB8bLKE&list=PLn8PRpmsu08oazo61Gv8rxXo5lsvUAx46
+
+Accelerate 5G Development with MATLAB and Simulink - 5G Wireless Technology Development
+https://youtu.be/NBgcPFKfRSw&list=PLn8PRpmsu08oazo61Gv8rxXo5lsvUAx46
+
+Hardware-Software Prototyping of an LTE MIB Recovery Design
+https://youtu.be/wRy58Io4pBo&list=PLn8PRpmsu08oazo61Gv8rxXo5lsvUAx46
+
+Power Amplifier Modeling and DPD Design with MATLAB
+https://youtu.be/eo21QWO4VDU&list=PLn8PRpmsu08oazo61Gv8rxXo5lsvUAx46
+
+Spatial Multiplexing and Hybrid Beamforming
+https://youtu.be/6wAuPI9ZYgw&list=PLn8PRpmsu08oazo61Gv8rxXo5lsvUAx46
+
+Using MATLAB to develop 5G RF front-end components and associated control algorithms
+https://youtu.be/a1O0YGNR-HA&list=PLn8PRpmsu08oazo61Gv8rxXo5lsvUAx46
+Designing 5G New Radio (NR) compliant systems

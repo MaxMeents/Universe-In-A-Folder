@@ -1,0 +1,76 @@
+
+[AHKTuts] Adv - Ep1 - httpQuery Basics
+https://youtu.be/wTYhMgZNB8M&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep2  - General Debugging Concepts [p2]
+https://youtu.be/2GLNln_MHQw&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep2 - General Debugging Concepts [p1]
+https://youtu.be/Ahu5jNGYdbo&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep3 - DllCall [P1]
+https://youtu.be/aWEvHoRYh2U&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep3 - DllCall [P2]
+https://youtu.be/TYFiapIlk48&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep4 - OnMessage [P1]
+https://youtu.be/ENtviHniOB4&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep4 - OnMessage [P2]
+https://youtu.be/VAjACikKLU4&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep5 - SendMessage [P1]
+https://youtu.be/wMwkuxgff40&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep5 - SendMessage [P2]
+https://youtu.be/6nEyZW9fLUk&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Adv - Ep5 - SendMessage [P3]
+https://youtu.be/NE5Fdcf1XNM&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep0 - Introduction [p1]
+https://youtu.be/RbP7A4f1Fb4&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep0 - Introduction [p2]
+https://youtu.be/8FWCezKTvSI&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep1 - Variables [p1]
+https://youtu.be/7bO3e4DZrjA&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep1 - Variables [p2]
+https://youtu.be/s6oVBGg2N-8&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep2 - If-Else Basics
+https://youtu.be/rMkj8TSthxc&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep3 - If-Else Special Operands - [and] [or] [not]
+https://youtu.be/R8VV1_55Yns&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep4 - If Else Special Operands - [between] [in] [contains] [is (type)]
+https://youtu.be/eEZhcGd5Tug&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep5 - Recap [p1]
+https://youtu.be/RQUGr992f3I&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep5 - Recap [p2]
+https://youtu.be/j9IId6cQePw&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep6 - Loop Basics [p1]
+https://youtu.be/Yk6hpdvJEyc&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep6 - Loop Basics [p2]
+https://youtu.be/SZ3sIvTlt7w&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] EP7 - Loop [Parse]
+https://youtu.be/MBXPO_1XnUQ&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep8 - Loop [File Pattern] [P1]
+https://youtu.be/v499VE0gCgk&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Ep8 - Loop [File Pattern] [P2]
+https://youtu.be/8xmWGYNWYeM&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+
+[AHKTuts] Q&A - Ep3 - Start & Stop a Loop with a hotkey
+https://youtu.be/B5lwtRp69Xo&list=PLJTRBivNK8F1wYKzz7J_UZUf_axAZ_sVb
+Videos 1-25

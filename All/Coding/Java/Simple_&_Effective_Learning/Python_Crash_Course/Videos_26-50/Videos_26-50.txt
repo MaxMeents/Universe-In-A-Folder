@@ -1,0 +1,76 @@
+
+Bitwise AND Operator in Python  Python Bitwise AND Operator  Python AND Operator  AND Operator
+https://youtu.be/Fh-RAzU-akE&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Bitwise Left shift Operator in Python  Left Shift operator in Python  Python Left shift
+https://youtu.be/kESLGEiVL3s&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Bitwise One's Complement  Binary One's Complement in Python  Binary One's Complement operator
+https://youtu.be/F7YC8Jw25j8&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Bitwise OR Operator in Python  Python Bitwise OR Operator  Python OR Operator  OR Operator
+https://youtu.be/GFVlrcIBXAA&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Bitwise Right Shift Operator in Python  Right Shift operator in Python  Python Right shift
+https://youtu.be/bMwYcoi1HaQ&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Bitwise XOR Operator in Python  Python Bitwise XOR Operator  Python XOR Operator  XOR Operator
+https://youtu.be/1vIwuCszVCs&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Boolean Data type in Python  Boolean Operators In Python  Python Boolean Tutorial
+https://youtu.be/L3Dsj5HeOBc&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Data type conversion in Python  Type casting in Python  Python type casting  Type Conversion
+https://youtu.be/wSQme_XPRwg&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Arithmetic operators  Arithmetic operators in python  Python Arithmetic Operators
+https://youtu.be/kJPZwXM2isI&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Comparison operators  Python Comparison Operators  Relational operators in Python
+https://youtu.be/reGwK0_N0IA&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Dictionaries in Python  Python Dictionary (Create, Update, Delete & Access Elements)
+https://youtu.be/dfcMAWDSvSY&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Identity Operator in Python  Identity Operator in Python  Python Identity Operators
+https://youtu.be/LiueGyidUJk&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use List in Python  Python List (Creating, Updating, Deleting & Accessing Elements)
+https://youtu.be/xUdBvGruuOY&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Logical operators in Python  Logical operators in Python  Logical OperatorAND,OR,NOT
+https://youtu.be/IylCMfGtTSs&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Membership Operator  Membership Operator in Python  Membership Operator (IN,NOT IN)
+https://youtu.be/fB6kH0fUrHw&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Set in python  Python Set (Create, Add, Update, Discard. Pop, Clear, Remove & Delete)
+https://youtu.be/w9yAzZFLl7U&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Strings in Python  Python Strings (Create, Update, Access, Replace, Format & Escape)
+https://youtu.be/SyuQCOdHT_M&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+How to use Tuples in Python  Python Tuples (Creating, Updating, Deleting & Accessing Elements)
+https://youtu.be/TtOPIx4STA0&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+Set operation in Python  Python Set (Union, Intersection, Difference & Symmetric difference)
+https://youtu.be/zoPl56Uw5QE&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is Bitwise Operator in Python  Bitwise Operators in Python  Python Bitwise Operators
+https://youtu.be/CzUPs33xUcI&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is Dictionary in Python  Python Dictionary Tutorial  Python Dictionary program
+https://youtu.be/BfjQKUJ0kao&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is Operators in Python  Python Operators  Operators in Python  Operators
+https://youtu.be/vV8_C-14JLA&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is Set in Python  Set Data type in Python  Python Set Tutorial  Sets in python
+https://youtu.be/V2A2tFd_F3k&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is String in Python  Python String Datatype  Strings in Python  String Datatype in Python
+https://youtu.be/1YQmsYliluU&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+
+What is Tuples in Python  Python Tuples  Tuples in Python  Tuples  Python Tuples Tutorial
+https://youtu.be/S0W-cVW5PRw&list=PLnwPi7O4x-PCuMVxfWsaNJghjdR9_UuyD
+Videos 26-50

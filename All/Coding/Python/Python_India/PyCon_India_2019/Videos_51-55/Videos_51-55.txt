@@ -1,0 +1,16 @@
+
+A Pythonista's Approch to DeepFakes - Navin Pai
+https://youtu.be/DeCozoEgUQU&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Anomaly Detection in Cyber Security for loT using Federated Learning - Bargava Subramanian
+https://youtu.be/xcncDsMXKJo&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Building GraphQL API with Django - Anitha
+https://youtu.be/GnaCVdGFTDI&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Generators Explained - Rajat Vadiraj Dwaraknath
+https://youtu.be/X9rqrF9Kpaw&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+
+Keynote - Devi A S L
+https://youtu.be/4NloCFWNtQU&list=PL6GW05BfqWIfsflQt05LM3FTX6cd7PGps
+Videos 51-55

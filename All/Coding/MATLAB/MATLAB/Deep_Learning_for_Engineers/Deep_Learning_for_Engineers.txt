@@ -1,0 +1,16 @@
+
+Data Preprocessing and the Short-Time Fourier Transform  Deep Learning for Engineers, Part 3
+https://youtu.be/N780rQIXSgc&list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
+
+Deploying Deep Learning Models   Deep Learning for Engineers, Part 5
+https://youtu.be/WcRWd2SzL8k&list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
+
+Using Transfer Learning  Deep Learning for Engineers, Part 4
+https://youtu.be/mxvSnCRFM6s&list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
+
+Why Choose Deep Learning  Deep Learning for Engineers, Part 1
+https://youtu.be/PqDwddEHswU&list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
+
+Working with Synthetic Data  Deep Learning for Engineers, Part 2
+https://youtu.be/ufGvn0GTkXE&list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
+Deep Learning for Engineers

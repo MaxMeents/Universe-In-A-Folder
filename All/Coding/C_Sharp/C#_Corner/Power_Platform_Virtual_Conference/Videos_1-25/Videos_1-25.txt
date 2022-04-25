@@ -1,0 +1,76 @@
+
+2010 Workflows to M365 Power Platform   Power Platform Virtual Conference
+https://youtu.be/bV3tY4NEWLQ&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+A Modern Factory - Power Platform-based Real-time Production Floor Monitoring
+https://youtu.be/r2LogV8s90k&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Adaptive Cards in Office 365 processes  Power Platform Virtual Conference
+https://youtu.be/Q2ZpSG_v3nE&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Azure IoT + Power Apps = Perfect match for your 1st IoT Project  Power Platform Virtual Conference
+https://youtu.be/fxFOSevM7I0&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Building an Empire - Implementing Power BI Step by Step  Power Platform Virtual Conference
+https://youtu.be/pKBk5fRYK04&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Connecting the dots with PowerAutomate, MS Graph and other cool stuff!
+https://youtu.be/nu9UU4gxKcI&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Develop AI enabled Applications in PowerApps using AI Builder
+https://youtu.be/Q8CUREmwjVM&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Extend your chatbot and unlock the power  Power Platform Virtual Conference
+https://youtu.be/QCO0Fe5-_L0&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+How to start with Azure Synapse Analytics - Power BI Developer Edition
+https://youtu.be/YACdHJk8VJo&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+How we can enable Mixed Reality in Power Apps  Power Platform Virtual Conference
+https://youtu.be/avSaxGT_M2g&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Keeping up with your Power BI Tenant Administration  Power Platform Virtual Conference
+https://youtu.be/aLyL0SGPsT0&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Learn the many ways to use custom fonts in Power Apps  Power Platform Virtual Conference
+https://youtu.be/9ZvBIwQTrAM&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Low-code platform - where do the devs fit in
+https://youtu.be/6GBaQTs0hVg&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Magnificent 7 - Simple Tricks to boost your Power BI Development Power Platform Virtual Conference
+https://youtu.be/mAn0iNdz3go&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Make The Impossible Possible Create Amazing 3D Games with Mixed Reality in Power Apps!
+https://youtu.be/EZyzObW9lGo&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Nintex Onprem to Power Platform Migration - Lessons Learned  Power Platform Virtual Conference
+https://youtu.be/On9FwjNNPkA&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Power Apps Components What How When  Power Platform Virtual Conference
+https://youtu.be/brX2HwnTuS0&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Power Automation Best practices, tips and tricks  Power Platform Virtual Conference
+https://youtu.be/7BWIaxpBtW8&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Power BI Pointers  Power Platform Virtual Conference
+https://youtu.be/BKJoc0QTSIQ&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Power Platform empowers Microsoft Teams  Power Platform Virtual Conference
+https://youtu.be/v1o_P0hzMWY&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Time Intelligence in Power BI  Power Platform Virtual Conference
+https://youtu.be/drZh6ICLo4w&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Understanding Microsoft Dataverse
+https://youtu.be/5EFvtdAxdxs&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Using Power Virtual Agents to boost Microsoft Teams adoption
+https://youtu.be/U1zh4mWZzsQ&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Working with Power Apps Galleries  Power Platform Virtual Conference
+https://youtu.be/FQDKePSIzSY&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+
+Zero to Hero in Power Virtual Agents in 50 Minutes
+https://youtu.be/ldf_Mbi1utY&list=PLEy5IbO-F1-knAWW60zMB56Ems4RGRg_9
+Videos 1-25

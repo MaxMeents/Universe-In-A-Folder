@@ -1,0 +1,76 @@
+
+Python Basics Adding Strings
+https://youtu.be/AIVgi1ZXCdU&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Advance String format
+https://youtu.be/GyKvB0ScNBU&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Dictionary pt  2
+https://youtu.be/tDySJkWtrUQ&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics How To Split a String
+https://youtu.be/lu9yA84tNKo&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Increment Strings
+https://youtu.be/c9XtGWxi70I&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Infinite String Input with Strip and Split Methods
+https://youtu.be/_9ziJDtIXNM&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Len with while loop
+https://youtu.be/2DR0pTV6VAw&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Like and Unlike
+https://youtu.be/7Uw7oIBKxBM&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Print String Format
+https://youtu.be/LeM30PzFKjg&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Slicing Strings
+https://youtu.be/QDg4NYQxd-k&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Count Sub-Strings
+https://youtu.be/Fjt6oNp-FX8&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Find Method
+https://youtu.be/XFSo3OTQlIs&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Format Phone Number
+https://youtu.be/nUrSDdVTol0&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Formatting Viewer Requested Video
+https://youtu.be/ndPB62M-14E&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Method Count
+https://youtu.be/hd0leB4mGNs&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Method Join
+https://youtu.be/qMfUyDsbDMg&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Module
+https://youtu.be/QEj87cl9lg8&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Palindrome pt 2
+https://youtu.be/3haTQBn7ttQ&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Palindrome
+https://youtu.be/Vxe_Gkxq9SQ&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Tab and New line
+https://youtu.be/1oIodRrMRsE&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics String Value Using a Dictionary
+https://youtu.be/UPpz08tKINA&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Strings Lower and Capitalize
+https://youtu.be/_QVNzHegrcw&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Sub-String Find Method
+https://youtu.be/pK2HRpyfX0s&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Sub-string Function
+https://youtu.be/zxSEkzd6T9A&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+
+Python Basics Tutorial String Assignment
+https://youtu.be/L130KJV8ITk&list=PLaYT64KWZAENNACAYAXNzjlZMjdxDLnQI
+Videos 1-25

@@ -1,0 +1,76 @@
+
+[VDT19] Angular, React, Vue and Co. – peacefully united thanks to Web Components and Micro Apps
+https://youtu.be/kYAvBEW3M74&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Applied machine learning a few lessons I learned the hard way by Alessandro Giusti
+https://youtu.be/p3O_bxIFYZk&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Build your own voice recognition solution with Alexa by Johan Janssen
+https://youtu.be/rOvHjMNUzyA&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Cognitive UX Using cognitive science and psychology to drive UX design by Emilia Ciardi [IT]
+https://youtu.be/_H-AT3aLbhg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Concurrent Garbage Collectors ZGC & Shenandoah by Simone Bordet [IT]
+https://youtu.be/WU_mqNBEacw&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Design and Effectiveness of Internal DSLs in Scala by Andrea Mocci
+https://youtu.be/pvs3uvUHDPs&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Digital Enterprise DevOps Toolchain by Marco Bizzantino [IT]
+https://youtu.be/t7NrwfJwvjU&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Get some superpowers with your terminal by Siegfried Ehret
+https://youtu.be/ZVv4klOho2M&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Gradle Ex Machina by Andres Almiray
+https://youtu.be/C6XrD0bQceE&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] How and why I turned my old Java project into a first-class serverless component
+https://youtu.be/t01Utg4WB0w&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Java - Quo Vadis by Tobias Hartmann
+https://youtu.be/149Q1Xbud2I&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Keynote Performance tuning by Chris Thalinger
+https://youtu.be/BgWqyu_u9NQ&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Learning 2 learn by Carlo Corti
+https://youtu.be/I9mpF8RTNHU&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Mastering UI tests by Stefano Magni
+https://youtu.be/RwWz4hllDtg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Modern Enterprise Java from the ground up by Sebastian Daschner
+https://youtu.be/21NzRCU4xKk&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Multiplayer Pac-Man with RSocket by Oleh Dokuka
+https://youtu.be/7ZT4HTElu9k&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] MySQL 8.0 un database SQL+NoSQL per i micro servizi by Marco Carlessi [IT]
+https://youtu.be/ztuKUEnO9gY&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] One app to rule them all - Building a white-label application with React Native
+https://youtu.be/M0Y01qrXQHo&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Passwords are so 1990 by Sam Bellen
+https://youtu.be/PQnpAO2yD5c&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Quarkus super fast java to enable AI in enterprise application
+https://youtu.be/o67SCGk12-o&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Start writing security tests now! by Nanne Baars
+https://youtu.be/e2k84VbH1_U&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Streaming ETL on the Shoulders of Giants by Hans-Peter Grahsl
+https://youtu.be/Uyu4TpVNzp8&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] TDD for jenkins pipelines by Mauro Ferratello
+https://youtu.be/WND-DRWGTJE&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] Untangled Sneak peek at Project Loom by Arnaud Bos
+https://youtu.be/v5Z8rOTzM8s&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+
+[VDT19] What would you do with 10^6 cores High Performance Computing in the AWS Cloud by Frank Munz
+https://youtu.be/-QCGam1DDqQ&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP
+Videos 1-25

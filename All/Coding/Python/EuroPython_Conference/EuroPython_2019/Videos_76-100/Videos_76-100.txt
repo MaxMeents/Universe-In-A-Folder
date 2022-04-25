@@ -1,0 +1,76 @@
+
+Alexander Hendorf - Explaining AI to Managers 👨?💼🤖👩?💼
+https://youtu.be/YKEuaN4CWU0&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Alexys Jacob - How we run GraphQL APIs in production on our Kubernetes cluster
+https://youtu.be/CRf7HS_iflU&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Anastasiia Tymoshchuk - The Agile comedy from hell to paradise
+https://youtu.be/UmeK-yOc1Mo&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Andrey Vlasovskikh - The Story of Features Coming in Python 3.8 and Beyond
+https://youtu.be/L7Q698q3RUU&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Bernat Gabor - status quo of virtual environments
+https://youtu.be/o1Vue9CWRxU&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Brad Miro - Deep Learning with TensorFlow 2.0
+https://youtu.be/9CdCczxwuZ4&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Christian Heimes - Introduction to low-level profiling and tracing
+https://youtu.be/NS8aU-Rpfvg&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Christoph Deil - Understanding Numba - the Python and Numpy compiler
+https://youtu.be/UaFSnaYh2b8&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Daniele Procida - The world's cheapest, simplest plotter
+https://youtu.be/Rn4X2ZgZvsk&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+EuroPython 2019 - Lightning talks on Thursday, July 11
+https://youtu.be/YwJRS2Xe-Hc&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+EuroPython 2019 - Recruiting Session
+https://youtu.be/HHiEQRX7nO4&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+EuroPython 2019 - Sprint Orientation
+https://youtu.be/pSS3fV8DkQY&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+James Saryerwinnie - Downloading a Billion Files in Python
+https://youtu.be/E_oIU4IU2W8&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Juan Santos - PEP yourself 10 PEPs you should pay attention to
+https://youtu.be/yRVnTrp9dcY&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Luba Elliott  - AI in Contemporary Art
+https://youtu.be/WOKskgq1x7Y&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Michele Simionato - Tips for the scientific programmer
+https://youtu.be/JcdY2SxAFqY&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Miguel Grinberg - Look Ma, No HTTP!
+https://youtu.be/dfe8MUdSoXs&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Mikhail Bushkov, Max Vogler - Evolving a helper script into a 180,000-lines-of-Python-code project
+https://youtu.be/hlqwf6lkPj0&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Nicholas Tollervey - Tools of the Trade The Making of a Code Editor.
+https://youtu.be/US0L6rjXVcQ&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Peter Sperl - Configuring uWSGI for Production The defaults are all wrong
+https://youtu.be/3pNJDhD6v7A&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Radosław Ganczarek - Code quality in Python
+https://youtu.be/plAnsL8oZeM&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Stefan Behnel - Get up to speed with Cython 3.0
+https://youtu.be/lxh4lsvEBhI&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Tiago Montes - Don't do this at work
+https://youtu.be/gKu3AyRZ1yA&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Trapsilo Bumi - Enhancing Angklung Music Rehearsals with Python
+https://youtu.be/HGcMHjzBzuw&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+
+Victor Stinner - Python Performance Past, Present and Future
+https://youtu.be/TXRPCZ7Nmh4&list=PL8uoeex94UhHFRew8gzfFJHIpRFWyY4YW
+Videos 76-100

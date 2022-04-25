@@ -1,0 +1,34 @@
+
+4 Ways to Implement a Transfer Function in Code  Control Systems in Practice, Part 7
+https://youtu.be/nkq4WkX7CFU&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+A Better Way to Think About a Notch Filter  Control Systems in Practice, Part 5
+https://youtu.be/tpAA5eUb6eo&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+Nichols Chart, Nyquist Plot, and Bode Plot  Control Systems in Practice, Part 10
+https://youtu.be/QAfk8TuOM68&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+Passivity-Based Control to Guarantee Stability  Control Systems in Practice, Part 11
+https://youtu.be/yFS5PSmlp6E&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+The Gang of Six in Control Theory  Control Systems in Practice, Part 8
+https://youtu.be/b_8v8scghh8&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+The Step Response  Control Systems in Practice, Part 9
+https://youtu.be/USH75nuHV6w&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+What Are Non-Minimum Phase Systems  Control Systems in Practice, Part 6
+https://youtu.be/jGEkmDRsq_M&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+What Control Systems Engineers Do  Control Systems in Practice, Part 1
+https://youtu.be/ApMz1-MK9IQ&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+What Is Feedforward Control  Control Systems in Practice, Part 3
+https://youtu.be/FW_ay7K4jPE&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+What Is Gain Scheduling  Control Systems in Practice, Part 2
+https://youtu.be/YiUjAV1bhKs&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+
+Why Time Delay Matters  Control Systems in Practice, Part 4
+https://youtu.be/wouhREkqZa0&list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b
+Control Systems in Practice

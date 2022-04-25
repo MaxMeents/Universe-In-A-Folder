@@ -1,0 +1,13 @@
+
+HIL Simulation for Power Electronics
+https://youtu.be/vrRq6YovMtk&list=PLn8PRpmsu08rwPnGC9_QR12UWM1g4oMLh
+
+Motor Control with Embedded Coder and TI’s C2000
+https://youtu.be/cuZj_hvVo_4&list=PLn8PRpmsu08rwPnGC9_QR12UWM1g4oMLh
+
+On HOLD - Real Time Battery Pack Simulation Using Multicore Computers
+https://youtu.be/_zr_XhnmJmE&list=PLn8PRpmsu08rwPnGC9_QR12UWM1g4oMLh
+
+Real Time Simulation of Battery Packs Using Multicore Computers
+https://youtu.be/ZSrgp8JqFkI&list=PLn8PRpmsu08rwPnGC9_QR12UWM1g4oMLh
+Videos 26-29

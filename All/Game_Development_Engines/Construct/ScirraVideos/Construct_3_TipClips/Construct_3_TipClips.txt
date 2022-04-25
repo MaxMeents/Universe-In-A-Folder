@@ -1,0 +1,34 @@
+
+TipClips - Assigning by numbers! Quickly move image and origin points in the animations editor!
+https://youtu.be/4j5rnMqEDJ8&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Avoid moving things you don't want to by locking stuff!
+https://youtu.be/oy0dKbh00Xg&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Check your layer numbers when using Global objects!
+https://youtu.be/eGB-m72U_dY&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Comments are your friends peeps!
+https://youtu.be/0JIarrW1igc&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Did you know you can resize the panes in the Animations Editor
+https://youtu.be/7Zd5_euATQ8&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Disabling Floodfill in the Animations Editor to fill a single colour
+https://youtu.be/3-HjaFhX64w&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Got objects stacked on top of each other Use the tab key to click through to the object
+https://youtu.be/mwm_fHOJ5yM&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Need to check if your JSON project file is valid Try minification or beautification!
+https://youtu.be/8lDC3YrLZv4&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Subfolders in the Animations Editor
+https://youtu.be/qtwneSOKnDY&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Use the 'is typewriter running' condition to add more control to your text objects!
+https://youtu.be/bTnI5UIy42U&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+
+TipClips - Using a Tile Movement condition to tidy up animations
+https://youtu.be/GRO1ZhjWXgk&list=PL7GMuVXUsYnYtRiPHbyI7xOTWWBk4igjq
+Construct 3 TipClips

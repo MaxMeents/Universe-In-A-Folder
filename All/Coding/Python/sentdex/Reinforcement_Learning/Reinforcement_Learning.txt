@@ -1,0 +1,19 @@
+
+Creating A Reinforcement Learning (RL) Environment - Reinforcement Learning p.4
+https://youtu.be/G92TF4xYQcU&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
+
+Deep Q Learning w DQN - Reinforcement Learning p.5
+https://youtu.be/t3fbETsIBCY&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
+
+Q Learning Algorithm and Agent  - Reinforcement Learning p.2
+https://youtu.be/Gq1Azv_B4-4&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
+
+Q Learning IntroTable - Reinforcement Learning p.1
+https://youtu.be/yMk_XtIEzH8&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
+
+Q-Learning Agent Analysis - Reinforcement Learning p.3
+https://youtu.be/CBTbifYx6a8&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
+
+Training & Testing Deep reinforcement learning (DQN) Agent - Reinforcement Learning p.6
+https://youtu.be/qfovbG84EBg&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
+Reinforcement Learning

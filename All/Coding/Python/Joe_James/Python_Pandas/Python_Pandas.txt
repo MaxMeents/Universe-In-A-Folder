@@ -1,0 +1,37 @@
+
+Pandas Change NaN to Zeros in DataFrame
+https://youtu.be/7Nnf8GPBzL4&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - Combine 2 Columns of a DataFrame
+https://youtu.be/kJkNRbKzs6w&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - Drop Rows in DataFrame with NaN
+https://youtu.be/mqI7xtlE2VU&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - How to Change COLUMN NAMES or Rename cols in DataFrame
+https://youtu.be/YnggjqAfZCU&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - How to Change Column Order or Swap Columns in DataFrame
+https://youtu.be/Hvf67c2YTUw&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - How to DELETE COLUMNS from DataFrame
+https://youtu.be/Cu6lPGeT5cA&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - How to IMPORTread & EXPORTwrite CSV & JSON data
+https://youtu.be/x2Shyoif3ls&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - How to Iterate Rows of a DataFrame
+https://youtu.be/XWI1m5AWeaw&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas - Working with TIME & Date SERIES Data  Datetime & Timestamp
+https://youtu.be/QQy_zD-LE-4&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas Plotting Data with Matplotlib
+https://youtu.be/ALX88JzeQnk&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas Select, SLICE & FILTER Data rows & columns by Index or Conditionals
+https://youtu.be/DCE6t3vNfvM&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+
+Python Pandas Tutorial  Intro to DataFrames
+https://youtu.be/e60ItwlZTKM&list=PLj8W7XIvO93ozX8eW6YU3lVarO9ogSCal
+Python Pandas

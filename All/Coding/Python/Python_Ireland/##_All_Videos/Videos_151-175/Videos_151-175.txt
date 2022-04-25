@@ -1,0 +1,76 @@
+
+An Introduction to Image Classification in Python - Jose Dominguez
+https://youtu.be/3PgU6or3T3A
+
+Building a Social Network Content Recommendation  Service Using Factorisation Machines - Conor Duke
+https://youtu.be/9lifSPf1Y5o
+
+CPython - Bytecode and Virtual Machine - Stephane Wirtel
+https://youtu.be/45BhX5wSeVs
+
+Cut Your Losses! How to Use Web Scraping to Analyse Ireland's Used Car Market - Ruairi Fahy
+https://youtu.be/x38wfQVVOIA
+
+Data Analysis in MRI and PETMRI Neuroimaging - Davide Poggiali
+https://youtu.be/Wpwuw5nKqDs
+
+Data Pipeline Evolution - Ali King
+https://youtu.be/zEXbOA1NEeM
+
+Data Science in the Balanced team - Ian Huston
+https://youtu.be/WrndtgVvWXU
+
+Detection of Duplicate Records in Large Scale Multi-tenant Platforms - Paul O'Grady
+https://youtu.be/M2u9pxrhvDE
+
+Experimenting with TensorFlow - Breandan Considine
+https://youtu.be/eWw48_rDADk
+
+Get Your Code to do Your Job - Ronan Hayes
+https://youtu.be/yVbi9RJuidY
+
+Gradient Boosting What Is It and How Can I Use It In My Machine Learning - Eoin Brazil
+https://youtu.be/W7ZgagPAaxI
+
+How to Merge Noisy Datasets - Johannes Ahimann
+https://youtu.be/1BjiTC5O_rc
+
+Introduction to Data Science - Dr Ana Peleteiro Ramallo
+https://youtu.be/PzgbeXa0bZ8
+
+Kajiki, the Fast and Validated Template  Engine You Were Looking For - Alessandro Molina
+https://youtu.be/E59U9M2NQMk
+
+Lessons Learned Open  Sourcing Codespeed - Miquel Torres
+https://youtu.be/imIJ90D3z2I
+
+Making Good Testing Decisions - Ingrid Epure
+https://youtu.be/tt4re_yMIyg
+
+Managing Kubernetes from Python Using Kube - David Charles
+https://youtu.be/Jig0LdTLkkY
+
+Natural Language Processing Using Python Tools - Piyush Arora
+https://youtu.be/xUuQP4Z4YD8
+
+Overview of Python Web Development, from Searching to Deployment - Andrea Fagan
+https://youtu.be/7GI-ohaJfto
+
+Plug in With Python - Markus Törnqvist
+https://youtu.be/zRrjugBk9rA
+
+Putting Data Science Into Production - Brian O'Mullane & Roger Thomas
+https://youtu.be/2W4FABwBP7w
+
+Rethinking Package Management - Rok Garbas
+https://youtu.be/4sXDgZl2GPk
+
+The Bluffer's Guide to Data Science - Paul Barry
+https://youtu.be/mje6289fJ3Q
+
+The Evolution of Containerised  Testing at Demonware - James Heslin & Thomas Shaw
+https://youtu.be/b6PrvsLNdK8
+
+Type Hints for Static and Runtime Type Checking - Ivan Smirnov
+https://youtu.be/w6Sf0nSKwA0
+Videos 151-175

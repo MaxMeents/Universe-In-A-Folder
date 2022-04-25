@@ -1,0 +1,76 @@
+
+Basic Python 3 for Beginners 1 & 2  Introduction, Comments, & Printing
+https://youtu.be/rxSyXBq9zq0
+
+Basic Python 3 for Beginners 10 User Input
+https://youtu.be/UvNAm1qPdCY
+
+Basic Python 3 for Beginners 3 String Variables
+https://youtu.be/IOSOCAIc0H8
+
+Basic Python 3 for Beginners 4 Integers and Floats
+https://youtu.be/B2OoMUcXRcI
+
+Basic Python 3 for Beginners 5 Conditionals
+https://youtu.be/wfNHiay97vw
+
+Basic Python 3 for Beginners 6 Loops
+https://youtu.be/pV6bkk1UxI8
+
+Basic Python 3 for Beginners 7 Lists
+https://youtu.be/lQ52sNF_d2o
+
+Basic Python 3 for Beginners 8 Dictionaries
+https://youtu.be/vFRI5D_nnCw
+
+Basic Python 3 for Beginners 9 Functions
+https://youtu.be/zZ2IC_uebjg
+
+Function Practice Send and Return Values wBooleans
+https://youtu.be/LqTDApXYVpU
+
+Loop Challenge Walkthrough
+https://youtu.be/RO7x4qPM8aY
+
+Python Game Programming Tutorial Missile Command Intro
+https://youtu.be/eMWmVc5kBhg
+
+Python Game Programming Tutorial Missile Command Part 1
+https://youtu.be/pAc0JXn0ZPQ
+
+Python Game Programming Tutorial Missile Command Part 3
+https://youtu.be/-2vRmrHWOyI
+
+Python Game Programming Tutorial Missile Command Part 5
+https://youtu.be/g2DcJ8whPc8
+
+Python List Practice for Beginners Star Trek Captains
+https://youtu.be/T_C0B9zqGhY
+
+Python Maze Game Tutorial Part 1
+https://youtu.be/-0q_miviUDs
+
+Python Maze Game Tutorial Part 2
+https://youtu.be/cbxK3LKQ6j0
+
+Python Maze Game Tutorial Part 3
+https://youtu.be/PnbZWU72jkI
+
+Python Maze Game Tutorial Part 4
+https://youtu.be/cPnwR3aC9YM
+
+Python Maze Game Tutorial Part 5
+https://youtu.be/OD6a3I2YbhU
+
+Python Maze Game Tutorial Part 7
+https://youtu.be/krlCDSKYllM
+
+Python Maze Game Tutorial Part 8
+https://youtu.be/gLtQyTF1yX8
+
+Rock Paper Scissors - Add A Loop And Features
+https://youtu.be/kIcc5POWf9w
+
+Top Secret Message Decoder (Simple Loop Practice)
+https://youtu.be/DuDQEDguCPs
+Videos 226-250

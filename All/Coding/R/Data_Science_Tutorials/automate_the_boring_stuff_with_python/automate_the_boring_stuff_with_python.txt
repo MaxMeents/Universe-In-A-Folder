@@ -1,0 +1,7 @@
+
+Advanced Python Programming - Automation in python (Automate the Boring Stuff with Python)
+https://youtu.be/4zskgT7xmsI&list=PLH6mU1kedUy9urxT0yPVcVdYUpp_aPWq1
+
+Plotly Python - Plotly Automate multiple lines on the line chart  Plotly Python data visualization
+https://youtu.be/L6MBqKebMr0&list=PLH6mU1kedUy9urxT0yPVcVdYUpp_aPWq1
+automate the boring stuff with python

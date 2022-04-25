@@ -1,0 +1,76 @@
+
+ABOUT-FIRST JAVA PROGRAM
+https://youtu.be/rDQVbJpxcs0
+
+ARRAYS - EXAMPLES
+https://youtu.be/EB2tZTUOk4c
+
+ARRAYS
+https://youtu.be/thJQrhkIZM8
+
+CONTROL  STATEMENT -  DO WHILE LOOP
+https://youtu.be/1gVzPiYn3XY
+
+CONTROL  STATEMENT - BREAK, CONTINUE & RETURN
+https://youtu.be/O1BmTJYwX7g
+
+CONTROL  STATEMENT - FOR LOOP
+https://youtu.be/8djXRoooOEk
+
+CONTROL  STATEMENT - IF ELSE
+https://youtu.be/qqiU3dx86EU
+
+CONTROL  STATEMENT - SWITCH STATEMENT
+https://youtu.be/gft86DqV9eo
+
+CONTROL  STATEMENT - WHILE LOOP
+https://youtu.be/Hwbp_BmrT3c
+
+DATA TYPES
+https://youtu.be/yiHV5RMaZDo
+
+INPUT & OUTPUT
+https://youtu.be/X4pgN-sD4g0
+
+JAVA APPLETS
+https://youtu.be/A3ZcO3NusJg
+
+JAVA PROGRAMMING LAYOUT MANAGER
+https://youtu.be/QzpfGV3Bf38
+
+JAVA PROGRAMMING SWING – PART 1
+https://youtu.be/WBFOa_ErcKQ
+
+JAVA PROGRAMMING SWING – PART 2
+https://youtu.be/JJA4yjp0qYw
+
+JAVA PROGRAMMING SWING – PART 3
+https://youtu.be/HFQclabNuyg
+
+OPERATORS - ARITHMETIC & RELATIONAL
+https://youtu.be/AnRanY7f9M8
+
+OPERATORS - ASSIGNMENT & MISCELLANEOUS
+https://youtu.be/fGfPNbsSj88
+
+OPERATORS - BITWISE & LOGICAL
+https://youtu.be/HRNIbGn-u24
+
+OPERATORS - INCREMENT & DECREMENT(PRE & POST)
+https://youtu.be/ojq89nuBfYw
+
+SETUP-FIRST JAVA PROGRAM
+https://youtu.be/xi9WQn0cDVM
+
+STRINGS (PART - 1)
+https://youtu.be/tIPu4c_p-Hw
+
+STRINGS (PART - 2)
+https://youtu.be/wLuDf8pwlMg
+
+TYPES OF ARRAYS
+https://youtu.be/ij_JHrGlyP4
+
+VARIABLES
+https://youtu.be/FPU1XnUh54o
+Videos 201-225

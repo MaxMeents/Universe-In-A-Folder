@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 12 C++17's stdany
+https://youtu.be/vLhr_y4YOIY&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 17 C++17's `stdinvoke`
+https://youtu.be/z-kUhwANrIw&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 18 C++17's constexpr if
+https://youtu.be/qHgM5UdzPQU&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 20 C++17's Fold Expressions - Introduction
+https://youtu.be/nhk8pF_SlTk&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 21 C++17's `if` and `switch` Init Statements
+https://youtu.be/AiXU5EuLZgc&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 22 C++17's Nested Namespaces and `stdclamp`
+https://youtu.be/p32owQE_5u0&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 23 C++17's __has_include
+https://youtu.be/miODwx7gv6o&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 24 C++17's Structured Bindings
+https://youtu.be/aBZlbb9sE-g&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 25 C++17's Aggregate Initializations
+https://youtu.be/qMqWoT016cA&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 26 Language Features Removed in C++17
+https://youtu.be/uCRkBXQhud0&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 27 - C++17 Changes To Sequence Containers
+https://youtu.be/QlI65u6MPL8&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 28 - C++17's [[fallthrough]] Attribute
+https://youtu.be/heTklAyLLRQ&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 29 - C++17's [[maybe_unused]] Attribute
+https://youtu.be/WSPmNL9834U&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 30 - C++17's [[nodiscard]] Attribute
+https://youtu.be/l_5PF3GQLKc&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 38 - C++17's Class Template Argument Type Deduction
+https://youtu.be/dEBQL4KPSk8&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 39 - C++17's Deduction Guides
+https://youtu.be/-3fVp0U4xi0&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 41 - C++17's constexpr Lambda Support
+https://youtu.be/kmza9U_niq4&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 48 - C++17's Variadic `using`
+https://youtu.be/1gNzhE-Tn40&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 49 - Why Inherit From Lambdas
+https://youtu.be/3wm5QzdddYc&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 50 - Inheriting Lambdas vs Generic Lambdas
+https://youtu.be/QsicIaOGsI4&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 64 - C++11's stdmin (and my version)
+https://youtu.be/z_fnMdzfWAQ&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 67 - C++17's stdgcd and stdlcm
+https://youtu.be/akak2jYXOVg&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly - Ep 69 - C++17's Searchers
+https://youtu.be/YUCW_MnksjQ&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+C++ Weekly Special Edition - Using C++17's constexpr if
+https://youtu.be/_Ny6Qbm_uMI&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+
+[Re-upload] C++ Weekly - Ep 28 - C++17's [[fallthrough]] Attribute
+https://youtu.be/vZLc7BXSLXE&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86
+Videos 1-25

@@ -1,0 +1,76 @@
+
+3D Stereo Reconstruction Using Multiple Spherical Views
+https://youtu.be/MkfPnsd0nuM
+
+Accurate depth map estimation
+https://youtu.be/YyPwveYzYZ4
+
+Adaptive Thresholding Segmentation Algorithm
+https://youtu.be/UHOuPze_PTc
+
+Analysis of pointillism art algorithm
+https://youtu.be/wxqWeAOzW4c
+
+Applies blur filter on the input image
+https://youtu.be/ibEHzsIy3g0
+
+Automated aerodynamic performance estimates for flapping flight
+https://youtu.be/k390BKMFUcA
+
+Automated Lens Flare Removal
+https://youtu.be/EkoNUcP9YGo
+
+Checkerboard Tracker for Camera Calibration
+https://youtu.be/I6gSEUqh-Yg
+
+Convolutional Neural Network for estimation of depth from stereo imagery
+https://youtu.be/1tbxbenMB2k
+
+Distance Transforms of Sampled Functions
+https://youtu.be/PUBek7nlcR4
+
+Efficient Graph-Based Image Segmentation
+https://youtu.be/iRXWm5YR3sk
+
+Expected Patch Log Likelihood (EPLL) for image debluring
+https://youtu.be/_kwQ5DzX0Aw
+
+Expected Patch Log Likelihood (EPLL) for image denoising
+https://youtu.be/QvIoBKIXr5I
+
+Globally Optimizing Graph Partitioning Problems Using Message Passing
+https://youtu.be/kX2t59cldX4
+
+LATEX Generation from image of equations
+https://youtu.be/rZSjcoHkpCk
+
+Licence plate detection in video file
+https://youtu.be/JgsggcHNE0o
+
+Local Binary Pattern Segmentation Algorithm
+https://youtu.be/L0O4GJiwFqE
+
+Local Spectral Histogram Segmentation Algorithm
+https://youtu.be/zL_9dAXN47Y
+
+MATLAB code for Depth-image-based-rendering (DIBR)
+https://youtu.be/iYbRlDUyxx8
+
+Method to Identify and Score Darts thrown into Dartboard
+https://youtu.be/kKNkFSrY794
+
+Multidimensional Spectral Hashing
+https://youtu.be/BWcKOdfstBA
+
+Python code for Classification of photographic images based on perceived aesthetic quality
+https://youtu.be/7VElme3s2b4
+
+Python code for Frequency-tuned Salient Region
+https://youtu.be/qM82rUUyvh0
+
+Texture Segementation Algorithms for Electron Microscopy Images
+https://youtu.be/yHWUA1iw_AE
+
+Tiered Scene Labeling with Dynamic Programming
+https://youtu.be/A760xNUqnPg
+Videos 176-200

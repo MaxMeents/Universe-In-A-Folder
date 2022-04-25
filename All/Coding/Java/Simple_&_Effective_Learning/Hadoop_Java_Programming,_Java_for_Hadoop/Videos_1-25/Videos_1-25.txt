@@ -1,0 +1,76 @@
+
+ABOUT-FIRST JAVA PROGRAM
+https://youtu.be/rDQVbJpxcs0&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+ARRAYS - EXAMPLES
+https://youtu.be/EB2tZTUOk4c&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+ARRAYS
+https://youtu.be/thJQrhkIZM8&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+CONTROL  STATEMENT -  DO WHILE LOOP
+https://youtu.be/1gVzPiYn3XY&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+CONTROL  STATEMENT - BREAK, CONTINUE & RETURN
+https://youtu.be/O1BmTJYwX7g&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+CONTROL  STATEMENT - FOR LOOP
+https://youtu.be/8djXRoooOEk&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+CONTROL  STATEMENT - IF ELSE
+https://youtu.be/qqiU3dx86EU&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+CONTROL  STATEMENT - SWITCH STATEMENT
+https://youtu.be/gft86DqV9eo&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+CONTROL  STATEMENT - WHILE LOOP
+https://youtu.be/Hwbp_BmrT3c&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+DATA TYPES
+https://youtu.be/yiHV5RMaZDo&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+INPUT & OUTPUT
+https://youtu.be/X4pgN-sD4g0&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+JAVA VIRTUAL MACHINE
+https://youtu.be/N8T54zWiOZQ&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+METHODS
+https://youtu.be/BwjYNt0MUYA&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+OBJECT ORIENTED PROGRAMMING (OOP'S)
+https://youtu.be/Wvo16dxCg7I&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+OOP's CONCEPTS
+https://youtu.be/6QTt3jvntxA&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+OPERATORS - ARITHMETIC & RELATIONAL
+https://youtu.be/AnRanY7f9M8&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+OPERATORS - ASSIGNMENT & MISCELLANEOUS
+https://youtu.be/fGfPNbsSj88&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+OPERATORS - BITWISE & LOGICAL
+https://youtu.be/HRNIbGn-u24&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+OPERATORS - INCREMENT & DECREMENT(PRE & POST)
+https://youtu.be/ojq89nuBfYw&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+SETUP-FIRST JAVA PROGRAM
+https://youtu.be/xi9WQn0cDVM&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+STRING BUFFER
+https://youtu.be/lTB_foHChs4&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+STRINGS (PART - 1)
+https://youtu.be/tIPu4c_p-Hw&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+STRINGS (PART - 2)
+https://youtu.be/wLuDf8pwlMg&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+TYPES OF ARRAYS
+https://youtu.be/ij_JHrGlyP4&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+
+VARIABLES
+https://youtu.be/FPU1XnUh54o&list=PLnwPi7O4x-PATdHyapW6mOlSy5qxFWr4W
+Videos 1-25

@@ -1,0 +1,13 @@
+
+Amazon SQS - Lee Stone - PHPSW Tips & Tricks, June 2016
+https://youtu.be/rzMnQFmYZ0Q&list=PLrEpsyNSHj01vma9cCCjuO4FGOMPtyi6N
+
+CI Tips - Tom Adam - PHPSW Tips & Tricks, June 2016
+https://youtu.be/VTz2Ndlrgy4&list=PLrEpsyNSHj01vma9cCCjuO4FGOMPtyi6N
+
+Tips on PHP tools, Windows and Git - Doug Fitzmaurice - PHPSW Tips and Tricks, June 2016
+https://youtu.be/w1-_Et4woBY&list=PLrEpsyNSHj01vma9cCCjuO4FGOMPtyi6N
+
+Vim With All The Things - Luke Sturgess-Durden - PHPSW Tips & Tricks, June 2016
+https://youtu.be/PSjBOZ2pIRI&list=PLrEpsyNSHj01vma9cCCjuO4FGOMPtyi6N
+Tips & Tricks, June 2016

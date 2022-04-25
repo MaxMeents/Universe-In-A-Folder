@@ -1,0 +1,10 @@
+
+C++ Weekly - Ep 195 - C++20's `constinit`
+https://youtu.be/o0z3KT4gW7k&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+C++Now 2017 Ben Deane & Jason Turner constexpr ALL the things!
+https://youtu.be/HMB9oXFobJc&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+
+Your New Mental Model of constexpr - Jason Turner - CppCon 2021
+https://youtu.be/MdrfPSUtMVM&list=PLs3KjaCtOwSaqPapPV4pc1SRjypnwrXYV
+Videos 26-28

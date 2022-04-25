@@ -1,0 +1,76 @@
+
+Anand Vemuri Offensive and Defensive Strategies for Client-Side JS Security - JSConf Budapest 2016
+https://youtu.be/qNmOUzxGg0Y
+
+Claudia Hernández Down the Rabbit Hole JS in Wonderland - JSConf Budapest 2016
+https://youtu.be/YXdTfLqnIf8
+
+Denys Mishunov Why Performance Matters - JSConf Budapest 201
+https://youtu.be/j9TrSkLZa5A
+
+Hannes Diercks Frontend Testing - JSUnconf 2016
+https://youtu.be/eQt39xpUc3s
+
+JSConf Budapest 2016 Intro
+https://youtu.be/CL8_nlqTcw0
+
+JSConf Budapest 2016 Mood Video
+https://youtu.be/mJoS_pLbiWc
+
+Laurie Voss What everybody should know about npm - JSConf Budapest 2016
+https://youtu.be/zWEU8kNKi3Q
+
+Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf
+https://youtu.be/e-5obm1G_FY
+
+Lena Reinhard Works On My Machine, or the Problem is between Keyboard and Chair
+https://youtu.be/HnaLLoCXS2M
+
+Lightning Talks - JSUnconf 2016
+https://youtu.be/fJKlmhriAH4
+
+Maurice De Beijer Event-Sourcing your React-Flux applications - JSConf Budapest 2016
+https://youtu.be/LrkXWj9zxsU
+
+Nick Hehr The Other Side of Empathy - JSConf Budapest 2016
+https://youtu.be/kTuAQen5iTA
+
+Nicolás Bevacqua High Performance in the Critical Rendering Path - JSConf Budapest 2016
+https://youtu.be/1iWSokC29vQ
+
+Oliver Joseph Ash Building an Offline Page for theguardian.com - JSConf Budapest 2016
+https://youtu.be/hx1fqAXXViA
+
+Prakash Venkatraman Constructing DSLs to Automate Automation  JS.LA June 2016
+https://youtu.be/1xIP1R3zy8s
+
+Princiya Sequeira Natural User Interface using JavaScript - JSConf Budapest 2016
+https://youtu.be/GiQuSiZOGww
+
+Rachel White Internet of Cats - JSConf Budapest 2016
+https://youtu.be/PTgqSpclwvE
+
+Rami Rihawi From a Destroyed City to a JavaScript Developer - JSUnconf 2016
+https://youtu.be/HoKVQKIhjX8
+
+Rob Kerr Science in the Browser - JSConf Budapest 2016
+https://youtu.be/mz4N3U5f2tg
+
+Safia Abdalla The Hitchhiker's Guide to All Things Memory in Javascript - JSConf Budapest 2016
+https://youtu.be/AeUCN2lPqL8
+
+Sam Bellen Changing live audio with the web-audio-api - JSConf Budapest 2016
+https://youtu.be/BEdFcnI-ppk
+
+Stefan Baumgartner HTTP2 is coming! Unbundle all the things! - JSConf Budapest 2016
+https://youtu.be/98z0XjYWX0o
+
+Suz Hinton The Formulartic Spectrum - JSConf Budapest 2016
+https://youtu.be/P8Cy2_ZHWI8
+
+Tim Pietrusky & Martin Schuhfuss We ❤ Music & the Web - JSConf Budapest 2016
+https://youtu.be/KkV4alDBVhk
+
+Yan Zhu Encrypt the Web For $0 - JSConf Budapest 2016
+https://youtu.be/n9Fe68xgKUw
+Videos 726-750

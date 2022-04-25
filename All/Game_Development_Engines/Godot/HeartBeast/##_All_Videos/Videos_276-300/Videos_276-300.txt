@@ -1,0 +1,76 @@
+
+[GameMaker Tutorial] Basic Artificial Intelligence
+https://youtu.be/vitWB3KJyS4
+
+[GameMaker Tutorial] Basic Audio
+https://youtu.be/cr-Q-RGlWUM
+
+[GameMaker Tutorial] Basic Platform Artificial Intelligence
+https://youtu.be/S-F51V01zXM
+
+[GameMaker Tutorial] Card Game with DS Stacks
+https://youtu.be/5h_5Dkb2aeo
+
+[GameMaker Tutorial] Grid Data Structure + Tic Tac Toe
+https://youtu.be/VPhY_6ruhnE
+
+[GameMaker Tutorial] GUI Layer Buttons
+https://youtu.be/HnYsJWE6-3c
+
+[GameMaker Tutorial] Mage RPG 3D [5] More Spells!
+https://youtu.be/BNcaqZl7w0A
+
+[GameMaker Tutorial] Mage RPG 3D [P3]
+https://youtu.be/hQENLgUgp8c
+
+[GameMaker Tutorial] Mage RPG 3D [P4] Fireball Spell!
+https://youtu.be/LHw2VDdic9g
+
+[GameMaker Tutorial] Mage RPG 3D [P6] Stats on GUI Layer!
+https://youtu.be/JsntxXrvlC0
+
+[GameMaker Tutorial] Mage RPG 3D [P7] Enemy Rats!
+https://youtu.be/LnJg9KHA-Y8
+
+[GameMaker Tutorial] Mage RPG 3D [P8] Leveling and Start Menu
+https://youtu.be/lqJ5mlSvDqc
+
+[GameMaker Tutorial] Networking for Beginners!
+https://youtu.be/MbUsHVak_yA
+
+[GameMaker Tutorial] Zooming
+https://youtu.be/2upDdVC7xCE
+
+[HeartBeast Plays] Death Touch (My Ludum Dare 32 Entry)
+https://youtu.be/anffEJ_ribI
+
+[HeartBeast Plays] Delta One!
+https://youtu.be/v43qsLJ9Dgw
+
+[Let's Pixel] 18x18 Bat + 2 Frame Animation
+https://youtu.be/IPd2eCh3GhQ
+
+[Let's Pixel] 18x18 Item Icons
+https://youtu.be/JV_3Axv_vH0
+
+[Let's Pixel] Character and Sword [P3] Attack Animation
+https://youtu.be/04beJS1HYk8
+
+[Let's Pixel] Character and Sword! [P2] Animation
+https://youtu.be/SQKm2aTux6o
+
+[Let's Pixel] Character and Sword!
+https://youtu.be/7FfkyghoVws
+
+[Let's Pixel] Explosion Animation!
+https://youtu.be/EL25j8a3Li0
+
+[Let's Pixel] Metal Armor
+https://youtu.be/ddpB0Z89M3s
+
+[Let's Pixel] Platform Character + Cloth Animation
+https://youtu.be/2o8OzyFl5gM
+
+[Let's Pixel] Top-Down Shooter Sprites
+https://youtu.be/iQHSJL_ZcfA
+Videos 276-300

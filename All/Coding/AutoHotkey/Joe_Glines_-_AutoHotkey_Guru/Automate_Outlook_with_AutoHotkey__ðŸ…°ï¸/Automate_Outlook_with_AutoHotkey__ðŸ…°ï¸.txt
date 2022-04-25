@@ -1,0 +1,28 @@
+
+AutoHotkey Webinar 102017 Hour 1-Outlook and AHK
+https://youtu.be/cvZEE7v22wE&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Create an Outlook email-addressbook based on email frequency
+https://youtu.be/4uGhzteHSio&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Create Personalized emails in Excel with AutoHotkey
+https://youtu.be/CVd6FkjNhTA&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Easily Automate customized sales emails (2021)
+https://youtu.be/t0jx5mhkQ2c&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Easy automation of sales emails with Excel and Outlook
+https://youtu.be/ZHlRwjpp440&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Excel automation without macro is easy  Perform mail-merge in Excel
+https://youtu.be/uOU41C1B6y4&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Getting information from Outlook emails with AutoHotkey
+https://youtu.be/4lNL1Gwx7OQ&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+How to create an HTML email with Outlook and AutoHotKey
+https://youtu.be/yzxlpZFayiY&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+
+Outlook PST file creation
+https://youtu.be/fD4P9Oj-Z5Y&list=PL3JprvrxlW26rCvv_jAgBQirK1rGjaWzj
+Automate Outlook with AutoHotkey  🅰️HK

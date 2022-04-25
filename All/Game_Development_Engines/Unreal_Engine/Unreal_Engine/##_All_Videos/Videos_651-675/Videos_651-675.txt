@@ -1,0 +1,76 @@
+
+2019 Epic MegaJam Kickoff  Live from HQ  Inside Unreal
+https://youtu.be/RqPwOWn01ew
+
+An Indie Developer's Guide to the Epic Ecosystem  Unreal Indie Dev Days 2019  Unreal Engine
+https://youtu.be/tJW87zWl65k
+
+Backbone - Working with 2D Pixel Art in a 3D World  Unreal Indie Dev Days 2019  Unreal Engine
+https://youtu.be/9ksrN0g9Oig
+
+Behind the Scenes with UE4’s Next-Gen Virtual Production Tools  Project Spotlight  Unreal Engine
+https://youtu.be/Hjb-AqMD-a4
+
+Color Correction  Tips & Tricks  Unreal Engine
+https://youtu.be/0HMFczWSRig
+
+Designing a film set in VR on John Wick Chapter 3 – Parabellum  Project Spotlight  Unreal Engine
+https://youtu.be/ngudPwaAfIE
+
+How Drifter Optimized & Delivered Robo Recall for Oculus Quest  Unreal Dev Days 2019
+https://youtu.be/o-6EMTjzvns
+
+How UE4 real-time technology drove Bruce Springsteen across a stylized CG desert  Project Spotlight
+https://youtu.be/FYSf46SCDkw
+
+ILIAD (Intelligent Layered Imaging Architecture for Drawing)  Live from HQ  Inside Unreal
+https://youtu.be/GDgUe7UGqNo
+
+Invaluable Indie Tips Lessons Learned from Shipping  Unreal Indie Dev Days 2019  Unreal Engine
+https://youtu.be/xmwZjpCKCgE
+
+Math for Artists  Live from HQ  Inside Unreal
+https://youtu.be/KrghZBIIsXc
+
+Mixing the Real and Unreal The Future of XR in UE4  Unreal Dev Days 2019  Unreal Engine
+https://youtu.be/zfcnIrRlGy8
+
+Moons of Madness  Project Spotlight  Unreal Engine
+https://youtu.be/JF6tjz5G7Ik
+
+News and Community Spotlight  November 14, 2019  Unreal Engine
+https://youtu.be/IFYGN51hXbA
+
+News and Community Spotlight  November 21, 2019  Unreal Engine
+https://youtu.be/siH3r144X9c
+
+News and Community Spotlight  November 28, 2019  Unreal Engine
+https://youtu.be/c-BQTuQW4yU
+
+News and Community Spotlight  November 7, 2019  Unreal Engine
+https://youtu.be/QrJ5IKpI3mI
+
+News and Community Spotlight  October 24, 2019  Unreal Engine
+https://youtu.be/uBwGJd9tiXc
+
+News and Community Spotlight  October 31, 2019  Unreal Engine
+https://youtu.be/IGud6kmYzG8
+
+Profiling and Optimization in UE4  Unreal Indie Dev Days 2019  Unreal Engine
+https://youtu.be/EbXakIuZPFo
+
+Switching to Unreal Engine  Unreal Indie Dev Days 2019  Unreal Engine
+https://youtu.be/9occdg5GRYE
+
+The Visual Technology of Gears 5  Unreal Dev Days 2019  Unreal Engine
+https://youtu.be/KL3rSV-IJ20
+
+Tools and Infrastructure for Large Teams  Unreal Dev Days 2019  Unreal Engine
+https://youtu.be/d6lyAI4Ftkw
+
+Unreal Engine Open World Preview and Landscape Tools  Unreal Dev Days 2019  Unreal Engine
+https://youtu.be/wXbyqGYfM1I
+
+Workflow Enhancements  Live from HQ  Inside Unreal
+https://youtu.be/0UzjuIn9r9I
+Videos 651-675

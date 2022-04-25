@@ -1,0 +1,76 @@
+
+Andy Lester   29 ways to get started in open source today
+https://youtu.be/7GMgUoxN2ts
+
+brian d foy   CPAN Workshop See one, do one, teach one
+https://youtu.be/deo99RrHug8
+
+Dave Rolsky   Date, Times, Perl, and You
+https://youtu.be/SpZL71hPFEs
+
+Karen Pauley   Perl Foundation Address1
+https://youtu.be/rZlMzAVowZ0
+
+Karen Pauley   The Perl Foundation Review
+https://youtu.be/5AuyKW0iB9s
+
+Kartik Thakore   Perl, Medical Research and Maple Syrups
+https://youtu.be/yN23TwtGP0k
+
+Mark A  Stratman   Introduction to writing Perl Documentation
+https://youtu.be/ZMoumb6yyw8
+
+Mark Allen   Intro to Dancer
+https://youtu.be/PLBWwVWVGeg
+
+Mark Fowler   Exceptional Exceptions
+https://youtu.be/QxINO5LpAZE
+
+Martin Holste   Perl for Big Data
+https://youtu.be/U8Ax2S0mxz4
+
+Mateu Hunter   Mojito Undocumented
+https://youtu.be/SLpfSxaiAXg
+
+Matt Trout   Distributed Daemon Discovery
+https://youtu.be/DrwxrVNUA5M
+
+Matt Trout   Kudos for JT
+https://youtu.be/QKnpr0GdNAw
+
+Michael Peters   Web Security 101
+https://youtu.be/oDpAsarwtH0
+
+Michael Schwern   Keynote
+https://youtu.be/id6IA4AlUH8
+
+Mike Schilli   Large scale deployments with Pogo at Yahoo!
+https://youtu.be/CE4hLYhfmBE
+
+Nick Patch   Fundamental Unicode
+https://youtu.be/iaoAXozGGHA
+
+Noirin Plunkett   Becoming a Better Benevolent Dictator
+https://youtu.be/z1F7Jatm8bM
+
+Noirin Plunkett   Theres More Than One Way To Run A Project The Apache Way
+https://youtu.be/Dm5P_4vhJcY
+
+Olaf Alders   Abusing the MetaCPAN API for Fun and Profit
+https://youtu.be/QFV7X1tep5I
+
+Patrick Michaud   More laziness and lists LoLs, Hashes, Captures, and more
+https://youtu.be/4W6KTsRup0s
+
+Patrick Michaud   Perl 6 Lists and Arrays vivified lazy, infinite, flat, slurpy, typed, bound, and LoL d
+https://youtu.be/mrfK1dtyD14
+
+Perrin Harkins   Introduction to Performance Tuning Perl Web Applications
+https://youtu.be/iEZ-gcycxcA
+
+Quin Bailey   Building a DevOps process using Meister and Perl
+https://youtu.be/NgXRsjNV-yo
+
+R Geoffrey Avery   Dancer Getting to Hello World
+https://youtu.be/rWkmlWOkobg
+Videos 651-675

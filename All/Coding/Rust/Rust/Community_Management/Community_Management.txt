@@ -1,0 +1,7 @@
+
+Donald Whyte - Testing in Rust
+https://youtu.be/sZ8mF3CBAZE&list=PL85XCvVPmGQgBggKldYjb7JUpmBXw-P_2
+
+Mozilla - How Rust Does Open Development - June 13, 2018
+https://youtu.be/rdmpOktHLmM&list=PL85XCvVPmGQgBggKldYjb7JUpmBXw-P_2
+Community Management

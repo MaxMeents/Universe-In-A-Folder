@@ -1,0 +1,76 @@
+
+Abhishek Sharma - Pythonist view on Microservices & Containerization
+https://youtu.be/EYdHwSUckJA
+
+Alejandro Solano - Introduction to TensorFlow
+https://youtu.be/02BnRq8H1rM
+
+Alessandro Pisa - Plone where is it today and where is it going
+https://youtu.be/rVUhAZg16YY
+
+Anders Lehmann - Modelling pollution from traffic, using Smartphone data and Python
+https://youtu.be/ChTeBV9spkQ
+
+Anna Ravenscroft - Overcoming Cognitive Bias
+https://youtu.be/eC56hwmFCG8
+
+Antoine Fourmy - Network visualization and automation
+https://youtu.be/HUQTVbyGdHs
+
+Armin Rigo - PyPy meets Python 3 and Numpy
+https://youtu.be/sS7ACBXWOm0
+
+Christian Heimes - Identity management, single sign-on and certificates with FreeIPA
+https://youtu.be/cUQcNi_obIc
+
+Daniele Procida, Aisha Bello - The Encounter Python’s adventures in Africa
+https://youtu.be/L2BEIhfwZgg
+
+Daniele Rapati - I don't like Mondays-what I learned about data engineering after 2 years on call
+https://youtu.be/k8w_EMQQOiU
+
+Deep Kayal - Large-scale data extraction, structuring and matching using Python and Spark
+https://youtu.be/eV23M0Jtsbw
+
+Federico Marani - Feeding data to AWS Redshift with Airflow
+https://youtu.be/0s6lmVbvoFo
+
+Guillem Duran Ballester - Inside Airbnb Visualizing data that includes geographic locations
+https://youtu.be/JUErYqjf5Zw
+
+H. Hain, S. Gramlich - From an old-school data managing company to data analytics with Python
+https://youtu.be/dKEg7gMWFqo
+
+Hongjoo Lee - Deep Learning your Broadband Network @HOME
+https://youtu.be/iasLRI30meA
+
+Ivan Smirnov - pybind11 - seamless operability between C++11 and Python
+https://youtu.be/jQedHfF1Jfw
+
+Lightning Talks - 2017-07-14
+https://youtu.be/M3dmJBaYCAY
+
+Maciej Gryka - Despicable machines how computers can be assholes
+https://youtu.be/IUJ34MguA8M
+
+Mark Smith - Pythonic Refactoring Protecting Your Users From Change
+https://youtu.be/NNmyVqhgs_M
+
+Michele Simionato - Lessons learned in X years of parallel programming
+https://youtu.be/kb2_No5tkgE
+
+Oliver Braun - Python and Angular, a perfect match
+https://youtu.be/dVmFKXm3b0c
+
+Omar Gutiérrez - Introduction to Nonparametric Bayesian Models
+https://youtu.be/JsBfZ3N34i4
+
+Samuel Fuentes - Fast product development using Django Rest Framework. #lessonslearned
+https://youtu.be/0hrf83ZIKw0
+
+Simmi Mourya - Scientific computing  using Cython Best of both Worlds!
+https://youtu.be/ZSHL5rkFDQQ
+
+Uzi Halaby Senerman - Pandas - not just for data scientists
+https://youtu.be/7e_dmcKKQAM
+Videos 551-575

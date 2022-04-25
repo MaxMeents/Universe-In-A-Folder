@@ -1,0 +1,76 @@
+
+Basic Introduction To Machine Learning
+https://youtu.be/j1BZz4kNblY
+
+Bitcoin price Prediction using Tensor flow (Python) integrated with MATLAB
+https://youtu.be/1E3BLED5D6c
+
+Breast Cancer Detection Using Machine Learning(Random Forest and ELM Classifier.) with MATLAB
+https://youtu.be/t-L4n_smwqc
+
+Delhi Pollution- One day Ahead PM10 Level Prediction using Artificial neural network with MATLAB
+https://youtu.be/ucuexRvFBCw
+
+Electricity Load Forecasting with the help of Artificial Neural Network in matlab
+https://youtu.be/P6Re7bIH-gQ
+
+FIFA 2018 & Artificial Intelligence  FIFA Using Artificial Intelligence To Train Their Team
+https://youtu.be/5rKMamwkyUc
+
+Fingerprint Minutiae Extraction using MATLAB.
+https://youtu.be/2dnuFEFWyd0
+
+Fuzzy control of battery charging and discharging in matlab
+https://youtu.be/zUrXEJyApUY
+
+GAN network visiualization in Browser - Based on a research work .
+https://youtu.be/ciHuSWQ0YG0
+
+Introduction to DigiSILENT powerfactory-Basic Load Flow Analysis
+https://youtu.be/op71zi0e8_Y
+
+Just For fun- Fidget Spinner  Copyright MATHWORKS
+https://youtu.be/RslgV-YxAAU
+
+Market Share Price Forecasting Using Neural Network MATLAB
+https://youtu.be/sKzGDY59mKE
+
+MATLAb wind-PV hybrid simulation with smart control system against the fault.
+https://youtu.be/m5L6bde3bAk
+
+MATLABSolutions  Classification of Monkey species using deep learning with MATLAB.
+https://youtu.be/RxCuuAoszC4
+
+MATLABSolutions  Fuzzy based series active power filter simulation with MATLAB.
+https://youtu.be/ymQLkH_B6U4
+
+MATLABsolutions 24 hour Micro grid simulation With battery management system using MATLAB
+https://youtu.be/0MIadDmIjE0
+
+MATLABSolutions Detection of drugged cells and normal cell using Deep Learning with MATLAB.
+https://youtu.be/EmhM472pqyc
+
+MATLABSolutions Face Recognition using MATLAB
+https://youtu.be/kXE6JQsotYo
+
+MATLABSolutions Fuzzy Controller Based MPPT controller for PV .
+https://youtu.be/mNT8Hllm_kA
+
+MATLABSolutions Grid Connected Pv-Diseal -Battery with fuzzy logic based energy management system.
+https://youtu.be/9PrFbsm0N0k
+
+MATLABSolutions.
+https://youtu.be/3Z7TWxC1veU
+
+Rainfall forecasting using neural network with MATLAB
+https://youtu.be/llarof8HhJQ
+
+Reactive and active power control for variable speed wind turbine induction generator in MATLAB
+https://youtu.be/iF1pLla1LbI
+
+Thyroid data confusion matrix representation and clustering using Neural network with MATLAB
+https://youtu.be/Rv0uaniEQLM
+
+We wish You all HAPPY NEW YEAR
+https://youtu.be/J3-9AgDfRHk
+Videos 51-75

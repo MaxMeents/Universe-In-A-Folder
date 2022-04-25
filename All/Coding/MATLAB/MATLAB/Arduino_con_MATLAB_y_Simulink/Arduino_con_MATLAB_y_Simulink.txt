@@ -1,0 +1,10 @@
+
+Arduino con MATLAB y Simulink, Parte 1 Instalación
+https://youtu.be/-MsR9yFlcrA&list=PLn8PRpmsu08qDsJuy7UMj_bal1LAaxxKJ
+
+Arduino con MATLAB y Simulink, Parte 2 Programando Arduino Uno con MATLAB
+https://youtu.be/vU3CwpfMoFQ&list=PLn8PRpmsu08qDsJuy7UMj_bal1LAaxxKJ
+
+Arduino con MATLAB y Simulink, Parte 3 Programando Arduino con Simulink
+https://youtu.be/ocos5FHEwHM&list=PLn8PRpmsu08qDsJuy7UMj_bal1LAaxxKJ
+Arduino con MATLAB y Simulink

@@ -1,0 +1,76 @@
+
+Basic PHP with jQuery AJAX In Hindi - Example 1
+https://youtu.be/SKz-Lh4QpKg
+
+Country, State, City Example using jQuery AJAX , PHP and Mysql In Hindi
+https://youtu.be/sFvlTzMOjp0
+
+CSS Display Property in Hindi
+https://youtu.be/F9c2WHvXGhw
+
+CSS Tutorials  CSS font property in Hindi
+https://youtu.be/NBoPzE6hE7E
+
+CSS Tutorials  Inline, Internal and External CSS in Hindi
+https://youtu.be/zjT4ih3ndWg
+
+CSS Tutorials -  Comments in CSS
+https://youtu.be/sf0YGFAksG4
+
+CSS tutorials -  Introduction to CSS in HINDI
+https://youtu.be/-DOEPYRj_CE
+
+CSS Tutorials - Background and Border Properties In Hindi
+https://youtu.be/fJSa6LhKDio
+
+Delete data using jQuery AJAX with PHP and MySQL in Hindi
+https://youtu.be/6TgXKwjxxes
+
+FetchSelect Data using jQuery AJAX in PHP in Hindi
+https://youtu.be/eADeYexFrPc
+
+HTML5 - Video, Audio Tag in Hindi
+https://youtu.be/gbt3a4gcdoo
+
+HTML5 Semantic Elements -  header, footer, nav, main
+https://youtu.be/vw5Cdbx7TI8
+
+jQuery AJAX   Live Search using PHP and Mysql with Example in HINDI
+https://youtu.be/E7qwA-oHVM8
+
+MYSQL  GROUP BY and HAVING Clause in PHP with Example In HINDI
+https://youtu.be/OGks52qMZRo
+
+MYSQL BETWEEN or NOT BETWEEN Operator in PHP With example In HINDI
+https://youtu.be/x3au8Pw1BeU
+
+MYSQL JOIN - INNER ,LEFT, RIGHT, FULL, CROSS Join IN PHP with Example in Hindi
+https://youtu.be/h4ZH-zP1zjA
+
+MYSQL Like Operator in PHP with Example in HINDI
+https://youtu.be/G7J-8frz4UQ
+
+MYSQL LIMIT Clause In PHP with example in Hindi
+https://youtu.be/ELOFe8DyeBI
+
+PHP  MYSQL Aggregate Count() function With Example in HINDI
+https://youtu.be/9ljcCxHQO_Y
+
+PHP  MYSQL MIN, MAX, AVG Aggregate function With Example In HINDI
+https://youtu.be/cr73S7sOVTg
+
+PHP  MYSQL ORDER By Clause With Example in Hindi
+https://youtu.be/DOToyh5Gig8
+
+PHP  MYSQL SUM() Aggregate function with Example in HINDI
+https://youtu.be/2FE-0rXRHmw
+
+PHP CRUD Operations Tutorials With MySqli In Hindi  Insert Select Update Delete In One Video
+https://youtu.be/dFJD81t5XC0
+
+PHP Data Insertion using jQuery AJAX in hindi
+https://youtu.be/JGIt6Gjxo2w
+
+Update Data using jQuery AJAX in PHP and MYSQL in Hindi
+https://youtu.be/HO1g7OK1Xzo
+Videos 26-50

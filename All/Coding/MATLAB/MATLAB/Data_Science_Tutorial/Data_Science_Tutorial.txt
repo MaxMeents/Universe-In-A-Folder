@@ -1,0 +1,22 @@
+
+Analyzing Data  Data Science Tutorial in MATLAB, Part 3
+https://youtu.be/I1EQx3O2qCk&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+
+Deploying Your Models  Data Science Tutorial in MATLAB, Part 7
+https://youtu.be/V5TSA8ED-sE&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+
+Importing Your Data  Data Science Tutorial in MATLAB, Part 1
+https://youtu.be/lyaIDHyOlFc&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+
+Predictive Modeling  Data Science Tutorial in MATLAB, Part 5
+https://youtu.be/BBtnVjVYI2k&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+
+Preprocessing Data  Data Science Tutorial in MATLAB, Part 2
+https://youtu.be/ais_Oj6Fx-E&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+
+Visualizing Data  Data Science Tutorial in MATLAB, Part 4
+https://youtu.be/rLeMOEWkoa8&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+
+Working with Big Data  Data Science Tutorial in MATLAB, Part 6
+https://youtu.be/xGzMMkFURb8&list=PLn8PRpmsu08o3O3NfbfySO5tQozfzuAy_
+Data Science Tutorial

@@ -1,0 +1,16 @@
+
+[Design Patterns in Javascript] Duck Typing in Javascript
+https://youtu.be/oEpgyoMEkrM&list=PLjItgYqIzJ9U11JtKqRiKE2TJL5zdaqFD
+
+[Design Patterns in Javascript] The Adapter Design Pattern in Javascript
+https://youtu.be/gy_ookDfsOo&list=PLjItgYqIzJ9U11JtKqRiKE2TJL5zdaqFD
+
+[Design Patterns in Javascript] The Factory Design Pattern in Javascript
+https://youtu.be/fBNWgqMghkM&list=PLjItgYqIzJ9U11JtKqRiKE2TJL5zdaqFD
+
+[Design Patterns in Javascript] The Observer Design Pattern in Javascript
+https://youtu.be/3pxRSKEILx0&list=PLjItgYqIzJ9U11JtKqRiKE2TJL5zdaqFD
+
+[Design Patterns in Javascript] The Strategy Design Pattern in Javascript
+https://youtu.be/IGOcGgzHdKE&list=PLjItgYqIzJ9U11JtKqRiKE2TJL5zdaqFD
+Design Patterns in Javascript

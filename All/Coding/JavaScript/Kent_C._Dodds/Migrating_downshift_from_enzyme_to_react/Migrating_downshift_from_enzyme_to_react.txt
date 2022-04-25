@@ -1,0 +1,13 @@
+
+Migrating downshift from enzyme to react-testing-library (Part 1)
+https://youtu.be/vH2XoJvJ0ss&list=PLV5CVI1eNcJi6F9DhLDgFvMIDvGof7qpC
+
+Migrating downshift from enzyme to react-testing-library (Part 2)
+https://youtu.be/5O1DF8X7FA8&list=PLV5CVI1eNcJi6F9DhLDgFvMIDvGof7qpC
+
+Migrating downshift from enzyme to react-testing-library (Part 3)
+https://youtu.be/buXMYy8y2n0&list=PLV5CVI1eNcJi6F9DhLDgFvMIDvGof7qpC
+
+Migrating downshift from enzyme to react-testing-library (Part 4)
+https://youtu.be/7KZLA5nMwMQ&list=PLV5CVI1eNcJi6F9DhLDgFvMIDvGof7qpC
+Migrating downshift from enzyme to react-testing-library

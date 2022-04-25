@@ -1,0 +1,31 @@
+
+Barplot-For One Categorical Variable using ggplot2 in R
+https://youtu.be/gXYMvIyz8OY&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+Barplot-For two categorical variables using ggplot2 in R
+https://youtu.be/6gc7ILl0ugQ&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+Boxplot using ggplot2
+https://youtu.be/SrIRsAE59Xc&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+Creating plots using many variables Facet_wrap in ggplot in R
+https://youtu.be/XursK_I4bG8&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+Histogram for one numerical variable using ggplot2 in R
+https://youtu.be/HvVY6BVNWU8&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+How to read csv file in R
+https://youtu.be/OsxDHafEvjQ&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+Scatterplot using ggplot2 in R[Two Numerical & Two Categorical]
+https://youtu.be/C09NMCFc1mU&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+Scatterplot-Color by categories[Two Numerical & 1 Categorical] using ggplot2 in R
+
+
+Scatterplot-for two numerical variable using ggplot2 in R
+https://youtu.be/GmgPcZCHa_A&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+
+What are Numerical and Categorical Variables in Machine Learning
+https://youtu.be/8dBdonffoJ4&list=PLbNJQ-D5RH19dJmPwgf_LPHp2lYidWJaP
+Data Visualization Series using ggplot2 with R  Arpan Gupta  Data Scientist & IITian

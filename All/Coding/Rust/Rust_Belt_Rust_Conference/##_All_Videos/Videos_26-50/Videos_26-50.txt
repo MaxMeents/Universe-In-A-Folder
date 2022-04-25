@@ -1,0 +1,76 @@
+
+Academy Pgh (Lightning Talk) by Cindy Green, Orion Hall, and Sanjeev Padmanabhan
+https://youtu.be/v7MOXeOk13s
+
+Becoming a Contributor — Chris Krycho
+https://youtu.be/Abu2BNixXak
+
+Building Little Languages with Rust — Arcady Goldmints Orlov
+https://youtu.be/Lr_zxxdLrOk
+
+Building on an unsafe foundation — Jason Orendorff
+https://youtu.be/rTo2u13lVcQ
+
+Core Team Keynote — Aaron Turon & Niko Matsakis
+https://youtu.be/-XVIKSm8Rwg
+
+Core Team Keynote — Aaron Turon, Carol Nichols, Niko Matsakis
+https://youtu.be/l1csV8WiDRQ
+
+Do We Form Programming Language Tribes (Lightning Talk) — Bridget Little
+https://youtu.be/JElkksHSifc
+
+Documentation in the Rust Ecosystem — Andrew Brinker
+https://youtu.be/Wz2oFEDwiOk
+
+How to fail (Lightning Talk) — Revani Govender
+https://youtu.be/mxFLSlJ3Qhw
+
+Integrating some Rust in VLC media player — Geoffroy Couprie
+https://youtu.be/egu_0reiq7s
+
+Lightning Talk - 1 = 0.999... — Daan van Berkel
+https://youtu.be/Xhapuwu9WKo
+
+Lightning Talk - Dark Theme for Rust Sites — Cldfire
+https://youtu.be/7VulqInDO6Y
+
+Lightning Talk - Embedded Rust — Cameron Dershem
+https://youtu.be/1BIb4Vmwt3k
+
+Lightning Talk - Quantum BogoSort — Jason Orendorff
+https://youtu.be/iOJD7nd7cyY
+
+Lightning Talk - Simple Server — Ashley Williams
+https://youtu.be/8_URt85eYs0
+
+Lightning Talks Announcing the Ann Arbor Meetup — Esty Thomas
+https://youtu.be/qtxvwermthE
+
+Lightning Talks Rust In Space — myrrlyn
+https://youtu.be/xYDKcoS26ZM
+
+Lightning Talks Rust's Family Tree — Jenny Manning
+https://youtu.be/u3vZia0NB1I
+
+Monotron - a 1980s style home computer written in Rust — Jonathan Pallant
+https://youtu.be/xBRFtlT5Pfs
+
+Rust Belt Rust 2018 — Teaser
+https://youtu.be/TkqLcwLKU8Y
+
+Rust support for KDevelop — Emma Gospodinova
+https://youtu.be/2_cOkRXhveY
+
+State of the crates.io — Sean Griffin
+https://youtu.be/QjQPNZPSlqA
+
+The Long Road to Creative Programming — Phil Fried
+https://youtu.be/tBI62IW28zg
+
+The Story of Stylo Replacing Firefox's CSS engine with Rust — Josh Matthews
+https://youtu.be/Y6SSTRr2mFU
+
+Traits and You A Deep Dive — Nell Shamrell-Harrington
+https://youtu.be/grU-4u0Okto
+Videos 26-50

@@ -1,7 +1,0 @@
-
-ToDo App With Core Data Using SwiftUI - CRUD Operation On Core Data Using SwiftUI - SwiftUI Tutorial.url
-https://youtu.be/cnOW6w0EzdA&list=PLimqJDzPI-H-9u1tVVmJa84v0wMDMnQvk
-
-ToDo App With Core Data Using SwiftUI Ep2 - CRUD Operation On Core Data In SwiftUI.url
-https://youtu.be/ZENNN6ZW8NY&list=PLimqJDzPI-H-9u1tVVmJa84v0wMDMnQvk
-Todo List With Core Data Using SwiftUI

@@ -1,0 +1,76 @@
+
+Direct Messages in Realtime with ActionCable  Preview
+https://youtu.be/XpQ-oCtsxkU
+
+Disabling ActionCable for Unauthenticated Users
+https://youtu.be/MQpuQZ6Y_eo
+
+File uploading in Rails with Shrine
+https://youtu.be/Pqfd6tu53Gc
+
+Group Chat Part 6 Browser notifications  Preview
+https://youtu.be/q8pPlYul_uE
+
+Group Chat with ActionCable Part 1
+https://youtu.be/HEGeoELGTnU
+
+Group Chat with ActionCable Part 2
+https://youtu.be/2F_2whstOy4
+
+Group Chat with ActionCable Part 3
+https://youtu.be/L7stlK3zKEQ
+
+Group Chat With ActionCable Part 4
+https://youtu.be/TvzzaMhF_h0
+
+Group Chat with ActionCable Part 5
+https://youtu.be/6V_NVh550TI
+
+Group Chat with ActionCable Part 7  Preview
+https://youtu.be/7Z3wx1YNZbk
+
+How ActionCable Uses Redis  Preview
+https://youtu.be/Ha8XJYO4sck
+
+Improving In-app Notifications  Preview
+https://youtu.be/R83uuSjCRVs
+
+Multi-user Spreadsheets with ActionCable Part 1
+https://youtu.be/7B4wG7e9ayw
+
+Multi-user Spreadsheets with ActionCable Part 2
+https://youtu.be/qHFc-kZulW0
+
+Multi-user Spreadsheets with ActionCable Part 3
+https://youtu.be/DXhysSQIL-4
+
+Multi-user Spreadsheets with ActionCable Part 4
+https://youtu.be/r7zotKld22c
+
+Multi-user Spreadsheets with ActionCable Part 5
+https://youtu.be/mGOyPfeeMzE
+
+Protecting from XSS with Sanitize
+https://youtu.be/L5nIqRBx_Ng
+
+Realtime Notifications with ActionCable  Preview
+https://youtu.be/m1B5UTatNws
+
+Sending Email with SMTP And Sendgrid  Preview
+https://youtu.be/GaIMhTG-FBE
+
+Shrine Direct Upload to Amazon S3 Part 1  Preview
+https://youtu.be/GLSjaOf_-Qg
+
+Shrine Direct Upload to Amazon S3 Part 2  Preview
+https://youtu.be/gB4FRZDunRw
+
+Shrine Direct Upload to Amazon S3 Part 3  Preview
+https://youtu.be/6wQv9J68ASo
+
+Solving FizzBuzz in Ruby
+https://youtu.be/6isUp3uclas
+
+Wrapping Business Logic with Plain Old Ruby Objects  Preview
+https://youtu.be/YBzsZr4Jg68
+Videos 351-375

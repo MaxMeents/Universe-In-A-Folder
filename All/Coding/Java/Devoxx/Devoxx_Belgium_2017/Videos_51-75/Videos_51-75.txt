@@ -1,0 +1,76 @@
+
+10 tips to become an awesome Technical Lead by Bart Blommaerts
+https://youtu.be/yhtK1jQC_4s&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Angular for Java Developers by Yakov Fain
+https://youtu.be/7Ott2mwtp9c&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+API Versioning for Zero Downtime by Patrice Krakow
+https://youtu.be/RvcDs_JLc0Y&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Behavior driven integration with Cucumber and Citrus by Christoph Deppisch
+https://youtu.be/X76Wz0MNdrc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+CERN, from an IT Perspective by Derek Mathieson
+https://youtu.be/0QI60O_AjSU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Collections Refueled by Stuart Marks
+https://youtu.be/LI8rpkOGU3c&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Command Line Curiosities - Making the Terminal Sing by Hamza Haiken
+https://youtu.be/j5zA5Xi_ph8&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Comparison Method Violates Its General Contract! (Part 1) by Stuart Marks
+https://youtu.be/Enwbh6wpnYs&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Deploying Spring Boot apps on Kubernetes by Thomas Risberg
+https://youtu.be/EerHub6PoEA&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Documentation as code (explained to my dad) by Hubert Sablonnière
+https://youtu.be/ggBv_pZDu0c&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+From Java bytecode to instant class diagrams with Class Visualizer by Jonatan Kazmierczak
+https://youtu.be/qGLPHAnW_58&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+From Spring Boot 1 in Java to Spring Boot 2 in Kotlin by Mark Heckler, Sébastien Deleuze
+https://youtu.be/MUa_Yp2KbBI&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Going Reactive with Spring 5 & Project Reactor by Mark Heckler, Josh Long
+https://youtu.be/yAXgkSlrmBA&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Google Cloud Spanner Global consistency at scale by Robert Kubis
+https://youtu.be/iKQhPwbzzxU&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+How Events Are Reshaping Modern Systems by Jonas Bonér
+https://youtu.be/3V3pHm2Cpks&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+How to scale your app in minutes with container and AWS ECS by Arnaud Koster
+https://youtu.be/_CQ1Si2hMeg&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Java 8 the good, the bad and the ugly by Brian Vermeer
+https://youtu.be/GgMNcUcByfY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Java 9 VarHandles   Best practices, and why by Tobi Ajila
+https://youtu.be/w2zaqhFczjY&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Java on the GPU  Where are we now by Dmitry Aleksandrov
+https://youtu.be/BjdYRtL6qjg&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+JUnit 5 — The New Testing Framework for Java and Platform for the JVM by Marc Philipp, Sam Brannen
+https://youtu.be/oGaatK5ShUs&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+No-frills REST API testing with REST-Assured by Michel Schudel
+https://youtu.be/4MIY2M0zI6c&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+OpenShift   the power of Kubernetes for developers by Marek Jelen
+https://youtu.be/7aAKeCfdrNI&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Safely Shoot Yourself in the Foot with Java 9 by Heinz Kabutz
+https://youtu.be/uk08-H_GtwI&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Scala js getting the best of JavaScript and Scala by Sébastien Doeraene
+https://youtu.be/3zPd24u5Kxc&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+
+Why Spring ❤ Kotlin by Sébastien Deleuze
+https://youtu.be/kbMXAjWEft0&list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo
+Videos 51-75

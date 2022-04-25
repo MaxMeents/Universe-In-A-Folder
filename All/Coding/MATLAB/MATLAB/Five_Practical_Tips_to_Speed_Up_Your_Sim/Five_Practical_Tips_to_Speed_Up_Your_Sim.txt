@@ -1,0 +1,16 @@
+
+Five Practical Tips to Speed Up Your Simulink Simulations Fast Restart
+https://youtu.be/e_TPjirs--U&list=PLn8PRpmsu08p99rnE1vTmaiiu9jY8xY2n
+
+Five Practical Tips to Speed Up Your Simulink Simulations Model References and Simulink Cache
+https://youtu.be/dOKfnlPuX3k&list=PLn8PRpmsu08p99rnE1vTmaiiu9jY8xY2n
+
+Five Practical Tips to Speed Up Your Simulink Simulations Parallel Simulation
+https://youtu.be/OgLPjDM-b5g&list=PLn8PRpmsu08p99rnE1vTmaiiu9jY8xY2n
+
+Five Practical Tips to Speed Up Your Simulink Simulations Performance Advisor
+https://youtu.be/IvGKM2sMjls&list=PLn8PRpmsu08p99rnE1vTmaiiu9jY8xY2n
+
+Five Practical Tips to Speed Up Your Simulink Simulations Simulation Modes
+https://youtu.be/w9BtCOiYrXg&list=PLn8PRpmsu08p99rnE1vTmaiiu9jY8xY2n
+Five Practical Tips to Speed Up Your Simulink Simulations

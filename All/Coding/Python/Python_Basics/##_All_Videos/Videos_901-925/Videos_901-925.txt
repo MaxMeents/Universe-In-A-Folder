@@ -1,0 +1,76 @@
+
+Python Basics Boolean Shortcut
+https://youtu.be/1GbxvOz0ePc
+
+Python Basics Divisors
+https://youtu.be/ZoQnU0G-N8w
+
+Python Basics Factor List Comprehension
+https://youtu.be/G4JRgHDs_dI
+
+Python Basics Factors with  For Loop
+https://youtu.be/ufZYG6tBgfI
+
+Python Basics How to Assign Multiple and Reassignments Variables
+https://youtu.be/UuRtHeNghdY
+
+Python Basics Keywords And Or
+https://youtu.be/3mbw4bGp8mo
+
+Python Basics Len Function
+https://youtu.be/XQAvSJpDjM0
+
+Python Basics Len with For Loop with Break
+https://youtu.be/fekSpfbHlEg
+
+Python Basics Len with while loop
+https://youtu.be/2DR0pTV6VAw
+
+Python Basics Lower Denominator
+https://youtu.be/BwxRsgwsmVQ
+
+Python Basics Lowest Common Denominator (LCD)
+https://youtu.be/yoPxYHDI4XQ
+
+Python Basics Reverse Number Triangle Formated
+https://youtu.be/4YzOAfAkDKE
+
+Python Basics Square Number
+https://youtu.be/-WSmXqF-3aI
+
+Python Basics String Count Sub-Strings
+https://youtu.be/Fjt6oNp-FX8
+
+Python Basics String Find Method
+https://youtu.be/XFSo3OTQlIs
+
+Python Basics String Value Unicode
+https://youtu.be/goyOGo_kop8
+
+Python Basics String Value Using a Dictionary
+https://youtu.be/UPpz08tKINA
+
+Python Basics Sub-String Find Method
+https://youtu.be/pK2HRpyfX0s
+
+Python Basics Sub-string Function
+https://youtu.be/zxSEkzd6T9A
+
+Python Basics Sum
+https://youtu.be/2p25fKLHQJk
+
+Python Basics Thank You
+https://youtu.be/CsL3HPctIUs
+
+Python Basics Tutorial Square Root
+https://youtu.be/UGac_KqFrn0
+
+Python Basics Unicode
+https://youtu.be/C3rhSDpI9I8
+
+Python Basics Using Variables with Range Function
+https://youtu.be/UNDgaqJstD4
+
+Python Basics Why Not String Count
+https://youtu.be/OlgiJNuVY5g
+Videos 901-925

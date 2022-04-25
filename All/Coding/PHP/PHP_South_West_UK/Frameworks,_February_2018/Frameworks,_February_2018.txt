@@ -1,0 +1,7 @@
+
+A Beginners Guide to Laravel from a Laravel Beginner - Tom Metcalfe - PHPSW Frameworks, Feb 2018
+https://youtu.be/wKnzDfPgqZk&list=PLrEpsyNSHj03l2G52YXzGk2f5kdXQU2qC
+
+Zend Form package in action - Jan Franciszek Kowalski - PHPSW Frameworks, February 2018
+https://youtu.be/a5rFcJIxS4Y&list=PLrEpsyNSHj03l2G52YXzGk2f5kdXQU2qC
+Frameworks, February 2018

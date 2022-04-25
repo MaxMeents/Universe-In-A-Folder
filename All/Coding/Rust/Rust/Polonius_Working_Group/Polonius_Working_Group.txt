@@ -1,0 +1,10 @@
+
+Polonius WG Initialization and move tracking
+https://youtu.be/ilv9V-328HI&list=PL85XCvVPmGQitE2CBzf-gERSqeXo59NQG
+
+Polonius WG The role of subset relations
+https://youtu.be/mAUGvNgZYtw&list=PL85XCvVPmGQitE2CBzf-gERSqeXo59NQG
+
+Polonius-rustc walkthrough
+https://youtu.be/i5KdU0ieb_A&list=PL85XCvVPmGQitE2CBzf-gERSqeXo59NQG
+Polonius Working Group

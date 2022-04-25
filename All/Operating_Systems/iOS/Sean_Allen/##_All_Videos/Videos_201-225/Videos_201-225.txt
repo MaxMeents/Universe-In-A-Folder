@@ -1,0 +1,76 @@
+
+9 Things I Wish I Knew When I Started Programming
+https://youtu.be/EgpKu1tAVMY
+
+April Live Stream - iOS Dev Discussion & Q&A
+https://youtu.be/JJuSWEOz1NQ
+
+December Live Stream - iOS Dev Discussion & Q&A
+https://youtu.be/0Pr0xZiX5sc
+
+February Live Stream - iOS Dev Discussion & Q&A
+https://youtu.be/gUAuj-faztk
+
+First Week on the Job as a Jr. iOS Developer
+https://youtu.be/thXQGkxi_h4
+
+How To Send an Email From Your App - Swift
+https://youtu.be/J-pn5V2jcfo
+
+How to Show App Version - Swift 4.2 - Xcode 10
+https://youtu.be/5pv_KHpG71w
+
+How to Show User's Location - Swift 4.2 - Xcode 10
+https://youtu.be/WPpaAy73nJc
+
+Insights on how to become an iOS Developer - My first book!
+https://youtu.be/9FO0lWUsTpk
+
+iOS Dev Origin Story - Paul Hudson - Hacking with Swift
+https://youtu.be/2yIXXwfcbWk
+
+iOS Dev Quality of Life vs. Compensation & Q&A
+https://youtu.be/ML2DxcNvwzs
+
+iOS Developer Discussion & Q&A
+https://youtu.be/D1Ak4Y9_UcQ
+
+iOS Development Podcasts
+https://youtu.be/5Q3G6UhOAfs
+
+iOS Full-Time vs. Contracting  Freelancing - Q&A
+https://youtu.be/LeehmNTIlxI
+
+January Live Stream - iOS Dev Discussion & Q&A
+https://youtu.be/2VHOOcJOqBw
+
+MapKit Tutorial - Get Directions & Show on Map - Swift 4.2
+https://youtu.be/vUvf_dlr6IU
+
+MapKit Tutorial - Reverse Geocode - Get Address - Swift 4.2
+https://youtu.be/2wxE8byc2FQ
+
+March Live Stream - iOS Dev Discussion & Q&A
+https://youtu.be/wuOsCxhyniU
+
+November Live Stream - iOS Dev Updates & Q&A
+https://youtu.be/4ZcBjs7Oars
+
+October Live Stream - iOS Dev Updates & Q&A
+https://youtu.be/XqafrkhbmnQ
+
+Programmer Confidence - How to Improve
+https://youtu.be/2pQ04FriBxs
+
+Software Development The 9090 Rule
+https://youtu.be/T1v_E0yuVBw
+
+Storyboard vs. Code - iOS Development - Swift
+https://youtu.be/K6JfE8XD9p0
+
+Swift UITabBar Tutorial & Basic Customization - Xcode 10
+https://youtu.be/n7NNAdaIDKQ
+
+Xcode 10 - Interface Builder  Code Hybrid Approach for User Interface
+https://youtu.be/hIQMQmzitfU
+Videos 201-225

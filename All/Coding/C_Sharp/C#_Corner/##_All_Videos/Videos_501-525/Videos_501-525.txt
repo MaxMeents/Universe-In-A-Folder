@@ -1,0 +1,76 @@
+
+A new future with AI tools by Rahat Yasir   Lightup Conference
+https://youtu.be/WKGTcpUKghM
+
+An Introduction to Terraform, Infrastructure as Code by John Martin   Lightup Conference
+https://youtu.be/7XtVOlk-AdQ
+
+AntiPatterns every software development team must know by Vidya Vrat Agarwal  Lightup Conference
+https://youtu.be/xE0npXwaTgY
+
+Azure BOT Service by Shweta Lodha   Lightup Conference
+https://youtu.be/hQfdMEZMEjo
+
+Azure SQL Database – The Database of Choice by Sanjay Mishra  Lightup Conference
+https://youtu.be/YnHr5zpW--s
+
+Azure SQL What to use when by Anna Hoffman  Lightup Conference
+https://youtu.be/bu_Ktfu5Kr8
+
+Build Apps that Don't Get Hacked by Chris Gali  Lightup Conference
+https://youtu.be/MQQLEVzqa_Q
+
+Build Your First SharePoint Client-Side Web Part by David Patrick  Lightup Conference
+https://youtu.be/sbyzo0JxXjk
+
+Data breach prevention and mitigation by Jasmin Azemović  LightUp Conference
+https://youtu.be/PZVxV-lJMJ0
+
+Developers Guide to AI by Henk Boelman  Azure Virtual Conference
+https://youtu.be/osAw34TfD_U
+
+Developing with Kinect for Azure - Understanding the human body by Andreas Erben
+https://youtu.be/BwSvYnrVzhw
+
+Docker for the Windows Developer by Rob Richardson  Lightup Conference
+https://youtu.be/ItnpMrztaYk
+
+Drive security enforcement across Microsoft Teams, SharePoint and Office 365 by Luzaan Lottering
+https://youtu.be/ia3lTwdaS2Y
+
+Every Developer is Welcome open sources and development environment by Ian Choi- Lightup Conference
+https://youtu.be/HQv7iqUXGX4
+
+Help! I cannot find out where is the bug by Jose Manuel Jurado Diaz  Lightup Conference
+https://youtu.be/lCGuDzui2C0
+
+Introduction to Xamarin Forms Shell by Chris Miller  Lightup Conference
+https://youtu.be/gsMt3FlkRx4
+
+Keynote by Vishwas Lele  Azure Virtual Conference
+https://youtu.be/j4WtKuTsG4U
+
+Microsoft Teams in Education by Marcin Siewnicki  Lightup Conference
+https://youtu.be/ZvbkZD-9Qi4
+
+Microsoft Virtual Agent by Anusuya Goud  Lightup Conference
+https://youtu.be/2Mb8qL1qCbM
+
+Navigating and Customizing the SharePoint Interface by Sarah Patrick   Lightup Conference
+https://youtu.be/oatfB3VkYoQ
+
+Power of Business Insight in a Digital Transformed World using Microsoft Planner as project collabor
+https://youtu.be/-bP4ELDQx_k
+
+Run the world from the palm of your hand by Jared Rhodes  Lightup Conference
+https://youtu.be/csj4YpObg6c
+
+SQL Containers in Microsoft Azure by Carlos Robles    Lightup Conference
+https://youtu.be/Erh87lPKC9s
+
+Streamline Database Deployments by lizabeth Noble  Lightup Conference
+https://youtu.be/1txZnlVRHik
+
+Working with time intelligence DAX functions by Parv Chana  Lightup Conference
+https://youtu.be/11X4G-AtKrw
+Videos 501-525

@@ -1,0 +1,76 @@
+
+A developer, a designer and a data scientist walk into a bar by Luca Simone,Uros Savic,Maxime Darçot
+https://youtu.be/FWnKaEmE0sw&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Angular the Redux Way by Gion Kunz
+https://youtu.be/FPHVZlpxInw&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Challenges in Mixed Reality by Sébastien Broggi and Roman Messerli
+https://youtu.be/Z2N9sMcPPII&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+CommitStrip live drawing at VDZ18
+https://youtu.be/78EHYa8wbeI&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Distributing UIs across devices by Maria Husmann
+https://youtu.be/TbTScb9Eulk&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+DROP DATABASE - galactic story by Jarosław Ratajski
+https://youtu.be/QR0hK7rqkGM&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Effective Scala Reloaded! by Mirco Dotta
+https://youtu.be/pAc-0TmnlcE&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Graal High-Performance Polyglot Runtime by Thomas Wuerthinger and Aleksandar Prokopec
+https://youtu.be/8AYESZIaacg&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Harness the power of Spark SQL with the Data Source API by Stefano Baghino
+https://youtu.be/2JVcrGPFrIA&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Introduction to Apache Kafka as Event-Driven Open Source Streaming Platform by Kai Waehner
+https://youtu.be/OXLABLRNuzI&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Lazy Java by Mario Fusco
+https://youtu.be/exEuie-wyCI&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Legacy, for lack of a better word, is good by Uberto Barbini
+https://youtu.be/zljE_duWZnI&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Move Slow and Mend Things by Kevlin Henney
+https://youtu.be/6j9Yl6fNMmc&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Not Your Father's Complexity Performance in a New Machine Age by Maurice Naftalin
+https://youtu.be/6Pk4w5GehWc&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+One does not simply log in! - SSO for Web APIs by Niko Köbler
+https://youtu.be/pz1gi2KW1K8&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+One size fits all by Ix-chel Ruiz Flores
+https://youtu.be/7dYTrmmP54o&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Onion architecture with stereotypes by Alain Sahli
+https://youtu.be/XOyyLwyrBQU&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Real world serverless - architecture, patterns and lessons learned by David Schmitz
+https://youtu.be/uMCtcZ46gns&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Sequencing dance music with Clojure by Piotr Jagielski
+https://youtu.be/wlSHi-GY5KA&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+The Java 9 Module System Beyond The Basics by Nicolai Parlog
+https://youtu.be/pfXsQyToipM&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+The Power and Practicality of Immutability by Venkat Subramaniam
+https://youtu.be/FQERMVABRrQ&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Welcome to VDZ18 by Federico Yankelevich and Mario Fusco
+https://youtu.be/aopu2NtmFtQ&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+What Every Programmer has to know about Database Storage by Alex Petrov
+https://youtu.be/e1wbQPbFZdk&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Why Spring ❤ Kotlin by Sebastien Deleuze
+https://youtu.be/tVZOtxianKI&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+
+Your Website STILL Feels Slow, Now What by Myriam Jessier
+https://youtu.be/0CAE2Q4ZR-E&list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL
+Videos 1-25

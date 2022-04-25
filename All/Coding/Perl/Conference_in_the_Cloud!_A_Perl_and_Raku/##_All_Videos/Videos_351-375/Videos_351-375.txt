@@ -1,0 +1,76 @@
+
+2016 -  All the Regex I Can Stuff Into 50 Minutes!? - Jeremy Holland
+https://youtu.be/OwUgdm63aGs
+
+2016 -  ?Static Analysis and Perl? - Stevan Little
+https://youtu.be/T6igWSZrxDE
+
+2016 - Battling a legacy schema with DBIxClass- Lee Johnson
+https://youtu.be/ltckzIJYwHg
+
+2016 - Bugzilla - Dylan Hardison
+https://youtu.be/wF9YljsE0Ak
+
+2016 - Cutting Some Slack Decoding IRC? - VM Brasseur
+https://youtu.be/O4T5_KVHL2I
+
+2016 - Duct Tape and the Camel What I've Learned from Maintenance? - brian carlson
+https://youtu.be/sb_EmYbc798
+
+2016 - Finding dead code, the quick and easy way, with DevelQuickCover?  - Gonzalo Diethelm
+https://youtu.be/7EbLC3M5n6g
+
+2016 - GeoParserText - Geocoding locations Parsed from Text.?  - Ervin Ruci
+https://youtu.be/hshprKTodEA
+
+2016 - Hands-on RapidApp from bootstrapping to dockerized deployment? - Henry Van Styn
+https://youtu.be/-dRacuBY85U
+
+2016 - Happy Campers Lessons Learned from Scouting's Premier Leadership Course?- Chris Prather
+https://youtu.be/Yl0ZVJZyJwo
+
+2016 - Introduction to meta object protocol - Upasana Shukla
+https://youtu.be/bqoi1WNV6tw
+
+2016 - RPerl, Perl 11, and The Future of Perl Performance? - Will Braswell
+https://youtu.be/8EoEZrXSUfw
+
+2016 - The best conventions other teams are using that you need to know? - Steve Nolte
+https://youtu.be/uBlSGMXr7G8
+
+2016 - ?A Million Billion Squiggly Characters? -  Ricardo Signes
+https://youtu.be/TmTeXcEixEg
+
+2016 - ?Don't Fear the Meta Simple trait programming for fun and profit? - Chris Weyl
+https://youtu.be/dOPYjQ1mdgw
+
+2016 - ?Have It Your Way Maximizing Drive-Thru Contributions?  - VM Brasseur
+https://youtu.be/9jdBz9Mscc0
+
+Damian Conway - A Vim Environment For Perl Developers
+https://youtu.be/oka4wcsrg0c
+
+Keynote by Sawyer X - Perl 5.26 and the Blue-Blue Shiny Ball of Eternal Transparency
+https://youtu.be/SYmdef_WQsw
+
+Lightning Talk by Dave Rolsky - Things I Released Recently-ish
+https://youtu.be/DVKfBV2xngg
+
+Lightning Talk by David Golden - How I get to the ☞
+https://youtu.be/vQ5qWey_SO4
+
+Lightning Talk by Lee Johnson - Emulating Any API (and some other topics
+https://youtu.be/cNlMIa-YOnM
+
+Lightning Talk by R. Geoffrey Avery - sudo From a Folder For the Slightly Trusted User
+https://youtu.be/RarVGKBar0A
+
+Lightning Talk by Randal Schwartz - Why Google's Dart should be your next programming language
+https://youtu.be/cDMMF_b7Kbs
+
+Lightning Talk by Zachary Zebrowski - Kite Photography with the Raspberry Pi & Perl
+https://youtu.be/pQr8iNv4Ld4
+
+Matt S. Trout - ES6 Almost An Acceptable Perl5
+https://youtu.be/OwCAFPKwAyE
+Videos 351-375

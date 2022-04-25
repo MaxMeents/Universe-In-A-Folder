@@ -1,0 +1,13 @@
+
+Anachro-PC An Anachronistic PC Architecture - James Munns
+https://youtu.be/MvcWHmnnMuc&list=PLkgYzo_ZZ7KAa2rQjuXTtuPrXSjJ2Symg
+
+Recruitment session by Develer - Massimiliano Atzori
+https://youtu.be/N1Un2s7N4mg&list=PLkgYzo_ZZ7KAa2rQjuXTtuPrXSjJ2Symg
+
+Rundown of AsyncAwait - Pawan Bisht
+https://youtu.be/eDip8Y-thdw&list=PLkgYzo_ZZ7KAa2rQjuXTtuPrXSjJ2Symg
+
+The state of WASI support in Rust and WebAssembly toolchain - Michael Yuan
+https://youtu.be/hGcqJ2zrwIY&list=PLkgYzo_ZZ7KAa2rQjuXTtuPrXSjJ2Symg
+RustLab 2020 Day 3 - 14102020

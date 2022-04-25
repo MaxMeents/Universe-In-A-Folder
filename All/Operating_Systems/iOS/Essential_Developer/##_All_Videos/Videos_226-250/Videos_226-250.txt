@@ -1,0 +1,76 @@
+
+Better iOS dev skills, better projects, better career Q&A  iOS Lead Essentials Podcast #021
+https://youtu.be/kzlg8_n2G6Y
+
+Blog posts vs. videos to help others and promote your iOS dev skills
+https://youtu.be/e3XLkyQ_ikE
+
+Clean iOS Architecture 101 Principles, Patterns, Practices
+https://youtu.be/YEMm6auVATU
+
+Creating content as an iOS dev pt. 2 How and where to start  iOS Lead Essentials Podcast #018
+https://youtu.be/BuYbehj4hGI
+
+Decoupling Analytics from MVVM components  iOS Lead Essentials Community Q&A
+https://youtu.be/y5SRUqDXYz4
+
+How iOS devs can be more productive working from home
+https://youtu.be/w0me5keF_Jk
+
+How to effectively create iOS content to get better iOS dev opportunities
+https://youtu.be/mWzQTF8xDDs
+
+How to name your iOS dev blogchannel when starting out
+https://youtu.be/fOyprz6U1g4
+
+I'm not experienced enough to create quality iOS content
+https://youtu.be/3zXeIV-t7sI
+
+iOS Dev Mentoring #008 - Test-driven MVVM with RxSwift
+https://youtu.be/pRdYi5MBg7w
+
+iOS Dev Mentoring #011 - From iOS Developer to Team Lead - Nicolás Landa
+https://youtu.be/zSs8WiRusnk
+
+Open-source iOS apps Should I be concerned with private details
+https://youtu.be/mE6ZKiVIUKs
+
+S02E17 Migrating the View Controller Factory part 2  Professional iOS Engineering Series
+https://youtu.be/bGxcncigyyM
+
+S02E18 Migrating the Navigation Controller Router  Professional iOS Engineering Series
+https://youtu.be/Vcp7z5I_m-4
+
+S02E19 Migrating the Router and iOS AppDelegate  Professional iOS Engineering Series
+https://youtu.be/8mWeUnJ3X7U
+
+S02E20 New iOS Quiz App Architecture Overview  Professional iOS Engineering Series
+https://youtu.be/WnK7R1xoVeU
+
+S02E21 Migrating to Swift 5.2 and CI with GitHub Actions  Professional iOS Engineering Series
+https://youtu.be/HpitZtTDa3M
+
+Succeeding in times of crisis iOS Dev Career Q&A  iOS Lead Essentials Podcast #020
+https://youtu.be/ud2ThT8X_3k
+
+SwiftUI+Combine Q&A Will it change the way you build iOS apps  iOS Lead Essentials Podcast #022
+https://youtu.be/Z9rqqIVFBXI
+
+Testing code that uses DispatchQueue.main.async  iOS Lead Essentials Community Q&A
+https://youtu.be/jH7Zfi7TQt8
+
+Testing Date Span in Swift Controlling the current date & time  iOS Lead Essentials Community Q&A
+https://youtu.be/zC9TErPqOIE
+
+Thriving as a remote iOS dev Be productive & work from anywhere  iOS Lead Essentials Podcast #019
+https://youtu.be/A6QUctWqEfc
+
+Traits of good architecture for your iOS codebases
+https://youtu.be/BjzHQ7hDaMM
+
+What is mandatory to have on my iOS dev blog, website, or channel
+https://youtu.be/XGIbX5S-MGU
+
+WWDC 2020 Q&A App Clips, Widgets, SwiftUI 2.0 & platform support  iOS Lead Essentials Podcast #023
+https://youtu.be/cpwiKWEBFBY
+Videos 226-250

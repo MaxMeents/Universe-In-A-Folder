@@ -1,0 +1,76 @@
+
+#1 Chrome and AutoHotkey How to Connect to Chrome via the Debug window
+https://youtu.be/O8JtPu3ioWM
+
+#2 Chrome and AutoHotkey How to connect to Chrome with AutoHotkey
+https://youtu.be/TFyDoGTg7YQ
+
+#3 Chrome and AutoHotkey How to Navigate to a page in Chrome & Setting text
+https://youtu.be/rLRuJd69an0
+
+#4 Chrome and AutoHotkey Get data from a page with AutoHotkey (part 1)
+https://youtu.be/2T8oWlf5r7w
+
+#6 Chrome and AutoHotkey tutorial Setting text with Chrome and AutoHotkey
+https://youtu.be/pGXOVGVDtD0
+
+#8 Chrome and AutoHotkey Dealing with Event listeners in Chrome and custom edit fields
+https://youtu.be/bIk_fupn3ho
+
+7 Chrome and AutoHotkey Why you should use a Chrome Profile
+https://youtu.be/FWcuK2QGRmI
+
+AutoHotkey Podcast 060 Automating Edge via ChromeClass
+https://youtu.be/XdY0H8voHg0
+
+AutoHotkey Podcast 061 Automating Citrix  Remote Desktop connections
+https://youtu.be/6AulYMC_CYE
+
+AutoHotkey Webinar 052020 Hour 2- Geek Dude's Neutron and Q&A
+https://youtu.be/cTRcOG28hYI
+
+Automate Chrome (2020) 5 Get list from Chrome with AutoHotkey using JavaScript (part 2)
+https://youtu.be/GqvMwywARvM
+
+Get file paths in Explorer with AutoHotkey
+https://youtu.be/xHq5HH90n0A
+
+Getting Public and Private IP Address with AutoHotkey
+https://youtu.be/EI8Sjwfh-rI
+
+Grabbing text to the left or right of a character with AutoHotkey
+https://youtu.be/5Fb8LupcG4k
+
+Hotkeys to Edit, Reload, Pause, and Suspend your scripts in AutoHotkey
+https://youtu.be/KuPL7Wl15O0
+
+How to add Certificate in LinkedIn  for that great job in 2022
+https://youtu.be/3twsHtW6yYs
+
+How to Automate your PC   AutoHotkey is the easiest Productivity tool you can use!
+https://youtu.be/MJxteBFvuEU
+
+How to easily get the color under a mouse with AutoHotkey
+https://youtu.be/XUv6XUR_yg4
+
+How to use the much prettier built-in message box in Windows
+https://youtu.be/Y30sUMk-qP0
+
+Intermediate AutoHotkey is now LIVE on Udemy
+https://youtu.be/cDQGlo414lQ
+
+Pasting plain text but keeping your full clipboard
+https://youtu.be/4sHI1dJC4is
+
+Quickly Get Rows & Headers from Large files with AutoHotkey
+https://youtu.be/H_qaWR_10uk
+
+Resizable GUIs are easy in AutoHotkey  My Message Box Alternative AHK GUI function
+https://youtu.be/myDwlrGTNBs
+
+See the status of your AHK script in the Taskbar with this cool script
+https://youtu.be/9DQgF71h0rM
+
+Why you should learn AutoHotkey! Some most common uses of AutoHotkey
+https://youtu.be/HXrqHr0ldI0
+Videos 451-475

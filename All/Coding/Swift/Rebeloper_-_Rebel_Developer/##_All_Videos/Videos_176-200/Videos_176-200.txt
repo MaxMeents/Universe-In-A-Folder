@@ -1,0 +1,76 @@
+
+Build An iMessage App In Xcode 11 Swift 5.1  Creating Messages Extension in iOS 13
+https://youtu.be/p7_C-gQT1wY
+
+HORIZONTAL LIST (List in Swift)
+https://youtu.be/FvIpbWQXyio
+
+LIST IN SWIFT - Custom Header and Footer
+https://youtu.be/cpkvjgjyiI4
+
+LIST IN SWIFT [Modern Apps Have]
+https://youtu.be/wN9nSesPkZ0
+
+MVVM SwiftUI - Model View ViewModel Pattern - Getting Started
+https://youtu.be/EhtK_H9LsYQ
+
+StoreKit - In App Purchases Swift
+https://youtu.be/MP-U5gQylHc
+
+Stylesheet in iOS
+https://youtu.be/VXC8nWssr2E
+
+Swift Alert - UIAlertControllers
+https://youtu.be/ke4TTD56RSI
+
+Swift Navigation - Hide Nav Bar Background
+https://youtu.be/LzM8rMghdD4
+
+Swift Navigation Controller
+https://youtu.be/pejBHLeK9_w
+
+Swift Tutorial for Beginners - SwiftUI in UIKit
+https://youtu.be/6cbXgPpTpns
+
+SwiftUI Basics - Dynamic Lists, HStack, VStack, Images and How to do Navigation in your Swift UI app
+https://youtu.be/7c2fBRM4gSA
+
+SwiftUI Navigation Tutorial (2019) - NavigationView and NavigationButton - Push View in SwiftUI
+https://youtu.be/1pK1yZlzeTw
+
+SwiftUI Reactive Intro - Understanding State and Binding in SwiftUI in Xcode 11 (2019)
+https://youtu.be/iH88uJcdzDM
+
+SwiftUI tutorial - How To Create Views, Text and Stacks with Swift UI
+https://youtu.be/zucwLZoCs8w
+
+SwiftUI Tutorial - Implementing Dark Mode on iOS and Custom Colors in Xcode 11
+https://youtu.be/j7z2bsOsqYw
+
+SwiftUI Tutorial - SwiftUI Scroll Animation Using GeometryReader
+https://youtu.be/64sGZB3IvTU
+
+SwiftUI Tutorial - Using SF Symbols for Designing for iOS
+https://youtu.be/iYpcYSVLTQk
+
+SwiftUI tutorial SwiftUI Animation Transitions and Blur
+https://youtu.be/VPn3bPA8dFA
+
+Tabbed View SwiftUI - TabBar Tutorial & Basic Customization - Xcode 11 - 2019
+https://youtu.be/tDyvkIe9RsA
+
+UIAlertController in SwiftUI - Alerts, Action Sheets and Modal Sheets
+https://youtu.be/zmM4NIWzC3s
+
+UICollectionViewController and UITableViewController
+https://youtu.be/aTWtxqsUdEM
+
+UIKit Tutorial - Swift HUD
+https://youtu.be/0_lgk7sJ2gA
+
+Xcode Debugging - Visual Debug
+https://youtu.be/Prmrwa85yzg
+
+Xcode Debugging Smart Print - Log
+https://youtu.be/0etjm30txxw
+Videos 176-200

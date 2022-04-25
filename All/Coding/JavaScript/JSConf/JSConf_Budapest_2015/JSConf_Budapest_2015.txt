@@ -1,0 +1,49 @@
+
+Anyone can edit by James Halliday at JSConf Budapest 2015
+https://youtu.be/4DC8yd37H6U&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015
+https://youtu.be/QCBXt6ixnLE&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Dancing with Robots by Julian Cheal at JSConf Budapest 2015
+https://youtu.be/DsCiLGsFK7Q&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Dependency Injection for Future Generations by Pascal Precht at JSConf Budapest 2015
+https://youtu.be/0kTq77ViAek&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Diving into io js C++ internals by Fedor Indutny at JSConf Budapest 2015
+https://youtu.be/BPXeTOFduHM&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Enforcing coding standards in a JS library by Sebastiano Armeli at JSConf Budapest 2015
+https://youtu.be/SQ7xzpOjA6o&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Functional UIs and Unidirectional Dataflow by Mikael Brevik at JSConf Budapest 2015
+https://youtu.be/Pbqratnt9Io&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Getting started with three js and WebGL by Jaume Sanchez Elias at JSConf Budapest 2015
+https://youtu.be/aeEhGBtgtXo&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+How you can fix your community in one day by Anika Lindtner at JSConf Budapest 2015
+https://youtu.be/tSssv1Df2JE&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Invisible Code by Martin Kleppe at JSConf Budapest 2015
+https://youtu.be/Ychs0T-4xoU&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+JavaScript for Virtual Reality by Liv Erickson at JSConf Budapest 2015
+https://youtu.be/YF-osnGDqE0&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+The disconnected ensemble scattered clouds, underground by Soledad Penades at JSConf Budapest 2015
+https://youtu.be/ZKFE19AbbvE&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+The web is getting pushy by Phil Nash at JSConf Budapest 2015
+https://youtu.be/7X6k6zxkzaI&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+Transform your codebase without breaking a sweat by Sufian Rhazi at JSConf Budapest 2015
+https://youtu.be/U4vEKRffIFE&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+We fail to follow SemVer and why it needn't matter by Stephan Bonnemann at JSConf Budapest 2015
+https://youtu.be/IUke0AcN_rY&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+
+What if the user was a function  by Andre Staltz at JSConf Budapest 2015
+https://youtu.be/gG2S0tLrZCE&list=PL37ZVnwpeshFQfRxOoqmL2bgTgXCgPKXW
+JSConf Budapest 2015

@@ -1,0 +1,76 @@
+
+Ian Cook  Bridging the Gap between SQL and R  RStudio (2020)
+https://youtu.be/JwP5KdWSgqE&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Ian Lyttle  Small Team, Big Value Using R to Design Visualizations  RStudio (2020)
+https://youtu.be/MoFyXM7MIYQ&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jake Thompson  Branding and Packaging Reports with R Markdown  RStudio (2020)
+https://youtu.be/wM0B3CB18oQ&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jared Lander  R Then and Now  RStudio (2020)
+https://youtu.be/zGe90rct8RQ&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Javier Luraschi  Datasets in Reproducible Research with 'pins'  RStudio (2020)
+https://youtu.be/xwItECnphRU&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Javier Luraschi  Updates on Spark, MLflow, and the broader ML ecosystem  RStudio (2020)
+https://youtu.be/e-wACDwvyvg&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jay Campanell  A high school student’s journey to bring R into the classroom  RStudio (2020)
+https://youtu.be/5gt7Jol9loU&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jeff Leek  Data science education as a public health intervention in E. Baltimore  RStudio (2020)
+https://youtu.be/GG5Vl7N5vCo&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jesse Sadler  vctrs Creating custom vector classes with the vctrs package  RStudio (2020)
+https://youtu.be/UHwp8T_fmEI&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jim Hester  Azure Pipelines and GitHub Actions  RStudio (2020)
+https://youtu.be/WWDMZNW5CnU&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Jon Harmon  Learning by Teaching Mentoring at the R4DS Online Learning Community  RStudio (2020)
+https://youtu.be/-lzVF_hfL3Q&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Karl Feinauer  Using Jupyter with RStudio Server Pro  RStudio (2020)
+https://youtu.be/30oPT43Y4-I&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Katherine Simeon  Every voice matters An analysis of @WeAreRLadies  RStudio (2020)
+https://youtu.be/nzmkYUr0wS0&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Katie Masiello  Professional Case Studies  RStudio (2020)
+https://youtu.be/LJzfZSlfw_w&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Kelly Bodwin  Course Material Creation in the R Ecosystem  RStudio (2020)
+https://youtu.be/2lGednFDq6c&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Kevin Ushey  renv Project Environments for R  RStudio (2020)
+https://youtu.be/yjlEbIDevOs&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Larry Fenn  Journalism with RStudio, R, and the tidyverse  RStudio (2020)
+https://youtu.be/0lUasIgzt9U&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Lauren Chadwick  Meet You Where You R  RStudio (2020)
+https://youtu.be/25b3-To41Yc&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Lionel Henry  Interactivity and Programming in the Tidyverse  RStudio (2020)
+https://youtu.be/SW_TUkPXSmA&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Mike K Smith  Learn to teach, for goodness sake  RStudio (2020)
+https://youtu.be/zEvN0_9i-vs&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Namita Nandakumar  R + Tidyverse in Sports  RStudio (2020)
+https://youtu.be/L-kRMiYwRC4&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Neal Richardson  Accelerating Analytics with Apache Arrow  RStudio (2020)
+https://youtu.be/4szD5aZw6BU&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Nima Safaian  Rpanda trading simulation - from an idea to a multi-user shiny app  RStudio (2020)
+https://youtu.be/mWAFBUyHsXk&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Paige Bailey  Deep Learning with R  RStudio (2020)
+https://youtu.be/qF2fr-3rslE&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+
+Rebecca Barter  Becoming an R blogger  RStudio (2020)
+https://youtu.be/fT1nLGDvaPA&list=PL9HYL-VRX0oTL2P7FK3854-X6kfLTb4fJ
+Videos 51-75

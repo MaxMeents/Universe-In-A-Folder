@@ -1,0 +1,76 @@
+
+A Deep Dream of a Neural Network
+https://youtu.be/sh-MQboWJug
+
+Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming p.26
+https://youtu.be/BI0asZuqFXM
+
+Classification Generator Testing Attempt - Unconventional Neural Networks p.5
+https://youtu.be/_vIEOUQESSg
+
+Classification Generator Training Attempt - Unconventional Neural Networks p.4
+https://youtu.be/ekp6m0zTSUY
+
+Complex Math Results - Unconventional Neural Networks p.12
+https://youtu.be/IrbpMFJ_Trg
+
+Custom Data Panel - Zipline Tutorial local backtesting and finance with Python p.3
+https://youtu.be/ZEULPvS_eeI
+
+Deep Dream - Unconventional Neural Networks p.7
+https://youtu.be/ijhDHnWfsWw
+
+Deep Dream Frames- Unconventional Neural Networks p.8
+https://youtu.be/VTzUhMB0ibc
+
+Deep Dream Video- Unconventional Neural Networks p.9
+https://youtu.be/GTUHLHhFC4k
+
+Deploy Dash App - Data Visualization GUIs with Dash and Python p.11
+https://youtu.be/tpn-5qPnrrc
+
+Doing Math with Deep Learning (Addition)- Unconventional Neural Networks p.10
+https://youtu.be/Cp7fayS7bNY
+
+Drawing a Number by Request with Generative Model - Unconventional Neural Networks p.6
+https://youtu.be/1xyhgFXhXG8
+
+Dynamically Graphing Terms for Sentiment - Data Visualization GUIs with Dash and Python p.10
+https://youtu.be/K6ixFSxZAX0
+
+Eagles Canyon Raceway (ECR) March 10 2018 s2000
+https://youtu.be/SBTW8VkSv0o
+
+Full Dash App - Data Visualization GUIs with Dash and Python p.12
+https://youtu.be/rDodciQhfS8
+
+Generating Pythonic code with Neural Network - Unconventional Neural Networks p.2
+https://youtu.be/gmQHBWrR4AY
+
+Generating with MNIST - Unconventional Neural Networks p.3
+https://youtu.be/dmLBvRnlFHk
+
+Generative Model Basics - Unconventional Neural Networks p.1
+https://youtu.be/a7Og0ImTg9Q
+
+Installation - Zipline Tutorial local backtesting and finance with Python p.1
+https://youtu.be/J4LTIixReMA
+
+Live Twitter Sentiment Graph - Data Visualization GUIs with Dash and Python p.9
+https://youtu.be/bz2zqXFjOrE
+
+More Complex Math with Deep Learning - Unconventional Neural Networks p.11
+https://youtu.be/yfsM202fZgM
+
+Reading from our sentiment database - Data Visualization GUIs with Dash and Python p.8
+https://youtu.be/a8oJLbI03mg
+
+Requests-HTML - Checking out a new HTML parsing library for Python
+https://youtu.be/gKT_tg87H5Y
+
+Trading Custom Markets (bitcoin example) - Zipline Tutorial finance with Python p.4
+https://youtu.be/rYV102VfG7o
+
+Visualizing Strategy Metrics - Zipline Tutorial local backtesting and finance with Python p.2
+https://youtu.be/GJJzsfJUiB8
+Videos 226-250

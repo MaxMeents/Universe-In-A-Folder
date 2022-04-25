@@ -1,0 +1,76 @@
+
+Automate(d) security with Azure Security Center  IT Security Virtual Conference 2021
+https://youtu.be/UGAmnT_abaU
+
+Azure App Service for .NET Developers - MVP Show ft. Daniel Gomez
+https://youtu.be/3hpE9zKf05A
+
+Building better security for your API platform using Azure API Mgmt  IT Security Conference 2021
+https://youtu.be/UrSR54Q-RnQ
+
+C# Corner Townhall - Episode 10
+https://youtu.be/-CIha2n2N2o
+
+C# Corner Townhall - Episode 11
+https://youtu.be/-Qi3enMndRc
+
+C# Corner Townhall Ep. - 12
+https://youtu.be/e4ufoHyZgvQ
+
+Career Guidance for Developers - Growth Mindset Show
+https://youtu.be/GWHL37IeMDk
+
+Coffee with Pros ft. Oren Eini
+https://youtu.be/htrBBXPxL30
+
+Containerize Microservices with Service Fabric  Women Data Summit 2021
+https://youtu.be/9s9jN1uPOME
+
+Data Replication in Azure SQL and Beyond  Women Data Summit 2021
+https://youtu.be/BEJKKE8eew4
+
+Future of Cloud - Growth Mindset Show
+https://youtu.be/xMB9h3ZCDNg
+
+Getting Started with Stratis Blockchain Webinar
+https://youtu.be/0GkK-13wxzE
+
+How to prevent cyber-attack, & what to do when attacked  IT Security Conference 2021
+https://youtu.be/643oQPIqGuc
+
+How to turn your passion in AI into your career
+https://youtu.be/6aTXHtfbk-g
+
+IT Security Virtual Conference 2021 - C# Corner
+https://youtu.be/79OQcPwpMvU
+
+Keynote DevOps - The Return of Security  IT Security Virtual Conference 2021
+https://youtu.be/F6zBDOkcYBk
+
+Rockin' The Code World with dotNetDave  ft. Sam Cogan - Episode 31
+https://youtu.be/ZmTdDxPYsq0
+
+Rockin' The Code World with dotNetDave ft. Tejas Chopra  Ep. 29
+https://youtu.be/bjU2Isim60w
+
+Rockin' The Code World with dotNetDave ft. Vitalii Honcharuk Ep. 30
+https://youtu.be/dS-wjHUMfl8
+
+Secure Azure Resources using Azure Private Link   IT Security Virtual Conference 2021
+https://youtu.be/i0YdhM8mY6Y
+
+Security in Low-codeNo-code development  IT Security Virtual Conference 2021
+https://youtu.be/4TOb49R0c50
+
+Top 5 ways to secure Azure resources  IT Security Virtual Conference 2021
+https://youtu.be/ffudnnyMP0s
+
+Unlock the secrets of success - Growth Mindset
+https://youtu.be/qtmC-_GJWao
+
+What are NFTs - Growth Mindset Today
+https://youtu.be/BnkapzocbL8
+
+WPF Simplified - MVP Show ft. Rikam Palkar
+https://youtu.be/6s-KoBCCpDM
+Videos 151-175

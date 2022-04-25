@@ -1,0 +1,67 @@
+
+Document Picker In SwiftUI - Uploading Documents To Firebase Using UIDocumentPicker In SwiftUI
+https://youtu.be/q8y_eRVfpMA&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Email Authentication in SwiftUI - Email Login In SwiftUI - Firebase Email Authentication in SwiftUI
+https://youtu.be/S41g3E6tkbQ&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Facebook Login With SwiftUI - Facebook Integration With SwiftUI - Facebook Sign in With SwiftUI
+https://youtu.be/h_BqOtj_Fsk&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Firebase Authentication Using SwiftUI - Firebase Phone Auth Using SwiftUI - Login Page Using SwiftUI
+https://youtu.be/64M3WFx0KRA&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Firebase Cloud Storage in SwiftUI - How to Store Images in Firebase Cloud Storage In SwiftUI
+https://youtu.be/zfJtgq609EE&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Firebase With SwiftUI - Firestore With SwiftUI - CRUD Operations On Firestore With SwiftUI
+https://youtu.be/SAUBNwOHZ-A&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Google Sign in With SwiftUI - Google Login With SwiftUI -Firebase Google Authentication With SwiftUI
+https://youtu.be/NrCe8_FW8Bc&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+How To Build Full Login + Registration Page With Firebase Using SwiftUI 2.0 - SwiftUI Tutorials
+https://youtu.be/qWO7PJ5Icwg&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Login Page Using Firebase With SwiftUI - Integrating Login Page With Firebase Using SwiftUI
+https://youtu.be/CcaQVlj8_uw&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Login Page With Full Email Authentication Support Using Firebase In SwiftUI - SwiftUI Tutorials
+https://youtu.be/GiCTgsH0dtk&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+Note Taking App Using Firebase In SwiftUI - Firebase Tutorial For SwiftUI - SwiftUI Tutorial
+https://youtu.be/NVlJ_rMzeSo&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI 2.0 Login Page With Firebase Phone Auth - Part 1 Designing - SwiftUI 2.0 Tutorials
+https://youtu.be/swbTmF0SuRw&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI 2.0 Login Page With Firebase Phone Auth - Part 2 Firebase Integration
+https://youtu.be/P4avA9K9r1U&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI 2.0 Quiz App Using Firebase Firestore - Firebase Tutorials - SwiftUI Tutorials
+https://youtu.be/elhzkcoBl-A&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI 3.0 Login Page + Apple Sign In Integrated With Firebase Phone Auth - Apple Login - Xcode 13
+https://youtu.be/_WSuzkc00HI&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI 3.0 Login Page With FaceTouch ID Integrated With Firebase Auth - Xcode 13 - UIUX - Part 1
+https://youtu.be/fF53-w7mD_k&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI Chat App With Firebase - Global Chat App - Firebase Cloud Firestore - SwiftUI 2.0 Tutorials
+https://youtu.be/PrasbHixcpU&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI Firebase Pagination - SwiftUI Tutorials
+https://youtu.be/3ktaVsniPnU&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI Firebase Tutorial - How To Build A Registration Page Using Firebase With SwiftUI
+https://youtu.be/Hx5g1b3M204&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI Firebase Tutorial - SwiftUI Firebase Google Sign In  Login - SwiftUI Tutorials
+https://youtu.be/wrAQ6GzEtaA&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI Firebase Tutorials 2020 - SwiftUI Cloud Firestore CRUD Operations - SwiftUI Tutorials
+https://youtu.be/gZZKJJSVM6E&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+
+SwiftUI With Firebase Using Xcode 11 - Swift UI Firestore
+https://youtu.be/_N10q1iR2HQ&list=PLimqJDzPI-H_qHFPAnZWGCpcc886D0eyd
+Firebase With SwiftUI

@@ -1,0 +1,49 @@
+
+PHP UK Conference 2011 - 99 Problems, But The Search Ain't One, by Andrei Zmievski
+https://youtu.be/shHi1eRM1nc&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Advanced OO patterns, by Tobias Schlitt
+https://youtu.be/XY2HP9c2O0o&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Agility and quality, by Sebastian Bergmann
+https://youtu.be/dFxPj2Lzyi4&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Beyond frameworks, by Stuart Herbert
+https://youtu.be/-YpexVKmyNQ&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Continuous improvement in PHP projects by Thorsten Rinne
+https://youtu.be/DwgZsaC5Fp4&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - HTML5 and CSS3 today, by Martin Beeby
+https://youtu.be/L3Rc2EKEtoQ&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Keynote Experience, by Marco Tabini
+https://youtu.be/95GOeK1HRJM&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Large scale data processing with Hadoop and PHP, by David Zuelke
+https://youtu.be/elOaZdQCWEY&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - NoSQL databases what, why and when, by Lorenzo Alberton
+https://youtu.be/l7n2NyKoS2s&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Optimising a Zend Framework application, by Rob Allen
+https://youtu.be/0dIozDHJPKE&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - PHP in a mobile ecosystem, by Ivo Jansch
+https://youtu.be/GYvEXud7ZTM&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Running on Amazon EC2, by Jonathan Weiss
+https://youtu.be/0So5F6fjhpQ&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - The InnoDB storage engine for MySQL, by Morgan Tocker
+https://youtu.be/adDSvfW12Lc&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Varnish in action, by Thijs Feryn
+https://youtu.be/BsJ_B2VhtIE&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - Xdebug by Derick Rethans
+https://youtu.be/ELtok-IrZSY&list=PL8F4CBC3D47BA3717
+
+PHP UK Conference 2011 - ZeroMQ is the answer, by Ian Barber
+https://youtu.be/h8jo3GnKhWM&list=PL8F4CBC3D47BA3717
+PHP UK Conference 2011

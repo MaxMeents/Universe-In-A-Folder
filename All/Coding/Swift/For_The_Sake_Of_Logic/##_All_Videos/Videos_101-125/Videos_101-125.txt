@@ -1,0 +1,76 @@
+
+Algorithms - Adusting Your Algorithm
+https://youtu.be/hkQkbEIp9jo
+
+Algorithms - Conquering a Maze
+https://youtu.be/1PdQv_EJ2Sg
+
+Algorithms - Roll Right, Roll Left
+https://youtu.be/Dcka3OhqF4Q
+
+Algorithms - The Right Hand Rule
+https://youtu.be/hTs152mh2lQ
+
+Algorithms - Which Way to Turn
+https://youtu.be/RO5NDFq_FOI
+
+Initialization - Initializing Your Expert
+https://youtu.be/ADS_KIdfbvk
+
+Initialization - It Takes Two
+https://youtu.be/l_mHqTgYbVE
+
+Initialization - Train Your Expert
+https://youtu.be/RidB9HszJVU
+
+Initialization - Using Instructions of Different Types
+https://youtu.be/F7ALNIUQQ9Q
+
+Parameters - Generalizing a Function
+https://youtu.be/wxz6yrFJHLs
+
+Parameters - Moving Further Forward
+https://youtu.be/K8oHjjUQatU
+
+Parameters - Placing at a Specific Location
+https://youtu.be/yAICscsS744
+
+Types - Corners of the World
+https://youtu.be/vNNirPow83M
+
+Types - Deactivating a Portal
+https://youtu.be/pzH7k0O8t1M
+
+Types - Portal On and Off
+https://youtu.be/CQUSpt2E8o0
+
+Types - Random Gems Everywhere
+https://youtu.be/kt9wsj31Dl4
+
+Types - Setting the Right Portal
+https://youtu.be/CrFbK0f5WKg
+
+Variables - Bump Up the Value
+https://youtu.be/c6L0LZY_g1s
+
+Variables - Checking for Equal Values
+https://youtu.be/ozObcev76vw
+
+Variables - Collect the Total
+https://youtu.be/LcGJE0uXCLA
+
+Variables - Incrementing the Value
+https://youtu.be/8DMZS_3NnQQ
+
+Variables - Keeping Track
+https://youtu.be/PVdgC0e5kr4
+
+Variables - Round Up the Switches
+https://youtu.be/fbfOkhRYheE
+
+Variables - Seeking Seven Gems
+https://youtu.be/-tw2ivupm94
+
+Variables - Three Gems, Four Switches
+https://youtu.be/sI13CEidm2k
+Videos 101-125

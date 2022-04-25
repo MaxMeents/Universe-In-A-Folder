@@ -1,0 +1,10 @@
+
+Basic Operations on Images Making Vehicles and Robots See
+https://youtu.be/GKVLY0iFyK0&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo
+
+Feature Matching and Tracking Making Vehicles and Robots See
+https://youtu.be/rbjybw9UyOg&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo
+
+Image Segmentation and Analysis Making Vehicles and Robots See
+https://youtu.be/-bYKl64vpGY&list=PLn8PRpmsu08pMH5wexyjc_4ludkyYvhqo
+Making Vehicles and Robots See

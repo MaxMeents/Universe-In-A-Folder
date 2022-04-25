@@ -1,0 +1,10 @@
+
+Angelina Fabbro Inspector Web and the Mystery of the Shadow DOM
+https://youtu.be/JNjnv-Gcpnw&list=PL37ZVnwpeshFFbc7hknsfN15lelTPv1sW
+
+Divya Manian Web Components
+https://youtu.be/FO3hTypPB1U&list=PL37ZVnwpeshFFbc7hknsfN15lelTPv1sW
+
+[Reject.JS 2013] Nik Graf - Using Web Components in production
+https://youtu.be/R0SjR_DpHMM&list=PL37ZVnwpeshFFbc7hknsfN15lelTPv1sW
+Web Components

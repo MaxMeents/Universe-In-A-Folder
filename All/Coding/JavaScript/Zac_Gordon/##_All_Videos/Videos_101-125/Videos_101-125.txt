@@ -1,0 +1,76 @@
+
+Atom Editor Tutorial - Babel [2132]
+https://youtu.be/Metj54uTUys
+
+Atom Editor Tutorial - Code Folding [532]
+https://youtu.be/StFH-OQjR-A
+
+Atom Editor Tutorial - Copy as RTF [2932]
+https://youtu.be/u8hwnkAjso0
+
+Atom Editor Tutorial - Easy JSDoc [2232]
+https://youtu.be/HKbZFQ_wWVg
+
+Atom Editor Tutorial - Error Linting [2432]
+https://youtu.be/pqghZ5VGsR4
+
+Atom Editor Tutorial - Features & Shortcuts [132]
+https://youtu.be/S9BJPge8YnI
+
+Atom Editor Tutorial - Features Review [832]
+https://youtu.be/_4Brnj3STTw
+
+Atom Editor Tutorial - File Icons [2832]
+https://youtu.be/VRUilIHYDuE
+
+Atom Editor Tutorial - Finding Atom Themes [3132]
+https://youtu.be/Sug8dVUG_mY
+
+Atom Editor Tutorial - Git Plus [2632]
+https://youtu.be/WHQr3IYSREA
+
+Atom Editor Tutorial - Highlight Selected [1632]
+https://youtu.be/j34pGBiR8HU
+
+Atom Editor Tutorial - Intro to Themes [3032]
+https://youtu.be/UQPDHWwaisU
+
+Atom Editor Tutorial - Minimap [1232]
+https://youtu.be/TVLqjRIbXok
+
+Atom Editor Tutorial - Navigation Features [232]
+https://youtu.be/rimJcPyvR9w
+
+Atom Editor Tutorial - Navigation Packages [1032]
+https://youtu.be/HFv1_jhQRF8
+
+Atom Editor Tutorial - Packages and Themes [932]
+https://youtu.be/57dku9ebPKw
+
+Atom Editor Tutorial - Panes P1 [632]
+https://youtu.be/wA5B2d2Pa40
+
+Atom Editor Tutorial - Panes P2 [732]
+https://youtu.be/KPWcOsVMR2k
+
+Atom Editor Tutorial - Search Features [332]
+https://youtu.be/S3tUxvC4ZPU
+
+Atom Editor Tutorial - Simple Panes [1132]
+https://youtu.be/J35h7HxT7WE
+
+Atom Editor Tutorial - Snippets and Autocomplete [432]
+https://youtu.be/gcBsN6WLz7w
+
+Atom Editor Tutorial - Terminal Plus [2532]
+https://youtu.be/hTgI619nFXQ
+
+Atom Editor Tutorial - Tool Packages [2332]
+https://youtu.be/wieD0aQY4tI
+
+Atom Editor Tutorial - WordPress Snippets [1932]
+https://youtu.be/t_W4wXsYScQ
+
+Atom Editor Tutorial - Wrap in Tag [2032]
+https://youtu.be/xM3m8rZ2cVg
+Videos 101-125

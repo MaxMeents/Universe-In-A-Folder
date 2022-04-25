@@ -1,0 +1,22 @@
+
+Compare Java's var with C#'s var
+https://youtu.be/VIvgFPeOonM&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+
+Decrypting Tech Hype for the Busy Coder
+https://youtu.be/3Qr1jXn_Ct8&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+
+Get ready for a service-meshed Java Enterprise
+https://youtu.be/6tYxoCpy2Bs&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+
+Introduction of DevTour Japan 2018 in Osaka
+https://youtu.be/xsFOlXMwMdk&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+
+Kubernetes for Docker Developers
+https://youtu.be/mgh4FS2B_Jw&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+
+L2C Benchmarks or how I learned to stop worrying and love JMH
+https://youtu.be/DL-8PbwOTAM&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+
+Running Java applications on Docker pratical tips and valuable insights
+https://youtu.be/_wWKLN-3W7U&list=PL2ekzZZrxVUmfK3T3eQC6hoH38sKi9tLl
+Oracle Dev Tour Japan

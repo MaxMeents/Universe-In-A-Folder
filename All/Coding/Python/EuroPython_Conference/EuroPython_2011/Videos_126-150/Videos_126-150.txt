@@ -1,0 +1,76 @@
+
+Good API design
+https://youtu.be/bv89IOFvn7o&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Hacking PyLongObject on Python 3.2
+https://youtu.be/9tzd45ho8gE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Healthcare process management in Python a use case
+https://youtu.be/MsmmrfkLuvY&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+High-performance computing on gamer PCs
+https://youtu.be/TkBkGGPY2P0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+How to build complex web applications having fun
+https://youtu.be/eXW_lN4x04k&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+How to make intelligent web-apps
+https://youtu.be/N7monH2jXNI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Implementing distributed applications using ZeroMQ, Python and other bad guys...
+https://youtu.be/pYlKLaqlFj8&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Interoperability from Python to Clojure and the other way round
+https://youtu.be/jYhLqo4Mqbc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Introducing Django REST framework
+https://youtu.be/SGj0-BZsFn4&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Introduction to Gevent
+https://youtu.be/5MZDzwmfRmo&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Introduction to Qt
+https://youtu.be/K5u1MToA3NU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+It's the message, stupid python & amqp
+https://youtu.be/dIwsKYNbtnI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+JSON data + RML template = PDF report
+https://youtu.be/9Cq_Zmr0OgM&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Leveraging an instant messaging protocol to build a scalable cloud architecture
+https://youtu.be/xlVCtmbIYNE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Making CPython Fast Using Trace-based Optimisations
+https://youtu.be/3uTnXITm-kA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Making use of OpenStreetMap data with Python
+https://youtu.be/ULxpa5jPvow&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Managing the cloud with libcloud
+https://youtu.be/6FlvXN2JxTc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Merengue the new surprising and refreshing Django based CMS.
+https://youtu.be/jUHTORehfRg&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Meteorology, Climate and Python desperately trying to forget technical details
+https://youtu.be/zZY-5cHZsT0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+MiG - A Complete Grid Middleware (mostly) in Python
+https://youtu.be/enNcrMTg2lM&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+New beauty in Camelot
+https://youtu.be/jwwEyEAR1YA&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Objects and classes in Python (and JavaScript)
+https://youtu.be/tIgRlaChOqU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+OpenERP 100% pythonic way for business management
+https://youtu.be/b70_GgWpH40&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+OpenStack Compute's automated testing
+https://youtu.be/MVo0qEKK0wo&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+PLPython -- Python inside the PostgreSQL RDBMS
+https://youtu.be/PT-bvTXFk5Y&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+Videos 126-150

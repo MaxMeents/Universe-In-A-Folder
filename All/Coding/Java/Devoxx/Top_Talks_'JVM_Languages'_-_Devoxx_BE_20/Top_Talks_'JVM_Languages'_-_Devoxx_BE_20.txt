@@ -1,0 +1,28 @@
+
+4 JVM Web Frameworks in 40 Minutes by Joe Kutner
+https://youtu.be/nyz0AVIOTkI&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+Frege, a Haskell for the JVM by Dierk König
+https://youtu.be/1P1-HXNfFPc&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+Graal.JS - high-performance JavaScript on the JVM by Christian Wirth
+https://youtu.be/OUo3BFMwQFo&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+JRuby 9000 by Charles Nutter
+https://youtu.be/1t4iu7tefi4&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+Life of a Twitter JVM engineer the garbage keeps coming... Tony Printezis
+https://youtu.be/M9o1LVfGp2A&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+Powerful Metaprogramming Techniques With Groovy by Jeff Brown
+https://youtu.be/vwysol6tipM&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+REST no more, use an actor and (Lego and Raspberry Pi’s ) by Johan Janssen & Willem Meints
+https://youtu.be/T2MqpgzDiF8&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+vert.x 3 - be reactive on the JVM but not only in Java by Clement EscoffierPaulo Lopes
+https://youtu.be/qL5BGHPXrac&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+
+Writing Groovy AST Transformations Getting Practical in an hour! by Baruch Sadogursky
+https://youtu.be/GVfrNwTBpUM&list=PLRsbF2sD7JVpRk8gWTUR7IQvxAsc65ogf
+Top Talks 'JVM Languages' - Devoxx BE 2015

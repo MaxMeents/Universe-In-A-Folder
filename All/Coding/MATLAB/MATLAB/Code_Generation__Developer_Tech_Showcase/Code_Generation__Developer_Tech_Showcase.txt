@@ -1,0 +1,64 @@
+
+Approximate Functions with HDL-Optimized Lookup Tables
+https://youtu.be/Vl0dBWn9CiI&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Customizing Embedded Coder® for Perfect C Code
+https://youtu.be/102Fx4TvW2s&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Deep Network Quantization and Deployment
+https://youtu.be/jufOpBeSvHM&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Defining AUTOSAR Component Interfaces
+https://youtu.be/nEUcoG9jZ_I&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Deploying Simscape Models on Real-Time Hardware with HDL Coder
+https://youtu.be/cWywy6WoYlk&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Designing and Optimizing MATLAB Algorithms for HDL Code Generation
+https://youtu.be/eLPlA_LuK28&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Designing Software Architectures Using AUTOSAR Blockset
+https://youtu.be/Ys7pE2Vs-44&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Enforce Constraints for PID Controllers
+https://youtu.be/SLM_yjMHw5o&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Event Scheduling with the Schedule Editor
+https://youtu.be/43IZqQeJBaM&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Half-Precision Math in Modeling and Code Generation
+https://youtu.be/05pAQjTH6iM&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+How to Build a Linux Executable from an AUTOSAR Adaptive Model in Simulink
+https://youtu.be/kjt3s1pqT7k&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+How to Import C Code into Simulink for Testing
+https://youtu.be/atfO_3Wt2t8&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Importing OpenCV Code into Simulink
+https://youtu.be/eYtLp39XDvQ&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+MATLAB Online Server – Host MATLAB Online on Your Infrastructure
+https://youtu.be/x1a82LH8cJs&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Modeling and Simulating Basic Software with AUTOSAR Blockset
+https://youtu.be/2BzZbdYYgLM&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Performing Parametric Analysis with System Composer
+https://youtu.be/Hrrr1gsoOXE&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Prototype FPGA Design on Hardware from the MATLAB Command Line
+https://youtu.be/SBxVgySjg0Q&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Scheduling for AUTOSAR Architecture Models in Simulink
+https://youtu.be/XnU91m-AMPk&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Using MATLAB with Python
+https://youtu.be/6Ji4vuJg2dw&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Using the C Caller Block to Call a C Function with a Global Variable Interface
+https://youtu.be/ONrb_UYTWYs&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+
+Using the C Function Block to Integrate Custom Code in Simulink
+https://youtu.be/kymy8hld9cI&list=PLn8PRpmsu08qP0rqfgXPL8oQY_ls8ge40
+Code Generation  Developer Tech Showcase

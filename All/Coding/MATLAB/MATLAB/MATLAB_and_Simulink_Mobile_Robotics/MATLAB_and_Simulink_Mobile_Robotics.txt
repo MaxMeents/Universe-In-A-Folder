@@ -1,0 +1,16 @@
+
+Mobile Robotics, Part 1 Controlling Robot Motion
+https://youtu.be/wm0f_V3l9z4&list=PLn8PRpmsu08pf1MYYRaQhzHNc-2mkRkns
+
+Mobile Robotics, Part 2 Using PID Controllers
+https://youtu.be/uxb6wI9JWBU&list=PLn8PRpmsu08pf1MYYRaQhzHNc-2mkRkns
+
+Mobile Robotics, Part 3 Designing Line Following Algorithms
+https://youtu.be/lr6i0Wss6RY&list=PLn8PRpmsu08pf1MYYRaQhzHNc-2mkRkns
+
+Mobile Robotics, Part 4 Designing Obstacle Detection Algorithms
+https://youtu.be/CZZ9erBnvB0&list=PLn8PRpmsu08pf1MYYRaQhzHNc-2mkRkns
+
+Mobile Robotics, Part 5 Performing a Sequence of Path Navigation Tasks
+https://youtu.be/Q8VBz-QAxAk&list=PLn8PRpmsu08pf1MYYRaQhzHNc-2mkRkns
+MATLAB and Simulink Mobile Robotics

@@ -1,0 +1,61 @@
+
+Python Basics Adding Strings
+https://youtu.be/AIVgi1ZXCdU
+
+Python Basics Conditional  Statements if - else pt 2
+https://youtu.be/rzBp4VujpS0
+
+Python Basics Conditional  Statements nested  if - else pt 3
+https://youtu.be/rx31W3y6LDA
+
+Python Basics Conditional Statements  True - False
+https://youtu.be/nOIld_OMQL8
+
+Python Basics For Loop with List
+https://youtu.be/3p-eT-Vsqec
+
+Python Basics Functions in a Script file
+https://youtu.be/0-yA3DOG4Pw
+
+Python Basics Functions in Shell(IDLE)
+https://youtu.be/Ajd2cpRuX2w
+
+Python Basics Functions Part 2
+https://youtu.be/13q4S6get3g
+
+Python Basics Functions with return
+https://youtu.be/jZQayL5X_WY
+
+Python Basics Lists Append and Extend Methods
+https://youtu.be/3_HLQfSPiZM
+
+Python Basics Lists Method Sort
+https://youtu.be/5gDs_ifF25o
+
+Python Basics Modulo To Find The Remainder of Division
+https://youtu.be/1WY5o1uluzg
+
+Python Basics Nested For loop
+https://youtu.be/LMmPuS07-f4
+
+Python Basics Range function with a for loop
+https://youtu.be/wiAMJeaUYDk
+
+Python Basics Slicing Strings
+https://youtu.be/QDg4NYQxd-k
+
+Python Basics Strings Lower and Capitalize
+https://youtu.be/_QVNzHegrcw
+
+Python Basics Tutorial String Assignment
+https://youtu.be/L130KJV8ITk
+
+Python Basics What Are Floats
+https://youtu.be/Q5G8DA1Pano
+
+Python Basics What Are Integers
+https://youtu.be/3okc2kiiijA
+
+Python Basics Why elif
+https://youtu.be/VpsBRHUDkrQ
+Videos 976-995

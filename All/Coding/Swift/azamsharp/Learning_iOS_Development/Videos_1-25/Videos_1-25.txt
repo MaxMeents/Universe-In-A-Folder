@@ -1,0 +1,76 @@
+
+# 101 Swift 3.0 Foundation and Camel Casing
+https://youtu.be/iK2OhHlaIA4&list=PL1E1FF3F73A3279CF
+
+# 106 Creating RSVP iMessages App in iOS 10 Using Swift 3.0
+https://youtu.be/z1R3vyRqods&list=PL1E1FF3F73A3279CF
+
+# 108 Returning JSON from Vapor Server Side Swift
+https://youtu.be/xYXeeWtpHDU&list=PL1E1FF3F73A3279CF
+
+# 109 Posting Data Using Vapor Server Side Swift
+https://youtu.be/R7qfU2jrW3s&list=PL1E1FF3F73A3279CF
+
+# 110 Configuring SQLite with Vapor
+https://youtu.be/5L2DzwH-AN4&list=PL1E1FF3F73A3279CF
+
+# 122 CaseIterable in Swift 4.2
+https://youtu.be/gdwkyNkErwo&list=PL1E1FF3F73A3279CF
+
+#100 Swift 3.0 Omit Needless Words
+https://youtu.be/Rx7Y58eCeWM&list=PL1E1FF3F73A3279CF
+
+#102 Creating Stickers Pack App in iOS 10 in 30 Seconds
+https://youtu.be/Yu_kVaF9nTU&list=PL1E1FF3F73A3279CF
+
+#103 Creating Sticker Pack App Using Swift 3.0
+https://youtu.be/qO2uhK3uP8s&list=PL1E1FF3F73A3279CF
+
+#104 Creating RSVP iMessages App in iOS 10 Using Swift 3 Part 1
+https://youtu.be/tblk51B7tO0&list=PL1E1FF3F73A3279CF
+
+#105 Creating RSVP iMessages App in iOS 10 Using Swift 3.0 Part 2
+https://youtu.be/uwsrOQuA3gg&list=PL1E1FF3F73A3279CF
+
+#107 Server Side Swift Using Vapor - Part 1
+https://youtu.be/MvDbDOsiCII&list=PL1E1FF3F73A3279CF
+
+#114 Finding Local Businesses Using MKLocalSearchRequest
+https://youtu.be/VZZ76kAdhNA&list=PL1E1FF3F73A3279CF
+
+#115 Understanding MVC Design Pattern Part 1
+https://youtu.be/DFGep7tOWss&list=PL1E1FF3F73A3279CF
+
+#116 Setting Up Xcode Project in MVC Part 2
+https://youtu.be/AYnSXuYSvIM&list=PL1E1FF3F73A3279CF
+
+#117 Creating Models in MVC Part 3
+https://youtu.be/-WuU8c16Dbw&list=PL1E1FF3F73A3279CF
+
+#118 Creating Views in MVC Part 4
+https://youtu.be/mP0OOEo26cA&list=PL1E1FF3F73A3279CF
+
+#119 Creating Controllers in MVC Part 5
+https://youtu.be/39kZY9P30Y4&list=PL1E1FF3F73A3279CF
+
+#120 Populating Views Using Models Part 6
+https://youtu.be/A15vCpPffy4&list=PL1E1FF3F73A3279CF
+
+#121 Self Sizing Cells in UITableView
+https://youtu.be/uRwv1MHO8Lc&list=PL1E1FF3F73A3279CF
+
+#121 Understanding Recursion
+https://youtu.be/kfxpH90gqeo&list=PL1E1FF3F73A3279CF
+
+#122 Implementing Factorial Using Recursion
+https://youtu.be/5TsRtsG_ksc&list=PL1E1FF3F73A3279CF
+
+#123 Customizing Display for Enum Types
+https://youtu.be/5PTLzbL3jXo&list=PL1E1FF3F73A3279CF
+
+Creating and Modifying Arrays in Swift
+https://youtu.be/bNQ6aKgMOGM&list=PL1E1FF3F73A3279CF
+
+Creating Sticker and iMessage Apps in iOS 10 Using Swift 3.0
+https://youtu.be/4zIxgEnEako&list=PL1E1FF3F73A3279CF
+Videos 1-25

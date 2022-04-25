@@ -1,0 +1,70 @@
+
+Python Basics Tutorial 2 Ways to View Large DataFrame Ameritrade API  Part 11  Stock Screener
+https://youtu.be/xfrwSDu7YTY&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Find Complete List of Stock Market Ticker Symbols  Pandas Tolist Method
+https://youtu.be/lR4bMiXN02M&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial How Handle Pandas Dataframe Multi Column Index For Stock Data
+https://youtu.be/J2v4wqRPMRw&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial How to Compare Companies Using  Pandas To Dict Function
+https://youtu.be/erFBmp_PFAo&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial How to Find 200 and 50 Day Moving Averages With Pandas Rolling Method
+https://youtu.be/aVaG45tgqvs&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial How to Group Stock Tickers By Industry
+https://youtu.be/UXpEOb7HEVk&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial How to Screen All Stock Market Symbols
+https://youtu.be/laYpYnhDHpY&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Match A Stock Ticker List In a DataFrame   Pandas isin Method
+https://youtu.be/N85yCgih07E&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial More With Pandas DataFrame Describe Method
+https://youtu.be/P7xRjxROX58&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Cumulative Sum Method Sub Total Column
+https://youtu.be/W75URO1fjBw&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Fillna Method
+https://youtu.be/ZDrY5-_e4b0&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Is In Method  Ameritrade API Part 12  Stock Screener
+https://youtu.be/HFl2w1zRND4&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Mean Method with Fillna Method
+https://youtu.be/t5NUbThn6rY&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Reset Index Method
+https://youtu.be/lbQZfh7XukA&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas DataFrame Tolist Method  Ameritrade API Part 6  Stock Screener
+https://youtu.be/LudH8Df4qZg&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas Date Range Function
+https://youtu.be/FG9_bZ3QAFI&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas Ffill (frontfill) and Bfill (backfill)  Methods
+https://youtu.be/3nJkPVrw44k&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas Groupby Series Methods  Requested Video
+https://youtu.be/n08Jyq0vnwM&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Pandas Time Series Preview
+https://youtu.be/neAoTqhMD8M&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Plot A Stock Market Pandas DataFrame
+https://youtu.be/NdeNzWADjgc&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Problem Solving #2  Pandas Merge Function
+https://youtu.be/t1ci7iLFs4U&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Slice Pandas DataFrame with Multiple Series Ameritrade Part 10 Stock Screener
+https://youtu.be/GWx86rf6jJE&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+
+Python Basics Tutorial Stock Percent of High on Second Y axis with Pandas and Matplotlib
+https://youtu.be/nDrUD1rLXac&list=PLaYT64KWZAEMMvyXfVJX46OzEvlB8wqWr
+Videos 26-48

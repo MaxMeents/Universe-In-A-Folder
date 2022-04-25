@@ -1,0 +1,40 @@
+
+Creusot A prototype tool for verification of Rust software
+https://youtu.be/b8sBtmzq0FM&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+crux-mir Symbolic testing for Rust
+https://youtu.be/0mocaSR9f_M&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Ferrite A Rust EDSL for Message-passing Protocol Verification
+https://youtu.be/6dcf3tOPOwo&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+hacspec succinct, executable, verifiable specifications for high-assurance cryptography
+https://youtu.be/k7_BcWwvz7k&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Leveraging Compiler Intermediate Representation for Multi- and Cross-Language Verification
+https://youtu.be/0DcIn7kiNxM&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Peeking at compiler-internal data (for fun and profit)
+https://youtu.be/SKmd5A-1cSE&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Polonius
+https://youtu.be/H54VDCuT0J0&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Prusti – Deductive Verification for Rust
+https://youtu.be/C9TTioH5JUg&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Rust interest in safety- and mission-critical environments
+https://youtu.be/_DM36e2A9dg&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+RustBelt A Quick Dive Into the Abyss
+https://youtu.be/iAs0gZ8o0oQ&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Rustv Semi-automatic Verification of Unsafe Rust Programs
+https://youtu.be/bikmlNlwAYo&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Towards Automatic Verification of Unsafe Rust with Constrained Horn Solvers
+https://youtu.be/yJQZ7sG8xSM&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+
+Verifying that Rust programs don't crash
+https://youtu.be/vMGilPbIotw&list=PL85XCvVPmGQiF26DB84AK3i1yjKu52fq_
+Rust Verification Workshop 2021

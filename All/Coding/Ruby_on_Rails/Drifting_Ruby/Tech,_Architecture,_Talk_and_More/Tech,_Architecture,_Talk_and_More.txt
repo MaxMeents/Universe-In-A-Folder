@@ -1,0 +1,16 @@
+
+Docker for Development
+https://youtu.be/qP424uuQSmk&list=PLoQwKu-bfLSb3quMG-bUeiwvGvaP_ek3B
+
+Frontend Javascript Frameworks
+https://youtu.be/8vC6Uc-O1RE&list=PLoQwKu-bfLSb3quMG-bUeiwvGvaP_ek3B
+
+Gem Dependencies
+https://youtu.be/tFmvNFc94I4&list=PLoQwKu-bfLSb3quMG-bUeiwvGvaP_ek3B
+
+Introduction
+https://youtu.be/FuBUKBLjku4&list=PLoQwKu-bfLSb3quMG-bUeiwvGvaP_ek3B
+
+Monoliths vs Microservices
+https://youtu.be/6cx7W2f0FXQ&list=PLoQwKu-bfLSb3quMG-bUeiwvGvaP_ek3B
+Tech, Architecture, Talk and More

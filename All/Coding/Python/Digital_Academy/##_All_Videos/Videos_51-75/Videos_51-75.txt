@@ -1,0 +1,76 @@
+
+Add and Update Values from a List in Python (Append, Extend, Insert) - Python Tutorial for Beginners
+https://youtu.be/90JgvsiGBpk
+
+Bitwise Operators in Python (AND, OR, XOR) - Python Tutorial for Beginners
+https://youtu.be/hHwJwnNKmc0
+
+BREAK in Python FOR Loops (+ Exercise) - Python Tutorial for Beginners
+https://youtu.be/OySER3BIFNU
+
+BREAK in Python WHILE Loops - Python Tutorial for Beginners
+https://youtu.be/bikEMZMlpHE
+
+Conditional Statements in Python (IF, ELIF, ELSE) - Definition - Python Tutorial for Beginners
+https://youtu.be/l073_MJzcVE
+
+CONTINUE in Python FOR Loops - Python Tutorial for Beginners
+https://youtu.be/4AwA7Wq2xRI
+
+CONTINUE in Python WHILE Loops - Python Tutorial for Beginners
+https://youtu.be/uXNyT4SrV4U
+
+ELIF Statements in Python (IF, ELIF, ELSE) - Conditional Statements - Python Tutorial for Beginners
+https://youtu.be/0suZveuAzHI
+
+ELSE in Python FOR Loops - Python Tutorial for Beginners
+https://youtu.be/rVZ-L4fFBUI
+
+ELSE in Python WHILE Loops - Python Tutorial for Beginners
+https://youtu.be/4V2UnWYkpgw
+
+FOR Loops in Python Definition & Syntax - Python Tutorial for Beginners
+https://youtu.be/F-ZlGI6JRKg
+
+Function ENUMERATE in Python (FOR Loops with Indexes) - Python Tutorial for Beginners
+https://youtu.be/Iwfr7bbIj9s
+
+Function RANGE in Python (FOR Loops) - Python Tutorial for Beginners
+https://youtu.be/aBUsQ56LlzQ
+
+How to create a List in Python - Python Tutorial for Beginners
+https://youtu.be/HJHDHZzkyYc
+
+Identity Operators in Python (IS, IS NOT) - Python Tutorial for Beginners
+https://youtu.be/wCwlR8nJksI
+
+IF ELSE Statements in Python - Conditional Statements in Python - Python Tutorial for Beginners
+https://youtu.be/c9fJFLeWma8
+
+IF Statements in Python - Conditional Statements in Python - Python Tutorial for Beginners
+https://youtu.be/2d_u2fQqQq4
+
+Infinite WHILE Loops in Python - Python Tutorial for Beginners
+https://youtu.be/WL6uRp51RaU
+
+Lists in Python Definition, Syntax & Declaration - Python Tutorial for Beginners
+https://youtu.be/ukVg17XoHxQ
+
+Membership Operators in Python (IN, NOT IN) - Python Tutorial for Beginners
+https://youtu.be/Dolk322HIqI
+
+Nested FOR Loops in Python (Loop in Loop) - Python Tutorial for Beginners
+https://youtu.be/Js8K5kdIHIo
+
+Nested IF Statements in Python - Conditional Statements in Python - Python Tutorial for Beginners
+https://youtu.be/8yfDIv6lCQM
+
+Operator Precedence in Python (Priority and Order) - Python Tutorial for Beginners
+https://youtu.be/oVfXq3jv750
+
+Ternary Operators in Python (One-Line IF) - Conditional Statements - Python Tutorial for Beginners
+https://youtu.be/RzK7HoWdKcQ
+
+WHILE Loops in Python Definition & Syntax - Python Tutorial for Beginners
+https://youtu.be/OMtveCgOFfk
+Videos 51-75

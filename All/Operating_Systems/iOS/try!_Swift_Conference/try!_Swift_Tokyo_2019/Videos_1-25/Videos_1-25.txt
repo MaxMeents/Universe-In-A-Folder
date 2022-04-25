@@ -1,0 +1,76 @@
+
+All about linking libraries
+https://youtu.be/EPLreKM5Dlc&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Assembly. You can do it!
+https://youtu.be/nf0GXcvBlRY&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Building a Mobile Design System
+https://youtu.be/Fvq8PQKJj_k&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Building a Social Network in Swift
+https://youtu.be/u901qDvBuUU&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Contributing to Swift Compiler
+https://youtu.be/HAXJsgYniqE&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Discover memory leak with Testcase
+https://youtu.be/jseRwn8fTg4&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Driving Engagement with Siri Shortcuts and NSUserActivity
+https://youtu.be/zm-Ayvm0oew&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Graphics like Pixar using Swift
+https://youtu.be/jcshB5wM28Q&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+In defense of Core Data
+https://youtu.be/aUoT5w4JOoM&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Introducing SourceKit-LSP
+https://youtu.be/rQ7qArmbKOI&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+MachObfuscator
+https://youtu.be/QTS2_CcnAgU&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Making Portrait mode yourself
+https://youtu.be/_Lq0iJirT-E&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Property-based test beginning with SwiftCheck
+https://youtu.be/PnnSQet2-Pg&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Psychology study background and prospects in iOS device
+https://youtu.be/5XgV5vF6tiM&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Shaping Sounds in Swift
+https://youtu.be/lDTw6YZBDGo&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+So you want to build an ARKit app
+https://youtu.be/RpJJEvFGGCY&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Swift Hardware Hacking
+https://youtu.be/b9EVb0jEt8E&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Swift Server Update
+https://youtu.be/ZefmzgLabCA&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Swift type metadata
+https://youtu.be/2fon4YFI9Ao&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+SwiftSyntax で便利を実現する基礎
+https://youtu.be/nFtShzC0n6s&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+The Laws of Magic
+https://youtu.be/T9vRBioadYc&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+The Philosopher's String
+https://youtu.be/lMhGnTFA9CI&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+try Prototype!
+https://youtu.be/TYOramNrprQ&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+Using C, C++ and Objective C frameworks in Swift apps
+https://youtu.be/aVdJj0XC-Ko&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+
+次へつなごう— Extending a hand to the next generation of Apple developers
+https://youtu.be/bMMWf-Dr7kY&list=PLCl5NM4qD3u_L8dJrWYbLB8FcUaoAHDFt
+Videos 1-25

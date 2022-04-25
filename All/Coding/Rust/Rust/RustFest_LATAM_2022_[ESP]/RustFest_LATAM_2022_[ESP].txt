@@ -1,0 +1,19 @@
+
+Carlo Supina Making Rust more Accessible through Game Development [ESP] — RustFest LATAM 2022
+https://youtu.be/vdNYKMRi21s&list=PL85XCvVPmGQg4ks051r3VbgKGbV3FYUzo
+
+Esteban Küber El lenguaje que no es — RustFest LATAM 2022
+https://youtu.be/T1POpGXuYYs&list=PL85XCvVPmGQg4ks051r3VbgKGbV3FYUzo
+
+Federico Mena Quintero Podemos tener cosas bonitas — RustFest LATAM 2022
+https://youtu.be/vagdrp4NUsE&list=PL85XCvVPmGQg4ks051r3VbgKGbV3FYUzo
+
+FORMS - Audiovisual Performance by Santi Vilanova (Playmodes) — RustFest LATAM 2022
+https://youtu.be/gE7FWMgBBsU&list=PL85XCvVPmGQg4ks051r3VbgKGbV3FYUzo
+
+Luis Argumedo Aprender Rust por accidente — RustFest LATAM 2022
+https://youtu.be/3ktj9RazvIA&list=PL85XCvVPmGQg4ks051r3VbgKGbV3FYUzo
+
+Ramón Huidobro Una serie de relatos de mentoría — RustFest LATAM 2022
+https://youtu.be/UyUkT7FAd4w&list=PL85XCvVPmGQg4ks051r3VbgKGbV3FYUzo
+RustFest LATAM 2022 [ESP]

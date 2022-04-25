@@ -1,0 +1,76 @@
+
+Blinds Animation Using UIKitDynamics iOS 7
+https://youtu.be/9wJfBpOEIPk
+
+Daily5 App Available in the App Store
+https://youtu.be/oRrxTDO-d0w
+
+DEMO Blinds Menu with Custom Transition in iOS 7
+https://youtu.be/ULpjB82FuPs
+
+Learning iOS Development Part 44 (NUI)
+https://youtu.be/isWn0BBJZZo
+
+Learning iOS Development Part 45 (Grouping in UITableView)
+https://youtu.be/ALank9eJiZo
+
+Learning iOS Development Part 46 (Creating Reusable UITableViewCells)
+https://youtu.be/LtOfgLf_cI4
+
+Learning iOS Development Part 47 (Modern Objective-C Part 1)
+https://youtu.be/VEXgKvom4KA
+
+Learning iOS Development Part 48 (Key Value Coding)
+https://youtu.be/-5M4YFs9KEU
+
+Learning iOS Development Part 49 (Line Chart Using iOSPlot)
+https://youtu.be/RnttTsymZUQ
+
+Learning iOS Development Part 50 (Pie Charts Using iOSPlot)
+https://youtu.be/Fz8WEo770Uk
+
+Learning iOS Development Part 51 (Creating Splash Screen for your iOS App)
+https://youtu.be/ruA7aekltt8
+
+Learning iOS Development Part 52 (Creating a AFHTTPClient)
+https://youtu.be/TEV5DZpAXSw
+
+Learning iOS Development Part 53 (Modern Objective-C Part 2)
+https://youtu.be/8y16gobSxx0
+
+Learning iOS Development Part 54 (Introduction to Grand Central Dispatch)
+https://youtu.be/g_bkbpLAJn4
+
+Learning iOS Development Part 55 (Grand Central Dispatch Grouping)
+https://youtu.be/M-82cEOnPBg
+
+Learning iOS Development Part 56 (iOS 7 Tour)
+https://youtu.be/P1lHYI6NA7E
+
+Learning iOS Development Part 57 (UIKit Dynamics in iOS 7)
+https://youtu.be/8_cI-z4YHxc
+
+Learning iOS Development Part 58 (Objective C New Features)
+https://youtu.be/X1rPOJaeauY
+
+Learning iOS Development Part 59 (Multipeer Connectivity in iOS 7 Part 1)
+https://youtu.be/zRRvetxNy1Q
+
+Learning iOS Development Part 60 (Local Notifications)
+https://youtu.be/p7SRmGyyjmw
+
+Learning iOS Development Part 61 (Custom Controls)
+https://youtu.be/X17aEq1ofNA
+
+Multipeer Connectivity in iOS 7 Demo
+https://youtu.be/HABu2xJjpQc
+
+Past, present and the future for AzamSharp YouTube Channel
+https://youtu.be/7wsNRLwqOug
+
+Simple Paint App Using ccDrawLine in Cocos2d iPhone
+https://youtu.be/PcykExvnYKQ
+
+UIKitDynamics in iOS 7 Just for Fun )
+https://youtu.be/zzQVIRrSsUQ
+Videos 801-825

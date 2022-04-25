@@ -1,0 +1,76 @@
+
+Basic PHP Programming Tutorial 20 Saving to a File  writing and appending
+https://youtu.be/ML2uu8rJQPE
+
+Basic PHP Programming Tutorial 21 MD5 Hashing For Security
+https://youtu.be/ggMZQLFIY2o
+
+Basic PHP Programming Tutorial 22 Hashing part 2 salting
+https://youtu.be/IAURBYqBHdE
+
+Basic PHP Programming Tutorial 23 Variables in Strings and tokenizing
+https://youtu.be/R4ocOgYxLzU
+
+Basic PHP Programming Tutorial 24 String similarity
+https://youtu.be/kJ5IrwSCgws
+
+Basic PHP Programming Tutorial 25 Time and Time stamps
+https://youtu.be/S32NKR_fOoA
+
+Basic PHP Programming Tutorial 26 Die and Exit
+https://youtu.be/RmPTbjsGbjI
+
+Basic PHP Programming Tutorial 27 MySQL Databases Part 1
+https://youtu.be/Lr73s1bI5D4
+
+Basic PHP Programming Tutorial 28 MySQL Database Part 2 Reading From Database
+https://youtu.be/oBbqGudK04Q
+
+Basic PHP Programming Tutorial 29 MySQL Database Part 3 Inputting Data
+https://youtu.be/9UnPj_IOLYw
+
+Basic PHP Programming Tutorial 30 MySQL database in Use
+https://youtu.be/Q8seWsWOr1M
+
+Basic PHP Tutorial 1 Intro to PHP
+https://youtu.be/C9Tg1h53Q8s
+
+Basic PHP Tutorial 10 Switch Statement
+https://youtu.be/WvwD5chM9gg
+
+Basic PHP Tutorial 11 Arrays part 1, basic array
+https://youtu.be/ATUmSmiDPkA
+
+Basic PHP Tutorial 17 User Input Form Example  String Manipulation
+https://youtu.be/Tw-2eRvhDn8
+
+Basic PHP Tutorial 18 HTML Entities and forms cont'd
+https://youtu.be/KbPHahyvwuM
+
+Basic PHP Tutorial 19 Finding words in strings
+https://youtu.be/YF3LykaDqoA
+
+Basic PHP Tutorial 2 Print and Echo
+https://youtu.be/iIoaGqJ7u28
+
+Basic PHP Tutorial 3 HTML with PHP
+https://youtu.be/CIdmXx9hGZc
+
+Basic PHP Tutorial 4 Variables and Comments
+https://youtu.be/7EvRCaXeyJU
+
+Basic PHP Tutorial 5 If else and else if conditional statements
+https://youtu.be/jP8rov5uFNM
+
+Basic PHP Tutorial 6 If else and else if conditionals cont'd
+https://youtu.be/BBQpJ_FqHiA
+
+Basic PHP Tutorial 7 Assignment, comparison and Logical operators
+https://youtu.be/6mIdkgO1u7Y
+
+Basic PHP Tutorial 9 While Loop
+https://youtu.be/PFdJc5MDxpA
+
+Django Tutorial Web Development with Python Part 1 Installing Django
+https://youtu.be/obJr6zH0C2Q
+Videos 1201-1225

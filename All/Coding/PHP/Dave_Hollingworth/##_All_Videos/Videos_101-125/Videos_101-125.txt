@@ -1,0 +1,76 @@
+
+A brief introduction to some popular PHP frameworks
+https://youtu.be/b9TCsqSmADI
+
+Activate a new account by email in a PHP web application
+https://youtu.be/eekpQfh2Jys
+
+Add your own classes to the Composer autoloader
+https://youtu.be/A3hSJeuJG-Q
+
+An introduction to PDO why it makes working with databases in PHP easier
+https://youtu.be/4Frn_luSHlU
+
+Class autoloading in PHP load classes automatically without having to require them
+https://youtu.be/Ttgy0pIRiVQ
+
+Extract parts of strings using regular expression capture groups
+https://youtu.be/Nxq9_EfbGh0
+
+How NOT to Send Email in PHP
+https://youtu.be/Kke2h5YrzlQ
+
+How PHP reports problems errors, exceptions, and how to handle them
+https://youtu.be/NdbL5UaCYTk
+
+How to better organise your classes by using namespaces in PHP
+https://youtu.be/aB1VRlQmq1M
+
+How to create objects and run methods dynamically in PHP
+https://youtu.be/0RWfCKJbGSU
+
+How to do complex string comparisons an introduction to regular expressions in PHP
+https://youtu.be/ibnPw9QSRHU
+
+Include all package classes automatically using the Composer autoloader
+https://youtu.be/Kk2vbhl7GHk
+
+Install PHP Code Libraries Automatically with Composer
+https://youtu.be/W2_LSgPPyJ4
+
+Install third-party PHP code libraries automatically using Composer
+https://youtu.be/E8omrqGJWSw
+
+Installing and using Composer
+https://youtu.be/2FBpV46Xnsw
+
+Output escaping in PHP what it is, why do it, and how and when to do it
+https://youtu.be/s9SY3Gh1NXw
+
+PHP configuration settings where to find them and how to change them
+https://youtu.be/YnjktfxVJyo
+
+Replace parts of strings using regular expressions in PHP
+https://youtu.be/7cZy1-GlBH8
+
+Templating engines in PHP what they are and how they can improve your code
+https://youtu.be/zWb_tLRztQI
+
+The MVC pattern What it is and how it can help you write better code
+https://youtu.be/9t4MJZvRK78
+
+The problem with writing web applications in PHP how NOT to structure your code
+https://youtu.be/eBSCkpDhvR0
+
+The __call magic method how to call inaccessible methods in a PHP class
+https://youtu.be/3bjrQC3Dktk
+
+Using special characters in regular expressions advanced pattern matching
+https://youtu.be/ZLO9Al4BHm0
+
+Write even more powerful regular expressions use character sets and ranges
+https://youtu.be/wiGyVRWW6o8
+
+Write PHP like a pro build an MVC framework from scratch Udemy course
+https://youtu.be/C-oJ9xh2q5o
+Videos 101-125

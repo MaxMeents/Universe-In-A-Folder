@@ -1,0 +1,25 @@
+
+Creating a Zombie AI in UE4 [4.25]  Getting Started [Part 1]
+https://youtu.be/TjoE7Pmank0&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.25]  More Tasks, More Keys & Sight Perception! [Part 3]
+https://youtu.be/g_WVxm-Wum0&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.25]  Tasks, Keys & Behaviour Trees! [Part 2]
+https://youtu.be/5qnPGlvmov4&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.26]  Adding the HUD and Health Bar [Part 7]
+https://youtu.be/eUZOFSZ6tR8&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.26]  Creating the Attack Logic [Part 6]
+https://youtu.be/yPH-Jyb61lY&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.26]  New Player Model, Smooth Rotation and Player Chasing [Part 5]
+https://youtu.be/VgqaE_3yVgw&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.26]  Perception Refinements, Mesh & Animations [Part 4]
+https://youtu.be/kOhWcRjy7yM&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+
+Creating a Zombie AI in UE4 [4.26]  The Death Screen, Health Packs and Ragdoll! [Part 8]
+https://youtu.be/c7G5CSP78O0&list=PLZyvGU0G457qe1EJ6KX9NhxDrK8EoeOvo
+Zombie AI

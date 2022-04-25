@@ -1,0 +1,10 @@
+
+Brain Computer Interface w Python and OpenBCI for EEG data
+https://youtu.be/Dgo7F-lpyYE&list=PLQVvvaa0QuDeU-QCAwZl2UmSpfb4sWbxY
+
+Explorations and Testing Ideas - Brain Computer Interface w Python, OpenBCI, and EEG data p.2
+https://youtu.be/xStvKju-4-o&list=PLQVvvaa0QuDeU-QCAwZl2UmSpfb4sWbxY
+
+Getting Somewhere! - Brain Computer Interface w Python, OpenBCI, and EEG data p.3
+https://youtu.be/Vs5xcZ4HUcY&list=PLQVvvaa0QuDeU-QCAwZl2UmSpfb4sWbxY
+Brain Computer Interface w Python and OpenBCI

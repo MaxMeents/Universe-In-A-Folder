@@ -1,7 +1,0 @@
-
-XCode 5 Tutorial Tab Bar Part 1 - Creating A Tab Bar Application - Geeky Lemon Development.url
-https://youtu.be/cjaQXcuUXCc&list=PLiRG83hKoub-0rn2fAj7mcsRLg0-cthNx
-
-XCode 5 Tutorial Tab Bar Part 2 - Tab Bar Images - Geeky Lemon Development.url
-https://youtu.be/zmpy62I-I2E&list=PLiRG83hKoub-0rn2fAj7mcsRLg0-cthNx
-Tab Bar Application

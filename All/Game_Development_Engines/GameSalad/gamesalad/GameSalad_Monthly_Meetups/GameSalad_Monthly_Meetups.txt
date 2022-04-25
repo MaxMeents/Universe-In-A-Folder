@@ -1,0 +1,58 @@
+
+Debugging Your GameSalad Projects  Reporting Bugs
+https://youtu.be/StE64yJKrQ8&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Game Engines Not Another Browser
+https://youtu.be/RYGivZpa1wo&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+GameSalad Graphics Optimizations
+https://youtu.be/S1mFfT2-6w4&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+GameSalad Network Behaviors and Amazon Services
+https://youtu.be/DHJ1SP3MIyQ&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Getting to Know and Love the Expression Editor
+https://youtu.be/uvee_SyqrLY&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Harnessing the Physics Engine and other Unconventional Things
+https://youtu.be/b_5b69il5wI&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+How to do Gesture  Handwriting Recognition
+https://youtu.be/arOS8Xwx1pM&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+How to use PlaysTogether
+https://youtu.be/BWAGbyL1838&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Making a Tic-Tac-Toe Multiplayer Game
+https://youtu.be/GCJwD2KiAAQ&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Map Like Game Menu
+https://youtu.be/2-H03qaAs0o&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Marketing and Monetization
+https://youtu.be/lYVMSro3P6k&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Panel Discussion With Alan Uthoff and Dan Magaha
+https://youtu.be/2Jgge3hksUw&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Panel Discussion With Alan Uthoff and Stephen Nichols
+https://youtu.be/y0x-nlw3MAQ&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Real Time Strategy Game Individual Tracking Mechanics
+https://youtu.be/y5xnBjDloWk&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Springs in GameSalad
+https://youtu.be/fJkqczjBJUc&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Time Based Reward Systems in GameSalad
+https://youtu.be/OxK0vo3jNHU&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Train GameSalad to Read Your Mind!
+https://youtu.be/QgQ7io0TwnY&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Using Joysticks in GameSalad
+https://youtu.be/nCstVjXB9bA&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+
+Working With the New GameSalad IAP Behaviors
+https://youtu.be/MX5nQT_vQbU&list=PLkULNLXbIennxegrVEWZYCg_plh5mCN6m
+GameSalad Monthly Meetups

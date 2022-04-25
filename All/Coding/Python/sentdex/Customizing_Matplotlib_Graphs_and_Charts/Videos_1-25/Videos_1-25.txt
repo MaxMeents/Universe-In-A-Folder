@@ -1,0 +1,76 @@
+
+Charting Stocks and Forex in python Part 17 - Overlay a stock's volume in matplotlib
+https://youtu.be/SYvjaL2pWZw&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex in python Part 18 - How to calculate RSI in python
+https://youtu.be/4gGztYfp3ck&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex in python Part 19 - How to add RSI to matplotlib graph
+https://youtu.be/y0pil2LbMxU&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex in python Part 20 - How to add RSI to matplotlib graph part 2
+https://youtu.be/kATm9miAlXo&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex Part 21 - How to calculate exponential moving average in python
+https://youtu.be/t_JXXT7VgeQ&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex Part 22 - How to calculate MACD in python
+https://youtu.be/vwvvWmNgAGs&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex Part 23 - How to add MACD to matplotlib graph
+https://youtu.be/sFv-gp4BZNU&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks and Forex Part 24 - Enhancing our RSI on our matplotlib stock graph
+https://youtu.be/W9Qxm29qTX0&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting Stocks Part 25 - Customizing RSI, candlestick, MACD, and Volume matplotlib chart
+https://youtu.be/tzBIX6gdDMg&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting StocksForex for Technical Analysis Part 11 - Candlestick and Volume Chart in Matplotlib
+https://youtu.be/bCRtqX2LdlM&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting StocksForex for Technical Analysis Part 12 - Customizing Matplotlib Chart
+https://youtu.be/eDk4JDDTRaM&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting StocksForex for Technical Analysis Part 13 - Changing candlestick shadow color matplotlib
+https://youtu.be/HSyMaJPOfX8&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting StocksForex for Technical Analysis Part 14 - Dynamic candlestick shadow color matplotlib
+https://youtu.be/Xje2By9D80Q&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting StocksForex for Technical Analysis Part 15 - How to add simple moving averages matplotlib
+https://youtu.be/g5Ycq9e00lw&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Charting StocksForex for Technical Analysis Part 16 - How to add SMA to matplotlib stock chart
+https://youtu.be/yXatuqBimbo&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 1 - Intro and stock price source
+https://youtu.be/u6Xd3kRHhJI&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 10 - Price and Volume Chart Matplotlib
+https://youtu.be/aCZO8hglETM&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 2 - How to get free Stock Prices
+https://youtu.be/Eh_E1NqdmLI&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 3 - Free intra-day stock data
+https://youtu.be/UeyP_tELq6E&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 4 - Automating stock prices
+https://youtu.be/rmGXek7qtVM&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 5 - Finishing price puller
+https://youtu.be/OXaxZpgBMqc&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 6 - Basic Financial Graph
+https://youtu.be/oEQTGmZmvmk&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 7 - Basic Financial Graph
+https://youtu.be/EyCxm1Sg-Eo&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 8 - Improving our Stock Chart
+https://youtu.be/eAtcIoVGb-4&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+
+Python Charting StocksForex for Technical Analysis Part 9 - Adding Volume data to matplotlib graph
+https://youtu.be/zUArBZUGFaw&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
+Videos 1-25

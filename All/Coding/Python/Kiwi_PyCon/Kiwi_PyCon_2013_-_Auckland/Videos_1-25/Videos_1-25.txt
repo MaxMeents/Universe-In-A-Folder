@@ -1,0 +1,76 @@
+
+Alan Williams Computational Advertising, Billions of records, and AWS - Lessons Learned
+https://youtu.be/CxK-v0pSpjo&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Angus Gratton Encouraging new programmers - the Open Tech School model
+https://youtu.be/MyYs1VGvF-E&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Carl Cerecke Publishing Theology with Python
+https://youtu.be/I0vOG5WTicU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Chetan Giridhar Rapid development of Unified Real-time communication for Websites
+https://youtu.be/fB_XzU8sRbU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Chris Esther OSINT, Maltego & Python
+https://youtu.be/HkRuVNRbieU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Grant Paton-Simpson Python and Creative Data Analysis
+https://youtu.be/6gz2eEC4qdc&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Hamish Campbell Polyominoes - An Exploration in Problem Solving with Python
+https://youtu.be/HXQW3MCOECU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Hilary James Oliver The Cylc Suite Engine
+https://youtu.be/Mv-hBTcncKM&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Jay Gattuso From nothing to daily use - How Python changed my work life
+https://youtu.be/fCSAOcTbe8g&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Jen Zajac Integrating JavaScript with Python Web Frameworks
+https://youtu.be/efzaKGnNAjE&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Jessica McKellar The Future of Python - A Choose Your Own Adventure (Keynote)
+https://youtu.be/d1a4Jbjc-vU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Lightning Talks @ Kiwi PyCon 2013
+https://youtu.be/G1fIPwkCsgg&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Liz Quilty Hacking the OWI robotic arm bot
+https://youtu.be/UJUbOWDlbWs&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Marek Kuziel Python in Home Automation
+https://youtu.be/hXnDyHidDqo&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Medhat Gayed Concurrent Programming using multiprocessing
+https://youtu.be/CObboy8XzaM&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Michael Foord State of the Pythons (Keynote)
+https://youtu.be/IWB_pQacuw4&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Natalie Scott Out on a LIM - Automatic Map Generator
+https://youtu.be/GCD1DUr7aiY&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Ravi Chandra Fake it till you make it
+https://youtu.be/HbJZu2qcC-s&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Robert Collins Testing and OpenStack
+https://youtu.be/eB5ZmU6KKoY&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Ryan Kelly Testing for Graceful Failure with Vaurien and Marteau
+https://youtu.be/WSdyU5s-SMI&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Thomi Richards Using Autopilot for Functional UI Testing
+https://youtu.be/1NrykxuCcM0&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Tim Knapp How to build a $0 SaaS app with Pyramid & GAE
+https://youtu.be/keVHrgqNSt4&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Tim McNamara A look at NuPIC - A self-learning AI engine
+https://youtu.be/rY7GLyxINFY&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Tom Eastman Using Cython for distributed-multiprocess steganographic md5sum-collision generation...
+https://youtu.be/Dj9_EIlc_NU&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+
+Vishal Kanaujia, Chetan Giridhar Dissecting memory mysteries of Python
+https://youtu.be/7glw_5YFU-Q&list=PLBGl1tVyiWQSo72G6Epf0WUrLqD1edGcA
+Videos 1-25

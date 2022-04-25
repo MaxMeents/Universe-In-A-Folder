@@ -1,0 +1,76 @@
+
+14 Death And Respawning - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/AkYabgEORf4
+
+15 Handling Non Player Objects - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/xe40VS_SB6Q
+
+16 Destroying Enemies - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/rIhWtsH7wSI
+
+17 Spawning And Respawning - Unity 5.3 Simple Multiplayer Game
+https://youtu.be/b43kxhnPy28
+
+18 Simple Game Conclusion- Unity 5.3 Simple Multiplayer Game
+https://youtu.be/ka0DsfZH-B8
+
+Distracting Enemy AIs
+https://youtu.be/td9C4dlQ61c
+
+Upcoming Chapter 8 Melee Weapons - GTGD S3
+https://youtu.be/bNkifO321qc
+
+Upcoming Chapter 9 Friendly and Enemy AI
+https://youtu.be/ydlgd_Rohjc
+
+[134] Intro To Chapter 8 - How To Make A Game
+https://youtu.be/djhpZD-WP-Y
+
+[135] Setup Crowbar - How To Make A Game
+https://youtu.be/QxOKhZ1XVhA
+
+[136] Crowbar Animation - How To Make A Game
+https://youtu.be/KrsgSCfnpdA
+
+[137] Melee Master - How To Make A Game
+https://youtu.be/OLTJMelSIF8
+
+[138] Melee Standard Input - How To Make A Game
+https://youtu.be/NXeEvKLP5yY
+
+[139] Melee Swing - How To Make A Game
+https://youtu.be/hUoOMpY9EXY
+
+[140] Melee Strike - How To Make A Game
+https://youtu.be/jSyS5mM0yvA
+
+[141] Melee Reset - How To Make A Game
+https://youtu.be/k1IvOdwJy7E
+
+[142] Melee Hit Effects - How To Make A Game
+https://youtu.be/NvuBZa2ycHs
+
+[143] Melee Sound - How To Make A Game
+https://youtu.be/vAluBrnIiZI
+
+[144] NPC AI Introduction - How To Make A Game
+https://youtu.be/LmkUVZrQVpA
+
+[145] Enemy NPC Prefab - How To Make A Game
+https://youtu.be/0LwUwSHJn8g
+
+[146] NPC Master - How To Make A Game
+https://youtu.be/YsnyrEATSDA
+
+[147] NPC State Scripts - How To Make A Game
+https://youtu.be/J4sneroW6Kg
+
+[148] NPC State Pattern 1 - How To Make A Game
+https://youtu.be/gWDIBNnMufM
+
+[149] NPC State Pattern 2 - How To Make A Game
+https://youtu.be/2l-YssKUnqE
+
+[150] NPC State Patrol - How To Make A Game
+https://youtu.be/sUed8-xmyiA
+Videos 101-125

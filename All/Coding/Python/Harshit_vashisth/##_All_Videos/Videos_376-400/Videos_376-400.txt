@@ -1,0 +1,76 @@
+
+Add data to list  Python tutorial 83
+https://youtu.be/5-RwsV6KJ8s
+
+Chapter 5  Exercise 1  Python tutorial 95
+https://youtu.be/-z3OThAvLtE
+
+Chapter 5  Exercise 2  Python tutorial 97
+https://youtu.be/Bjz5KYvvePM
+
+Chapter 5  Exercise 4  Python tutorial 101
+https://youtu.be/nEDRhJ2mJeI
+
+Chapter 5  Exercise 5  Python tutorial 103
+https://youtu.be/b__1zf9-USg
+
+Chapter 5 Exercise 3  Python tutorial 99
+https://youtu.be/0FpAvR2jBSI
+
+Default Parameters  Python tutorial 80
+https://youtu.be/ImcgRuellM4
+
+Delete data from list  Python tutorial 85
+https://youtu.be/yY-vvrgAmlc
+
+Exercise 1 Solution  Python tutorial 96
+https://youtu.be/LR4jpWA2gfg
+
+Exercise 2 solution  Python tutorial 98
+https://youtu.be/u0KvGTSu1mM
+
+Exercise 3 Solution  Python tutorial 100
+https://youtu.be/Xgh86ESetHk
+
+Exercise 4 solution  Python tutorial 102
+https://youtu.be/yMkTBUl1xRo
+
+Exercise 5 Solution  Python tutorial 104
+https://youtu.be/kjhc3JUjyqo
+
+In keyword with list  Python tutorial 86
+https://youtu.be/GTxOMADZNGQ
+
+Intro to list  Python tutorial 82
+https://youtu.be/q4zS1YRltdM
+
+is vs equals  Python tutorial 88
+https://youtu.be/E_LZ7YBcrEA
+
+join and split method  Python tutorial 89
+https://youtu.be/U2xhtrJx8aM
+
+List inside List  Python tutorial 93
+https://youtu.be/pMgrd0wabDU
+
+List vs Array  Python tutorial 90
+https://youtu.be/Z5bE95OPzEI
+
+List vs String  Python tutorial 91
+https://youtu.be/8mXWgXN_4Gg
+
+Looping in list  Python tutorial 92
+https://youtu.be/2boT65qhOk8
+
+More about lists  Python tutorial 94
+https://youtu.be/cso8mTi7LpM
+
+More methods to add data  Python tutorial 84
+https://youtu.be/_owj9BIUXKk
+
+Some more list methods Python tutorial 87
+https://youtu.be/X2d6j-6SRm0
+
+Variable Scope  Python tutorial 81
+https://youtu.be/vqGohdiCuF4
+Videos 376-400

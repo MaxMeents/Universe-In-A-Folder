@@ -1,0 +1,76 @@
+
+Adding Dynamic Reference Line on Power BI chart for Min Max Average Median and Percentile
+https://youtu.be/CAZT-0ralEM&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Adding KPI Icons in Power BI Table and Conditionally Formatting it
+https://youtu.be/IIALsGidmRc&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Adding Reference Line to Your Power BI Bar Chart
+https://youtu.be/zNUTHXtEg0Q&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Conditionally Format Power BI Table Font or Background
+https://youtu.be/2r0rykGLAaw&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Conditionally Formatting Power BI Card KPI
+https://youtu.be/aAARRysstAw&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Change and Customize Power BI Theme
+https://youtu.be/BEu0eIHk-AY&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Change Power BI Chart Interaction Setting from Highlight to Filter or None
+https://youtu.be/PimO76370-Y&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to create Small multiple Chart or Trellis Chart in Power BI and why they are Great
+https://youtu.be/8A6CfMkhc1E&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create Trend Line in Power BI Scatter Chart
+https://youtu.be/Wc10X6O-UBk&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Display Image in Power BI chart background
+https://youtu.be/sZytuU3ZoVE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Advance Data Export to export additional column that is not in visualization
+https://youtu.be/LG5EyAwOYMs&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Bar Chart within Table Visualization
+https://youtu.be/ZuNaYDryAs0&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Drill Through Report Button
+https://youtu.be/P_gWDy7Kamc&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Dynamic Report Title based on Selected Drill Through Value
+https://youtu.be/92o380bqh1s&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Hidden Slicers and How to View them
+https://youtu.be/fjBUDfXLje0&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Keep on Filter Option Use that is Present on Field Section Page
+https://youtu.be/TzhmX-JX14E&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Quick Measure for Comparing one chart category with rest of the other chart categories
+https://youtu.be/0SrFKkh7eS4&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Quick Mesaure to Create Running Total Calculation
+https://youtu.be/NHZJ3u4jsMA&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Stepped Line Chart
+https://youtu.be/9a_wxpWcf84&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Sync Slicer Option for create Slicer in Multiple Reports & Hide them
+https://youtu.be/_rwb-u3r-nU&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI TopN Filter to Display the Top or Bottom Values in the Chart
+https://youtu.be/7jYnRoh86_Y&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI YoY Quick Mesaure Calculation Proudcuing incorrect output
+https://youtu.be/znDaUYqwn08&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Setting Power BI Charts and Objects Navigation Order for Tab Key
+https://youtu.be/5QoHICWWhaw&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Shortcuts Key in Power BI to improve productivity
+https://youtu.be/UIW9rBVLpGg&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Why All Values on my X Axis of Power BI Chart is not Displayed
+https://youtu.be/7xhBYCepbfg&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+Videos 101-125

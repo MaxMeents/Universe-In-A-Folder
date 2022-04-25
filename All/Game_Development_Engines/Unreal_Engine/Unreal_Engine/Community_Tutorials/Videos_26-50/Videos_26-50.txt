@@ -1,0 +1,76 @@
+
+03 01 10 Material Layers02
+https://youtu.be/tcLJF7euKeM&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 01 01 Light Basics2
+https://youtu.be/0Le_BJw61nk&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 01 02 Light Types
+https://youtu.be/nDhvYIGsnOw&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 01 03 Mobility
+https://youtu.be/FcQLAx2E80o&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 02 04 Lightmass
+https://youtu.be/vCcxSP8LD5A&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 02 05 StaticLighting
+https://youtu.be/PTvl425Idsg&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 03 06 LightFunctions
+https://youtu.be/Y0Kcmaa0gD4&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+04 03 07 LightShafts
+https://youtu.be/L9qk7_A7UvI&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+05 01 01 Cascade Essentials012
+https://youtu.be/LiFiCylx4Ew&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+05 01 02 Cascade Essentials02
+https://youtu.be/tgJr6sDPf7o&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+05 02 03 PostFX01
+https://youtu.be/1DcqC-qaxHI&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+05 02 04 PostFX02
+https://youtu.be/2jmI97fNK2s&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+05 02 05 PostFX03
+https://youtu.be/j49uFnY43_0&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+05 02 06 PostFX04
+https://youtu.be/WUBTxizIt2M&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 01 BP012
+https://youtu.be/cb4uA6SjcLs&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 02 BP02
+https://youtu.be/YqK4WhOqs_M&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 03 BP03
+https://youtu.be/fKCNf9zc5pM&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 04 BP04
+https://youtu.be/EPzit_ErDhM&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 05 BP05
+https://youtu.be/_LemjK5ls9I&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 06 BP06
+https://youtu.be/q84IZx-A3y8&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 07 BP07
+https://youtu.be/zCMd_qd4H7g&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 08 BP08
+https://youtu.be/pv6XOaxRK2o&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 09 BP09
+https://youtu.be/9lnlYOuiYVk&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 10 BP10
+https://youtu.be/Hm9hFsT3ODM&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+
+06 01 11 BP11
+https://youtu.be/ql1wb2MVA58&list=PLZlv_N0_O1gbaxvlmNY_CfjLsn3FqfPXb
+Videos 26-50

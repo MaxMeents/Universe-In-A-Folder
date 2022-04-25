@@ -1,0 +1,19 @@
+
+Python Basics CSV File Uncut With Urllib
+https://youtu.be/dNiSr0t9Jcs&list=PLaYT64KWZAEPfl9kRDDT9WIamhRvFhYBj
+
+Python Basics CSV Module
+https://youtu.be/mGAko_zwaEU&list=PLaYT64KWZAEPfl9kRDDT9WIamhRvFhYBj
+
+Python Basics Delete Columns for CSV Files
+https://youtu.be/_gij-ud8djc&list=PLaYT64KWZAEPfl9kRDDT9WIamhRvFhYBj
+
+Python Basics Download a CSV Files With Urllib
+https://youtu.be/sctnA4UF3wQ&list=PLaYT64KWZAEPfl9kRDDT9WIamhRvFhYBj
+
+Python Basics Read a CSV File
+https://youtu.be/dVlCOCUpcIs&list=PLaYT64KWZAEPfl9kRDDT9WIamhRvFhYBj
+
+Python Basics Write to CSV Files
+https://youtu.be/zXUE8ZmoeaE&list=PLaYT64KWZAEPfl9kRDDT9WIamhRvFhYBj
+CSV Module

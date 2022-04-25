@@ -1,0 +1,76 @@
+
+12 How to create and customize Power BI stacked bar chart
+https://youtu.be/f9BffgPk2oQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Creating & Formatting Bar Chart in Power BI Desktop
+https://youtu.be/s7RxDAm4TP0&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Creating and Formatting Power BI Waterfall chart  Waterfall Chart Power BI for beginners
+https://youtu.be/EMAeST5571M&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Creating First DAX calculated Field in Power BI Desktop
+https://youtu.be/hdmS55-wnAg&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How create and customize 100% stacked bar chart in power BI
+https://youtu.be/6NhvaBLFjmQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Change Power BI Slicer Look & Feel  Power BI Button Filters
+https://youtu.be/tKbGuu7zrrw&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to connect power bi with espn website and import sports data
+https://youtu.be/VzzPQxvZf3o&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to connect power bi with Microsoft access database and import data
+https://youtu.be/rvsfN5WQWps&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to connect power bi with mysql server and import data
+https://youtu.be/ZVXiosudsfs&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to connect power bi with Wikipedia website and import data
+https://youtu.be/UPvUYL0IsuE&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Connect SQLite with Power BI and import data  ODBC Driver installation and DSN creation
+https://youtu.be/6bmTdIeu5rA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to create and Customize Area Chart in Power BI
+https://youtu.be/NTDjUXKX-0g&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create and Customize Date Slicer  Filter in Power BI
+https://youtu.be/Rs_sbl0VSPA&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create and Customize Line and Stacked Bar Chart in Power BI  Combo Chart
+https://youtu.be/ypwc9U58gIQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create and Customize Power Bi Cluster Bar and Line Chart
+https://youtu.be/5SOOem9-o5M&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to create and customize Power BI Pie Chart
+https://youtu.be/YWcYU3FzM8Q&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create Numeric Range Slicer or Data Filter in Power BI
+https://youtu.be/WvrhUhWBIu4&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to Create Power BI Line Chart to Show the Trend in Data
+https://youtu.be/cjaUY76uw-Q&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to create Power BI Text Slicer or Filter in Report or Dashboard to Filter the Visualizations
+https://youtu.be/ws3pqH_GAXs&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+How to create stack area chart in power BI  Beginners Tutorial
+https://youtu.be/GEBwTzWvk1w&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Importing CSV data inside power BI Desktop
+https://youtu.be/B6joIrnWY7Q&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Importing Excel Data inside Power BI Desktop
+https://youtu.be/LOnXePDb2hQ&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Desktop Layout Overview  Power BI Desktop Features Overview
+https://youtu.be/EOvwBnwZb1k&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Power BI Introduction  What is Power BI  How to Download and Install Power BI
+https://youtu.be/dPrDJ4C3stY&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+
+Private video
+https://youtu.be/wEkCL0jbR64&list=PLH6mU1kedUy-kg9J1AtqWT6QpiYzbDs61
+Videos 1-25

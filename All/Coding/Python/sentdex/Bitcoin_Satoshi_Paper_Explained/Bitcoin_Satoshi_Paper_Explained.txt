@@ -1,0 +1,40 @@
+
+Bitcoin Protocol - Combining and Splitting Value
+https://youtu.be/qINf8hdnebg&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Explained #3 - Transactions
+https://youtu.be/tW3zHIOudgo&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Explained - Timestamp Server  Global Ledger
+https://youtu.be/nO6FXU_zOog&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Explained 1 - Bitcoin paper broken down step by step.
+https://youtu.be/UieiMU-ImvI&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol for Dummies #2 - Intro section
+https://youtu.be/JQzepQoZYi0&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Proof of Work shown in Python Code
+https://youtu.be/K_Ac1Ko8-p8&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial #7 The Network
+https://youtu.be/t_laVHXg64s&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial #8 Incentive
+https://youtu.be/Q8KtQ3uM1tk&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial #9 - Reclaiming Disk Space
+https://youtu.be/yZgaxg0JzcU&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial - Conclusion of the Paper
+https://youtu.be/P7D4-EE0HRw&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial - Privacy Section
+https://youtu.be/Wgyb5y4nX_g&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial Proof of Work
+https://youtu.be/EWfGzeF3Xmw&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+
+Bitcoin Protocol Tutorial Simplified Payment Verification
+https://youtu.be/24lMzKVqcS8&list=PLQVvvaa0QuDcq2QME4pfeh0cE71mkb_qz
+Bitcoin Satoshi Paper Explained

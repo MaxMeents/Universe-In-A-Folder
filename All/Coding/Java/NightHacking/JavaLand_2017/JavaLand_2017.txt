@@ -1,0 +1,28 @@
+
+Build your own JVM language - JavaLand 2017 NightHacking
+https://youtu.be/yyVfxOqxrMQ&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+Extreme Lambdas - JavaLand 2017 NightHacking
+https://youtu.be/d5J2R9s0Ovs&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+gRPC Binary Protocol - JavaLand 2017 NightHacking
+https://youtu.be/O-R18eDAI_8&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+Hypermedia REST and DDD - JavaLand 2017 NightHacking
+https://youtu.be/GpZwO1t4va4&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+Java Web Framework Index - JavaLand 2017 NightHacking
+https://youtu.be/S8kEX_lfGOA&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+JUnit 5 - JavaLand 2017 NightHacking
+https://youtu.be/UfTSjl1F0vo&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+MicroProfile - Microservices with Java EE - JavaLand 2017 NightHacking
+https://youtu.be/7N5Gxzi2Wsw&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+Project Panama behind the walls - JavaLand 2017 NightHacking
+https://youtu.be/v9DA2wfdUfU&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+
+Refactoring your codebase to Java 9 modules - JavaLand 2017 NightHacking
+https://youtu.be/hUZb4iOaizg&list=PL2ekzZZrxVUkweu8fw5UQed9vBPNMNFPp
+JavaLand 2017

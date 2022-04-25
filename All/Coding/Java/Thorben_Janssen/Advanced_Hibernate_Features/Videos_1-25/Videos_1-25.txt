@@ -1,0 +1,76 @@
+
+5 Hibernate 5 features every developer should know
+https://youtu.be/bEjKBeB0QKQ&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Create type-safe queries with JPA’s static metamodel
+https://youtu.be/i-82qbj3cOU&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate & PostgreSQL  6 Things You Need To Know
+https://youtu.be/qWzhtX2RR_c&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip  How to override the primary key generation strategy
+https://youtu.be/ftU-sUhaNdI&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip Cache preprocessed, non-persistent attributes
+https://youtu.be/_qp-cRzj7dQ&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to access  Hibernate APIs  from JPA
+https://youtu.be/GYMkSgMjIA8&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to automatically add Metamodel classes to your classpath
+https://youtu.be/fj7MX5oIg-E&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to automatically set an attribute before persisting it
+https://youtu.be/OvhDvjYbbqc&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to Call a Stored Procedure
+https://youtu.be/aEkhfmVO_tk&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to call a user-defined function in a CriteriaQuery
+https://youtu.be/WMC3cIle9Ms&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to Exclude Unchanged Columns From Generated Update Statements
+https://youtu.be/f0W9phy6_L4&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to filter entities from a mapped association
+https://youtu.be/n-UYDhdUO64&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to map a read-only database view
+https://youtu.be/gJvQFKCJV5I&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to order associated entities without writing a custom query
+https://youtu.be/p_ngp05KD-8&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to use a timestamp for versioning and optimistic locking
+https://youtu.be/scqAKQxa87A&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip How to use the QueryCache to avoid additional queries
+https://youtu.be/N50tWvaM9m0&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tip Map database columns with generated values
+https://youtu.be/MezJoZ7fy44&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Hibernate Tips How to cascade a persist operation to child entities
+https://youtu.be/Gy-qZ1GksNs&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+How to automatically validate entity attributes with Hibernate Validator
+https://youtu.be/yuOkFk14sLM&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+How to implement a soft delete with Hibernate
+https://youtu.be/2Ttsh8JUH5g&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+How to join unassociated entities with JPA and Hibernate
+https://youtu.be/nkf4JL7ZTjw&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+How to map an association as a java.util.Map
+https://youtu.be/D1xnl-yxjuA&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+How to Persist Creation and Update Timestamps with Hibernate
+https://youtu.be/ZGKg1j72pdA&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+How to persist LocalDate and LocalDateTime with JPA
+https://youtu.be/vnTUJFQCLfs&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+
+Implement a custom enum mapping with an AttributeConverter
+https://youtu.be/TIeeRif4ocg&list=PL50BZOuKafAZqv419KZIPg9Yf078xb37W
+Videos 1-25

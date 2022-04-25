@@ -1,0 +1,70 @@
+
+Alexys Jacob - Designing a scalable and distributed application
+https://youtu.be/WN_890QPhNA&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Andreas Dewes - Code is not text! How graph technologies can help us to understand our code better.
+https://youtu.be/mJyjkAOK0uw&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Andreas Klostermann - Brainwaves for Hackers 2.0
+https://youtu.be/sLseUEez1D0&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Antonio Cuni - Python and PyPy performance (not) for dummies
+https://youtu.be/BZJ6q4eihCs&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Architecture of a cloud hosting service using python technologies django, ansible and celery
+https://youtu.be/2ygaowx5ukA&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Carles Bruguera - MAX Realtime messaging and activity stream engine
+https://youtu.be/iUN5GrgIiks&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Christine Doig - Scale your data, not your process Welcome to the Blaze ecosystem
+https://youtu.be/QKBcnEhkCtk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Dale - Data-visualisation with Python and Javascript crafting a data-viz toolchain for the web
+https://youtu.be/OsI7p65OcCI&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Daniel Pope - Writing Domain Specific Languages with Python
+https://youtu.be/wQAPRfEOb10&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Fabio Pliger - Big data beautiful visualization on the browser with Bokeh
+https://youtu.be/MUlMh_oy_4k&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Gianluca Nieri - Python for IT specialists' tasks automation
+https://youtu.be/wHkvokOtpWE&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Harry Percival - How to build a spreadsheet with Python
+https://youtu.be/BbsdFGo6SzY&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Harry Percival - PythonAnywhere and Education
+https://youtu.be/lMcNWv6Xatw&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Hynek Schlawack - Beyond grep Practical Logging and Metrics
+https://youtu.be/LklGF1rcJII&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ionel Cristian Mărieș - Less known packaging features and tricks
+https://youtu.be/o-UbWsO9rZk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Jesús Espino - Playing with CPython Objects Internals
+https://youtu.be/f5Ica6AeeqE&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Kay Hayen - The Python Compiler
+https://youtu.be/a8RRbT4BTEw&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Lluís Esquerda - CityBikes bike sharing networks around the world
+https://youtu.be/oQwlTfQwz8w&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Mike Müller - Functional Python with Mochi
+https://youtu.be/bFqQd1eyY10&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Moritz Gronbach - What's the fuzz all about Randomized data generation for robust unit testing
+https://youtu.be/ABnqAnhonDk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Oliver Braun - Multibody Simulation using sympy, scipy and vpython
+https://youtu.be/7cCinfaBtIE&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ramon Navarro Bosch - Plone 5 and how to use machine learning with it.
+https://youtu.be/5ELGhtekjsc&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Tom Viner - Testing with two failure seeking missiles fuzzing and property based testing
+https://youtu.be/5kaqOKIqX_4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+Videos 151-173

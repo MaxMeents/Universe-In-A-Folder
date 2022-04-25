@@ -1,0 +1,76 @@
+
+Alex Sexton Peachpuffs and Lemonchiffons [CSSConfUS2014]
+https://youtu.be/HmStJQzclHc
+
+Angelina Fabbro CSS In Your Pocket - Mobile CSS Tips From The Trenches [CSSConfUS2014]
+https://youtu.be/vBHt61yDO9U
+
+Antoine Butler Embrace the Vertical [CSSConfUS2014]
+https://youtu.be/rNoMgCn4E-U
+
+Ben Newman Yield Ahead Regenerator in Depth [JSConf2014]
+https://youtu.be/MC9Q9L2ujOA
+
+Christoph Burgmer If your CSS is happy and you know it....clap your hands [CSSConfUS2014]
+https://youtu.be/xdEJeJ-qJLc
+
+Dudley Storey  The Circle is (almost) Complete - SVG & CSS [CSSConfUS2014]
+https://youtu.be/8QOWx0Gkt-o
+
+Evangelina Ferreira What on Earth is Perspective [CSSConfUS2014]
+https://youtu.be/ZDk95ocba3c
+
+Guy Bedford Package Management for ES6 Modules [JSConf2014]
+https://youtu.be/szJjsduHBQQ
+
+Jeff Morrison JavaScript Unit Testing with Jest [JSConf2014]
+https://youtu.be/5ZEloUxx0FM
+
+Jenn Schiffer [CSSConfUS2014]
+https://youtu.be/BR3Pq2N-72o
+
+John Hann Introducing RaveJS - Zero-config JavaScript applications [JSConf2014]
+https://youtu.be/4XX9pAPBjA8
+
+John Riviello The Truth About Your Web App's Performance [JSConf2014]
+https://youtu.be/0dBU6leL0Og
+
+Jonathan Martin Frontend Meet Backend Get Along [CSSConfUS2014]
+https://youtu.be/Dt0lGtPB-6s
+
+Josh McClain Black Magic APIs [JSConf2014]
+https://youtu.be/2nQMwvW4buU
+
+Marcus Phillips JS Fundamentals - Arrays, Objects and Functions [JSConf2014 Training]
+https://youtu.be/vrtodal1aYk
+
+Marcy Sutton Three Cheers for Keyboard Accessibility  [CSSConfUS2014]
+https://youtu.be/wNunEYxZLPE
+
+Matt Robenolt Everything is broken, and I don't know why! [JSConf2014]
+https://youtu.be/e4eE5VeO1_o
+
+Nicole Sullivan Style Guide Driven Development [CSSConfUS2014]
+https://youtu.be/ldW7zVmqu5g
+
+Patrick Hamann CSS and the Critical Path [CSSConfUS2014]
+https://youtu.be/VNpn0GCegYo
+
+Paul Irish Parallax Performance [CSSConfUS2014]
+https://youtu.be/R6TXuXV1bbY
+
+Poornima Venkatakrishnan Template Specialization with Express Apps [JSConf2014]
+https://youtu.be/x6M4l_zNiFI
+
+Sara Soueidan Styling and Animating Scalable Vector Graphics with CSS [CSSConfUS2014]
+https://youtu.be/hI9roqOKKO8
+
+Tomasz Janczuk On the edge of Node.js and CLR [JSConf2014]
+https://youtu.be/2RevdtDs6tU
+
+Zach Leatherman Bulletproof Icon Fonts [CSSConfUS2014]
+https://youtu.be/1EL4VpScnxE
+
+[Reject.JS 2013] Special Guest
+https://youtu.be/2yZh-r-o060
+Videos 1151-1175

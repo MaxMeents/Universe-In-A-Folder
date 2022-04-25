@@ -1,0 +1,76 @@
+
+CAMERA SHAKE in Unity
+https://youtu.be/9A9yj8KnM8c&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+Everything to know about the PARTICLE SYSTEM
+https://youtu.be/FEA1wTMJAR0&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+GRENADE  BOMB in Unity (Tutorial)
+https://youtu.be/BYL6JtUdEY0&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How many AI Agents can Unity handle
+https://youtu.be/G9Otw12OUvE&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to get Volumetric Lighting in Unity 5 - Tutorial
+https://youtu.be/H5v_X1k02U0&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to make a HIGH SCORE in Unity
+https://youtu.be/vZU51tbgMXk&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to make a Homing Missile in Unity
+https://youtu.be/0v_H3oOR0aU&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to make a Minimap in Unity
+https://youtu.be/28JTTXqMvOU&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to make a Sniper Scope Effect - Unity FPS Tutorial
+https://youtu.be/adcKX1c-kag&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to make RTS Camera Movement in Unity
+https://youtu.be/cfjLQrMGEb4&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+How to make Slow Motion in Unity - Bullet Time Tutorial
+https://youtu.be/0VGosgaoTsw&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+Intro to Unity Timeline
+https://youtu.be/G_uBFM3YUF4&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+LIGHTING in Unity
+https://youtu.be/VnG2gOKV9dw&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+Photorealistic Materials in Unity!
+https://youtu.be/_LaVvGlkBDs&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+Post Processing in Unity - Image Effects Tutorial
+https://youtu.be/a0OQvWAPeuo&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+POWER UPS in Unity
+https://youtu.be/CLSiRf_OrBk&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+REALTIME LIGHTING in Unity
+https://youtu.be/wwm98VdzD8s&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+SCRIPTABLE OBJECTS in Unity
+https://youtu.be/aPXvoWVabPY&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+SETTINGS MENU in Unity
+https://youtu.be/YOaYQrN1oYQ&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+SHATTER  DESTRUCTION in Unity (Tutorial)
+https://youtu.be/EgNV0PWVaS8&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+Shooting with Raycasts - Unity Tutorial
+https://youtu.be/THnivyG0Mvo&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+START MENU in Unity
+https://youtu.be/zc8ac_qUXQY&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+TOP 10 UNITY TIPS #2
+https://youtu.be/IHeMmFxvmkY&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+TOP 10 UNITY TIPS - 2017
+https://youtu.be/JDVuTBHnGWw&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+
+Unity NavMesh Tutorial - Basics
+https://youtu.be/CHV1ymlw-P8&list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG
+Videos 1-25

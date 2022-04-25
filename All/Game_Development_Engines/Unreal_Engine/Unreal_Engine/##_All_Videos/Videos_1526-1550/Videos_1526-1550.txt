@@ -1,0 +1,76 @@
+
+Bullet Train VR Demo by Epic Games on Oculus  Unreal Engine
+https://youtu.be/DmaxmnPzMWE
+
+C++ Battery Collector Adding Finishing Touches  21  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/FVjuT7R6BBg
+
+C++ Battery Collector Adding Particles to the Pickup  15  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/1-eT_hnjdfg
+
+C++ Battery Collector Adding Power to the Game  11  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/Yn24lDSVv4c
+
+C++ Battery Collector Building the Base Level  02  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/j6HI3fr04j4
+
+C++ Battery Collector Creating the HUD Blueprint  17  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/I5LNKBqnR10
+
+C++ Battery Collector Creating the Spawning Volume  06  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/KpgEVxfwpYQ
+
+C++ Battery Collector Defining What to Spawn  07  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/qZHMf2WqjSM
+
+C++ Battery Collector Extending the Character Class  09  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/5nwBVBVDlZk
+
+C++ Battery Collector Extending the Pickup Class  05  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/imOQ5JHPSlo
+
+C++ Battery Collector Handling New Play States  20  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/jIjDEGzESfs
+
+C++ Battery Collector Introduction  01  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/mSRov77hNR4
+
+C++ Battery Collector Making Your First Pickup Class  03  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/EIptJ0YrYg0
+
+C++ Battery Collector Powering Down the Character  13  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/qCrIPglRY6M
+
+C++ Battery Collector Toggling the Spawn Volumes  19  v4.9 Tutorial Series  Unreal Engine
+https://youtu.be/FsKMVvtK5oA
+
+Complex AI Interactions & Optimization  Live Training  Unreal Engine
+https://youtu.be/cFYk1tEgyGI
+
+Depth & Location Based Effects  Live Training  Unreal Engine
+https://youtu.be/GXbE0IqbA7w
+
+Marketplace Publishing Portal Overview  News  Unreal Engine
+https://youtu.be/R_m79Zk_nxM
+
+Sense of Presence Building Virtual Reality  News  Unreal Engine
+https://youtu.be/MMzuaxLORGM
+
+Skeleton Assets Anim Retargeting  Different Skeletons  03  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/xy9aLbZLdeA
+
+Skeleton Assets Importing, Sharing Skeletons & Anims  02  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/JkcJ5bjGPsg
+
+Skeleton Assets Overview  01  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/FDbpHamn2eY
+
+Skeleton Assets Using Anim Notifies, Curves & Slots  05  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/per6KmuvRlQ
+
+Skeleton Assets Using Sockets  04  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/DyPq1-JGMKY
+
+The Making of Bullet Train UE4 VR Demo  Project Spotlight  Unreal Engine
+https://youtu.be/LtJGQ3ruV0I
+Videos 1526-1550

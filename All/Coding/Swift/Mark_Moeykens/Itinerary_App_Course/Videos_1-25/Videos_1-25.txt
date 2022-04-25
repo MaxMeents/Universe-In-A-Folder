@@ -1,0 +1,76 @@
+
+3 Steps to App Icons with FREE Tools! - Part 20 - Itinerary App (iOS, Xcode 10)
+https://youtu.be/fnWiIyHJWwc&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+3 Ways for Removing Creative Block
+https://youtu.be/3PQxrXdTEJA&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+3 Ways to Navigate from a Table View Cell - Part 22 - Itinerary App (iOS, Xcode 10, Swift 4)
+https://youtu.be/WaSlHXNah7E&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Access The Photo Library - Part 16 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/soj3gqW9r4Y&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+App Themes - Part 11 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/jxeuC9AVQpk&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Bitbucket Cloning - Part 2.3 - Itinerary App (iOS, Xcode 9)
+https://youtu.be/GPjcB0T9NJI&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Callbacks with Popups - Part 14 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/3RRwvgMjrNc&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Custom UIButton Floating Action Button - Part 12 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/-hqTk-rWA8w&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Data Modeling and App Architecture- Part 8 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/bLcqtxXwEq0&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Edit Images with UIImagePickerController - Part 21 - Itinerary App (iOS, Xcode 10, Swift 4)
+https://youtu.be/q_mjLR0-5K8&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Finding Awesome Fonts for Mobile Apps - Part 5 - Itinerary App
+https://youtu.be/3NSNq9xwrVE&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Finding Color Schemes for Mobile Apps - Part 6 - Itinerary App
+https://youtu.be/t_XdWlZTLLk&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Help Screens in iOS Apps - Part 19 - Itinerary App (iOS, Xcode 10, Swift 4)
+https://youtu.be/f6g3RaeNc9c&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Images in Text Fields for Validation - Part 15 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/rNR356ODEv8&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Introduction - Part 1 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/J0sho1ix-Sw&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Mobile App Design Tutorial - Part 4 - Itinerary App
+https://youtu.be/jyxWBzDhcMI&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Mobile UI Prototyping in Keynote - Part 23 - Itinerary App (iOS, Xcode 10, Swift 4)
+https://youtu.be/lns_TTUr3O4&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Organizing Your Project How To Get Things Done - Part 3 - Itinerary App
+https://youtu.be/jsYDQKaKm3w&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Popups To Add Data - Part 13 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/UAfVC_cft2o&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Source Control for Beginners - Part 2.1 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/3zErxtbrB2I&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Source Control for Beginners - Part 2.2 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/YutDR23ZfVM&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Swift Language Extensions - Part 10 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/Sl2iW2eo-nA&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Swipe To Delete Table View Row - Part 17 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/XcKDdNa0B_w&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Swipe to Edit Table View Row - Part 18 - Itinerary App (iOS, Xcode 10, Swift 4.2)
+https://youtu.be/PLYdhGyzJwk&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+
+Table Views & Custom Cells - Part 9 - Itinerary App (iOS, Xcode 9, Swift 4)
+https://youtu.be/RGb7zeZqztM&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Data Insert into Mysql Database using PHP in Hindi 2020
+https://youtu.be/COw-TgFNB5A
+
+Datatables Jquery Plugin with PHP and MySQL Database in Hindi - 2020
+https://youtu.be/amROlOuMYS0
+
+Delete Multiple DataRecords from MYSQL Database in  PHP using Checkbox in Hindi 2020
+https://youtu.be/m2hfppOwxKY
+
+Display Image From Database using PHP In HINDI - 2020
+https://youtu.be/Uhw2XBU3Zb0
+
+How to Delete Data From Mysql Database Using PHP with Javascript confirm box in HINDI- 2020
+https://youtu.be/HnMYUjIgII0
+
+How to SelectView Data from Database using PHP and Display into Bootstrap Table Format In HINDI
+https://youtu.be/BvbBVPQoOw0
+
+How to show icon in title bar in HTML in Hindi
+https://youtu.be/Ovi0rSkQR2k
+
+HTML5 -  Pattern attribute in Hindi, HTML5 form validation with pattern attribute In Hindi
+https://youtu.be/-zvVb6bX_88
+
+Html5 - input attribute readonly,  disabled and hidden field in hindi - 2020
+https://youtu.be/hxcC1Y7saek
+
+HTML5 Login page with form validation in Hindi
+https://youtu.be/61rY0hAupzk
+
+HTML5- form tag and different between get and post method in Hindi 2020
+https://youtu.be/8jyxtpbUHr8
+
+HTML5- Registration Form with Form Validation In Hindi
+https://youtu.be/qwDBXPFE1SI
+
+Insert Multiple Checkbox Value into MYSQL Database Using PHP in Hindi
+https://youtu.be/CpTblxymkS4
+
+Javascript - Anonymous and Arrow function
+https://youtu.be/0NeH-h-2ttc
+
+Login with MySQL Database in PHP in Hindi
+https://youtu.be/pPdnCMyDLWE
+
+Node Js Tutorials for Beginners In HINDI  Introduction of Node.js
+https://youtu.be/7xQgmxncxZI
+
+PHP  Registration data insert into database with multiple hobbies in Hindi
+https://youtu.be/oqxXRn56sjM
+
+PHP Login Logout System with Session and Mysql Database In Hindi
+https://youtu.be/4emW2UdHZCo
+
+PHP Session In Hindi - How to create, access and destroy session in PHP
+https://youtu.be/cHmc2ajYjUs
+
+SearchFilter Data From Mysql Database Using PHP In Hindi
+https://youtu.be/jxuTe1HgDcs
+
+Template String In Javascript ES6 In Hindi
+https://youtu.be/u91zjrjUbA0
+
+Update RecordData From Mysql Database Using PHP in Hindi 2020
+https://youtu.be/QYnr7BC8Wtg
+
+Upload Image into Mysql Database using PHP in Hindi Part-1
+https://youtu.be/iyxJ8rYbx48
+
+var, let and const in Javascript Es62015 In Hindi
+https://youtu.be/oPaKDjRwWgI
+
+What is phpMyAdmin and how to create database and table in MySQL in php in Hindi
+https://youtu.be/nJmknnWyGIs
+Videos 51-75

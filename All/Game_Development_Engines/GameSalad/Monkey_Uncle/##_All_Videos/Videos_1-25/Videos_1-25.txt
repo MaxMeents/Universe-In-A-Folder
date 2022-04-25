@@ -1,0 +1,76 @@
+
+Endless Runner Concepts Tutorial using GameSalad Creator
+https://youtu.be/wTGRLgSURlE
+
+GameSalad Platformer Tutorial 009 - Flying enemies
+https://youtu.be/Gnb6iod3InE
+
+Level Unlocking with Tables using GameSalad Creator
+https://youtu.be/0EC3RR4nXbY
+
+Platformer Tutorial for GameSalad Creator 001 - Basic Movement
+https://youtu.be/1nV0CavWikE
+
+Platformer Tutorial for GameSalad Creator 002 - On-Screen Controls  Scrolling the Screen
+https://youtu.be/EZNghpcS7Tc
+
+Platformer Tutorial for GameSalad Creator 003 - Player animation  separate player image
+https://youtu.be/zijeJYhbfkw
+
+Platformer Tutorial for GameSalad Creator 004 - Death, Lives & Deadly Things
+https://youtu.be/8Svrv09IZ4U
+
+Platformer Tutorial for GameSalad Creator 005 - Horizontal Elevators  Moving Platforms
+https://youtu.be/XNfhrdQ-pz0
+
+Platformer Tutorial for GameSalad Creator 006 - Vertical Elevators
+https://youtu.be/2GE3QYGTMzc
+
+Platformer Tutorial for GameSalad Creator 007 - Enemies - Method 1
+https://youtu.be/Pc2lvfdcpoc
+
+Platformer Tutorial for GameSalad Creator 008 - Enemies - Method 2
+https://youtu.be/Vhtx63xC-3o
+
+Platformer Tutorial for GameSalad Creator 010 - Collectibles & Invulnerability
+https://youtu.be/sRxhEavH25g
+
+Platformer Tutorial for GameSalad Creator 011 - Check Points
+https://youtu.be/KhzuYchothU
+
+Rogue Like Beta 001
+https://youtu.be/ZRFnlVfWLeA
+
+Variable Spawning Tutorial using GameSalad Creator
+https://youtu.be/Yuld0obUiOQ
+
+Vertical Shooter Tutorial for GameSalad Creator 001
+https://youtu.be/QKv5NyGcvMk
+
+Vertical Shooter Tutorial for GameSalad Creator 002
+https://youtu.be/rXbDNHMRK28
+
+Vertical Shooter Tutorial for GameSalad Creator 003
+https://youtu.be/EA_txex4id8
+
+Vertical Shooter Tutorial for GameSalad Creator 004
+https://youtu.be/moexTIrDgBI
+
+Vertical Shooter Tutorial for GameSalad Creator 005
+https://youtu.be/sVgtveukapI
+
+Vertical Shooter Tutorial for GameSalad Creator 006
+https://youtu.be/ydi08zkKcXg
+
+Vertical Shooter Tutorial for GameSalad Creator 007
+https://youtu.be/EZHltUrY4n8
+
+Vertical Shooter Tutorial for GameSalad Creator 008
+https://youtu.be/FjhYN41791M
+
+Vertical Shooter Tutorial for GameSalad Creator 009
+https://youtu.be/-LjIe77Gje8
+
+Vertical Shooter Tutorial for GameSalad Creator 010
+https://youtu.be/s6E2n_EquOQ
+Videos 1-25

@@ -1,0 +1,76 @@
+
+10 Awesome Games made with Unity!
+https://youtu.be/VLcrI4BWMJs
+
+20 Unity Tips in 10 MINUTES!
+https://youtu.be/4NNAYvhCWjQ
+
+Animation Curves are Awesome!!!
+https://youtu.be/roWiGo1Hpfk
+
+Awesome Builder-Defender Game! (Complete Course)
+https://youtu.be/cIuxrFYKZXI
+
+Awesome Building Construction Shader Effect! (Shader Graph)
+https://youtu.be/OzyLWXTr3Io
+
+Build a Game with the Community! (Unity Open Projects)
+https://youtu.be/3VnNBidNPM4
+
+Build a World Brick by Virtual Brick with the LEGO Microgame!
+https://youtu.be/jRcDFLaYtEU
+
+Builder-Defender Game Design + Overview! (Complete Course)
+https://youtu.be/ddEcb3MxjLY
+
+Complete Courses Incoming! (Visual Scripting, Builder Defender)
+https://youtu.be/WKCbwCwV2zA
+
+Crafting Items with Scriptable Objects!
+https://youtu.be/E91NYvDqsy8
+
+Discounts & Dragons! (Unity Asset Store Sale)
+https://youtu.be/lvSplvwrAGU
+
+Dynamic Tooltip in Unity! (Resizable, Follows Mouse, Edge Detection)
+https://youtu.be/YUIohCXt_pc
+
+FREE Awesome Asset Pack! (Synty Studios Asset Store Sale)
+https://youtu.be/E9QYWlWiq5Q
+
+How to Fix NullReferenceException in C#! (4 Step Process)
+https://youtu.be/5irv30-bTJw
+
+Learn Game Development! FREE Code Monkey Steam App!
+https://youtu.be/Iy17L8tLd2I
+
+Make a Cutout Mask in Unity! (Inverted Mask)
+https://youtu.be/XJJl19N2KFM
+
+Make an Awesome Launcher for all your Games!
+https://youtu.be/dELZXHlYqj4
+
+Make Awesome Effects with Shader Graph in Unity!
+https://youtu.be/VsUK9K6UbY4
+
+Make your Game Better with Unity Analytics!
+https://youtu.be/3jDD-E1OUkc
+
+Make your Games Designer Friendly! (Scriptable Objects)
+https://youtu.be/7jxS8HIny3Q
+
+Paid Courses Vs Free Tutorials (Which is better)
+https://youtu.be/PcArjIC1QnQ
+
+REBOOT 2020! (Unity Asset Store Sale)
+https://youtu.be/ZNurmvE-4zU
+
+Simple Wind Shader Effect in Unity!
+https://youtu.be/VcUiksxYT88
+
+Sorting Layers and Sorting Order Explained (Unity 2D)
+https://youtu.be/5_BwFB-1dAo
+
+Super Units! Visual Scripting in Unity! (Bolt)
+https://youtu.be/o3GTDHBbUuQ
+Videos 226-250

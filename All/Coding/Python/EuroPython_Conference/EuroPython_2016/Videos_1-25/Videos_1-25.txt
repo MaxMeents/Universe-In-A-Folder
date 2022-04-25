@@ -1,0 +1,76 @@
+
+Alain Martin - Python as the keystone of building and testing C++ applications
+https://youtu.be/zZPGRV5Kw70&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Antonio Spadaro - Build and control a Python-powered robot.
+https://youtu.be/5evBTvBO12U&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Burkhard Kloss - Performant Python
+https://youtu.be/2raXkX0Wi2w&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Cameron Macleod - Implementing a Sound Identifier in Python
+https://youtu.be/LZ7THTB88AE&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Daniel Pope - Pygame Zero
+https://youtu.be/Pzs-c-B3RiM&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+David Arcos - Efficient Django
+https://youtu.be/kOIrD9YMA18&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+David Charles - Managing Kubernetes from Python using Kube
+https://youtu.be/jJGJy0MUvZw&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Fabio PligerEndor - Welcome to EuroPython 2016
+https://youtu.be/ttNzc_dBJ60&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Facundo Batista - Entendiendo Unicode
+https://youtu.be/jAZ-NyAwpsg&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Facundo Batista - It's not magic descriptors exposed
+https://youtu.be/mnWdB99K-mA&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Javier Arias Losada - Machine Learning for dummies with Python
+https://youtu.be/dIE4WTqrq_0&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Kyle Knapp - Dynamic Class Generation in Python
+https://youtu.be/fhqE7aS6cj8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Liana Bakradze - Learn Python The Fun Way
+https://youtu.be/_KkPcHKbE4I&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Lorena Mesa - Is that spam in my ham
+https://youtu.be/a-Dj6MtyqXo&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Maciej Dziergwa - The Journey from Python Developer to Python Company Owner
+https://youtu.be/DSXkazo_Tn4&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Manuel Miranda - Where is the bottleneck
+https://youtu.be/qKdxOdT4c1U&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Marc-André Lemburg - So you think your Python startup is worth $10 million...
+https://youtu.be/nIoE3KJxK6U&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Nicholas Tollervey - A Million Children (and MicroPython)
+https://youtu.be/JVaF6uZuSIU&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Nicolas Lara - Python and Async programming
+https://youtu.be/8sJUmFHHY-Y&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Noah Kantrowitz - Behind Closed Doors Managing Passwords in a Dangerous World
+https://youtu.be/unFMJlKGh98&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Rachel Willmer - 20 years without a 'proper job'
+https://youtu.be/ZNx6UIdLDLk&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Rafael Monnerat - Hyperconvergence meets BigData
+https://youtu.be/Z-aiV0pkt_8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Stefan Behnel - Fast Async Code with Cython and AsyncIO
+https://youtu.be/-hk6nEQEMLs&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Various speakers - Lightning Talks
+https://youtu.be/LJ2zRHociVw&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+
+Víctor Terrón - Kung Fu at Dawn with Itertools
+https://youtu.be/iCrOGS1QlB8&list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm
+Videos 1-25

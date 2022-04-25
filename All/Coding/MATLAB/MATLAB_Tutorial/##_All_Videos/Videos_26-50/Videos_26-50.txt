@@ -1,0 +1,73 @@
+
+Add on manager and explorer in MATLAB
+https://youtu.be/dnXMuk6IqLw
+
+App Tab in MATLAB
+https://youtu.be/YuNvgt5GDIQ
+
+automatic syntax help in MATLAB
+https://youtu.be/zhMWlNBCH2A
+
+Code Suggestion in MATLAB
+https://youtu.be/H1woqu76Lu0
+
+Entering Command in MATLAB
+https://youtu.be/1SVbokK7fO8
+
+Help MATLAB
+https://youtu.be/ukJDLkniBdg
+
+Highlighting the corresponding delimiter
+https://youtu.be/zmq0RRrD9mk
+
+How to call a function in MATLAB
+https://youtu.be/ZFJAY7pDsAs
+
+How to enter long command in MATLAB
+https://youtu.be/E7XVj69kNQc
+
+Layout in MATLAB
+https://youtu.be/BZIKslx9W2I
+
+linspace in MATLAB
+https://youtu.be/7aCqAWIBiRk
+
+Matrix generation and indexing in MATLAB part 1
+https://youtu.be/wSXHY4lvjw8
+
+Matrix generation and indexing in MATLAB part 2
+https://youtu.be/wQAEXez3K04
+
+Obtaining accuracy of a machine learning model from confusion matrix
+https://youtu.be/YlPt9wbWWPA
+
+Plot Tab in MATLAB
+https://youtu.be/PaMrDxH_I0w
+
+Preferences in MATLAB
+https://youtu.be/HzqBwXRTTvc
+
+Random number in MATLAB
+https://youtu.be/ReFr5gxqAcM
+
+repmat function in MATLAB
+https://youtu.be/aVjnEkcGMwg
+
+Rounding functions  in MATLAB
+https://youtu.be/x9aQRGejRlU
+
+Search Path in MATLAB
+https://youtu.be/2xMlLqBEYPs
+
+Short introduction of Simulink
+https://youtu.be/Ki-M_LAob20
+
+Short introduction to Curve Fitting app in MATLAB
+https://youtu.be/932iE69Fyt4
+
+Special keywords and color in MATLAB
+https://youtu.be/A9-lWsLlXnw
+
+The transpose of a matrix in MATLAB
+https://youtu.be/Ns9z7rexoAE
+Videos 26-50

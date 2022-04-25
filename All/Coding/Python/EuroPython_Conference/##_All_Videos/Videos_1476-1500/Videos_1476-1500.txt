@@ -1,0 +1,76 @@
+
+A Python Takeover
+https://youtu.be/k-wbWT8KwAI
+
+Beyond Python Enhanced Generators
+https://youtu.be/yWR00Y6tkC8
+
+Building a Scientific Software Application with the Enthought Tool Suite
+https://youtu.be/F4qHeJqlYbk
+
+Combining Embedded and Interactive Python in a Debugger  A Case Study
+https://youtu.be/a6oHHGIV3r4
+
+Data Driven Cache Invalidation
+https://youtu.be/U_IZVEZImq4
+
+Deploying web applications to the cloud with Python
+https://youtu.be/zvwi-PLrCgE
+
+Derivatives Analytics with Python & Numpy
+https://youtu.be/c4WltP4-Xlk
+
+Developing Desktop and mobile apps with PySide and QML
+https://youtu.be/isDQXSv5kGw
+
+Django productivity tips and tricks
+https://youtu.be/l5E3BZOZ7Qg
+
+EuroPython 2011 Video Reportage!
+https://youtu.be/eu_vAisNHVA
+
+EuroPython 2012 Join us in Florence on July!
+https://youtu.be/BDiEbi0yCY8
+
+Fun with Python's newer tools
+https://youtu.be/twrNGyl1sbc
+
+Healthcare process management in Python a use case
+https://youtu.be/btyuUwcfLW0
+
+Introduction to Qt
+https://youtu.be/oY0h-ZKrdA8
+
+JSON data + RML template = PDF report
+https://youtu.be/yf34NCtdxVI
+
+Man Page of the Warrior of Light
+https://youtu.be/uh92G5RDiiA
+
+Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system
+https://youtu.be/Lil248rRPYw
+
+Refactoring PyChart
+https://youtu.be/Av6KcdWvWnU
+
+Scraping Techniques to Extract Advertisements from Web Pages
+https://youtu.be/IL4o0HSGOsU
+
+Snakes on a cloud the OpenStack project
+https://youtu.be/k9NGWSqcmDI
+
+Sqlkit empowering database access
+https://youtu.be/UwV2Hdb8XQQ
+
+sqlmap - security development in Python
+https://youtu.be/O3mdKNjsdlQ
+
+The London Python Code Dojo - an Education in Developer Education
+https://youtu.be/vMjnjmUcldA
+
+The political implications of having fun (while programming open source)
+https://youtu.be/SVXq0LfuPUE
+
+What is Google App Engine
+https://youtu.be/YiimQ3zyxRQ
+Videos 1476-1500

@@ -1,0 +1,76 @@
+
+Camera Module - Raspberry Pi and Python tutorials p.5
+https://youtu.be/qk1IVs5B1GI
+
+Direct Input - Python plays Grand Theft Auto 5 p.3
+https://youtu.be/tWqbl9IUdCg
+
+Distance Sensor GPIO cont'd - Raspberry Pi and Python tutorials p.7
+https://youtu.be/kqJ8WYQu68w
+
+Garage Stop Light GPIO project - Raspberry Pi and Python tutorials p.8
+https://youtu.be/udu6i1I0mqQ
+
+GPIO Basics with LED light - Raspberry Pi and Python tutorials p.6
+https://youtu.be/WLo5Rgvj6qo
+
+Installation and Setup of Operating System (Raspbian) - Raspberry Pi and Python tutorials p.2
+https://youtu.be/4z9trGhCbfk
+
+Intro and creating a virtual machine - Google Cloud Python Tutorials p.1
+https://youtu.be/chk2rRjSn5o
+
+Intro and Screen reading - Python plays Grand Theft Auto V p.1
+https://youtu.be/ks4MPfMq8aQ
+
+Introduction and Parts - Raspberry Pi and Python tutorials p.1
+https://youtu.be/RpseX2ylEuw
+
+Lane Finding - Python plays Grand Theft Auto 5 p.6
+https://youtu.be/CAr7UupSUh0
+
+Line Finding with Hough Lines - Python plays Grand Theft Auto 5 p.5
+https://youtu.be/lhMXDqQHf9g
+
+Natural Language API - Google Cloud Python Tutorials p.4
+https://youtu.be/-13yIXiyFAs
+
+Neural Network Training Data for self-driving - Python plays GTA p.9
+https://youtu.be/F4y4YOpUcTQ
+
+Next steps for self-driving vehicles - Python plays GTA p.8
+https://youtu.be/E_lN40yhlzY
+
+OpenCV - Python plays Grand Theft Auto 5 p.2
+https://youtu.be/v07t_GEIQzI
+
+Remote Access with SSH and Remote Desktop - Raspberry Pi and Python tutorials p.3
+https://youtu.be/IDqQIDL3LKg
+
+ROI - Python plays Grand Theft Auto 5 p.4
+https://youtu.be/h98js2usaVo
+
+Self-driving Car - Python plays Grand Theft Auto 5 p.7
+https://youtu.be/CLFp9D9-0Eo
+
+Setting up API and Vision Intro  - Google Cloud Python Tutorials p.2
+https://youtu.be/nMY0qDg16y4
+
+Terminal Commands and Navigation - Raspberry Pi and Python tutorials p.4
+https://youtu.be/GUvHA6zaVWU
+
+Testing Network - Training a neural network to play a game with TensorFlow and Open AI p.4
+https://youtu.be/HCBX2cuA5UU
+
+Training Data - Training a neural network to play a game with TensorFlow and Open AI p.2
+https://youtu.be/RVt4EN-XdPA
+
+Training Model - Training a neural network to play a game with TensorFlow and Open AI p.3
+https://youtu.be/G-KvpNGudLw
+
+Translation API - Google Cloud Python Tutorials p.5
+https://youtu.be/6wlzeDaIGtw
+
+Vision API cont'd - Google Cloud Python Tutorials p.3
+https://youtu.be/qcBk0zBOAUM
+Videos 326-350

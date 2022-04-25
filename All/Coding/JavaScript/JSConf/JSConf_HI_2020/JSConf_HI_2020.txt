@@ -1,0 +1,70 @@
+
+A Crash Course on Worker Threads - Rich Trott  JSConf Hawaii 2020
+https://youtu.be/GRb-XQ5JRA8&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+A Seat at the Table Building Inclusive Ecosystems - Erica Stanley  JSConf Hawaii 2020
+https://youtu.be/YqLFTQs4RDg&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Advanced Design System Considerations - Alex Sexton  JSConf Hawaii 2020
+https://youtu.be/EDyiaDJJu-4&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Custom Hooks in React The Ultimate UI Abstraction Layer - Tanner Linsley  JSConf Hawaii 2020
+https://youtu.be/J-g9ZJha8FE&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Designing Even Larger (JavaScript) Applications - Malte Ubl  JSConf Hawaii 2020
+https://youtu.be/z4mRkhhHdWo&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Digital Witchcraft Magical Thinking for Digital Design - Danae Valentina  JSConf Hawaii 2020
+https://youtu.be/eX5iBE2Zu4I&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+How to Wait - Max Goodhart  JSConf Hawaii 2020
+https://youtu.be/UTol97sYpSI&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Impactful Accessibility The Changes that Mean the Most - Lindsey Dragun  JSConf Hawaii 2020
+https://youtu.be/z2BhxxbKJ_E&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Kill All Mutants! (Introduction to Mutation Testing) - Dave Aronson  JSConf Hawaii 2020
+https://youtu.be/yNMBOj7JUPs&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Look What You MIDI Me Do! - Rachel White  JSConf Hawaii 2020
+https://youtu.be/ywKWAxMVd3Q&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+No Way, JOSE - Sam Bellen  JSConf Hawaii 2020
+https://youtu.be/cZ7lRxr_yzE&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Parsing Parsers - Jenna Zeigen  JSConf Hawaii 2020
+https://youtu.be/rvQP2RTxEH8&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Progressive Rendering Improve Performance on Slower Networks - Dinesh Pandiyan  JSConf Hawaii 2020
+https://youtu.be/iYW7vKCqN6g&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane  JSConf Hawaii 2020
+https://youtu.be/vEQkgBzunRc&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Strike a Pose Gesture Recognition in JS with Machine Learning - Charlie Gerard  JSConf Hawaii 2020
+https://youtu.be/m-C2A7IENBg&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+TC39 Panel, Moderated by Cassidy Williams  JSConf Hawaii 2020
+https://youtu.be/7UmhSRWQq9M&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+The Art of Code Comments - Sarah Drasner  JSConf Hawaii 2020
+https://youtu.be/yhF7OmuIILc&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+The Asynchronous Enterprise - Brendan O'Leary  JSConf Hawaii 2020
+https://youtu.be/xRro-dDsYPU&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+The Perfect Tooling Library - Ben Ilegbodu  JSConf Hawaii 2020
+https://youtu.be/kQ4r9OATmB0&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+The power to think like a Native Hawaiian in tech - Taylor Ho  JSConf Hawaii 2020
+https://youtu.be/J0dut8knlXQ&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Using Machine Learning to Improve UIUX - Milecia McGregor  JSConf Hawaii 2020
+https://youtu.be/3lcsAWLf6yk&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Very Responsive Typography with Variable Fonts - Mandy Michael  JSConf Hawaii 2020
+https://youtu.be/kl72S-eBiTk&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+Your Tests Lack Vision Adding Eyes to Your Automation Framework - Angie Jones  JSConf Hawaii 2020
+https://youtu.be/Tx7L-33Po2o&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+JSConf HI 2020

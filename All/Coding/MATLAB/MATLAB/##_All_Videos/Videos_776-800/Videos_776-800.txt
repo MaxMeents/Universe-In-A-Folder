@@ -1,0 +1,76 @@
+
+A Better Approach to Spectral Analysis   Hear from MATLAB & Simulink Developers
+https://youtu.be/0-q9gwYZZ1o
+
+C-Code Generation and Integration with C# - Coder Summit 2019
+https://youtu.be/IwDKWO6rWWM
+
+CamelCase and Best Practices for Naming Variables  Coding Basics for MATLAB Onramp, Part 3
+https://youtu.be/rJ4cy--zM2Y
+
+Deploying Your Models  Data Science Tutorial in MATLAB, Part 7
+https://youtu.be/V5TSA8ED-sE
+
+Dynamic Code Verification and Analysis SIL, PIL, and External Mode - Coder Summit 2019
+https://youtu.be/8H2c6SbjV6U
+
+FPGA Design with MATLAB, Part 3 Architecting Efficient Hardware
+https://youtu.be/pcYyACHcwzI
+
+FPGA Design with MATLAB, Part 4 Converting to Fixed Point
+https://youtu.be/3HffeiMSD-E
+
+Getting Started with Embedded Coder Support Package for TI C2000 Processors
+https://youtu.be/rsZtoBFCeMo
+
+How to Add FPGA and SoC Development Boards to SoC Blockset   Hear from MATLAB & Simulink Developers
+https://youtu.be/m5Rfqz2gteE
+
+How to Automatically Detect Design Errors in Your Simulink Models   MATLAB & Simulink Developers
+https://youtu.be/0cXXDPTiYek
+
+How to Import Excel Data into MATLAB
+https://youtu.be/0hArv-UBKQQ
+
+How to Simulate Multiple Scenarios and Convert Models to Fixed Point  MATLAB & Simulink Developers
+https://youtu.be/GZr2BgebO1w
+
+How to Visualize Results for Autonomous Driving Scenarios in Simulink  MATLAB & Simulink Developers
+https://youtu.be/DcXZrbsBAJM
+
+Introducing AUTOSAR Blockset for Classic and Adaptive Applications - Coder Summit 2019
+https://youtu.be/e8-3DLV671s
+
+Lane-Following Robot Using MATLAB, Raspberry Pi, and Arduino
+https://youtu.be/9aQ1g6029Rs
+
+Powerful Design Compression - Coder Summit 2019
+https://youtu.be/MQj4-51NTgA
+
+Quantizing Machine Learning Algorithms for Microcontroller Deployment - Coder Summit 2019
+https://youtu.be/JK6EuwX_Tqk
+
+Relational Operators and Logicals Coding Basics for MATLAB Onramp, Part 6
+https://youtu.be/9ua0oRl0csQ
+
+Simulate with Flush to Zero to Avoid Pains in Model-Based Design Workflows - Coder Summit 2019
+https://youtu.be/jaNm3Rheooo
+
+Star Wars Data Science Analyzing the Universe...Live!
+https://youtu.be/SELamjOS_eI
+
+Using the Documentation  Coding Basics for MATLAB Onramp, Part 5
+https://youtu.be/gvjDiqpSgoU
+
+Variable Assignments  Coding Basics for MATLAB Onramp, Part 2
+https://youtu.be/VLAuwp2mGnM
+
+What Are Non-Minimum Phase Systems  Control Systems in Practice, Part 6
+https://youtu.be/jGEkmDRsq_M
+
+What Is MATLAB Onramp  Coding Basics for MATLAB Onramp, Part 1
+https://youtu.be/blwfA_asQr0
+
+Πως να δείτε αποτελεσματα για αυτοματοποιημένα σενάρια οδήγησης στο Simulink
+https://youtu.be/Ub9LimYQsgs
+Videos 776-800

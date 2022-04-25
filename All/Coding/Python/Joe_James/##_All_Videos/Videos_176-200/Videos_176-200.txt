@@ -1,0 +1,76 @@
+
+ALPR Automatic License Plate Recognition
+https://youtu.be/np-F0xDKBDs
+
+Bellman Ford Algorithm Example
+https://youtu.be/vzBtJOdoRy8
+
+Dijkstras Algorithm Directed Graph Example
+https://youtu.be/k1kLCB7AZbM
+
+Floyd Warshall Graph Traversal Algorithm All-pairs Shortest-paths
+https://youtu.be/KQ9zlKZ5Rzc
+
+How to Install Android Studio
+https://youtu.be/JdXLQ-i1YU0
+
+How to Install Bootable Windows 7 onto a USB Drive
+https://youtu.be/aAfSm72oBJ4
+
+Installing Kodi XBMC on Rasberry Pi 2
+https://youtu.be/phO-4bpmnYI
+
+IPv6 Addressing and Subnetting
+https://youtu.be/dUmhZOnz_qc
+
+Java Calculating Prime Numbers
+https://youtu.be/TDGETBsPKjQ
+
+Linux File Search using Find Command
+https://youtu.be/J-eiNh8na90
+
+Linux GREP Command tutorial
+https://youtu.be/2-3i42XXzek
+
+Linux history Command Explained
+https://youtu.be/MbXofShhMv8
+
+Python Binary Search Tree part-2 Remove
+https://youtu.be/LSju119w8BE
+
+Python Data Structures - Lists, Tuples, Sets & Dictionaries tutorial
+https://youtu.be/R-HLU9Fl5ug
+
+Python Doubly Linked Lists
+https://youtu.be/sDP_pReYNEc
+
+Python Insertion Sort algorithm
+https://youtu.be/Nkw6Jg_Gi4w
+
+Python Linked Lists (fast)
+https://youtu.be/Ast5sKQXxEU
+
+Python List de-duplication
+https://youtu.be/PryPsiHihbY
+
+Python Lowest Common Multiple (LCM  LCD)
+https://youtu.be/r-B7DjCkPFo
+
+Python MergeSort algorithm explained
+https://youtu.be/Nso25TkBsYI
+
+Python QuickSort algorithm explained
+https://youtu.be/CB_NCoxzQnk
+
+Python Reverse Lists, Integers and Strings
+https://youtu.be/u1jdar3WADY
+
+Python SelectionSort algorithm
+https://youtu.be/mI3KgJy_d7Y
+
+Python Sorting Algorithms Benchmarks Comparison
+https://youtu.be/bJ0aERNrErA
+
+Tournament Sort Algorithm - a Heapsort variant
+https://youtu.be/7WGaT0-gYCQ
+Videos 176-200

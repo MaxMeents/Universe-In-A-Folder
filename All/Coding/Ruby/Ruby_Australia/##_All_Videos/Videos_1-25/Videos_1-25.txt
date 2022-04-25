@@ -1,0 +1,76 @@
+
+7+ ActiveModel Magic Tricks You Didn't Know About - Julian Pinzon
+https://youtu.be/h0HF5-OiMqE
+
+A blessing in defaultSo Fetch -  Elle Meredith
+https://youtu.be/ynJqPdQBx_k
+
+A Rails Journey From Paramedicine to Surfing Mountains - Dan Solo
+https://youtu.be/rTx51yiirVM
+
+A Random Assortment of Code - Pat Allan
+https://youtu.be/N4FfH6sPMs8
+
+Action Cable 101 - David Smith
+https://youtu.be/XDR9Jf1HEZk
+
+Altering DNS with Ruby is a Terrible Idea... But Let's Do It Anyway - Pat Allan
+https://youtu.be/3H6YUi68mdA
+
+Being the Most Valuable Engineer in your Team - David Carlin & co
+https://youtu.be/Ht9YsXrM-D8
+
+Building apps with turbo and stimulus - Julián Pizon
+https://youtu.be/bmELTNa04p0
+
+Data pipelines in Rails and Postgres - Micheal Millewski
+https://youtu.be/cCm7-zagbwY
+
+Exercism Robot Simulator - Hemanth Haridas
+https://youtu.be/vkncK9MYIG0
+
+How to Give a Coding Challenge - Akash Chhetri
+https://youtu.be/gfPQcWgMng4
+
+How To Make Money With Ruby - Jason Kotchoff
+https://youtu.be/iWtecg-eQxI
+
+How to nurture your career as a ruby developer - Group Discussion
+https://youtu.be/-_0__lMTpts
+
+How to Stop i18n Getting Messy - David Carlin
+https://youtu.be/t6ZMVW1FHes
+
+Image Compression - David Carlin
+https://youtu.be/VvQb_jf7Zhs
+
+Introduction to ROD - Matt Wang
+https://youtu.be/BM1Dymafsi0
+
+JWTs, what ruby developers need to know - Dan Moore
+https://youtu.be/W2NHW6BVzz8
+
+Live Query Streams in RethinkDB - Simon Hildebrandt
+https://youtu.be/k0t5FbGfH6k
+
+Nailing Your Live Coding Job Interview in Ruby - Tom Dalling
+https://youtu.be/7cyx_88m2CM
+
+Stop Rubocop Fix-up Commits - Like Ever! - Michael Milewski
+https://youtu.be/G-vhAwVo0Ns
+
+Stripe Integration for Dummies - Akash Chhetri
+https://youtu.be/DJupgTe0rIs
+
+Talking Tech to the Not Technical - Nick Wolf
+https://youtu.be/x2BAHxT11io
+
+Tips on how to get more from your salary negotiation - Nadia Vu
+https://youtu.be/Kbh7xkKAOR8
+
+Unpacking the Committee - Nick Wolf
+https://youtu.be/iCJzzH5-DAw
+
+Up's Monolith Story - Anthony Langhorne
+https://youtu.be/Og8KsKmUo_8
+Videos 1-25

@@ -1,0 +1,76 @@
+
+1 QlikSense Cloud Introduction   What is QlikSense and How to download and install qliksense
+https://youtu.be/amKkKiYa9dQ
+
+2 Exploring Qlik Sense Sheet - Qlik Sense sheet features and properties
+https://youtu.be/f_5GIA5wYrQ
+
+Creating and Customizing Tableau Line Charts
+https://youtu.be/AJEm1GPvYYM
+
+How to Create a Bar chart with rounded edges in tableau  Tableau Charting - Tableau Tutorials
+https://youtu.be/CMbxFyT4Vsc
+
+How to Create a Bar Chart within Bar Chart Tableau  Tableau Charts - Tableau Tutorials
+https://youtu.be/XRRWXoEL3G8
+
+How to Create a Bar in Bar Chart using Dimensions  Tableau Charting - Tableau Tutorials
+https://youtu.be/PalfIOextIw
+
+How to create Button in Plotly Dash  Plotly Dash Tutorial Part -17
+https://youtu.be/O4Xi_i4otII
+
+How to Create Checkbox in Plotly Dash  Plotly Dash Tutorial Part -15
+https://youtu.be/qqK0gYw-59U
+
+How to create Date Picker in Plotly Dash  Plotly Dash Tutorial Part -18
+https://youtu.be/IQf2v6qzbOc
+
+How to Create Date Range Picker in Plotly Dash  Plotly Dash Tutorial Part -19
+https://youtu.be/ZftBPu3k1e4
+
+How to create No Axis Bar chart in Tableau   Tableau Charts - Tableau Tutorials
+https://youtu.be/7TV9j2no5Qk
+
+How to Create Radio Button Plotly Dash  Plotly Dash Tutorial Part -16
+https://youtu.be/YKRE-Ref0Rg
+
+How to Create Range Slider in Plotly Dash  Plotly Dash Tutorial Part -12
+https://youtu.be/eDJ-qFYkRak
+
+How to create slider in Plotly Dash  Plotly Dash Tutorial Part -11
+https://youtu.be/xIuQhq3ru6I
+
+How to Create Text Area in Plotly Dash  Plotly Dash Tutorial Part -14
+https://youtu.be/UYZBoXDYYqc
+
+How to create Text Input Box in Plotly   Plotly Dash Tutorial Part -13
+https://youtu.be/NRXrmZ09wpA
+
+How to use Markdown with Plotly Dash   Plotly Dash Tutorial Part -20
+https://youtu.be/4Kqvh__ofGE
+
+Lolipop Chart in Tableau   Tableau Charts - Tableau Tutorials
+https://youtu.be/0jsKqb1qeWw
+
+Tableau - calculated field in tableau
+https://youtu.be/OLrWvHi2-Zk
+
+Tableau - Heat Map
+https://youtu.be/RnJuW8Y0Ogc
+
+Tableau - Highlight Table  highlight table tableau
+https://youtu.be/CL3pjJNzwWk
+
+Tableau - Waterfall Chart
+https://youtu.be/QUbCYAowewY
+
+Tableau Bar Chart  4 ways to create tableau bar chart
+https://youtu.be/gu3VGgCNRR4
+
+Tableau End to End Tutorial for Beginners
+https://youtu.be/h7GnRHQmpnA
+
+Tableau highlight table by column
+https://youtu.be/JrzUdHtS4o0
+Videos 476-500

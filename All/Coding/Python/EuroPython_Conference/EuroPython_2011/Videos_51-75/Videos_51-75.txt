@@ -1,0 +1,76 @@
+
+5 Years of Bad Ideas
+https://youtu.be/8e0l_Dt28MQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Advanced Aspects of the Django Ecosystem Haystack, Celery & Fabric
+https://youtu.be/8SQbN5vhLto&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Advanced Python
+https://youtu.be/paK0-lkksIc&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Best Practices for Python in the Cloud
+https://youtu.be/nQWVlXlJwp0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Building a hosting platform with Python
+https://youtu.be/Sg6RmIty9-w&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Building a Scientific Software Application with the Enthought Tool Suite
+https://youtu.be/N_1EIkfQbv4&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Building a website with PyHP and Liwe
+https://youtu.be/ssiC75EclxI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Challenges in developing a large Django site
+https://youtu.be/GyC7ilNTNiY&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Data Plumbing with Python
+https://youtu.be/Bb3YEqtHvGs&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Developing cutting-edge applications with PyQt
+https://youtu.be/6ko-tO-3bJ0&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Experiences making CPU-bound tasks run much faster
+https://youtu.be/F7NOKSP_vlQ&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Exploring CPython's bytecode
+https://youtu.be/YeSn9aovFCg&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Gestione di processi clinici in Python un caso d'uso
+https://youtu.be/l7e6NmyWclM&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Latest advances in the Google APIs platform
+https://youtu.be/pJqSbhGIhWU&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+PyHP and the art of dating girls
+https://youtu.be/2pMUt1cIiEk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+PyPy hands-on
+https://youtu.be/J1ZTPi06awk&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python + Oracle = Prosperity & Performance
+https://youtu.be/jUrgMpBkynI&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python at Cloudkick
+https://youtu.be/eKz5-hzGZoM&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Python's other collection types and algorithms
+https://youtu.be/7QiuxqEpq2o&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Remote execution of Python scripts using Viri
+https://youtu.be/SGz5RZEOMFE&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Social Network Analysis con Python
+https://youtu.be/oN02lznMDE8&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Sqlkit database ad accesso immediato
+https://youtu.be/nx04zGh3gME&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Ubuntu e la programmazione occasionale
+https://youtu.be/qkB-ZqqyYrY&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Using Python in Software for the Medical Industry
+https://youtu.be/SFi7LpBr-JY&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+
+Web API Mashups in a Python Application
+https://youtu.be/Z_q-52ap-Vg&list=PL8uoeex94UhGvfk4HvzqjtiiY8Wx7vouH
+Videos 51-75

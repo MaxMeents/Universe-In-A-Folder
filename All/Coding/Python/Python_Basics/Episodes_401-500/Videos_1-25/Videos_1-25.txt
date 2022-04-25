@@ -1,0 +1,76 @@
+
+Python Basics 1K Views Second Conversion
+https://youtu.be/n0_mqDcyDsM&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Built in Reverse Function
+https://youtu.be/3_SqrEnVtwo&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Deep Dive Re Fnmatch Glob (Requested Video)
+https://youtu.be/rBNwYitC5Gw&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Django
+https://youtu.be/F7G9BG2ATmw&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Fnmatch Filter Method
+https://youtu.be/8IX9rQyWzbc&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Gratitude
+https://youtu.be/tXXYF4borZA&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Increment Numpy Arrays
+https://youtu.be/Qidv6Jmn1_8&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Intro tkinter Module
+https://youtu.be/Dxk1Ugr5au4&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Iter Splat Trick
+https://youtu.be/3TNUJP6xt38&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Itertools Takewhile Method
+https://youtu.be/YtyBR4khzmY&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Matplotlib Fig Savefig
+https://youtu.be/r_QaWmWuVIo&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Matplotlib Pie Chart Arguments
+https://youtu.be/VdulJzQghKY&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Move a Circle With Pygame
+https://youtu.be/MRpgrdERrE4&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Ntpath Commonpath
+https://youtu.be/FMIU-O5j0YA&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Ntpath Get M Time Function
+https://youtu.be/85lrDgdyTzU&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Numpy Arange Function And Shape Attribute
+https://youtu.be/wk8cyIAi_6s&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Numpy Reshape Method
+https://youtu.be/tT8q5UTuNmw&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Pandas Boolean Indexing
+https://youtu.be/bic9NM8kfUk&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Pandas DataFrames Columns
+https://youtu.be/VFzCVDWdHcQ&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Pygame Mouse Down Specific Position
+https://youtu.be/K9j4cKuJaIM&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Pyplot with Pandas Series
+https://youtu.be/wjcrsYnXr3I&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Re Findall Dollar Amounts
+https://youtu.be/l5b8ku-v3pg&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Re Findall with {} brackets
+https://youtu.be/e4qjuhzRW50&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Re w+ Character Findall Method
+https://youtu.be/VWT41VZVn_s&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+
+Python Basics Tkinter Tk Function
+https://youtu.be/ur77XQE8OqY&list=PLaYT64KWZAEPieeX7nqtHDFFthbz--Wlp
+Videos 1-25

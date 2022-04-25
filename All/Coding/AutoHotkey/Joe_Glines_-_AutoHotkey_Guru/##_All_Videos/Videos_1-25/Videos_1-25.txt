@@ -1,0 +1,67 @@
+
+#139 the-Automators' Podcast 10 steps to building a strong consulting biz
+https://youtu.be/QWlrMYZBWgQ
+
+Adding Hotkey and HotStrings to your menus  Great undocumented tip!
+https://youtu.be/Gm6hUZaKfuk
+
+Adding the ODBC connection string for mySQL
+https://youtu.be/F933Y7uD4PI
+
+AHKTalk program path, standard Out, multi dimensional array, Excel
+https://youtu.be/SW-O2S8_e4E
+
+Automating Chrome - AutoControl and AutoHotkey
+https://youtu.be/LqnC1_sZiLU
+
+Best way of Sending money or Getting paid outside the US
+https://youtu.be/J9dIQ6gpYfs
+
+Getting AHK help from the Automator or other sources
+https://youtu.be/I4O3XtcTWYc
+
+How to easily create & manage a distribution list for ANY email  phone service
+https://youtu.be/wynmFxGYdLY
+
+How to fix SciTE4AutoHotkey Check for update Issue
+https://youtu.be/AyZR6A1BzM4
+
+How to use Microsoft's Process Monitor know what a program is doing
+https://youtu.be/8AqXDpE2jHY
+
+Objects, Maps & more in AHK v2️⃣ with maestrith & RaptorX
+https://youtu.be/Ybg7tDrU8Uo
+
+Optimizing a string search in AutoHotkey  Comparing 3 approaches
+https://youtu.be/unIALwS3hP4
+
+Overview of Intro to AutoHotkey Classes & Objects course
+https://youtu.be/qOAYog3cCCM
+
+Producing the AutoHotkey Newsletter
+https://youtu.be/jdw2wRnB6aY
+
+Switching to AutoHotkey v2 What you need to know about Version 2 AHK
+https://youtu.be/zpF1D7eMHXs
+
+the-Automator Live Support  Updating Quick Icon Maker
+https://youtu.be/vhr3-bWF01s
+
+the-Automator Live Support
+https://youtu.be/uddvD1Jnrmg
+
+the-Automators' Podcast #135  How to best sellpitch AutoHotkey
+https://youtu.be/Cgpu6qfR0n4
+
+the-Automators' Podcast #136 How to price your script
+https://youtu.be/ipfYpddEOHM
+
+the-Automators' Podcast #137  7 great tips when learning a new language
+https://youtu.be/9sApLMuTLis
+
+the-Automators' Podcast #138 9 times to say no to clients
+https://youtu.be/k6HkkQzJ_Pw
+
+Why you should learn AutoHotkey What can AHK do
+https://youtu.be/eQtbEtoD6Xo
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Python Basics Tutorial Create Your First Model For Django Poll Website Setting Up the DataBase
+https://youtu.be/bX5YShFsTZ8&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Admin Page
+https://youtu.be/DsEcKl5vbRM&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django DataBase and Time Zone Set up
+https://youtu.be/x5VuHEgg0d8&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django First View
+https://youtu.be/UHSioA14_vc&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django HTML Drop Down Choice
+https://youtu.be/FXYKXmsVpAM&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Login Authentication
+https://youtu.be/Y1N6rAenFZM&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Manage Sqlmigrate Command
+https://youtu.be/8cOZ2bwrl4I&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Manage.py Startapp
+https://youtu.be/s0Ca-Tdon9Y&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Moving From Register to Login Using Redirect and HttpResponseRedirect
+https://youtu.be/1_-PU2kDDjo&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Registration Form
+https://youtu.be/4To55Tey1MI&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Render Function and HTML File
+https://youtu.be/P2-IxYlRUS4&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Set up
+https://youtu.be/pSUd85rpZcA&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Django Template Folder
+https://youtu.be/QCX6uU32p1A&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial How to Connect DataBase to Django Admin
+https://youtu.be/WaeQZasr1Dk&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial How To Handle Django Migration Issues with Manage.py
+https://youtu.be/wTuOAytjojI&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial How To Handle Django Registration Form Data
+https://youtu.be/LcqPTuw02io&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial How to Restrict Access With Django Login Required Decorator Function
+https://youtu.be/MTkvLoNhx4I&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial How to Use Django Form Attributes with HTML
+https://youtu.be/VhGNVQTD7ho&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial HTML Intro
+https://youtu.be/TNwTqW494tU&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Install Django
+https://youtu.be/GxLTwiwPhxE&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Logging Out of a Web Page With Django Logout Function
+https://youtu.be/lOnauHf_ILE&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Put A Header On Our Web Page
+https://youtu.be/b1N8EU6I7RI&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Run Django Development Server
+https://youtu.be/rpBlekhWDag&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Set up For Django Register and Login Page
+https://youtu.be/rBtMd9FkbxY&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+
+Python Basics Tutorial Tree And Django Manage Shell Command
+https://youtu.be/jvhFevP1TrA&list=PLaYT64KWZAEM4XzlVCbJpQTna8Np68NRO
+Videos 1-25

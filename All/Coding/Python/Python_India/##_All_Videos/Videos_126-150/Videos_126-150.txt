@@ -1,0 +1,76 @@
+
+Call, Raise or Fold - Python for Simulating Poker Games - Abhijit Gadgil
+https://youtu.be/07F9FPk82z8
+
+Keynote Making apps seem faster without optimizing - Anand S
+https://youtu.be/T-t1k4uT5G0
+
+Keynote Python performance Past, Present, Future - Victor Stinner
+https://youtu.be/m6Q-jgoHw6k
+
+Lightning Talk - Pradeek - Happyfox
+https://youtu.be/Zo8lN4rm2jM
+
+Lightning Talk - Rohit Chauriha - Visible Alpha
+https://youtu.be/8sYGmIJzYpk
+
+Lightning Talk - Senthil
+https://youtu.be/eUBh1grVhZg
+
+Lightning Talk - Srinivasan
+https://youtu.be/BEH1p2XWvD4
+
+Lightning Talk Microbit - Anand Chitipothu
+https://youtu.be/pK4heoTUJNQ
+
+PyCon India 2020 Dev Sprints Project Introductions
+https://youtu.be/bCqpNioIL38
+
+PyCon India 2020 Opening Session - Sayan Chowdhury
+https://youtu.be/ZL0aPgQY7k8
+
+Python India 2020 Dev Sprints Closing
+https://youtu.be/kjXFLv0Qgi0
+
+Python Packaging - Where We Are and Where We're Headed - Pradyun Gedam
+https://youtu.be/1WRRBrPpxhw
+
+Sponsored Talk  Array Time travel with version HDf5 - Arvid Bessen (D  E  Shaw)
+https://youtu.be/ZZ0ku_6VCac
+
+Sponsored Talk Serverless Machine Learning 101 - Tania Allard (Microsoft)
+https://youtu.be/ZnUC6NRZZt8
+
+Talk A deep dive and comparison of Python drivers for Cassandra and Scylla - Alexys Jacob
+https://youtu.be/n22tmNWbE8A
+
+Talk A thousand Djangoes within (or Django multi-tenant) - Lorenzo Peña
+https://youtu.be/pmBDoC-d9yw
+
+Talk ApiVer – a versioning policy for libraries - Paweł Polewicz
+https://youtu.be/FgcoAKchPjk
+
+Talk Building production ready distributed task queue management system with celery - Vishrut Kohli
+https://youtu.be/rk8RE8HYecg
+
+Talk Discrete Probability Distributions Learn & Test with tools from Fourier Analysis - Bala Priya
+https://youtu.be/o8YjPB35GA4
+
+Talk Let's build a no-code tool for small businesses to reduce churn - Padmaja, Bargava
+https://youtu.be/jZl2HtilcxU
+
+Talk Predicting the Traffic Jam   Congestion Aware Routing - Niharika Shrivastava
+https://youtu.be/g-m_T1PU52g
+
+Talk Self Driving cars with Opencv - Abirami Ravishankar   extend()
+https://youtu.be/wESdQB8EyhY
+
+Talk Serverless Computing with Python - Wesley Chun
+https://youtu.be/1UQmiFR407A
+
+Talk Towards a more transparent AI - Decrypting AI models using LIME - Laisha Wadhwa
+https://youtu.be/Rr42ldLUo8E
+
+Talk Write Prose, Not just programs - Puneeth Chaganti
+https://youtu.be/0TucAxOO68c
+Videos 126-150

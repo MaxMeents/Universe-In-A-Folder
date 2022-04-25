@@ -1,0 +1,73 @@
+
+Arithmetic Operators in C Programming
+https://youtu.be/r8AGPBJ6t3s&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Basic Structure of C Program  C Programming Video Tutorial
+https://youtu.be/mLXsoqkTiiA&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Compilation Process  Video Tutorial  Preprocessing  Compiling  Assembling  Linking
+https://youtu.be/hpPuHqujTUA&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Programming Tutorial - Data Type  Part 1  char  void
+https://youtu.be/twE0wzqZC98&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Programming Tutorial - Data Type  Part 2  int  float  double
+https://youtu.be/4DxJYNsDAmU&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Programming Tutorial - Identifiers
+https://youtu.be/dcSu6zwZkhU&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Programming Tutorial - Keywords
+https://youtu.be/MNvIKbIgQPw&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Tutorial - Basic Concepts  Character set  Variable  Constant
+https://youtu.be/-6cBhOO8sN8&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Tutorial - Basic Structure Example
+https://youtu.be/RDwQit40z_Y&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Tutorial - Constant Types  Primary Constants  Secondary Constants
+https://youtu.be/MUsQCLfzez8&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Tutorials - Download and Install Visual Studio Code  Windows
+https://youtu.be/ZS1jn9cEp1M&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+C Tutorials - Setting up Visual Studio Code To Run C Programs
+https://youtu.be/PA4QyIHg3pQ&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Comments In C Programming  Tutorials
+https://youtu.be/VLAE9WidpjE&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Data Type Modifiers in C Programming  C Tutorials
+https://youtu.be/m23BsTtTYpg&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Download and Install mingw  C Programming Video Tutorial  Windows
+https://youtu.be/l7jJyFbt87Y&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+How To Run C Programs Using CodeBlocks IDE  C Video Tutorial
+https://youtu.be/W2dm8J0yTBc&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Introduction to Programming language  History of C  Why Study C
+https://youtu.be/yJrq-KOeN4I&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Printf Function in C Programming  Input Output Functions
+https://youtu.be/ihGGjVF9uwk&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Printf Modifiers in C Programming  printf()
+https://youtu.be/HyLaGquowqg&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Scanf Function in C Programming  Input Output Functions
+https://youtu.be/P2cz0yePFOs&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Scanf Modifiers in C Programming  scanf()
+https://youtu.be/63mHLOka83Q&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Variable Declaration in C Programming  Video Tutorial
+https://youtu.be/gc9b3LKVZTs&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Variable in C Programming  Video Tutorial
+https://youtu.be/Z70yKRw1m0A&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+
+Writing Your First C Program  Hello World Program  C Tutorial
+https://youtu.be/WSpBze1pHaA&list=PLzgPDYo_3xulK_epMQxek8-EvU2Zw3N5a
+Videos 1-25

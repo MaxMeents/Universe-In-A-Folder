@@ -1,0 +1,76 @@
+
+Floyd Warshall Algorithm on Undirected Graph - Dynamic Programming Example
+https://youtu.be/B06q2yjr-Cc
+
+Java 6 Ways to Iterate ArrayLists
+https://youtu.be/zvpoZ2IerBo
+
+Java Linked Lists Explained
+https://youtu.be/ch1uQeu0PVY
+
+Mean, Median, Mode, Range explained
+https://youtu.be/A40c9lezVH4
+
+n-Choose-k  Problems  Statistics, Permutations, Combinations
+https://youtu.be/Hmld7MhFUDk
+
+Network Function Virtualization (NFV)
+https://youtu.be/FrLWS0GBcRw
+
+Networking STP Spanning Tree Protocol Algorithm Tutorial
+https://youtu.be/4jXzuEu-qYE
+
+Notepad++ Text Editor Intro for Beginners
+https://youtu.be/FOfGv_c6ZrQ
+
+Notepad++ Text Editor Keyboard Shortcuts
+https://youtu.be/oUFQlLkBP8M
+
+Python 2 Ways to Represent GRAPHS
+https://youtu.be/HDUzBEG1GlA
+
+Python 2-3 Trees Tutorial
+https://youtu.be/vSbBB4MRzp4
+
+Python Accessing CSV Files (read and write)
+https://youtu.be/3Bu1tET61As
+
+Python BFS Breadth First Search
+https://youtu.be/-uR7BSfNJko
+
+Python Creating a HASHMAP using Lists
+https://youtu.be/9HFbhPscPU0
+
+Python Debugger
+https://youtu.be/ChuU3NlYRLQ
+
+Python DFS Depth First Search
+https://youtu.be/QVcsSaGeSH0
+
+Python Greatest Common Factor GCF
+https://youtu.be/XVYb0Nin5K8
+
+Python Handling File IO - ReadWrite Operations
+https://youtu.be/evcUugVyauY
+
+Python Lambda, Map, Filter, Reduce Functions
+https://youtu.be/cKlnR-CB3tk
+
+Standard Deviation explained
+https://youtu.be/p5xThuN3P0I
+
+Top 5 CS Job Interview Questions
+https://youtu.be/2ExtYD5xPBc
+
+Top 5 CS Job Specialties for 2016
+https://youtu.be/ArJDIljFEa0
+
+Top 5 Programming Languages to Learn in 2016
+https://youtu.be/MVVmT3xqw2Q
+
+Top 5 Reasons to Learn Python
+https://youtu.be/5CZvkggt7C4
+
+Units Conversion
+https://youtu.be/KnO9X_L_0b0
+Videos 151-175

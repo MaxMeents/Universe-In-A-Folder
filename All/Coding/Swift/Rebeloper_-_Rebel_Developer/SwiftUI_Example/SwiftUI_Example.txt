@@ -1,0 +1,22 @@
+
+CloudKit Tutorial iCloud - Fetch, Delete and Modify Data in SwiftUI
+https://youtu.be/bVSbRnHcXrA&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+
+CloudKit Tutorial iCloud - Save Data in SwiftUI
+https://youtu.be/_wMsY7F9brA&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+
+Getting Started with Firebase Remote Config on iOS, Swift 5
+https://youtu.be/2twyU9biLSo&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+
+How to fix missing Info.plist error in Xcode 11  Step by Step Tutorial in Swift 5
+https://youtu.be/1IwJ_iFwOXA&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+
+iOS 13 SwiftUI Tutorial - Build a Complex UI with SwiftUI from Start to Finish
+https://youtu.be/c37lKqla0IA&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+
+Social Sign In Sign In with Apple in UIKit
+https://youtu.be/rfeiRdttWa0&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+
+Social Sing In Sign In with Apple SwiftUI Tutorial
+https://youtu.be/Sj-gJbb5x3Q&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1
+SwiftUI Example

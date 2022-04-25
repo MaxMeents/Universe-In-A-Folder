@@ -1,0 +1,43 @@
+
+A Working Theory Of Components by Elyse Holladay  CSSconf EU 2019
+https://youtu.be/RObdwvLLVvM&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Class 🥊Clash by Alex Tait  CSSconf EU 2019
+https://youtu.be/vJvgXPCVo30&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+CSS Logical Properties by Estefany Aguilar  CSSconf EU 2019
+https://youtu.be/cnwOfaE5GEk&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+CSSconf EU 2019 - Last of Type - Mood Film
+https://youtu.be/QFnXa2nud10&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+CSSconf EU 2019 Closing Keynote by Sareh Heidari
+https://youtu.be/S2iI52SfoKE&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+CSSconf EU 2019 Opening
+https://youtu.be/dle9t_DlTI4&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Design System Magic with CSS Houdini by Samuel Richard  CSSconf EU 2019
+https://youtu.be/1W79T2ibd5Y&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Hello Subgrid! – Rachel Andrew at CSSconf EU 2019
+https://youtu.be/vxOj7CaWiPU&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Improving Website Performance with CSS Containment by Manuel Rego  CSSconf EU 2019
+https://youtu.be/iqcO-5_KkJ4&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Let’s web dev like it’s 1999! by Ben Ilegbodu  CSSconf EU 2019
+https://youtu.be/TJxxzKoaLNE&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Modern Typographic Systems With Variable Fonts - Jason Pamental  CSSconf EU 2019
+https://youtu.be/0AsAjHPupKQ&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Using DevTools To Understand Modern CSS Layouts – Chen Hui Jing at CSSconf EU 2019
+https://youtu.be/ZRtzk0371tk&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Why Do We Call HTML Tags Tags – Andrés Cuervo at CSSconf EU 2019
+https://youtu.be/oWwJA1QLItA&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+
+Writing Tests For CSS Is Possible! Don’t Believe The Rumors - Gil Tayar  CSSconf EU 2019
+https://youtu.be/Dl_XMd_1F6E&list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17
+CSSconf EU 2019

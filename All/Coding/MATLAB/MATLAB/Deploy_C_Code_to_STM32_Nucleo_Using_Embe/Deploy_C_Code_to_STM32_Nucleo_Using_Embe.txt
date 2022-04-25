@@ -1,0 +1,10 @@
+
+Deploy C Code to STM32 Nucleo Using Embedded Coder Algorithm Export Demonstration
+https://youtu.be/LAcnV_5GruY&list=PLn8PRpmsu08ozM3WPN_VuoZQn6uzOrB9p
+
+Deploy C Code to STM32 Nucleo Using Embedded Coder Overview of Workflows
+https://youtu.be/sO6rUZ9oK28&list=PLn8PRpmsu08ozM3WPN_VuoZQn6uzOrB9p
+
+Deploy C Code to STM32 Nucleo Using Embedded Coder Rapid Prototyping Demonstration
+https://youtu.be/8qaMSocJj0Y&list=PLn8PRpmsu08ozM3WPN_VuoZQn6uzOrB9p
+Deploy C Code to STM32 Nucleo Using Embedded Coder

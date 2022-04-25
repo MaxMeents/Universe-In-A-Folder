@@ -1,0 +1,10 @@
+
+HardwareSoftware Co-Design Workflow  Developing Radio Applications for RFSoC, Part 1
+https://youtu.be/y6TATGhUp8M&list=PLn8PRpmsu08qnuOlFZTVKLRir_uEIZKJX
+
+HardwareSoftware Partitioning  Developing Radio Applications for RFSoC, Part 3
+https://youtu.be/6yQQx9Eg_cU&list=PLn8PRpmsu08qnuOlFZTVKLRir_uEIZKJX
+
+System Specification and Design  Developing Radio Applications for RFSoC, Part 2
+https://youtu.be/jIY8fPCATAU&list=PLn8PRpmsu08qnuOlFZTVKLRir_uEIZKJX
+Developing Radio Applications for RFSoC with MATLAB & Simulink

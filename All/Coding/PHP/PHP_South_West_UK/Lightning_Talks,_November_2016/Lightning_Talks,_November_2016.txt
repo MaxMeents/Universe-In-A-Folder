@@ -1,0 +1,25 @@
+
+A Junior’s Guide to Changing The World - Lucia Velasco - PHPSW Lightning Talks, November 2016
+https://youtu.be/2ZXyVnWjrG8&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+Bringing Functional PHP into the Fold - Tom Harding - PHPSW Lightning Talks, November 2016
+https://youtu.be/Sn8uTpySGWA&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+How pen testing helped me as a Developer - Paul Marks - PHPSW Lightning Talks, November 2016
+https://youtu.be/PP16E4nMoEk&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+Memcache - Adrian Groves - PHPSW Lightning Talks, November 2016
+https://youtu.be/0QMEjw89DIc&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+Mental Health - Tom Robertshaw - PHPSW Lightning Talks, November 2016
+https://youtu.be/0TOzH7DH_nY&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+Mitigating DDOS Attacks With Terraform - Andy Gale - PHPSW Lightning Talks, November 2016
+https://youtu.be/Y0Rvg8A9UuU&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+Modern Drupal Development with Composer - Oliver Davies - PHPSW Lightning Talks, November 2016
+https://youtu.be/Yi_FPI3xHwc&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+
+Nigel talks CRAP for a bit - Nigel Dunn - PHPSW Lightning Talks, November 2016
+https://youtu.be/NPIr2udwjec&list=PLrEpsyNSHj01tN84y90RJuzwr2jzrxA4F
+Lightning Talks, November 2016

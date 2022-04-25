@@ -1,0 +1,76 @@
+
+Aspettando PostgreSQL 9.1
+https://youtu.be/hsIEX2PBvJo
+
+Beyond Python Enhanced Generators
+https://youtu.be/Sd4W0DhJ29A
+
+Building a hosting platform with Python
+https://youtu.be/hAqtC_c2x1s
+
+Building Scalable Web Apps
+https://youtu.be/cubJ4tYVrNc
+
+Combining Embedded and Interactive Python in a Debugger  A Case Study
+https://youtu.be/e0QaqrVbNMY
+
+Come costruire un'azienda distribuita con Python
+https://youtu.be/3A7z75PSIuY
+
+Creare videogames con Panda3D
+https://youtu.be/1dzK_k6k36U
+
+Creating videogames with Panda3D
+https://youtu.be/-3fTd53VNHw
+
+Data Driven Cache Invalidation
+https://youtu.be/QCXwsQp8rmM
+
+Debugging and profiling techniques
+https://youtu.be/J29uIkdmHs8
+
+Dependency injection is your friend
+https://youtu.be/PSeSWINJ5YM
+
+Deploying web applications to the cloud with Python
+https://youtu.be/BTpjJkTXFSQ
+
+Derivatives Analytics with Python & Numpy
+https://youtu.be/NXcWrxzq5KI
+
+Developing a Cad application as an hobby. My exciting hobby is now my job
+https://youtu.be/OqpkB1wv5bs
+
+Developing Desktop and mobile apps with PySide and QML
+https://youtu.be/aoXee8Y-3w0
+
+Distributing Python programs through PyInstaller
+https://youtu.be/MRjpZCw8Fg8
+
+Diversity as a Dependency
+https://youtu.be/PLYI46Ou-wI
+
+Django productivity tips and tricks
+https://youtu.be/bvdhd5kl-nw
+
+Django trucchi per migliorare la produttività
+https://youtu.be/TuCYD1qnNcw
+
+Exploit your GPU power with PyCUDA (and friends)
+https://youtu.be/67Nk4a-izKM
+
+Flow-based programming made easy with PyF 2.0
+https://youtu.be/w_zl52L6CU4
+
+Generazione di codice in Python  dal documento al codice C++ passando per la modellizzazione UML.
+https://youtu.be/jfBGt_g0Z4M
+
+Getting ready for PostgreSQL 9.1
+https://youtu.be/71i5FlW30s0
+
+Healthcare process management in Python a use case
+https://youtu.be/MsmmrfkLuvY
+
+High-performance computing on gamer PCs
+https://youtu.be/TkBkGGPY2P0
+Videos 1626-1650

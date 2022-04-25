@@ -1,0 +1,76 @@
+
+Automating Programs with Controls #1 Intro to Controls in AutoHotkey
+https://youtu.be/N511ag3dr0w&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 03 Getting and Setting Text in Edit Fields
+
+
+Automating Programs with Controls in AutoHotkey 04 ControlFocus, ControlGet, etc.
+https://youtu.be/jS6MAMXIg_o&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 05 Get EditControls and Radio Checkboxes
+https://youtu.be/ZsXz1k1RRzs&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 06 ControlGet Lists and ComboBox
+https://youtu.be/m2GNKwiCa3Y&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 07 ControlClick
+https://youtu.be/95u1dCkgoek&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 08 ControlMove
+https://youtu.be/7UepsusozrM&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 09 Control Check  Control UnCheck
+https://youtu.be/tLoo707k0yI&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Automating Programs with Controls in AutoHotkey 10 Enable, Disable, Hide and Show Controls
+
+
+Automating Programs with Controls in AutoHotkey 11 Adding, Deleting, Showing & Hiding on Lists
+
+
+Easily pushing delimited data into a ListView in AutoHotkey
+https://youtu.be/XdHqE6v4Ov8&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Get file paths in Explorer with AutoHotkey
+https://youtu.be/xHq5HH90n0A&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Getting Public and Private IP Address with AutoHotkey
+https://youtu.be/EI8Sjwfh-rI&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Grabbing text to the left or right of a character with AutoHotkey
+https://youtu.be/5Fb8LupcG4k&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+How Hotkeys can be tied to only work in a given setting
+https://youtu.be/_9g_U7JRQJk&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+How to Automate Programs with Controls in AutoHotkey 02 SimpleSpy Intro
+https://youtu.be/HTP2z5rkeXQ&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+How to automate pulling WordPress Statistics with AutoHotkey
+https://youtu.be/tqYchH8vsXg&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+How to easily adjust computer volume with mouse with this AutoHotkey script
+https://youtu.be/XwzqF13kSVI&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+How to easily create a Resizable GUI in AutoHotkey
+https://youtu.be/vYawLR5TtJA&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+How to easily run multiple Google searches on different sites at one time
+https://youtu.be/kntOZKvisWw&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Maestrith & I were playing with XML, Treeviews, &Objects in AutoHotkey
+https://youtu.be/Mdbg67_a4JU&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Quickly edit, reload, etc, your running AutoHotkey scripts (Even those wo a system tray icon)
+
+
+Quickly Get Rows & Headers from Large files with AutoHotkey
+https://youtu.be/H_qaWR_10uk&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Quickly share code  Text with AHK Pastbin
+https://youtu.be/Dgi44702l2E&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+
+Suspend,Hibernate, and Shutdown Windows with AutoHotkey
+https://youtu.be/xjtjeeUeyrI&list=PL3JprvrxlW260g24XQMsuvRI8wB1SX0t4
+Videos 1-25

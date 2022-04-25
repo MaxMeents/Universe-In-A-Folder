@@ -1,0 +1,76 @@
+
+4.9 Mobile Features & Foliage Improvements  Feature Highlight  Unreal Engine
+https://youtu.be/mHVvJevQeOg
+
+4.9 Preview & Aug #ue4jam Winners 2015  Feature Highlight  Unreal Engine
+https://youtu.be/s4xMPxG8Z6U
+
+Aug #ue4jam Entries 2015  Project Spotlight  Unreal Engine
+https://youtu.be/J7jp5LjM83A
+
+Blade Sword of Elysion iOS & Android North America Release  Project Spotlight  Unreal Engine
+https://youtu.be/rUtuHc2XRJQ
+
+Controlling Effects with Blueprints  Live Training  Unreal Engine
+https://youtu.be/CGCKmSUjFlA
+
+Creating a Match 3 Game  02  Live Training  Unreal Engine
+https://youtu.be/RXzg6MFXl6s
+
+Creating a Match 3 Game  03  Live Training  Unreal Engine
+https://youtu.be/AomqwJy57vs
+
+Drag & Drop with UMG  03  Live Training  Unreal Engine
+https://youtu.be/uUT7Oaj8_tc
+
+Faceware Live & UE4 Kite Demo  SIGGRAPH 2015 Event Coverage  Unreal Engine
+https://youtu.be/aJRO-MAWx0s
+
+Gamescom 2015 Sizzle Reel  Unreal Engine
+https://youtu.be/Ymbb8EPDLRo
+
+Infiltrator Released & Sept #ue4jam Winners 2015  News  Unreal Engine
+https://youtu.be/X54cdgWNupk
+
+Intro to Blueprints Adding Components to a Class BP  05  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/5YooEu-ktww
+
+Intro to Blueprints Creating a Class BP  04  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/D4wJ_YO8ZWM
+
+Intro to Blueprints Toggling a Light with the Level BP  03  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/gHdwOiR0D0A
+
+Physics-Based Simulations & Effects  Live Training  Unreal Engine
+https://youtu.be/-lFKZRX1K_0
+
+Rising Thunder by Radiant Entertainment  Developer Interview  Unreal Engine
+https://youtu.be/BW8o3TXGudU
+
+Secrets to Inifinity Blade's Success & Sept #ue4jam Kickoff  Feature Highlight  Unreal Engine
+https://youtu.be/3YkKyhtfKtY
+
+Sense of Presence What is Virtual Reality  News  Unreal Engine
+https://youtu.be/Z3EIpAcGWZA
+
+Sept #ue4jam Entries 2015  Project Spotlight  Unreal Engine
+https://youtu.be/xfsPoDBNQFU
+
+Setting Up VR Motion Controllers  Live Training  Unreal Engine
+https://youtu.be/6ALnsdQnkVQ
+
+Showdown Cinematic VR Demo by Epic Games  Unreal Engine
+https://youtu.be/1O5knLWY8zA
+
+Showdown Released  News  Unreal Engine
+https://youtu.be/W8bREFpp2o8
+
+Submerged by Uppercut Games  Developer Interview  Unreal Engine
+https://youtu.be/D-i55mbR62c
+
+The Visual Storytelling of Hellblade  Project Spotlight  Unreal Engine
+https://youtu.be/55cq0wndP3k
+
+VR Networking & 3D Menus  Live Training  Unreal Engine
+https://youtu.be/QRXMi2NpvwI
+Videos 1551-1575

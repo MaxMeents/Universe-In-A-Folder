@@ -1,0 +1,76 @@
+
+Adam Forsyth - Python Not Recommended
+https://youtu.be/JBItMmAvlN4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Anders Lehmann - How to GIS with Python
+https://youtu.be/Qxg1n8as06s&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Andreas Kaiser - Standing on the Shoulders of Giants The Kotti Web Application Framework
+https://youtu.be/n8PTMoKHfkk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Anton Caceres - Better asynchronous code with Tornado and Python 3
+https://youtu.be/NKPHP5p0WXA&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Ben Nuttall - Physical computing with Python and Raspberry Pi
+https://youtu.be/X-85QhLeTHI&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Brianna Laugher - The realities of open source testing lessons learned from “Adopt pytest month”
+https://youtu.be/byctbj2AKWc&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Christian Trebing - Building a multi-purpose platform for bulk data using sqlalchemy
+https://youtu.be/iiclNoOd4ls&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Dmitry Trofimov - Can Rust make Python shine
+https://youtu.be/weAxEoEfl0M&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Dougal Matthews - MkDocs Documenting projects with Markdown
+https://youtu.be/pzoOQg6BNG4&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Francesc Alted - New Trends In Storing Large Data Silos With Python
+https://youtu.be/-AlKImuKTcs&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Francisco Fernández Castaño - Knowing your garbage collector
+https://youtu.be/sSMPiQZTyrI&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Lynn Root - Diversity We are not done yet
+https://youtu.be/xWLFiKfoOTA&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Michael Foord - To the Clouds Why you should deploy to the cloud even if you don't want to
+https://youtu.be/lkASgQg8vWQ&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Mikel Larreategi - Python gure etxean (r)eboluzioa atzo, gaur eta bihar
+https://youtu.be/cFXvEZr7oFI&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Nazzaro - Image recognition and camera positioning with OpenCV. A tourist guide application.
+https://youtu.be/zGVl9S5Ylpk&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Núria PujolIgnasi  Fosch - What dojos are and how we run them at pyBCN
+https://youtu.be/Y0_QFkw8IdU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Roberto Polli - Scaling MySQL with Python
+https://youtu.be/p4mCCNgyMWY&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Stephan Erb - Release Management with Devpi
+https://youtu.be/re7dtwYy5sc&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Teodor Dima - Use Python to process 12mil events per minute and still keep it simple (Talk)
+https://youtu.be/tw1IaPc6Mxg&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Thomas Ballinger - Terminal Whispering
+https://youtu.be/qOoKR8qEglU&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Using Scikit-Learn's interface for turning Spaghetti Data Science into Maintainable Software
+https://youtu.be/LhtKkygNuNc&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Waits - Incorporando administrado repositorios de información para generar documentación on-demand
+https://youtu.be/Zhd1pRQKoNE&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Xavier Fernandez - PIP Internals
+https://youtu.be/nhwwwV8qlKA&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Yamila Moreno - Learnt lessons in a big Django Project
+https://youtu.be/5hULMNzKgJg&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+
+Yamila Moreno - Lecciones aprendidas en un proyecto grande de Django
+https://youtu.be/8NIGl_xiCb8&list=PL8uoeex94UhGGUH0mFb-StlZ1WYGWiJfP
+Videos 26-50

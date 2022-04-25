@@ -1,0 +1,76 @@
+
+A11Y IRL (Accessibility in real life) - Theodore Vorillas - JSConf US 2019
+https://youtu.be/Mnj_VBPAC5w&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Advancing Focus - Glen Goodwin - JSConf US 2019
+https://youtu.be/TBaqTNAcgPI&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Building a distributed graph w Apollo Federation - Gerwin Brunner & David Krehling - JSConf US 2019
+https://youtu.be/1nCq_a6-4bg&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Building Open Source Communities - Tierney Cyren - JSConf US 2019
+https://youtu.be/9owWEY5pmJg&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Componentizing end-to-end tests - Nicholas Boll - JSConf US 2019
+https://youtu.be/Pv2YHXQOEJY&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Components as Data A Cross Platform GraphQL Component API - Luke Herrington - JSConf US 2019
+https://youtu.be/4cEJ-1rXqMg&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Composing music with composed functions - Adam Giese - JSConf US 2019
+https://youtu.be/PTbbqsR9twA&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Creating an AI Musician with JavaScript - Thomas Drach - JSConf US 2019
+https://youtu.be/sS9wNOrw5EU&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Creating Beautiful LED Art with JavaScript - Bryan Hughes - JSConf US 2019
+https://youtu.be/GqsdiMc49yM&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+CSS Algorithms - Lara Schenck - JSConf US 2019
+https://youtu.be/panKf9hzUfQ&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Decoupling Applications from Architectures - Jeff Hoffer - JSConf US 2019
+https://youtu.be/qKtHo3WOkW8&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Empathy is not enough - the power of engaging hard-to-reach users - Ariba Jahan - JSConf US 2019
+https://youtu.be/1G5aSLWSRGQ&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Evolving Chrome Extensions with Manifest V3 - Simeon Vincent - JSConf US 2019
+https://youtu.be/e_nEP--FOHE&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+JavaScript Off the Grid - Sophia Shoemaker - JSConf US 2019
+https://youtu.be/YFrCEbx1oW0&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Just go for it The story of dance-mat.js - Ramón Huidobro - JSConf US 2019
+https://youtu.be/EFJxP93s5Tg&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Make it Boring - Jeremy Wagner - JSConf US 2019
+https://youtu.be/OikwaVcdHG4&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Meet the Packets How audio travels into your browser - Sara Fecadu - JSConf US 2019
+https://youtu.be/x3sdyyzdeCY&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Staying confident without feeling like an imposter - David Whittaker - JSConf US 2019
+https://youtu.be/pp1_19Sslxw&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+TDCD Test Driven Component Development - Tim Doherty - JSConf US 2019
+https://youtu.be/SDoq37lXHEw&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+The (Full)stack Trace Understand Your App with Distributed Tracing - Will Klein - JSConf US 2019
+https://youtu.be/n4oIrB4_pCA&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Tour de Bikeshare Setting World Records with JavaScript - Kyle Hill - JSConf US 2019
+https://youtu.be/XSQX41RBspQ&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Trans Eye for the Cis Ally Ensuring an Inclusive Community - Julien Fitzpatrick - JSConf US 2019
+https://youtu.be/38r2nf152jk&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Web Norms of the World - Kat Kitay - JSConf US 2019
+https://youtu.be/iqoq7RAw9io&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+Yoga Pose - Andy Ruestow & Bryan Donovan - JSConf US 2019
+https://youtu.be/aGBnDhDI-Ds&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+
+¿Donde Esta La BiblioTech - Patricia Realini - JSConf US 2019
+https://youtu.be/JKNRWAg3LdY&list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x
+Videos 1-25

@@ -1,0 +1,70 @@
+
+Make an Action RPG in Godot 3.2 (BONUS  Camera Limits + Hurtbox Bug Fix)
+https://youtu.be/3Z7oV0X5vE8&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P10  Signals + Instancing Scenes in Code)
+https://youtu.be/1mI04gPhd3E&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P11  Melee attacks with Hurtboxes and Hitboxes)
+https://youtu.be/vDbEfmPcv-Q&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P12  Roll State)
+https://youtu.be/GWBt1LV9An0&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P13  Knockback and Enemy Bat)
+https://youtu.be/mm4D1ETclAc&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P14  Enemy Stats + Export Variables + Setget)
+https://youtu.be/srQz4Ix8rZM&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P15  Enemy Death Effect + Bug Fixes)
+https://youtu.be/HIPUqqUEbfA&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P16  Bat AI Start)
+https://youtu.be/R0XvL3_t840&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P17  Player Stats + Enemy Attack)
+https://youtu.be/1MO8DtnxSQs&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P18  Player Hearts UI)
+https://youtu.be/7A4EPIr-6Sc&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P19  Enemy Soft Collisions + Profiling)
+https://youtu.be/ffXx0dPejWY&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P2  delta + smooth movement)
+https://youtu.be/EQA9MJ5_TxU&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P20  Player Camera)
+https://youtu.be/MA7jSbXfS34&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P21  Bat Wander State)
+https://youtu.be/GAEeE_tVQEI&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P22  Sounds + Hit Flash Effect)
+https://youtu.be/Ot9M0TlxApU&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P3  collisions + move_and_slide)
+https://youtu.be/TQKXU7iSWUU&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P4  scenes + ysort node)
+https://youtu.be/UfKMgHbaGow&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P5  AnimationPlayer)
+https://youtu.be/wX145eoLFSM&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P6  Animation in all directions with an AnimationTree)
+https://youtu.be/Z9aR9IiiHT8&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P7  Background Grass and Dirt Path Autotile)
+https://youtu.be/v75IMavnRUs&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P8  Collisions with Autotiles)
+https://youtu.be/RPgTlxb7Bno&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2 (P9  Attacking Animation + State Machines)
+https://youtu.be/0nd1zNiy0C4&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+
+Make an Action RPG in Godot 3.2
+https://youtu.be/mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
+Godot Action RPG Series

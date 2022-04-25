@@ -1,0 +1,76 @@
+
+Building our Neural Network - Deep Learning and Neural Networks with Python and Pytorch p.3
+https://youtu.be/ixathu7U-LQ
+
+Cloud GPUs Tutorial (comparing & using)
+https://youtu.be/qWGgK4IrH-s
+
+Cloud vs Local GPU Hosting (what to use and when)
+https://youtu.be/62keA5pdykM
+
+Controlling the Car and getting Camera Sensor Data - Self-driving cars with Carla and Python p.2
+https://youtu.be/2hM44nr7Wms
+
+Creating A Reinforcement Learning (RL) Environment - Reinforcement Learning p.4
+https://youtu.be/G92TF4xYQcU
+
+Data - Deep Learning and Neural Networks with Python and Pytorch p.2
+https://youtu.be/i2yPxY2rOzs
+
+Deep Q Learning w DQN - Reinforcement Learning p.5
+https://youtu.be/t3fbETsIBCY
+
+Elon Musk TTS Neural Network...a work in progress.
+https://youtu.be/dI9M6JZR1lM
+
+Fake Voice Text to Speech Deep Learning ft. Elon Musk, Trump, Obama, and Joe Rogan
+https://youtu.be/6bFN2YkN6bo
+
+For Loops - JavaScript Programming Basics p.6
+https://youtu.be/ojyOVRAPT3Y
+
+Introduction - Deep Learning and Neural Networks with Python and Pytorch p.1
+https://youtu.be/BzcBsTou0C0
+
+Jetson Nano review and Object Detection ft. TensorRT
+https://youtu.be/GPtGYfCV1hY
+
+Longer-term model results - Self-driving cars with Carla and Python p.6
+https://youtu.be/6pEyGbCMl4U
+
+Members only bug.
+https://youtu.be/LwNPWNCA7ZI
+
+My Biggest Challenge With Programming (Q&A #11)
+https://youtu.be/AOeRbuwCd-Y
+
+Oculus Rift S Review
+https://youtu.be/dV8b-Rw2BW8
+
+Programming Autonomous self-driving cars with Carla and Python
+https://youtu.be/J1F32aVSYaU
+
+Q Learning Algorithm and Agent  - Reinforcement Learning p.2
+https://youtu.be/Gq1Azv_B4-4
+
+Q Learning IntroTable - Reinforcement Learning p.1
+https://youtu.be/yMk_XtIEzH8
+
+Q-Learning Agent Analysis - Reinforcement Learning p.3
+https://youtu.be/CBTbifYx6a8
+
+Reinforcement Learning Agent - Self-driving cars with Carla and Python p.4
+https://youtu.be/hWLurYddo88
+
+Reinforcement Learning Environment for Car Agent - Self-driving cars with Carla and Python p.3
+https://youtu.be/PRsp5p1l7DI
+
+Running our Reinforcement Learning Agent - Self-driving cars with Carla and Python p.5
+https://youtu.be/MynOPIJi4VY
+
+Training & Testing Deep reinforcement learning (DQN) Agent - Reinforcement Learning p.6
+https://youtu.be/qfovbG84EBg
+
+Why I use a Standing Desk
+https://youtu.be/rTyEMsD-NNM
+Videos 76-100

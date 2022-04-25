@@ -1,0 +1,10 @@
+
+#1 Introduction
+https://youtu.be/wvb8y8iZHrg&list=PLDMXqpbtInQikm3NRTXWzB-MXPXZUhaZa
+
+#2 MVC Architecture
+https://youtu.be/QFyYJN3hFXY&list=PLDMXqpbtInQikm3NRTXWzB-MXPXZUhaZa
+
+#3 MVVM Architecture
+https://youtu.be/2w62zAf-5Oc&list=PLDMXqpbtInQikm3NRTXWzB-MXPXZUhaZa
+MVVM for iOS

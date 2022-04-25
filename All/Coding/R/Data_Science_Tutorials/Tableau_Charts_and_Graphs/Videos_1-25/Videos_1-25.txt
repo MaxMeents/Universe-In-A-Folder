@@ -1,0 +1,76 @@
+
+BUMP CHART IN TABLEAU - Tableau tutorials
+https://youtu.be/jqz36ihyK1w&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Creating and Customizing Tableau Line Charts
+https://youtu.be/AJEm1GPvYYM&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+funnel chart in tableau - Tableau Tutorials
+https://youtu.be/6J59iy2XkgI&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Automate Text Search in Tableau using Parameters  Tableau Tips and Tricks
+https://youtu.be/6xv5mSm_eGQ&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Change Tableau Line Chart Date Levels Dynamically using Date Function
+https://youtu.be/HSPRXZvWiug&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Create a Bar chart with rounded edges in tableau  Tableau Charting - Tableau Tutorials
+https://youtu.be/CMbxFyT4Vsc&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Create a Bar Chart within Bar Chart Tableau  Tableau Charts - Tableau Tutorials
+https://youtu.be/XRRWXoEL3G8&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Create a Bar in Bar Chart using Dimensions  Tableau Charting - Tableau Tutorials
+https://youtu.be/PalfIOextIw&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Create a Total Trend Line on Tableau Line Chart Along with other Categories Trend Lines
+https://youtu.be/DH0TjcmwWek&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to create No Axis Bar chart in Tableau   Tableau Charts - Tableau Tutorials
+https://youtu.be/7TV9j2no5Qk&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to create percent to total calculation using LOD in Tableau  Tableau Tips and Tricks
+https://youtu.be/tt2VbRNOHGk&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Remove Duplicate Values in Tableau
+https://youtu.be/JcOjfkK5e28&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Search Text Values using Tableau Parameters and Filtering The Visualization
+https://youtu.be/gbsGYGzzf8g&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+How to Search values in Multiple Dimensions and Filter the visualization in Tableau Tips and Tricks
+https://youtu.be/xkq0-iU48t4&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Lolipop Chart in Tableau   Tableau Charts - Tableau Tutorials
+https://youtu.be/0jsKqb1qeWw&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+PIE CHART IN TABLEAU - Tableau Tutorials
+https://youtu.be/xyxzNpMRR0c&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau - Heat Map
+https://youtu.be/RnJuW8Y0Ogc&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau - Waterfall Chart
+https://youtu.be/QUbCYAowewY&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau Bar Chart  4 ways to create tableau bar chart
+https://youtu.be/gu3VGgCNRR4&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau Business Dashboard Design Tutorial
+https://youtu.be/MEZRk4-PuTI&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau Business KPI Dashboard Design Project for Interactive Dashboard Development
+https://youtu.be/AGUqtl5vaNg&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau Dynamic Parameter for Selecting Most Current Date
+https://youtu.be/MHdUTYlb0Y4&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau KPI Dashbaord Design for Project Management  Tableau Interactive Dashboard for Beginners
+https://youtu.be/DIgE5T-ioW8&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Tableau KPI dashboard Design for Business Dashboards
+https://youtu.be/WT-8TLEXpF4&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+
+Waterfall chart in Tableau - Tableau Tutorials
+https://youtu.be/d3UvH51tKNw&list=PLH6mU1kedUy8b-hQlsp5ESOXqiMLVdTg1
+Videos 1-25

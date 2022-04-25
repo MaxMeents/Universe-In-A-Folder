@@ -1,0 +1,16 @@
+
+Understanding Wavelets, Part 1 What Are Wavelets
+https://youtu.be/QX1-xGVFqmw&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p
+
+Understanding Wavelets, Part 2 Types of Wavelet Transforms
+https://youtu.be/F7Lg-nFYooU&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p
+
+Understanding Wavelets, Part 3 An Example Application of the Discrete Wavelet Transform
+https://youtu.be/-OhibnAXBEM&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p
+
+Understanding Wavelets, Part 4 An Example Application of Continuous Wavelet Transform
+https://youtu.be/GV34hKXDw_c&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p
+
+Understanding Wavelets, Part 5 Machine Learning and Deep Learning with Wavelet Scattering
+https://youtu.be/XyeZFo1d5aY&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p
+Understanding Wavelets

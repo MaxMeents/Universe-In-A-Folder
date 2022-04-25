@@ -1,0 +1,76 @@
+
+A Postmortem on the Ingen Incident - Hayley Denbraver - JSConf US 2019
+https://youtu.be/uZrISYAMKHY
+
+A WebAssembly Field Guide easily worth like 70 bottle caps  Flaki JSConf Korea 2019
+https://youtu.be/pDUhX4iY4aY
+
+Accessibility vs latest Web APIs. Can’t we just get along by Mauricio Palma  JSConf Budapest 2019
+https://youtu.be/OkovPZ1mVBI
+
+Back to the future of JS II Beyond what we can foresee  William Martins  JSConf Korea 2019
+https://youtu.be/45fQHUmjqZQ
+
+Bringing back dial-up the internet over SMS - Alexandra Sunderland - JSConf US 2019
+https://youtu.be/BspedNJNn_A
+
+Components as Data A Cross Platform GraphQL Component API - Luke Herrington - JSConf US 2019
+https://youtu.be/4cEJ-1rXqMg
+
+Congrats! You’re the first person to have a baby at your startup. Now what Wendy Gwo JSConf Korea
+https://youtu.be/j7CYDYhHluA
+
+Deliberate, Directed, Positive ACTION! - Peter Aitken - JSConf US 2019
+https://youtu.be/qo44tA2Q4k0
+
+Don't block the event loop!JavaScript Async for Effortless UXJaeseok KangJSConf Korea 2019(en sub)
+https://youtu.be/c7C8IcRqUUg
+
+Functional ProgrammingLearning by Application to Redux and Canvas Gyujin Cho JSConf Korea(en sub)
+https://youtu.be/qMUoHuMWZls
+
+How Typescript Can Power Design Systems  Isha Kasliwal  JSConf Korea 2019
+https://youtu.be/hbsIOHktvfo
+
+How we’re embracing functional programming to build a large SPA - Anton Abilov - JSConf US 2019
+https://youtu.be/vd5S_7Qm9WE
+
+Legendary Lambdas by Tejas Kumar  JSConf Budapest 2019
+https://youtu.be/RluWQ8Lfyg8
+
+Lessons from maintaining Mocha, an open source project  Jeonghoon Byun  JSConf Korea 2019(eng sub)
+https://youtu.be/Mbdl9OS7E3o
+
+Lifesaving AI and JavaScript  Jaeman An  JSConf Korea 2019(en sub)
+https://youtu.be/hEsFF4ElJ08
+
+Make Web Not War - Dominik Kundel - JSConf US 2019
+https://youtu.be/_XcsNhdz-kM
+
+Native Web Apps React, JS & WebAssembly to rewrite native apps - Florian Rival - JSConf US 2019
+https://youtu.be/lttAKhlKuyM
+
+Playing Pokemon Together With Node.js - Samuel Agnew - JSConf US 2019
+https://youtu.be/cUy43G-gcB4
+
+Strike a Pose - Gesture recognition in JavaScript w ML & Arduino - Charlie Gerard - JSConf US 2019
+https://youtu.be/HvtlRMpDbnQ
+
+Take on me, web browsers! by Eva Ferreira   JSConf Budapest 2019
+https://youtu.be/d4gSor3KyIw
+
+The Man who Sold the Amp How to Process Music with JS  Vitalii Bobrov  JSConf Korea 2019
+https://youtu.be/kuihryJh8fU
+
+Time is a Social Construct - Daniel Cousineau - JSConf US 2019
+https://youtu.be/EUzPpXhFmG8
+
+Weaving Tapestries of Code - Jen Luker - JSConf US 2019
+https://youtu.be/SbLVCtdLRMc
+
+What Tamagotchis can teach you about generators  Jenn Creighton  JSConf Korea 2019
+https://youtu.be/BONVAOgovHM
+
+“WTF does run mean” & other adventures in teaching others to code - Suzie Grange - JSConf US 2019
+https://youtu.be/4nQT9h3NSEk
+Videos 151-175

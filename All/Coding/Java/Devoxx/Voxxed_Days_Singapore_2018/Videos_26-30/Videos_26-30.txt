@@ -1,0 +1,16 @@
+
+Distributed Ledger - Voxxed Days Singapore 2018
+https://youtu.be/m3QIict0syM&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Kubernetes for the konfused, a strategy toolkit for normals - Voxxed Days Singapore 2018
+https://youtu.be/PCeuM9x0HWY&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Modernize application development with highly scalable architecture using Docker & Azure cloud
+https://youtu.be/M5mjJga1joM&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+Run your own IoT device in a snap - Voxxed Days Singapore 2018
+https://youtu.be/mJmaWcmrkl8&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+
+What we learned at Scaling from Startup to Unicorn - Voxxed Days Singapore 2018
+https://youtu.be/efLNhjCcMIs&list=PLRsbF2sD7JVpoFhaWvpgRg2dXUSJH6KQy
+Videos 26-30

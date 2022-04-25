@@ -1,0 +1,76 @@
+
+SwiftUI 2.0 Animated Tab Bar - Custom Shapes And Animations - SwiftUI Tutorials
+https://youtu.be/TJfI3-qdta8&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Animation Challenge - Add to Bag Animations - Complex Animations - SwiftUI Tutorials
+https://youtu.be/TTftmkW9N8s&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Animation Challenge - Animated Loading Screen - Box Animations - SwiftUI Tutorials
+https://youtu.be/htKMGheEXtY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Building Custom ScrollView With Content Offset Using View Builder - SwiftUI Tutorials
+https://youtu.be/MPIdZHMZd3E&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Challenge - Custom Time Picker - Android Style Circular Time Picker - SwiftUI Tutorials
+https://youtu.be/TTewssjh6z8&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Chat App Using Stream SDK - Chat App With Individual Channels - Part 1 - SwiftUI
+https://youtu.be/n5cL2TtF5Rc&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Chat App Using Stream SDK - Part 2 - Individual Channels For Chatting - SwiftUI Tutorial
+https://youtu.be/tPeYg3uvOPY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex App UI - Food Ordering App UI - Custom Tab Bar - Custom Menu - SwiftUI Tutorials
+https://youtu.be/bO7VTH5Q9hQ&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex Hero Animations - Custom PopUp's - Swipe Down To Dismiss - SwiftUI Tutorials
+https://youtu.be/MGwPeyB98ng&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex UI - Custom Slide Out Menu - Animation Challenge - Navigation Drawer - SwiftUI
+https://youtu.be/zC-bcBq8M10&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex UI - Spotify Redesign App UI - Side Tab Bar - SwiftUI Tutorials
+https://youtu.be/EVlbNP47ZXQ&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Animated Indicator For Page Tab View - Custom Animations - SwiftUI Tutorials
+https://youtu.be/uo8gj7RT3H8&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Loading Animation - Dribbble Ball Animation Drop Shadow Effect - SwiftUI Tutorial
+https://youtu.be/52Otx3xDGUo&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom ScrollView With Sticky Top Search Bar - Navigation Search Bar - SwiftUI Tutorials
+https://youtu.be/Iv-or6kTNIE&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Liquid Swipe Animation - Animation Challenge - SwiftUI Tutorials
+https://youtu.be/75hKctzSkwY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Login Page Integrated With Firebase Email Auth For macOS - Login Page UI - Mac Catalyst
+https://youtu.be/gLCF0su8CaM&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Marvel API - Search Bar With Combine - Pagination - Infinity ScrollView - JSON Parsing
+https://youtu.be/VBvphFzVQS4&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Material Design TextField - How to limit text In TextField - SwiftUI Tutorials
+https://youtu.be/Gp2rhMApiqA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Mobile Wallet Card Animation - Matched Geometry Effect - SwiftUI Tutorials
+https://youtu.be/y_zYvrJ_dkg&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Multiple Image Viewer - Pinch to Zoom - Drag to Dismiss - SwiftUI Tutorials
+https://youtu.be/XDH1KmI86b0&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Photo Editor App  SwiftUI View to Image  Adding Text Over the Image  SwiftUI Tutorial
+https://youtu.be/g-lJ2ODJD8E&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Push Notifications - Firebase Cloud Messaging - SwiftUI Tutorials
+https://youtu.be/3rRdXvXAsFs&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 URL Session Download Task With Document Interaction Controller - SwiftUI Tutorials
+https://youtu.be/OPLlRd54mnk&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Animation Challenge - Pulse Animation - NearBy People Pulse Ring Animation - SwiftUI 2021
+https://youtu.be/7Crm717QCSY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Custom Carousel Slider - Complex UI - Custom Shapes - SwiftUI Tutorials
+https://youtu.be/tlas2AE_Few&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+Videos 126-150

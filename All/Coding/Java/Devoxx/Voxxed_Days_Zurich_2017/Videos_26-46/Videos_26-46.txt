@@ -1,0 +1,64 @@
+
+Deep Dive into JUnit 5 by Sam Brannen
+https://youtu.be/CYEzf_C9e4s&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Diversity in Tech - Sombra González and Brigitte Hulliger
+https://youtu.be/LSAOcWYleLU&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Engineering You - Martin Thompson
+https://youtu.be/IxtFGTS8fGE&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Extracting knowledge from cryptocurrencies - Michele Spagnuolo
+https://youtu.be/9P04hm7tmgs&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Functional data structures in Java by Oleg Šelajev
+https://youtu.be/NWV5IrEg3c0&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+How to defend from an attacker armed with a mathematician - Antonio Sanso
+https://youtu.be/cM2bGzxkeQQ&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+I just hacked your app! - Marcos Placona
+https://youtu.be/w0Eun8yu45c&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+I'm offline, cool! What now by Ola Gasidlo
+https://youtu.be/KZ6AonD9oYU&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+I'm Offline, cool. What now - Ola Gasidlo
+https://youtu.be/RiPI75Dino0&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Java 9 Is Coming! - Nicolai Parlog
+https://youtu.be/bZu6MGefHU0&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Java Libraries You Can’t Afford to Miss by Andres Almiray
+https://youtu.be/GJW8s34_9eY&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Machine Learning for Developers - Danilo Poccia
+https://youtu.be/CsyDTvtMtAU&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Machine Learning for Developers by Danilo Poccia
+https://youtu.be/Q6XJazrZw74&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Meet the Voxxed Days Zurich Organisers
+https://youtu.be/6gnrNlwCeFI&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+On @annotations - liberate yourselves from demons by Jarosław Ratajski
+https://youtu.be/-6zT60l5hDc&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Progressive Enhancement and CSS - Ire Aderinokun
+https://youtu.be/aIKNZo5E9xI&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Real-World Enterprise REST API Design - Laurent Bovet
+https://youtu.be/5LC1K4DsbRs&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Sam Brannen and Nicolai Parlog on JUnit 5
+https://youtu.be/XjaHlGodmhE&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Swiss Transport in Real Time Tribulations in the Big Data Stack by Alexandre masselot
+https://youtu.be/yTigmCL68uw&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Transactions and Concurrency Control Patterns by Vlad Mihalcea
+https://youtu.be/onYjxRcToto&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+
+Welcome keynote by Federico Yankelevich and Mario Fusco
+https://youtu.be/lWOKaceQ1uw&list=PLRsbF2sD7JVp2CcMjJqCAzz810iPcOw4t
+Videos 26-46

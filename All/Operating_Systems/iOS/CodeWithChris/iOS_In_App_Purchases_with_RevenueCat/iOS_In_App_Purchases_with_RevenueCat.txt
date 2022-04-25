@@ -1,0 +1,25 @@
+
+Add In App Purchases in 4 Easy Steps with RevenueCat (SwiftUI  iOS)
+https://youtu.be/EA4jElqC4mU&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+Building the User Interface (Lesson 4)
+https://youtu.be/Vp4yos2LALc&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+Configuring In App Purchases on App Store Connect (Lesson 2)
+https://youtu.be/Nre-4PfC7OE&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+Display In-App Purchases from RevenueCat (Lesson 5)
+https://youtu.be/Bmzbdt8ldMQ&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+In App Purchases Tutorial - Auto Renewable Subscriptions (SwiftUI, iOS)
+https://youtu.be/EBasaCcHhUs&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+iOS In App Purchases with RevenueCat (Lesson 1)
+https://youtu.be/Ecxucvej1Dc&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+Products, Offers, and Entitlements in RevenueCat (Lesson 3)
+https://youtu.be/l_Cm906w640&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+
+Test Your In-App Purchases (Lesson 6)
+https://youtu.be/ijJtYKdINzk&list=PLMRqhzcHGw1aMOUiH5tq-rlyvpYHwGluV
+iOS In App Purchases with RevenueCat

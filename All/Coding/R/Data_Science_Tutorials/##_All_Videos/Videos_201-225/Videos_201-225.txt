@@ -1,0 +1,76 @@
+
+1 Python Data Analysis Project For Beginners on Restaurant Data with Pandas and Seaborn Library
+https://youtu.be/nrLLw5nL_ck
+
+Changing Power BI Date Slicer Look and Feel from Range to List or Dropdown
+https://youtu.be/3qVSKY-Gi74
+
+Creating Bowtie Chart in Power BI
+https://youtu.be/mO9CbqJ2BCc
+
+Finding Missing Values in Python Pandas Dataset each row or column or cell
+https://youtu.be/cqh3gM1PwUw
+
+How to change Power BI Date Format to US or UK date format
+https://youtu.be/l_9a_GlBuow
+
+How to Create and Interpret Power BI Histogram
+https://youtu.be/K0vNt_NI1j0
+
+How to Create and Interpret Power BI Sunburst Chart
+https://youtu.be/m8voZUVyy4Q
+
+How to Create Bullet Chart in Power BI
+https://youtu.be/oO5AiRR7XLA
+
+How to Create Power BI Box and Whisker Statistical Plot
+https://youtu.be/mFW2N-6o22k
+
+How to get count of columns in pandas dataset that are not having missing values or null values
+https://youtu.be/GLAk9WlEyyI
+
+How to view the list of installed Python Packages with version in Jupyter Notebook using PIP Command
+https://youtu.be/XmS2t8NOio8
+
+Improving Power BI Buttons Look and Feel to make them more interactive
+https://youtu.be/45QHf8Znqbc
+
+Power BI Bar chart for Comparison
+https://youtu.be/Y4goSyEDhA0
+
+Power BI Button Overview   Page Navigation Button
+https://youtu.be/R__tM6fFisQ
+
+Power BI Buttons to Jump on any Page within report
+https://youtu.be/m_mLOSw-aKM
+
+Power BI Clear All Filters  Slicers Bookmark Action with Button
+https://youtu.be/SrHDiN67594
+
+Power BI CountRows Function Tutorial to Count Total Rows in Table
+https://youtu.be/FnECpj_AhyY
+
+Power BI CountX and Filter Function Tutorial to Conditionally Count the Rows
+https://youtu.be/UimVMDdBvFs
+
+Power BI DAX Function Count tutorial for Counting Column Values
+https://youtu.be/ZXoSz6PmQtE
+
+Power BI QnA Button for Dynamic or Ad hoc queries
+https://youtu.be/AGIPfWUwWNA
+
+Power BI Tutorial on Date Formatting and adding Formatted Date to Slicer
+https://youtu.be/RE3OHeI9wRU
+
+Python Pandas book For Finding Missing Values in a Dataset - 25 Recipes
+https://youtu.be/hk9LZLHQCQc
+
+Tableau Business KPI Dashboard Design Project for Interactive Dashboard Development
+https://youtu.be/AGUqtl5vaNg
+
+Tableau Dashboard Design for Interactive SuperStore Sales Data Analysis Project Template
+https://youtu.be/b43xqk9hq1w
+
+Using Custom Image on Power BI Button  Applying Image on Power BI Button
+https://youtu.be/JJ0NvVkuGcs
+Videos 201-225

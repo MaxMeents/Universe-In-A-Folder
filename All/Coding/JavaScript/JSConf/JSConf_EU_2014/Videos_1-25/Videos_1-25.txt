@@ -1,0 +1,76 @@
+
+Carter Rabasa A Community of People, Not Projects  JSConf EU 2014
+https://youtu.be/guC2guiPGRc&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Dominikus Baur Web-based data visualization on mobile devices  JSConf EU 2014
+https://youtu.be/X2ZlDrx6dAw&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Frederik Braun We're struggling to keep up  JSConf EU 2014
+https://youtu.be/mj-U9FlbAl0&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Glen Maddern GIFs vs Web Components
+https://youtu.be/i7mrZ_JsA8A&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Hunter Loftis We Will All Be Game Programmers  JSConf EU 2014
+https://youtu.be/QX0eauXBKwc&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Iliyan Peychev HTTP 2.0 and QUIC - protocols of the (near) future  JSConf EU 2014
+https://youtu.be/qyexqwG6fGI&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Impressions of JSConf EU 2014
+https://youtu.be/isrOs-ieMGI&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Jake Archibald The ServiceWorker is coming, look busy  JSConf EU 2014
+https://youtu.be/SmZ9XcTpMS4&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Jan Jongboom Abusing phones to make the internet of things  JSConf EU 2014
+https://youtu.be/Uy062kp-LM4&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Jan Monschke Using the web for music production and for live performances  JSConf EU 2014
+https://youtu.be/cqtBpCqgOgM&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Jaswanth Sreeram Parallel JavaScript  JSConf EU 2014
+https://youtu.be/Ls27mCiYsQo&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Lena Reinhard This is bigger than us Building a future for Open Source  JSConf EU 2014
+https://youtu.be/-thLNvxFUu4&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Lloyd Watkin You've played with realtime, let's do it properly...  JSConf EU 2014
+https://youtu.be/DRz5T3kcygM&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Marcy Sutton JavaScript for Everybody  JSConf EU 2014
+https://youtu.be/04DOp1F9Od4&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Mathias Buus Madsen Javascript... Torrents... and Mad Science!
+https://youtu.be/BTCsSwCpGP8&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Mathias Bynens JavaScript ♥ Unicode
+https://youtu.be/zi0w7J7MCrk&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Mathieu Henri Monster Audio-Visual demos in a TCP packet  JSConf EU 2014
+https://youtu.be/8aYVH2j0kAU&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Michele Guido It Takes a Village to Make a Programmer  JSConf EU 2014
+https://youtu.be/FHNrw7aiKOE&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Rosie Campbell Designing for displays that don't exist yet  JSConf EU 2014
+https://youtu.be/QAha1prc_pU&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Sebastian Markbage Minimal API Surface Area  JSConf EU 2014
+https://youtu.be/4anAwXYqLG8&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Sergii Iefremov Runtime.JS V8 JavaScript Kernel  JSConf EU 2014
+https://youtu.be/nPl0zlAI3MY&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Shirmung Bielefeld ==  ===  ...#@^%  JSConf EU
+https://youtu.be/qGyqzN0bjhc&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Tim Messerschmidt Supercharging Node with Kraken  JSConf EU 2014
+https://youtu.be/gKebfQH8aXU&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+Tim Taubert Keeping secrets with JavaScript  JSConf EU 2014
+https://youtu.be/yf4m9LdO1zI&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+
+What the heck is the event loop anyway  Philip Roberts  JSConf EU
+https://youtu.be/8aGhZQkoFbQ&list=PL37ZVnwpeshGPw2RfUGNQbPsU_WGpi05J
+Videos 1-25

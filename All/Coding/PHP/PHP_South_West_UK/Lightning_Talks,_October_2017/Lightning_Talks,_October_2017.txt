@@ -1,0 +1,16 @@
+
+Action-Domain-Responder- Refining MVC  - Nigel Dunn - PHPSW Lightning Talks, October 2017
+https://youtu.be/GGMxzc8tpdY&list=PLrEpsyNSHj006QfZp7mwYAmhUdmlJEtci
+
+Code Like It's 1995 - Kat Zien - PHPSW Lightning Talks, October 2017
+https://youtu.be/1BlUe2gRG_I&list=PLrEpsyNSHj006QfZp7mwYAmhUdmlJEtci
+
+Don't Forget To Unit Test Your CSS! - Jonathan Jefferies - PHPSW Lightning Talks, October 2017
+https://youtu.be/erORge4uz0U&list=PLrEpsyNSHj006QfZp7mwYAmhUdmlJEtci
+
+How to put your Docker image on a diet - Peter Fisher - PHPSW Lightning Talks, October 2017
+https://youtu.be/uiABt9axPNo&list=PLrEpsyNSHj006QfZp7mwYAmhUdmlJEtci
+
+The Depth of Security  - Michael Bush - PHPSW Lightning Talks, October 2017
+https://youtu.be/N00HdAEM-Xw&list=PLrEpsyNSHj006QfZp7mwYAmhUdmlJEtci
+Lightning Talks, October 2017

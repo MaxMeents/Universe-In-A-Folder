@@ -1,0 +1,19 @@
+
+AutoHotkey Webinar 102016  Hour 1-COM object & Deep dive into Excel and AutoHotkey
+https://youtu.be/GFFCfLjQ15Y&list=PL3JprvrxlW24bjku5L18SqmpZj1I0hwl1
+
+AutoHotkey Webinar 102016  Hour 2- COM & Excel Q&A
+https://youtu.be/yw2hFIZk_5Y&list=PL3JprvrxlW24bjku5L18SqmpZj1I0hwl1
+
+Dive deep into COM & AutoHotkey with Tank, TABNation & the Automator
+https://youtu.be/Jvttk5EpJaI&list=PL3JprvrxlW24bjku5L18SqmpZj1I0hwl1
+
+How to use MS Word macro recorder to write AutoHotkey code
+https://youtu.be/0Nxhs6zmp2o&list=PL3JprvrxlW24bjku5L18SqmpZj1I0hwl1
+
+Iterating over objects in Selenium vs COM objects
+https://youtu.be/soGZIYUal1o&list=PL3JprvrxlW24bjku5L18SqmpZj1I0hwl1
+
+Relationship between COM objects and DLLs
+https://youtu.be/yfS21dnfUw0&list=PL3JprvrxlW24bjku5L18SqmpZj1I0hwl1
+COM & AutoHotkey

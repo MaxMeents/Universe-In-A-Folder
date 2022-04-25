@@ -1,0 +1,76 @@
+
+Andrea Telatin - Conda install my-module - Lightning Talks - Day 2
+https://youtu.be/zorouyVaGuE&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Artem Golubev - What is Autonomous Testing
+https://youtu.be/CBkxgrFh0JI&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Bruce Gray - Refactoring and Readability Crouching Regex, Hidden Structures
+https://youtu.be/wZZtrtoTjt4&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Christopher Jack - Using Perl to parse terabytes of mission critical variable
+https://youtu.be/43bGlQeBTS0&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Dimitrios Kechagias - Test2Aggregate Blazing fast unit tests & more
+https://youtu.be/olH41BhFx6M&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+domm - Writing a good Dockerfile for Perl apps
+https://youtu.be/ARpLPQWblAM&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Doug Bell - Web Dev Generations
+https://youtu.be/AXhosJLAeUs&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Fritz Zaucker - Yes YOU can ! - Lightning Talks - Day 1
+https://youtu.be/r7JyximgP-k&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Graham Ollis - Perl + WebAssembly
+https://youtu.be/T_o51JnI11U&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Hassiba 'Bennie' Bendali - Music and Software Management Skill Transfer
+https://youtu.be/GzVxHk-RwN4&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Hauke D - Data logging with Perl – for Science!
+https://youtu.be/V0GKykOCPzM&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+J.E. Turcotte - Min-Maxing your Diet wRaku - Lightning Talks - Day 1
+https://youtu.be/iAUUb7QU51I&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+James Keenan - Further Adventures in QA for the Perl 5 Core Distribution
+https://youtu.be/pmr9VYTTfiA&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Jim Bacon - Using Moo In Modulinos
+https://youtu.be/Yuc-Fb_Y7Eo&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Joel Berger - Awaiting Mojolicious
+https://youtu.be/I5xS2NcMzJU&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Kevin A. McGrail - A Cyber Security Expert's Guide to Secure Programming
+https://youtu.be/wwMnPoW_uek&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Kevin McGrail - Talk to your Duck - Lightning Talks - Day 1
+https://youtu.be/CzXbp1C5zKs&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Max Maischein - 80% now, 20% never - Lightning Talks - Day 2
+https://youtu.be/Bh3q4tWUizc&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Max Maischein - My Private Weather
+https://youtu.be/4TlwXS-hb-4&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Nigel Hamilton - #srcpans - Lightning Talks - Day 1
+https://youtu.be/VS_IS_omAV8&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Opening  Perl Keynote Sawyer - Get better, not get by
+https://youtu.be/6wPMh-3qYJM&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Vadim Belman - Asynchronously Parallelish Testing in Raku - Lightning Talks - Day 2
+https://youtu.be/gMjZ3nBcGWs&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Will Braswell - The Perl Community Roadmap - Lightning Talks - Day 2
+https://youtu.be/xS6FseHf3lo&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Zak Zebrowski - Perl on your iPhone - Lightning Talks - Day 1
+https://youtu.be/3nGCNrHXuqQ&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+
+Zakariyya Mughal - MSYS2 and You - Lightning Talks - Day 2
+https://youtu.be/s43DLnzoYeg&list=PLA9_Hq3zhoFznY_cvm5iAbUZ9T6-6zbIu
+Videos 1-25

@@ -1,0 +1,61 @@
+
+Abstract Class in C# and WHY you need to LEARN this
+https://youtu.be/dkFYUUWdQYI
+
+Before your next C# Interview LEARN THIS You´ll thank me later
+https://youtu.be/wMHhs_nyz-U
+
+C# Interview prep 50 Question and Answers
+https://youtu.be/VCcXcwsH9G4
+
+CAN you make a FIBONACCI APP in C#
+https://youtu.be/awSuBvZZz7g
+
+CODE BEHIND to display Text instead of XAML Let´s try this!
+https://youtu.be/2PmiSY_C9qg
+
+Dependency Injection for ASP NET Core 6.0 - An UPDATED 2022 Tutorial
+https://youtu.be/9J9a77ga9R0
+
+Displaying Text using LABELS in WPF Don´t just use TEXTBLOCKS!
+https://youtu.be/wAZ8Y6HTD7U
+
+Got a C# Job Interview Then this one´s important! - Palindrome Numbers with C#
+https://youtu.be/vyaBZW4YcLs
+
+How to create an Object-Oriented Program (OOP) in C#.NET  C#.NET Tutorial for Beginners
+https://youtu.be/NRvy6oLoeY0
+
+How to use queues in C# - Tutorial
+https://youtu.be/4MQwKvsGCms
+
+LEARN C# and WPF What's an OnClickEvent
+https://youtu.be/amXfc3mMT6U
+
+LEARN how to pass VALUE TYPES  by REFERENCE in C# - Ref, In and Out
+https://youtu.be/f0X8upfn3og
+
+Master CONTROL BUTTONS and EVENTS in WPF with this simple video!
+https://youtu.be/JBbqa7dDHQU
+
+Operator Overloading in C# EXPLAINED in 7 minutes!
+https://youtu.be/1URzca2FVDc
+
+RADIO BUTTONS in WPF This is how it´s done
+https://youtu.be/AWnEF9z2ryo
+
+Show Text in WPF using TEXTBLOCK with XAML! Start using this now!
+https://youtu.be/q3SfqVl6TtI
+
+TEXTBOXES in WPF You will NEED this video if you want USER INPUT!
+https://youtu.be/Q7tvnOwwyu4
+
+Use jQuery AJAX in ASP.NET CORE 6  You NEED to see how it´s done!
+https://youtu.be/dXutAlml_xE
+
+You NEED to see this NEW C# Template in .NET 6.0 - And how to use Namespaces Globally
+https://youtu.be/BUKNqMWYgX8
+
+📚Stacks in C# explained, how to use them and when to use them
+https://youtu.be/HXt-q8bMeP4
+Videos 1-20

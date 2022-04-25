@@ -1,0 +1,76 @@
+
+PHP UK Conference 2011 - Advanced OO patterns, by Tobias Schlitt
+https://youtu.be/XY2HP9c2O0o
+
+PHP UK Conference 2011 - HTML5 and CSS3 today, by Martin Beeby
+https://youtu.be/L3Rc2EKEtoQ
+
+PHP UK Conference 2011 - Xdebug by Derick Rethans
+https://youtu.be/ELtok-IrZSY
+
+PHP UK Conference 2012 - Big Data webscience... by James Littlejohn
+https://youtu.be/IOkBcgnrdNg
+
+PHP UK Conference 2012 - Building... apps with Phing, by Michiel Rook
+https://youtu.be/OOdrMwkQnMo
+
+PHP UK Conference 2012 - Cheat your way with UX, by Stephanie Troeth
+https://youtu.be/ibPSmUQHoow
+
+PHP UK Conference 2012 - Creative Coding - why doing nothing doesn't mean you're not working
+https://youtu.be/YTa2s6ytCOg
+
+PHP UK Conference 2012 - Data Abstraction In Large Web Applications - Brandon Savage
+https://youtu.be/BtduyRYW3eI
+
+PHP UK Conference 2012 - HTML5 for PHP developers - Andrew Betts
+https://youtu.be/uH_nEt51o54
+
+PHP UK Conference 2012 - Masterizing PHP Data Structure 102, by Patrick Allaert
+https://youtu.be/h6LOtN2RgEU
+
+PHP UK Conference 2012 - Monitoring your back-end for speed and profit by Andy 'Bob' Brockhurst
+https://youtu.be/iTveazbmzF8
+
+PHP UK Conference 2012 - MySQL Update - Dave Stokes
+https://youtu.be/cBv1KECnnJc
+
+PHP UK Conference 2012 - Open source search an analysis, by Justin Finkelstein
+https://youtu.be/4dLDg3oSN9o
+
+PHP UK Conference 2012 - PHP 5.4 the new bits, by Davey Shafik
+https://youtu.be/I6QtuLBwux4
+
+PHP UK Conference 2012 - PHP at Scale - Panel Session
+https://youtu.be/h-PwwgJOV-Q
+
+PHP UK Conference 2012 - PHP under the hood, by Johannes Schlüter
+https://youtu.be/bxxIXPc9IR8
+
+PHP UK Conference 2012 - Profiling PHP applications, by Derick Rethans
+https://youtu.be/nFBQNQ1_5vI
+
+PHP UK Conference 2012 - Recognising smelly code, by Harrie Verveer
+https://youtu.be/wmgnFbsaPvo
+
+PHP UK Conference 2012 - Scaling communication with Continuous Integration, by LB Denker
+https://youtu.be/d5E0wPkpGUo
+
+PHP UK Conference 2012 - Security audits as an integral part of PHP app dev - Sijmen Ruwhof
+https://youtu.be/K33AleVS64o
+
+PHP UK Conference 2012 - SQL vs NoSQL - Panel Session
+https://youtu.be/C1lxoJkb7yY
+
+PHP UK Conference 2012 - Teaching your machine to find fraudsters, by Ian Barber
+https://youtu.be/xvujYOErFqM
+
+PHP UK Conference 2012 - The journey towards Continuous Integration, by Sebastian Marek
+https://youtu.be/eRfQ9M9TDRs
+
+PHP UK Conference 2012 - The Misguided Manager, by Zoë Slattery
+https://youtu.be/LPbp2UeGGgQ
+
+PHP UK Conference 2012 - To a thousand servers and beyond... by Nikolay Bachiyski
+https://youtu.be/FJA-bqHuKNk
+Videos 276-300

@@ -1,0 +1,76 @@
+
+# 106 Creating RSVP iMessages App in iOS 10 Using Swift 3.0
+https://youtu.be/z1R3vyRqods
+
+# 108 Returning JSON from Vapor Server Side Swift
+https://youtu.be/xYXeeWtpHDU
+
+# 109 Posting Data Using Vapor Server Side Swift
+https://youtu.be/R7qfU2jrW3s
+
+# 110 Configuring SQLite with Vapor
+https://youtu.be/5L2DzwH-AN4
+
+# 111 Building a Secret Messaging iMessages App Part 1 - Scenario
+https://youtu.be/0XwU6m5BQ7Q
+
+#1 Binary Kids - Instructions
+https://youtu.be/hjj7dcdnlWQ
+
+#103 Creating Sticker Pack App Using Swift 3.0
+https://youtu.be/qO2uhK3uP8s
+
+#104 Creating RSVP iMessages App in iOS 10 Using Swift 3 Part 1
+https://youtu.be/tblk51B7tO0
+
+#105 Creating RSVP iMessages App in iOS 10 Using Swift 3.0 Part 2
+https://youtu.be/uwsrOQuA3gg
+
+#107 Server Side Swift Using Vapor - Part 1
+https://youtu.be/MvDbDOsiCII
+
+#112 Securing TabBar Items Using Protocol Extensions
+https://youtu.be/TK0P40Ol5l4
+
+#2 Binary Kids - Multi Level Instructions
+https://youtu.be/sPObP2Kg6LQ
+
+Binary Kids - Teaching Programming to Kids
+https://youtu.be/7jZIM2uMBtQ
+
+Binary Kids Lesson 4 - Animations
+https://youtu.be/jHAh-Tx5toI
+
+Binary Kids Lesson 5 - Introduction to Scratch
+https://youtu.be/LG12SkIWGH8
+
+Building a Secret Messaging iMessages App
+https://youtu.be/EhN2bJRVNoo
+
+Butterfly in Flight
+https://youtu.be/xlpFc0W7DQc
+
+Camouflage Messaging - Developer's Story
+https://youtu.be/rkE6-VqO-_Q
+
+Camouflage Messaging App (Coming soon)
+https://youtu.be/xVpIsI8qDXQ
+
+Creating iMessages and Stickers Apps in iOS 10 Using Swift 3
+https://youtu.be/9SMJgI6suk8
+
+Lesson 3 - Building a Tile Map Game
+https://youtu.be/MpNeIaGjGcI
+
+Realm Issues with Xcode 8 and Swift 3.0
+https://youtu.be/pkLkU5U0P3M
+
+Swiftify for iMessages - Available on the App Store
+https://youtu.be/Qp4aITKd9Cw
+
+The Complete Course on Creating Stickers and iMessages Apps Using Swift
+https://youtu.be/o_Vqi6kyTc0
+
+Xcode 8.2 Crash
+https://youtu.be/La0uZjZ28gE
+Videos 651-675

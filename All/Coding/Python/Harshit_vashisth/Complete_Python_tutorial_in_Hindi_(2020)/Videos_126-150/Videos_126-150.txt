@@ -1,0 +1,76 @@
+
+ args with normal parameter   Python tutorial 141
+https://youtu.be/C1JjasgJMig&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+ Kwargs  Python tutorial 145
+https://youtu.be/spGonSncAiw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Args as argument   Python tutorial 142
+https://youtu.be/onhPjbj84Fw&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 11 exercise 1  Python tutorial 143
+https://youtu.be/y1e8Te3K410&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+chapter 11 exercise 2  Python tutorial 147
+https://youtu.be/o3D09ZyDmxA&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 7 Exercise 2  Python tutorial 123
+https://youtu.be/YG_RyB-ghSM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 9 Exercise 1  Python tutorial 129
+https://youtu.be/Q-hTOOAQWVk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 9 Exercise 2  Python tutorial 132
+https://youtu.be/-u2IS7fUg3M&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 9 Exercise 2 solution  Python tutorial 133
+https://youtu.be/5oDML6AdLj8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Chapter 9 Summary  Python tutorial 136
+https://youtu.be/xINdfZEWXHs&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Dictionary Comprehension  Python tutorial 137
+https://youtu.be/2KQVpz0pICk&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Dictionary comprehension with if else  Python tutorial 138
+https://youtu.be/xRxTBVcz9wU&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Dictionary Summary  Python tutorial 125
+https://youtu.be/Rn0GtqXknsI&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 1 solution   Python tutorial 144
+https://youtu.be/Kr_1Fr5DL_0&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 1 solution  Python tutorial 130
+https://youtu.be/c9ZVmfz76fM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Exercise 2 solution  Python tutorial 124
+https://youtu.be/bzYHj57DW1c&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Function with all type of parameters  Python tutorial 146
+https://youtu.be/N7ZeDzzRwnQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Intro to  args   Python tutorial 140
+https://youtu.be/VogG5F__H-w&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Intro to Sets  Python tutorial 126
+https://youtu.be/ZGtqiwZZgWM&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+List comprehension with if else  Python tutorial 134
+https://youtu.be/mUEcqDH3Yec&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+List Comprehension with if statement  Python tutorial 131
+https://youtu.be/ADasV3NpAt8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+More about sets  Python tutorial 127
+https://youtu.be/rWpBVTNbigo&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Nested list comprehension  Python tutorial 135
+https://youtu.be/RFAkyom_h1s&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+Sets comprehension  Python tutorial 139
+https://youtu.be/yEJBFew9o-8&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+What is list comprehension  Python tutorial 128
+https://youtu.be/8-uLRkUdbL4&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+Videos 126-150

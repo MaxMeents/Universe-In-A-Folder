@@ -1,0 +1,73 @@
+
+Basic Mathematics Operations in RR Programming Tutorial R Programming
+https://youtu.be/P8uRRWywjiY&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+Creating Simple Dataset in R using Combine and Scan commandR Programming Tutorial R Programming
+https://youtu.be/10Jm0yAX03w&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R and R Studio Introduction  R Programming Tutorial  R Studio
+https://youtu.be/FuIRxqx370A&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R House keeping commands like ls and rm to manage objects R-Is R- rmR Programming Tutorial
+https://youtu.be/2q-VNrRHr04&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Creating and adding calculated column to dataset  dataframe Dataset and Dataframe
+https://youtu.be/CsFRM1_heM4&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Creating bins or ranges from numeric data in R Programming   R Bins  R Ranges
+https://youtu.be/Ik0R_H__LZ4&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Creating Joins on Datasets or Data frames Datasets Data Frames
+https://youtu.be/tiFMmnoDzzc&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Data Aggregation and Structure (Simple or Pivot) Simple TablePivot Table
+https://youtu.be/guSQmfjdP_U&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Hypothesis testing in theory R  Hypothesis testing theory
+https://youtu.be/RV8h9B4BV8k&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Identifying duplicate rows in dataset and removing them
+https://youtu.be/LKoknpFOEUw&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Removing NA values from Dataset in R Removing NA values from Dataframes in R
+https://youtu.be/N6wrEULE6M0&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Sorting and Ordering data - R Programming  R Sorting  R Ordering Data
+https://youtu.be/pBEvB62FDaQ&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial  DataFrame and Matrix aggregation functions in R  R Programming
+https://youtu.be/Mc2eNpOS530&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial Combining multiple datasets in R  R Multiple Datasets
+https://youtu.be/_qJpnrvYbK4&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial Exploring Apply function in Greater details R Apply Function
+https://youtu.be/3RXJhMq9jFY&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial Fetching Data from Vector & Matrix R Vector R Matrix
+https://youtu.be/AWeAs622y6s&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial Interpretation of statisitcal terms in Linear Regression
+https://youtu.be/QuXN9oKL48Y&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial R Apply family functions Family Functions in R
+https://youtu.be/pS4AkSBomBo&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial Simple Linear Regression in R R Function
+https://youtu.be/vFPqCPsN5FA&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming Tutorial Ways to get help in R  R Help Help Function in R
+https://youtu.be/unTjebI7mNw&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R Programming TutorialHow to install and use packages in R Install R Packages Use R Packages
+https://youtu.be/IW1eY2lt2ds&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R ProgrammingCreating bar chart in R (along with text function)
+https://youtu.be/AlE7xXCE0JU&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+R ProgrammingDescribing data using Hmisc and psych package - R Programming
+https://youtu.be/2F1RioDkBUg&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+
+Sample Data in R  Sample datasets for data mining  sample data sets for statistical analysis
+https://youtu.be/Q3hSogORyZo&list=PLH6mU1kedUy-LuoH7DnGpmlsoCNHpZrKY
+Videos 1-25

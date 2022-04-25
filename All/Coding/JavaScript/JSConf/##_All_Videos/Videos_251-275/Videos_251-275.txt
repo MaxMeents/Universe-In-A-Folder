@@ -1,0 +1,76 @@
+
+artistic.css by Agnieszka Naplocha  JSConf.Asia 2019
+https://youtu.be/aQBYAkaABkU
+
+Block, unblock, block! How ad blockers are being circumvented… by Shwetank Dixit  JSConf EU 2019
+https://youtu.be/Vk9bPDaZELQ
+
+Building Up the Electron Project Team and Community Engineering - Jessica Lord  JSConf Hawaii 2019
+https://youtu.be/I4ugdJRCj9Q
+
+CSS Houdini & The Future of Styling by Una Kravets  JSConf EU 2019
+https://youtu.be/GhRE3rML9t4
+
+Designing Components for Fun, Profit and Sanity by Yishu See  JSConf.Asia 2019
+https://youtu.be/pEVGAn2qNtU
+
+GraphQL, the Domain Way - Thais Correia  JSConf Hawaii 2019
+https://youtu.be/UM-RhglTyKA
+
+How (Not) to Fail at Accessibility - Trish Ang  JSConf Hawaii 2019
+https://youtu.be/Mnc8ck_DuaE
+
+How to Calculate the Phase of the Moon - Amy SailorHG Wibowo  JSConf Hawaii 2019
+https://youtu.be/JybbgAz3meQ
+
+How to Make Your Website Not Ugly - Hilary Stohs-Krause  JSConf Hawaii 2019
+https://youtu.be/F4G2i4eS7x0
+
+Improving React Native Performance in Facebook Marketplace  - Konstantin Raev  JSConf Hawaii 2019
+https://youtu.be/g3jwd0kAIDU
+
+In the land of the JavaScripters by Havi Hoffman  JSConf EU 2019
+https://youtu.be/1gL8u0gmWdg
+
+JavaScript is AsynchroWAT - Crystal Martin  JSConf Hawaii 2019
+https://youtu.be/el9fhSbby5E
+
+JSParty Live at JSConf Hawaii 2019 on the Future of JavaScript
+https://youtu.be/HkRrJvvnlvU
+
+Music and Art with ML by Monica Dinculescu  JSConf.Asia 2019
+https://youtu.be/_0ij8vY2gzE
+
+Navigating the Wild Seas of Native ES Modules by Gil Tayar  JSConf.Asia 2019
+https://youtu.be/Zyoztl_7l7g
+
+Navigating Unconscious Bias - Emily Kearney  JSConf Hawaii 2019
+https://youtu.be/VGcqkF2XDgA
+
+Real World Problems - Internet beyond the 1st World Bubble by Keerthana Krishnan  JSConf.Asia 2019
+https://youtu.be/skml8SjOtKg
+
+The Browser as a Modular, Networked Video Synthesizer by Olivia Jack  JSConf.Asia 2019
+https://youtu.be/v2Au9Rlj6XM
+
+The Teenage Mutant Ninja Turtle Guide to Color Theory - Louisa Barret  JSConf Hawaii 2019t
+https://youtu.be/NdKAUXAvt8E
+
+Variable Fonts and the Flexible Nature of Screens and Devices by Mandy Michael  JSConf.Asia 2019
+https://youtu.be/BBWMIxXqr-E
+
+Web Components and the AOM by Léonie Watson  JSConf.Asia 2019
+https://youtu.be/ZMZMMuXRFcE
+
+What happened to my JS phone by Garann Means  JSConf EU 2019
+https://youtu.be/14wIbWGyaKg
+
+What Tamagotchis Can Teach You About ES6 Generators - Jenn Creighton  JSConf Hawaii 2019
+https://youtu.be/09V_JAGTs2E
+
+Where Did All My Servers Go - Garth Henson  JSConf Hawaii 2019
+https://youtu.be/LFUnn-8IAjQ
+
+করো Translating Code to Other (Human) Languages, and Back Again by Aditya Mukerjee  JSConf EU 2019
+https://youtu.be/-0WQCs2JsFY
+Videos 251-275

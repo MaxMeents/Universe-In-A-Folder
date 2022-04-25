@@ -1,0 +1,76 @@
+
+Aaron Bassett - Hello to the World in 8 Web Frameworks micro, batteries included & async
+https://youtu.be/Z_2eRy8XBRQ&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Alejandro Saucedo - Industrial Machine Learning Pipelines with Python & Airflow
+https://youtu.be/3JYDT8lap5U&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Alexander Hendorf - Deep Learning with PyTorch for Fun and Profit
+https://youtu.be/_uNgNhdIB7U&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Alexys Jacob - The rise of Python in the data communities
+https://youtu.be/6rCFwjV0J-4&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Anton Caceres - Python and Web Sockets
+https://youtu.be/6oQuQ5coSQ0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Bernat Gabor - Standardize Testing in Python
+https://youtu.be/SFqna5ilqig&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Francisco Javier Aceituno Lapido - Developing in a black hole vim, tmux, httpie and jq
+https://youtu.be/7LahjY_poio&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Guillaume Gelin - PEP 557 versus the world
+https://youtu.be/eJsu-7hFXyA&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Heidi Thorpe - May the Fuzz be with you
+https://youtu.be/CWShNYqATkY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Ivaylo Donchev - Django queries optimization
+https://youtu.be/qDyxmgWkjvI&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+James Saryerwinnie - Debugging Your Code with Data Visualization
+https://youtu.be/qx7cumg6EEE&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Jose Manuel Ortega - Microservices and Serverless in Python projects
+https://youtu.be/CoIMfOeREdY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Konstantin Ignatov - Succinct data structures for python
+https://youtu.be/EVP_xLILirs&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Lynn Root - asyncio in Practice We Did It Wrong
+https://youtu.be/1lJDZx6f6tY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Mario Corchero - Mocks, dummies, stubs & spies
+https://youtu.be/1xysL9Bk8m8&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Mark Shannon - Is your code tainted Finding security vulnerabilities using taint tracking
+https://youtu.be/VQkFhrXvRbw&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Martin Angelov - Proper Django Testing
+https://youtu.be/bHYw0LY9yWE&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Nina Zakharenko - Code Review Skills for Pythonistas
+https://youtu.be/6L3ZVLtSeo8&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Pascal van Kooten - When to use Machine Learning Tips, Tricks and Warnings
+https://youtu.be/JN6RAaufFzU&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Sarah Bird - The Web is Terrifying! Using the PyData stack to spy on the spies
+https://youtu.be/3zWHdyrGlDc&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Stephan Jaensch - Type annotations with larger codebases
+https://youtu.be/pWnETtscNS0&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Steve Barnes - Why develop a CLI Command Line Interface first
+https://youtu.be/7qLNrcYkQiY&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Thomas Aglassinger - Introduction to sentiment analysis with spaCy 1
+https://youtu.be/LvlUBxi_JEg&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Windel Bouwman - A Python implementation in Rust
+https://youtu.be/YMmio0JHy_Y&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+
+Žan Anderle - JavaScript for Python Developers
+https://youtu.be/7U9hdxRu5DM&list=PL8uoeex94UhFrNUV2m5MigREebUms39U5
+Videos 51-75

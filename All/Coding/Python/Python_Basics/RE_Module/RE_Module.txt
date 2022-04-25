@@ -1,0 +1,46 @@
+
+Python Basics Deep Dive Re Fnmatch Glob (Requested Video)
+https://youtu.be/rBNwYitC5Gw&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Findall Dollar Amounts
+https://youtu.be/l5b8ku-v3pg&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Findall Email Addresses
+https://youtu.be/wPjPm7XHOVs&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Findall Method pt. 2
+https://youtu.be/v855p5Gyc90&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Findall Method
+https://youtu.be/uRpFU9iEYgs&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Findall Search For Date
+https://youtu.be/stHGFK4tXk4&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Findall with {} brackets
+https://youtu.be/e4qjuhzRW50&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Module Pt  1
+https://youtu.be/Qa10ieyKPMM&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Module Pt  2
+https://youtu.be/gt7mAL3aaxw&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re Module Pt. 3 Special Character Dot (.)
+https://youtu.be/t5ffOZuTOtk&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re or Character
+https://youtu.be/3M4JW6Z1x6U&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Re w+ Character Findall Method
+https://youtu.be/VWT41VZVn_s&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Tutorial RE Findall HTML Code After Specific Character
+https://youtu.be/OMY58H3Cnq4&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Tutorial RE IGNORECASE Flag
+https://youtu.be/z19Kdm_O_XM&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+
+Python Basics Tutorial Web Scrapping Headlines From Yahoo News  BeautifulSoup
+https://youtu.be/UO_bZ5XVlmw&list=PLaYT64KWZAEOhOlHFdaOxI8gvbg2vc-Wx
+RE Module

@@ -1,0 +1,76 @@
+
+Antora Documentation Sites for Software Teams by Dan Allen
+https://youtu.be/vWsWU6Igmhc&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Apache Kafka and KSQL in Action  Let’s Build a Streaming Data Pipeline! by Robin Moffatt
+https://youtu.be/RJtEacDX4Oc&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Auto Cascading Security Updates Through Docker Images  by  Andrey Falko
+https://youtu.be/MBQKiqmegRU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+AutoML + ML APIs = machine learning for all developers by Laurent Picard
+https://youtu.be/qc-990lp6D4&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Building the VoxxedDays App with Flutter by Matt Sullivan
+https://youtu.be/RMyDdULZglE&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Cloud - War Stories by Gert Leenders, Alex Van Boxel, Michaël Hompus, Tim Bogaert
+https://youtu.be/ah1Y7fGoyIk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+DevOps in a serverless world   best practices and tools by Alexis Moussine Pouchkine
+https://youtu.be/IVKiWAGbK0I&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Embrace the Anarchy  Apache Kafka’s Role in Modern Data Architectures by Robin Moffatt
+https://youtu.be/bapHWhtf6fE&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Find and Track the hidden vulnerabilities inside your dependencies by Julien Topçu
+https://youtu.be/UrsjeR-tGrg&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+From 0 to Deep Learning in 3 hours by Yannis Bres
+https://youtu.be/gy6cLz4ra8E&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Home s̶w̶e̶e̶t̶ Google Home Build a smarter home! by Murat Yener
+https://youtu.be/WpSa4H8tTjU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Java Mission Control 6 0+ by Adnan Isajbegovic voxxed
+https://youtu.be/Wad15hKP-9Y&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Keeping up with Java made easy with Apache Maven by  Robert Scholte
+https://youtu.be/tjOrSH6db9E&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Kotlin Deep Dive by Eugene Petrenko
+https://youtu.be/RCQl5fZhtTU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Micro Frontend the microservice puzzle extended to frontend  by  Audrey Neveu
+https://youtu.be/Nb7pf8DHNuk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Optimizing Spring Boot apps for Docker by Mike Thompson, Graham Charters
+https://youtu.be/gwKeGky02XM&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Pivotal and AxonIQ   Quickstart your Event Driven Architecture  by  Ben Wilcock, Steven van Beelen
+https://youtu.be/15hzHUI4WNA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+PostgreSQL is the new NoSQL by Quentin Adam
+https://youtu.be/t8-BQjWJFKw&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Rediscovering JavaScript by Venkat Subramaniam
+https://youtu.be/dxzBZpzzzo8&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Refactoring to a System of Systems by Oliver Gierke
+https://youtu.be/MEySjYD86PQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Switching on DevSecOps by Simon Maple
+https://youtu.be/l0pNUTVYlN4&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Turn your site into a Progressive Web App in a day by Ruben Oostinga
+https://youtu.be/84UxxqxdijI&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+TypeScript Complete by Deepu K Sasidharan
+https://youtu.be/5roA60WTITw&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Visualizing Mandelbrot fractals using Riff and Spring Cloud Function  by  Dieter Hubau
+https://youtu.be/nqPJWaL3ocQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Ways of improv ing work and life #DifferentKindOfTalk  by  Alexandros Zotos
+https://youtu.be/WPTB0xC2wZQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+Videos 126-150

@@ -1,0 +1,76 @@
+
+AutoHotKey - AI  Artificial intelligence 1 Intro using AHK
+https://youtu.be/jjVZNf0__uA&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotKey - AI  Artificial intelligence 2 Intro using AHK to Weight options with percent chances
+https://youtu.be/rZhMPXj3WoM&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Antivirus - Where did my script go Is AHK Safe
+https://youtu.be/_qRiGLJ-MZQ&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Better Clipboard (Store More Info) and Templates
+https://youtu.be/srKJHsVaoI0&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Getting Coding Help On Reddit
+https://youtu.be/RU1F8GC2Yqk&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - How To Get Better Coding Help with Joe Glines and TabNation
+https://youtu.be/oAs_ToQqjgg&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Make Scripts Seem More Human (Chat Bots, Gaming Scripts, AI)
+https://youtu.be/uFGhRzOmJmM&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Motivation With AHK - Random Events
+https://youtu.be/raH3Z4w4Sq4&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - MS-Settings URI Commands to Open Specific Settings in Windows 10
+https://youtu.be/IgqS6bQII8k&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Notepad++ AHK Syntax Highlighting
+https://youtu.be/CsP8-Sc0J4o&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - User Defined Hotkey  Changing Hotkey Outside of Code
+https://youtu.be/6P9gC4M1ozo&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Using AHK With Disabilities
+https://youtu.be/RhSSPP-r1HI&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey - Zoom API and Teams Part 1
+https://youtu.be/GTELeau007s&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey Alexa and Nest - Use Amazon Echo or Google Nest to Trigger Scripts Remotely
+https://youtu.be/D6kXPRd8ZGQ&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotKey common issues 1 fix's break loop outside ,button stuck down, Script closes
+https://youtu.be/IpA2kTQsvV4&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotKey Common issues 2 - Send triggers hotkey, Reopen GUI error, Game code wont workGet banned
+https://youtu.be/nwUpdvk08Bg&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotKey Excel - Grabbing data from excel with AHK
+https://youtu.be/HwpIX1rzAeE&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey How To Use a Barcode Scanner  Card Reader With AHK
+https://youtu.be/CPjzpYz7dT0&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey Interview - Joe Glines Introduces TAB Nation (Thom's AHK Origin Story)
+https://youtu.be/sWzmYTeBoX0&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey OCR - Optical Character Recognition, Get Text From A Picture
+https://youtu.be/nKGv0sQ3KbI&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey Password - Hide a Window Then Unhide With a Password
+https://youtu.be/IcHlyz-YUXY&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkey Pranks - Play Some Fun Little Jokes With AHK
+https://youtu.be/SMBloEVY3Fs&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotKey Sending emails and text with ahk in the background
+https://youtu.be/UMbUV_NX8DI&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+AutoHotkeys - Drag and Drop Block Coding. Visual Coding Intro (ahk.zvecr and cloudahk)
+https://youtu.be/o5BVo6WHOh4&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+
+Coding Tips - Rubber Duck Debugging
+https://youtu.be/ZE-EnhSSPKU&list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
+Videos 1-25

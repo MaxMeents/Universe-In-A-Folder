@@ -1,0 +1,76 @@
+
+Active Power Factor Correction
+https://youtu.be/rWfGlo4szyU
+
+Deep Learning Onramp Overview
+https://youtu.be/omH7b-czmcQ
+
+Extend Your Architecture with Domain-Specific Design Data
+https://youtu.be/G02PLCwJGKo
+
+Getting Started with MATLAB
+https://youtu.be/OHxR8iMHDWw
+
+How to Allocate Requirements to Architectural Elements with System Composer
+https://youtu.be/t90QpeBnCF8
+
+How to Analyze Requirements for Architectual Elements with Simulink Requirements
+https://youtu.be/1nZxkYZF44g
+
+How to Create and Link Simulink Components
+https://youtu.be/ZgWOX2NMtPo
+
+How to Create Compositions in System Composer
+https://youtu.be/jvuZ1IoGKmQ
+
+How to Create Freehand Input Signals in the Signal Editor in Simulink
+https://youtu.be/fjvjjtl1PSQ
+
+How to Extract Compositions from Simulink Models
+https://youtu.be/lf4UMd5A0KU
+
+How to Use Schedule Editor in Simulink
+https://youtu.be/xDlfAZ8Mvy4
+
+Image Classification on ARM CPU SqueezeNet on Raspberry Pi
+https://youtu.be/WAmGYq1E0qI
+
+Le machine learning au secours du diagnostic moteur
+https://youtu.be/mX8oMpTpNLA
+
+MATLAB Grader 概述
+https://youtu.be/CyXH0Vri-WA
+
+Monitor Signals Without Adding Signal Lines with Observer Blocks
+https://youtu.be/4p385SqFPXQ
+
+Predictive Maintenance, Part 5 Digital Twin
+https://youtu.be/cfbKR48nSyQ
+
+Programming BeagleBone Blue with Simulink
+https://youtu.be/7Ih2wNWQiAc
+
+Radio Deployment on SoC Platform
+https://youtu.be/kL_SyVODxgw
+
+Reinforcement Learning for Engineers, Part 4 The Walking Robot Problem
+https://youtu.be/Wypc1a-1ZYA
+
+Requirements Based Verification with Simulink Test
+https://youtu.be/FhZqBCJRkUs
+
+Run Models Interactively on Arduino and Raspberry Pi
+https://youtu.be/EqVw642A2ZE
+
+Spotlight Views in System Composer
+https://youtu.be/efVf8GRwV-E
+
+Trajectory Planning for Robot Manipulators
+https://youtu.be/Fd7wjZDoh7g
+
+Waveform Generation Using MathWorks SDR
+https://youtu.be/yk1y-PpI4o4
+
+What Is Predictive Maintenance Toolbox
+https://youtu.be/o4SZ5d5LznM
+Videos 1001-1025

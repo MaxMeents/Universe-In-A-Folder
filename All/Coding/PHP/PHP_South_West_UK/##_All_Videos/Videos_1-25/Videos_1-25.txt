@@ -1,0 +1,76 @@
+
+Are you a modern software engineer - Rajkumar Sakthi - PHPSW Journeys in software, October 2020
+https://youtu.be/XFpeJVm5DJQ
+
+AssertTrue(isDecoupled(MyTests)) - Dave Liddament - PHPSW Your PHP Journey, March 2022
+https://youtu.be/Jh-biuz16Lo
+
+AutoML - Machine learning of machine learning - Anirban Santra - PHPSW Lightning Talks, Sep 2020
+https://youtu.be/wrkB9cWlIe0
+
+Building APIs in Laravel - Steve McDougall - PHPSW Building APIs in Laravel, March 2021
+https://youtu.be/sm9BZbztvEc
+
+Building better digital products through user-centred design - Harry Cobbold - PHPSW Better UX, May
+https://youtu.be/NNsaTsc8FyU
+
+Code with confidence using PHPStan - Peter Fisher - PHPSW Coding With Confidence, Februrary 2022
+https://youtu.be/dKqduDwQeI0
+
+Developer mindset - which comes first, the test or the code - Naomi Gotts - PHPSW PHP 8, Feb 2021
+https://youtu.be/_6Y3C9lzW8o
+
+Exploring PHP 8.0 - Larry Garfield - PHPSW PHP 8, February 2021
+https://youtu.be/YGiPdX29CrQ
+
+Improve your API with OpenAPI - Rob Allen - PHPSW Lets Meet in Person!, November 2021
+https://youtu.be/iJnl_BIbpxQ
+
+Introducing the serverless LAMP Stack - Ben Smith - PHPSW The Serverless LAMP Stack, April 2021
+https://youtu.be/z5S7r4u5Oc0
+
+Introduction to Gatsby - Audrey Hayes - PHPSW Lightning Talks, September 2020
+https://youtu.be/EshLOpWaD-A
+
+Is Literal RFC - Craig Francis - PHPSW Lightning Talks, September 2020
+https://youtu.be/4YN1a7N6FJM
+
+Mental Health – Time to drop the stigma - Natalie Sidwick - PHPSW, April 2021
+https://youtu.be/Jxps5l8XmPU
+
+Minimum Viable Website - Ismael Velasco - PHPSW Surviving First Contact, January 2021
+https://youtu.be/gEAIUjBKFAQ
+
+Our Standards And Why We Use Them - Chris Miller - PHPSW Standards & why you use them, October 2021
+https://youtu.be/JSXD1IUeF3U
+
+Practical Static Analysis - Dave Liddament - PHPSW A New Type of Year, January 2020
+https://youtu.be/Iwq1ztFyeps
+
+Scalable APIs in 2021 trends, schemas, tooling - Ismael Velasco - PHPSW Scalable APIs, June 2021
+https://youtu.be/qDfAyUK5z_Q
+
+Strict typing and static analysis - Rob Allen - PHPSW A New Type of Year, January 2020
+https://youtu.be/Ek6XpfjcnkU
+
+The First Contact - Andreas Heigl - PHPSW Surviving First Contact, January 2021
+https://youtu.be/0YfjFlvmg3A
+
+The Humble Developer Culture - Rob Waller - PHPSW Developer Culture, July 2021
+https://youtu.be/KOQSqMy_xbM
+
+The journey from Developer to Architect - Mark Taylor - PHPSW Journeys in software, October 2020
+https://youtu.be/oqMXNOeUpJk
+
+The Making of a Great API - Rob Allen - PHPSW PHP 7.4 and APIs, March 2020
+https://youtu.be/tMCjJBJow1A
+
+Things you should know about PHP - Oliver Davies - PHPSW Your PHP Journey, March 2022
+https://youtu.be/NH1mVSwCzWs
+
+Turbocharged Development with Docker, PhpStorm and Xdebug - Jim Seconde - PHPSW - November 2020
+https://youtu.be/app2UUq5Xsk
+
+Working with workspaces - Oliver Davies - PHPSW Lightning Talks, September 2020
+https://youtu.be/tluIvxv05bM
+Videos 1-25

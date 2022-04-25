@@ -1,0 +1,76 @@
+
+AP Computer Science Unit 1 Primitive Types
+https://youtu.be/1g99HckBk8c
+
+AP Computer Science Unit 2a Using Objects
+https://youtu.be/7Nx4I1EK-_Q
+
+AP Computer Science Unit 2b Using Objects (Strings, Wrapper Classes, and the Math Class)
+https://youtu.be/zUEUfefooQ0
+
+AP Computer Science Unit 3 Boolean Expressions and If Statements
+https://youtu.be/CYFs02lehFQ
+
+AP Computer Science Unit 4 Iteration
+https://youtu.be/A__quhyDFPs
+
+AP Computer Science Unit 5 Writing Classes
+https://youtu.be/GRR2IpQTWVs
+
+Basic Java 1&2 Comments and Printing
+https://youtu.be/FxmQeC-3uuE
+
+Basic Java 3 Strings
+https://youtu.be/O_aJ2FDBXzg
+
+Basic Java 4 Integers, Doubles, and Booleans
+https://youtu.be/fD4RtUXuNEM
+
+Basic Java 5 Conditionals
+https://youtu.be/BBRzbR1cJok
+
+Basic Java 6 Loops
+https://youtu.be/AdqY3DUngqI
+
+Basic Java 7 Arrays
+https://youtu.be/Mfw034WsQ5s
+
+Basic Java 8 HashMaps
+https://youtu.be/fKN6s0Se5gI
+
+Basic Java 9 Static Methods
+https://youtu.be/CIzeDorTvYQ
+
+Java MOOC Week 1 Exercises 1-7
+https://youtu.be/mThetujVriM
+
+Java MOOC Week 1 Exercises 14-19
+https://youtu.be/RWQT4GUqHVI
+
+Java MOOC Week 1 Exercises 20-22
+https://youtu.be/4VKua8n8c2M
+
+Java MOOC Week 1 Exercises 8 - 12
+https://youtu.be/sek5YnltMlM
+
+Java MOOC Week 2 Exercises 25-26
+https://youtu.be/XTdQH3g_46o
+
+Java MOOC Week 2 Exercises 27-31
+https://youtu.be/IDd2Oym4WJo
+
+Java MOOC Week 2 Exercises 32-36
+https://youtu.be/q07IGWPsHNM
+
+Live Coding  Q&A (10012019)
+https://youtu.be/u7RzbAFMcCY
+
+Live Coding  Q&A (10072019)
+https://youtu.be/frRmR_q7_Kg
+
+Live Coding  Q&A (10092019)
+https://youtu.be/2njwugKE1iU
+
+Python Office Hours (10052019)
+https://youtu.be/J7sJvN9ezp0
+Videos 151-175

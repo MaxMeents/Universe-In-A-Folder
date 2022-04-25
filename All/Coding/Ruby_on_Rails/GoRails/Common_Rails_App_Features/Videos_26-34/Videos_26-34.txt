@@ -1,0 +1,25 @@
+
+Dynamic Authorization Roles in Rails with Pundit  Preview
+https://youtu.be/7aEOFRZXJTg&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Email Unsubscribe Links with ActionMailer in Rails  Preview
+https://youtu.be/CoKPH8YlSKU&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to add Feature Flags in Rails with the Flipper gem
+https://youtu.be/31sUI_DfnNI&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use CSS Variables with Ruby on Rails
+https://youtu.be/uurKEOjvxU0&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use Kredis with Rails
+https://youtu.be/iskLOSEYitM&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+How to use Meilisearch in Rails
+https://youtu.be/pPn-DUqUf1E&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Live Reload with Esbuild in Rails using an EventSource  Preview
+https://youtu.be/v6hOlmNCsc0&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+
+Mail Interceptors and Observers in Ruby on Rails  Preview
+https://youtu.be/sk5RkosgJu0&list=PLm8ctt9NhMNUGlZ-oQRxEGFOGxOf3imgC
+Videos 26-34

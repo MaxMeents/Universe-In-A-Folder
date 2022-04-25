@@ -1,0 +1,76 @@
+
+5 things you need to know when using Hibernate with MySQL
+https://youtu.be/6ohojmT4jTA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Advanced Queries How to use native queries to perform bulk updates
+https://youtu.be/sbrCxgwbzD8&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+An Introduction to JPA FetchTypes
+https://youtu.be/Zs8Dse_Mpyk&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Bag vs. List vs. Set Most Efficient Data Type  for To-Many Associations
+https://youtu.be/IR40_m2mPe0&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Best Practices for Many-To-One and One-To-Many Association Mappings
+https://youtu.be/tciSOIQngig&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Create type-safe queries with JPA’s static metamodel
+https://youtu.be/i-82qbj3cOU&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Difference between JPA, EclipseLink & Hibernate
+https://youtu.be/GNN-FpNucmI&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Getting Started with Flyway & Version-Based Migration
+https://youtu.be/ovG1wgEqE10&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Getting Started with jOOQ  Building SQL Queries in Java
+https://youtu.be/4H3AGK_hNMA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate & PostgreSQL  6 Things You Need To Know
+https://youtu.be/qWzhtX2RR_c&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Envers Extend the standard revision
+https://youtu.be/OQDXzJmGla4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Envers How To Query Data From Your Audit Log
+https://youtu.be/x9F7JZ33vgk&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Hibernate Performance Tuning 10 Common Hibernate Mistakes That Cripple Your Performance
+https://youtu.be/FUt1VM1gNkg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to generate primary keys with JPA and Hibernate
+https://youtu.be/qn9SbW44rQ8&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to generate UUIDs as primary keys with Hibernate
+https://youtu.be/bFdMrNwBFo4&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to map an association as a java.util.Map
+https://youtu.be/D1xnl-yxjuA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How To Map The Date And Time API with JPA 2.2
+https://youtu.be/VpNckM79slg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to not use the getResultStream method
+https://youtu.be/azvhm3VTjjg&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+How to Persist Creation and Update Timestamps with Hibernate
+https://youtu.be/ZGKg1j72pdA&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA 2.2 - Introducing @Repeatable Annotations
+https://youtu.be/zFghAtPii6M&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+JPA vs Hibernate  The difference between save, persist, merge and update
+https://youtu.be/SH29O-bcQlc&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Liquibase  How to Automatically Update a Database
+https://youtu.be/m6uNyezQ-7s&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Should You Use JPA and Hibernate for Your next Project
+https://youtu.be/uVLujq7_35E&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Version based database migration with Liquibase
+https://youtu.be/SyrjSPC8EZ8&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+
+Why you should avoid CascadeType.REMOVE for to-many associations and what to do instead
+https://youtu.be/GFy8dJNCRcY&list=PL50BZOuKafAahDc-crUwcEEJ9Ae7b0AzT
+Videos 101-125

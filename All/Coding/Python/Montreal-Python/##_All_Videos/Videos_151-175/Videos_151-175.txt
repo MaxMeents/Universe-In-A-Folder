@@ -1,0 +1,76 @@
+
+ddbmock tests avec DynamoDB rapides et efficaces #MP32
+https://youtu.be/ikZsciz5tF0
+
+DynamoDB and DynamoDB-Mapper #MP32
+https://youtu.be/0RImm7EvIJw
+
+Gevent-socketio, cross-framework real-time web live demo #MP32
+https://youtu.be/xi4PNVk0RIc
+
+Guppy, un outil d'analyse de l'espace mémoire de process Python #MP34
+https://youtu.be/sNQ7zsRS5Vo
+
+Génération de courriels avec Genshi #MP32
+https://youtu.be/gKKzO1DQNBk
+
+How you can contribute to Python #MP32
+https://youtu.be/wTDuOlmqIg4
+
+Intro to Pandas with IPython notebook #MP35
+https://youtu.be/2JJ102ZpoH0
+
+Introduction to using Jenkins CI to test your Python code #MP33
+https://youtu.be/iGtM_OP01FU
+
+La plateforme de création Fabric Engine #MP33
+https://youtu.be/AR8sbabx02c
+
+Module of The Month itertools #MP33
+https://youtu.be/VxPoJbpqAzI
+
+Module of the Month itertools, Part 2 #MP34
+https://youtu.be/nsLOzpwYII8
+
+Module of the Month mock #MP35
+https://youtu.be/sB4hfBt_Ckc
+
+Person of the Month Guido van Rossum #MP34
+https://youtu.be/3T0KeKvLub4
+
+Pitivi, logiciel libre de montage vidéo en Python #MP34
+https://youtu.be/fACW50szTEU
+
+Présentation sommaire de OpenERP  #MP33
+https://youtu.be/BpagyMZTm2U
+
+PyBrain, a modular machine learning library for Python #MP35
+https://youtu.be/thAHR3_nj8E
+
+PyCon Canada Wrapup #MP33
+https://youtu.be/ppHrKyukYNY
+
+Python and SAP #MP33
+https://youtu.be/eFX3gCUtoWM
+
+Réseau Libre  un réseau Mesh à Montréal #MP32
+https://youtu.be/Dzequ8RzlxA
+
+Shinken  quand un Python rencontre Nagios #MP32
+https://youtu.be/6qAEOozgYwU
+
+System provisioning with Ansible -- a live demo #MP34
+https://youtu.be/up3ofvQNm8c
+
+Une application Facebook en 20 minutes avec Pyramid #MP34
+https://youtu.be/ams2Yk9UOIk
+
+Using NLTK #MP35
+https://youtu.be/KwDjL3lXz8Y
+
+Using Python for large scale network analysis #MP35
+https://youtu.be/7pZH3BsiexM
+
+Writing OpenERP modules in Python  #MP33
+https://youtu.be/JoanllMbmGw
+Videos 151-175

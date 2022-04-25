@@ -1,0 +1,67 @@
+
+Adam Wolff Rebuilding Facebook Chat
+https://youtu.be/unEuPvA2wnM&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Andrew Miadowicz What does Chakra do with your JavaScript
+https://youtu.be/OqnMmoF2GqM&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Daan van Berkel Rendering Mona Lisa by Solving the Traveling Salesman Problem
+https://youtu.be/eoaHsSmTQ2I&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Elise Huard Why functional is the new black
+https://youtu.be/3ujq55fCx6o&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Emily Rose Node.js & Black Box Prototyping
+https://youtu.be/gur5C_6XfeU&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Francisco Jordano OpenWebDevice First mobile running Firefox OS
+https://youtu.be/R-WmtKjwYWo&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Garann Means Improvisational JavaScript
+https://youtu.be/qzJ0hn1mHOw&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Irene Ros Bringing Data to your Client-Side Apps
+https://youtu.be/VHmyfXgcPM4&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Jason Huggins Everyone Loves Robots
+https://youtu.be/3vIVcDFoKvs&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Julian Viereck Don't dream - make the WebAPI of your dreams become real!
+https://youtu.be/cT9f-04K6JI&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Kamen Bundev Fixing the Mobile Web - tips and tricks that can save your sanity
+https://youtu.be/Z4EjMtQJXVo&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Kevin Markman Taking Web Apps Offline
+https://youtu.be/ejcJmeewtd4&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Lennart C. L. Kats Effectively Building Language Tools
+https://youtu.be/Pjh58l5OgSQ&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Margaret Leibovic Firefox for Android
+https://youtu.be/yRI38CIYXDo&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Markus Leutwyler How to get rich (quick) with JS
+https://youtu.be/bStff9X0oYI&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Max Krohn IcedCoffeeScript
+https://youtu.be/wwheL5TP_vE&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Michael Bebenita & Shu-yu Guo Low Level JavaScript
+https://youtu.be/IDmFZbP2b0A&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Neuman Vong The circuit as a point-free general model of computation
+https://youtu.be/hac-ThiXZp0&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Olov Lassus The story of when assumption met a magic hat
+https://youtu.be/yk6t4kRN53w&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Paul Campbell & Eamon Leonard Seacht
+https://youtu.be/EaeDpKnQX9Y&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Sam Dutton WebRTC Real-time communication without plugins
+https://youtu.be/mYQNEaOfqGI&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+
+Sebastian Golasch Prof. JavaScript and his incredible machines
+https://youtu.be/uPgZ_om6xfk&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL
+Videos 26-47

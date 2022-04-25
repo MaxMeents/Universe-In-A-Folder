@@ -1,0 +1,76 @@
+
+Python Basics Tutorial Asyncio Module Intro
+https://youtu.be/lWh9tTcFK0E
+
+Python Basics Tutorial Calendar First Week Day Function
+https://youtu.be/UxuZhrgCASs
+
+Python Basics Tutorial Calendar Leapdays Functions
+https://youtu.be/V1xDC5hiv34
+
+Python Basics Tutorial Can You Replicate the Code
+https://youtu.be/b3ATq2sXrqI
+
+Python Basics Tutorial Datetime Intro Date Object
+https://youtu.be/YRTIDThMCy0
+
+Python Basics Tutorial Django First View
+https://youtu.be/UHSioA14_vc
+
+Python Basics Tutorial Django Manage.py Startapp
+https://youtu.be/s0Ca-Tdon9Y
+
+Python Basics Tutorial How to Switch Screen in Kivy With ScreenManager
+https://youtu.be/4Buh0A9IbEY
+
+Python Basics Tutorial How to Use Pip Freeze to Create Requirements File
+https://youtu.be/kgfjoFvGFWA
+
+Python Basics Tutorial Keywords Async and Await with Sleep for Asynchronous Programming
+https://youtu.be/ET9P6jpPRpU
+
+Python Basics Tutorial Matplotlib 3D Scatter Plot
+https://youtu.be/-ZUYwKqeKfw
+
+Python Basics Tutorial Need Help With Playlists
+https://youtu.be/M8ZtfuMj-FM
+
+Python Basics Tutorial New Year New WebCam New Schedule
+https://youtu.be/D_XLy8QnQ5M
+
+Python Basics Tutorial Newer Version of Python
+https://youtu.be/TKkXJlIkUTs
+
+Python Basics Tutorial Numpy Intro Linear Algebra Package
+https://youtu.be/z4Csce88jc8
+
+Python Basics Tutorial Numpy Linear Algebra Inv And Dot Functions
+https://youtu.be/2w-364DUSbg
+
+Python Basics Tutorial Pandas DataFrame Mean Method with Fillna Method
+https://youtu.be/t5NUbThn6rY
+
+Python Basics Tutorial Pip Install Multiple Modules With Requirements File
+https://youtu.be/i4ECTQxIhkE
+
+Python Basics Tutorial Pip Install With Multiple Versions of Python
+https://youtu.be/0qpcz7k61aE
+
+Python Basics Tutorial Pip Show and Install Specific Version of Module
+https://youtu.be/JMyiz8ubLnE
+
+Python Basics Tutorial Pygame Random Choice Image
+https://youtu.be/ua_l49hL4Zg
+
+Python Basics Tutorial Sqlite Connection Rollback Function
+https://youtu.be/jOis1xE6aak
+
+Python Basics Tutorial Sqlite SQL Unique Constraint To Have No Duplicate Entries
+https://youtu.be/3K7encAWVww
+
+Python Basics Tutorial Tkinter Calculator with TTK Button Grid Method
+https://youtu.be/L0ujDpG3DaY
+
+Python Basics Tutorial Weekend Motivation
+https://youtu.be/BbGqAAQC3aM
+Videos 326-350

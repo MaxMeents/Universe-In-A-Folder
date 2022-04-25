@@ -1,0 +1,76 @@
+
+Adrian Perez de Castro JavaScript in JavaScript Inception  JSConf EU 2014
+https://youtu.be/F2cL4EOAztk
+
+Amy Palamountain Enemy of the State  JSConf EU 2014
+https://youtu.be/fAoSidif1gs
+
+Angelina Fabbro SEO for the New Millenium  DHTMLConf 2000  JSFest Oakland 2014
+https://youtu.be/X1nNkS4SVRw
+
+Brad Bouse Usefulness of Uselessness  JSConf EU 2014
+https://youtu.be/K7C7iUYntNs
+
+Brennan Novak Secure Crypto for Browser Based Apps  JSConf EU 2014
+https://youtu.be/xSIt6h_yjH0
+
+Chris Lienert Bad Form - JSConf.Asia 2014
+https://youtu.be/G7PBTOdAqrU
+
+CSSconf EU  Mood Film
+https://youtu.be/BhMf-DFEdOA
+
+CSSconf EU 2014  Mathias Bynens 3.14 Things I Didn't Know About CSS
+https://youtu.be/WjP7TEKB7Uo
+
+Dan Harden Navigating Virtual Worlds in Cyberspace with VRML  DHTMLConf 2000  JSFest Oakland 2014
+https://youtu.be/ru4JTnp0TmA
+
+Dan Mané Why are there so many Javascript charting libraries!  JSConf EU 2014
+https://youtu.be/_A_FdbTkp9c
+
+Jenn Schiffer State of the Malware  DHTMLConf 2000  JSFest Oakland 2014
+https://youtu.be/AleLPZzkQWc
+
+JSConf.ar 2014 - Closing
+https://youtu.be/sItvV4uol58
+
+JSConf.Asia 2014 Intro
+https://youtu.be/hJ_Ng5IhENs
+
+Matthew Podwysocki Async and Streaming JS - Are we doing it wrong  JSConf EU 2014
+https://youtu.be/-vPFP-2Mkl8
+
+Mikeal Rogers Future of Node - JSConf.Asia 2014
+https://youtu.be/Zpxlr1MuPYA
+
+Pawel Szymczykowski God's GIF to Web Design  DHTMLConf 2000  JSFest Oakland 2014
+https://youtu.be/ZfPmuuH8f6g
+
+Rachel White I'm a Pretty Big Deal On the Internet  DHTMLConf 2000  JSFest Oakland 2014
+https://youtu.be/_U8Np3_6GvQ
+
+Raul Fraile How GZIP compression works  JSConf EU 2014
+https://youtu.be/wLx5OGxOYUc
+
+Rik Arends Beyond HTML and CSS Fusing Javascript and shaders  JSConf EU 2014
+https://youtu.be/X8xxz-YeWtk
+
+Rob Ashton Got Make  JSConf EU 2014
+https://youtu.be/sS5EByZm1EI
+
+Sara Robinson What Harry Potter Can Teach Us About JavaScript  JSConf EU 2014
+https://youtu.be/osQbwqq7ZR4
+
+Sebastien Cevey Server-less applications powered by Web Components  JSConf EU 2014
+https://youtu.be/MdcD1rNkNLE
+
+Slava Kim Reactive Programming Made Simple - JSConf.Asia 2014
+https://youtu.be/CjzZif7z9SE
+
+Tim Pietrusky Nerd Disco  JSConf EU 2014
+https://youtu.be/tia6iP85Zuk
+
+Yang Bin Kwok IP Clusters - Scaling Zopim's Frontend Node Servers - JSConf.Asia 2014
+https://youtu.be/xYjWlrNN1Qw
+Videos 1051-1075

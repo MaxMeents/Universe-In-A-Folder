@@ -1,0 +1,76 @@
+
+@mentions for Users with ActionText in Rails 6
+https://youtu.be/aE1Mqzpxa1U
+
+Actionable Errors in Rails 6  Preview
+https://youtu.be/_KF7VhATpDY
+
+Autosave Draft Records in Rails - Part 1  Preview
+https://youtu.be/8khMir6F7eo
+
+Autosaving Draft Records in Rails - Part 2  Preview
+https://youtu.be/7gbXqZwXTmE
+
+Cross-origin Resource Sharing with Rails - Embeddable JS Widget Part 4  Preview
+https://youtu.be/FHSVdexIzMk
+
+Deploy Ruby on Rails To Production in 2019
+https://youtu.be/vzEEfAj45zw
+
+Dynamic Nested Forms with Stimulus  Preview
+https://youtu.be/qlbwGHwo9sc
+
+How to Contribute to Rails Adding a Rich Text Field Generator  Preview
+https://youtu.be/kmjL13l-i-Q
+
+How to Install TailwindCSS 1.0 with Rails 6
+https://youtu.be/L2nyKwrEY8w
+
+How to save Action Mailbox inbound HTML emails with Action Text & ActiveStorage  Preview
+https://youtu.be/j054Nu02IAk
+
+How to use ActionMailbox in Rails 6
+https://youtu.be/cQtmwrm93XA
+
+How to Use ActionText in Rails 6
+https://youtu.be/5V7wcDdK9sM
+
+How to use Bootstrap with Webpack & Rails
+https://youtu.be/bn9arlhfaXc
+
+How to Use Javascript via Webpacker in Rails 6 (and Flatpickr)
+https://youtu.be/Hz8d6zPDSrk
+
+How to use PurgeCSS to Remove Unused CSS Classes from Tailwind CSS, Bootstrap, and more!
+https://youtu.be/TSQE_ANDVtQ
+
+How to use the Ruby 2.6 Just-in-Time (JIT) Compiler
+https://youtu.be/oNg32-cZk64
+
+Jumpstart Ruby on Rails Template Walkthrough
+https://youtu.be/ssOZpISfIfI
+
+Requiring Strong Passwords with HaveIBeenPwned.com  Preview
+https://youtu.be/Izb_6PmIzQ0
+
+Restrict Javascript Widget to Registered Sites - Embeddable Javascript Widget Part 5  Preview
+https://youtu.be/OWruu264KN0
+
+Ruby Basics Symbols vs Strings
+https://youtu.be/5XaqGZq5r2M
+
+Security Hardening Production servers with fail2ban  Preview
+https://youtu.be/AJLTeWHLePw
+
+Server Administration with Cockpit
+https://youtu.be/8kSsO0nUGuc
+
+User Onboarding Progress Bar in Rails  Preview
+https://youtu.be/fRrXQkD2dv8
+
+Webpacker Javascript Embed Code Snippet & Scoped Styles - Embeddable JS Widget Part 6  Preview
+https://youtu.be/Ihs1F1nQPkg
+
+What's New in Rails 6.0 The dbsystemchange command
+https://youtu.be/FlY82Eiyx3o
+Videos 201-225

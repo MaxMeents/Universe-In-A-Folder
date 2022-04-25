@@ -1,0 +1,16 @@
+
+Python Basics Tutorial Datetime Date Object Today Method
+https://youtu.be/L8zG5Jdi8Dg&list=PLaYT64KWZAEO025TK2kpq1m3Uz3YZ3MGE
+
+Python Basics Tutorial Datetime Datetime Object
+https://youtu.be/xf2tzlMcu1A&list=PLaYT64KWZAEO025TK2kpq1m3Uz3YZ3MGE
+
+Python Basics Tutorial Datetime Intro Date Object
+https://youtu.be/YRTIDThMCy0&list=PLaYT64KWZAEO025TK2kpq1m3Uz3YZ3MGE
+
+Python Basics Tutorial Datetime TimeDelta
+https://youtu.be/rHVAKk6sJGE&list=PLaYT64KWZAEO025TK2kpq1m3Uz3YZ3MGE
+
+Python Basics Tutorial Pandas Date Range Function
+https://youtu.be/FG9_bZ3QAFI&list=PLaYT64KWZAEO025TK2kpq1m3Uz3YZ3MGE
+Datetime Module

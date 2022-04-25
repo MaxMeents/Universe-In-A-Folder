@@ -1,0 +1,76 @@
+
+Aman Tsegai Why d3 will be the standard for web visualization  js.la August 2016
+https://youtu.be/VJUFjiVBSMk
+
+Berglind Ósk Bergsdóttir Feeling like a fake - the Impostor Syndrome - JSConf Iceland 2016
+https://youtu.be/KlozcD5pmPw
+
+Chris Lienert Access All Areas - CSSConf.Asia 2016
+https://youtu.be/ic1TjKv_H2o
+
+David Blurton Full-stack JavaScript development with Docker - JSConf Iceland 2016
+https://youtu.be/zcSbOl8DYXM
+
+David Luecke Meet MySam - An open AI experiment - JSConf Iceland 2016
+https://youtu.be/C1Hld-ONeFA
+
+Denis Rechkunov Progressive Rendering – how to make your app render sooner - JSConf Iceland 2016
+https://youtu.be/aRaQe9n1lPk
+
+Felipe Ribeiro JavaScript @ Spotify - JSConf Iceland 2016
+https://youtu.be/9UsnX5X_DF0
+
+Franziska Hinkelmann Performance Profiling for V8 - JSConf.Asia 2016
+https://youtu.be/B9igDWV5ZUg
+
+Jan Jongboom Run Your JS App For Years On A Single Coin Cell - JSConf.Asia 2016
+https://youtu.be/3HLRwcVqgFE
+
+Jan Lehnardt The state of the JavaScript Community - JSConf Iceland 2016
+https://youtu.be/Q6gYFO4iGlk
+
+Jenna Zeigen On How Your Brain is Conspiring Against You Making Good Software - JSConf Iceland 2016
+https://youtu.be/XNfpnCLbRmc
+
+Johannes Ewald The future of frontend tooling - JSConf Iceland 2016
+https://youtu.be/VYjBp4z4XjY
+
+JSConf.Asia 2016 - Intro
+https://youtu.be/nN-Uu6yhweo
+
+Kenneth Ormandy Syntax Highlight Everything - CSSConf.Asia 2016
+https://youtu.be/ulilqtlRzqc
+
+Malte Ubl #notalljavascript (How to deal with 3rd party JS) - JSConf Iceland 2016
+https://youtu.be/jO1TNGNTwpc
+
+Mariko Kosaka Making a Robot Eye with JavaScript - JSConf Iceland 2016
+https://youtu.be/sMUj1LXDrBI
+
+Rachel Andrew Laying Out The Future With Grid And Flexbox - CSSConf.Asia 2016
+https://youtu.be/hj355PRbwSQ
+
+Raquel Vélez The npm website a tale of wonder and woe (and wombats!) - JSConf Iceland 2016
+https://youtu.be/uAT7MJnHnMs
+
+Ray Muneton 10 Secrets to Writing Perfect Code — You Won’t Believe #4!  js.la August 2016
+https://youtu.be/yW1DRqCqSUo
+
+Ruth John, Martin Schuhfuss and Matt McKegg { Live  JS } - JSConf.Asia 2016
+https://youtu.be/Ody93kpAjAY
+
+Sebastiaan Deckers Bundling With H2 Server Push - JSConf.Asia 2016
+https://youtu.be/BPcjN_1qsdA
+
+Soledad Penadés Make Websites, Not Apps - CSSConf.Asia 2016
+https://youtu.be/nARgq17LmBM
+
+Tilde Ann Thurium Pivoting to React, at scale - JSConf Iceland 2016
+https://youtu.be/t0s97w0GuF4
+
+Tryggvi Gylfason This will flow your mind - JSConf Iceland 2016
+https://youtu.be/p6rybcXZOD0
+
+Visnu Pitiyanuvath HSL The RGB You've Been Waiting For - JSConf Iceland 2016
+https://youtu.be/eIUCPpWBrIU
+Videos 676-700

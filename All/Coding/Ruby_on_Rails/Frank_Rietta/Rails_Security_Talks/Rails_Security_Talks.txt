@@ -1,0 +1,25 @@
+
+Data Breaches and Ruby developers, with live exploits via Chrome - Classroom - Tech Talent South
+https://youtu.be/OYg46fnX7so&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+Frederic Hemberger – “Developing a Mindset for Web-Security”  .concat() 2015
+https://youtu.be/0WoKdCna-TQ&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+GDPR on Rails The Working Rubyist’s Briefing on Designing for Security, Privacy, and Consent
+https://youtu.be/rk0J4LNwUYA&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+How a RubyRails developer can help prevent a Data Breach - Atlanta Ruby Users' Group - 2014
+https://youtu.be/w-4U3Eyb6xg&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+Railsgoat - Ken Johnson - Atlanta Ruby Meetup Group - 2014
+https://youtu.be/JIJjXpz0KTc&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+Rocky Mountain Ruby 2015 - Defending Against Data Breaches, as a Practicing Ruby Developer
+https://youtu.be/3JPBqu68Iqg&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+Ruby Midwest 2013 Rails Application Security in Practice by Bryan Helmkamp
+https://youtu.be/TGbeIxf5RnI&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+
+Understanding & Defending Against Data Breaches, as a Practicing Software Developer - Nash.rb
+https://youtu.be/dj196NhPyWs&list=PLqZY2tk6rSRm00CbcyOLsgxS3msTp7iG9
+Rails Security Talks

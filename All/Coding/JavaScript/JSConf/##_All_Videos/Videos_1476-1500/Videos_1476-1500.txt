@@ -1,0 +1,76 @@
+
+Alex Russell Performance of feature detection
+https://youtu.be/zVUoAymD5BM
+
+Brendan Eich SpiderNode, V8Monkey, and You
+https://youtu.be/irnvtt09CAM
+
+Brian Ford Is Node.js Better
+https://youtu.be/C5fa1LZYodQ
+
+Charlie Robbins Running Node.js in Production
+https://youtu.be/UIfWmFaCtuk
+
+Chris Williams Fuck cyberspaces, we'll do it live!
+https://youtu.be/3o0aXOGpSVY
+
+Dan Webb PIMP Your JS Library or Desgning Non-Shit APIs with JavaScript
+https://youtu.be/ifSDRxWMeyU
+
+Daniel Austin Toward a High-Performance JSON Protocol Notes
+https://youtu.be/ROt7rJ2PQis
+
+Dave Herman Modules for JS.next
+https://youtu.be/qM9u-5fjNvs
+
+Dethe Elza Introduction to Waterbear
+https://youtu.be/czJxO_kYfBk
+
+Felix Geisendörfer How to Test Asynchronous Code
+https://youtu.be/_9ZeKhARilA
+
+Guillermo Rauch socket.io
+https://youtu.be/AdA25J7gVDI
+
+Isaac Schlueter How npm Works
+https://youtu.be/ShRDgdvlZQ8
+
+Jacob Thornton Brûlons les musées
+https://youtu.be/zwoiwoVNaCQ
+
+JSConf 2012 Welcome Video
+https://youtu.be/vs6rCGwjzq8
+
+Marak Squires Every node.js module ever!
+https://youtu.be/Ryx9efq3V_I
+
+Marijn Haverbeke JavaScript Compilation Techniques or Wasn't JavaScript supposed to be slow
+https://youtu.be/rjo5IjJyORI
+
+Mark Headd JavaScript The Future of Telephony Application Development
+https://youtu.be/Ua0ZDu1cGkk
+
+Mary Rose Cook Fakery, Artificial Intelligence, Collision Detection, a 2D Platform Shooter in JS
+https://youtu.be/BYzvPhg4r8g
+
+Matt Ranney Debuggin a Large Node Cluster
+https://youtu.be/Y1pCVajebpE
+
+Matthew Eernisse Heaven & Hell JavaScript ... everywhere
+https://youtu.be/RM1jHROQtgQ
+
+Ray Morgan Apps vs Web Lesson from Zappos.com
+https://youtu.be/QaM3eDhABr8
+
+Rick Falkvinge Politics (or how we all make a difference)
+https://youtu.be/MXgyEDoqtps
+
+Rick Waldron Intermission Entertainment with Popcorn.js
+https://youtu.be/P2f-5XljUdM
+
+Sean Cribbs riak-js
+https://youtu.be/qtgMzabHPpk
+
+Thomas Fuchs Nano Pico Femto Atto Zepto!
+https://youtu.be/YPKNbY40pCE
+Videos 1476-1500

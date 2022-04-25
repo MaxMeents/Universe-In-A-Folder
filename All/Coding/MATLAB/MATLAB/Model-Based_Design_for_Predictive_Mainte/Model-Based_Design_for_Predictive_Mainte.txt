@@ -1,0 +1,22 @@
+
+Model-Based Design for Predictive Maintenance Series Introduction
+https://youtu.be/8k-cmf3uUyI&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+
+Model-Based Design for Predictive Maintenance, Part 1 Data Generation
+https://youtu.be/ZzcSXg_Fz98&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+
+Model-Based Design for Predictive Maintenance, Part 2 Feature Extraction
+https://youtu.be/Eu8jy-YvkLU&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+
+Model-Based Design for Predictive Maintenance, Part 3 Training a Machine Learning Model
+https://youtu.be/MT9i6xzlIYU&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+
+Model-Based Design for Predictive Maintenance, Part 4 Code Generation and Real-Time Testing
+https://youtu.be/v9Ge5bKSEXY&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+
+Model-Based Design for Predictive Maintenance, Part 5 Development of a Predictive Model
+https://youtu.be/8pryytVxzLs&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+
+Model-Based Design for Predictive Maintenance, Part 6 Deployment of a Predictive Model
+https://youtu.be/jJ_W_1uz0_k&list=PLn8PRpmsu08qe_LVgUHtDrSXiNz6XFcS0
+Model-Based Design for Predictive Maintenance

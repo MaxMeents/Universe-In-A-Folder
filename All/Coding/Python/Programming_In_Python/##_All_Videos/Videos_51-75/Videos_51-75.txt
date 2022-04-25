@@ -1,0 +1,76 @@
+
+How to access MySQL database in Python  Programming In Python
+https://youtu.be/Q7QF2GqrP48
+
+How to create a simple python GUI calculator using TKInter  Programming In Python
+https://youtu.be/bMicaNoVTfM
+
+How to create a temperature converter app in python GUI using TKInter - Part 1
+https://youtu.be/66szFLXzUs4
+
+How to create a temperature converter app in python GUI using TKInter - Part 2
+https://youtu.be/KxowzwigM8Q
+
+How to create a temperature converter app in python GUI using TKInter - Part 3
+https://youtu.be/y5wnFgyhl4E
+
+How to find number of digits in a given number in Python  programminginpython.com
+https://youtu.be/bpBBcymXP0U
+
+How to find Union of two lists using sets in Python  Programming In Python
+https://youtu.be/fYEC0mXj0Ss
+
+How to perform File Handling and IO operations in Python  programminginpython.com
+https://youtu.be/56tuiPd3SIA
+
+How to reverse a number using slice operations in python  programminginpython.com
+https://youtu.be/IkwgwS26_A4
+
+Introduction to Python GUI using TkInter – Labels, Frames, Buttons  programminginpython.com
+https://youtu.be/t0ZTmi7SNvU
+
+Layout Managers in Python GUI TKInter – Pack, Grid and Place  programminginpython.com
+https://youtu.be/lYQFIMOInSk
+
+Python Data Structures  Tuple Operations – Add, Remove, Slice, Concat, Reverse
+https://youtu.be/sChf1IF0hEM
+
+Python Dictionary  Python DataTypes  programminginpython.com
+https://youtu.be/hyB9_y4yGF8
+
+Python Lists Operations – Add, Append, Modify, Remove, Slice  programminginpython.com
+https://youtu.be/ET32jWw6Xr4
+
+Python program for performing Arithmetic Operations  programminginpython.com
+https://youtu.be/gGDi443HY0E
+
+Python program to calculate the sum of elements in a list  programminginpython.com
+https://youtu.be/6PWAb9Ps6Oo
+
+Python program to find a number is prime or composite  programminginpython.com
+https://youtu.be/hOKBY_96HG4
+
+Python program to find area of triangle (given base and height)  programminginpython.com
+https://youtu.be/f_u55NsrgRI
+
+Python Program to find area of triangle using herons formula  programminginpython.com
+https://youtu.be/PW2ie-NYg1g
+
+Python program to find average of N numbers  programminginpython.com
+https://youtu.be/2NKCBjuB0OM
+
+Python program to find Factorial of a given number  programminginpython.com
+https://youtu.be/yOgg0BKljnA
+
+Python Program to find the Biggest and Smallest of 3 numbers using lists  programminginpython.com
+https://youtu.be/-q1_cmXP3mw
+
+Python program to find whether an integer is even or odd number  programminginpython.com
+https://youtu.be/fDI4x1ciJjY
+
+Python program to merge or concatenate multiple Lists  programminginpython.com
+https://youtu.be/ul9vwrd4GeU
+
+Separate even and odd numbers in a list to 2 different lists  Programming In Python
+https://youtu.be/67pqIGhvGAo
+Videos 51-75

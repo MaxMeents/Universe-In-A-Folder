@@ -1,0 +1,76 @@
+
+10 行 MATLAB 代码实现迁移学习
+https://youtu.be/uRZp3pkeTec&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+MATLAB Grader 概述
+https://youtu.be/CyXH0Vri-WA&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+MATLAB小课堂——如何使用蒙特卡洛模拟进行预测？
+https://youtu.be/Aojvi8cyF0Y&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+MATLAB小课堂——如何在MATLAB中调用Python代码？
+https://youtu.be/pZCbzwslPsw&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+MATLAB小课堂——如何在Python中调用MATLAB代码？
+https://youtu.be/MR2Xnal52wU&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+MATLAB小课堂——如何加速 MATLAB 代码？
+https://youtu.be/dYBIi9UudMQ&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+为什么使用卡尔曼滤波器？
+https://youtu.be/9J-E_RfLyiY&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+了解卡尔曼滤波器——最优状态估计
+https://youtu.be/0VGw6aO4aR0&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+了解卡尔曼滤波器——最优状态估计算法和方程
+https://youtu.be/tqivOYmEwGc&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+了解卡尔曼滤波器——状态观测器
+https://youtu.be/G0YBzmMUvGA&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+了解卡尔曼滤波器——非线性状态估算器
+https://youtu.be/u2KpHT3nNrc&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+什么是机器学习？
+https://youtu.be/qXcFNMonaLg&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+信号处理中的深度学习
+https://youtu.be/7u0-QmAqso4&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+导入数据  MATLAB 数据科学系列视频，Part 1
+https://youtu.be/DpLvVL1wpLI&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+在 Simulink 中使用卡尔曼滤波器
+https://youtu.be/kirz0TJgMSg&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+在 Simulink 中使用扩展卡尔曼滤波器
+https://youtu.be/VANvNMWt_h4&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+深度学习入门——什么是卷积神经网络
+https://youtu.be/PjDW_Fv23Vw&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+深度学习入门——什么是深度学习
+https://youtu.be/0ndwYBNpzpY&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+深度学习入门——机器学习 VS 深度学习
+https://youtu.be/q96SBLEZtRU&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+机器学习快速入门—k均值聚类算法（k-means）
+https://youtu.be/qMkUCXJEn6k&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+机器学习快速入门—k近邻算法（K-NN）
+https://youtu.be/chbuAxkZ51o&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+机器学习快速入门—判别分析
+https://youtu.be/ejmzu7usCz0&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+机器学习快速入门—决策树（Decision Tree）
+https://youtu.be/kXOaYUaaYbo&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+机器学习快速入门—支持向量机（SVM）
+https://youtu.be/tOwnuv0RRJU&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+
+机器学习快速入门—线性回归
+https://youtu.be/plF6pk_-1kI&list=PLn8PRpmsu08pwojdnzCSoKRx1h6pSDtbI
+Videos 1-25

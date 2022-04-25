@@ -1,0 +1,76 @@
+
+Bitcoin Algo and Automated Trading Update
+https://youtu.be/ab4wZewtMZM
+
+Bitcoin Investing Compared to the dollar it sure looks good...
+https://youtu.be/0HhpHTTfcig
+
+Bitcoin Is it just a speculative Bubble
+https://youtu.be/whBuas5LJ9U
+
+Bitcoin Some of the downsides
+https://youtu.be/il-wojBjiUI
+
+Bitcoin Trading - Getting historical trade data
+https://youtu.be/WZjMcUudPJk
+
+Bitcoin Trading - Relative Strength Index (RSI)
+https://youtu.be/an8DFGE932I
+
+Bitcoin Trading - Streaming Live Bitcoin prices through Exchange API
+https://youtu.be/cWf-WXaLFJ8
+
+Bitcoin Trading - Visualizing our data in Matplotlib
+https://youtu.be/rrvvBJMpV1g
+
+Bitcoin Trading Back-testing our Relative Strength Index
+https://youtu.be/fRH3Dpj9UFE
+
+Bitcoin Trading Risks
+https://youtu.be/-6s4ximXkZY
+
+Bitcoin Why Merchants Love Bitcoin and Cryptocurrencies
+https://youtu.be/VJhXBK5ONjg
+
+How to do real-time Twitter Sentiment Analysis (or any analysis)
+https://youtu.be/7tYjUOAh8KU
+
+Installing Python 3 - How to installuse both Python 2 and Python 3
+https://youtu.be/IX6mc9l6tY4
+
+Live Bitcoin Trading and Getting Started
+https://youtu.be/kltVk3gQpCc
+
+Live Bitcoin Trading Session +8% in 30 minutes
+https://youtu.be/gkXPA0dsKNA
+
+Python 3 Programming Tutorial Math
+https://youtu.be/BvgPM9-krOY
+
+Python 3 Tutorial Print Function and Strings
+https://youtu.be/UsCQXe1OHZk
+
+Python How to open Big Data Files Buffering Tutorial
+https://youtu.be/i2DHWxtRqpE
+
+Python Programming Tutorial For else statement
+https://youtu.be/U0IQxUT-QP8
+
+Python Programming Tutorial Try Except Else Finally
+https://youtu.be/s4EvS91sx74
+
+Python Programming Tutorial Try Except Else
+https://youtu.be/dIP7wL7-Nlw
+
+Python Programming Tutorial While Else
+https://youtu.be/C4LUkwcXPWU
+
+Python Solving ValueError Too many values to unpack
+https://youtu.be/p2BwrdjlsW4
+
+Python Tutorial Function Argument Unpacking
+https://youtu.be/BnPO5OQ4ZZ4
+
+Why Python 3 Python 2 vs Python 3
+https://youtu.be/oVp1vrfL_w4
+Videos 951-975

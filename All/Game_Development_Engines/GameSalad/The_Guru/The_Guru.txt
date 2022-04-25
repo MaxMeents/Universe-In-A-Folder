@@ -1,0 +1,22 @@
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/##_All_Videos/##_All_Videos.txt
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/###_All_Playlists_Below/###_All_Playlists_Below.txt
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/Amazon_IAP/Amazon_IAP.txt
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/Creating_A_simple_Game/Creating_A_simple_Game.txt
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/Custom_collision_shape_animations/Custom_collision_shape_animations.txt
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/Gamesalad_Logic/Gamesalad_Logic.txt
+
+
+/All/Game_Development_Engines/GameSalad/The_Guru/Physics_in_gamesalad/Physics_in_gamesalad.txt
+The Guru

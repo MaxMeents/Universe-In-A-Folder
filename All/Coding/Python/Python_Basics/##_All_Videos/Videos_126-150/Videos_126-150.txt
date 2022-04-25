@@ -1,0 +1,76 @@
+
+Python Basics Tutorial 2 Ways to View Large DataFrame Ameritrade API  Part 11  Stock Screener
+https://youtu.be/xfrwSDu7YTY
+
+Python Basics Tutorial 4 Year Anniversary And Awesome Challenge
+https://youtu.be/TH9VPA9p9xE
+
+Python Basics Tutorial Can't Find Module  Requested Video
+https://youtu.be/F5YDhQ25Ka0
+
+Python Basics Tutorial Complete Ameritrade API Stock Screener
+https://youtu.be/3XjZBX3Pz3E
+
+Python Basics Tutorial Course Project
+https://youtu.be/mn-HoRRKjI8
+
+Python Basics Tutorial Deep Dive For Loop and Join Method  Requested Video
+https://youtu.be/E_myOenvOxo
+
+Python Basics Tutorial Deep Dive Sorted Function Key Argument
+https://youtu.be/mKPBE_a0tPk
+
+Python Basics Tutorial Doing Math with Input Function  Converting User Input
+https://youtu.be/nHEJo6RFcUU
+
+Python Basics Tutorial End Of Year And New Format
+https://youtu.be/RTNa4ALc2qo
+
+Python Basics Tutorial FileInput FileInput Object  Open Multiple Files
+https://youtu.be/AofNv8Ft4Pk
+
+Python Basics Tutorial FileInput Functions Open Multiple Files  With String Justify Formatting
+https://youtu.be/YxvBW5QIOzI
+
+Python Basics Tutorial FileInput Input Function  Open Multiple Files
+https://youtu.be/P721pdt1FHs
+
+Python Basics Tutorial How to Handle Failure
+https://youtu.be/8xjVFfHldVc
+
+Python Basics Tutorial How to handle Int or Float with  Builtin Eval Function
+https://youtu.be/GbEWP-C4kLA
+
+Python Basics Tutorial How to Mulit sort With Sorted Function
+https://youtu.be/q9X5p2bFg5c
+
+Python Basics Tutorial Multi Direction Multi Sort List of Lists
+https://youtu.be/zWwVcu5x8oU
+
+Python Basics Tutorial New Year New Things  Free Code Camp Top Contributor
+https://youtu.be/VRBn0t4-zr4
+
+Python Basics Tutorial Pandas DataFrame Is In Method  Ameritrade API Part 12  Stock Screener
+https://youtu.be/HFl2w1zRND4
+
+Python Basics Tutorial Set A Schedule
+https://youtu.be/vlZgplVRcJE
+
+Python Basics Tutorial Solve this problem with isdigit String Method
+https://youtu.be/Bf7d6V5DIiQ
+
+Python Basics Tutorial Stop Being In a Hurry
+https://youtu.be/HSzA5Q0cpV4
+
+Python Basics Tutorial Update
+https://youtu.be/BzhcVCMbxVA
+
+Python Basics Tutorial What Does This Do
+https://youtu.be/Bg73ZoepNb0
+
+Python Basics Tutorial What's the difference between Lists and Dictionaries
+https://youtu.be/h-D5A3mj5KI
+
+Python Basics Tutorial Wisdom Wednesday
+https://youtu.be/sTLtkczFu2M
+Videos 126-150

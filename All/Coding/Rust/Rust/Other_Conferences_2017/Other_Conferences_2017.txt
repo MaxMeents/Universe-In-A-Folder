@@ -1,0 +1,58 @@
+
+A (Not So Gentle) Introduction To Systems Programming In ATS by Aditya Siram
+https://youtu.be/zt0OQb1DBko&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Armin Ronacher A Python and Rust love story
+https://youtu.be/zmtHaZG7pPc&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Arthur Asatryan SFL Rust for the impatient
+https://youtu.be/R5qywnLplKY&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+C++Now 2017 Niko Matsakis Rust Hack Without Fear!
+https://youtu.be/lO1z-7cuRYI&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+CinciJS - WebAssembly with Chris Nelson
+https://youtu.be/gdTcKq3FJuI&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Code Generating a Safer Web with Rocket by Sergio Benitez
+https://youtu.be/QS8mrbAPLJc&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+codedive 2017 – Alex Crichton – Concurrency in Rust
+https://youtu.be/SiUBdUE7xnA&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Functional programming guerilla in the land of Rust - Tomasz Barański (Lambda Days 2017)
+https://youtu.be/y9ONOUm62_A&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Keynote - Rust confident, productive systems programming   by Aaron Turon
+https://youtu.be/C6dNx9pY7p8&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Level Up Your Concurrency Skills With Rust by David Sullins
+https://youtu.be/oIikwmeGVYY&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Nicholas Matsakis RUSTReach Further
+https://youtu.be/ksirw1v5gXk&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Niko Matsakis - Rust Putting Ownership to Use
+https://youtu.be/wXoY91w4Agk&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Rust 101
+https://youtu.be/FMqydRampuo&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Rust at Sentry · Armin Ronacher
+https://youtu.be/2Xu6EdEBa5E&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Rust intro for Java Developers by Hanneli Tavante
+https://youtu.be/zyCb-S1JjdI&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Rust Removing the Sharp Edges from Systems Programming - Jonathan Creekmore, Star Lab
+https://youtu.be/mrof3qy2MqA&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Taking Elixir to the Metal with Rust - Sonny Scroggin
+https://youtu.be/lSLTwWqTbKQ&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+WebAssembly In Action
+https://youtu.be/DKHuEkmsx3M&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+
+Why is Rust Successful • Florian Gilcher • GOTO 2017
+https://youtu.be/-Tj8Q12DaEQ&list=PL85XCvVPmGQiK76njbLsKRqKPQmT_csiS
+Other Conferences 2017

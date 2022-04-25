@@ -1,0 +1,76 @@
+
+5G What's behind the next generation of mobile communications
+https://youtu.be/GQhlBB8bLKE
+
+Accelerate 5G Development with MATLAB and Simulink - 5G Wireless Technology Development
+https://youtu.be/NBgcPFKfRSw
+
+Interactively Build, Visualize, and Edit Deep Learning Networks
+https://youtu.be/vX9rw6KIMa8
+
+Modify a Deep Learning Network for Transfer Learning Interactively
+https://youtu.be/jx8hhHu_06k
+
+Physical Modeling Tutorial, Part 1 Introduction to Simscape
+https://youtu.be/liIKeYxa00I
+
+Physical Modeling Tutorial, Part 2 Simscape Fundamentals
+https://youtu.be/X76cKIVe-HY
+
+Physical Modeling Tutorial, Part 3 Introduction to Vehicle Modeling
+https://youtu.be/MDXwZhKlELI
+
+Physical Modeling Tutorial, Part 4 Powertrain Modeling
+https://youtu.be/SM5GcMph7oc
+
+Physical Modeling Tutorial, Part 5 Vehicle Drive and Control
+https://youtu.be/hUfx54xloME
+
+Physical Modeling Tutorial, Part 6 Introduction to Multibody Simulation
+https://youtu.be/lItmRlH4iBw
+
+Physical Modeling Tutorial, Part 7 Building Components
+https://youtu.be/qZ3XifnWDN4
+
+Physical Modeling Tutorial, Part 9 Building Mechanical Assemblies Part 2
+https://youtu.be/iJaWACyVZoU
+
+Predictive Maintenance, Part 2 Feature Extraction for Identifying Condition Indicators
+https://youtu.be/pcXr8I2QvHw
+
+Spatial Multiplexing and Hybrid Beamforming
+https://youtu.be/6wAuPI9ZYgw
+
+State Space, Part 2 Pole Placement
+https://youtu.be/FXSpHy8LvmY
+
+State Space, Part 3 A Conceptual Approach to Controllability and Observability
+https://youtu.be/BYvTEfNAi38
+
+Using MATLAB to develop 5G RF front-end components and associated control algorithms
+https://youtu.be/a1O0YGNR-HA
+
+What Is Simscape Driveline
+https://youtu.be/D4hPo4AZn4Q
+
+What Is Simscape Electrical
+https://youtu.be/W6H71Fb0MTc
+
+机器学习快速入门—k均值聚类算法（k-means）
+https://youtu.be/qMkUCXJEn6k
+
+机器学习快速入门—k近邻算法（K-NN）
+https://youtu.be/chbuAxkZ51o
+
+机器学习快速入门—判别分析
+https://youtu.be/ejmzu7usCz0
+
+机器学习快速入门—决策树（Decision Tree）
+https://youtu.be/kXOaYUaaYbo
+
+机器学习快速入门—支持向量机（SVM）
+https://youtu.be/tOwnuv0RRJU
+
+机器学习快速入门—线性回归
+https://youtu.be/plF6pk_-1kI
+Videos 1101-1125

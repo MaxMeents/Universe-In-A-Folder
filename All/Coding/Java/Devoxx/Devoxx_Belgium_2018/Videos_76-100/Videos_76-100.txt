@@ -1,0 +1,76 @@
+
+A Better Approach for Testing Micro Services – Introducing Test Kits in Practice  by  Maxim Novak
+https://youtu.be/BhjFUVuPa2U&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Be More Productive With IntelliJ IDEA by Trisha Gee
+https://youtu.be/CmPJzEqFS4s&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Building a Resilient, Secure, and Maintainable API Platform using Finagle  by  Alessandro Vermeulen
+https://youtu.be/5A8g11-np10&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Connected sensors and data visualization to measure hardness at work  by  Christophe Jollivet, Séba
+https://youtu.be/h7tqTnIIV8c&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Google Open Source Container Tools Life of a happy developer in a container world  by  David Gageot
+https://youtu.be/4uU44VviyjM&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Integrating your Android app with Actions on Google for the Google Assistant  by  Antonio Marin Neto
+https://youtu.be/g4jRLNFh8pA&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Java developer’s journey in Kubernetes land by Arun Gupta
+https://youtu.be/avsWxAcjn20&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Java in 2018 Change is the Only Constant Keynote by Mark Reinhold
+https://youtu.be/wHoRBvt3U6o&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Java, Today and Tomorrow by Mark Reinhold
+https://youtu.be/Csc2JRs6470&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Less Process, more Guidance with a Team Playbook by Sven Peters
+https://youtu.be/DonWQh-JxHk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Majestic Modular Monoliths by Axel Fontaine
+https://youtu.be/BOvxJaklcr0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+OOP v̶s̶ and FP by Mario Fusco
+https://youtu.be/p6cZO5V2ehw&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Patterns for building resilient software systems by Adrian Hornsby
+https://youtu.be/0KHSr8Fzi5c&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Processing Fast Data with Apache Spark The Tale of Two Streaming APIs by Gerard Maas
+https://youtu.be/XZPINEPPmoY&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Project Loom Fibers and Continuations for Java by Alan Bateman
+https://youtu.be/vbGbXUjlRyQ&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Secure microservices made easy with MicroProfile JWT  by  Emily Jiang
+https://youtu.be/XvrlCgOpvGI&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Sitting Considered Deadly by Marek Stój
+https://youtu.be/GaxM5nlPnQU&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Solving a complex game with AI and all the Google Cloud power by Juantomas Garcia, Sebastián Jesús
+https://youtu.be/fDvZnJhYBp0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Spring Boot with Kotlin, functional configuration and GraalVM by Sébastien Deleuze
+https://youtu.be/oN3QOsZ1KAw&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Spring Framework 5 1 on JDK 8 & 11 by Juergen Hoeller
+https://youtu.be/I0DqdRHepks&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Upgrading to Angular without ngUpgrade by Erin Coughlan
+https://youtu.be/6KCnV72vrXY&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+WebSocket based chat app in 10 minutes using Spring Boot, Reactor and Vaadin by Matti Tahvonen
+https://youtu.be/X06Ie3RTRfg&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Welcome keynote by Stephan Janssen
+https://youtu.be/xv_TNiX15Pk&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Why you should love TypeScript   A practical guide by Deepu K Sasidharan
+https://youtu.be/SBwGH4kbkms&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+
+Your GraphQL field guide by Bojan Tomić
+https://youtu.be/ROwICdehlb0&list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH
+Videos 76-100

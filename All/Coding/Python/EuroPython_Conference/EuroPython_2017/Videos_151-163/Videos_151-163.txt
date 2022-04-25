@@ -1,0 +1,40 @@
+
+Angela Branaes - Building a full-stack web application with Python, NPM, Webpack and React
+https://youtu.be/nfi0hX-F8Zo&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Ben Nuttall - Physical computing with Raspberry Pi and Python
+https://youtu.be/nJi2KKvD-PU&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Elizaveta Shashkova - Debugging in Python 3.6 Better, Faster, Stronger
+https://youtu.be/sAvOZlbh9mQ&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Enrico Carbognani - A  robotic platform for natural and effective human-robot interaction
+https://youtu.be/Iku1zZFRogc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+EuroPython 2017 - Closing Session
+https://youtu.be/IUmMj87Hwoc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Justin Mayer - Replacing passwords with multiple factors email, OTP, and hardware keys
+https://youtu.be/sU_elBu36J4&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Mark Shannon - Finding bugs for free The magic of static analysis.
+https://youtu.be/za46X_TRjwc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Marwan Al-Sabbagh - Executing scripts in a few milliseconds with MicroPython
+https://youtu.be/lEaUVGi1iKk&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Maximilian Scholz - Linespots Predicting Bugs in your Code
+https://youtu.be/Zkn_knMZAlo&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Nicolle Cysneiros - Graph Databases Talking about your Data Relationships with Python
+https://youtu.be/Fy611BorGTc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Radoslav Georgiev - Practical Debugging - Tips, Tricks and Ways to think
+https://youtu.be/9Ys4gCUtTh8&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Thomas Kluyver - Jupyter notebooks for teaching and learning
+https://youtu.be/S7uUEwICDcc&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+
+Wilhelm Van Der Walt - Lessons learnt building a medical chatbot in Python
+https://youtu.be/U8JO7QUxvyQ&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh
+Videos 151-163

@@ -1,0 +1,61 @@
+
+(#0) Arrows Game Tutorial Introduction  Construct 3  HTML5 Game
+https://youtu.be/CQgQeNffyTc
+
+(#1) Arrows Game Tutorial Creating Game Objects  Construct 3  HTML5 Game
+https://youtu.be/8mpPvH2Lpx8
+
+(#2) Arrows Game Tutorial Shooting the Arrows & Hitting the Target  Construct 3  HTML5 Game
+https://youtu.be/lkfihphWxr0
+
+(#3) Arrows Game Tutorial Getting & Showing the Score  Construct 3  HTML5 Game
+https://youtu.be/0R_Hc1TZBQ0
+
+Audio in Construct 3 - How to Fix Common Problems
+https://youtu.be/3Haj74T85IM
+
+Construct 3 (#0) Introduction of Snake Game Tutorial  HTML5 Game Tutorial
+https://youtu.be/z0qf8d0RHK8
+
+Construct 3 (#1) Creating a Grid Using For Loops  HTML5 Game Tutorial
+https://youtu.be/ZCgC5bxv-yw
+
+Construct 3 (#2) Putting the Grid in the Middle of the Screen  HTML5 Game Tutorial
+https://youtu.be/doL_cc1fjG0
+
+Construct 3 (#3) Creating the Snake's Head & Moving it  HTML5 Game Tutorial
+https://youtu.be/PvGctkQh5Gc
+
+Construct 3 (#4) Moving the Snake Parts  HTML5 Game Tutorial
+https://youtu.be/rJ75IF9BAiM
+
+Construct 3 (#5) Wrapping the Play Area  HTML5 Game Tutorial
+https://youtu.be/QGjzmdN4rLk
+
+Construct 3 (#6) Creating Foods  HTML5 Game Tutorial
+https://youtu.be/LC7icOgurSs
+
+Construct 3 (#7) Implementing Score System  HTML5 Game Tutorial
+https://youtu.be/p2p104Q6IBY
+
+Construct 3 (#8) Adding Game Over  HTML5 Game Tutorial
+https://youtu.be/eHIH0F8rylw
+
+Construct vs Unity The Blue Block Story
+https://youtu.be/4ZI0v4a8F80
+
+Custom Loading Bar in Construct 3 Tutorial
+https://youtu.be/G9ZBV3g5o2s
+
+How to Make a Game Responsive In Construct 3
+https://youtu.be/5Fl3GVsDXFQ
+
+How to Make Snow Particles in Construct 3 Game
+https://youtu.be/K9vVUNdAmYo
+
+Implementing Admob Ads in Construct 3
+https://youtu.be/QM7ISrQuOA8
+
+Making of Our HTML5 Game DD Alpha Balls
+https://youtu.be/Zpc0kujpJT0
+Videos 26-45

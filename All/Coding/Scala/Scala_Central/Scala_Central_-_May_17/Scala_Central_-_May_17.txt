@@ -1,0 +1,10 @@
+
+[Scala Central] Antonio & Daniel - CICD Pipeline with SBT
+https://youtu.be/S1lUAITjc4c&list=PLKh1qHtBk9VS6a54DtqFnVf0pPwO02pjj
+
+[Scala Central] Gerard Maas - Data Analytics Jobs with Spark, Scala and Spark Notebook
+https://youtu.be/q3TjGjffs3g&list=PLKh1qHtBk9VS6a54DtqFnVf0pPwO02pjj
+
+[Scala Central] Giuseppe Scopelliti - Expression Problem
+https://youtu.be/BP2OmYuTUhs&list=PLKh1qHtBk9VS6a54DtqFnVf0pPwO02pjj
+Scala Central - May 17

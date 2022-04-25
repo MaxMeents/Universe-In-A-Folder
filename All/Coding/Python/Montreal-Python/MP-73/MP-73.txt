@@ -1,0 +1,16 @@
+
+Keep It Simply Annotated, Stupid - Sébastien Portebois
+https://youtu.be/GPE_EzjID24&list=PLQIcnBElABavh-G_LDxzfmXSAvwUAwltL
+
+Numpy to PyTorch - Shagun Sodhani
+https://youtu.be/XHefGxjq2yI&list=PLQIcnBElABavh-G_LDxzfmXSAvwUAwltL
+
+Private video
+https://youtu.be/P-76Q_eAfYs&list=PLQIcnBElABavh-G_LDxzfmXSAvwUAwltL
+
+Python packaging for everyone - Eric Araujo
+https://youtu.be/4BD-I9zYlzM&list=PLQIcnBElABavh-G_LDxzfmXSAvwUAwltL
+
+Why are robots becoming Pythonistas - Maxime St-Pierre
+https://youtu.be/Xnyzou5bSZ0&list=PLQIcnBElABavh-G_LDxzfmXSAvwUAwltL
+MP-73

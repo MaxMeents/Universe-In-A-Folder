@@ -1,0 +1,16 @@
+
+Predictive Maintenance, Part 1 Introduction
+https://youtu.be/RmVWKLbLq2Y&list=PLn8PRpmsu08p_DFn1Q7xOrE_2BsIw-Yz1
+
+Predictive Maintenance, Part 2 Feature Extraction for Identifying Condition Indicators
+https://youtu.be/pcXr8I2QvHw&list=PLn8PRpmsu08p_DFn1Q7xOrE_2BsIw-Yz1
+
+Predictive Maintenance, Part 3 Remaining Useful Life Estimation
+https://youtu.be/Dd_4rbWYgI4&list=PLn8PRpmsu08p_DFn1Q7xOrE_2BsIw-Yz1
+
+Predictive Maintenance, Part 4 How to Use Diagnostic Feature Designer For Feature Exraction
+https://youtu.be/oDd7aEmRNpI&list=PLn8PRpmsu08p_DFn1Q7xOrE_2BsIw-Yz1
+
+Predictive Maintenance, Part 5 Digital Twin
+https://youtu.be/cfbKR48nSyQ&list=PLn8PRpmsu08p_DFn1Q7xOrE_2BsIw-Yz1
+预测性维护

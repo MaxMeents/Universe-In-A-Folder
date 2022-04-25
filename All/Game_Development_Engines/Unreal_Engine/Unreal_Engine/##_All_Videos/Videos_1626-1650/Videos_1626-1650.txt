@@ -1,0 +1,76 @@
+
+BP 3rd Person Game Add Physics Components for Punching  21  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/C_JCtGNW5D8
+
+BP 3rd Person Game Animation BP EventGraph  11  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/O4LNvsFyuLM
+
+BP 3rd Person Game Animation BP Punching Setup  18  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/gwD66cYmwQE
+
+BP 3rd Person Game Basic Character Material  06  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/Xhb3rFYTxIA
+
+BP 3rd Person Game Blend Spaces  07  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/7b9WM8TVdpA
+
+BP 3rd Person Game Building the AnimGraph  10  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/gTTx17qLK-o
+
+BP 3rd Person Game Character BP Components  12  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/rMolbbWOlEs
+
+BP 3rd Person Game Character Gamepad & Touch Controls  15  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/XHHAjRVBc9Y
+
+BP 3rd Person Game Character Keyboard & Mouse Controls  13  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/IIIpZ_7RaEM
+
+BP 3rd Person Game Creating Animation Notifies  22  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/clWHpTtgTOw
+
+BP 3rd Person Game FBX Importing & Using Skeletons  03  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/BJrHGwDkAGw
+
+BP 3rd Person Game Game Mode & Testing  14  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/r2flZ-rqQ2k
+
+BP 3rd Person Game Intro to Animation Blueprints  08  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/Mr7q5Cfjj7c
+
+BP 3rd Person Game Intro to Animation Montage  16  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/fkbftFEEmx8
+
+BP 3rd Person Game Intro to Persona  04  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/dPprPiUgSyw
+
+BP 3rd Person Game Intro to State Machines  09  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/NYFeFUxU6DI
+
+BP 3rd Person Game Introduction  01  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/hRO82u1phyw
+
+BP 3rd Person Game Playing Our Animation Montage  19  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/200-D0A3ntU
+
+BP 3rd Person Game Project Creation & FBX Download  02  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/rMOuDw5jnmk
+
+BP 3rd Person Game Setting Up Inputs  05  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/0pJmADwMkqQ
+
+BP 3rd Person Game Skeleton Retargeting & Montage Setup  17  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/5DR7pxGouWE
+
+BP 3rd Person Game Using Slot Nodes & Branch Points  20  v4.8 Tutorial Series  Unreal Engine
+https://youtu.be/6aZbnldZjeM
+
+Creating A Boy and His Kite  01  Live Training  Unreal Engine
+https://youtu.be/eYDn2sQ8uKs
+
+Creating A Boy and His Kite  02  Live Training  Unreal Engine
+https://youtu.be/hNgcQ0BeGCs
+
+Using Material Effects  Live Training  Unreal Engine
+https://youtu.be/enx6ShyKUL8
+Videos 1626-1650

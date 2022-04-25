@@ -1,0 +1,76 @@
+
+Arithmetic Operators in C Programming
+https://youtu.be/r8AGPBJ6t3s
+
+Bar Graph  Bar Chart  Matplotlib  Python Tutorials
+https://youtu.be/Go0jBRVqmEI
+
+Bitwise Operators ( AND  OR ) in C Programming
+https://youtu.be/j6JAWHKH4Tk
+
+Bitwise Operators (XOR  Compliment) in C Programming
+https://youtu.be/48CL8t-jerw
+
+Horizontal Bar Graph  Bar Chart  Matplotlib  Python Tutorials
+https://youtu.be/KGlrNGgJXQI
+
+How To Add Annotation To The Plot  Annotate Function in Matplotlib  Python Tutorials
+https://youtu.be/jWXZ5z8oEMk
+
+How To Add Box Around The Text in The Plot  bbox Keyword Argument  Matplotlib  Python Tutorials
+https://youtu.be/a8q3Dq74BxY
+
+How To Add Text To The Plot  Text Function in Matplotlib  Python Tutorials
+https://youtu.be/wp2-dEe2St4
+
+Implement Stack Using List  Python Tutorials  Data Structures
+https://youtu.be/AKO9nI4tuhs
+
+Implement Stack using Modules  Python Tutorials  Data Structures
+https://youtu.be/Gg2lj65aNCo
+
+Increment And Decrement Operators in C Programming  ++ And --
+https://youtu.be/Po9ctW1zSo8
+
+Introduction To Data Structures  Python Tutorials
+https://youtu.be/8e_PwxYGZrA
+
+Introduction To Queue  Data Structure  Python Tutorials
+https://youtu.be/PyAH9-SgTCI
+
+Introduction To Stack  Data Structures  Python tutorials
+https://youtu.be/lfNfGR3BZHM
+
+List And Tuple  Data Structures  Python Tutorials
+https://youtu.be/hdzxzBRXKJ0
+
+Logical Operators in C Programming
+https://youtu.be/WIJwQW5vMZc
+
+Multiple Bar Chart  Grouped Bar Graph  Matplotlib  Python Tutorials
+https://youtu.be/ZjQCPMO7LBE
+
+Program To Calculate LCM Of Two Numbers  Python Tutorials
+https://youtu.be/6ykRY6bHVX0
+
+Program To Calculate LCM Using GCD  Relation Between GCD And LCM  Python Tutorials
+https://youtu.be/7WalwIW0VKI
+
+Python Programming Tutorial - Nested if statements  if elif else Ladder
+https://youtu.be/FxgdXXjn6B4
+
+Relational Operators in C Programming
+https://youtu.be/S-_Q9RVnAWQ
+
+Set And Dictionary  Data Structures  Python Tutorials
+https://youtu.be/APY_pYeMRkw
+
+Sine and Cosine Graph  Matplotlib  Python Tutorials
+https://youtu.be/GG7qdodCoSY
+
+Stacked Bar Graph  Matplotlib  Python Tutorials
+https://youtu.be/fOJycZMxuoQ
+
+Types of Plot  Line Plot  Matplotlib  Python Tutorials
+https://youtu.be/C3h0tVoo944
+Videos 101-125

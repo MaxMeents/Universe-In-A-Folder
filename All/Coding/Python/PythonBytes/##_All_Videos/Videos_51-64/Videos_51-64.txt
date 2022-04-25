@@ -1,0 +1,43 @@
+
+How To Install Python On Windows 2015
+https://youtu.be/oK-YYeiPUSM
+
+Install wxPython On Windows 2015
+https://youtu.be/5YkuVghUtxM
+
+Python 3 Install on Windows - Enviroment Variables
+https://youtu.be/1S7CrwRclnI
+
+Python 3 Install On Windows - wxPython Phoenix
+https://youtu.be/_djD5EHfNCw
+
+Python 3 Install On Windows
+https://youtu.be/Rpy3DtsNoHI
+
+Python Web Frameworks 1 Install Bottle
+https://youtu.be/YbPw-3SJWSw
+
+Python Web Frameworks 2 Bottle Todo Application
+https://youtu.be/4Z4Ed3E4O8A
+
+Python Web Frameworks 3 Bottle Todo Overview
+https://youtu.be/Wk5BFsHN7Ng
+
+Python Web Frameworks
+https://youtu.be/N0Pd83eDt7s
+
+wxFormBuilder Build a Python Gif Viewer Part 10 - Gif Animator
+https://youtu.be/18lrz7H0EZo
+
+wxFormBuilder Build a Python Gif Viewer Part 11 - Gif Animator Code
+https://youtu.be/BvbpaslNsFY
+
+wxFormBuilder Build a Python Gif Viewer Part 12 - Final Code
+https://youtu.be/F4mqVOXI8zw
+
+wxFormBuilder Build a Python Gif Viewer Part 8 - listbox
+https://youtu.be/6yvCy9s_ZBA
+
+wxFormBuilder Build a Python Gif Viewer Part 9 - listbox Code
+https://youtu.be/MLOLScNwQZ0
+Videos 51-64

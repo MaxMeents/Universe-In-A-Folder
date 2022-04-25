@@ -1,0 +1,40 @@
+
+Architecture - Tonya Mork - 2018 JavaScript for WordPress Conference
+https://youtu.be/iEKDTISxYXw&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+Continuous Integration w WordPress - Andrew Taylor - 2018 JS for WP Conf
+https://youtu.be/UqBK8drIQVY&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference
+https://youtu.be/6CuM1PY9ESQ&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+JavaScript and WordPress REST API Security - David Hayes - JavaScript for WordPress Conference 2018
+https://youtu.be/3oH0rwulqY8&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+JavaScript Build Tool w WordPress - Julien Melissas - JavaScript for WordPress Conference 2018
+https://youtu.be/E-YCCNGG2pc&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+JavaScript Hooks in WordPress - Adam Silverstein - JavaScript for WordPress Conference 2018
+https://youtu.be/uqoGG9l2BBs&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+Opening Remarks w Zac Gordon - JavaScript for WordPress Conference 2018
+https://youtu.be/4WRvBo1BSxw&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+Progressive Web Apps PWA for WordPress - Mike Crantea - 2018 JavaScript for WordPress Conference
+https://youtu.be/jwhuVNTGg78&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+Redux with WordPress - Josh Pollock - 2018 JavaScript for WordPress Conference
+https://youtu.be/gvjPg1GdIrw&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+Teaching Teams Deeply - Brian Richards - 2018 JavaScript for WordPress Conference
+https://youtu.be/ynELFiDPujw&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+The User Experience Bridge - Tammie Lister - JavaScript for WordPress Conference 2018
+https://youtu.be/kxDMYfWlpgg&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+Vue for WordPress - Jacob Arriola - 2018 JavaScript for WordPress Conference
+https://youtu.be/B8SgHqlmkC8&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+
+WordPress for JavaScript Developers - Chris Ferdinandi - 2018 JavaScript for WordPress Conference
+https://youtu.be/GdGigDEWERU&list=PLruo2gSoqlejyHX8nThuSJ1TlEewtY4nz
+2018 JavaScript for WordPress Conference

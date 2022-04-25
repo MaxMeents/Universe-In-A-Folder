@@ -1,0 +1,76 @@
+
+2D and 3D plots in MATLAB MATLAB solutions
+https://youtu.be/7ob131VVNNo
+
+Age detection using Neural network with Matlab  MATLABSolutions
+https://youtu.be/Afw2MJUiqoQ
+
+Brain tumor detection using different machine learning algorithm using MATLAB  MATLAB solutions
+https://youtu.be/j9nQmNJQ_yI
+
+Classification of Covid and Non-Covid Lungs CT-Scan using Deep Learning with MATLABMATLABsolutions
+https://youtu.be/IZ9uu-pnQZk
+
+Control of Magnetic suspension system using lead compensator in MATLAB MATLAB solutions
+https://youtu.be/6e99_zDX5k0
+
+Corona virus gene sequence analysis using MATLAB. MATLAB SOLUTIONS
+https://youtu.be/Rk23xpVXdos
+
+COVID-19 Simulating of exponential spread of corona virus using MATLAB  MATLAB Solutions
+https://youtu.be/95wIwyccSqE
+
+DIgSILENT PowerFactory  HVDC Connected Offshore Wind Farm  MATLAB Solutions
+https://youtu.be/EZxb-nK6whQ
+
+Fuel cell and battery management  simulation using MATLAB  MATLAB solutions #fuelcell #battery
+https://youtu.be/-f5bqX3W3_o
+
+How to classify credit card rating data using machine learning with Matlab  MATLABSolutions .
+https://youtu.be/NniKLI2Aqno
+
+How to design Boost converter in  MATLAB Simulink  MATLAB Solutions
+https://youtu.be/dK-B6lHFwBU
+
+How to design power measuring system for three phase circuit in MATLABMatlab Solutions
+https://youtu.be/25X38zMrQyI
+
+How to design simulation of PV with Boost converter in MATLAB Simulink  MATLAB Solutions
+https://youtu.be/hmeO2sKmzOs
+
+How to write MATLAB code  MATLAB Solutions
+https://youtu.be/DJBQ_HLt6VU
+
+Introduction to loop and plotting using MATLAB MATLAB solutions
+https://youtu.be/WrQ5ZnLBUew
+
+Matlab Simulation of energy storage system with fuel cell and super capacitor  MatlabSolutons
+https://youtu.be/p9kE2X5QwL8
+
+Matlab simulation of speed control of BLDC motor using neural network  MATLAB solutions.
+https://youtu.be/HFVqZbwdFrA
+
+Matlab Simulation of wind turbine with mmc converter.  Matlabsolutions
+https://youtu.be/PpVjj4MYycg
+
+Noise removal from Noisy Audio signal using filters in MATLABMATLAB SOLUTIONS
+https://youtu.be/QC0Pl8sirXU
+
+PV & wind hybrid system with Battery management using fuzzy controller with Grid  Matlab solutions
+https://youtu.be/55qqZ4xALPg
+
+Road traffic Detection using Deep learning with MATLAB code  Traffic Detection  MATLAB solutions
+https://youtu.be/LCmJ1yoWUhM
+
+Stabilization of inverted pendulum using MATLAB App designer MATLAB Solutions
+https://youtu.be/r02pkWfnAqc
+
+Step by step designing battery power circuit with dc dc converter using MATLABMATLAB solutions.
+https://youtu.be/AXXyN_5n-p8
+
+Step by Step Modelling of Wind Energy Conversion System based on PMSG  using MATLABMATLAB Solutions
+https://youtu.be/5EVT_GaGZ40
+
+Step by step plotting 2d plots  in MATLABMATLAB solutions
+https://youtu.be/ZY-eG6GEO9A
+Videos 1-25

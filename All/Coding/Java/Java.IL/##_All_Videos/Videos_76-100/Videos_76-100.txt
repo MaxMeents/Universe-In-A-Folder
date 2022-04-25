@@ -1,0 +1,76 @@
+
+5 Unit testing facts I wish I knew 7 years ago  Dror Helper - CodeValue
+https://youtu.be/ksZ-RXJHF54
+
+Abstractions, Functional Programming and Theorems for Free  Shimi Bandiel
+https://youtu.be/3Bnw6nZ_khw
+
+Advanced Patterns in Asynchronous Programming
+https://youtu.be/s5Q2Uz4nt6o
+
+Building Event-Driven Micro-services with Event Sourcing and CQRS - Lidan Hifi  Wix
+https://youtu.be/HiobaesrTio
+
+Capitalizing on a Great IDEA - Becoming a super user with IntelliJ  Maxim Novak - Wix
+https://youtu.be/X_Q82dChJbY
+
+Finding your organization’s code deodorant - Ittai Zeidman  Wix
+https://youtu.be/YakML_r-bOI
+
+Fire Walk With Me Using FlameGraphs To Illuminate The JVM
+https://youtu.be/xg2JN5y5Vwo
+
+Groovy Powered Clean Code  Noam Tenne @ Codefresh
+https://youtu.be/GYZo0BK166g
+
+How NOT to Measure Latency (Part 1) - Gil Tene  Azul Systems
+https://youtu.be/cBUZmk2x2mk
+
+How NOT to Measure Latency (Part 2) - Gil Tene  Azul Systems
+https://youtu.be/TM0Qd1c3zwE
+
+How Solid are Your Tests Mutation Testing in Action with Java & Maven Using Pitest
+https://youtu.be/yeA1V8OnwV0
+
+Java 9 – an introduction to project Jigsaw
+https://youtu.be/q5cWx2D46EQ
+
+Java at speed getting the most out of modern hardware  Gil Tene
+https://youtu.be/AOaicaMZW2U
+
+Microservices testing in the Docker era
+https://youtu.be/Xv7dMfQFLvg
+
+Quasar Fibers  Mass scale without compromising on clean code  - Idan Sheinberg  Positive Mobile
+https://youtu.be/c4qkemyIrVg
+
+Scala from the Trenches - Kfir Bloch  Wix
+https://youtu.be/G-MdmR5KF7c
+
+Slaying Sacred Cows Deconstructing Dependency Injection  Tomer Gabel - Wix
+https://youtu.be/a8sKYQoWDjw
+
+Spring Boot Under the Hood  Nicolas Fränkel
+https://youtu.be/zSJFx0iyrq4
+
+Taking Kotlin to production, Seriously - Haim Yadid  Next insurance
+https://youtu.be/qSFch-3ULAw
+
+Testing Java with Spock  - Amir Langer  Outbrain
+https://youtu.be/vNvmXA2xY0I
+
+The complete guide to proper logging in JVM  - Avishai Ish-Shalom  FewBytes
+https://youtu.be/0D6K7A7KzYQ
+
+The LMAX Disruptor. What, How and why does it matter - Amir Langer  Outbrain
+https://youtu.be/h0l1Bq8D1cw
+
+Vert.x for Microservices Architecture  Idan Fridman
+https://youtu.be/mWDUSWIzG0U
+
+[LIGHTNING] Docker Swarm Visualizer  (Open Source)  Dov Amir - DataRails
+https://youtu.be/YtiKYhlyJ7w
+
+[LIGHTNING] Microservices with a Spark Java  Yair Galler - Leadspace
+https://youtu.be/82B4073riuI
+Videos 76-100

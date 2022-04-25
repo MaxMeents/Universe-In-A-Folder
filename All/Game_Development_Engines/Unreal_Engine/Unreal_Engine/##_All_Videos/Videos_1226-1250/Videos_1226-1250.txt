@@ -1,0 +1,76 @@
+
+#EpicFriday Apr 2017 Sizzle Reel  Unreal Engine
+https://youtu.be/cMubGDqjth8
+
+#EpicFriday Mar 2017 Sizzle Reel  Unreal Engine
+https://youtu.be/UYDod2vk0Zo
+
+Blueprint Nativization  Feature Highlight  Unreal Engine
+https://youtu.be/Ut_CRt7o8PA
+
+Content-Driven Multipass Rendering in UE4  GDC 2017  Unreal Engine
+https://youtu.be/QGIKrD7uHu8
+
+Destructible Editor Features & Guide  Live Training  Unreal Engine
+https://youtu.be/QyuvmZvsLdU
+
+Filmic Tonemapper  Feature Highlight  Unreal Engine
+https://youtu.be/A-wectYNfRQ
+
+Friday the 13th with Randy Greenback  Developer Interview  Unreal Engine
+https://youtu.be/-XcmV0ifYV8
+
+GDC Preview  News  Unreal Engine
+https://youtu.be/VeY1KtpvLUw
+
+Getting Started in VR  Live Training  Unreal Engine
+https://youtu.be/afodIcU_vK4
+
+Getting Started with C++  Live Training  Unreal Engine
+https://youtu.be/2ToUvURP4tE
+
+Getting Started with Character Morph Targets  Live Training  Unreal Engine
+https://youtu.be/5wWGaJL_Q_8
+
+Getting Started with Level Streaming  Live Training  Unreal Engine
+https://youtu.be/GkDg9GPpzXE
+
+Interactive 2D Fluid Simulations in Unreal  GDC 2017  Unreal Engine
+https://youtu.be/5FRH1oJHOvA
+
+Lighting Techniques and Guides 2 Dynamic Lighting  Live Training  Unreal Engine
+https://youtu.be/nm1slxtF_qA
+
+Making Physics-Based Mayhem  GDC 2017  Unreal Engine
+https://youtu.be/FwDT2b-8x9c
+
+Photorealistic Character Project  Project Spotlight  Unreal Engine
+https://youtu.be/ktNlxiTir6I
+
+Realtime Simulation and Volume Modelling Plugin  Live Training  Unreal Engine
+https://youtu.be/CWzPP5FAYAg
+
+Replication  Live Training  Unreal Engine
+https://youtu.be/hlDWovBcu7E
+
+Robo Recall Performance Optimization  Project Spotlight  Unreal Engine
+https://youtu.be/3Yx9IEOc5s4
+
+Robo Recall Sequencer Cinematics  Live Training  Unreal Engine
+https://youtu.be/FUc49HYJeL0
+
+Spring #ue4jam Kickoff 2017  News  Unreal Engine
+https://youtu.be/SQPV-kAqTrQ
+
+Spring #ue4jam Winners 2017  Project Spotlight  Unreal Engine
+https://youtu.be/tgRE_IY_OB0
+
+The Future of Audio in Unreal Engine  GDC 2017  Unreal Engine
+https://youtu.be/ErejaBCicds
+
+True Photorealism in Real-Time  GDC 2017  Unreal Engine
+https://youtu.be/ZBq5_ZhQPN4
+
+Updates to VR Editor  Feature Highlight  Unreal Engine
+https://youtu.be/20kzY5axUOM
+Videos 1226-1250

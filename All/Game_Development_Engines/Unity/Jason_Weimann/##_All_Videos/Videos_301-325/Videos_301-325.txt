@@ -1,0 +1,76 @@
+
+2018 Unity Mastery Course Giveaway - Ends Friday
+https://youtu.be/txZeBJfGckI
+
+Adding Keyboard Effects to your Unity3D Game with Razer Chroma
+https://youtu.be/uVVQyleUzAI
+
+Build Stack (the mobile game) with Unity in under 1hour
+https://youtu.be/-6LRXBtbNHg
+
+Celebrating 10K Giveaway - Oculus Rift and Mastery Course
+https://youtu.be/QZZxUHLsCNM
+
+Clickable Chat Text in Unity3D - For Item tooltips or anything else
+https://youtu.be/lyZuCnARNSw
+
+Coding w Chris - Live Stream - ML Agents
+https://youtu.be/BThb0l4xtFM
+
+Coding w Chris - Machine Learning Agents
+https://youtu.be/cOocDIenaJ0
+
+Debugging and fixing a UNET Project
+https://youtu.be/F6mkpvVtwDE
+
+Health Bars in Unity3D - #2 - Screen Space & Auto Creating
+https://youtu.be/kQqqo_9FfsU
+
+Health Bars in Unity3D - Quick, Clean, & Easy
+https://youtu.be/CA2snUe7ARM
+
+How & why to use Static Events in Unity3D
+https://youtu.be/Jrwr6Yk_044
+
+How to Interview Game Programmers - Just a few Tips
+https://youtu.be/a1MjIWGYvy8
+
+Ludum Dare 42 - Building a game
+https://youtu.be/UkCPRYw9lVM
+
+Ludum Dare 42 - Getting started with a prototype
+https://youtu.be/_SqTLtIP2LM
+
+My Experience starting in Pro Game Development - Day 1
+https://youtu.be/jOn4-T7EZr4
+
+Nested Prefabs & the Beta Prefab Workflow - Should you use it
+https://youtu.be/se0xit0iSvg
+
+Not using a profiler can KILL your game
+https://youtu.be/6Adt_A73qVo
+
+Project Tracking for Game Development  Unity3D
+https://youtu.be/y1ErvEfpEPs
+
+RDD in Unity3D
+https://youtu.be/4QA0dMZIhk0
+
+TellTale Switches to Unity3D!
+https://youtu.be/MPHafJ8Rk0k
+
+TV Coding vs Real Life
+https://youtu.be/jXIsi9rjOaY
+
+Unity3D Android Gyroscope Controls (with a helicopter game)
+https://youtu.be/fwFJtOG-J4Q
+
+Unity3D Managers vs Controllers
+https://youtu.be/T39tyyQjFSQ
+
+What do Controller, System, Manager mean to you - Naming Poll
+https://youtu.be/jXrtI4q1QbU
+
+Why you should clean your code with Extension Methods!
+https://youtu.be/S8YfVlffSSA
+Videos 301-325

@@ -1,0 +1,76 @@
+
+Blueprint Essentials Arrays  08  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/bGtQmuav748
+
+Blueprint Essentials Blueprint Execution Order  07  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/JH6zLAMFSi0
+
+Blueprint Essentials Custom Loops  14  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/Mxw391exhVg
+
+Blueprint Essentials Enum Variables  05  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/5nLqEW6YXPY
+
+Blueprint Essentials For Each Loop  12  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/F-Ab8oS6YDU
+
+Blueprint Essentials For Loop with Break  11  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/o08VJxabdb4
+
+Blueprint Essentials For Loops  09  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/hXSKGYQvZsI
+
+Blueprint Essentials Object and Class Variables  04  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/xu7ymhN_7Lo
+
+Blueprint Essentials Struct Variables  03  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/o46ZWNqh444
+
+Blueprint Essentials Using Loops Level Design  10  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/kmnC6IUPGjI
+
+Blueprint Essentials Variable Get vs Set  06  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/NM1ET4uQOnc
+
+Blueprint Essentials Variable Types  02  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/n-EQYeU5nZk
+
+Blueprint Essentials Variables Overview  01  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/zaVY5A0hqiI
+
+Blueprint Essentials While Loops  13  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/2RkaUkaLZu4
+
+Future of Unreal Tournament  News  Unreal Engine
+https://youtu.be/qyR6EIBN2Ac
+
+PhAT Adding Damping & the Second Leg  05  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/G_69cPa6uCE
+
+PhAT Adding the Arms & Finishing Body  07  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/0Z-mwRNhgLs
+
+PhAT Animation Blending & Spring Constraints 08  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/fkcFCwRGlLg
+
+PhAT Intro to Adding Rigid Bodies  02  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/UTKjGkBgsms
+
+PhAT Introduction to Constraints  03  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/px8Hw7SbWdE
+
+Tappy Chicken BP & Art Discussion  Feature Highlight  Unreal Engine
+https://youtu.be/Xd7B8Q5lUbw
+
+Tappy Chicken for iOS, Android & HTML5  Project Spotlight  Unreal Engine
+https://youtu.be/q_1gy1HNQjQ
+
+Vehicles in 4.2  Feature Highlight  Unreal Engine
+https://youtu.be/e_kJ5T1KurQ
+
+Vehicles Overview & Car Setup  01  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/9ariPx6M33o
+
+Vehicles Shocks & Moment of Inertia  04  v4.2 Tutorial Series  Unreal Engine
+https://youtu.be/dffa5u44nGw
+Videos 1851-1875

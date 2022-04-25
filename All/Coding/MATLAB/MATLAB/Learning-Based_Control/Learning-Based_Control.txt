@@ -1,0 +1,10 @@
+
+Adaptive Control Basics What Is Model Reference Adaptive Control
+https://youtu.be/GBBXZXmb8UE&list=PLn8PRpmsu08qMgKOkTdhg6sT715k1cP3t
+
+Constraint Enforcement for Improved Safety  Learning-Based Control
+https://youtu.be/ChitESAHEoo&list=PLn8PRpmsu08qMgKOkTdhg6sT715k1cP3t
+
+What Is Extremum Seeking Control  Learning-Based Control
+https://youtu.be/S8aaMkqtxXw&list=PLn8PRpmsu08qMgKOkTdhg6sT715k1cP3t
+Learning-Based Control

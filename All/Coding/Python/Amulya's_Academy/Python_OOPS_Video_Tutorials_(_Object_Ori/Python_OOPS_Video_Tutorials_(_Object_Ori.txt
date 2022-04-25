@@ -1,0 +1,25 @@
+
+Python Programming Tutorial - Class and Instance Variables
+https://youtu.be/sPyM63RqCeI&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Class and Object
+https://youtu.be/XSoA4hwYQNw&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Class Methods
+https://youtu.be/yCH9CUiXrP0&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Encapsulation
+https://youtu.be/DXJXbJepLP0&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Inheritance
+https://youtu.be/eTVSefYNhEw&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Method Overriding
+https://youtu.be/x_ycxBDfWrk&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Multiple and Multilevel Inheritance
+https://youtu.be/sR1rMwGQbn0&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+
+Python Programming Tutorial - Polymorphism
+https://youtu.be/KVmmJNy-ZuI&list=PLzgPDYo_3xuk5KMe6G8HGc_BN1n3b06SV
+Python OOPS Video Tutorials ( Object Oriented Programming )

@@ -1,0 +1,13 @@
+
+Python Basics Command Line Hello
+https://youtu.be/lzwmUbI2XCU&list=PLaYT64KWZAEN19hYwswNMftK3xcXJVX6Y
+
+Python Basics Command Line Start up
+https://youtu.be/nIsUPFQcN6o&list=PLaYT64KWZAEN19hYwswNMftK3xcXJVX6Y
+
+Python Basics Run Script From Dos Prompt  Command Line
+https://youtu.be/7zyXUPbxM8o&list=PLaYT64KWZAEN19hYwswNMftK3xcXJVX6Y
+
+Python Basics Sys Argv
+https://youtu.be/sf7POY2mF6g&list=PLaYT64KWZAEN19hYwswNMftK3xcXJVX6Y
+command line

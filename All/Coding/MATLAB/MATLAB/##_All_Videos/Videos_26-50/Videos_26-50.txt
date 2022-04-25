@@ -1,0 +1,76 @@
+
+Building and Sharing Interactive Web Apps
+https://youtu.be/liRuVU7OgKY
+
+Building the Best Wordle Solving Algorithm using MATLAB
+https://youtu.be/bVTcQtEnOlk
+
+Comparing 30+ AI models for datathons  MATLAB's best model
+https://youtu.be/-HpNewselN8
+
+Coursera Course Overview Image Processing for Engineering and Science
+https://youtu.be/aMG3xjQcp40
+
+Developing Next-Gen Wireless Communications for Aerospace and Defense Physical Layer Modeling
+https://youtu.be/V1m14-zVOsY
+
+Easy k-Means Clustering with MATLAB
+https://youtu.be/SzEoGa_Zb6E
+
+Host Pay-As-You-Go Algorithms on AWS with MATLAB Production Server
+https://youtu.be/NxxKuRH_W6E
+
+How to Create Polygon Markings in RoadRunner  Getting Starting with RoadRunner
+https://youtu.be/nEKgyZseBZs
+
+How to Rename Variables Automatically
+https://youtu.be/OTLi13DptwA
+
+How to Use Powertrain Blockset to Track Acceleration
+https://youtu.be/VeOHH_VmRGo
+
+How to use Stateflow Events
+https://youtu.be/qpfXm4FYgVc
+
+How to Use Switch Cases in MATLAB for Cleaner IfElse Statements
+https://youtu.be/gkOQRrNmyXI
+
+How to Use the Problem-Based Optimize Live Editor Task
+https://youtu.be/Crwooq81Gjo
+
+Learning Non-Linear Relationships in the Cross-Section
+https://youtu.be/xSA4l37ywtE
+
+MATLAB Integration with Excel
+https://youtu.be/xHZCusLluVU
+
+Modeling IEEE 802.11be (Wi-Fi 7) in MATLAB
+https://youtu.be/_krfa3wYPTw
+
+Practical Data Science with MATLAB  Coursera Course Overview
+https://youtu.be/UQUquZCJ-z4
+
+Preparing Custom Vehicle Mesh for the Unreal Editor  MATLAB and Simulink Racing Lounge
+https://youtu.be/A5P1aMTrq_s
+
+R2022a Release Highlights
+https://youtu.be/yvTjkwroCfo
+
+Reduced Order Modeling Applications and Methods
+https://youtu.be/5VXLi6CkPCY
+
+Simscape Onramp Overview
+https://youtu.be/Y-2faxRo4cU
+
+Spectrum Monitoring Using MATLAB and USRP
+https://youtu.be/u04VkaQOTVs
+
+Switching Models in Econometrics - Markov Switching Models
+https://youtu.be/K9rBFb4xC54
+
+Threshold Switching Models  Switching Models in Econometrics, Part 2
+https://youtu.be/M9c3qtWZmkA
+
+What Is Signal Integrity Toolbox
+https://youtu.be/x39Cxkqm7P8
+Videos 26-50

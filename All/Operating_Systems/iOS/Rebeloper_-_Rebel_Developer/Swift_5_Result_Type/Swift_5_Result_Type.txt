@@ -1,0 +1,7 @@
+
+Swift Result - Hands on Example with Firebase
+https://youtu.be/kcvLn0Ti16E&list=PL_csAAO9PQ8ZW32u6XJyiTvaJmMFGKUi7
+
+Swift Result - Swift Error Handling (Xcode Tutorial)
+https://youtu.be/pdNkqvFOtVw&list=PL_csAAO9PQ8ZW32u6XJyiTvaJmMFGKUi7
+Swift 5 Result Type

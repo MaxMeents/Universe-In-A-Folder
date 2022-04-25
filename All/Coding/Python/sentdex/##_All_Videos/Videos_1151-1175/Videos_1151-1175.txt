@@ -1,0 +1,76 @@
+
+Charting Stocks and Forex in python Part 17 - Overlay a stock's volume in matplotlib
+https://youtu.be/SYvjaL2pWZw
+
+Charting Stocks and Forex in python Part 18 - How to calculate RSI in python
+https://youtu.be/4gGztYfp3ck
+
+Charting Stocks and Forex in python Part 19 - How to add RSI to matplotlib graph
+https://youtu.be/y0pil2LbMxU
+
+Charting StocksForex for Technical Analysis Part 11 - Candlestick and Volume Chart in Matplotlib
+https://youtu.be/bCRtqX2LdlM
+
+Charting StocksForex for Technical Analysis Part 12 - Customizing Matplotlib Chart
+https://youtu.be/eDk4JDDTRaM
+
+Charting StocksForex for Technical Analysis Part 13 - Changing candlestick shadow color matplotlib
+https://youtu.be/HSyMaJPOfX8
+
+Charting StocksForex for Technical Analysis Part 14 - Dynamic candlestick shadow color matplotlib
+https://youtu.be/Xje2By9D80Q
+
+Charting StocksForex for Technical Analysis Part 15 - How to add simple moving averages matplotlib
+https://youtu.be/g5Ycq9e00lw
+
+Charting StocksForex for Technical Analysis Part 16 - How to add SMA to matplotlib stock chart
+https://youtu.be/yXatuqBimbo
+
+GPIO Tutorial for Pi Part 2 - Programming the GPIO
+https://youtu.be/t0uuwHJQob4
+
+GPIO Tutorial for Raspberry Pi Part 1 - Setting up
+https://youtu.be/xdnmySPke1s
+
+GPIO Tutorial for Raspberry Pi Part 3 - Running our GPIO
+https://youtu.be/1OwG6EgUXbI
+
+Python Charting StocksForex for Technical Analysis Part 1 - Intro and stock price source
+https://youtu.be/u6Xd3kRHhJI
+
+Python Charting StocksForex for Technical Analysis Part 10 - Price and Volume Chart Matplotlib
+https://youtu.be/aCZO8hglETM
+
+Python Charting StocksForex for Technical Analysis Part 2 - How to get free Stock Prices
+https://youtu.be/Eh_E1NqdmLI
+
+Python Charting StocksForex for Technical Analysis Part 3 - Free intra-day stock data
+https://youtu.be/UeyP_tELq6E
+
+Python Charting StocksForex for Technical Analysis Part 4 - Automating stock prices
+https://youtu.be/rmGXek7qtVM
+
+Python Charting StocksForex for Technical Analysis Part 5 - Finishing price puller
+https://youtu.be/OXaxZpgBMqc
+
+Python Charting StocksForex for Technical Analysis Part 6 - Basic Financial Graph
+https://youtu.be/oEQTGmZmvmk
+
+Python Charting StocksForex for Technical Analysis Part 7 - Basic Financial Graph
+https://youtu.be/EyCxm1Sg-Eo
+
+Python Charting StocksForex for Technical Analysis Part 8 - Improving our Stock Chart
+https://youtu.be/eAtcIoVGb-4
+
+Python Charting StocksForex for Technical Analysis Part 9 - Adding Volume data to matplotlib graph
+https://youtu.be/zUArBZUGFaw
+
+Raspberry Pi Part 11 Remote Desktop
+https://youtu.be/Y5SHRazACBE
+
+Trading Motorcycle for Lego
+https://youtu.be/hRp-bJWyyJ4
+
+Twitter Analysis How to rank a user's influence
+https://youtu.be/krkZL-91fZU
+Videos 1151-1175

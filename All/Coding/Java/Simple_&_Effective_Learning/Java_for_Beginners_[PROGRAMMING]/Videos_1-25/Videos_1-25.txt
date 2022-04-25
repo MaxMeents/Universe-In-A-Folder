@@ -1,0 +1,76 @@
+
+ABOUT-FIRST JAVA PROGRAM
+https://youtu.be/rDQVbJpxcs0&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+ARRAYS - EXAMPLES
+https://youtu.be/EB2tZTUOk4c&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+ARRAYS
+https://youtu.be/thJQrhkIZM8&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CLASSES & OBJECTS
+https://youtu.be/s7uz_qzhRhE&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONSTRUCTORS OVERLOADING
+https://youtu.be/9UJS1Nc2f-0&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONSTRUCTORS
+https://youtu.be/CBKFyj_eJLU&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONTROL  STATEMENT -  DO WHILE LOOP
+https://youtu.be/1gVzPiYn3XY&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONTROL  STATEMENT - BREAK, CONTINUE & RETURN
+https://youtu.be/O1BmTJYwX7g&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONTROL  STATEMENT - FOR LOOP
+https://youtu.be/8djXRoooOEk&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONTROL  STATEMENT - IF ELSE
+https://youtu.be/qqiU3dx86EU&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONTROL  STATEMENT - SWITCH STATEMENT
+https://youtu.be/gft86DqV9eo&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+CONTROL  STATEMENT - WHILE LOOP
+https://youtu.be/Hwbp_BmrT3c&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+INHERITANCE
+https://youtu.be/Fa0kd14SV2Q&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+METHODS (PARAMETER PASSING & RETURNING A VALUE)
+https://youtu.be/E8Wvw0v3cnw&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+METHODS
+https://youtu.be/BwjYNt0MUYA&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+SETUP-FIRST JAVA PROGRAM
+https://youtu.be/xi9WQn0cDVM&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STATIC BLOCKS
+https://youtu.be/A4MRh6CXO6k&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STATIC METHODS
+https://youtu.be/SrC6bD8dDb0&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STATIC VARIABLES
+https://youtu.be/cNRTzc-23c8&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STRING BUFFER
+https://youtu.be/lTB_foHChs4&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STRING BUILDER
+https://youtu.be/MI8tTBiz-Wo&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STRINGS (PART - 1)
+https://youtu.be/tIPu4c_p-Hw&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+STRINGS (PART - 2)
+https://youtu.be/wLuDf8pwlMg&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+THIS - A IMPORTANT KEYWORD
+https://youtu.be/Rmd8IEqO6Pg&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+
+TYPES OF ARRAYS
+https://youtu.be/ij_JHrGlyP4&list=PLnwPi7O4x-PAReXqCZCIj_pv8Tnhogwti
+Videos 1-25

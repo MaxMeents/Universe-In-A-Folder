@@ -1,0 +1,16 @@
+
+Geographical Plotting with Python Part 1 - Your first Geo Chart!
+https://youtu.be/E6gvtfQHJUs&list=PLQVvvaa0QuDdEHKNFNvDxLqNPhb3NVEqz
+
+Geographical Plotting with Python Part 2 - Some customization
+https://youtu.be/KpS0uEFkfHg&list=PLQVvvaa0QuDdEHKNFNvDxLqNPhb3NVEqz
+
+Geographical Plotting with Python Part 3 - More customization
+https://youtu.be/aIX2ZrSWgnc&list=PLQVvvaa0QuDdEHKNFNvDxLqNPhb3NVEqz
+
+Geographical Plotting with Python Part 4 - Plotting on a Map
+https://youtu.be/Xr6sG1QnMbw&list=PLQVvvaa0QuDdEHKNFNvDxLqNPhb3NVEqz
+
+Geographical Plotting with Python Part 5 - Improving the plots
+https://youtu.be/kZmYEfTv_WY&list=PLQVvvaa0QuDdEHKNFNvDxLqNPhb3NVEqz
+Geographic Plotting on Maps with Matplotlib and Basemap

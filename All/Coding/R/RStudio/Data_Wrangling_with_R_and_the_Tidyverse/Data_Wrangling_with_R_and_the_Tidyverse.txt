@@ -1,0 +1,16 @@
+
+Data Manipulation Tools dplyr -- Pt 3 Intro to the Grammar of Data Manipulation with R
+https://youtu.be/Zc_ufg4uW4U&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
+
+Irene Steves  The dynamic duo SQL & R  RStudio
+https://youtu.be/gdzONbwfWk0&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
+
+Tidy Data and tidyr -- Pt 2 Intro to Data Wrangling with R and the Tidyverse
+https://youtu.be/1ELALQlO-yM&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
+
+What is data wrangling Intro, Motivation, Outline, Setup -- Pt. 1 Data Wrangling Introduction
+https://youtu.be/jOd65mR1zfw&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
+
+Working with Two Datasets Binds, Set Operations, and Joins  -- Pt 4 Intro to Data Manipulation
+https://youtu.be/AuBgYDCg1Cg&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
+Data Wrangling with R and the Tidyverse

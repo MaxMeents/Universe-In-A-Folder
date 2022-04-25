@@ -1,0 +1,76 @@
+
+Addy Osmani The Browser Hackers Guide To Instantly Loading Everything  JSConf EU 2017
+https://youtu.be/7vUs5yOuv-o
+
+Alexander Reardon Let's go big (Big numbers in JavaScript)  JSConf EU 2017
+https://youtu.be/9SHOfZI_SsM
+
+Amelia Abreu From Advocacy to Innovation  JSConf EU 2017
+https://youtu.be/VUWZAaXiL8M
+
+Ashley Williams  A Brief History of Modularity  JSConf EU 2017
+https://youtu.be/vypCsVm5z28
+
+Ben Vinegar  Source maps through the looking glass  JSConf EU 2017
+https://youtu.be/NkVes0UMe9Y
+
+CSSconf EU 2017  David Khourshid Getting Reactive with CSS
+https://youtu.be/4IRPxCMAIfA
+
+CSSconf EU 2017  Nadieh Bremer & Shirley Wu data sketches A Visualization a Month
+https://youtu.be/nuboC-FLwGM
+
+CSSconf EU 2017  Patrick Hamann CSS and the first meaningful paint
+https://youtu.be/4pQ2byAoIX0
+
+CSSconf EU 2017  Sareh Heidari Scaffolding CSS for Scale
+https://youtu.be/pRos7NvtwFU
+
+Emil Bay  Keeping passwords safe in 2017  JSConf EU 2017
+https://youtu.be/EAaweXzUVh4
+
+Harriet Lawrence  Sociolinguistics and the Javascript community a love story  JSConf EU 2017
+https://youtu.be/WGE3-aBR4i8
+
+Henry Zhu  Maintaining an OSS Project (Babel)  JSConf EU 2017
+https://youtu.be/_iToM2KC0QE
+
+Irina Shestak  knock-knock-who-there-file-compression-TALK-FINAL-4.tar.trz.bz2.gz  JSConf EU 2017
+https://youtu.be/IgP6BFLyQuw
+
+Jan Krutisch Æsthetics of code  JSConf EU 2017
+https://youtu.be/tfn3dsIQUzY
+
+Laura Carvajal YES, your site too can (and should) be accessible.  JSConf EU 2017
+https://youtu.be/H4FzW9oFObs
+
+Mariko Kosaka & Suz Hinton Can You Read Me Creative JS to Make CS Fun  JSConf EU 2017
+https://youtu.be/6qd2RZsRNUE
+
+Matt Johnson  The Past, Present, and Future of JavaScript Date and Time APIs  JSConf EU 2017
+https://youtu.be/aVuor-VAWTI
+
+Maureen McElaney Go Offline First to Save The World  JSConf EU 2017
+https://youtu.be/GOdmPaBJqwA
+
+Meno Abels  Weakest Link  JSConf EU 2017
+https://youtu.be/JUTTqausxTQ
+
+Nidin Vinayakan Shared Memory & Parallel Programming with JavaScript  JSConf EU 2017
+https://youtu.be/vvqfmskTIjE
+
+Ruth John How To Be A Web AV Artist  JSConf EU 2017
+https://youtu.be/Lby6fk5gC4k
+
+Sarah Saltrick Meyer Two Problems Regular Expressions for Revolutionaries  JSConf EU 2017
+https://youtu.be/4dv53Ft4s9c
+
+Tilde Ann Thurium My gender is 🍕 🦄 shipping expanded gender options  JSConf EU 2017
+https://youtu.be/luppEiB4Peg
+
+Tom Dale  Making the Jump How Desktop-Era Frameworks Can Thrive on Mobile  JSConf EU 2017
+https://youtu.be/PU94cgLuw9I
+
+Zahra Jabini  Sequential Art, Comics & SVGs  JSConf EU 2017
+https://youtu.be/LXgmD6kGkmI
+Videos 601-625

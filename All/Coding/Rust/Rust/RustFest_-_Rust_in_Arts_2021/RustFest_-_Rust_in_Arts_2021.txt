@@ -1,0 +1,25 @@
+
+Director's Commentary PaddlePunks with Felix Windström — Rust in Arts 2021
+https://youtu.be/0_dNE6BXF_Q&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+Director's Commentary Veloren with Forest Anderson — Rust in Arts 2021
+https://youtu.be/N1f10QC5O4M&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+Francesco Cauteruccio What is this thing called Generative Art — Rust in Arts 2021
+https://youtu.be/hwaBaoAPOU0&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+Jean-Michaël Celerier Creating interactive digital art with ossia — Rust in Arts 2021
+https://youtu.be/9ujRXHrJzog&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+Kyle Kneitinger Nightgraph Putting Code to Paper with Rust — Rust in Arts 2021
+https://youtu.be/OAnYof4gSN8&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+MindBuffer + Nannou  — Rust in Arts 2021
+https://youtu.be/jSXZIjmcDps&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+Sarah GHP Into Disintegration — Rust in Arts 2021
+https://youtu.be/V5HSeXbc5-w&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+
+the_emergent Music for computer & voice  — Rust in Arts 2021
+https://youtu.be/-3tRHed7gjU&list=PL85XCvVPmGQgF1UzXWnQHKtsPHmw6tEXx
+RustFest - Rust in Arts 2021

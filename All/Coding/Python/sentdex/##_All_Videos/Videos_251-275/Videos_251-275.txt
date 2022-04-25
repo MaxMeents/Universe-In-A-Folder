@@ -1,0 +1,76 @@
+
+Bitcoin & Adpocalypse - Q&A 12
+https://youtu.be/JgxpGBQz4mU
+
+Buffering dataset - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.3
+https://youtu.be/gQjvotqlvjs
+
+Building Database - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.5
+https://youtu.be/9os9uQJqDbI
+
+Creating a Reddit Bot to Detect Spam - Python Reddit API Wrapper (PRAW) tutorial p.4
+https://youtu.be/7uhMemi2mFc
+
+Custom Bot - Halite II 2017 Artificial Intelligence Competition p.3
+https://youtu.be/vC3lQ3ZJE2Y
+
+Data Structure - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.2
+https://youtu.be/K2hFNFN9lRc
+
+Database to Training Data - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.6
+https://youtu.be/tw8G8-KMRf8
+
+Deep Learning - Halite II 2017 Artificial Intelligence Competition p.4
+https://youtu.be/KPBRWF7ALPQ
+
+Deploying Model - Halite II 2017 Artificial Intelligence Competition p.7
+https://youtu.be/7UqRgcd0GwM
+
+Determining insert - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.4
+https://youtu.be/krxuhSARhAs
+
+Dynamic Graph based on User Input - Data Visualization GUIs with Dash and Python p.3
+https://youtu.be/wv2MXJIdKRY
+
+Interacting with our Chatbot - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.9
+https://youtu.be/bdeZ_h9-h4o
+
+Interactive User Interface - Data Visualization GUIs with Dash and Python p.2
+https://youtu.be/hRH01ZzT2NI
+
+Intro - Data Visualization GUIs with Dash and Python p.1
+https://youtu.be/J_Cy_QjG6NE
+
+Introduction - Halite II 2017 Artificial Intelligence Competition p.1
+https://youtu.be/QjAu5lJo4zs
+
+Live Graphs with Events - Data Visualization GUIs with Dash and Python p.4
+https://youtu.be/37Zj955LFT0
+
+Modifying Starter Bot - Halite II 2017 Artificial Intelligence Competition p.2
+https://youtu.be/0SVkERzPCSQ
+
+New NVIDIA card, standing desk, video releases - Q&A 11
+https://youtu.be/vE7gi_rxRcs
+
+NMT Concepts and Parameters - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.8
+https://youtu.be/gFxiQXnt9w4
+
+Sentiment Analysis in Python with TextBlob and VADER Sentiment (also Dash p.6)
+https://youtu.be/qTyj2R-wcks
+
+Streaming Tweets and Sentiment - Data Visualization GUIs with Dash and Python p.7
+https://youtu.be/YKYnhNSr9X8
+
+Training a Model - Creating a Chatbot with Deep Learning, Python, and TensorFlow p.7
+https://youtu.be/040CfFRJ9Rs
+
+Training Data - Halite II 2017 Artificial Intelligence Competition p.5
+https://youtu.be/OByH7g6T5-A
+
+Training Model - Halite II 2017 Artificial Intelligence Competition p.6
+https://youtu.be/kA3gC-IMZZY
+
+Vehicle sensor data App Example - Data Visualization GUIs with Dash and Python p.5
+https://youtu.be/luixWRpp6Jo
+Videos 251-275

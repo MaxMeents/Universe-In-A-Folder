@@ -1,0 +1,76 @@
+
+Episode #092 - Restricting Access by IP Address
+https://youtu.be/NYg-OqZmfwo&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #093 - Recurring Events with ice_cube
+https://youtu.be/U_ZctS3AtEg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #094 - Recurring Events on FulCalendar
+https://youtu.be/xs7zA-z2NzE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #095 - ActiveRecord Migrations
+https://youtu.be/BjvamO2KHA0&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #096 - Auditing with Paper Trail
+https://youtu.be/DZWyyc8q9m8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #097 - Single Table Inheritance
+https://youtu.be/2fH_V91b0H4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #098 - Polymorphic Associations
+https://youtu.be/qF51M95YnaA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #099 - Creating a Basic Ruby Gem
+https://youtu.be/wYc9HYUAoCQ&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #100 - Basic Testing Introduction in Rails
+https://youtu.be/jQvB0QWe5Bs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #101 - Testing with RSpec
+https://youtu.be/71eKcNxwxVY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #102 - Feature Testing with Capybara
+https://youtu.be/1kwCymmoLaY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #103 - Sample Data with Factory Bot and Faker
+https://youtu.be/x2qapy3s6Tg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #104 - Speeding Up Tests
+https://youtu.be/5xbAD6zKAOs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #105 - Continuous Integration with Travis CI  Preview
+https://youtu.be/GfgdSafZGhw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #106 - Deploying to AWS Elastic Beanstalk  Preview
+https://youtu.be/1THORITzV4k&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #107 - Additional Dependencies in Beanstalk  Preview
+https://youtu.be/EJ4AmN2YbDA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #108 - Tracking Errors with Sentry
+https://youtu.be/n5hWUD2CXd8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #109 - Using React-Rails and Loading Data from Rails into React  Preview
+https://youtu.be/Uv4wtE8BsP4&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #110 - React State Changes and Posting to the Rails App  Preview
+https://youtu.be/VC9SYiVI5Pg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #111 - In-depth Look into ActiveStorage
+https://youtu.be/mzaAHurohMc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #112 - Stimulus Javascript Framework  Preview
+https://youtu.be/Jri71csFMLU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #113 - Ruby on Rails 5.2.0 Changes and New Features
+https://youtu.be/Obd9nFWhlWE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #114 - Payment Gateway Basics with Stripe  Preview
+https://youtu.be/KIc7PoT4n9w&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #115 - More on Stripe and Subscriptions  Preview
+https://youtu.be/KB2DvG9wIQg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #116 - More on Stripe and Webhooks  Preview
+https://youtu.be/IqxFhySleQA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 226-250

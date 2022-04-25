@@ -1,0 +1,76 @@
+
+Python Basics 2 Years Old
+https://youtu.be/ILaUfi_ssaw
+
+Python Basics 2K Views Random Seed
+https://youtu.be/qjc4Bd0FpH4
+
+Python Basics Built in Filter Function
+https://youtu.be/l81i_uY4Bv8
+
+Python Basics Fileinput Intro
+https://youtu.be/8XQ9PDQwKFw
+
+Python Basics Gratitude
+https://youtu.be/tXXYF4borZA
+
+Python Basics Intro Pickle Module
+https://youtu.be/SMv2xMM3JEM
+
+Python Basics Move a Circle With Pygame
+https://youtu.be/MRpgrdERrE4
+
+Python Basics Numpy and Random Tricks
+https://youtu.be/HeWms5qZY8g
+
+Python Basics Numpy Arange Function And Shape Attribute
+https://youtu.be/wk8cyIAi_6s
+
+Python Basics Numpy Array Flatten Method
+https://youtu.be/qTJM-IurfDc
+
+Python Basics Pandas Boolean Indexing
+https://youtu.be/bic9NM8kfUk
+
+Python Basics Pandas DataFrame Groupby Method
+https://youtu.be/y9oFL0EHlz0
+
+Python Basics Pandas DataFrame Sort Values Method
+https://youtu.be/I50PNhY14DA
+
+Python Basics Pickle Dump Method
+https://youtu.be/2CEb3ImCn-g
+
+Python Basics Pygame Border
+https://youtu.be/YIM8TkWiCNc
+
+Python Basics Pygame Bouncing Ball
+https://youtu.be/zaVJV8zIli4
+
+Python Basics Pyplot Multiple Plot Titles
+https://youtu.be/qKmRpa7qOKU
+
+Python Basics Pyplot with Pandas Series
+https://youtu.be/wjcrsYnXr3I
+
+Python Basics Re Findall Dollar Amounts
+https://youtu.be/l5b8ku-v3pg
+
+Python Basics Re Findall Email Addresses
+https://youtu.be/wPjPm7XHOVs
+
+Python Basics RelativeAbsolute Paths
+https://youtu.be/YUhEuupmdCw
+
+Python Basics Sys Exit Method
+https://youtu.be/BKMJebr5xjI
+
+Python Basics Tkinter Tk Function
+https://youtu.be/ur77XQE8OqY
+
+Python Basics Tkinter Tk Mainloop Method
+https://youtu.be/blcPB5JGSWw
+
+Python Basics What is a Delimiter
+https://youtu.be/sSDqPmNht_g
+Videos 551-575

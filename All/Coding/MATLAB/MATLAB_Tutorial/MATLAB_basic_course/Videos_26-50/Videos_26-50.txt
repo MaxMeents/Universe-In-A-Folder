@@ -1,0 +1,76 @@
+
+automatic syntax help in MATLAB
+https://youtu.be/zhMWlNBCH2A&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Categorical Arrays   MATLAB & Simulink
+https://youtu.be/jOQ9lmVPScg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+circshift in MATLAB
+https://youtu.be/ySxhetWqOj4&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Code Suggestion in MATLAB
+https://youtu.be/H1woqu76Lu0&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Data Type in MATLAB
+https://youtu.be/rmn7k8a6qeA&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+flip fliplr flipud in MATLAB
+https://youtu.be/wjiHqAWZ4WE&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Highlighting the corresponding delimiter
+https://youtu.be/zmq0RRrD9mk&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+How to determine the class of variable in MATLAB
+https://youtu.be/djU1hoXAyO0&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+isempty in  MATLAB
+https://youtu.be/7HB7xcdjShg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+linspace in MATLAB
+https://youtu.be/7aCqAWIBiRk&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Matrix generation and indexing in MATLAB part 1
+https://youtu.be/wSXHY4lvjw8&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Matrix generation and indexing in MATLAB part 2
+https://youtu.be/wQAEXez3K04&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Obtaining accuracy of a machine learning model from confusion matrix
+https://youtu.be/YlPt9wbWWPA&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+permute in MATLAB
+https://youtu.be/ZMQFpcvshsk&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Random number in MATLAB
+https://youtu.be/ReFr5gxqAcM&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Removing columns and rows from a matrix in MATLAB
+https://youtu.be/rMD6NBdlfz0&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+repmat function in MATLAB
+https://youtu.be/aVjnEkcGMwg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+reshape in MATLAB
+https://youtu.be/Y6KDy4ckHyg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+rot90 and transpose in MATLAB
+https://youtu.be/pj3IlTrjCWY&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Rounding functions  in MATLAB
+https://youtu.be/x9aQRGejRlU&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Size length dims numel in MATLAB
+https://youtu.be/YwmscorYxsg&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Sort in MATLAB
+https://youtu.be/ezBzHLOWnKA&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+Special constants in MATLAB
+https://youtu.be/__0zlV5pcEE&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+The transpose of a matrix in MATLAB
+https://youtu.be/Ns9z7rexoAE&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+
+What are NaN Inf in MATLAB
+https://youtu.be/74n1aVFqgkI&list=PLCPhGzMRqu8Wedji1iXHSxu_0BAfNCy6T
+Videos 26-50

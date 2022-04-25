@@ -1,0 +1,76 @@
+
+Copying data from Excel with AutoHotkey  Automate copying excel data
+https://youtu.be/eHn4CsCUixc&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Create Personalized emails in Excel with AutoHotkey
+https://youtu.be/CVd6FkjNhTA&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Creating Graphs Quickly in Excel
+https://youtu.be/1ROAFClQqSw&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Deleting Blank Columns and Rows in Excel with AutoHotkey
+https://youtu.be/HK5vjjBzX-8&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Detecting Used Columns and Rows in Excel with AutoHotkey
+https://youtu.be/JO6wnDWXMrA&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Excel & AutoHotkey-Clear Cell Content, Format, Links, etc.
+https://youtu.be/WY2rqEbQlm4&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Excel & AutoHotkey-Worksheet functions Mean, Median & Mode
+https://youtu.be/fn4Jwiq9Jvs&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Find Text in Headers & Return their Columns in Excel with AutoHotkey
+https://youtu.be/0pCv-hfcCC4&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+get your AutoHotkey Merchandise from the-Automator
+https://youtu.be/6IMNpwZRp1I&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+How to easily split text into separate cells in Excel
+https://youtu.be/Fkm3m4Wnqb0&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+How to Find a Value in Excel and Return the Location with AutoHotkey
+https://youtu.be/ucfJfglODbc&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+How to paste Excel data in various formats with AutoHotkey
+https://youtu.be/yeUaKqkgL1w&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+How to Rename, Move, Change color & Activate a Tab  Worksheet in Excel
+https://youtu.be/R_VwTa945is&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Inserting and Deleting Comments   Notes in Excel with AutoHotkey
+https://youtu.be/jwkDYPGKTrc&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Inserting and Deleting Worksheets in Excel with AutoHotkey
+https://youtu.be/CqfhhqBkqGU&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Inserting and removing Hyperlinks in Excel with AutoHotkey
+https://youtu.be/BzN3QFyCK4g&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Looping over Cells in Excel with AutoHotkey
+https://youtu.be/w0OAJ1oO5iA&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Multiple Search  Replace in Excel with AutoHotkey
+https://youtu.be/qbkZAGqTKYg&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Naming Convention and Regular Expression
+https://youtu.be/DjBIV9oV1i8&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Passing methods or properties as a variable in a COM object
+https://youtu.be/3omvzabRHHo&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Save a ton of time by using Excel to assist writing syntax
+https://youtu.be/SWpJzqsmg8U&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Search Replace in Excel with AutoHotkey
+https://youtu.be/-EfuABpXuTQ&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Selecting a range of cells in Excel with AutoHotkey
+https://youtu.be/n4SjBLP7kCc&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Updates to my AutoHotkey Excel Function Library
+https://youtu.be/BCnVMyt_ZJo&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+
+Use AHK to delete Columns or Rows in Excel based on a value in a range
+https://youtu.be/ZJxohQHoYSg&list=PL3JprvrxlW26wwSz1W6rm1R87CrFoGqRP
+Videos 26-50

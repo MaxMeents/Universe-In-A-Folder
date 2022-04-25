@@ -1,0 +1,76 @@
+
+Analyzer and Profiler in MATLAB
+https://youtu.be/HjralJlFTh8
+
+Compare file and folder in MATLAB
+https://youtu.be/-zMQjjjVI1E
+
+coreNLP in MATLAB
+https://youtu.be/T5KF0kLCTbA
+
+Edge-Triggered Delay block for specified seconds for SIMULINK
+https://youtu.be/2dZlZzVTvEs
+
+Feature selection based on Artificial Bee Colony (ABC)
+https://youtu.be/ecSPv9xTYY8
+
+Find files in MATLAB
+https://youtu.be/AhQj2wKTHQE
+
+Get Started with MATLAB (part 1)
+https://youtu.be/YHXNSwYBDH4
+
+Get Started with MATLAB (part 2)
+https://youtu.be/8SzF2E9kIIY
+
+Get Started with MATLAB (part 4)
+https://youtu.be/4nFNJSnAqgg
+
+Get Started with MATLAB (part 5)
+https://youtu.be/qsM-dwPxKCo
+
+Get Started with MATLAB (part 6)
+https://youtu.be/NfCLZPLCLbc
+
+Get Started with MATLAB (part 7)
+https://youtu.be/-71U2MciFpM
+
+Get Started with MATLAB (part 8)
+https://youtu.be/geyEFcKP4co
+
+Get Started with MATLAB (part 9)
+https://youtu.be/6naYXkheWi8
+
+Get Started with MATLAB (part3)
+https://youtu.be/Ed2h0oYfV58
+
+Google Translate in MATLAB
+https://youtu.be/Dyq0agH2FQA
+
+How to avoid errors and mistakes in MATLAB programming
+https://youtu.be/iR7rAWD5agc
+
+How to use Weka in MATLAB
+https://youtu.be/xPTJUbLaXR8
+
+Import Data in MATLAB
+https://youtu.be/biZUQkVFodc
+
+K-LDA with Maximizing Gaussianity
+https://youtu.be/sjpH0mH4WYs
+
+MATLAB code of Kernel-Linear Discriminant Analysis
+https://youtu.be/Dok3jhaQC94
+
+MATLAB Tutorial - Full course [2021]
+https://youtu.be/8G1iyOpygqU
+
+PID Tuner app in MATLAB (part 1)
+https://youtu.be/-9HlRS1kWy4
+
+Save data in MATLAB
+https://youtu.be/V12UG5gdYRM
+
+Signal Analyzer in MATLAB
+https://youtu.be/0FLx_rYqqn8
+Videos 51-75

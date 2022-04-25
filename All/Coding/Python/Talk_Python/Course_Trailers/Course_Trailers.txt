@@ -1,0 +1,70 @@
+
+#100DaysOfWeb in Python Course Overview
+https://youtu.be/yQJ_R4wlfQs&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Anvil Course Web apps with nothing but Python (Free)
+https://youtu.be/j413peoC7Zs&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Consuming HTTP Services in Python course introduction
+https://youtu.be/I3rVmlqSH2I&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer #100DaysOfCode in Python
+https://youtu.be/HvNN8yrhe70&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer Async Techniques and Examples in Python
+https://youtu.be/2yA9gPZ8H9E&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer Building data-driven web apps with Flask and SQLAlchemy
+https://youtu.be/DwW_8KymUdE&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer Building data-driven web apps with Pyramid and SQLAlchemy
+https://youtu.be/z5BsI7W8QJU&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer Modern APIs with FastAPI and Python
+https://youtu.be/sg17PwncARE&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer MongoDB for Developers with Python
+https://youtu.be/vU4GBlgpjDo&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer Python for Absolute Beginners
+https://youtu.be/a2bFAq_ZCP0&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Trailer Using and Mastering Cookiecutter
+https://youtu.be/96fpONwXjGA&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Course Write Pythonic Code Like a Seasoned Developer
+https://youtu.be/NRevHrDyAAM&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Eve Building RESTful APIs with MongoDB and Flask course introduction
+https://youtu.be/cBcgXsB9ruI&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Introducing the Adding a CMS to Your Flask Web App Course
+https://youtu.be/qKMDqF0OEOg&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Introduction to Ansible course summary
+https://youtu.be/R1YUIKok6hw&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Mastering PyCharm course introduction
+https://youtu.be/ygagqy6duj8&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+MongoDB Quickstart Course Introduction (Free)
+https://youtu.be/Qs6jRTTSdy0&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Python 3, an Illustrated Tour course introduction
+https://youtu.be/thYNl0MoK20&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Python for Entrepreneurs course introduction
+https://youtu.be/eQVv2pbneH4&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Python Jumpstart by Building 10 Apps Introduction
+https://youtu.be/pMlsks0gCvI&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Python Memory Management and Tips Course Intro
+https://youtu.be/sklgYG_PNEA&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+RESTful and HTTP APIs in Pyramid course introduction
+https://youtu.be/_8_QWePpHKY&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+
+Tips and techniques to move from Excel to Python webcast
+https://youtu.be/b3e8zt3sipE&list=PLJa4b8U-H1eq0U1Bqoa7V7U-sIilVi0yD
+Course Trailers

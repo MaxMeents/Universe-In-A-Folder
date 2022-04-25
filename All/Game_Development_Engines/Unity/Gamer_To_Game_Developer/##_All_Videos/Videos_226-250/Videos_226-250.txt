@@ -1,0 +1,76 @@
+
+Weekend Drive v0.04d - Battle Nazilla from the Sky
+https://youtu.be/3otczSxVhmI
+
+[29] Game Manager Master - How To Make A Game
+https://youtu.be/Pd80uJEfdE4
+
+[30] Game Manager Pause Toggle - How To Make A Game
+https://youtu.be/PmX5UM0PyF8
+
+[31] Game Manager Toggle Menu - How To Make A Game
+https://youtu.be/wVS9aGvrFwY
+
+[32] Menu UI - How To Make A Game
+https://youtu.be/zyLGWk0C1DY
+
+[33] Game Manager Toggle Player - How To Make A Game
+https://youtu.be/x_6R7InDHp4
+
+[34] Game Manager Toggle Cursor - How To Make A Game
+https://youtu.be/L-xG2JxW-hY
+
+[35] Game Manager References - How To Make A Game
+https://youtu.be/3tJLu-mk_Ro
+
+[36] Game Manager Toggle Inventory UI - How To Make A Game
+https://youtu.be/pSNT2kJIQUg
+
+[37] Inventory UI - How To Make A Game
+https://youtu.be/MUgbRd27Ox0
+
+[38] Main Menu - How To Make A Game
+https://youtu.be/dowN8b-JEgk
+
+[39] Game Manager Go To Menu Scene - How To Make A Game
+https://youtu.be/FwAWMQ7Fi6k
+
+[40] Game Manager Restart Level - How To Make A Game
+https://youtu.be/4YQV-46S_UI
+
+[41] Game Manager Game Over - How To Make A Game
+https://youtu.be/9z7_tlX8OTg
+
+[42] Script Template - How To Make A Game
+https://youtu.be/jwAt1HM8EeQ
+
+[43] Panel Instructions UI - How To Make A Game
+https://youtu.be/CgGAyZvj0uY
+
+[44] Game Manager Panel Instructions - How To Make A Game
+https://youtu.be/LKtckumarE8
+
+[45] Intro To Chapter 3 - How To Make A Game
+https://youtu.be/zLv58hYpu_Q
+
+[46] Player Master - How To Make A Game
+https://youtu.be/baB1_Qjs3ys
+
+[47] Player Health - How To Make A Game
+https://youtu.be/5u56VBP4n1Y
+
+[48] Canvas Health - How To Make A Game
+https://youtu.be/9fIeCLocDNc
+
+[49] Player Canvas Hurt - How To Make A Game
+https://youtu.be/vvh4TTKZvfU
+
+[50] Canvas Hurt - How To Make A Game
+https://youtu.be/r5H1BNcK6WI
+
+[51] Player Detect Item - How To Make A Game
+https://youtu.be/E75RPX7RW1o
+
+[52] Player Ammo Box - How To Make A Game
+https://youtu.be/QwyLo6nFEUA
+Videos 226-250

@@ -1,0 +1,76 @@
+
+Akka avec Java 8 finalement c'est cool (Alexandre Delègue)
+https://youtu.be/Qelaln9CDGE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Beyond Javascript (David Mouton)
+https://youtu.be/3n3TSZLpQac&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Boîte à outils d'investigation des soucis de mémoire (Jean Bisutti)
+https://youtu.be/A4I0b_YFfms&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Cloudifie ton monolithe Les microservices pour une architecture comme les grands du web
+https://youtu.be/DxVxGgSn0Bw&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Comprendre la loi de Conway pour réussir sa transformation DevOps (Clément Rochas)
+https://youtu.be/C0q7f9Ytqm8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Consequences of the Open Source Revolution Unrecognized Challenges & Some Modest (Heather Miller)
+https://youtu.be/p4_aza4nvLQ&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Démocratiser le machine learning avec TensorFlow (Loan Tricot)
+https://youtu.be/gQ7SbyUtkvg&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Développer un jeu vidéo quand on n’y connait rien en développement de jeux vidéo (David Wurste)
+https://youtu.be/4X337M8kU8Q&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Être geek en SSII Guide de survie en milieu hostile (Charlotte Cavalier - Christophe Pont)
+https://youtu.be/2mtE-IGEJLw&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Great new features and enhancements in the Eclipse IDE (Cédric Brun)
+https://youtu.be/jIcFiFZppSw&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Introduction à la Philosophie de l'intelligence artificielle (Eric Lefevre Ardant - Sonia OUCHTAR)
+https://youtu.be/pDPFnywbWDo&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+IoT, la transformation d'internet par la frugalité (Xavier Raffin)
+https://youtu.be/ZzIRA_Ly-GQ&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Java 9 à la poursuite des grands heaps Romain Colle
+https://youtu.be/CDnSC9wKXY4&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Le ShadowDOM pour les nuls (Romain Linsolas)
+https://youtu.be/IXBcboy4zaw&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Les 5 questions con(tre) l'agilité et comment y répondre (Meriem El Aaboudi & Laurène Thénoz)
+https://youtu.be/fZr_vDUDgD8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Les Dailies une nouvelle façon agile d'apprendre en entreprise (Jonathan Boccara)
+https://youtu.be/FQXclEf_pHE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Mettre en place sa sécurité et sa gestion d'identité en 2017 (Sebastien Blanc)
+https://youtu.be/tC7G7cjHGrE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Null pour les nuls - ou comment l'éviter (Cyril Delmas)
+https://youtu.be/E-RgYBsUXfU&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Orchestration de conteneurs Le choix des armes (J. Raffre - JL. Rigau - T. Auffredou - Y. Lorenzati)
+https://youtu.be/UhrIOMuA3_w&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Pattern Matching en Java 10 (Remi Forax)
+https://youtu.be/wfWYm0MYj_8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Recettes, outils, API et services pour construire son équipe ou sa startup (Nicolas Martignole)
+https://youtu.be/eEa3RdniU6E&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Retour d'expérience DevOps Site Reliability Engineering chez Criteo (Nicolas Helleringer)
+https://youtu.be/ncf80_ZvBpo&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Twisted Java (Olivier Croisier)
+https://youtu.be/xgkOMwpXVhE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Vue.js, à l'ombre des géants (Cyril Balit)
+https://youtu.be/OLR3BypLNGI&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Yarn, encore un package manager  (Erwan Deruelle)
+https://youtu.be/ipg1bNH_CX0&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+Videos 26-50

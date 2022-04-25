@@ -1,0 +1,76 @@
+
+Backlog Bonanza, Part 1
+https://youtu.be/7zyoLRuuTbg
+
+Backlog bonanza, part 2
+https://youtu.be/NtPYMCtMjcc
+
+Core Team Meeting 2020-06-25
+https://youtu.be/XD9jtTYQlEE
+
+Core Team Meeting 2020-07-02
+https://youtu.be/hjsw6dIg2gg
+
+Core Team Meeting 2020-07-09
+https://youtu.be/hvBsFEipcuw
+
+Core Team Meeting 2020-07-16
+https://youtu.be/nTYfL53VJQ4
+
+Core Team Meeting 2020-07-23
+https://youtu.be/ebxwXXLhRoQ
+
+Core Team Meeting 2020-07-30
+https://youtu.be/4kkGzuQ0tN0
+
+Core Team Meeting 2020-08-06
+https://youtu.be/CbGrB61GUsQ
+
+Core Team Meeting 2020-08-13
+https://youtu.be/hGYRFhK3akM
+
+Design Meeting 2020-07-22 Const generics MVP
+https://youtu.be/e3cWvpEPWrA
+
+Design meeting 2020-07-29 WF checks and type aliases
+https://youtu.be/tIBZYQSA_eM
+
+Discussing never type fallback with blitzerr
+https://youtu.be/ijknh_WhUwM
+
+incr-comp kick-off meeting 2020-08-05
+https://youtu.be/dSMQ1Iy3S1o
+
+Lang Team Triage 2020-07-20
+https://youtu.be/9RC8su7AxhY
+
+Lang Team Triage 2020.07.27
+https://youtu.be/4Pz8_phMqwQ
+
+Rust and Tell Berlin - July
+https://youtu.be/0Bj-5C2Zfqs
+
+Rust Linz, August 2020 - Rainer Stropek - Intro to Cargo
+https://youtu.be/X78zccoCylA
+
+Rust Linz, August 2020 - Ryan Levick - Why should I care about Rust
+https://youtu.be/OhCjnyBc448
+
+RustConf 2020 - Bending the Curve A Personal Tutor at Your Fingertips by Esteban Kuber
+https://youtu.be/Z6X7Ada0ugE
+
+RustConf 2020 - Error handling Isn't All About Errors by Jane Lusby
+https://youtu.be/rAF8mLI0naQ
+
+RustConf 2020 - How to Start a Solo Project that You'll Stick With by Harrison Bachrach
+https://youtu.be/yv6L_xmjw5I
+
+RustConf 2020 - Opening Keynote
+https://youtu.be/IwPRu5FhfIQ
+
+RustConf 2020 - Under a Microscope Exploring Fast and Safe Rust for Biology by Samuel Lim
+https://youtu.be/2b8InauuRqw
+
+Triage Meeting 2020-08-03
+https://youtu.be/2X_4ZnEfORU
+Videos 226-250

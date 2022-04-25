@@ -1,0 +1,76 @@
+
+Hibernate Tip  How to avoid MultipleBagFetchException
+https://youtu.be/Z7YAgbRbVjo&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip  How to create and initialize a database
+https://youtu.be/nuOIA56d6iQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip  How to detach an entity from the persistence context
+https://youtu.be/p-euc3vQQAc&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip  How to map an entity to multiple tables
+https://youtu.be/GBtZ_smkW6E&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip  How to map multiple entities to the same table
+https://youtu.be/RxE9nU285nM&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Easiest way to manage bi-directional associations
+https://youtu.be/WtmCgL1FMdQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Get the SQL Connection used by your Hibernate Session
+https://youtu.be/cCcfZ4QQAiM&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Call a Function that returns a SYS_REFCURSOR
+https://youtu.be/U6HQPV9D43E&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to call a PostgreSQL function
+https://youtu.be/4Qw7kDGolYA&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to downcast an entity in your JPQL query
+https://youtu.be/RVmGGrqwhyE&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to escape table and column names
+https://youtu.be/2W7DEiIEBgU&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Handle NULL Values  While Ordering Query  Results in JPQL
+https://youtu.be/HK_CeCo6Sw4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to implement a subquery in a CriteriaQuery
+https://youtu.be/fdF_vx6fm4g&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to Increase the Version of the Parent Entity When Updating a Child Entity
+https://youtu.be/CrEFGPyayOI&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to map the latest element of an association
+https://youtu.be/3dCrlEGNnLs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to model associations with non primary key columns
+https://youtu.be/HZyTpA_56xc&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to use @ElementCollection entries in a query
+https://youtu.be/ZIUNfJAhDv4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip How to use an ORDER BY clause in a CriteriaQuery
+https://youtu.be/xwbVKLxJno4&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Map 1 Entity Attribute to  2 Columns
+https://youtu.be/0uN3UyhssMQ&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Map an Unidirectional One-to-Many Association Without a Junction Table
+https://youtu.be/E8aWycVPebU&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip Permanently remove records when using soft delete
+https://youtu.be/hWGHr-ClkRs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip The Fastest Option to Remove a List of Entities
+https://youtu.be/vi1e2B-QYbo&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip What's the Difference Between JOIN, LEFT JOIN and JOIN FETCH
+https://youtu.be/7ZW8mEwggD0&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+Hibernate Tip What’s the best way to persist a ZonedDateTime
+https://youtu.be/QkCdlpBYCxY&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+
+JPA Tip How to map entity attributes of type java.time.Duration
+https://youtu.be/jpzm0m3t3dw&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP
+Videos 26-50

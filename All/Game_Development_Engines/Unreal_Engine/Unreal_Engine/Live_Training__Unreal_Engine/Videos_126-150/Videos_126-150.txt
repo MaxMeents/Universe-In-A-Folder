@@ -1,0 +1,76 @@
+
+Blueprint Creating a 2D Side-Scroller  01  Live Training  Unreal Engine
+https://youtu.be/cCl1DHhIYeY&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Creating a 2D Side-Scroller  02  Live Training  Unreal Engine
+https://youtu.be/5KkcbO3Tmbw&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Creating Interactions in VR with Motion Controllers  02  Live Training  Unreal Engine
+https://youtu.be/utOahIZgKgc&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Creating Interactions in VR with Motion Controllers  03  Live Training  Unreal Engine
+https://youtu.be/fcmRGkpWefY&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Blueprint Game Framework Basics  Live Training  Unreal Engine
+https://youtu.be/0LG4hiisflg&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Controlling Effects with Blueprints  Live Training  Unreal Engine
+https://youtu.be/CGCKmSUjFlA&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Creating a Match 3 Game  01  Live Training  Unreal Engine
+https://youtu.be/bMKtfwh_Js4&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Creating a Match 3 Game  02  Live Training  Unreal Engine
+https://youtu.be/RXzg6MFXl6s&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Creating a Match 3 Game  03  Live Training  Unreal Engine
+https://youtu.be/AomqwJy57vs&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Drag & Drop with UMG  01  Live Training  Unreal Engine
+https://youtu.be/wyC5vl64V9k&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Drag & Drop with UMG  02  Live Training  Unreal Engine
+https://youtu.be/hgyJWHZTKfI&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Drag & Drop with UMG  03  Live Training  Unreal Engine
+https://youtu.be/uUT7Oaj8_tc&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  01  Live Training  Unreal Engine
+https://youtu.be/PgxuaTSkyu4&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  02  Live Training  Unreal Engine
+https://youtu.be/cZqIidnnK5A&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  03  Live Training  Unreal Engine
+https://youtu.be/KwobTALHGHI&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  04  Live Training  Unreal Engine
+https://youtu.be/b6it1NEOsQ8&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  05  Live Training  Unreal Engine
+https://youtu.be/UGIJ3g7VMho&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  06  Live Training  Unreal Engine
+https://youtu.be/BbowoQiq2fY&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  07  Live Training  Unreal Engine
+https://youtu.be/_cJBlme77QM&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Making Game Ready AI  08  Live Training  Unreal Engine
+https://youtu.be/QoygDWmnc08&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Material & Particle Interactions  Live Training  Unreal Engine
+https://youtu.be/YZ3TIqwqOWY&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Physics-Based Simulations & Effects  Live Training  Unreal Engine
+https://youtu.be/-lFKZRX1K_0&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Setting Up Advanced AI  Live Training  Unreal Engine
+https://youtu.be/NZZtMNdJk5o&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+Using Material Effects  Live Training  Unreal Engine
+https://youtu.be/enx6ShyKUL8&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+
+VR Networking & 3D Menus  Live Training  Unreal Engine
+https://youtu.be/QRXMi2NpvwI&list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f
+Videos 126-150

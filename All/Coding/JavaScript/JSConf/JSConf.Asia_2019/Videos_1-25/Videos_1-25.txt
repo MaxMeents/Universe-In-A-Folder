@@ -1,0 +1,76 @@
+
+artistic.css by Agnieszka Naplocha  JSConf.Asia 2019
+https://youtu.be/aQBYAkaABkU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Designing Components for Fun, Profit and Sanity by Yishu See  JSConf.Asia 2019
+https://youtu.be/pEVGAn2qNtU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Double the Beyoncé Navigating Numbers in JavaScript by Meggan Turner  JSConf.Asia 2019
+https://youtu.be/4zveh5TzB6U&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Evan You on Vue.js Seeking the Balance in Framework Design  JSConf.Asia 2019
+https://youtu.be/ANtSWq-zI0s&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Getting Closure on React Hooks by Shawn Wang  JSConf.Asia 2019
+https://youtu.be/KJP1E-Y-xyo&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Introduction to the Component-based API by Leonardo Losoviz  JSConf.Asia 2019
+https://youtu.be/9pT-q0SSYow&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Learning From Machines by Ashi Krishnan  JSConf.Asia 2019
+https://youtu.be/02cFoST40K8&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Loop of Fortune by Chen Hui Jing & Thomas Gorissen  JSConf.Asia 2019
+https://youtu.be/Ru8pmAyZARI&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Machine Learning for Front-End Developers by Charlie Gerard  JSConf.Asia 2019
+https://youtu.be/rwFiFWI23Rw&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Making It All Fit Together with React and GraphQL by Paul Asjes  JSConf.Asia 2019
+https://youtu.be/EjJVf2s60s8&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Music and Art with ML by Monica Dinculescu  JSConf.Asia 2019
+https://youtu.be/_0ij8vY2gzE&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Navigating the Wild Seas of Native ES Modules by Gil Tayar  JSConf.Asia 2019
+https://youtu.be/Zyoztl_7l7g&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Nodebots Are Back by Pasindu De Silva & Chathu Vishwajith  JSConf.Asia 2019
+https://youtu.be/IkPom7OttHM&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+npm's Laurie Voss JavaScript - Who, What, Where, Why and Next  JSConf.Asia 2019
+https://youtu.be/H8IaDYrv-3E&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Race Conditions in JavaScript Apps by Thai Pangsakulyanont  JSConf.Asia 2019
+https://youtu.be/DWZj56qUNfs&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Rapid Development on Offline First Data Sync by Anshori Syuhada  JSConf.Asia 2019
+https://youtu.be/u8X7zL7RuwA&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Real World Problems - Internet beyond the 1st World Bubble by Keerthana Krishnan  JSConf.Asia 2019
+https://youtu.be/skml8SjOtKg&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+State Machines Meet React Hooks - Zain Fathoni  JSConf.Asia 2019
+https://youtu.be/ioh7aqrBcs0&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+The Browser as a Modular, Networked Video Synthesizer by Olivia Jack  JSConf.Asia 2019
+https://youtu.be/v2Au9Rlj6XM&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+The Different Transformation Stages of AOT Compilers by Eytan Manor  JSConf.Asia 2019
+https://youtu.be/B1IUxzOdmyc&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+The Future of JavaScript and AI by Asim Hussain  JSConf.Asia 2019
+https://youtu.be/AoUI8so8vpU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+The Other Spec Internationalization in JavaScript by Ujjwal Sharma  JSConf.Asia 2019
+https://youtu.be/dcoWYgR7LA8&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Variable Fonts and the Flexible Nature of Screens and Devices by Mandy Michael  JSConf.Asia 2019
+https://youtu.be/BBWMIxXqr-E&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Web Assembly The Future of JS and a Multi-Language Web by Kas Perch  JSConf.Asia 2019
+https://youtu.be/qDTpLKJ6e4M&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Web Components and the AOM by Léonie Watson  JSConf.Asia 2019
+https://youtu.be/ZMZMMuXRFcE&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+Videos 1-25

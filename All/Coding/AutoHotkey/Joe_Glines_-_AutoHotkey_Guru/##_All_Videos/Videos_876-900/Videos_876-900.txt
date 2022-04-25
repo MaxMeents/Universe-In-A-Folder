@@ -1,0 +1,76 @@
+
+AutoHotkey Webinar 052017 Hour 1-Web scraping with AutoHotkey
+https://youtu.be/rjUxUTPkr_Y
+
+AutoHotkey Webinar 052017 Hour 2-Webscraping with AutoHotkey- Q&A
+https://youtu.be/HOC33Yzfwn0
+
+AutoHotkey Webinar 062017 Hour 1-Web services  API calls with AutoHotkey
+https://youtu.be/86S-bWS_smM
+
+AutoHotkey Webinar 062017 Hour 2-Web services  API calls  Q&A
+https://youtu.be/Igd5-P4BtpQ
+
+AutoHotkey Webinar 122016 Hour 2- Intro to AHK Classes-Chit chat & followup
+https://youtu.be/VGS6GzEr2AY
+
+Example Webservice  API call- Clearbit Discovery API
+https://youtu.be/GjTJl2HLuic
+
+Example Webservice  API call- Exporting JSON and binary data from SmartSheets
+https://youtu.be/6qfWKrVjYPI
+
+Example Webservice  API call- phone number to email address for mobile phones
+https://youtu.be/pKwHH7hySPo
+
+Example Webservice  API call- Top post on AutoHotkey reddit
+https://youtu.be/nuyd2NnxOxM
+
+FullContact API  Simple Example using WinHTTPRequest
+https://youtu.be/wcbFh39kLe8
+
+How to Install Selenium for AutoHotkey  Automate your browsers with Selenium
+https://youtu.be/jD4hDWZIOSw
+
+How to use Selenium to download a file  Automate your browser with AHK
+https://youtu.be/rwxPAEtPSDw
+
+Iterating over objects in Selenium vs COM objects
+https://youtu.be/soGZIYUal1o
+
+Navigating Frames with Selenium and AutoHotkey
+https://youtu.be/jaBr3pqGr10
+
+Parse XML with this amazing XML parsing class in AutoHotkey
+https://youtu.be/vPAAuh79gPI
+
+Personalizing SciTE autocomplete by adding your functions and labels
+https://youtu.be/BqcTWValzmk
+
+Selenium & AutoHotkey- Methods and JavaScript execution
+https://youtu.be/CX1I6ArN0u8
+
+Selenium & AutoHotkey- Various methods for GettingSetting data
+https://youtu.be/qEH1CyhgFmc
+
+Selenium and AutoHotkey Setting text and clicking elements
+https://youtu.be/MsoMA2DMcSw
+
+Setting Selenium Chrome profile with AutoHotkey
+https://youtu.be/gMiSfYZND4w
+
+Updates to Webscraping  AutoHotkey syntax writing tool
+https://youtu.be/A1HeyWJVw90
+
+using AutoHotkey and Selenium   Getting information from a page
+https://youtu.be/hns7SsFTI_8
+
+Using AutoHotkey and Selenium- Starting the webdriver  browsers & navigating to a page
+https://youtu.be/Cs4dWqtJQp4
+
+Using XML Class in AutoHotkey to save user settings
+https://youtu.be/h3LgG63cMVE
+
+What is Selenium & why should AutoHotkey users care
+https://youtu.be/d-JuZ8WHB_c
+Videos 876-900

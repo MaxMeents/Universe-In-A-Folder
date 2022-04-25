@@ -1,0 +1,76 @@
+
+Andrew Hewus Fresh - HealthCheck - Diagnostics Results for your code
+https://youtu.be/r7iL8kmJTvg
+
+Chris White - It's the little things
+https://youtu.be/k9SPyKIUap8
+
+Curtis Poe - Modern OO in the Cor
+https://youtu.be/Tst-vs4Br2A
+
+Damian Conway - Keynote A Simple Matter Of Programming
+https://youtu.be/fVnmYzJfy5s
+
+Dave Rolsky - Continuous Integration for Perl with Azure Pipelines
+https://youtu.be/OSstr_1C6U0
+
+David Oswald - Setting up an internal Darkpan
+https://youtu.be/cguMCLC9hBg
+
+GIZMO - Using RPGs to Fuel My Coding Habit
+https://youtu.be/CDn-eIDPvxM
+
+Graham Ollis - A Year of Alien and Platypus - Lightning Talks - Day 2
+https://youtu.be/r_ccLlvn6bw
+
+Jesse Thompson - Perl on Lambda - Lightning Talks - Day 3
+https://youtu.be/cbbDjo4ZT4k
+
+Kivanc Yazan - State of Pull Request Club - Lightning Talks - Day 2
+https://youtu.be/bDFRqYfD-24
+
+Konstantin Narkhov - Creating a secure decentralized CMS on Ethereum blockchain with Raku
+https://youtu.be/h-ymtopR30o
+
+M. Scott Ford - A Deep Dive into Measuring Dependency Freshness with LibYear
+https://youtu.be/p6qgJ6oUDaE
+
+Maki Kato - PowerShell for Perl experts
+https://youtu.be/b2OiL4YszYs
+
+Matthew Stephan Stuckwisch - Going International in Raku
+https://youtu.be/HkOshnTyWAs
+
+Olaf Alders and Mark Fowler - Getting Started with GitHub Actions
+https://youtu.be/WfXo71I7LmE
+
+Ricardo Signes - The Perl 5 Debugger Wuh
+https://youtu.be/LtAGbUYTnR0
+
+Sawyer X - Guac!
+https://youtu.be/sTEshbh2lYQ
+
+Steven Lembark - Hyper and Gathers and Loops... Oh, my!
+https://youtu.be/rgCk5w2o-GY
+
+Stuart J Mackintosh - Improving the perception of Perl and Raku - Marketing
+https://youtu.be/T290Jr_ECms
+
+Theo van Hoesel - System Observability and Distributed Tracing
+https://youtu.be/cQvAf5FtwwE
+
+Tina Müller - Quick Debugging in Vim - Lightning Talks - Day 2
+https://youtu.be/J09TLkVKu9Y
+
+Tina Müller - What can you do with YAML in 2020
+https://youtu.be/dc2SN5Xerjg
+
+Travis Gibson - USB Devices How to Drive Your Own
+https://youtu.be/BWjl4p6jIOc
+
+Vadim Belman - Lock-Less Concurrent Programming in Raku
+https://youtu.be/HIJ3TrWsLTM
+
+Vadim Belman - Threaded Text Console UI in Raku
+https://youtu.be/fXg2y4_3W4w
+Videos 76-100

@@ -1,0 +1,76 @@
+
+Becoming More Effective at Manipulating Data With Pandas  Real Python Podcast #103
+https://youtu.be/VK2QfDXPg6k
+
+Building a Hash Table in Python and Thoughtful REST API Design   Real Python Podcast #104
+https://youtu.be/yVsonM9zpO8
+
+Class Constructors & Pythonic Image Processing  Real Python Podcast #106
+https://youtu.be/P4SmcMu5OLg
+
+Counting Objects Using Python's Counter
+https://youtu.be/nKYhDmFtuEk
+
+Creating Better Error Messages for Python 3.10 & 3.11  Real Python Podcast #105
+https://youtu.be/kwk4BmnYs8I
+
+Defining Optional Arguments and Moving Beyond Beginner Python   Real Python Podcast #100
+https://youtu.be/tpfbkYVxs70
+
+Defining Python Functions With Default and Optional Arguments
+https://youtu.be/slX7bDwJ784
+
+Designing for Users and Building a Social Network With Django  Real Python Podcast #94
+https://youtu.be/h9XqsLTOtvE
+
+Drawing Fractals With Python and Working With a Weather API  Real Python Podcast #98
+https://youtu.be/g2qcHd03aQI
+
+Generate the Fibonacci Sequence With Python
+https://youtu.be/I_Giq4-2Pn8
+
+Getting Started With Pandas Sort Methods
+https://youtu.be/gUDkkF1ox0Y
+
+Improving Your Django and Python Developer Experience  Real Python Podcast #97
+https://youtu.be/MvOUaxV6LAw
+
+Introduction to Python's len() function
+https://youtu.be/nElwuqz0mSM
+
+Making Your Notebook Interactive and Using Python's Assert   Real Python Podcast #102
+https://youtu.be/Iz0VmfKw09U
+
+Manipulating and Analyzing Audio in Python  Real Python Podcast #96
+https://youtu.be/xkGN-A9BqD4
+
+OAuth 2 and Authentication Choices for Your Python Project  Real Python Podcast #99
+https://youtu.be/PHCv_3zfM_Y
+
+Python Keywords an Introduction
+https://youtu.be/AxBOzm6v3bg
+
+Python's datetime Module and How Dates and Times are Messy
+https://youtu.be/lP2DqOduOv4
+
+Simple Linear Regression in Python
+https://youtu.be/vt4WJozY48A
+
+Starting With Fast API to Create a Simple REST API
+https://youtu.be/jVxT7HOcWSo
+
+Tools for Setting Up Python on a New Machine   Real Python Podcast #101
+https://youtu.be/3JxhdzWCMjU
+
+Using Python enumerate() With for Loops
+https://youtu.be/nI-jkrJxlz0
+
+Using Python's any() & Working With Multiple Booleans
+https://youtu.be/Nu-U_VHMk0c
+
+What Is a JIT and How Can a Pyjion Speed Up Your Python  Real Python Podcast #95
+https://youtu.be/WgXxrYa8RQ0
+
+Your First Python Program and Making Mistakes Python Basics
+https://youtu.be/1zUDRWZFUWA
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Gamemaker  Create Levels from Images (GML)
+https://youtu.be/BrpxOzfngOM
+
+Gamemaker 2 is now free!  Or is it
+https://youtu.be/qcnSrssOhjQ
+
+Gamemaker 4P Battle Arena in a Week in DnD
+https://youtu.be/cLJ-kAukNXE
+
+Gamemaker DND Platformer Tutorial - #14 Collectibles
+https://youtu.be/OZrbFn-VRn4
+
+Gamemaker DND Platformer Tutorial - #15 Scoring
+https://youtu.be/lAX44DO3UMo
+
+Gamemaker DND Platformer Tutorial - #16 Room Transitions
+https://youtu.be/YwwTC9w5nY4
+
+Gamemaker DND Platformer Tutorial - #17 Controller Support
+https://youtu.be/uC8DZGEAke4
+
+Gamemaker DND Platformer Tutorial - #18 Object Persistence
+https://youtu.be/fv0beE7d-G0
+
+Gamemaker DND Platformer Tutorial - #19 Sound Design
+https://youtu.be/-nn1vx2P7Nw
+
+Gamemaker DND Platformer Tutorial - #20 One Way Platforms
+https://youtu.be/0V0pZzYAFvQ
+
+Gamemaker Menus with Submenus #1 (GML)
+https://youtu.be/_2CrhKO5ojE
+
+Gamemaker Menus with Submenus #2 - Selections (GML)
+https://youtu.be/3dmEbSQwZZY
+
+Gamemaker Menus with Submenus #3 - Mouse Support (GML)
+https://youtu.be/BUid6KOHhzQ
+
+Gamemaker Sequence Animations (GMLDND)
+https://youtu.be/OzK1AkTbOYg
+
+Gamemaker Studio 2  Transitions (DND)
+https://youtu.be/in4pwniAqcI
+
+Gamemaker Studio 2  Transitions (GML)
+https://youtu.be/JGnZJh63BtM
+
+How does GMS2's subscription model impact you
+https://youtu.be/bLMJIewQzKw
+
+Tile Based Moving Platform Engine for Gamemaker Studio 2 Trailer 1
+https://youtu.be/ne593r4W62E
+
+Tile Based Moving Platform Engine for Gamemaker Studio 2 Trailer 2
+https://youtu.be/4uenPJjBasA
+
+Top Down DND & GML Tutorial in Gamemaker #2 Sprites
+https://youtu.be/ZTXRE8yYbMs
+
+Top Down DnD & GML Tutorial in Gamemaker #3 Projectiles
+https://youtu.be/58ZtefGUYQE
+
+Top Down DnD & GML Tutorial in Gamemaker #4 Enemy A.I.
+https://youtu.be/QOrBkf3GeZc
+
+Top Down DnD & GML Tutorial in Gamemaker #5 State Machines
+https://youtu.be/BnqwwOYLX1A
+
+Top Down DnD Tutorial in Gamemaker #1 Movement & Collisions
+https://youtu.be/rUN7e-UFbSk
+
+Top Down GML Tutorial - Can we make Gauntlet
+https://youtu.be/xgkPuKbVXl0
+Videos 1-25

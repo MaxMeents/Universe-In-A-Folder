@@ -1,0 +1,76 @@
+
+15 years of Spring - Voxxed Days Singapore 2019
+https://youtu.be/vC4U-8HiKZA
+
+Accelerate your career by establishing a feedback culture - Voxxed Days Singapore 2019
+https://youtu.be/-ZsiSqYikus
+
+Architecting well-rounded and evolvable data platforms - Voxxed Days Singapore 2019
+https://youtu.be/01vkm_iqIY0
+
+Building & Leveraging Your Internal Developer Community - Voxxed Days Singapore 2019
+https://youtu.be/eor0IbUkpGs
+
+Can code, will generate art - Voxxed Days Singapore 2019
+https://youtu.be/8wWOyZ-4C8w
+
+Cleaning up the Data Economy - Voxxed Days Singapore 2019
+https://youtu.be/zsKm-4C5DAA
+
+Docker & Java What I wish I had been told! - Voxxed Days Singapore 2019
+https://youtu.be/ZVWqjp5QgxU
+
+Fast Data Analytics in 2 Simple Steps - Voxxed Days Singapore 2019
+https://youtu.be/mD8g9DWcWwE
+
+From higher profits to higher purpose - Voxxed Days Singapore 2019
+https://youtu.be/ZOi2OIjjvNY
+
+Help me WebUSB, you're my only hope - Voxxed Days Singapore 2019
+https://youtu.be/WzDSsb8mHUo
+
+How to create awesome polyglot applications using GraalVM - Voxxed Days Singapore 2019
+https://youtu.be/03KkHSsIcAw
+
+How to protect your company culture while growing - Voxxed Days Singapore 2019
+https://youtu.be/0xa33WoRcA0
+
+How to run your transformation right - Voxxed Days Singapore 2019
+https://youtu.be/zl5SAbduXlE
+
+Introduction to Couchbase Data Platform - Voxxed Days Singapore 2019
+https://youtu.be/w_MeJcSMAec
+
+Journey from Monolith to Microservices - Voxxed Days Singapore 2019
+https://youtu.be/oBmysGEpa1I
+
+Keep CALMS and Adopt DevOps - Voxxed Days Singapore 2019
+https://youtu.be/kw6_opeLYZI
+
+Knock knock, who's there - Voxxed Days Singapore 2019
+https://youtu.be/QB0ZO4IVYGU
+
+Marvels of functional programming Launching Iron man with monads - Voxxed Days Singapore 2019
+https://youtu.be/YDFa4MmyY8Y
+
+Opening Keynote Hari V Krishnan (CEO of PropertyGuru Group) - Voxxed Days Singapore 2019
+https://youtu.be/LOmyLedb95w
+
+Resilient Microservices Architecture with Kubernetes - Voxxed Days Singapore 2019
+https://youtu.be/fiCQM4L4etU
+
+Scaling Engineering Organizations with Patterns - Voxxed Days Singapore 2019
+https://youtu.be/LC1hgYC8924
+
+So, engineer, you think you can be a product manager - Voxxed Days Singapore 2019
+https://youtu.be/MfnO6FVUduY
+
+Success an Entrepreneur Perspective - Voxxed Days Singapore 2019
+https://youtu.be/jm66q4Wh1v8
+
+The importance of culture in innovation - Voxxed Days Singapore 2019
+https://youtu.be/lLbFG1kiTZc
+
+Your Team as a Distributed System - Voxxed Days Singapore 2019
+https://youtu.be/ft4xHR1gRio
+Videos 476-500

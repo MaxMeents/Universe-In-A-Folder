@@ -1,0 +1,46 @@
+
+Accesibilidad web, mejorando internet con pocas líneas de código - David Flores
+https://youtu.be/eO_B2XyVU1Y&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Aqui ahi algunas de mis cosas.js favoritas - Chloe Condon
+https://youtu.be/tP7JNFVoEQU&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Cómo detonar tu carrera como Software Engineer - Mariel Nilo y Joaquín Bravo
+https://youtu.be/YVBd1BxrPTI&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+En futuro está aquí ¿Qué es ViteJs - Oscar Barajas Tavares
+https://youtu.be/pAJLR4W0190&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Have a better developer experience using code generators - Eder Octavio Díaz Razón
+https://youtu.be/SPll1Rxl_Es&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+How to detonate your career as a Software Engineer - Mariel Nilo y Joaquín Bravo
+https://youtu.be/Fm67RAMdP-Y&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+JavaScript Tests in Node, the Browser, and CI - Rob Richardson
+https://youtu.be/fJBeD95_s4A&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Mejora el Dev Experience con Code Generators - Eder Octavio Díaz Razón
+https://youtu.be/30I_b8tQWZ8&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Modular Audio Visualisation with modV - Tim Pietrusky
+https://youtu.be/GQHBWU-zYTA&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+NestJs el mejor framework para tu API - Roxana Arely Gonzalez Viana
+https://youtu.be/pHL5f4HQnFk&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+NestJS the best framework for your API - Roxana Arely Gonzalez Viana
+https://youtu.be/Vr-83N8J-9c&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Pruebas de test en Node, el navegador y CI - Rob Richardson
+https://youtu.be/Jn5Cbl3VrMk&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+Ten tu aplicación de react native productiva en 30 min - Sebastian Gomez
+https://youtu.be/gZRuKQ7eZYQ&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+The future is here What is ViteJS - Oscar Barajas Tavares
+https://youtu.be/plAsq3EWi_c&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+
+These Are a Few of My Favorite Things.js - Chloe Condon
+https://youtu.be/j5CnqS2oGRM&list=PL37ZVnwpeshGHrl2h_1hm9a03b-GXH0td
+Videos 26-40

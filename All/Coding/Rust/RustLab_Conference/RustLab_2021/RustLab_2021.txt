@@ -1,0 +1,37 @@
+
+2D Graph scene in Rust - Gerhard de Clercq
+https://youtu.be/CtmIXaqIyeA&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Allocating Less Really Thin Rust Cloud Apps - Evan Chan
+https://youtu.be/6AAnfycxC0k&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Rewriting of a small component from C to Rust - Pietro Lorefice
+https://youtu.be/Mfdz467foN4&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Rust Vs Go Panel - Miriah Peterson, Michael Snoyman, Jonathan Turner, Steve Francia
+https://youtu.be/FKMrpaFjQm4&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+The Rust Borrow Checker a Deep Dive - Nell Shamrell-Harrington
+https://youtu.be/JfEWmQAACN8&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Webinar Live  2D Graph scene in Rust - Gerhard de Clercq
+https://youtu.be/ulQcV5WO4TU&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Webinar live  Allocating Less Really Thin Rust Cloud Apps - Evan Chan
+https://youtu.be/XCk7CZVAiN4&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Webinar Live  The Rust Borrow Checker A Deep Dive - Nell Shamrell-Harrington
+https://youtu.be/pQk0_Cb-I8U&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+Webinar Rust e WebAssembly - Daniele D'Orazio
+https://youtu.be/4E_LfPHq8SI&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+🎧  Go Vs Rust Round table - Miriah Peterson, Michael Snoyman, Jonathan Turner, Steve Francia
+https://youtu.be/xAhwCISuKEs&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+🎧  Riscrittura di un componente da C a Rust - Pietro Lorefice
+https://youtu.be/ep21F1Gg0Do&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+
+🎧  Rust e WebAssembly - Daniele D'Orazio
+https://youtu.be/rHesJATOEao&list=PLkgYzo_ZZ7KBoSey3UCdgfRpXuHHVF6Ux
+RustLab 2021

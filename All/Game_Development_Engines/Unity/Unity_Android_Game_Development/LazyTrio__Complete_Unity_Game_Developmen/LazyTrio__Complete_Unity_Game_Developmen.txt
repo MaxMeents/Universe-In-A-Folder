@@ -1,0 +1,37 @@
+
+Collider2D OnCollisionEnter2D(Collision2D) Accessing Variables From Other Scripts C# Unity 2D-EP#05
+
+
+HOW TO DOWNLOAD AND INSTALL UNITY3D STEP BY STEP GUIDE 2017 ( EASIER & FASTER ) By LazyTrio - EP#01
+
+
+How To Make A 2D Game Building Game Logic Unity C# Scripting List Of Unique Random Numbers EP#07
+
+
+How To Make A 2D Game In Unity - C# Scripting, GetComponent & Making UI Responsive In Unity - EP#04
+
+
+How To Make A 2D Game In Unity - Slicing Sprite Sheet In Sprite Editor & Animation w Animator-EP#02
+
+
+How To Make A 2D Game In Unity-Physics 2DRigidbody,Circle & Box Collider 2D,Detect Collision- EP#03
+
+
+Introduction to Unity Android Game Development by LazyTrio
+https://youtu.be/qVvwEhBQiOE&list=PLNz0gsU8GcGuKEDQOM27C5foQTstsSaBt
+
+iTween Unity 5  How To Install Plugin Unity  Duplicating a Whole Unity Project  LazyTrio - EP#08
+
+
+PlayerPrefs Unity  Save & Load Game Data In Unity PlayerPrefs  PlayerPrefs Save  LazyTrio - EP#11
+
+
+PolygonCollider2D  Manually Editing Polygon Collider 2D Points  Unity Triangle Collider 2D - EP#06
+
+
+Unity AudioSource  Unity AudioClip  Unity Audio  Unity Play Two Sounds At Once  LazyTrio - EP#10
+
+
+Unity UI Canvas & TextHow To Import and Use FontsCount & Display Score In Unity C# LazyTrio-EP#09
+
+LazyTrio  Complete Unity Game Development Tutorial

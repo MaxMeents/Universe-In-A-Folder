@@ -1,0 +1,76 @@
+
+A better Python REPL – bpython vs python interpreter
+https://youtu.be/QITlSgYf8mc&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+A Crazy Python Dictionary Expression !
+https://youtu.be/7TL1x3PO8iQ&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Emulating switchcase Statements in Python with Dictionaries
+https://youtu.be/gllUwQnYVww&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+For Each Loops in Python with enumerate() and range()
+https://youtu.be/URxQGA9f_AA&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Immutable vs Mutable Objects in Python
+https://youtu.be/p9ppfvHv2Us&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Inspecting Python Modules and Classes With dir() And help()
+https://youtu.be/ldzac4Qu-f4&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Installing Python Packages with pip and virtualenv  venv
+https://youtu.be/UqkT2Ml9beg&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+is vs == in Python – What's the Difference (And When to Use Each)
+https://youtu.be/CZ8bZPqtwU0&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Leveraging Python's Implicit return None Statements
+https://youtu.be/IobOuSyfExc&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Make your Python Code More Readable with Custom Exceptions
+https://youtu.be/hLLaw9BI-EE&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Method Types in Python OOP @classmethod, @staticmethod, and Instance Methods
+https://youtu.be/PNpt7cFjGsM&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+My Python Code Looks Ugly and Confusing – Help!
+https://youtu.be/TDUf93vqq3g&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Optional Arguments in Python With args and kwargs
+https://youtu.be/WcTXxX3vYgY&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+pep8.org — The Prettiest Way to View the PEP 8 Python Style Guide
+https://youtu.be/Hwckt4J96dI&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Pylint Tutorial – How to Write Clean Python
+https://youtu.be/fFY5103p5-c&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+PyPI vs Warehouse, the Next-Generation Python Package Repository
+https://youtu.be/p-2ORLz11fg&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Python Context Managers and the with Statement (__enter__ & __exit__)
+https://youtu.be/iba-I4CrmyA&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Python Data Structures Sets, Frozensets, and Multisets (Bags)
+https://youtu.be/b-K1ujf8u_k&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Python Function Argument Unpacking Tutorial ( and  Operators)
+https://youtu.be/YWY4BZi_o28&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Python Tutorial List Comprehensions Step-By-Step
+https://youtu.be/1HlyKKiGg-4&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+String Conversion in Python When to Use __repr__ vs __str__
+https://youtu.be/aIdzBGzaxUo&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Type-Checking Python Programs With Type Hints and mypy
+https://youtu.be/2xWhaALHTvU&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Using get() to Return a Default Value from a Python Dict
+https://youtu.be/y4LXXpekUxs&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+What's the meaning of underscores (_ & __) in Python variable names
+https://youtu.be/ALZmCy2u0jQ&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+
+Writing automated tests for Python command-line apps and scripts
+https://youtu.be/ApTZib0L2X8&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx
+Videos 1-25

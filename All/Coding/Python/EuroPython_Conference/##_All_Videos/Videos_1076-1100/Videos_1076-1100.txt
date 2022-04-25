@@ -1,0 +1,76 @@
+
+andrea crotti - Metaprogramming, from decorators to macros
+https://youtu.be/pXduirOmnJg
+
+Andreas Pelme - Introduction to pytest
+https://youtu.be/gUniRsB6hsY
+
+Ashikaga - Python for Zombies 15.000 enrolled in the first Brazilian MOOC to teach Python
+https://youtu.be/Jqo-DJsTCao
+
+Carl Crowder - Automatic code reviews
+https://youtu.be/3-PyXOrGICs
+
+Chris Clauss - Pythonista A full-featured Python environment for iOS devices
+https://youtu.be/hGxam9hUKkU
+
+Christian TismerAnselm Kruis - Stackless Recent advancements and future goals
+https://youtu.be/upnGzL4E49I
+
+Constanze Kurz - One year of Snowden, what's next
+https://youtu.be/7lNMmhCRRnw
+
+Designing NRT(NearRealTime) stream processing systems Using python with Storm and Kafka
+https://youtu.be/yDlMIRpVLJg
+
+Dougal Matthews - Using asyncio (aka Tulip) for home automation
+https://youtu.be/jNbfeqp8LbQ
+
+Emily Bache - Will I still be able to get a job in 2024 if I don't do TDD
+https://youtu.be/tS3oPThQ7y0
+
+Josef Heinen - Scientific Visualization with GR
+https://youtu.be/hF_FBsdr-Qk
+
+Jyrki Pulliainen - Packaging in packaging dh-virtualenv
+https://youtu.be/KRawfCQvCCk
+
+Magdalena Rother - How to become a software developer in science
+https://youtu.be/lypO8BDfEL0
+
+Marc-Andre Lemburg - Advanced Database Programming with Python
+https://youtu.be/VWdGxmJLRgE
+
+Markus Zapke-Gründemann - Writing multi-language documentation using Sphinx
+https://youtu.be/OMJJxhE6wWo
+
+Mislav StipeticDarko Ronić - Mobile Games to the Cloud With Python
+https://youtu.be/5DhDruQSIMk
+
+Ralph Heinkel - Combining the powerful worlds of Python and R
+https://youtu.be/3kvJK-Tq-eo
+
+Reimar Bauer - pymove3D - Python moves the world - Attractive programming for young people.
+https://youtu.be/45SfZ7VX6Eo
+
+Robert Lehmann - Teaching Python
+https://youtu.be/lOsifzusvb8
+
+Simon Cross - Conversing with people living in poverty
+https://youtu.be/gbwJwt574DU
+
+Stefan Schwarzer - Support Python 2 and 3 with the same code
+https://youtu.be/9vNr_ZzZZAk
+
+synasius - How to make a full fledged REST API with Django OAuth Toolkit
+https://youtu.be/mOMXVBd8kTo
+
+Thomas Wiecki - Probabilistic Programming in Python
+https://youtu.be/KqTUNJ1smYM
+
+Travis Oliphant - Python's Role in Big Data Analytics Past, Present, and Future
+https://youtu.be/18r346Tn768
+
+Valerio Maggio - Scikit-learn to learn them all
+https://youtu.be/Zft1xvsi2bw
+Videos 1076-1100

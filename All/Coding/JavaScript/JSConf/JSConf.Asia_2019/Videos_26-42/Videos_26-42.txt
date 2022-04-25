@@ -1,0 +1,52 @@
+
+Advanced Image Optimisation for Websites - JSConf.Asia 2019
+https://youtu.be/De4Wiemg-h8&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Build next gen web apps using web components - JSConf.Asia 2019
+https://youtu.be/024ValVz1-8&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Build your first mobile & desktop app as a Progressive Web Application - JSConf.Asia 2019
+https://youtu.be/Rschzf9R1cs&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Deploying and Building WebThings by Mozilla #1 - JSConf.Asia 2019
+https://youtu.be/nKEPRk1OAXU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Interactive 3D Web Mapping - JSConf.Asia 2019
+https://youtu.be/YhqpB58-wiQ&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Introduction to Machine Learning with TensorFlow.js - JSConf.Asia 2019
+https://youtu.be/luREBZqrOw4&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+JAMStack Jumpstart - Gatsby - JSConf.Asia 2019
+https://youtu.be/s-l99ZzR77k&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+JS adventures in Azureland - JSConf.Asia 2019
+https://youtu.be/JmdeVG71ESA&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+JSConf.Asia 2019 - Day 1 - Live from Singapore
+https://youtu.be/otQkIbgPKrU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+JSConf.Asia 2019 - Day 2 - Live from Singapore
+https://youtu.be/9jWwO7McMbU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+JSConf.Asia 2019 - Day 3 - Live from Singapore
+https://youtu.be/facKhfPmeAs&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Pair Programming & Test Driven Development done right - JSConf.Asia 2019
+https://youtu.be/CLfT1fH-38A&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Practical NuxtJS - JSConf.Asia 2019
+https://youtu.be/LEKTaOKeTuY&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Selling all the things Building online payments in JS with Stripe - JSConf.Asia 2019
+https://youtu.be/TGGajVx0Sn8&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Testing from 0 to 100 - JSConf.Asia 2019
+https://youtu.be/mqICUajF8Mo&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Unlocking Progress Web Applications - JSConf.Asia 2019
+https://youtu.be/iz3xX5vWyUs&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+
+Webassembly Expectation vs. Reality - JSConf.Asia 2019
+https://youtu.be/KU2tKJIjNIU&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3
+Videos 26-42

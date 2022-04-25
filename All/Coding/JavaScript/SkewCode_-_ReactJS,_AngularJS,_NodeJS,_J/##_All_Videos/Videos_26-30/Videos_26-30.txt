@@ -1,0 +1,16 @@
+
+Crash Course in Electronics
+https://youtu.be/v87YpSCsTQ8
+
+Crash Course in JavaScript
+https://youtu.be/urGgyRbVKhA
+
+Hoisting
+https://youtu.be/bXOiIJU29Io
+
+JQuery - $() method
+https://youtu.be/4gag0h-y2o4
+
+Prototypes
+https://youtu.be/AVcWE5vGHDw
+Videos 26-30

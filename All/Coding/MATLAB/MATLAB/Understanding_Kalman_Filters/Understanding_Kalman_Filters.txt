@@ -1,0 +1,22 @@
+
+How to Use a Kalman Filter in Simulink  Understanding Kalman Filters, Part 6
+https://youtu.be/ouRM4sgoVs8&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+
+How to Use an Extended Kalman Filter in Simulink  Understanding Kalman Filters, Part 7
+https://youtu.be/bCsOdnADuAM&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+
+Nonlinear State Estimators  Understanding Kalman Filters, Part 5
+https://youtu.be/Vefia3JMeHE&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+
+Optimal State Estimator  Understanding Kalman Filters, Part 3
+https://youtu.be/ul3u2yLPwU0&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+
+Optimal State Estimator Algorithm  Understanding Kalman Filters, Part 4
+https://youtu.be/VFXf1lIZ3p8&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+
+State Observers  Understanding Kalman Filters, Part 2
+https://youtu.be/4OerJmPpkRg&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+
+Why Use Kalman Filters  Understanding Kalman Filters, Part 1
+https://youtu.be/mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
+Understanding Kalman Filters

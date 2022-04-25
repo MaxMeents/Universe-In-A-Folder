@@ -1,0 +1,76 @@
+
+Aaron Jacobs  Introducing xrprof A New Way to Profile R  RStudio (2021)
+https://youtu.be/vC9-QJ2mUWw&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Ahmadou Dicko  Humanitarian Data Science with R  RStudio
+https://youtu.be/WR41ViiEz_o&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Alan Feder  Categorical Embeddings New Ways to Simplify Complex Data  RStudio
+https://youtu.be/gZSTYE8ODbs&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Alex Cookson  The Power of Great Datasets  RStudio
+https://youtu.be/NFQLupDQJk8&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Allison Horst  R Art Lessons  RStudio
+https://youtu.be/Si-luPC7cdA&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Andrew Tran  The Opioid Files Turning big pharmacy data over to the public  RStudio (2021)
+https://youtu.be/vCFsvcURTdI&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Athanasia M. Mowinckel  Make a package - Make some friends  RStudio
+https://youtu.be/fWi9_DOlWkU&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Barret Schloerke  plumber + future Async Web APIs  RStudio
+https://youtu.be/UDGeLpiMSj4&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Carson Sievert  Custom theming in Shiny & R Markdown with bslib & thematic  RStudio
+https://youtu.be/zAqoLCQ83Ns&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Chelsea Parlett-Pelleriti  Hands-on ways to remotely teach data science are invaluable  RStudio
+https://youtu.be/qaU2jXW2xcE&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Colin Rundel  parsermd - parsing R Markdown for fun and profit  RStudio
+https://youtu.be/J2JJMZR_HDk&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Danielle Oberdier  How Content Makes the Data Go 'Round  RStudio
+https://youtu.be/psYq87xx9Js&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Danielle Smalls-Perkins & Dorris Scott  Reflections on creating the Mi-R community  RStudio
+https://youtu.be/gjbUEGdL210&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Dean Marchiori  A retrospective on a year of commercial data science projects in R  RStudio
+https://youtu.be/4T8gz9AmNOA&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Emily Riederer  oRganization  RStudio
+https://youtu.be/E887K1au5ug&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Eric Cronstrom  How we made the switch a case study on automating a complex report  RStudio
+https://youtu.be/ks36zvNlk_k&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Garrick Aden-Buie  xaringan Playground Using xaringan to learn web development  RStudio
+https://youtu.be/XtUYXMLBthM&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Grant Fleming  Fairness and Data Science Failures, Factors, and Futures  RStudio
+https://youtu.be/cBM_gV-B3YI&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Hadley Wickham  Maintaining the house the tidyverse built  RStudio
+https://youtu.be/izFssYRsLZs&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Irene Steves  The dynamic duo SQL & R  RStudio
+https://youtu.be/gdzONbwfWk0&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Javier Luraschi  Using pins with Python and JavaScript  RStudio
+https://youtu.be/dsfEsJCiH-E&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Jeroen Ooms  Monitoring health and impact of open-source projects  RStudio
+https://youtu.be/kaoe7xuIJ1U&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+John Burn-Murdoch  Reporting on and visualising the pandemic  RStudio
+https://youtu.be/L5_4kuoiiKU&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+John Helveston  Using formr to create R-powered surveys with individualized feedback  RStudio
+https://youtu.be/_dW7QIjH3tc&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+
+Vicki Boykis  Your public garden  RStudio
+https://youtu.be/E5ERSfydB30&list=PL9HYL-VRX0oRjeraSIEaY0V_9gx52wdkV
+Videos 1-25

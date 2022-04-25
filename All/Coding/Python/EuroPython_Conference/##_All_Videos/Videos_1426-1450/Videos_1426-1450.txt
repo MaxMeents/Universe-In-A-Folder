@@ -1,0 +1,76 @@
+
+Big a little i practical artifici8al intelligence in python
+https://youtu.be/IvKO63BSc9c
+
+Building C- Apls on Pyton
+https://youtu.be/i5YwerH73EY
+
+Clone detection in python
+https://youtu.be/xmsK1geCDq4
+
+Come liberare i dati catastali in formato CXF con GDALOGR e Proj4
+https://youtu.be/BP3G1s4eYMk
+
+Esageriamo con uWSGI e Ngnix
+https://youtu.be/-xuelXMtYNE
+
+Hands on Pygame
+https://youtu.be/fm78gjYkYKc
+
+Health for geeks feel better-save monay-live longer by being lazy
+https://youtu.be/RSIs_5ME6UE
+
+Healty webapps throught continous introspection
+https://youtu.be/yxALwwDyWoA
+
+Juju - Service orchestration and deployment
+https://youtu.be/HlGDP92dlfY
+
+La salute per i geek stai meglio- risparmia - vivi a lungo tramite la pigrizia
+https://youtu.be/-tbmih_I040
+
+Lessons in Testing
+https://youtu.be/garsUmsZIac
+
+Method restrictions and implementing them for python
+https://youtu.be/WX7aB0e4-Lk
+
+Nuitka the python compiler
+https://youtu.be/ZDHkla5rllg
+
+Obidire alla capra TDD con Python i Selenium
+https://youtu.be/QliDfkkFa4c
+
+Openstack Overview - Operational Detail of a large Python Project
+https://youtu.be/5yzzjDHpbgc
+
+Protocol specifications written in python
+https://youtu.be/Cgf73JmuINU
+
+Pypedia a python development environment on a wiki
+https://youtu.be/di3csK0Wsik
+
+PyPy JIT under the hood
+https://youtu.be/cMtBUvORCfU
+
+Pyrun - the one file python runtime environment
+https://youtu.be/VnyvyTgWbzg
+
+Python - Qt - MySQL - Konga ERP.m4v
+https://youtu.be/N2e9ICXHkbw
+
+Restfs the next generation cloud storage
+https://youtu.be/9DIpgNzC5KM
+
+Spotify - pipelining your music
+https://youtu.be/OH4Q9db0xFw
+
+Sviluppare una Restful web API con Python fask e MongoDB
+https://youtu.be/Q6EKaBd7jmY
+
+The story of stackless Python
+https://youtu.be/pDkrkP0yf70
+
+Tornado in Depth
+https://youtu.be/4Ztq-Yz1ero
+Videos 1426-1450

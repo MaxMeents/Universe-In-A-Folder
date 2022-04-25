@@ -1,0 +1,31 @@
+
+Express MongoDB REST API #1 - Introduction
+https://youtu.be/1XmwszKUNR8
+
+Express MongoDB REST API #2 - Code Structure
+https://youtu.be/C4DjlL2hcrM
+
+Express MongoDB REST API #3 - Routes Design
+https://youtu.be/_lfDai47SJE
+
+Express MongoDB REST API #4 - MongoDBMongoose
+https://youtu.be/L1DGbI-U_e4
+
+Express MongoDB REST API #5 - AsyncAwait
+https://youtu.be/9tLA4r-gqds
+
+Express MongoDB REST API #6 - More Routes
+https://youtu.be/qAkzBQw_MrY
+
+Express MongoDB REST API #7 - Relationships
+https://youtu.be/FVn_wj1jLN0
+
+JavaScript ES6 Series #1 - forEach Helper
+https://youtu.be/Uo996lTt-ek
+
+JavaScript ES6 Series #2 - find Helper
+https://youtu.be/Kdvxjln5pSA
+
+JavaScript ES6 Series #3 - map Helper
+https://youtu.be/srns-X0Zf40
+Videos 51-60

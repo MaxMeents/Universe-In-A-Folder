@@ -1,0 +1,76 @@
+
+Andres Almiray and Dan Allen on Asciidoctor
+https://youtu.be/pM3JRGPo_HU
+
+Andres Almiray on the DesktopEmbedded App JSR
+https://youtu.be/UcickgUFtPY
+
+Arun Gupta on Devoxx4Kids
+https://youtu.be/sOpEteG088M
+
+Aysylu Greenberg on Benchmarking, Art, Music
+https://youtu.be/Dke4MO2DC7I
+
+Baruch Sadogursky - AQL
+https://youtu.be/ZFbZbZ073iw
+
+Ed Burns on JSF and Servlet
+https://youtu.be/7hFu00u-TiQ
+
+Freddy Guime on Memory Leaks
+https://youtu.be/z2W7UU15d7o
+
+Heather Van Cura giving a JCP Update
+https://youtu.be/_CDDRCGD5hE
+
+Holly Cummins on Wearable Computing
+https://youtu.be/bAUz8q9vET4
+
+JavaLand My-Matrix Project
+https://youtu.be/Gv2ZyKASxBM
+
+Jeff Prestes on the Device Access API
+https://youtu.be/g9-8TDiX9pY
+
+Kirk Pepperdine - Parallel Lambda Performance
+https://youtu.be/Y4vGiCR1hUg
+
+Michael Hoffer on 3D Printing in Java
+https://youtu.be/EPZUvbK4NgA
+
+Michael Minella on the Connected Car
+https://youtu.be/_kPjtx9iOa8
+
+NightHackingvJUG session on Adopt OpenJDK
+https://youtu.be/6lw1QX1dLWQ
+
+Peter Lawrey on Legacy Lambda Code in Java
+https://youtu.be/v1CXEXvFj4w
+
+Rabea Gransberger with Code Review Tips
+https://youtu.be/_vmEPhqzg5I
+
+Rafael Winterhalter on Byte Buddy
+https://youtu.be/oqTruAvFm7g
+
+Roland Huss on Docker
+https://youtu.be/Jm66LKa3gLs
+
+Rosalie Tolentino on Security
+https://youtu.be/mdyrPM0T7d8
+
+Stefan Schlott on Hacking Your Website
+https://youtu.be/HtPSXMvPvJk
+
+Venkat Subramaniam on Java 8 Lambdas
+https://youtu.be/q6ntkhd2w9E
+
+Voxxed Interview with Lucy, Mani, and Daniel on OpenJDK
+https://youtu.be/bM0ADpcjQFw
+
+Yakov Fain on Commercial IoT
+https://youtu.be/AQ1mQEplvJk
+
+Yoav Landman on Bintray, Docker, Chef, and Vagrant
+https://youtu.be/PCZvhnW2Sqw
+Videos 301-325

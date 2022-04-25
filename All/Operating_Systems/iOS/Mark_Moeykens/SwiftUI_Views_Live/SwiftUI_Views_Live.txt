@@ -1,0 +1,13 @@
+
+SwiftUI Views Live 1 - Mastering Layout with Blueprints
+https://youtu.be/etiEVMSJLjw&list=PLHDMmeIMXj8VgS1a4ZLfNeUwcKmfhnOlK
+
+SwiftUI Views Live 2 - Using Shadows to Enhance Your UI
+https://youtu.be/VskWw7L4LmM&list=PLHDMmeIMXj8VgS1a4ZLfNeUwcKmfhnOlK
+
+SwiftUI Views Live 3 - Color Schemes in SwiftUI
+https://youtu.be/geq442roxO0&list=PLHDMmeIMXj8VgS1a4ZLfNeUwcKmfhnOlK
+
+SwiftUI Views Live 4 - Horizontal Grid Layout Options in SwiftUI 2.0
+https://youtu.be/IrK7xV-sDlo&list=PLHDMmeIMXj8VgS1a4ZLfNeUwcKmfhnOlK
+SwiftUI Views Live

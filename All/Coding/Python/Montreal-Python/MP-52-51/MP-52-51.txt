@@ -1,0 +1,19 @@
+
+How to Write Reusable Code #MP52
+https://youtu.be/ov8UXvBXUio&list=PLQIcnBElABavMTH3M6C9HqWaiRKgdbW9J
+
+Introduction to the statsmodel library #MP51
+https://youtu.be/1u3Ec6lRD4s&list=PLQIcnBElABavMTH3M6C9HqWaiRKgdbW9J
+
+R, shiver me Python #MP51
+https://youtu.be/C280F9573wA&list=PLQIcnBElABavMTH3M6C9HqWaiRKgdbW9J
+
+Ramses build pyramid apps with a sneer of cold command #MP52
+https://youtu.be/oVE6OF-d1oQ&list=PLQIcnBElABavMTH3M6C9HqWaiRKgdbW9J
+
+Systems programming as a swiss army knife #MP52
+https://youtu.be/OXPYYshcsAw&list=PLQIcnBElABavMTH3M6C9HqWaiRKgdbW9J
+
+Why Mac sysadmins love Python #MP52
+https://youtu.be/G2kSD3MU5uM&list=PLQIcnBElABavMTH3M6C9HqWaiRKgdbW9J
+MP-52-51

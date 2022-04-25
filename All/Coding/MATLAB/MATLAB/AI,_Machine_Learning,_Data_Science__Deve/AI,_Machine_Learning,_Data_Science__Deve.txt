@@ -1,0 +1,55 @@
+
+Artificial Pancreas Control Using Fuzzy Logic
+https://youtu.be/r8qQhdvxFmw&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Component-Based Modeling in Simulink
+https://youtu.be/fLVmzhCltHo&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Data Engineering for Engineering Data
+https://youtu.be/MoUV-g2UNjI&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Data-Free Parameter Pruning and Quantization
+https://youtu.be/4xhRcOvHxzY&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Deep Network Quantization and Deployment
+https://youtu.be/jufOpBeSvHM&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Hand Gesture Recognition Using Machine Learning on Arduino Hardware
+https://youtu.be/e4qveZfQPv8&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+How to Set Up Your Own Deep Learning Experiments
+https://youtu.be/AnQYFZ62KWI&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+How to Use BERT Models for Natural Language Processing (NLP) Tasks in MATLAB
+https://youtu.be/wqIyBTiKulA&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Interactively Build Experiments to Fine-Tune and Compare Deep Learning Networks
+https://youtu.be/qBz06dAwTpY&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Interactively Extract Spectral Features for Fault Identification
+https://youtu.be/uvvhJhogBLA&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Interactively Retiming a Timetable in the Live Editor
+https://youtu.be/aisif9k30oc&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Material Classification Using Vibration Data and Machine Learning
+https://youtu.be/P1D0VUbFsQY&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Model Surgery in Action
+https://youtu.be/rRcXcdvlx_E&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+RAW Camera Image Processing Pipelines in MATLAB
+https://youtu.be/FEVl_-D2XKU&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Running a Deep Learning Network on an FPGA to Detect Defects
+https://youtu.be/ue-9NaHCFug&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Stereo Visual SLAM for Automated Driving
+https://youtu.be/Hdf50OGwgrg&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Train a Quadruped to Walk with Reinforcement Learning
+https://youtu.be/2OjEeiT69ug&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+
+Visualize Your Code with Class Diagrams in MATLAB
+https://youtu.be/LRJNIOdpuaA&list=PLn8PRpmsu08r6RqGfwiIMb_id3LzlQj1B
+AI, Machine Learning, Data Science  Developer Tech Showcase

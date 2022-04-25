@@ -1,0 +1,76 @@
+
+A. Mikhalev, D. Dukhan - The Pattern Machine Learning Natural Language Processing meets VRAR
+https://youtu.be/ZN2NS4_X1AE
+
+Abhilash Majumder - Introduction to Quantum Deep Learning
+https://youtu.be/p5jOwsnGgwI
+
+Abigail Dogbe - Python in a world of Pan-Africanism
+https://youtu.be/ps6XCS8O65s
+
+Anton Chernikov - Automate your tasks with Python and publish with Chat Apps
+https://youtu.be/UIdKVF37g0o
+
+Chiin-Rui Tan, Sara Nunnington - How Scientific Computing is advancing the world of Football
+https://youtu.be/m1iYz1XYuQ8
+
+Dhanshree Arora - Federated Machine Learning with Python
+https://youtu.be/fkLgRhcyPSU
+
+EuroPython 2021  - Lightning Talks 0728
+https://youtu.be/qVH-2LAl_Ts
+
+Europython 2021 - Opening Session Conference
+https://youtu.be/3GvWh3XlJ-0
+
+James Ing Wei Tang - Honey, There Is a Python in My Android Phone!
+https://youtu.be/S32Z55c_GkY
+
+Jose Haro Peralta - Documentation-driven development for Python web APIs
+https://youtu.be/prGzBqUAXi4
+
+Mar Bartolome - Hiring Demystified
+https://youtu.be/mnzX3LhZ0VI
+
+Markus Holtermann - An Introduction to Kubernetes
+https://youtu.be/ifZ7b7X54S4
+
+María Andrea Vignau - SQLite, an (un) known super ant
+https://youtu.be/s7110IaMEOs
+
+Matthias Feurer, Katharina Eggensperger - Auto-Sklearn Automated Machine Learning in Python
+https://youtu.be/ugN8U--oUaU
+
+Mauro Pelucchi - Data Ingestion and Big Data
+https://youtu.be/r0zMHwgLLS0
+
+Miroslav Šedivý - Should We Return to Python 2
+https://youtu.be/bV_v81v7MMM
+
+Noah Chen - Community-oriented conference status during COVID-19
+https://youtu.be/xq76L6Hd5Ng
+
+Paula Dozsa - Creative Coding with imagiLabs
+https://youtu.be/ZmNA_iO9fRs
+
+Prashant Chaubey - Writing Good Python
+https://youtu.be/vnCXToWqz3M
+
+Rodrigo Girão Serrão - Pydon'ts
+https://youtu.be/Vjq89-spPOk
+
+Sebastian Buczyński - Refactoring legacy Django app using OOP
+https://youtu.be/hI4R1qY4pIk
+
+Sebastian Witowski - Python Versions and Dependencies Made Easy
+https://youtu.be/yfHOlS4rqdY
+
+Serge Sans Paille - Tooling for Static Analysis of Python Programs
+https://youtu.be/_xi213GG89Q
+
+Takanori Suzuki - Decade of PyCon JP How we spread the Python community in Japan
+https://youtu.be/jO8isCFS_YM
+
+Tonya Sims - Faceoff Fun with Python Frameworks FastAPI vs Flask
+https://youtu.be/Xoqv9NMO24Q
+Videos 101-125

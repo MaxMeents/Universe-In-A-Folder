@@ -1,0 +1,76 @@
+
+Episode #150 - Database, Model and Scopes  Preview
+https://youtu.be/MqCL7tiqc_Q
+
+Episode #151 - Safely Running Shell Commands  Preview
+https://youtu.be/Gv2qqpE9gCQ
+
+Episode #152 - Deeper Dive into StimulusJS
+https://youtu.be/cOm-uFIhadc
+
+Episode #153 - Bundler and Binstubs  Preview
+https://youtu.be/oZqdy__FPsA
+
+Episode #154 - Service Objects for API Interactions with Twilio
+https://youtu.be/SSegXmqdlFQ
+
+Episode #155 - Friend Requests From Scratch
+https://youtu.be/vAfS2DqDbz8
+
+Episode #156 - Friend Request Views, Controllers, and Model Methods  Preview
+https://youtu.be/ODIY4UsM48c
+
+Episode #157 - Nested Comments from Scratch  Preview
+https://youtu.be/V8z-_jqhmhg
+
+Episode #158 - Grab Bag of Ruby and Ruby on Rails Tricks
+https://youtu.be/AZGOzb1Y5U8
+
+Episode #159 - Activity Feed with Public Activity  Preview
+https://youtu.be/eOj7kVEj_9Q
+
+Episode #160 - Development Decisions and Architecture  Preview
+https://youtu.be/cqEiYtUUV9o
+
+Episode #161 - Refactoring Models  Preview
+https://youtu.be/r8cYWdn61is
+
+Episode #162 - Creating a Simple Slack Bot
+https://youtu.be/CuQJhpzO5WY
+
+Episode #163 Templating Ruby on Rails Applications  Preview
+https://youtu.be/1a0NjtTCFjE
+
+Episode #164 - Policy Manager with GDPR Rails  Preview
+https://youtu.be/Bf82jLc5ZQM
+
+Episode #165 - Incoming Emails with Action Mailbox  Preview
+https://youtu.be/Wyvk3E0Qir4
+
+Episode #166 - Creating a Ruby Domain Specific Language (DSL)  Preview
+https://youtu.be/X8epvlOFu08
+
+Episode #167 - Using Action Text in a Rails 5.2 Application
+https://youtu.be/R6G_0A0picg
+
+Episode #168 - Getting Started with VueJS  Preview
+https://youtu.be/_dMtUoAQOlw
+
+Episode #169 - Rails Scaffold with VueJS  Preview
+https://youtu.be/EQY7LqPEiDk
+
+Episode #170 - Managing Terminal Windows  Preview
+https://youtu.be/IXEFA8ZxF2c
+
+Episode #171 - What the RegEx
+https://youtu.be/pP79v6zcEP8
+
+Episode #172 - API Authentication with Omniauth  Preview
+https://youtu.be/QuP2BgvIzYY
+
+Episode #173 - Simple and Complex Database Migrations  Preview
+https://youtu.be/oBx4DmqtTZ8
+
+Episode #174 - React Native and Ruby on Rails API Only Applications  Preview
+https://youtu.be/qxVpTzmKqMI
+Videos 176-200

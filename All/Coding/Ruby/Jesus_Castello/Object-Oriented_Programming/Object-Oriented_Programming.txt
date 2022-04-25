@@ -1,0 +1,31 @@
+
+How to Create Ruby Objects That Describe Themselves
+https://youtu.be/OY-Hw3kpdhg&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+How To Use & Understand Ruby Documentation
+https://youtu.be/on9yGrw3xg0&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+How to Use Attribute Accessors in Ruby
+https://youtu.be/C4O7bcbItw4&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+How to Use The Ruby Initialize Method
+https://youtu.be/2CSnuCeNXlY&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+Tell Don't Ask Principle in Ruby
+https://youtu.be/3BaKc-hWGmA&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+Understanding The Law of Demeter
+https://youtu.be/oigVMMQ2woo&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+What Are Frozen Objects in Ruby
+https://youtu.be/laH0v3ZWu2I&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+What Is An Object in Ruby
+https://youtu.be/LuTTUNnSj6o&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+What's Inheritance in OOP
+https://youtu.be/W2T_kDGzMF4&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+
+What's Method Visibility in Ruby
+https://youtu.be/PX2nYhKlVv4&list=PL6Eq_d2HYExeKIi4d9rUEoD6qSiKS4vfe
+Object-Oriented Programming

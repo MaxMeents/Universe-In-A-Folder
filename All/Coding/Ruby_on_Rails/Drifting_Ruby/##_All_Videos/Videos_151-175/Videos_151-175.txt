@@ -1,0 +1,76 @@
+
+Episode #175 - What's New in Rails 6
+https://youtu.be/hE-ruL0_bxc
+
+Episode #176 - Ecommerce Store with Solidus  Preview
+https://youtu.be/gLNaFLOIptE
+
+Episode #177 - Interview with Jesus Castello
+https://youtu.be/wJPKYdWPFs8
+
+Episode #178 - Using Webpacker in Rails 6  Preview
+https://youtu.be/tTqA6jT0Qio
+
+Episode #179 - Creating a Gem From Existing Code  Preview
+https://youtu.be/PmU6H2NoOeM
+
+Episode #180 - 3 Different Perspectives of Importing Records  Preview
+https://youtu.be/mNOEwmGM7f4
+
+Episode #181 - Introduction to Kubernetes
+https://youtu.be/cNLJTuTGn3k
+
+Episode #182 - Interview Questions  Preview
+https://youtu.be/7jxJQOsmMxQ
+
+Episode #183 - Interview Frank Rietta
+https://youtu.be/GrLArW82R0Q
+
+Episode #184 - Load Testing with JMeter  Preview
+https://youtu.be/qXJNTYcLswU
+
+Episode #185 - Application Performance Monitoring in Rails  Preview
+https://youtu.be/ffBJiqpxu74
+
+Episode #186 - Nested Forms from Scratch with StimulusJS
+https://youtu.be/qM4ZK0uuZUE
+
+Episode #187 - Extending the Rails Core Form Builder  Preview
+https://youtu.be/UFHe353WImQ
+
+Episode #188 - Interview with Riaz Virani
+https://youtu.be/yCJLMcY-iiw
+
+Episode #189 - Saving Individual Attributes with StimulusJS  Preview
+https://youtu.be/ey_6qIPI1h4
+
+Episode #190 - Realtime Client Updates from Background Jobs Using Stimulus  Preview
+https://youtu.be/Zu7ObZ8Ob08
+
+Episode #191 - Inline Editing Records
+https://youtu.be/DPivelvL6Gg
+
+Episode #192 - Persistent Referral Links with Devise  Preview
+https://youtu.be/oNj7fxvy9ms
+
+Episode #193 - Environment Specific Encrypted Credentials in Rails 5.2  Preview
+https://youtu.be/kDWOC6qPqQg
+
+Episode #194 - Teaching at Bootcamps with Ed Toro  Interview
+https://youtu.be/b95T9HyBxTs
+
+Episode #195 - Thredded Forum  Preview
+https://youtu.be/vakfo0HqpQE
+
+Episode #196 - ActionViewComponent
+https://youtu.be/HworfA7H5vI
+
+Episode #197 - Introduction to DragonRuby
+https://youtu.be/-l4QB40qfSU
+
+Episode #198 - SOLID - Single Responsibility Principle  Preview
+https://youtu.be/lSFAyCh6_Io
+
+Episode #199 - SOLID - OpenClosed Principle  Preview
+https://youtu.be/nWzXr_FhVfQ
+Videos 151-175

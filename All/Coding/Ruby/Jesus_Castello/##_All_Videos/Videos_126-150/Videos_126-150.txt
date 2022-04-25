@@ -1,0 +1,76 @@
+
+3 Practical Examples Of Ruby Blocks
+https://youtu.be/92yuNm6Ts0c
+
+3 Ways to Filter a Ruby Array By Class
+https://youtu.be/vu4Hnu6pWgg
+
+3 Ways to Use The Fetch Method
+https://youtu.be/bCBQWH_4US0
+
+How to Build a Ruby Web Application Without Rails
+https://youtu.be/tt6JMIMdU4k
+
+How to Create Temporary Files & Folders
+https://youtu.be/g_UdyGy3EVQ
+
+How to Fix The Uninitialized Constant Error
+https://youtu.be/2Ffr0Mlr42Y
+
+How to Handle Infinite Recursion With Stacks
+https://youtu.be/Y6_1UFK2vQQ
+
+How to Pad a String in Ruby
+https://youtu.be/aOqCvcjdlmQ
+
+How to Test Your Ruby Code With RSpec
+https://youtu.be/LdutLs5-ObI
+
+How To Use & Understand Ruby Documentation
+https://youtu.be/on9yGrw3xg0
+
+How to Use Attribute Accessors in Ruby
+https://youtu.be/C4O7bcbItw4
+
+How to Use Keyword Arguments
+https://youtu.be/PWtjyo9UZdY
+
+How to Use Ruby's Struct Class
+https://youtu.be/AlPFIXax3co
+
+How to Use the Eval Method in Ruby
+https://youtu.be/8WwR3n0GsI8
+
+How to Use the Faraday Gem
+https://youtu.be/b_0eo9Ko60Y
+
+How to Use The With Index Method in Ruby
+https://youtu.be/wJWwfxdhlzI
+
+Introduction To  Web Development With Ruby
+https://youtu.be/OPHSv7q9i14
+
+Ruby Built-In Flags & How to Use Them To Improve Your Code
+https://youtu.be/bYOmA6ZXNhs
+
+Ruby Network Programming Build Your Own Servers & Clients
+https://youtu.be/Mae30hyG7qQ
+
+Ruby Programming Basics How to get started with Ruby
+https://youtu.be/DJeGX4c7shA
+
+Ruby Programming Project (Build a Linux Tool)
+https://youtu.be/8c11YUlMbhA
+
+Understanding The Ruby Each Method
+https://youtu.be/2RMaOAc8ZNA
+
+What Are Frozen Objects in Ruby
+https://youtu.be/laH0v3ZWu2I
+
+What Is An Object in Ruby
+https://youtu.be/LuTTUNnSj6o
+
+What's Inheritance in OOP
+https://youtu.be/W2T_kDGzMF4
+Videos 126-150

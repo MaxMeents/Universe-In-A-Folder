@@ -1,0 +1,76 @@
+
+10 méthodes pour rendre heureux les développeurs (Cyril Lakech - Romain Linsolas)
+https://youtu.be/KH40vSYLENA&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Apéro fonctionnel (P. Charrière - N. Leroux - E. Issartial - Q. Adam - T. Guenoux)
+https://youtu.be/d-h0rsLKc9c&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Comment ça marche systemd déjà (Quentin Adam - Clément Delafargue)
+https://youtu.be/XwcpLtEyVXE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+CQRS EventSourcing par la pratique (Clément Heliou)
+https://youtu.be/zxa4y6eJj_g&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+De bronze à légendaire, comment réussir vos IA de bot (Grégory Ribéron)
+https://youtu.be/8kBQMQyLHME&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Docker 2017 Nouveautés et perspectives (Vincent Demeester)
+https://youtu.be/sjEuWD-mocU&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Et si votre backend était une Google Spreadsheet  (Frédéric Camblor)
+https://youtu.be/ZPIgNvMhFZA&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Ethical AI (Francesca Rossi)
+https://youtu.be/CsA_NhqMLCM&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Java 9 modulo les modules (Jean Michel Doudoux)
+https://youtu.be/tQ02pShPLHk&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+La Keynote d'ouverture de Devoxx France 2017 (Antonio Goncalves - Nicolas Martignole - Zouheir Cadi)
+https://youtu.be/172dKBvh9O8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Le Streaming d'API Comment transformer vos APIs statiques en données temps réel (Audrey Neveu)
+https://youtu.be/MmVRkkZ7qHk&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Les Web DevTools en 2017 (Jean-Francois Garreau)
+https://youtu.be/par742RHhVM&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Minimum Viable Product In Action (Sébastien PRUNIER - Chris Woodrow - Mathieu ANCELIN)
+https://youtu.be/VUGQ5RmFXVg&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Open Source depuis les tranchées 4 ans de JHipster @Ippon Julien Dubois Geoffray Gruel
+https://youtu.be/rD4elLqQECE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Optimiser les performances d'une webapp (Guillaume EHRET)
+https://youtu.be/9PRPPJFaF_o&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Pourquoi votre entreprise devrait stocker l'ensemble de son code dans un seul repo (Thierry Abaléa)
+https://youtu.be/7Dfes-qJQ54&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Problèmes rencontrés en microservice Configuration, authentification... (Quentin Adam)
+https://youtu.be/mvKeCsxGZhE&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Quel droit pour les robots (Alain Bensoussan)
+https://youtu.be/PN1V4CoVsh8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+React Native ou comment faire une application iOS & Android ... (Florent Le Gall & Thierry Abaléa)
+https://youtu.be/vSZHdsBOX2E&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+RxJava, RxJava 2, Reactor Etat de l’art des Reactive Streams en Java (David Wursteisen)
+https://youtu.be/9tQw2rYwrQ8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Sorcellerie en Java outrepasser les interdits avec sun misc Unsafe (Thomas SCHWENDER)
+https://youtu.be/FytJ4OdGYPM&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Soyez une feign asse quand vous écrivez un client REST Java (Alexandre Navarro)
+https://youtu.be/VXVpVnJ_f7c&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Spring Framework 5 0 (Stéphane Nicoll)
+https://youtu.be/fPagoyhlS3s&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Une application sociale pour Devoxx (Horacio Gonzalez - Fabrice Sznajderman)
+https://youtu.be/JmgtMt8sBhQ&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+
+Video games The quest for smart dumbness (Laurent Victorino)
+https://youtu.be/Kc8VO97ukB8&list=PLRsbF2sD7JVq2beQ1zO4tCnLabeSZpLnz
+Videos 1-25

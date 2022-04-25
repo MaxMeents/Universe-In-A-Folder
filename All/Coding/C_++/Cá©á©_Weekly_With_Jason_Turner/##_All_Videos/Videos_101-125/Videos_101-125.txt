@@ -1,0 +1,76 @@
+
+(SavingReplaying Game Events. It Works!) Hacking On the C++ Weekly Game Project - Part 2
+https://youtu.be/XHxdGXHTKKM
+
+(SavingReplaying Game Events. Prep work.) Hacking On the C++ Weekly Game Project - Part 1
+https://youtu.be/2fnZB8u0L14
+
+C++ Weekly - Ep 216 - C++20's lerp, midpoint And Why They Are Necessary
+https://youtu.be/gwHL4EOb-R8
+
+C++ Weekly - Ep 217 - Doom vs C++ Round 1 Initial Results
+https://youtu.be/Nand3PEV1p4
+
+C++ Weekly - Ep 218 - C++20's stdto_array
+https://youtu.be/IcQl1Oh9AvQ
+
+C++ Weekly - Ep 219 - RPG In C++20 - Part 4 Reading SFML Joystick States
+https://youtu.be/jUh9q_qWhlM
+
+C++ Weekly - Ep 220 - C++20's [[likely]] and [[unlikely]] With Practical use Case
+https://youtu.be/ew3wt0g99kg
+
+C++ Weekly - Ep 221 - Generating a .clang-format For C++ Doom
+https://youtu.be/FNLWtKxXQ0o
+
+C++ Weekly - Ep 222 - 3.5x Faster Standard Containers With PMR!
+https://youtu.be/q6A7cKFXjY0
+
+C++ Weekly - Ep 223 - Know Your Standard Library stdnextafter
+https://youtu.be/-F0j2VN4xEU
+
+C++ Weekly - Ep 224 - RPG In C++20 - Part 5 Dealing With Game Input Events
+https://youtu.be/EF-lO3daS7I
+
+C++ Weekly - Ep 225 - Understanding Operator Overloading
+https://youtu.be/gjFrjNK3Dq4
+
+C++ Weekly - Ep 226 - The Arrow Operator Is Magic
+https://youtu.be/mAHHKDyLmCI
+
+C++ Weekly - Ep 227 - RPG In C++20 - Part 6 Dealing With Game Events - 2
+https://youtu.be/wRTWnGse3vo
+
+C++ Weekly - Ep 228 - C++20's (High Precision) Mathematical Constants
+https://youtu.be/VPC17U-twrY
+
+C++ Weekly - Ep 229 - C++20 Why Deprecate The Comma Operator
+https://youtu.be/qD1aKLux5Fw
+
+C++ Weekly - Ep 230 - Building A High Performance Bit Pattern Match DSL
+https://youtu.be/-GqMLnWuHTU
+
+C++ Weekly - Ep 231 - Multiple Destructors in C++20! How and Why
+https://youtu.be/A3_xrqr5Kdw
+
+C++ Weekly - Ep 232 - C++20's `using enum`
+https://youtu.be/JM8F2DPm_0E
+
+C++ Weekly - Live Stream 5 - Porting Doom to C++ - More constexpr!
+https://youtu.be/1zIvfw-Zv4s
+
+Jonathan Teaches Jason Rust! - Part 2
+https://youtu.be/Y5-ZgxfQvpc
+
+Jonathan Teaches Jason Rust!
+https://youtu.be/EzQ7YIIo1rY
+
+Matt And Jason Discuss Cycle Perfect Emulation
+https://youtu.be/DbSRetQP-Xg
+
+Moving From Intel to ARM - Apple's Big Performance Mistake
+https://youtu.be/JAr0c6le_F8
+
+Reviewing The Command & Conquer Source!
+https://youtu.be/Oee7gje-XRc
+Videos 101-125

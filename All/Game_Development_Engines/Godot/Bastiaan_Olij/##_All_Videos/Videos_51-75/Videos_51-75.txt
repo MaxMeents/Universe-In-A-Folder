@@ -1,0 +1,76 @@
+
+Adhoc livestream #2, testing audio and doing a bit more work on VR
+https://youtu.be/e-QNb3rUDgY
+
+Adhoc livestream 3 - going to outer space
+https://youtu.be/voPzbFhbEHw
+
+Channel update June 2020
+https://youtu.be/oAQbAcgcNy4
+
+Dev stream 2 - Building a VR space shooter in Godot
+https://youtu.be/QtPXQplKrCs
+
+Dev stream 3 - Building a VR space shooter in Godot
+https://youtu.be/ryAfnhDRsUQ
+
+Doing a bit of rejigging on our VR weapons tutorial project
+https://youtu.be/XKedM6HXcxA
+
+Godot ARKit introduction
+https://youtu.be/6NEonfH1ME0
+
+Godot background loading
+https://youtu.be/1oeOwPJ1XHM
+
+Godot on Oculus Quest Tutorial part 1 - Setting up Godot for the Quest
+https://youtu.be/FyU3jw7mhCI
+
+Godot Smoke and mirrors part 1 - Faking mirrors in 3D
+https://youtu.be/wPzTmFHrGQk
+
+Godot Smoke and mirrors part 2 - Part 2 Hiding rooms based on player location
+https://youtu.be/QXUCGzJUfkc
+
+Godot Smoke and mirrors part 3 - Rendering loads of objects
+https://youtu.be/pmyOYInhlkI
+
+Godot VR Object Interaction part 1
+https://youtu.be/o6GIoO97vGQ
+
+Godot VR Object Interaction part 2
+https://youtu.be/8yI05GVuQck
+
+Godot VR Weapons part 5 - Reloading
+https://youtu.be/EK91zvMhck0
+
+Godot VR Weapons tutorial part 3 - firing our gun
+https://youtu.be/57YxdOHQV2E
+
+Godot VR Weapons tutorial part 4 - animating our gun and adding audio
+https://youtu.be/e_KaRNYg3P4
+
+Godot VR Weapons tutorial part 6 - Ammo count, smoke trial and muzzle flash
+https://youtu.be/ERFCutI6mqc
+
+Godot VR Weapons tutorial part 7 - Projectile weapons
+https://youtu.be/rPVtFw6LljI
+
+Godot VR Weapons tutorial Part 7 teaser
+https://youtu.be/XG9uoIZcAzU
+
+Godot VR Weapons tutorial part 8 - Implement a scope
+https://youtu.be/GaKSdkVcSRo
+
+Introduction into Godot 3D Physics part 1
+https://youtu.be/SI1bmViq1JA
+
+Introduction into Godot 3D Physics part 2
+https://youtu.be/twodQHm0gxw
+
+Introduction into Godot 3D Physics part 3
+https://youtu.be/z-f5NEt9AXo
+
+Update on scifi fighter game July 2020 - Godot VR
+https://youtu.be/m_N3FyMW8qM
+Videos 51-75

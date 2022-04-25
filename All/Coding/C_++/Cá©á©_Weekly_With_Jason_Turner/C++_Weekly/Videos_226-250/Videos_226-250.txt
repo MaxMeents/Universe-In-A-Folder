@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 226 - The Arrow Operator Is Magic
+https://youtu.be/mAHHKDyLmCI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 227 - RPG In C++20 - Part 6 Dealing With Game Events - 2
+https://youtu.be/wRTWnGse3vo&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 228 - C++20's (High Precision) Mathematical Constants
+https://youtu.be/VPC17U-twrY&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 229 - C++20 Why Deprecate The Comma Operator
+https://youtu.be/qD1aKLux5Fw&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 230 - Building A High Performance Bit Pattern Match DSL
+https://youtu.be/-GqMLnWuHTU&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 231 - Multiple Destructors in C++20! How and Why
+https://youtu.be/A3_xrqr5Kdw&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 232 - C++20's `using enum`
+https://youtu.be/JM8F2DPm_0E&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 233 - stdmap vs constexpr map (huge perf difference!)
+https://youtu.be/INn3xa4pMfg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 234 - map[] vs map.at()
+https://youtu.be/kDqS1xVWGMg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 235 - PMR Amazing, Fast, But, Not Quite Magic
+https://youtu.be/vXJ1dwJ9QkI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 236 - Creating Allocator-Aware Types
+https://youtu.be/2LAsqp7UrNs&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 237 - Teach Yourself C++ in ∞ Days
+https://youtu.be/zUQz4LBBz7M&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 238 - const mutable Lambdas
+https://youtu.be/qXy0facG6cA&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 239 - stdmem_fun vs stdmem_fn Fight!
+https://youtu.be/geE-LyR_NrM&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 240 - Start Using [[nodiscard]]!
+https://youtu.be/nhsahjY5jdE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 241 - Using `explicit` to Find Expensive Accidental Copies
+https://youtu.be/5wJ-jKK_Zy0&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 242 - Design By Introspection in C++20 (concepts + if constexpr)
+https://youtu.be/sy32kAtsIKg&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 243 - Computer Science The Magic of Two's Complement Binary Math
+https://youtu.be/s89pOAC_X08&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 244 - Channel News, Updates, Thank Yous, and Changes
+https://youtu.be/dGYOc41m81U&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 245 - PMR Mistakes Were Made (By Me)
+https://youtu.be/6BLlIj2QoT8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 246 - (+[](){})() What Does It Mean
+https://youtu.be/fYd84StM5OI&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 247 - -O3, -Os, -Og, -Oz, Oh My!
+https://youtu.be/THE14sSDT6A&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 248 - Understand the C++17 PMR Standard Allocators and Track All the Things
+https://youtu.be/Zt0q3OEeuB0&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+C++ Weekly - Ep 249 - Types That Shall Not Be Named
+https://youtu.be/jWgSkM8N0Bc&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+
+Moving From Intel to ARM - Apple's Big Performance Mistake
+https://youtu.be/JAr0c6le_F8&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
+Videos 226-250

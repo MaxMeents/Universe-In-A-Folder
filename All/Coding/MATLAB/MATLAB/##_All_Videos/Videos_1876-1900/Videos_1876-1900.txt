@@ -1,0 +1,76 @@
+
+AUTOSAR Client Server SIL Simulation
+https://youtu.be/of_5SZXTQlE
+
+Beyond Excel Enhancing Your Data Analysis with MATLAB
+https://youtu.be/nArmz0UuPkA
+
+Building and Downloading a Simulink Model to VEX Microcontroller
+https://youtu.be/sj99xknx6v4
+
+Controlling Servomotor Angle with Gamepad Buttons
+https://youtu.be/Od0lsE_zFXc
+
+Generate C Code from MATLAB Code
+https://youtu.be/zN6DsQ0ELts
+
+Getting Started with Model Predictive Control Toolbox
+https://youtu.be/bQohcw8_HRU
+
+Implement Maximum Power Point Tracking Algorithms Using MATLAB and Simulink
+https://youtu.be/tZZ74pOa-eE
+
+Integrating MATLAB and C, Part 1 Introduction
+https://youtu.be/dhzehParZ40
+
+Integrating MATLAB and C, Part 2  Visualizing and Testing CC++ Code
+https://youtu.be/PodX7ds7bM4
+
+Integrating MATLAB and C, Part 4 CC++ Code Generation and Integration
+https://youtu.be/_1qaR4ENea8
+
+Integrating MATLAB and C, Part 5 Fixed Point Designer
+https://youtu.be/jboSYn-iAe4
+
+Introduction to Simulink Support for Target Hardware
+https://youtu.be/lZg9F62Twws
+
+Machine Learning Made Easy
+https://youtu.be/lbNrlwV6Lj4
+
+MATLAB to iPhone and Android Made Easy
+https://youtu.be/DWnadVCwMJw
+
+MATLAB to iPhone Made Easy
+https://youtu.be/HBcIN01r7wg
+
+Maximum Power Point Tracking Algorithm Overview
+https://youtu.be/Auk9jU3Ee4M
+
+Messages in State Machines
+https://youtu.be/jr2mKaRR_f4
+
+Performing Power System Studies
+https://youtu.be/SEb_kHuKVBo
+
+Real-Time Simulation and Testing with Simulink Real-Time
+https://youtu.be/QxSKaq7F4mg
+
+Simulation Testing in Model-Based Design
+https://youtu.be/wW1u5Y5VWag
+
+Simulink Tips and Tricks
+https://youtu.be/gG_vsxPaTCQ
+
+Tackling Big Data with MATLAB
+https://youtu.be/NpxzfstALHo
+
+Tune Parameters Using Simulink External Mode for VEX Cortex
+https://youtu.be/jSbmqYWdB_c
+
+Using GamepadController for Simulation Input
+https://youtu.be/MKak4qHSWvk
+
+What is a Genetic Algorithm
+https://youtu.be/1i8muvzZkPw
+Videos 1876-1900

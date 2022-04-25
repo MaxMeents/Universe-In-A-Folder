@@ -1,0 +1,16 @@
+
+How to build a multiplayer game - Stefan Schindler RustFest.Global Pre-Event
+https://youtu.be/Yb-QR3Vm3sk&list=PL85XCvVPmGQipj690WrVgsnU4K4x7qFGy
+
+Rust Zürichsee, April Gerhard Bräunlich - PyO3 and Rust in action
+https://youtu.be/Y3e1BwGDOxc&list=PL85XCvVPmGQipj690WrVgsnU4K4x7qFGy
+
+Rust Zürichsee, August Stefan Schindler - Threadpool and Cargo Helpers
+https://youtu.be/N0b9fNw5lBM&list=PL85XCvVPmGQipj690WrVgsnU4K4x7qFGy
+
+Rust Zürisee, April cargo crev and cargo audit
+https://youtu.be/_xS40wqO8GA&list=PL85XCvVPmGQipj690WrVgsnU4K4x7qFGy
+
+Stefan Schindler Parallel Programming with Thread pools and iterators
+https://youtu.be/fi4hsbijVxU&list=PL85XCvVPmGQipj690WrVgsnU4K4x7qFGy
+Rust Zürichsee

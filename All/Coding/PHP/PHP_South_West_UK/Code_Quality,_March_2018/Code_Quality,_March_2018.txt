@@ -1,0 +1,7 @@
+
+Crafting Quality PHP Applications an overview - James Titcumb - PHPSW Code Quality, March 2018
+https://youtu.be/MObzNuu2Sq8&list=PLrEpsyNSHj03CCl0M8ZtMVQut8pX5lKDg
+
+Good or bad - telling the difference is hard - Dan Ackroyd - PHPSW Code Quality, March 2018
+https://youtu.be/2_jlZLgDfpM&list=PLrEpsyNSHj03CCl0M8ZtMVQut8pX5lKDg
+Code Quality, March 2018

@@ -1,0 +1,40 @@
+
+Build a Solar Tracking System Using Simulink and ThingSpeak for Arduino
+https://youtu.be/57GxzjSaKhA&list=PL7CAABC40B2825C8B
+
+Create a MathWorks Account (Using a MATLAB portal)
+https://youtu.be/-0K7Bhk0bAU&list=PL7CAABC40B2825C8B
+
+How to Collect Sensor Data on Your iPhone or Android Device Using MATLAB Mobile
+https://youtu.be/LCk9gV0ooxI&list=PL7CAABC40B2825C8B
+
+How to Implement Object-Oriented Programming Principles in MATLAB
+https://youtu.be/kz4zYECb8AA&list=PL7CAABC40B2825C8B
+
+How to Improve Simulation Performance Using the Solver Profiler
+https://youtu.be/-EQI2Osbeug&list=PL7CAABC40B2825C8B
+
+How to Interact with Simulink Models from MATLAB Scripts
+https://youtu.be/pLYZRCY-RO8&list=PL7CAABC40B2825C8B
+
+How to Solve Math Problems Using Symbolic Math Toolbox
+https://youtu.be/yYyRUH1idWg&list=PL7CAABC40B2825C8B
+
+How to Use Buses in Simulink
+https://youtu.be/LWnZXSuRt0I&list=PL7CAABC40B2825C8B
+
+How to Use Lookup Tables with Simulink
+https://youtu.be/HmfwKoFHrO4&list=PL7CAABC40B2825C8B
+
+How to Use Source Control in MATLAB with GitHub
+https://youtu.be/O7A27uMduo0&list=PL7CAABC40B2825C8B
+
+How to Visualize Multivariable Functions in MATLAB
+https://youtu.be/G9THGoGjNlo&list=PL7CAABC40B2825C8B
+
+Install an Individual License
+https://youtu.be/R6Zt0DwOWRg&list=PL7CAABC40B2825C8B
+
+Update Your Campus-Wide License
+https://youtu.be/_qq2gVlmu1k&list=PL7CAABC40B2825C8B
+Videos 26-38

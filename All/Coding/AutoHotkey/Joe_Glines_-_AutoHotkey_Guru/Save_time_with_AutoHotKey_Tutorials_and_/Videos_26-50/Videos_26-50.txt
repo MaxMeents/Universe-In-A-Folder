@@ -1,0 +1,73 @@
+
+AutoHotKey Hotstrings and SPSS
+https://youtu.be/DQu0aU3jhow&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+AutoHotkey User Survey Webinar
+https://youtu.be/dqvPrmVVAwA&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+AutoHotkey User Survey
+https://youtu.be/F2_dwJIDVxE&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Automating email metrics with Excel and AutoHotkey
+https://youtu.be/N4CLh9BQmVk&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+ClipShare Intro - Explanation
+https://youtu.be/sd6tOaYtiv8&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Control Placements in AutoHotKey GUIs
+https://youtu.be/goSdcdKOC1w&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Easy automation of sales emails with Excel and Outlook
+https://youtu.be/ZHlRwjpp440&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to create an HTML email with Outlook and AutoHotKey
+https://youtu.be/yzxlpZFayiY&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to customize SciTE  Deep dive into my User Properties file
+https://youtu.be/H22njM_Lkhg&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to Debug with SciTE Part 2  A deeper dive into debugging AutoHotkey code with SciTE4AutoHotkey
+
+
+How to easily split text into separate cells in Excel
+https://youtu.be/Fkm3m4Wnqb0&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to Set values & click links with IE and AHK  Webs craping with AutoHotKey 102
+https://youtu.be/Q8C1wysJvAE&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+How to use SciTE messages to control SciTE with AutoHotkey
+https://youtu.be/upPtaEghnRM&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Joe Glines and Jackie Sztuk reviewing AutoHotkey Hotstrings
+https://youtu.be/Yueit5zpcY0&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Naming Convention & Reporting
+https://youtu.be/AP6X3rDLDSo&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Naming Convention and Regular Expression
+https://youtu.be/DjBIV9oV1i8&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Prospector and Autocomplete API
+https://youtu.be/lt_xRM44X-0&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Using AutoHotKey to write SPSS Syntax with HotStrings
+https://youtu.be/Jmf7T7oCj7w&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+WebScraping with Autohotkey 101-Pointer and getting values from page
+https://youtu.be/UfqumFBUrwI&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Webscraping with AutoHotkey 103-Isolating sections and taking advantange of DOM
+https://youtu.be/gBTFNcv87cU&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Webscraping with AutoHotkey 104-Frames
+https://youtu.be/p_f3g2rt2Tw&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Webscraping with AutoHotKey 105- trouble shooting Webscraping
+https://youtu.be/EsK25d7L3Ng&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Webscraping with AutoHotkey 106- Looping over pages
+https://youtu.be/VStIg7T9hHg&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+
+Webscraping with AutoHotKey 107- Classname
+https://youtu.be/aSKz6YXIFHE&list=PL3JprvrxlW27kZNKDIJLTukzUAa0vlG2H
+Videos 26-50

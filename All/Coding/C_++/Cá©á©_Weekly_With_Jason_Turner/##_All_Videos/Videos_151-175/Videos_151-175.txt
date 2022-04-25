@@ -1,0 +1,76 @@
+
+C++ Weekly - Ep 170 - C++17's `inline` Variables
+https://youtu.be/m7hwL0gHuP4
+
+C++ Weekly - Ep 171 - C++20's Parameter Packs In Captures
+https://youtu.be/UwYYc5dpvqk
+
+C++ Weekly - Ep 172 - Execution Support in Compiler Explorer
+https://youtu.be/4h8IOiu-K1c
+
+C++ Weekly - Ep 173 - The Important Parts of C++98 in 13 Minutes
+https://youtu.be/78Y_LRZPVRg
+
+C++ Weekly - Ep 174 - C++20's `stdbind_front`
+https://youtu.be/7pqPfQ_HpmI
+
+C++ Weekly - Ep 175 - Spaceships in C++20 operator 〈=〉
+https://youtu.be/0SeUPb8LC9I
+
+C++ Weekly - Ep 176 - Important Parts of C++11 in 12 Minutes
+https://youtu.be/D5n6xMUKU3A
+
+C++ Weekly - Ep 177 - `stdbind_front` Implemented With Lambdas
+https://youtu.be/fLeHy7s1WIo
+
+C++ Weekly - Ep 178 - The Important Parts of C++14 In 9 Minutes
+https://youtu.be/mXxNvaEdNHI
+
+C++ Weekly - Ep 179 - Power C - A Native C Compiler for the Commodore 64
+https://youtu.be/yCEG30yQS5w
+
+C++ Weekly - Ep 180 - Whitespace Is Meaningless
+https://youtu.be/JqhbzY04VlE
+
+C++ Weekly - Ep 181 - Fixing Our bind_front with stdinvoke
+https://youtu.be/s2Kqcn5e73c
+
+C++ Weekly - Ep 182 - Overloading In C and C++
+https://youtu.be/EqPlVZLEHlA
+
+C++ Weekly - Ep 183 - Start Using Raw String Literals
+https://youtu.be/DiZ-az_nJMM
+
+C++ Weekly - Ep 184 - What Are Higher Order Functions
+https://youtu.be/NoIJoL3cIJ4
+
+C++ Weekly - Ep 185 - Stop Using reinterpret_cast!
+https://youtu.be/L06nbZXD2D0
+
+C++ Weekly - Ep 186 - What Are Callables
+https://youtu.be/lWzHLRN56zQ
+
+C++ Weekly - Ep 187 - C++20's `constexpr` Algorithms
+https://youtu.be/9YWzXSr2onY
+
+C++ Weekly - Ep 188 - C++20's `constexpr` `new` Support
+https://youtu.be/FRTmkDiW5MM
+
+C++ Weekly - Ep 189 - C++14's Variable Templates
+https://youtu.be/2kY-go52rNw
+
+C++ Weekly - Ep 190 - The Important Parts of C++17 in 10 Minutes
+https://youtu.be/QpFjOlzg1r4
+
+C++ Weekly - Ep 191 - Cevelop IDE With CMake Based Projects
+https://youtu.be/nnfdvE2qNeo
+
+C++ Weekly - Ep 192 - Stop Using Double Underscores
+https://youtu.be/0vJXQ2VOzEs
+
+C++ Weekly - Ep 193 - C++20's `contains` Members
+https://youtu.be/4yDRsQyWqqc
+
+C++ Weekly SE - clang-tidy Auto Fixes in Compiler Explorer - Tribute to Hubert Matthews
+https://youtu.be/EfYMKOMc738
+Videos 151-175

@@ -1,0 +1,37 @@
+
+Kivy with Python tutorial for Mobile Application Development Part 1
+https://youtu.be/CYNWK2GpwgA&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 10 - Screen Manager
+https://youtu.be/g4y0x3dptMs&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 11 - Drawing Application with Screen Manager
+https://youtu.be/SlZLnxgFuls&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 12 - Adding better Navigation
+https://youtu.be/RxZKbEmm7z0&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 2 - Widgets and Labels
+https://youtu.be/cJtdb-vPxBo&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 3 - The Kivy .kv Language
+https://youtu.be/74zCdYRCtog&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 4 - Kivy .kv Language cont'd
+https://youtu.be/IoCpQcWZnT0&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 5 - Dynamic Resizable Placement
+https://youtu.be/Ha7TP11H0EI&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 6 - Layouts Float Layout
+https://youtu.be/wQQ0sUI2lJo&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 7 - Getting Mouse  Press  Touch Input
+https://youtu.be/1wBtgQW74WE&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 8 - Simple Drawing Application
+https://youtu.be/U9TnXzQgIJU&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+
+Kivy with Python tutorial Part 9 - Builder for loading .kv Files Smarter
+https://youtu.be/JxUVXbS1pXQ&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy
+Kivy Application Development

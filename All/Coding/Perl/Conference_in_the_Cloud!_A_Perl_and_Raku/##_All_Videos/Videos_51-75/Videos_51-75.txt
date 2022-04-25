@@ -1,0 +1,76 @@
+
+Andrea Telatin - Control a remote machine from your mobile, with Telegram! - Lightning Talks - Day 3
+https://youtu.be/Nhtmy7BI3-w
+
+Chris White - Vala my new favorite leaky abstraction - Lightning Talks - Day 3
+https://youtu.be/6kZSusnIVwI
+
+Conference Opening
+https://youtu.be/AMkrib9JB7M
+
+Discoverability and Composability Writing an ECS for Fun and Profit - José Joaquín Atria
+https://youtu.be/s8SVkmxj1OQ
+
+DistZilla and My Bundle - Dave Rolsky
+https://youtu.be/h0Xx-KdAMGk
+
+Exploring Text-Based Protocols - Joel Berger
+https://youtu.be/8fjYawHyNZY
+
+Gene Boggs - Random Drum Fills! - Lightning Talks - Day 3
+https://youtu.be/_fNSw2R-LnM
+
+Generating Rust from C with Perl  - Dave Rolsky (lightning talk)
+https://youtu.be/HBoHv8-TZfk
+
+Ilya Chesnokov - Sub signatures - do we still need them - Lightning Talks - Day 3
+https://youtu.be/hTjA77Fz37o
+
+Introduction to Perl Data Types - William N. Braswell, Jr.
+https://youtu.be/go7Ru3QQYYs
+
+Jason McIntosh - Whim A Webmention multitool for the command line - Lighting Talks - Day 3
+https://youtu.be/J2VLrZ9nh2E
+
+Jonathan Worthington - RakuAST - Raku Keynote
+https://youtu.be/91uaaSyrKm0
+
+Local dev setup for a complex app using docker-compose - Thomas Klausner
+https://youtu.be/aDUxaBsDcDg
+
+Making Life Better with Software - Joelle Maslak
+https://youtu.be/J2tVdWyqzNs
+
+meta cpan theme - lnation (lightning talk)
+https://youtu.be/XdGZmmr6jWk
+
+My big year of Github Actions - tib (lightning talk)
+https://youtu.be/LacGq8NB9Y4
+
+Open Food Facts - Stéphane (lightning talk)
+https://youtu.be/imugl2dSdnU
+
+perlimports or Where did that symbol come from - Olaf Alders
+https://youtu.be/fKqxdTbGxYY
+
+Programming Lessons from Conlangs - Daniel (lightning talk)
+https://youtu.be/Xl6GRJitLuQ
+
+Raku syntax I miss in other languages - Leon Timmermans
+https://youtu.be/elalwvfmYgk
+
+Raku, the Big - Bruce Gray
+https://youtu.be/lRGRL_sVRSk
+
+Refactoring your EXPORTS Rescuing a client from global-variable-hell - Steven Lembark
+https://youtu.be/Jyamk3d-KDE
+
+Santiago Zarate - A Quest for Test Automation - Lightning Talks - Day 3
+https://youtu.be/WlBO9xndBwQ
+
+Space - Chris Jack (lightning talk)
+https://youtu.be/sLsudYhFskc
+
+TPF Summer Activities - Makoto and JmacJason  (lightning talk)
+https://youtu.be/vNRgiuqNiLs
+Videos 51-75

@@ -1,0 +1,76 @@
+
+Intro to Python Functions using Turtle Graphics (Part 1)
+https://youtu.be/uRtCq6MBp1I
+
+Intro to Python Functions using Turtle Graphics (Part 2)
+https://youtu.be/z4CBanHpe6g
+
+Intro to Python Functions using Turtle Graphics (Part 3)
+https://youtu.be/BzaqP53YIa4
+
+Intro to Python Functions using Turtle Graphics (Part 4)
+https://youtu.be/ygpC8gbuiU4
+
+Intro to Python Functions using Turtle Graphics (Part 5)
+https://youtu.be/U77YuE2bFA8
+
+Python Game Programming Tutor.ial Space Invaders 10
+https://youtu.be/wOZw9EytJEE
+
+Python Game Programming Tutorial Space Invaders 0
+https://youtu.be/QvtlEj_T55o
+
+Python Game Programming Tutorial Space Invaders 1
+https://youtu.be/crV6T3piwHQ
+
+Python Game Programming Tutorial Space Invaders 2
+https://youtu.be/FdmjXnyoS0A
+
+Python Game Programming Tutorial Space Invaders 3
+https://youtu.be/zYeEHIX7sfo
+
+Python Game Programming Tutorial Space Invaders 4
+https://youtu.be/74msqu5phts
+
+Python Game Programming Tutorial Space Invaders 5
+https://youtu.be/OnR9acEWMC0
+
+Python Game Programming Tutorial Space Invaders 6
+https://youtu.be/Ve-BvoCVN40
+
+Python Game Programming Tutorial Space Invaders 7
+https://youtu.be/-Bi0W_EKeYg
+
+Python Game Programming Tutorial Space Invaders 8
+https://youtu.be/ZNVxp8cT_JI
+
+Python Game Programming Tutorial Space Invaders 9
+https://youtu.be/--MZ7I9Eepw
+
+Python Guessing Game (GUI Version) Tutorial Pt. 1
+https://youtu.be/W5ZhoxtsfGA
+
+Python Guessing Game (GUI Version) Tutorial Pt. 2
+https://youtu.be/HP159E0JAa0
+
+Python Guessing Game (GUI Version) Tutorial Pt. 4
+https://youtu.be/EvQ9S11QwZU
+
+Python Tkinter GUI Tutorial To Do List 1
+https://youtu.be/OAHLwtmdqUk
+
+Python Tkinter GUI Tutorial To Do List 2
+https://youtu.be/QcXcspHRI3Q
+
+Python Tkinter GUI Tutorial To Do List 3
+https://youtu.be/6zm829sTuNg
+
+Python Tkinter GUI Tutorial To Do List 4
+https://youtu.be/K7jOtVpEFLk
+
+Python Tkinter GUI Tutorial To Do List 5
+https://youtu.be/uWA0KUfzdYc
+
+Python Tkinter GUI Tutorial To Do List 6
+https://youtu.be/-hmjMciStHA
+Videos 301-325

@@ -1,0 +1,76 @@
+
+Array VS List My Need For Speed - Unity Quick Tip
+https://youtu.be/i7so4f-_964
+
+Dev Video 1 - Unity Construction System
+https://youtu.be/5WBcY4ipMWY
+
+Know How Fast Your Code Runs - Unity Quick Tip
+https://youtu.be/ic_Lfz0tSy4
+
+Long Road Weekend Drive V0.07!
+https://youtu.be/E9URy5emcD0
+
+Networked AI Movement added to GTGD S1
+https://youtu.be/6i_35Z2cuL4
+
+Screen Capture with Date and Time - Unity Quick Tip
+https://youtu.be/gylwxx5BI28
+
+Unity 2017 Multiplayer Tutorials In Development
+https://youtu.be/PL-iMEOfAVE
+
+Upcoming GTGD S4 in development - coding a huge 2D world in Unity
+https://youtu.be/4vnvPL3oKVI
+
+Weekend Drive In Early Access!
+https://youtu.be/igSLDMHxSQM
+
+Weekend Drive V0.05
+https://youtu.be/JzGeHw4Nq5Q
+
+What is Islam and some common misconceptions
+https://youtu.be/JsKV7RsJRII
+
+[199] Edit NPC Scripts - How To Make A Game
+https://youtu.be/8WQKomPToHc
+
+[200] Setup Unity Car - How To Make A Game
+https://youtu.be/PfgfXfPGdfU
+
+[201] Edit Standard Car Scripts - How To Make A Game
+https://youtu.be/6zb-7UzHZpA
+
+[202] Vehicle Camera Master - How To Make A Game
+https://youtu.be/Tet0iuuEc9c
+
+[203] Vehicle Camera Follow - How To Make A Game
+https://youtu.be/aJNnpMNM9F4
+
+[204] Vehicle Camera Free Look - How To Make A Game
+https://youtu.be/rcxPRilinG0
+
+[205] Setup Vehicle Camera - How To Make A Game
+https://youtu.be/wXNl8vrbVIA
+
+[206] Vehicle Master - How To Make A Game
+https://youtu.be/etI-mQglaqg
+
+[207] Player Vehicle Interaction - How To Make A Game
+https://youtu.be/dOXp6lwDmbQ
+
+[208] Vehicle Enter - How To Make A Game
+https://youtu.be/MoFbs5pfcOk
+
+[209] Vehicle Exit - How To Make A Game
+https://youtu.be/-iZgo6jiIo4
+
+[210] Vehicle Apply Damage - How To Make A Game
+https://youtu.be/Ndtnb8w_l0M
+
+[Sample] Video 1 Introduction - GTGD S1 Unity 2017 Multiplayer
+https://youtu.be/lAVefbVNmts
+
+[Sample] Video 2 Multiplayer In Minutes - GTGD S1 Unity 2017 Multiplayer
+https://youtu.be/_lrmf1wPvnY
+Videos 26-50

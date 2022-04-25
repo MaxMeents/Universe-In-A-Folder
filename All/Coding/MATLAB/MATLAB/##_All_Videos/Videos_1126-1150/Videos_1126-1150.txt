@@ -1,0 +1,76 @@
+
+Batch Simulation in Simulink
+https://youtu.be/tJjk9QkUonE
+
+C Caller Block - Integrate your C code into Simulink Models
+https://youtu.be/6LX0xxncGNY
+
+How to Add Maps to the Simulation Data Inspector
+https://youtu.be/3mj0xbbFlnU
+
+How to Create Custom Gauges in Simulink
+https://youtu.be/f_fBABqO4po
+
+How to Create Effortless Diagrams in Simulink
+https://youtu.be/aoCHFknXEio
+
+How to Create Ports in Simulink
+https://youtu.be/q5XZXz3NfBg
+
+How to Edit a Block Icon in Simulink
+https://youtu.be/GttYlkmxtq8
+
+How to Get Started with Software-Defined Radios with Communications Toolbox
+https://youtu.be/edkYJu2OsqA
+
+How to Integrate Hand Code Libraries in MATLAB and Simulink
+https://youtu.be/5I7kA9plxXc
+
+Map-based visualization of RF propagation for wireless communications
+https://youtu.be/A_kgFhgwz94
+
+MIMO wireless system design for 5G, LTE, and WLAN in MATLAB
+https://youtu.be/qcbGWxQpe6Y
+
+NB-IoT functionality in LTE Toolbox
+https://youtu.be/0KMgpHBNG2E
+
+Pareto Sets for Multiobjective Optimization
+https://youtu.be/RDhbZzQL8Ug
+
+Plot Geographic Data on a Map in MATLAB
+https://youtu.be/JsT3ZiqXGRU
+
+Predictive Maintenance, Part 1 Introduction
+https://youtu.be/RmVWKLbLq2Y
+
+Sidelink and V2X Modeling and Simulation with LTE Toolbox
+https://youtu.be/-Izgb5B0fqQ
+
+Signal Editor Block in Simulink
+https://youtu.be/2gWUwl7v9yE
+
+Simulate Both MAC + PHY Components of a Communications System
+https://youtu.be/StN39NE5Elk
+
+State Space, Part 1 Introduction to State-Space Equations
+https://youtu.be/hpeKrMG-WP0
+
+Walking Robot Pattern Generation
+https://youtu.be/axK-YVEGReo
+
+What is Simscape Fluids
+https://youtu.be/5_Yk6B26d4A
+
+What Is Simscape Multibody
+https://youtu.be/yIts_AEELc4
+
+What Is Simscape
+https://youtu.be/sNa4B1SOwbg
+
+WLAN Wireless Transceiver Design
+https://youtu.be/FXRNcJWkaMk
+
+什么是机器学习？
+https://youtu.be/qXcFNMonaLg
+Videos 1126-1150

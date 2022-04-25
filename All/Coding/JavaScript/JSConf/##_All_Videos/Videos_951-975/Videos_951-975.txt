@@ -1,0 +1,64 @@
+
+Alex Sexton Your Very Own Component Library   JSConf.ar 2014
+https://youtu.be/Cs0n4YdMGac
+
+Alex Sexton Your Very Own Component Library  JSConf.ar 2014
+https://youtu.be/zSYo7m5kGHQ
+
+Alvaro Videla Building a Distributed Data Ingestion System with RabbitMQ   JSConf.ar 2014
+https://youtu.be/MExxLIl2tEU
+
+Alvaro Videla Building a Distributed Data Ingestion System with RabbitMQ  JSConf.ar 2014
+https://youtu.be/o9cp3NGoCEY
+
+Andreas Gal  j2me js, a multi threaded Java VM in JavaScript  JSConf.ar 2014
+https://youtu.be/_RrnFJpdcUE
+
+Andreas Gal j2me.js - a multi-threaded Java VM in JavaScript  JSConf.ar 2014
+https://youtu.be/I7hZ8I9G5KA
+
+Angel Java Lopez JavaScript and Artificial Intelligence  JSConf.ar 2014
+https://youtu.be/6fnW1khlVGI
+
+Angel Lopez JavaScript and Artificial Intelligence  JSConf.ar 2014
+https://youtu.be/jhECkPcPj-c
+
+Brendan Eich The future of Javascript  JSConf.ar 2014
+https://youtu.be/u56b_HUj47E
+
+CSSConf Oakland 2014  Elyse Holladay I Have No Idea What I'm Doing
+https://youtu.be/e3Dd2e_gbCE
+
+Jason Chen Building Editors in the Browser  JSConf.ar 2014
+https://youtu.be/WLo3pfOOFj0
+
+JSConf.ar 2014  Summary
+https://youtu.be/RTYoYNBEXZo
+
+Julian Duque JavaScript Robotics A NodeBots show  JSConf.ar 2014
+https://youtu.be/N3t2t_WM_go
+
+Julian Duque JavaScript Robotics, A NodeBots show  JSConf.ar 2014.
+https://youtu.be/Pjb002vSvVc
+
+Nathan Rajlich Writing a Webmodule  JSConf.ar 2014
+https://youtu.be/5EFAnFske_w
+
+Nicolas Belmonte Visualizing data with JavaScript at Twitter  JSConf.ar 2014
+https://youtu.be/WPEHmGGVI44
+
+Nicolay Bachiyski Else Considered Harmful  JSConf.ar 2014
+https://youtu.be/IlE3BOCRGuk
+
+Nikolay Bachiyski Else Considered Harmful  JSConf.ar 2014
+https://youtu.be/XDqZemwVXUk
+
+Sara Chipps From JS to manufacturing, a hardware journey  JSConf.ar 2014
+https://youtu.be/srcyYW2hVxI
+
+Tomasz Janczuk Sandboxing Node js with CoreOS and Docker  JSConf.ar 2014
+https://youtu.be/b-k61qFMpKM
+
+Tomasz Janczuk Sandboxing Node.js with CoreOS and Docker  JSConf.ar 2014
+https://youtu.be/u81pS05W1JY
+Videos 951-975

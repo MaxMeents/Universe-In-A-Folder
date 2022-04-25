@@ -1,0 +1,76 @@
+
+Firebase Tutorial for iOS  - Ep 4 - Building the User Interface
+https://youtu.be/eCJhMg0vQps
+
+Firebase Tutorial for iOS  - Ep 5 - How Firebase Data is Stored
+https://youtu.be/VfCejRFPkMk
+
+Firebase Tutorial for iOS  - Ep 6 - Write Data to Firebase Database
+https://youtu.be/F42CzqIBxHQ
+
+Firebase Tutorial for iOS - Ep 7 - Read Data from Firebase Database
+https://youtu.be/RMudKhNY0sI
+
+Firebase Tutorial for iOS - Ep 8 - Authentication using an Email Login Page
+https://youtu.be/asKXHVUZiIY
+
+Learn Swift for Beginners - Ep 10 - Classes Part 2 - Inheritance
+https://youtu.be/CnvlxNC6FlQ
+
+Learn Swift for Beginners - Ep 11 - UIKit
+https://youtu.be/tHjMdmFlGBo
+
+Learn Swift for Beginners - Ep 12 - Initializers
+https://youtu.be/6GvxKCGcZC4
+
+Learn Swift for Beginners - Ep 13 - Optionals
+https://youtu.be/uT2IHQpE3ms
+
+Learn Swift for Beginners - Ep 14 - Properties
+https://youtu.be/kmET5JcKcx8
+
+Learn Swift for Beginners - Ep 15 - Initializers Part 2 (Designated and Convenience Initializers)
+https://youtu.be/LUlQTmf1Iek
+
+Learn Swift for Beginners - Ep 16 - Arrays
+https://youtu.be/RFYDvYXsrxQ
+
+Learn Swift for Beginners - Ep 2 - Data Types
+https://youtu.be/BlXrMgmvNBI
+
+Learn Swift for Beginners - Ep 3 - If Statements
+https://youtu.be/z_4JuCD0mz8
+
+Learn Swift for Beginners - Ep 4 - Switch Statements
+https://youtu.be/PZEWRDbSn6c
+
+Learn Swift for Beginners - Ep 5 - Loops Part 1
+https://youtu.be/vxyrLbmm9Oo
+
+Learn Swift for Beginners - Ep 6 - Loops Part 2
+https://youtu.be/XDJXLw0Y3Hs
+
+Learn Swift for Beginners - Ep 7 - Functions Part 1
+https://youtu.be/2kwyQ5w00Uc
+
+Learn Swift for Beginners - Ep 8 - Functions Part 2
+https://youtu.be/jNiBS0bxVQQ
+
+Learn Swift for Beginners - Ep 9 - Classes Part 1
+https://youtu.be/ZDzdz52tex4
+
+Learn Swift for Beginners Lesson 1 - Variables (Swift 5 compatible)
+https://youtu.be/2OZ07fklur8
+
+My Computer Programmer Salary History Part 2
+https://youtu.be/HM-RrnaLf_k
+
+My Computer Programmer Salary History Part 3
+https://youtu.be/2loCyZsOIBo
+
+My Full Time Computer Programmer Salary History (Software Developer Pay)
+https://youtu.be/lBB4cS9B5FQ
+
+Solved iOS Keyboard Blocks Text Field
+https://youtu.be/N3f0Esjc5aQ
+Videos 301-325

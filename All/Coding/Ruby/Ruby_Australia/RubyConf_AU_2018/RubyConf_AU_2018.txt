@@ -1,0 +1,49 @@
+
+Alaina Kafkes - Tackling Technical Writing
+https://youtu.be/brewx-lO3ak&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Amy Unger - Knobs, Levers and Buttons tools for operating your application at scale
+https://youtu.be/Bdck0TpHdGc&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Andy Nicholson - Consider Crystal
+https://youtu.be/XakoiU2mw3c&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Danielle Adams - Outside of the Web Box Using Ruby for Other Protocols
+https://youtu.be/ZvyaC3SK-nA&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Eleanor Kiefel Haggerty - Here's to history programming through archaeology
+https://youtu.be/MEG3HyVDgjU&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Jessica Rudder - The Good Bad Bug Fail Your Way to Better Code
+https://youtu.be/4JEZU8-IHs8&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Lauren Tan - Building the World's Largest Studio at Netflix
+https://youtu.be/5_Xj7okmauc&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Merrin Macleod - Politics In My Technology
+https://youtu.be/7NxkCRd4Z1M&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Michael Morris - High Performance Mario Kart On Ruby
+https://youtu.be/LVRcHzOgsRY&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Paolo Perotta - Machine Learning Explained to Humans (Part 1)
+https://youtu.be/zbxtlQaJZ7M&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Paolo Perotta - Machine Learning Explained to Humans Part 2
+https://youtu.be/cn8bfOxR21E&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Ryan Bigg - Hiring Juniors
+https://youtu.be/aD6dci9rLXM&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Sandi Metz - You Are Insufficiently Persuasive
+https://youtu.be/Y3k7tHll3RY&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Stella Cotton - Debugging Your Services with Distributed Tracing
+https://youtu.be/MYej9nMux-E&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Tom Gamon - Dyslexia and Developers
+https://youtu.be/JZ03E0FUj1M&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+
+Zach Holman - UTC is Enough for Everyone, Right
+https://youtu.be/ibJE_T4w3Bo&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+RubyConf AU 2018

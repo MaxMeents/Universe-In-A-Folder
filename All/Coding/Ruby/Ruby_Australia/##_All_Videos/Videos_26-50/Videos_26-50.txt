@@ -1,0 +1,76 @@
+
+Debugging & optimising Ruby performance by Jason Kotchoff
+https://youtu.be/-o-HAQVDvJo
+
+Docker for Developer Happiness - Mike Rogers
+https://youtu.be/FGEcfRE58Ag
+
+Exercism Challenge Acronym - Jacin Yan
+https://youtu.be/m3AOpnpqDVI
+
+Exercism Challenge ISBN Verifier by Bence Fulop
+https://youtu.be/OFym5QlfalU
+
+Exercism Challenge Space Age - Bence Fulop
+https://youtu.be/rQ-JFE1mE74
+
+Exercism Challenge The Tournament - Sam Hammond
+https://youtu.be/fceyL62py1E
+
+Exercism Challenge Tournament by Mathieu Longe
+https://youtu.be/GnLMSTG8v08
+
+Exercism Simple Linked List - Sugendran Ganess
+https://youtu.be/igZt_W-AZ1U
+
+Github Actions & Rails - Hemanth Haridas
+https://youtu.be/iq0SfgKLIvY
+
+How (and why) to write a GraphQL API in ruby by Michael Morris
+https://youtu.be/D9Ng7QXsBo4
+
+How to write code-base specific lints for correctness and security using Semgrep - Clint Gibler
+https://youtu.be/IfXxV1nzfJA
+
+Indexes - Ceels
+https://youtu.be/K1G1iqDAzU8
+
+Intro to Crystal - Amit Gaur
+https://youtu.be/1TLSC16Hf_4
+
+Introduction to Mutation Testing - Adam Rice
+https://youtu.be/rRWWKAygZEg
+
+Introduction To TimeZones - Lang Sharpe
+https://youtu.be/FfUay3iBSOc
+
+Making the most of the developer market - Debbie Teakle
+https://youtu.be/Tq2_6_ndLqU
+
+N+1 & Eager loading & Beyond - Rafael Nunes
+https://youtu.be/5ou4kZtgnoY
+
+Pokemon Ruby In Ruby - Nathan ODonnell
+https://youtu.be/OpBo5NZQsmc
+
+React On Rails - Akash Chhetri
+https://youtu.be/7c-nMTpl2E0
+
+Ruby on Rails & Service Workers (PWA) by Mike Rogers
+https://youtu.be/FjNDrPDjm4o
+
+Seeding Data in Ruby on Rails - Mike Rogers
+https://youtu.be/ZSZVUUQvyKI
+
+The Joy of Docs Technical Writing for Developers and Engineers by Dana Scheider
+https://youtu.be/l8pFr1y14f8
+
+View Components in the Wild by Michael Milewski
+https://youtu.be/ISWuPcCoChw
+
+What is CrystalBall - Lang Sharpe
+https://youtu.be/3NleoGVrDQ0
+
+Work-life balance - what it is and how to get it by Elle Meredith
+https://youtu.be/l5o9gq50ZcE
+Videos 26-50

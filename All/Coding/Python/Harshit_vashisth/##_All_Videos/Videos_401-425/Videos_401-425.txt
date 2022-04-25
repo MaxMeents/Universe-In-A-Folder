@@ -1,0 +1,76 @@
+
+Break and Continue keyword  Python tutorial 63
+https://youtu.be/euzGebnw-gQ
+
+Chapter 3 Exercise 4 solution  Python tutorial 55
+https://youtu.be/NKEfP5orjfg
+
+Chapter 3 Exercise 5  Python tutorial 56
+https://youtu.be/Ih_GMg1ocm0
+
+Chapter 3 Exercise 5 solution  Python tutorial 57
+https://youtu.be/Vfd57WVr9DU
+
+Chapter 3 Summary  Python tutorial 69
+https://youtu.be/aYlq5Uw53eY
+
+Chapter 4 Exercise 1  Python tutorial 73
+https://youtu.be/2xRTTWASE_w
+
+Chater 4 Exercise 2  Python tutorial 77
+https://youtu.be/X-9UbbbVrlc
+
+Define greatest  Python tutorial 75
+https://youtu.be/_Ftlzvh98Xk
+
+DRY principle of coding  Python tutorial 66
+https://youtu.be/DIWino6TecI
+
+Example 2  For loop  Python tutorial 61
+https://youtu.be/LfEpa5Pj3nM
+
+Example 3  For loop  Python tutorial 62
+https://youtu.be/GD9pyBSGZGw
+
+Exercise 1 solution  Python tutorial 74
+https://youtu.be/WEpELlL3DnM
+
+Exercise 2 solution  Python tutorial 78
+https://youtu.be/Lrg5LXRbJEs
+
+Exercise 6  modify number guessing game  Python tutorial 64
+https://youtu.be/HgNgLkGicOA
+
+Exercise 6 solution  Python tutorial 65
+https://youtu.be/TtNMMBThi3c
+
+Fibonacci series program  Python tutorial 79
+https://youtu.be/n-coPmoNRd8
+
+For loop  Python tutorial 59
+https://youtu.be/l2qvLJygpM8
+
+For loop and string  Python tutorial 68
+https://youtu.be/bxrdGXevOvI
+
+For loop example 1  Python tutorial 60
+https://youtu.be/w3mTZFoO_Zw
+
+Function inside function  Python tutorial 76
+https://youtu.be/Gq2JoZCtiFo
+
+Function practice  Python tutorial 72
+https://youtu.be/ZAD1XJ4GrYg
+
+Functions Intro  Python tutorial 70
+https://youtu.be/QI91Elt7bKc
+
+Infinite loop  Python tutorial 58
+https://youtu.be/NQ71iiJc3SQ
+
+print vs return  Python tutorial 71
+https://youtu.be/X4vVibQ835Q
+
+Step argument in range function  Python tutorial 67
+https://youtu.be/Py7r3b6ILNY
+Videos 401-425

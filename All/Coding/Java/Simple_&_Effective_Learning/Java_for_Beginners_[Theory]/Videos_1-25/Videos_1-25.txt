@@ -1,0 +1,76 @@
+
+ABSTRACT CLASSES
+https://youtu.be/yNxRE2mK_D4&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+ARRAYS
+https://youtu.be/8WZTuUhUgDk&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+CLASSES & OBJECTS
+https://youtu.be/iuWlGSmD3K8&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+COLLECTION FRAMEWORKS
+https://youtu.be/_iPmAzNJzTE&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+COMMENTS, API  & JAVA PROGRAM
+https://youtu.be/CCG_IaOwebc&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+CONTROL STATEMENTS IN  JAVA
+https://youtu.be/7dArHtv4LS8&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+EXCEPTION HANDLING
+https://youtu.be/dt58YtzOq-g&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+INHERITANCE
+https://youtu.be/CG3O7isqtmc&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+INPUT AND OUTPUT
+https://youtu.be/ce05vGO-Sno&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+INTERFACES
+https://youtu.be/lwz6GkzCfcQ&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+INTRODUCTION OF JAVA
+https://youtu.be/545S6fz5DBw&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+JAVA VIRTUAL MACHINE
+https://youtu.be/N8T54zWiOZQ&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+METHODS AND OBJECTS RELATIONS
+https://youtu.be/4L-O2fimsPI&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+NAMING & DATA TYPE IN JAVA
+https://youtu.be/uRhisfb0qNE&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+NETWORKING IN JAVA
+https://youtu.be/DKJaktRSkrA&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+OOP'S
+https://youtu.be/Zu1BALtJiNs&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+OPERATORS IN JAVA
+https://youtu.be/XIFFywpOFQQ&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+PACKAGES
+https://youtu.be/-RJOCUxU4A4&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+POLYMORPHISM
+https://youtu.be/QRX0chiUV_U&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+STREAMS
+https://youtu.be/kW0hPJX3UFg&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+STRING BUFFER
+https://youtu.be/OXmoAW6qf2s&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+STRINGS
+https://youtu.be/uG4kYeX4hyI&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+THREADS
+https://youtu.be/4daMkWMT_kU&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+TYPE CASTING
+https://youtu.be/kHB8GLYF2XM&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+
+WRAPPER CLASSES
+https://youtu.be/8Z0ORUG8LPY&list=PLnwPi7O4x-PBo4iGhrw_MakKK3zhu8mxq
+Videos 1-25

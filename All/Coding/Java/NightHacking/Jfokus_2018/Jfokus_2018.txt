@@ -1,0 +1,19 @@
+
+Escape Analysis in V8 with Tobias Tebbi
+https://youtu.be/KiWEWLwQ3oI&list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr
+
+Falcon a new JIT compiler in Zing JVM with Ivan Krylov and Artur Pilipenko
+https://youtu.be/XovFnMw_eGk&list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr
+
+Pause-Less GC for Improving Java Responsiveness with Charlie Gracie
+https://youtu.be/wFjmn-mbjy0&list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr
+
+Project Loom Fibers and Continuations for the Java Virtual Machine with Ron Pressler
+https://youtu.be/fpyub8fbrVE&list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr
+
+Shenandoah GC What We Know In 2018 with Aleksey Shipilev
+https://youtu.be/qBQtbkmURiQ&list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr
+
+ZGC - Low Latency GC for OpenJDK with Stefan Karlsson and Per Liden
+https://youtu.be/tShc0dyFtgw&list=PL2ekzZZrxVUkhrcMKuPMbiKoghc777plr
+Jfokus 2018

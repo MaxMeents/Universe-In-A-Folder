@@ -1,0 +1,31 @@
+
+Ana Maria Mihălceanu - Kubernetes and the 12 factors cloud applications
+https://youtu.be/BCIRwY-IpLI&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Brian Vermeer - Common mistakes made with Functional Java
+https://youtu.be/dpBzgsaV_2s&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+David Leitner - Micro Frontends – a strive for fully verticalized systems
+https://youtu.be/r5sJeV1WtFg&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Dmitry Kandalov - Live Coding KotlinNative Snake
+https://youtu.be/OxtxyhDwmdw&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Ionuț Baloșin - Desugaring Kotlin features and their performance impact
+https://youtu.be/D2a2vK-mfp4&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+James Birnie - What is the point of Quantum
+https://youtu.be/u4dC2YNtFnQ&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Peter Palaga - Apache Camel K ~1 sec. build and deploy on Kubernetes
+https://youtu.be/frP4rQYzHyw&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Philipp Krenn - Live Kubernetes Debugging with the Elastic Stack
+https://youtu.be/HMqgOB6rGDs&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide
+https://youtu.be/tMHO7_RLxgQ&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+
+Victor Rentea - Unit Testing like a Pro The Circle of Purity
+https://youtu.be/1Z_h55jMe-M&list=PLRsbF2sD7JVqYb8RshxWTQH5OxY_NBepp
+Videos 26-35

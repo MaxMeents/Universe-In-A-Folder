@@ -1,0 +1,22 @@
+
+Deleted video
+https://youtu.be/pP8zd4zwJbo&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+
+justforfunc live getting started with Tensorflow Go
+https://youtu.be/skJitN1vZG0&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+
+justforfunc live hacking on a CLI with cobra, gRPC, and Docker
+https://youtu.be/9Uq8msb_lPc&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+
+justforfunc live trying linear regression with gonum
+https://youtu.be/qC0gUrNXezM&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+
+justforfunclive Advent of Code day 4
+https://youtu.be/7YPaozbYPDk&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+
+justforfunclive Advent of Code day 5
+https://youtu.be/pZyPKOk9vZo&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+
+justforfunclive Advent of Code days 1-3
+https://youtu.be/d5Ay3q4u3oE&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+Just For Func Live

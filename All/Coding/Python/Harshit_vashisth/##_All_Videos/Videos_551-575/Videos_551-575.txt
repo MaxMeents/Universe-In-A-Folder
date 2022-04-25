@@ -1,0 +1,76 @@
+
+Important Announcement for python learners
+https://youtu.be/uc6VtKciLhk
+
+Python tutorial - Important (grab handwritten notes)
+https://youtu.be/34xaVH1WtIk
+
+Python tutorial in Hindi 14  len() , int() , str() function
+https://youtu.be/no9phZYric4
+
+Python tutorial in Hindi 15  Write a program using things that we learned so far
+https://youtu.be/nmgvBGj4530
+
+Python tutorial in Hindi 16  Procedure
+https://youtu.be/7CpCTQyWHZI
+
+Python tutorial in Hindi 17  Make your own functions
+https://youtu.be/7bWmt9dCNQI
+
+Python tutorial in Hindi 18  Solution of previous problem (find 2nd position)
+https://youtu.be/xIXaOxze1Fs
+
+Python tutorial in Hindi 19  If , If else statement
+https://youtu.be/N_oyiqR6yQk
+
+Python tutorial in Hindi 20  If-else programs , or operator , nested if - else , max operator
+https://youtu.be/f7zLZYOzqSI
+
+Python tutorial in Hindi 21  Little modification in game ,  While loop basic concept .
+https://youtu.be/_Ad67z3R01c
+
+Python tutorial in Hindi 22  Print series , factorial , A.P series using while loop
+https://youtu.be/L1TtgtQJeNE
+
+Python tutorial in Hindi 23  Infinite loop , break  , continue statement , password program
+https://youtu.be/8qPSSLi38ps
+
+Python tutorial in Hindi 24  basics for search engine concept part 2 , quick revision
+https://youtu.be/itLfn3Wfnko
+
+Python tutorial in Hindi 25  list part 1
+https://youtu.be/nHmx-XJWgMk
+
+Python tutorial in Hindi 26  List part 2  (insert method , del statement)
+https://youtu.be/FBTHOuMm1to
+
+Python tutorial in Hindi 27  List part 3 ( pop method , remove method )
+https://youtu.be/8Rlu9MXf9lk
+
+Python tutorial in Hindi 28  List part 4 ( index , reverse , sort method , sorted function)
+https://youtu.be/VeXJhsfbkys
+
+Python tutorial in Hindi 29  list in list , list function
+https://youtu.be/zgA8rAZiXyY
+
+Python tutorial in Hindi 30Boost your programming skills  Problem 1
+https://youtu.be/p6Hs3JJ-eDM
+
+Python tutorial in Hindi 31  Challenge Solution 1  Sum of digits
+https://youtu.be/PLKv3_Pw5Pk
+
+Python tutorial in Hindi 32  Challenge solution 2 ( list problem)
+https://youtu.be/g5URATL9taU
+
+Python tutorial in Hindi 33  for loop , stop -start-step arguments
+https://youtu.be/K8tV5_1XqQE
+
+Python tutorial in Hindi 34  A.P using for loop
+https://youtu.be/ChvOB8So1mk
+
+Python tutorial in Hindi 35  loops inside list
+https://youtu.be/OkgU92qw7gM
+
+Search engine concept part 2
+https://youtu.be/IzQscShObiM
+Videos 551-575

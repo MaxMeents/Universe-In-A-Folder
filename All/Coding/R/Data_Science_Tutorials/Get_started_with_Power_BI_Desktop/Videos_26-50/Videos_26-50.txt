@@ -1,0 +1,76 @@
+
+12 How to create and customize Power BI stacked bar chart
+https://youtu.be/f9BffgPk2oQ&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Creating and Formatting Power BI Waterfall chart  Waterfall Chart Power BI for beginners
+https://youtu.be/EMAeST5571M&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How create and customize 100% stacked bar chart in power BI
+https://youtu.be/6NhvaBLFjmQ&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to connect power bi with espn website and import sports data
+https://youtu.be/VzzPQxvZf3o&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to connect power bi with Microsoft access database and import data
+https://youtu.be/rvsfN5WQWps&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to connect power bi with mysql server and import data
+https://youtu.be/ZVXiosudsfs&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to connect power bi with Wikipedia website and import data
+https://youtu.be/UPvUYL0IsuE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Connect SQLite with Power BI and import data  ODBC Driver installation and DSN creation
+https://youtu.be/6bmTdIeu5rA&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create and Conditionally Format Power BI Matrix or Pivot Table
+https://youtu.be/opvpgv9o0I8&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create and Conditionally Format Power BI Table
+https://youtu.be/KDBfTe6_0Ro&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create and Customize Date Slicer  Filter in Power BI
+https://youtu.be/Rs_sbl0VSPA&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to create and customize Power BI Pie Chart
+https://youtu.be/YWcYU3FzM8Q&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to create and format funnel chart in power bi  Power BI funnel chart Tutorial for beginners
+https://youtu.be/HNMFSsQZk8c&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create and Format Power BI Card KPI
+https://youtu.be/09NuVN1e7Ns&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Create and Format Power BI Indicator KPI Chart
+https://youtu.be/pgCMxeoSg_s&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to create percent to total calculation using LOD in Tableau  Tableau Tips and Tricks
+https://youtu.be/tt2VbRNOHGk&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Remove Duplicate Values in Tableau
+https://youtu.be/JcOjfkK5e28&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+How to Search values in Multiple Dimensions and Filter the visualization in Tableau Tips and Tricks
+https://youtu.be/xkq0-iU48t4&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Gauge Chart
+https://youtu.be/0NEHdPsVWQc&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Key Influencer Chart Creation Tutorial and Walkthrough for interpretation
+https://youtu.be/Q2AL-MZQu94&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Maps Chart Creating and Customizing  Power BI Tutorial for Beginners
+https://youtu.be/YSJXD4uW278&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Ribbon Chart creation and formatting  Visualizing ranks
+https://youtu.be/DffvB-6qHAE&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Scatter Chart  Power BI Tutorial for Beginners
+https://youtu.be/NVR9VqmFOm0&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Power BI Treemap Chart Creating and Customizing  Power BI Tutorial for Beginners
+https://youtu.be/6zwhvMBodKs&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+
+Tableau Dynamic Parameter for Selecting Most Current Date
+https://youtu.be/MHdUTYlb0Y4&list=PLH6mU1kedUy81UE3WYFutYyadFm-JOIma
+Videos 26-50

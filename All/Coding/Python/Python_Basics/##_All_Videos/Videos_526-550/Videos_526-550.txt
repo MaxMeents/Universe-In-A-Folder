@@ -1,0 +1,76 @@
+
+Python Basics 1 Year of One Video per Day
+https://youtu.be/CIrHNV-hX5E
+
+Python Basics 500 Subscribers
+https://youtu.be/S95mQ5rIAyM
+
+Python Basics Built in Float Function
+https://youtu.be/ceFVDnQ6ruk
+
+Python Basics Class Inheritance
+https://youtu.be/MPg8BWUjuGg
+
+Python Basics Collections Intro
+https://youtu.be/bh_ncj3mwDk
+
+Python Basics Import 
+https://youtu.be/hg0XGM89IzA
+
+Python Basics Intro Pygame Mixer Module
+https://youtu.be/cLblKNSmMJA
+
+Python Basics Matplotlib Suptitle Method
+https://youtu.be/112enLljpwA
+
+Python Basics New Mile Stone
+https://youtu.be/_R2v2z5WVfk
+
+Python Basics New Video Schedule
+https://youtu.be/mmXERjpfS0M
+
+Python Basics Numpy Array Last Way
+https://youtu.be/0huc5UcatXs
+
+Python Basics Os Remove Function
+https://youtu.be/icij-roZwoY
+
+Python Basics Pandas DataFrame iloc Method
+https://youtu.be/knBw_-Jrwhg
+
+Python Basics Pandas Dataframe Info Method
+https://youtu.be/LVx_IraQyVo
+
+Python Basics Pandas DataFrame Tail Method
+https://youtu.be/j8EphrkzS8Q
+
+Python Basics Pickle Load Method
+https://youtu.be/IrLQ8ckLpWo
+
+Python Basics Pickling With Pandas
+https://youtu.be/PkFNse0TZiY
+
+Python Basics Print Sep Default
+https://youtu.be/lDzckGRkBZc
+
+Python Basics Re or Character
+https://youtu.be/3M4JW6Z1x6U
+
+Python Basics Requested Video Adding Sound  Pygame
+https://youtu.be/bf_0wdits4A
+
+Python Basics Requested Video Image Randomly Moving  Pygame
+https://youtu.be/RzIGxozm57Y
+
+Python Basics Tkinter Label Module
+https://youtu.be/UlJflSfjeyI
+
+Python Basics Tkinter Window Title and Size
+https://youtu.be/VaJkXDvEz-c
+
+Python Basics Viewer Feedback
+https://youtu.be/HWEqFyne84M
+
+Python Basics What is a Widget
+https://youtu.be/sYYoN1zm4kM
+Videos 526-550

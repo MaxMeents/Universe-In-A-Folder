@@ -1,0 +1,76 @@
+
+R Shiny Tutorial  Changing page title and skin color  R Programming Tutorial
+https://youtu.be/PY5GKL0R5Pc
+
+R Shiny Tutorial  Creating Column Layout in Shiny Dashboard  R Programming Tutorial
+https://youtu.be/NyDSQszOMGs
+
+R Shiny Tutorial  Creating KPIs or Info Boxes  R Programming Tutorial Videos
+https://youtu.be/EM2Nay0qDlg
+
+R Shiny Tutorial  Creating Task Menu in R Shiny Dashboard  R Programming Tutorial
+https://youtu.be/Vf7y0wzKEpU
+
+R Shiny Tutorial  How to Add Multiple Controls on Side Bar  R Programming Tutorial
+https://youtu.be/LeOp3gUXZR0
+
+R Shiny Tutorial  How to create Value Box in R Shiny Dashboard  R Programming Tutorial
+https://youtu.be/TN1MHtMgWxc
+
+R Shiny Tutorial  How to highlight new menu using badge  R Programming Tutorial
+https://youtu.be/ikA1uZwzy5w
+
+R Shiny Tutorial  R Shiny Dashboard   Creating Layout of Dashboard   R Programming
+https://youtu.be/1MHX1s5bb6w
+
+R Shiny Tutorial  R Shiny Dashboard  Creating Charts and Input Controls  R Programming
+https://youtu.be/KdvlxJaWWVQ
+
+R Shiny Tutorial  R Shiny Dashboard  Creating Notification in Shiny Dashboard  R Programming
+https://youtu.be/oRutGKzrjc0
+
+R Shiny Tutorial  R Shiny Dashboard Enabling Menu Items for their respective Pages  R Programming
+https://youtu.be/fUXBL5bk20M
+
+R Shiny Tutorial - Adding a new box to shiny dashboard and putting controls in it  R Programming
+https://youtu.be/hVLN6vZFqgY
+
+R Shiny Tutorial - Creating Dynamic Messages - R Programming Tutorial
+https://youtu.be/PQFoWlJtT3E
+
+R Shiny Tutorial - Shiny Dashboards - Adding Tabs in a Box - R Programming Tutorial
+https://youtu.be/kxnvaptV2xw
+
+R ShinyTutorial  - Dispalying Notification Menu - R Programming Tutorials
+https://youtu.be/qRj9C2cjJpE
+
+R Tutorial  Adding weights to the ggplot scatter plot chart  R Programming
+https://youtu.be/xxYKwFX4wPM
+
+R Tutorial  Creating and Enhancing Bar chart in ggplot  R Programming
+https://youtu.be/MiAIty2QM80
+
+R Tutorial  Creating and enhancing line chart in ggplot  R Programming
+https://youtu.be/r0n_p7POzDE
+
+R Tutorial  Creating boxplot and enhance it with ggplot  R Programming
+https://youtu.be/48UvtcXTb9U
+
+R Tutorial  Creating density plots and enhancing it with ggplot  R Programming
+https://youtu.be/kvg0y90GX0Y
+
+R Tutorial  Creating Scatter plot in R and enhancing it with ggplot  R Programming
+https://youtu.be/zJoBcJxhlgw
+
+Shiny web app Tutorial  How to create reactive shiny Radio button Widget  R Programming Tutorial
+https://youtu.be/fodcttQWKTk
+
+Shiny web app Tutorial  How to create reactive shiny Select Input Widget  R Programming Tutorial
+https://youtu.be/dIpOoEhS6Q0
+
+Shiny web app Tutorial  How to create reactive shiny Slider Input Widget  R Programming Tutorial
+https://youtu.be/W75o97mabX0
+
+Shiny web app Tutorial  How to create reactive shiny Text Widget  R Programming Tutorial
+https://youtu.be/NVmDaKWPxDY
+Videos 801-825

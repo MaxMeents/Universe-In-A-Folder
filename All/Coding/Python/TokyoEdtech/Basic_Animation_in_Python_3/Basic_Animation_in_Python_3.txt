@@ -1,0 +1,19 @@
+
+Basic Animation in Python 3 Part 1 Basic Principles
+https://youtu.be/mIQR6GUxZZI&list=PLlEgNdBJEO-n9U_OcG2-KT_l2ncrJWPzc
+
+Basic Animation in Python 3 Part 2 Using Functions
+https://youtu.be/iU0_eqg5NAI&list=PLlEgNdBJEO-n9U_OcG2-KT_l2ncrJWPzc
+
+Basic Animation in Python 3 Part 3 ontimer Method
+https://youtu.be/btee9_xyx60&list=PLlEgNdBJEO-n9U_OcG2-KT_l2ncrJWPzc
+
+Basic Animation in Python 3 Part 4 Using Images
+https://youtu.be/ussjATbOSWY&list=PLlEgNdBJEO-n9U_OcG2-KT_l2ncrJWPzc
+
+Basic Animation in Python 3 Part 5 Using Lists
+https://youtu.be/vgFFE4DujXY&list=PLlEgNdBJEO-n9U_OcG2-KT_l2ncrJWPzc
+
+Basic Animation in Python 3 Part 6 Using Classes
+https://youtu.be/6TpQL9OJSV0&list=PLlEgNdBJEO-n9U_OcG2-KT_l2ncrJWPzc
+Basic Animation in Python 3

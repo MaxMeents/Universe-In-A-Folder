@@ -1,0 +1,73 @@
+
+chromatic   When Wrong is Better
+https://youtu.be/Na61MsDGhaA&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Daisuke Maki   STF   Serve Billions Of User Uploaded Media On PSGI and Commodity Hardware
+https://youtu.be/_SR4xAY7eno&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Dan Wright   Perl Foundation Treasurer
+https://youtu.be/mc4-AsGVPXI&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Dan Wright   So, you want to run a Perl event
+https://youtu.be/F476qz3eSI0&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+David Mertens   Interactive Data Analysis with Prima and PDL
+https://youtu.be/IE-vnnRWiOg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+David Mertens   Introduction to the Perl Data Language
+https://youtu.be/rf1yfZ2yUFo&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Frew Schmidt   DBIxClass   the whirlwind overview
+https://youtu.be/Vm_NlfHNVvg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Gerda Shank   HTML forms with FormHandler
+https://youtu.be/NL2M8yomwjo&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Graham Knop   The Lacuna Expanse
+https://youtu.be/HnEM4D7N2IQ&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Ingy döt Net   Stackato   Bringing the Cloud Back Home
+https://youtu.be/fiGurzlzfvY&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Ingy döt Net   The State of the Acmeism in 2012
+https://youtu.be/5Hr22lHJ9lY&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+James E Keenan   Perl Testing 101 82% of What You Need to Be a Competent Perl Tester
+https://youtu.be/A31VhNeGaw0&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Jan Dubois   Hands on Stackato Workshop with Ingy n Jan
+https://youtu.be/dtDEKs2clGs&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Jeffrey Thalhammer   Creating And Managing A Private CPAN With Pinto
+https://youtu.be/oaBBVZFhJUk&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Jesse Luehrs   Dependency Injection with BreadBoard
+https://youtu.be/DhhaOQWoOpw&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+John Napiorkowski   What I Learned Teaching Perl for Advocacy
+https://youtu.be/DQrcNn4iXok&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Jonathan Swartz   CHI Universal caching for Perl
+https://youtu.be/9fb3kpzOWxI&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Josh Jore   Practical Tools for Perl Emergencies
+https://youtu.be/qRbTH3fvceY&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+JT Smith   Welcome to YAPCNA 2012
+https://youtu.be/0T9T1hzj6SI&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Juan Natera   Custom Facebook Integration
+https://youtu.be/0PKlc80Eujg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Kartik Thakore   Perl, Medical Research and Maple Syrups
+https://youtu.be/8GULMOrfuxs&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Kip Hampton   Stop Making The Web Harder Than It Is; Real world REST, HATEOAS, and Hypermedia APIs with Magpie
+https://youtu.be/frSFkC6lEwg&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Larry Wall   One On One With The Great One
+https://youtu.be/WIcbMy4XXCo&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+
+Private video
+https://youtu.be/fvu-QjSJ-rQ&list=PLA9_Hq3zhoFz4XioSg6nYMYJNMYBHkWWZ
+Videos 76-100

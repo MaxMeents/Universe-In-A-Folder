@@ -1,0 +1,76 @@
+
+Episode #268 - Tracking Javascript Errors  Preview
+https://youtu.be/rem6HnSK5Cs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #269 - Record Audio to Active Storage  Preview
+https://youtu.be/qV2iXtNHDIg&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #270 - A Rubyist's Apple M1 Review
+https://youtu.be/Apsu5zRLsdc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #271 - binfunctions  Preview
+https://youtu.be/JAYO5fx7qUI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #272 - The Stimulus 2 0 Tutorial
+https://youtu.be/85bQbmzlckc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #273 - Cache Warming  Preview
+https://youtu.be/Q3GaEmTJm5E&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #274 - Ruby on Docker  Preview
+https://youtu.be/7kiIuImrE2w&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #275 - Hotwire
+https://youtu.be/77GvSdc2Pf8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #276 - Avatars  Preview
+https://youtu.be/5kQBHyK3IbA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #277 - Diving into Hotwire
+https://youtu.be/4yJtdItP0WM&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #278 - Creating and Reading QR Codes  Preview
+https://youtu.be/dWLb9kJWJUI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #279 - Direct Upload Instantly  Preview
+https://youtu.be/tdvhtLsnS4I&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #280 - Cropping Active Storage Uploads  Preview
+https://youtu.be/EPNZEYPGkAc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #281 - Purge Orphaned Active Storage Records  Preview
+https://youtu.be/bDYVsJtWNJw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #282 - reCAPTCHA v2
+https://youtu.be/aznuTE61VdI&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #283 - Feature Rollout  Preview
+https://youtu.be/cnFdIKDb5Fk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #284 - Seed like a Pro  Preview
+https://youtu.be/WT9UgHWZ9sw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #285 - Deploying to Amazon Linux 2  Preview
+https://youtu.be/cyRznjA38sU&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #286 - Turbo Native for iOS
+https://youtu.be/L-Y9op1AhlE&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #287 - Bootstrap v5  Preview
+https://youtu.be/oUgkPxVI-Xk&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #288 - Hotwire and ViewComponent  Preview
+https://youtu.be/K3u8ZUBJnZY&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #289 - Gem in a Box  Preview
+https://youtu.be/E12yxSgj4K8&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #290 - Multiple Resources with Devise
+https://youtu.be/6CA55uEvlMs&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #291 - Form Wizards from Scratch  Preview
+https://youtu.be/LLbE7Fn5DCc&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+
+Episode #292 - Sessions  Preview
+https://youtu.be/MjQcqvFZnbw&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr
+Videos 51-75

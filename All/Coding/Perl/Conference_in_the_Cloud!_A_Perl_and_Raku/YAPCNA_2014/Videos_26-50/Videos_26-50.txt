@@ -1,0 +1,76 @@
+
+Andrew Grangaard (?spazm?) - ?Computer science for the self taught hacker? (20
+https://youtu.be/UVWIEYga_l4&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Andrew Rodland (?hobbs?) - ?Parsing Made Easyish?
+https://youtu.be/XaScLywH2CI&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Arthur Schmidt (?fREW?) - ?DBIxClass - The Perl ORM?
+https://youtu.be/hUD1RMsYrjM&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Ashley Willis (?ashley?) - ?Calendars Hate the Living?
+https://youtu.be/2L1WJTBcI_8&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Augustina Ragwitz (?auggy?) - ?DIY Hangover Show and Tell?
+https://youtu.be/w1-O_do-U7g&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Augustina Ragwitz (?auggy?) - ?Perl Out Of Order Why Timeout Today What You Can Return Tomorrow?
+https://youtu.be/VYBLCvMu_pA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Charlie Stross - ?Keynote? at YAPCNA 2014
+https://youtu.be/EPQLKTcJ26s&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Dave M - ?Go GUI or Go Home?
+https://youtu.be/gTyE-fiHDuQ&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Dave Rolsky (?autarch?) - ?A Date with Perl?
+https://youtu.be/nusC1TnwOlg&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+David Bury - ?Threading and Perl -- avoiding insanity and managing the clones effectively?
+https://youtu.be/IFUTSPeuMZA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Doug Hoyte (?fractal?) - ?Blocking Operations, Exceptions, and Logging in Asynchronous Servers?
+https://youtu.be/bmKiiqk8XKw&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Henry Van Styn (?vanstyn?) - ?RapidApp turn-key ajaxy web apps?
+https://youtu.be/ryVvSjaw3Jk&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Jake Goldsborough (?ducks?) - ?Coffee RIY Roast It Yourself?
+https://youtu.be/9qKnXaHO3gU&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Jay Hannah (?jhannah?) - ?Scuba diving my grandpa's WWII ship in Indonesia?
+https://youtu.be/ASk284LbD24&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Kevin Falcone (?jibsheet?) - ?State of rt.cpan.org and rt.perl.org?
+https://youtu.be/Ig3hrGDnlb4&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Kevin Metcalf - ?student Perl code, head-desk injuries, and you?
+https://youtu.be/rVz-09rCBBM&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Mark Allen (?mallen?) - ?Writing Web Service Clients with Roles?
+https://youtu.be/eLqoi9-ursw&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Mark Fowler (?Trelane?) - ?Mac and Perl?
+https://youtu.be/wHQEwUpDFLQ&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Nathan Gray (?kolibrie?) - ?Increasing Performance and Satisfaction Through Scrum?
+https://youtu.be/9EmdMVJV3NQ&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Peter Rabbitson (?ribasushi?) - ?SQL for accountants understanding the beast via SpreadSheets?
+https://youtu.be/63_MGcsXEzs&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Phil Wells (?kyoob?) - ?Object Oriented Selenium Test Suites?
+https://youtu.be/ZesUiDBjXcA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+R Geoffrey Avery (?rGeoffrey?) - ?Lightning Talks Day 2?
+https://youtu.be/YJrTaMUvjVA&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Ricardo Signes (?rjbs?) - ?1.21 Gigawatts?
+https://youtu.be/IG425RMEkRo&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Sawyer X - ?MetaCPAN API?
+https://youtu.be/AfH7-DCrlNY&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+
+Todd Rinaldo (?toddr?) - ?perlcc made easy or, how to make a CGI Moose app?
+https://youtu.be/PkvaqgyGDEc&list=PLA9_Hq3zhoFy5jmj6_Fd2YMuOjsovaIh-
+Videos 26-50

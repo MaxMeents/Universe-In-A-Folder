@@ -1,0 +1,19 @@
+
+Python Basics Built-in Glob Module
+https://youtu.be/OZ6cNezon2Y&list=PLaYT64KWZAEOmC_6Wp4lwG9G2IhAvFqAq
+
+Python Basics Deep Dive Re Fnmatch Glob (Requested Video)
+https://youtu.be/rBNwYitC5Gw&list=PLaYT64KWZAEOmC_6Wp4lwG9G2IhAvFqAq
+
+Python Basics Expanded Search with Brackets
+https://youtu.be/ZYbOZdV--x8&list=PLaYT64KWZAEOmC_6Wp4lwG9G2IhAvFqAq
+
+Python Basics Glob iglob Method
+https://youtu.be/KHlCRYvwQ0g&list=PLaYT64KWZAEOmC_6Wp4lwG9G2IhAvFqAq
+
+Python Basics Glob Under the Hood
+https://youtu.be/aX2RYtDWT0Q&list=PLaYT64KWZAEOmC_6Wp4lwG9G2IhAvFqAq
+
+Python Basics Scope Built-in or Global Variables
+https://youtu.be/XI9HhuP6u2o&list=PLaYT64KWZAEOmC_6Wp4lwG9G2IhAvFqAq
+Glob Module

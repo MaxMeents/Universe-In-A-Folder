@@ -1,0 +1,76 @@
+
+Applying our K Nearest Neighbors Algorithm - Practical Machine Learning Tutorial with Python p.18
+https://youtu.be/3XPhmnf96s0&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Classification w K Nearest Neighbors Intro - Practical Machine Learning Tutorial with Python p.13
+https://youtu.be/44jq6ano5n0&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Creating an SVM from scratch - Practical Machine Learning Tutorial with Python p.25
+https://youtu.be/AbVtcUBlBok&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Creating Our K Nearest Neighbors Algorithm - Practical Machine Learning with Python p.16
+https://youtu.be/n3RqsMz3-0A&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Euclidean Distance - Practical Machine Learning Tutorial with Python p.15
+https://youtu.be/hl3bQySs8sM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Final thoughts on K Nearest Neighbors - Practical Machine Learning Tutorial with Python p.19
+https://youtu.be/r_D5TTV9-2c&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+How to program the Best Fit Line - Practical Machine Learning Tutorial with Python p.9
+https://youtu.be/KLGfMGsgP34&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+How to program the Best Fit Slope - Practical Machine Learning Tutorial with Python p.8
+https://youtu.be/SvmueyhSkgQ&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14
+https://youtu.be/1i0zu9jHN6U&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Pickling and Scaling - Practical Machine Learning Tutorial with Python p.6
+https://youtu.be/za5s7RB_VLw&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Practical Machine Learning Tutorial with Python Intro p.1
+https://youtu.be/OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Programming R Squared - Practical Machine Learning Tutorial with Python p.11
+https://youtu.be/QUyAFokOmow&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+R Squared Theory - Practical Machine Learning Tutorial with Python p.10
+https://youtu.be/-fgYp74SNtk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Regression Features and Labels - Practical Machine Learning Tutorial with Python p.3
+https://youtu.be/lN5jesocJjk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Regression forecasting and predicting - Practical Machine Learning Tutorial with Python p.5
+https://youtu.be/QLVMqwpOLPk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Regression How it Works - Practical Machine Learning Tutorial with Python p.7
+https://youtu.be/V59bYfIomVk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Regression Intro - Practical Machine Learning Tutorial with Python p.2
+https://youtu.be/JcI5Vnw0b2c&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Regression Training and Testing - Practical Machine Learning Tutorial with Python p.4
+https://youtu.be/r4mwkS2T9aI&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Support Vector Assertion - Practical Machine Learning Tutorial with Python p.22
+https://youtu.be/VngCRWPrNNc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Support Vector Machine Fundamentals - Practical Machine Learning Tutorial with Python p.23
+https://youtu.be/ZDu3LKv9gOI&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Support Vector Machine Intro and Application  - Practical Machine Learning Tutorial with Python p.20
+https://youtu.be/mA5nwGoRAOo&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Support Vector Machine Optimization - Practical Machine Learning Tutorial with Python p.24
+https://youtu.be/bGCafQT5h1s&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Testing Assumptions - Practical Machine Learning Tutorial with Python p.12
+https://youtu.be/Kpxwl2u-Wgk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Understanding Vectors - Practical Machine Learning Tutorial with Python p.21
+https://youtu.be/HHUqhVzctQE&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Writing our own K Nearest Neighbors in Code - Practical Machine Learning Tutorial with Python p.17
+https://youtu.be/GWHG3cS2PKc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+Videos 1-25

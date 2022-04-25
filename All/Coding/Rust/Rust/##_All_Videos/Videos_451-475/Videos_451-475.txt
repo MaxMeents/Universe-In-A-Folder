@@ -1,0 +1,76 @@
+
+20019-02-14 Rust and WebAssembly Working Group Meeting
+https://youtu.be/ESmA1uZ3JBc
+
+2019-02-21 Rust and WebAssembly Working Group Meeting
+https://youtu.be/T_Ub-s9SEYY
+
+2019-02-28 Rust and WebAssembly Working Group Meeting
+https://youtu.be/3YjN69U6ySE
+
+2019-03-07 Rust and WebAssembly Working Group Meeting
+https://youtu.be/sQE6IjnzwS8
+
+2019-03-14 Rust and WebAssembly Working Group Meeting
+https://youtu.be/VykrQBcReGc
+
+async-await implementation plans (2019.02.26)
+https://youtu.be/xe2_whJWBC0
+
+Bay Area Rust March 2017 GPU Rasterization, the Orphan Rules, and Rocket
+https://youtu.be/AI7SLCubTnk
+
+Cranelift
+https://youtu.be/9OIA7DTFQWU
+
+Lang Team Sync Unsafe Code Guidelines
+https://youtu.be/atRKeoWbfi0
+
+oli-obk on miri and constant evaluation
+https://youtu.be/5Pm2C1YXrvM
+
+RFC #2229 Disjoint Field Capture Plan
+https://youtu.be/UTXOptVMuIc
+
+rust analyzer syntax trees
+https://youtu.be/DGAuLWdCCAI
+
+Rust and Tell February 2019 James Munns - Life Before Main
+https://youtu.be/RIHVoNDxNuk
+
+Rust and Tell February 2019 Jan Stępień - That Looks Oddly Familiar
+https://youtu.be/07Djry6jX58
+
+Rust Auckland - Azriel ECS A Programming Paradigm
+https://youtu.be/SofC6c9xQv4
+
+Rust Auckland 2019-02-25 Amethyst Game Engine Engine
+https://youtu.be/qe40FqD1E1A
+
+Rust Cologne  The Cost of Zero Cost
+https://youtu.be/JlVWk_fbvzI
+
+rust-analyzer type-checker overview by flodiebold
+https://youtu.be/Lmp3P9WNL8o
+
+RustFest Rome 2018 -  Massimiliano Mantione Fun with Rusty Robots
+https://youtu.be/bmQw5zIP8pA
+
+RustFest Rome 2018 -  Matteo Bertini  Simple CRDT in Rust
+https://youtu.be/CPbhrPPI1Xw
+
+RustFest Rome 2018 -  Neal Walfield Sequoia A New OpenPGP Implementation in Rust
+https://youtu.be/X0CoMREirrI
+
+RustFest Rome 2018 -  Tshepang Lekhonkhobe Behind The Scenes Of Producing An Executable
+https://youtu.be/EZHnzTk8YaU
+
+Tom Tromey discusses debugging support in rustc
+https://youtu.be/elBxMRSNYr4
+
+Traits WG Roadmap Meeting (2019-02-25)
+https://youtu.be/x4V6t72_5x0
+
+Universes and Lifetimes
+https://youtu.be/iV1Z0xYXkck
+Videos 451-475

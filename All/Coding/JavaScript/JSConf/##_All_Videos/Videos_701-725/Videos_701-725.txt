@@ -1,0 +1,76 @@
+
+Alejandro Oviedo Demystifying (JavaScript) engines - JSConf Iceland 2016
+https://youtu.be/yJB5k8B0MTQ
+
+Alex Kaminsky The First Engineer's Dilemma - JSConf Iceland 2016
+https://youtu.be/w-CSrRquNGI
+
+Amy Cheng Recreate Masterpieces of Modern Art with JavaScript! - JSConf Iceland 2016
+https://youtu.be/G6ZHhDPgmfk
+
+Azat Mardan You Don't Know Node.js - JSConf Iceland 2016
+https://youtu.be/NLtL-EEclRc
+
+Brian Holt React Learn Once Write Anywhere - JSConf Iceland 2016
+https://youtu.be/G_nh6JnE2_4
+
+CSSconf Argentina 2016
+https://youtu.be/n1ibVVoMpEM
+
+CSSConf Budapest 2016 - Mood Video
+https://youtu.be/eniDIEQvKgo
+
+Dag-Inge Aas User experience is everything - JSConf Iceland 2016
+https://youtu.be/r_uYX1x_NTM
+
+Dan Callahan The New Mobile Web Service Worker, Push, and App Manifests - JSConf Iceland 2016
+https://youtu.be/JF-e12S2ZAY
+
+David Khourshid Reactive Animations with CSS Variables - JSConf Iceland 2016
+https://youtu.be/lTCukb6Zn3g
+
+Heiko Behrens JavaScript on tiny, wearable hardware - JSConf Iceland 2016
+https://youtu.be/zbotfayCIn0
+
+Isaac Cohen Discovering our Prismatic Reality  JS.LA June 2016
+https://youtu.be/byDqWCMLPOA
+
+Justin Falcone Why is a Guinea Pig Like a Microservice - JSConf Iceland 2016
+https://youtu.be/PoXDa8Mi4YU
+
+Katrina Uychaco Spinning up an Electron App - Desktop Apps in JavaScript - JSConf Iceland 2016
+https://youtu.be/QkfXZ2IFIck
+
+Kurtis Rainbolt-Greene Using Babel in a Modern Working Environment  js.la July 2016
+https://youtu.be/ukYjkZGE84Y
+
+Lin Clark A cartoon guide to performance in React - JSConf Iceland 2016
+https://youtu.be/NGxVLnJKhP8
+
+Liv Erickson Why you should care about the VR Web - and how to build it! - JSConf Iceland 2016
+https://youtu.be/skxeCo7xJx8
+
+Max Goodman Bicycle.js - JSConf Iceland 2016
+https://youtu.be/mk6s20Kbbow
+
+Mihai Cîrlănaru Speech Recognition on the Web - JSConf Iceland 2016
+https://youtu.be/FDsPUNlANkQ
+
+Myles Borins On left-pad and empathy understanding human connection - JSConf Iceland 2016
+https://youtu.be/Iak7dspvrZ8
+
+Nick Doiron If One Laptop per Child were started today, how JavaScript-y would it be
+https://youtu.be/8MaH8wJ60eI
+
+Sara Raasch Javascript Testing - Unit tests, TDD, BDD, IDK.  js.la July 2016
+https://youtu.be/Fjc_cwPDbNY
+
+Seth Samuel Arbitrary Computation on the GPU Using WebGL - JSConf Iceland 2016
+https://youtu.be/5lO2wDOGIWI
+
+Tsubomi Imamura Breaking the monolith with Node and Docker at Netflix - JSConf Iceland 2016
+https://youtu.be/Skafzq6lHlY
+
+Vitaly Friedman Dirty little front-end tricks - JSConf Iceland 2016
+https://youtu.be/DQk9TqO5ets
+Videos 701-725

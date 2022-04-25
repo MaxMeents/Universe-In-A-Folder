@@ -1,0 +1,76 @@
+
+ActiveRecord Default Scopes, Unscoped, and Unscope  Preview
+https://youtu.be/tjn-KEFEwzM
+
+API Wrapper gems in Ruby - Part 1 Creating a gem and HTTP requests with Faraday
+https://youtu.be/NCMh3FjuyOs
+
+API Wrapper Rubygem part 3 Resources & Pagination  Preview
+https://youtu.be/pTTv3xaNBc4
+
+API Wrapper Rubygem Part 4 - CRUD Actions  Preview
+https://youtu.be/ityGHwKZP7Y
+
+API Wrapper Rubygems Part 5 - Testing API Requests  Preview
+https://youtu.be/iA7TcvyWTh0
+
+API Wrappers Part 2 Transforming JSON responses into Ruby objects with OpenStruct  Preview
+https://youtu.be/XNeiELHSg4c
+
+Contributing to Open Source Rails Request.js Query Option  Preview
+https://youtu.be/PDRBDh52_eU
+
+Custom ActiveRecord Validators in Ruby on Rails  Preview
+https://youtu.be/PvTTV5ucIHw
+
+Dynamic Authorization Roles in Rails with Pundit  Preview
+https://youtu.be/7aEOFRZXJTg
+
+Dynamic Select Fields in Rails using Hotwire
+https://youtu.be/ReZS6wfh3lo
+
+Email Unsubscribe Links with ActionMailer in Rails  Preview
+https://youtu.be/CoKPH8YlSKU
+
+How to build a Multithreaded HTTP Server in Ruby from Scratch  Preview
+https://youtu.be/6Zpq7R51Rfs
+
+How to create Custom Elements with Web Components
+https://youtu.be/LYgr4OyfjGE
+
+How to deploy Rails to a Staging Environment
+https://youtu.be/xf0n687EKns
+
+How to use Bootstrap with CSSBundling Rails
+https://youtu.be/nxKDTtuKOo4
+
+How to use ESBuild with JS Bundling in Rails
+https://youtu.be/qOptalp8zUY
+
+HTTP Server from Scratch Rack & Rails Support  Preview
+https://youtu.be/XmpP5IQy-gI
+
+Introduction to Rails' brand new Request.js library
+https://youtu.be/Fj-f7TfHQT4
+
+Jumpstart Pro iOS is available! 🎉
+https://youtu.be/aMrvL3f7ebs
+
+Mail Interceptors and Observers in Ruby on Rails  Preview
+https://youtu.be/sk5RkosgJu0
+
+Pay 3.0 Upgrade for Jumpstart Pro
+https://youtu.be/nJLf26sGD3o
+
+Rails Custom Configuration Options  Preview
+https://youtu.be/6WDO0QYXPOk
+
+Realtime Rails with Hotwire & ActionMailbox  Part 3  Preview
+https://youtu.be/aXmxDkxgoAY
+
+Realtime Rails with Hotwire & ActionMailbox  Part 4  Preview
+https://youtu.be/pyNjd7YO5jA
+
+Revised - Introduction to Rails' brand new Request.js library
+https://youtu.be/ACChhA4GdfM
+Videos 26-50

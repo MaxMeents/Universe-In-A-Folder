@@ -1,0 +1,67 @@
+
+Building the Network - Using Convolutional Neural Network to Identify Dogs vs Cats p. 2
+https://youtu.be/Ge65ukmJTzQ&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Convolutional Neural Networks Basics - Deep Learning withTensorFlow 12
+https://youtu.be/7Wq-QmMT4gM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Convolutional Neural Networks with TensorFlow - Deep Learning with Neural Networks 13
+https://youtu.be/mynJtLhhcXk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Installing CPU and GPU TensorFlow on Windows
+https://youtu.be/r7-WPbx8VuY&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Installing the GPU version of TensorFlow for making use of your CUDA GPU
+https://youtu.be/io6Ajf5XkaM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Intro - Training a neural network to play a game with TensorFlow and Open AI
+https://youtu.be/3zeg7H6cAJw&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Intro and preprocessing - Using Convolutional Neural Network to Identify Dogs vs Cats p. 1
+https://youtu.be/gT4F3HGYXf4&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Introduction - 3D Convolutional Neural Network w Kaggle Lung Cancer Detection Competiton p.1
+https://youtu.be/ulq9DjCJPDU&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Preprocessing data - 3D Convolutional Neural Network w Kaggle and 3D medical imaging p.5
+https://youtu.be/_DAeMDMHgtY&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Reading Files - 3D Convolutional Neural Network w Kaggle and 3D medical imaging p.2
+https://youtu.be/KlffppN47lc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Recurrent Neural Networks (RNN) - Deep Learning with Neural Networks and TensorFlow 10
+https://youtu.be/hWgGJeAvLws&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Resizing Data - 3D Convolutional Neural Network w Kaggle and 3D medical imaging p.4
+https://youtu.be/lqhMTkouBx0&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+RNN Example in Tensorflow - Deep Learning with Neural Networks 11
+https://youtu.be/dFARw8Pm0Gk&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Running the Network - 3D Convolutional Neural Network w Kaggle and 3D medical imaging p.6
+https://youtu.be/CPZ5ihaNfJc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Testing Network - Training a neural network to play a game with TensorFlow and Open AI p.4
+https://youtu.be/HCBX2cuA5UU&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+TFLearn - Deep Learning with Neural Networks and TensorFlow p. 14
+https://youtu.be/NMd7WjZiCzc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Training - Using Convolutional Neural Network to Identify Dogs vs Cats p. 3
+https://youtu.be/ViO56ASqeks&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Training Data - Training a neural network to play a game with TensorFlow and Open AI p.2
+https://youtu.be/RVt4EN-XdPA&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Training Model - Training a neural network to play a game with TensorFlow and Open AI p.3
+https://youtu.be/G-KvpNGudLw&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Using More Data - Deep Learning with Neural Networks and TensorFlow part 8
+https://youtu.be/JeamFbHhmDo&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Using our Network - Using Convolutional Neural Network to Identify Dogs vs Cats p. 4
+https://youtu.be/27FPv1VHSsQ&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+Visualizing - 3D Convolutional Neural Network w Kaggle and 3D medical imaging p.3
+https://youtu.be/MqcZYw8Tgpc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+Videos 51-72

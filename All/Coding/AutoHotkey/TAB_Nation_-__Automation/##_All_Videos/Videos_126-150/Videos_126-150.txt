@@ -1,0 +1,151 @@
+
+AutoHotkey -  Control Your PlayStation 4 With AHK. PS4 Remote Play and Minecraft.
+https://youtu.be/lcxz7k5Gfzk
+
+AutoHotKey -  What can I do with AHK and Ideas part 1
+https://youtu.be/pLTlNjYKgeU
+
+AutoHotKey -  What can I do with AHK and Ideas part 2
+https://youtu.be/Un_Q4a52-6M
+
+AutoHotKey - AI  Artificial intelligence 1 Intro using AHK
+https://youtu.be/jjVZNf0__uA
+
+AutoHotKey - AI  Artificial intelligence 2 Intro using AHK to Weight options with percent chances
+https://youtu.be/rZhMPXj3WoM
+
+AutoHotKey - Auto Mining Minecraft with lava detecting
+https://youtu.be/qnyije6xwB8
+
+AutoHotKey - Basic GUI and AHK Ideas With SmartGUI Creator
+https://youtu.be/YhH7kwlR85Q
+
+AutoHotkey - Creating A GUI Survey Then Drawing A Winner
+https://youtu.be/G4N5c2kSFDI
+
+AutoHotkey - Radial Menu v4 How To
+https://youtu.be/L85RXEdYv48
+
+AutoHotkey - Zoom API and Teams Part 1
+https://youtu.be/GTELeau007s
+
+AutoHotKey Auto buff your game- In game example is Trove
+https://youtu.be/UNgFGBhFLvk
+
+AutoHotKey Basic Gui 3 clickable pictures
+https://youtu.be/0nKKxYQwU7s
+
+AutoHotKey Basic GUI Part 2 -  Features
+https://youtu.be/x92C7BWp7rs
+
+AutoHotKey Chrome  - Opening Multiple tabs and close them (Firefox and other browsers also)
+https://youtu.be/2q4ZABailgo
+
+AutoHotkey Chrome Part 2 - Button press and form filling
+https://youtu.be/dYebT2aCwhA
+
+AutoHotkey Chrome Part 3-  How To Control Chrome With Invisible DevTool Window and Custom Menus
+https://youtu.be/2Z7X7IjHucM
+
+AutoHotKey common issues 1 fix's break loop outside ,button stuck down, Script closes
+https://youtu.be/IpA2kTQsvV4
+
+AutoHotKey Common issues 2 - Send triggers hotkey, Reopen GUI error, Game code wont workGet banned
+https://youtu.be/nwUpdvk08Bg
+
+AutoHotKey Excel - Grabbing data from excel with AHK
+https://youtu.be/HwpIX1rzAeE
+
+AutoHotkey Excel - Input Data, Highlight cells, Preset Cells, Grab Data to outlook
+https://youtu.be/75iGNUVluaw
+
+AutoHotKey GUI 4  save GUI coordinates and GuiControl (update gui text)
+https://youtu.be/LIZSskQxWig
+
+AutoHotKey GUI 5 - Transparent GUIs and Context Menus
+https://youtu.be/6qRxkWo1fSo
+
+AutoHotkey How To Use a Barcode Scanner  Card Reader With AHK
+https://youtu.be/CPjzpYz7dT0
+
+AutoHotKey IE Automating 1 - Using AHK COMs in Internet Explorer
+https://youtu.be/iUGOhKfaIuY
+
+AutoHotKey INI 2  saving settings, loops, User check
+https://youtu.be/OOCqDLFZNtQ
+
+AutoHotKey INI 3 - Collecting user data and auto creating emails
+https://youtu.be/MMIVpbjMl-Y
+
+AutoHotKey INI Files 1 (Intro to variable storing)
+https://youtu.be/BEd88xI-tTo
+
+AutoHotKey Intro 1 (First Script and how to installruncompile)
+https://youtu.be/Au5BFtpb65o
+
+AutoHotkey Intro 10 - DLLcall, Random, Settimer, How to auto start a script
+https://youtu.be/HvLiACCn1lc
+
+AutoHotkey Intro 11 - Script Setting, FileSelectFile, Organizing, Prettyfy, SingleInstance, SendMode
+https://youtu.be/kuS4ziwTVPw
+
+AutoHotkey Intro 12 - Playing With Variables hints and tricks
+https://youtu.be/cIlLLsGPKaU
+
+AutoHotkey Intro 13 - OnMessage, SendMessage, PostMessage, Send Data Between Scripts
+https://youtu.be/qiPVzWnmK6E
+
+AutoHotKey Intro 2 - Remapping keys, IfWinactive, Ifwinexist, Suspend aka pausing your script.
+https://youtu.be/RkSAQNoLwfU
+
+AutoHotKey intro 3 - Playing sound, ImageSearch, PixelGetColor
+https://youtu.be/ehe7sKMLsds
+
+AutoHotKey Intro 4 - StringSplit, GetKeyState and press two keys at same time, Sort Data
+https://youtu.be/cKt7FS9f-08
+
+AutoHotKey Intro 5 - FileAppend, FileMove, FileRecycle, FileRead, FileGetTime, if FileExist
+https://youtu.be/x_hKjZlnBM4
+
+AutoHotkey Intro 6 - Winmove, WinMaximize, WinMinimize, WinClose and more with AHK
+https://youtu.be/bQmfe04o1uI
+
+AutoHotKey Intro 7 -  2 hotkeys at once, Open tab based on current tab, send key as normal  hotkey.
+https://youtu.be/ZwjYGGT3RSI
+
+AutoHotkey Intro 8 - Toggle aka on off switch, Volume control with mouse, If button is held vs tap
+https://youtu.be/-MrAgXVKbSA
+
+AutoHotkey Intro 9 - Hotstrings, TraytipTooltip, Mass File Name Changing, URLdownload
+https://youtu.be/FRWr_vRW4Vo
+
+AutoHotkey Mod Box - Arcade Buttons working with AHK. IPAC-2
+https://youtu.be/k44Ct9lmcZs
+
+AutoHotkey Most Common Gaming Script Commands
+https://youtu.be/TUzZwAZDSNs
+
+AutoHotkey Pulover's Macro Creator - Automate your coding by Automating it. Great learning tool!
+https://youtu.be/P5oRPr2oeBk
+
+AutoHotKey Sending emails and text with ahk in the background
+https://youtu.be/UMbUV_NX8DI
+
+AutoHotkey Show case 1 - Random scripts and EXEs you may find useful
+https://youtu.be/7i-M_vDznYY
+
+Desktop YouTube new viewSubscriber notices
+https://youtu.be/gd8wuO8j1c0
+
+JavaScript - First Chrome Extension - Filling forms
+https://youtu.be/PSDfooqbQAQ
+
+StreamRight Sample Program of what AutoHotkey can do.
+https://youtu.be/kVkNHwy2ezM
+
+Tastemaker Gameplay 20 Hours in Review  Tips
+https://youtu.be/mRhZ6OztS9c
+
+Tastemaker Restaurant Simulator - Intro First 30 Minutes Gameplay on Steam
+https://youtu.be/u-sw6zN-u7U
+Videos 126-150

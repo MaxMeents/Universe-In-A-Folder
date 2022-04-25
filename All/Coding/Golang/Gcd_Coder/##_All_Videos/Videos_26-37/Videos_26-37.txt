@@ -1,0 +1,37 @@
+
+1. Curso de Go (Golang)  Presentación
+https://youtu.be/F_wmIVb_wBs
+
+2. Curso de Go (Golang)  Instalación en Windows
+https://youtu.be/H11fXmvhXxw
+
+3. Curso de Go (Golang)  Instalación en Linux (Ubuntu 16.04)
+https://youtu.be/bhm3Cd57gkY
+
+4. Curso de Go (Golang)  Hola mundo
+https://youtu.be/wE2z2By9utw
+
+5. Curso de Go (Golang)  Estructura de un Programa Declaración de variables
+https://youtu.be/FB52FtEM7UA
+
+6. Curso de Go (Golang)  Paquetes
+https://youtu.be/Jn81GrdePh0
+
+Actualizar Go a su versión 1.9 en Ubuntu 16.04
+https://youtu.be/1_0EIIc4PJE
+
+Como usar JSON en Go (Golang)
+https://youtu.be/wKJPiWQgbDU
+
+Instalación de Git en Windows
+https://youtu.be/k6wWGTq2w9Y
+
+Instalación de NodeJS en Windows
+https://youtu.be/BDSt1doYeyk
+
+Servir archivos estáticos con Golang y Gorilla Mux
+https://youtu.be/RGM_ebML2Ro
+
+Subir archivos al servidor con AJAX y Go (Golang)
+https://youtu.be/m_JRefYgWnc
+Videos 26-37

@@ -1,0 +1,76 @@
+
+Python - Boolean Operators  What is and How to Python Not Operator
+https://youtu.be/MZcsbkn-HNc
+
+Python 3 Programming Tutorial  #1 Introduction of Python Lambda and Anonymous Function
+https://youtu.be/HBR6wqXj2iY
+
+Python 3 Programming Tutorial  #2 Python map and lambda function to process lists
+https://youtu.be/tNNwixmpkLY
+
+Python 3 Programming Tutorial  #3 Sorting data in Python with lambda function
+https://youtu.be/yHOHAU96uGM
+
+Python 3 Programming Tutorial  How to create range values for float data type
+https://youtu.be/LivNvIthD18
+
+Python 3 Programming Tutorial  Python Range Function to Create a range of values
+https://youtu.be/VAyI-B5D274
+
+Python 3 Programming Tutorial 10  Loops  for loop to Iterate over multi dimensional numpy array
+https://youtu.be/PA6cR5_d2k0
+
+Python 3 Programming Tutorial 11  Loops  How to iterate over each row of python dataframe
+https://youtu.be/LHE0g1ghfV4
+
+Python 3 Programming Tutorial 12  Loops  How to process specific df column & its value in for loop
+https://youtu.be/1C0tjKf1D34
+
+Python 3 Programming Tutorial 13  Loops  How to loop over dataframe & create new calculated column
+https://youtu.be/nH1gw-slnOo
+
+Python 3 Programming Tutorial 14  Loops  Python Apply Function to create new calculated columns
+https://youtu.be/ovKk5vl7cJA
+
+Python 3 Programming Tutorial 2 - Loops - How to add conditions to while loop
+https://youtu.be/UZUuB5EDEJw
+
+Python 3 Programming Tutorial 4  Loops  For Loop in Python
+https://youtu.be/zTB4HB3R46g
+
+Python 3 Programming Tutorial 5  Loops  How to use for loop on Lists to get both index and values
+https://youtu.be/J9-BcLO2ui0
+
+Python 3 Programming Tutorial 6  Loops  How to Format for loop list output
+https://youtu.be/73IPqJ9JNDE
+
+Python 3 Programming Tutorial 7  Loops  How to loop over python nested list in
+https://youtu.be/wX7G6QLiPk8
+
+Python 3 Programming Tutorial 8  Loops  How to iterate over dictionary in python
+https://youtu.be/XPfGkkruV8Q
+
+Python 3 Programming Tutorial 9  Loops  How to iterate over python numpy array using for loop
+https://youtu.be/0nOp81_uz54
+
+Python Conditional Statement Tutorial   if Conditional Statement in Python
+https://youtu.be/fiG_SfeT5G8
+
+Python Conditional Statement Tutorial  Conditional if and else statement in python
+https://youtu.be/0DRDdUeJnZQ
+
+Python Conditional Statement Tutorial  Multiple conditional statements with if elif else in python
+https://youtu.be/geinA_mLywA
+
+Python If else Conditional Statement  How to Write if else Statement in Just One Line
+https://youtu.be/ISZlIR-pdEQ
+
+Python Numpy Array tutorial  How to Compare Numpy Arrays in Python
+https://youtu.be/7W2wNMUk-wQ
+
+Python Tutorial  How to create switch case conditional statement in python
+https://youtu.be/m6DZtf2nHlw
+
+Python Tutorial - Operators  Python and & or logical operators for conditions evaluation
+https://youtu.be/SBj8txe2Z2k
+Videos 601-625

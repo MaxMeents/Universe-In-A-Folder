@@ -1,0 +1,64 @@
+
+Aaron Jacobs  Introducing xrprof A New Way to Profile R  RStudio (2021)
+https://youtu.be/vC9-QJ2mUWw&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Barret Schloerke  plumber + future Async Web APIs  RStudio
+https://youtu.be/UDGeLpiMSj4&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Carson Sievert  Using tagQuery() from {htmltools} to modify HTML snippets in R  RStudio
+https://youtu.be/jVh05izjHMI&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Colin Rundel  parsermd - parsing R Markdown for fun and profit  RStudio
+https://youtu.be/J2JJMZR_HDk&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Edgar Ruiz  Programación con R  RStudio (2019)
+https://youtu.be/EeLlIrqWwO4&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Garrick Aden-Buie  xaringan Playground Using xaringan to learn web development  RStudio
+https://youtu.be/XtUYXMLBthM&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Hadley Wickham  testthat 3.0.0  RStudio (2020)
+https://youtu.be/1ZrjWKcG1C4&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+James Blair  Getting Started with {plumbertableau}  RStudio
+https://youtu.be/7IZDfl-h1rI&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Jenny Bryan  Help me help you creating reproducible examples  RStudio (2018)
+https://youtu.be/5gqksthQ0cM&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Jenny Bryan  Object of type ‘closure’ is not subsettable  RStudio (2020)
+https://youtu.be/vgYS-F8opgE&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Lucy D'Agostino McGowan  Designing Randomized Studies using Shiny  RStudio
+https://youtu.be/_-hY_YIrvzQ&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Neal Richardson  Bigger Data With Ease Using Apache Arrow  RStudio
+https://youtu.be/zND-Wj2XPvc&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Nick Strayer  Part IV Styling a Shiny Wordle App with CSS  RStudio
+https://youtu.be/4_tX4IUDJZ0&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Programming Games with Shiny  Dragon Realm  RStudio
+https://youtu.be/sD39WAZo99A&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Rich Iannone  {gt} Intendo Game Data Project Walkthrough  RStudio
+https://youtu.be/aPRVzk9pvno&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Tom Mock  A Gentle Introduction to Tidy Statistics in R  RStudio (2019)
+https://youtu.be/wfMAaXWHGog&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Winston Chang  Making Shiny apps faster with caching  RStudio
+https://youtu.be/diZ4Sdn7d0Q&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Winston Chang  Part I Build a Basic Wordle App with Shiny  RStudio
+https://youtu.be/quvz4xLbW88&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Winston Chang  Part II Handling Duplicate Letters in a Shiny Wordle App  RStudio
+https://youtu.be/01VOq_GMEAA&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+Winston Chang  Part III Adding a Keyboard to a Wordle Shiny App  RStudio
+https://youtu.be/v3jHh-IKXLc&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+
+ZJ  Easy larger-than-RAM data manipulation with {disk.frame}  RStudio
+https://youtu.be/EOjObl_GSi4&list=PL9HYL-VRX0oQF8CQCkwpwfokL9XPdOiuI
+Programming

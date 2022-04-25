@@ -1,0 +1,76 @@
+
+2D Aiming At Mouse in Unity
+https://youtu.be/xLtLwSgzOEo
+
+Adding Custom Cursors in Unity
+https://youtu.be/LxzHJgMrHyA
+
+Adding ScreenShake In Unity
+https://youtu.be/8PXPyyVu_6I
+
+Announcing GamesPlusJam 2!
+https://youtu.be/ZTEj463jcbE
+
+Creating a Cel-Shading Toon Shader
+https://youtu.be/3SvyJrENsgc
+
+GamesPlusJam 2 Ending & Playing Entries!
+https://youtu.be/5Iuvs-okmFw
+
+GamesPlusJam 2 One Week Away!
+https://youtu.be/ScXeirWHmBg
+
+GamesPlusJam 2 Results! - join chat at twitch.tvgamesplusjames
+https://youtu.be/He7-ocH_tT0
+
+GamesPlusJam2 Theme Reveal
+https://youtu.be/YRx8yc_YN-I
+
+How To Make A Split Screen for Multiplayer in Unity!
+https://youtu.be/DBHLgrR60F0
+
+Loading Screens & Bars in Unity
+https://youtu.be/yhhEiq961o0
+
+Making A Game In 12 Hours!
+https://youtu.be/giTcrW0Jjvc
+
+New Free Course! Unity Menu System
+https://youtu.be/SwTAelTn-Sk
+
+New Roguelike Course Available Now!
+https://youtu.be/sC2ebxFV8Pk
+
+New Udemy 2D Platformer Course available now!
+https://youtu.be/8yegijK-yHg
+
+Retro FPS in Unity #2 - Shooting
+https://youtu.be/4H6-obIxnjg
+
+Retro FPS in Unity #3 - Billboarding & Ammo
+https://youtu.be/oY0p3QqpkBg
+
+Retro FPS in Unity #4 - Making Enemies
+https://youtu.be/ntDhEmd8kCQ
+
+Retro FPS in Unity #5 - Health
+https://youtu.be/ohLbQb2iTpk
+
+Retro FPS in Unity 6 - Adding UI
+https://youtu.be/qcjPANvdIwg
+
+Retro FPS in Unity 7 - Designing 3D levels with Tilemaps
+https://youtu.be/MCRgJIU54pc
+
+Retro FPS in Unity 8 - Adding Doors
+https://youtu.be/upFezlgKQbQ
+
+Retro FPS in Unity 9 - Adding Audio
+https://youtu.be/9trRPDXfLDA
+
+Storing High Scores in Unity 2019
+https://youtu.be/0zrZZN-QaDk
+
+Taking a Look At The Lost Crypt 2D Tools Showcase
+https://youtu.be/JIgxT8AFS_c
+Videos 76-100

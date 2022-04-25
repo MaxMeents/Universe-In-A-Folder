@@ -1,0 +1,76 @@
+
+19 “Should I test my iOS apps if…” Questions  iOS Lead Essentials Podcast #001
+https://youtu.be/6iOoZGGlkX0
+
+A realistic view of how to master iOS Architecture
+https://youtu.be/QbCnhpSJtE4
+
+Careful With “Singleton” Lookalikes (WAY TOO COMMON)
+https://youtu.be/YrLzLiAoOnY
+
+Composable Code Can Be Simple – Intro to dependency diagrams and composition
+https://youtu.be/Mk34R-Q9-RE
+
+Decomposing Swift code into modules – Intro to modular design
+https://youtu.be/E0_3uTdCVew
+
+Deliver great iOS apps faster in a team
+https://youtu.be/cm5zp9w53C4
+
+Deliver outstanding and profitable iOS MVPs
+https://youtu.be/KvNhB8_TZus
+
+Good reasons not to test your iOS apps...!
+https://youtu.be/_Q4eR43lvd0
+
+How to work effectively in legacy iOS projects
+https://youtu.be/0mFL0nsOaUQ
+
+I'm a Junior iOS Dev and I'm not improving at work!
+https://youtu.be/NxSUIvRZzAw
+
+Invest in yourself and learn this iOS dev skill
+https://youtu.be/czRLQv7QNUk
+
+iOS Architecture & Fast Career Growth Find people who care  iOS Lead Essentials Podcast #002
+https://youtu.be/rEpYos7kD2o
+
+iOS Interview Experience – 7 Essential Nontechnical Skills
+https://youtu.be/ZpYWT803Esg
+
+iOS, Swift & DI The antidote to legacy code and stagnant careers  iOS Lead Essentials Podcast #003
+https://youtu.be/-ha4qZsjCIk
+
+Migrating to Swift 4.2 using a TDD + Git workflow [S01 Extras]
+https://youtu.be/1bYNmMILkEw
+
+Simple & powerful advice for improving your iOS skills faster
+https://youtu.be/g83jIX-_NJk
+
+Test your iOS apps when it's easy, otherwise...
+https://youtu.be/q2hVBTS_tJY
+
+Test your iOS network module without testing `URLSession`
+https://youtu.be/dr4uobiOzuY
+
+The Minimum You Should Do To Prevent Memory Leaks in Swift
+https://youtu.be/Gg-2nZYRd2g
+
+What to do when your boss doesn't let you write tests for the iOS apps
+https://youtu.be/luhWk2DaTj8
+
+What’s More Essential for Developers to Focus On Result or Process
+https://youtu.be/IoN-TbTdvJY
+
+Which is the best iOS UI pattern MVC, MVVM, MVP, VIPER
+https://youtu.be/fpQe-LHltKc
+
+Which UI design pattern should I use for my iOS app
+https://youtu.be/jKnTYoYn_rs
+
+XCTest + Swift setUptearDown vs Factory Methods
+https://youtu.be/UpduAlWLliU
+
+“How do you think when writing tests” – It’s simpler than you may think
+https://youtu.be/9CyIrbCNWPs
+Videos 376-400

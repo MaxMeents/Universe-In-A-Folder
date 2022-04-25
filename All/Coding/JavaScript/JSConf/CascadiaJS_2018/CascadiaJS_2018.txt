@@ -1,0 +1,73 @@
+
+Augmenting the Internet with Browser Extensions  Shannon Capper  CascadiaJS 2018
+https://youtu.be/OguVJXIbHdU&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Building a Culture of Learning and Growth  Tre Ammatuna  CascadiaJS 2018
+https://youtu.be/x2jq0lvUu68&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Conversational Semantics for the Web  Aaron Gustafson  CascadiaJS 2018
+https://youtu.be/gZiysmuwwMA&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Creative Coding & Opening Up Open Source  Elgin-Skye McLaren  CascadiaJS 2018
+https://youtu.be/Nod5D8JtqKk&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Creative Collaboration Building a Universal Design System  Julie Busch  CascadiaJS 2018
+https://youtu.be/Yz6Jxdf9PH8&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Down the Rabbit Hole with WebVR  Shannon Foster  CascadiaJS 2018
+https://youtu.be/H8crihughSc&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Enabling Web Developers to Build the Future of the Web  Yehuda Katz  CascadiaJS 2018
+https://youtu.be/3bStv_QbFlo&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Even Faster now with Functions!  Brian Leroux  CascadiaJS 2018
+https://youtu.be/KkJ3DLDUfUY&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Fostering the Next Generation of Developers  Laker Sparks  CascadiaJS 2018
+https://youtu.be/l5XRKT0jWZk&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Hitchhiker's Guide to Web Standards  Dominic Farolino  CascadiaJS 2018
+https://youtu.be/z2SbknMWtp0&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+How Linters, Compilers & Other Cool Things Work  Will Klein  CascadiaJS 2018
+https://youtu.be/JMqZgUNkqgk&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+How To Be a Web AV Artist  Ruth John  CascadiaJS 2018
+https://youtu.be/Dt4I-96C-pg&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Lessons in WebAssembly Client Side Video Editing  Megan Slater  CascadiaJS 2018
+https://youtu.be/ziXYqUZqaEk&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Let’s Talk About Mentoring  Glenn Block  CascadiaJS 2018
+https://youtu.be/WsTYfQXF8MA&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Move over GUI, let's build a VUI with JavaScript!  Memo Döring  CascadiaJS 2018
+https://youtu.be/HjWr40_N1Fg&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+N-API - The new native in node.js  Atishay Jain  CascadiaJS 2018
+https://youtu.be/E0w7Tc0f2fA&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Observing Node.js  James Snell  CascadiaJS 2018
+https://youtu.be/C8dwQw7M8Pk&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Open Source and the Volunteer Workforce  Michael Lange  CascadiaJS 2018
+https://youtu.be/Ec5j5ajtrG4&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Raiders of the Javascript-based Malware  Pranshu Bajpai  CascadiaJS 2018
+https://youtu.be/aoCRE0WoFx8&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Reclaiming the Web with peer-to-peer protocols  Tara Vancil  CascadiaJS 2018
+https://youtu.be/2Q9TlvqE9_Y&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+SPA at Scale  Patrick Woo  CascadiaJS 2018
+https://youtu.be/Zr51LyznkZI&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Teaching the Sighted to Touch & Feel a Bit More  Faddah Wolf  CascadiaJS 2018
+https://youtu.be/QLwV34UJ8I8&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+The Future of the Web  Mikeal Rogers  CascadiaJS 2018
+https://youtu.be/83Gws-dPL8A&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+
+Why I Chose to Modularize the Ducks in My React App  Lauren Lee  CascadiaJS 2018
+https://youtu.be/jr7D4VAzNig&list=PL37ZVnwpeshHipbzU5EyjRkem3U5OVWxm
+CascadiaJS 2018

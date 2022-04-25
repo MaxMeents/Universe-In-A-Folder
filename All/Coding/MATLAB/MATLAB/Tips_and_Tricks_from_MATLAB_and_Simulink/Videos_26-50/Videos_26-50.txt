@@ -1,0 +1,76 @@
+
+Accelerating MATLAB Application Development Using Stateflow
+https://youtu.be/D0nQuJkJ0-M&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Centralize, Protect, and Scale Your Algorithms
+https://youtu.be/SLiEwTH1NOk&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Customizing Embedded Coder® for Perfect C Code
+https://youtu.be/102Fx4TvW2s&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Data Dictionary Managing and Migrating Design Data
+https://youtu.be/aEWBOYZrh4g&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Data Labeling with Ground Truth Labeler App
+https://youtu.be/JH0I9NCZPDQ&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Deep Network Quantization and Deployment
+https://youtu.be/jufOpBeSvHM&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Designing Software Architectures Using AUTOSAR Blockset
+https://youtu.be/Ys7pE2Vs-44&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Electric Vehicle Powertrain Exploration with Simscape Vehicle Templates
+https://youtu.be/K0MvQHfv-pQ&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Generating Object-Oriented C++ Code from MATLAB Algorithms
+https://youtu.be/ekmbotZZJU0&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Implementing a 5G NR Cell Search Reference Application
+https://youtu.be/h84CvcEc2U4&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Improving Efficiency in the MATLAB Live Editor
+https://youtu.be/sBt_0navNJI&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Keyboard-Driven Workflows in the Simulink and Stateflow Editors
+https://youtu.be/8WjtgFMeEz8&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Lidar SLAM for Automated Driving
+https://youtu.be/n4tazoEcBGo&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Managing Design Data in MATLAB and Simulink
+https://youtu.be/-zMJjfukPzw&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Multicore Embedded Design
+https://youtu.be/KZc9E3Iyk7c&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+OFDM HDL Reference Application
+https://youtu.be/ULtiPtzXJ1c&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Physical Modeling with the Simscape Product Family
+https://youtu.be/i07MNXZc42c&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Running a Deep Learning Network on an FPGA to Detect Defects
+https://youtu.be/ue-9NaHCFug&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Scaling Test Execution with MATLAB Parallel Server
+https://youtu.be/8PXEDJ8f5rs&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Sharing MATLAB Apps and Simulink Simulations Using MATLAB Web App Server
+https://youtu.be/NLt8wEA4N2E&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Simulink Lookup Tables
+https://youtu.be/xSzVRvbs6bg&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Top 7 Ways to Automate Your RTL Verification
+https://youtu.be/2Ugo1anCNX8&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Using Projects to Collaborate, Track, and Merge Changes and Perform Code Reviews
+https://youtu.be/guG29EyDoKg&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Using the Simulink Profiler to Understand Model Execution Time
+https://youtu.be/kUa422QNddw&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+
+Visual SLAM for Automated Driving
+https://youtu.be/941vnWuIrJk&list=PLn8PRpmsu08oYesMXL23o6WN9A3ks05iJ
+Videos 26-50

@@ -1,0 +1,76 @@
+
+10 things developers need to know about web application security by Nanne Baars
+https://youtu.be/DffdcTxYGYA
+
+A Crystal Ball to Prioritize Technical Debt by Adam Tornhill
+https://youtu.be/3G6PoBsDmMo
+
+Advanced Pipelines for Hypothesis-Driven Development by Edson Yanaga
+https://youtu.be/-usdQOdUAJ4
+
+Bank to the Future Bitcoin meets Hadoop by Daniel Cook
+https://youtu.be/fkiHhrWTNSA
+
+Blue-green Deployments, AB Testing, and Canary Releases on Kubernetes by Peter Palaga Marek Jelen
+https://youtu.be/7NKz_9-yhrU
+
+Building a Spring Boot 2 application Ask the Audience! by Hanno Embregts
+https://youtu.be/GLuOr-5bXG0
+
+Fallacies of Doom - Lessons learned from porting Doom 3 to Java  by Mahmoud Abdelghany
+https://youtu.be/GkNofv3yt18
+
+Flux A modern way of doing MVC by Leitner David and Thomas Eizinger
+https://youtu.be/h9SDuTSy7ps
+
+Graal How to use the new JVM JIT compiler in real life by Chris Thalinger
+https://youtu.be/_7yIUkP5LiQ
+
+High-Performance event-sourced clustered Microservices with Play! & Akka by Dominik Dorn
+https://youtu.be/VoxuTEBQB7E
+
+It's All About Morphisms by Uberto Barbini
+https://youtu.be/Eq8dv4H3RTE
+
+Kotlin EE Boost your Productivity by Marcus Fihlon
+https://youtu.be/sETMESmipkQ
+
+Learning to fall by Rafael Ordog
+https://youtu.be/C8fkEmOF2tk
+
+Let's type - A practical introduction to TypeScript for Java Developers by Nils Hartmann
+https://youtu.be/IadZyDwfwWI
+
+Modern SQL A lot has changed since SQL-92 by Markus Winand
+https://youtu.be/xEDZQtAHpX8
+
+Moving to G1GC - An Experience Report  by Kirk Pepperdine
+https://youtu.be/IB7oFVYTOJ0
+
+Opening by Grzegorz Duda
+https://youtu.be/TT9qAdkFL54
+
+Patience pays off. How long running services reduce complexity by Bernd Rucker
+https://youtu.be/1fc43cWHaeM
+
+Progressive Web Apps Your web app on steroids by Maxence Poutord
+https://youtu.be/sS6IDU6pVHo
+
+Real Impact Testing Analysis for JVM Developers by Raquel Pau
+https://youtu.be/aGxsu-6M1EY
+
+Real-world Serverless - Going Lambda without being burned too much by David Schmitz
+https://youtu.be/hErwF1Z_THc
+
+Serverless, the Future of the Cloud! by Bert Ertman
+https://youtu.be/xPepdIQ2xsE
+
+Sitting Considered Deadly by Marek Stój
+https://youtu.be/JlZWXDjoaN4
+
+The quantum computers are coming by Alasdair Collinson
+https://youtu.be/Y8cU5-55wvc
+
+What monolith can learn from microservices by Alex Soto
+https://youtu.be/KnEf0e3NHS4
+Videos 1376-1400

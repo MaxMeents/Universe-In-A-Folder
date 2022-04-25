@@ -1,0 +1,76 @@
+
+Adjusting for stakeholder tendencies  Data Science Hangout  Mike Miller, Engine
+https://youtu.be/xTbBrOxldLM
+
+Advocating for the role you want  Data Science Hangout  Erin Pierson, Charles Scwab
+https://youtu.be/z4Lv5lXyW3g
+
+Alan Carlson  Robust, modular dashboards that minimize tech debt  RStudio
+https://youtu.be/ssmwUBSpF-8
+
+Alok Pattani - Google  Sports Analytics Meetup  RStudio
+https://youtu.be/op4Q_z5juZc
+
+Brad Lindblad  Professional Financial Reports with {rmarkdown}  RStudio
+https://youtu.be/JsaGSrM8aZ0
+
+Breaking into data science  Data Science Hangout  Kristi Angel, Stitch Fix
+https://youtu.be/FHNp9IFak6E
+
+Building a data science portfolio  Data Science Hangout  Katie Schafer, Beam Dental
+https://youtu.be/PQsIOR6oH5o
+
+Building an R Center of Excellence  Data Science Hangout  Mike Smith, Pfizer
+https://youtu.be/Dy1R2-jEeJQ
+
+Carson Sievert  Customizing Navigation Items in Shiny using {bslib}  RStudio
+https://youtu.be/VNbab8bro2c
+
+Carson Sievert  Using tagQuery() from {htmltools} to modify HTML snippets in R  RStudio
+https://youtu.be/jVh05izjHMI
+
+Collaboration across a team  Data Science Hangout  Joe Gibson, de Beaumont Foundation
+https://youtu.be/xkMt6aK0ZjE
+
+Data science team culture  Data Science Hangout  Asmae Toumi, PursueCare
+https://youtu.be/Rj1V-hq3KdU
+
+From academia to industry  Data Science Hangout  Stephen Bailey, Whatnot
+https://youtu.be/z3j_JPsyKvk
+
+George Mount  R for Excel Users - First Steps  RStudio Meetup
+https://youtu.be/hyvClyUOY04
+
+Getting better at data storytelling  Data Science Hangout  Theresa Ward, Blue Origin
+https://youtu.be/mkRQGaX47uA
+
+James Blair  Getting Started with {plumbertableau}  RStudio
+https://youtu.be/7IZDfl-h1rI
+
+Jorge Valente Hernández Castelán  Algunas formas de ver a Uber en datos Shiny en acción
+https://youtu.be/wXiNaKxEbNI
+
+Mara Averick & Maya Gans  Data Visualization Accessibility  RStudio Meetup
+https://youtu.be/l_U3hQ6mm60
+
+Predicting How Crowded Pools in Iceland Are With R & RStudio Connect
+https://youtu.be/rmLzOs_cZX4
+
+Programming Games with Shiny  Dragon Realm  RStudio
+https://youtu.be/sD39WAZo99A
+
+Rich Iannone  {gt} Intendo Game Data Project Walkthrough  RStudio
+https://youtu.be/aPRVzk9pvno
+
+RStudio presents A Stroke of Innovation
+https://youtu.be/Pm7ol3e0qdA
+
+Santiago Rodriguez  Intro to functional data analysis  RStudio Meetup
+https://youtu.be/nA9fVOCD8yM
+
+Shiny Usage Tracking in RStudio Connect
+https://youtu.be/0iljqY9j64U
+
+Understanding customer actions  Data Science Hangout  Matthias Mueller, Campaign Monitor
+https://youtu.be/vj70GHhYtc8
+Videos 1-25

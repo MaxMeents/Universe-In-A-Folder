@@ -1,0 +1,76 @@
+
+Alpha And Zorder in Plot Function  Keyword Arguments  Matplotlib
+https://youtu.be/aNfU4s6ZQUI
+
+C Programming Tutorial - Data Type  Part 1  char  void
+https://youtu.be/twE0wzqZC98
+
+C Programming Tutorial - Data Type  Part 2  int  float  double
+https://youtu.be/4DxJYNsDAmU
+
+C Tutorials - Download and Install Visual Studio Code  Windows
+https://youtu.be/ZS1jn9cEp1M
+
+C Tutorials - Setting up Visual Studio Code To Run C Programs
+https://youtu.be/PA4QyIHg3pQ
+
+Create Quiz Using Dictionary  Python Tutorials  Interview Question
+https://youtu.be/-I96VIIiIXk
+
+Data Type Modifiers in C Programming  C Tutorials
+https://youtu.be/m23BsTtTYpg
+
+Determinant Of A Matrix  NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/MsRQCmVCzcw
+
+Format String in Plot Function   Matplotlib  Python Tutorials
+https://youtu.be/kwKznZOQRK8
+
+Guess The Output 10  Python Programs And Answers  While Loop
+https://youtu.be/pbkIGaE0rLI
+
+Guess The Output 11  Python Programs And Answers  Nested List Indexing
+https://youtu.be/dWw_tjLPjew
+
+Guess The Output 12  Python Programs And Answers  List Comprehension
+https://youtu.be/Oifr1p_IxE0
+
+Guess The Output 13  Python Programs And Answers  Interview Questions
+https://youtu.be/dzlBRsPjIDQ
+
+Inverse Of A Matrix  NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/ADiR9RNZ5Qk
+
+Keyword Arguments in Plot Function  Matplotlib  Python Tutorials
+https://youtu.be/jiQ5fBSkkwY
+
+Power Of A Matrix  NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/wuEdpAxgbyc
+
+Printf Function in C Programming  Input Output Functions
+https://youtu.be/ihGGjVF9uwk
+
+Printf Modifiers in C Programming  printf()
+https://youtu.be/HyLaGquowqg
+
+Python Pattern Programs - Printing Numbers in X Shape
+https://youtu.be/jNejGge_XeY
+
+Python Programming Tutorials - Introduction to matplotlib
+https://youtu.be/c47ZFbAWaNg
+
+Python Programming Tutorials - Plot Function  pyplot module  matplotlib
+https://youtu.be/cGA22EEOT9A
+
+Python Tutorials - Making a Simple Plot Using pyplot module  matplotlib
+https://youtu.be/flwF6aJtmJs
+
+Scanf Function in C Programming  Input Output Functions
+https://youtu.be/P2cz0yePFOs
+
+Scanf Modifiers in C Programming  scanf()
+https://youtu.be/63mHLOka83Q
+
+Solve Linear Equation Using NumPy  Linear Algebra  Python Tutorials
+https://youtu.be/0WOY0LcLjUE
+Videos 151-175

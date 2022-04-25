@@ -1,0 +1,19 @@
+
+Understanding Sensor Fusion and Tracking, Part 1 What Is Sensor Fusion
+https://youtu.be/6qV3YjFppuc&list=PLn8PRpmsu08rneZErjW_NIBs0Rl_vcgSw
+
+Understanding Sensor Fusion and Tracking, Part 2 Fusing a Mag, Accel, & Gyro Estimate
+https://youtu.be/0rlvvYgmTvI&list=PLn8PRpmsu08rneZErjW_NIBs0Rl_vcgSw
+
+Understanding Sensor Fusion and Tracking, Part 3 Fusing a GPS and IMU to Estimate Pose
+https://youtu.be/hN8dL55rP5I&list=PLn8PRpmsu08rneZErjW_NIBs0Rl_vcgSw
+
+Understanding Sensor Fusion and Tracking, Part 4 Tracking a Single Object With an IMM Filter
+https://youtu.be/hJG08iWlres&list=PLn8PRpmsu08rneZErjW_NIBs0Rl_vcgSw
+
+Understanding Sensor Fusion and Tracking, Part 5 How to Track Multiple Objects at Once
+https://youtu.be/IIt1LHIHYc4&list=PLn8PRpmsu08rneZErjW_NIBs0Rl_vcgSw
+
+Understanding Sensor Fusion and Tracking, Part 6 What Is Track-Level Fusion
+https://youtu.be/r0THmp0WxJI&list=PLn8PRpmsu08rneZErjW_NIBs0Rl_vcgSw
+了解传感器融合和跟踪

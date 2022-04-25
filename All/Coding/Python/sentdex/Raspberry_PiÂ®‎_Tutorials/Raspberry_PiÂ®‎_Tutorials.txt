@@ -1,0 +1,46 @@
+
+GPIO Tutorial for Pi Part 2 - Programming the GPIO
+https://youtu.be/t0uuwHJQob4&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+GPIO Tutorial for Raspberry Pi Part 1 - Setting up
+https://youtu.be/xdnmySPke1s&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+GPIO Tutorial for Raspberry Pi Part 3 - Running our GPIO
+https://youtu.be/1OwG6EgUXbI&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+How to Put a Computer in Your Car with the Raspberry Pi
+https://youtu.be/V_fSoViiNOo&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 1 Introduction
+https://youtu.be/hiwv-Rt85E4&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 10 How to set up a Linux Web Server on your Pi
+https://youtu.be/5WqpKPRrQEY&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 11 Remote Desktop
+https://youtu.be/Y5SHRazACBE&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 2 Installing an Operating System
+https://youtu.be/JWKPiVK2nIs&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 3 Plugging everything in
+https://youtu.be/Ai9ccR8aSfE&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 4 Actually Installing an Operating System
+https://youtu.be/934uhTExwXM&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 5 Navigating Your New Pi
+https://youtu.be/OlYtvP0nzy4&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 6 Overclocking and how to overclock Raspberry Pi
+https://youtu.be/TyJH0OKyibw&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 7 Overclocking and how to overclock Raspberry Pi part 2
+https://youtu.be/LBObxnNIxOI&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 8 First Download and Update! (Firmware)
+https://youtu.be/a7X36jheRS8&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+
+Raspberry Pi Part 9 Navigating the Terminal
+https://youtu.be/wcLPZY0h2Ds&list=PLQVvvaa0QuDeazo-AqrVk8BGUej9NCHrQ
+Raspberry Pi®? Tutorials

@@ -1,0 +1,31 @@
+
+Deleted video
+https://youtu.be/cN_DpYBzKso&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+dotGo 2014 - John Graham-Cumming - I came for the easy concurrency I stayed for the easy composition
+https://youtu.be/woCg2zaIVzQ&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+dotGo 2015 - Rob Pike - Simplicity is Complicated
+https://youtu.be/rFejpH_tAHM&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+Google IO 2012 - Meet the Go Team
+https://youtu.be/sln-gJaURzk&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+GopherCon 2014 A Channel Compendium by John Graham-Cumming
+https://youtu.be/SmoM1InWXr0&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+GopherCon 2014 Opening Keynote by Rob Pike
+https://youtu.be/VoS7DsT1rdM&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+GopherCon 2015 Russ Cox - Keynote
+https://youtu.be/XvZOdpd_9tc&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+GopherCon 2016 Rob Pike - The Design of the Go Assembler
+https://youtu.be/KINIAgRpkDA&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+OSCON 2010  Rob Pike, Public Static Void
+https://youtu.be/5kj5ApnhPAE&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+
+The Why of Go
+https://youtu.be/bmZNaUcwBt4&list=PLtLJO5JKE5YCcdJGpmMqB8L4C4VNFN7gY
+Iconic Go talks

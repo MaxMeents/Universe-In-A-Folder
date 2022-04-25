@@ -1,0 +1,67 @@
+
+Adding a Close this menu option to Quick Access Popup
+https://youtu.be/0gCoKYU0Vns
+
+AHKCON this summer  the 1st AutoHotkey CONvention!
+https://youtu.be/m5xhIKSHRuE
+
+AutoHotkey example Command vs Function on String Split
+https://youtu.be/Qxc_1kiU2NY
+
+Automating Clipboard replacement with QAC-Looking for Beta testers
+https://youtu.be/G3SM_0lUlgY
+
+Cheating at work & how to better evangelize automation with Ryan Wells
+https://youtu.be/GcBWazmMzL4
+
+Convert an Object into an Array in  & turning into a function in AHK
+https://youtu.be/nex0ZAq0RfQ
+
+Discussing APIs, texting, and more with fellow AutoHotkey Youtuber
+https://youtu.be/IJUeLgWe54k
+
+Easily see  change the programs associated to files with FileTypesMan
+https://youtu.be/HesA_lxMTgk
+
+GDI vs ActiveX Which is faster 🚀  The answer may surprise you!
+https://youtu.be/XUvnrVqTlK0
+
+grepWin for Searching and Replacing Text within files Must have tool!
+https://youtu.be/LyD1MqHFb58
+
+How to use MS Word macro recorder to write AutoHotkey code
+https://youtu.be/0Nxhs6zmp2o
+
+Simple AHK Script to Select many items in Chrome with AutoHotkey
+https://youtu.be/kquQ4yf8LGY
+
+Taking ActiveX to a new level with AutoHotkey V2 by Dimitri
+https://youtu.be/CXo0uDCUdQY
+
+The lost files Huge archive of AutoHotkey files from AutoHotkey.net
+https://youtu.be/6Xq50-JuWC8
+
+the-Automator Live Support for AutoHotkey Working with ACC library
+https://youtu.be/OeYXn6ToxSA
+
+the-Automator Live Support
+https://youtu.be/XK9Jpfc50bc
+
+the-Automators' Podcast #132  Is AutoHotkey cheating at work
+https://youtu.be/djnmldE5y6c
+
+the-Automators' Podcast #133 Using a time study to quantify your efficiency gains
+https://youtu.be/Vn5u4FB2iqc
+
+the-Automators' Podcast 134- Interacting with a live stream
+https://youtu.be/xnukWBi8GK8
+
+Welcome back Isaias RaptorX  Discussing different cultures & mindsets
+https://youtu.be/zILEijw2ZhA
+
+What I've automated with AutoHotkey WordPress tracking, MS Word, more
+https://youtu.be/RcoD5uYLgI8
+
+Which version of AutoHotkey should you be using in 2022
+https://youtu.be/j-nzzmJJDX0
+Videos 26-50

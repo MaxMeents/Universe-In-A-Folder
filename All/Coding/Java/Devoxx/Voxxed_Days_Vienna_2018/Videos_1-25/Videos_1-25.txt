@@ -1,0 +1,76 @@
+
+10 things developers need to know about web application security by Nanne Baars
+https://youtu.be/DffdcTxYGYA&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+A Crystal Ball to Prioritize Technical Debt by Adam Tornhill
+https://youtu.be/3G6PoBsDmMo&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Back to the CompletableFuture Concurrency in Action by Dmitry Vinnik
+https://youtu.be/i3iDIP4PTLk&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Blue-green Deployments, AB Testing, and Canary Releases on Kubernetes by Peter Palaga Marek Jelen
+https://youtu.be/7NKz_9-yhrU&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Building a Spring Boot 2 application Ask the Audience! by Hanno Embregts
+https://youtu.be/GLuOr-5bXG0&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Embracing Database Diversity with Kafka and Debezium by Frank Lyaruu
+https://youtu.be/QddFVJgdE1Y&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Fallacies of Doom - Lessons learned from porting Doom 3 to Java  by Mahmoud Abdelghany
+https://youtu.be/GkNofv3yt18&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Flux A modern way of doing MVC by Leitner David and Thomas Eizinger
+https://youtu.be/h9SDuTSy7ps&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Graal How to use the new JVM JIT compiler in real life by Chris Thalinger
+https://youtu.be/_7yIUkP5LiQ&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+High-Performance event-sourced clustered Microservices with Play! & Akka by Dominik Dorn
+https://youtu.be/VoxuTEBQB7E&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+It's All About Morphisms by Uberto Barbini
+https://youtu.be/Eq8dv4H3RTE&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Java 9 security enhancements in practice by Martin Toshev
+https://youtu.be/LhmFGEIqAWE&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Kotlin EE Boost your Productivity by Marcus Fihlon
+https://youtu.be/sETMESmipkQ&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Let's type - A practical introduction to TypeScript for Java Developers by Nils Hartmann
+https://youtu.be/IadZyDwfwWI&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Machine Learning without the Hype by Philip Krenn
+https://youtu.be/MN1hwcH8NnI&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Microservices are not worth the trouble by James Birnie
+https://youtu.be/oSK0-eWWZRE&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Modern SQL A lot has changed since SQL-92 by Markus Winand
+https://youtu.be/xEDZQtAHpX8&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Moving to G1GC - An Experience Report  by Kirk Pepperdine
+https://youtu.be/IB7oFVYTOJ0&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Progressive Web Apps Your web app on steroids by Maxence Poutord
+https://youtu.be/sS6IDU6pVHo&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Real-world Serverless - Going Lambda without being burned too much by David Schmitz
+https://youtu.be/hErwF1Z_THc&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Serverless, the Future of the Cloud! by Bert Ertman
+https://youtu.be/xPepdIQ2xsE&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Sitting Considered Deadly by Marek Stój
+https://youtu.be/JlZWXDjoaN4&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+Spring Framework 5.0 on JDK 8 & 9  by Juergen Hoeller
+https://youtu.be/0V-3kUMfWCc&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+The quantum computers are coming by Alasdair Collinson
+https://youtu.be/Y8cU5-55wvc&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+
+What monolith can learn from microservices by Alex Soto
+https://youtu.be/KnEf0e3NHS4&list=PLRsbF2sD7JVpmxDYH6IOt-uhV2t81a-yY
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Upcoming Chapter 10 - FPS And Vehicles!
+https://youtu.be/p--54mzJ75U&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[167] NPC Collision Field - How To Make A Game
+https://youtu.be/CIFuOdj6g6A&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[168] NPC Ragdoll Activation - How To Make A Game
+https://youtu.be/3NxxDvYQRHs&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[169] NPC Drop Items - How To Make A Game
+https://youtu.be/UhBzGDjSnF0&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[170] Change To Item Master - How To Make A Game
+https://youtu.be/x6M67QdLO4U&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[171] NPC Head Look - How To Make A Game
+https://youtu.be/w3dqwZ8Kpb0&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[172] NPC Hold Range Weapon - How To Make A Game
+https://youtu.be/V2OHIdSyt2s&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[173] Gun Script Improvements - How To Make A Game
+https://youtu.be/2uOzGt3tAU4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[174] Gun NPC Input - How To Make A Game
+https://youtu.be/tFxgFa6Enrg&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[175] Setup Ranged Ally 1 - How To Make A Game
+https://youtu.be/-FqrF-oKg4g&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[176] Setup Ranged Ally 2 - How To Make A Game
+https://youtu.be/yYFqEX0SaOs&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[177] General Improvements - How To Make A Game
+https://youtu.be/ABK1mP2ZzLc&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[178] Item Make Noise - How To Make A Game
+https://youtu.be/r7sVK52K6TQ&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[179] Destructible Cause Distraction - How To Make A Game
+https://youtu.be/iHDZF9lb9oU&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[180] Bug Fixes - How To Make A Game
+https://youtu.be/OsIxLkmzDhI&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[181] Waypoints And Factions - How To Make A Game
+https://youtu.be/THAzbG3jJU4&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[182] Edit Gun NPC Input - How To Make A Game
+https://youtu.be/3C1Lucx2Ybg&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[183] Assign Waypoints - How To Make A Game
+https://youtu.be/LphdL7MFu9E&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[184] Look At Target Improvement - How To Make A Game
+https://youtu.be/Su5Gr3FWX7I&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[185] NPC Dynamic Faction - How To Make A Game
+https://youtu.be/zJJ-FyfVr8k&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[186] Edit A Few NPC Scripts - How To Make A Game
+https://youtu.be/jLwhQplQOMU&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[187] NPC Relations Data Structure - How To Make A Game
+https://youtu.be/HkQf1DcW0ZI&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[188] NPC Relations Master - How To Make A Game
+https://youtu.be/vISwKPtobwc&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[189] NPC Relations Processor - How To Make A Game
+https://youtu.be/6X6hkCQOMzo&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+
+[190] NPC Set My Attacker - How To Make A Game
+https://youtu.be/q4ZdK_Gb4Kk&list=PLwyZdDTyvucwjwqucleVQB7U12H2JPvg5
+Videos 176-200

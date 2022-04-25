@@ -1,0 +1,151 @@
+
+Achieving C-like performance in Python without Cython or other libraries
+https://youtu.be/Ri8sU5DphEE&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+After learning the basics of Python, how do I get started with real projects
+https://youtu.be/8x2A5Ih1oIg&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Coding Habits How to make coding part of your daily life 💻
+https://youtu.be/aSyUZbDxPR0&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Experienced vs Inexperienced Python Developers — What's the Difference
+https://youtu.be/Flaios1jmDM&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Extroverts vs Introverts in Computer Science (and Software Development) 💻🤔
+https://youtu.be/VMZ9LPfh9JI&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How can you get a job as junior Python developer without experience
+https://youtu.be/ZF_ECl9aIKA&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How do you make money as a Python developer 💰💰💰
+https://youtu.be/t3jULw6_veI&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How do you write clean, yet readable Python code
+https://youtu.be/sQBDd4xUZ1Q&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How do you write Pythonic code 👍🐍
+https://youtu.be/MNGtjdcFQnc&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How is Python going to evolve over the next 5-10 years
+https://youtu.be/HYU7xVkP6-Q&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How to avoid premature optimization in software development
+https://youtu.be/5wISuYbWpvs&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How to convince your team or company to use Python 🖥🐍
+https://youtu.be/3IVIZwXMFls&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How to maintain legacy Python codebases
+https://youtu.be/cm_eCSlhAFs&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How to set up Python code highlighting in your terminal
+https://youtu.be/cg_3E3Cb3MA&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How to stay up to date and employable as a Python developer
+https://youtu.be/c6miHMXgt1s&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+How to write code that works on both Python 2 and Python 3
+https://youtu.be/3StNdhmnR2o&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+I completed Python Tricks The Book — Am I a Beginner or Intermediate Python Dev
+https://youtu.be/vDvmfxXnl_A&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Is Python slower than Java and how to optimize its performance
+https://youtu.be/EGNOMb1vS3U&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+My Company Says Python Is Too risky... What Now😕
+https://youtu.be/H5CcDjaDzP8&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Object-Oriented Programming (OOP) in Python – A Good Idea 🚨🐍
+https://youtu.be/ixO9oXy1Dhw&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Programming blogs – Using Medium vs self-hosting with your own website 🤔
+https://youtu.be/y62p-dF1rN4&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Programming Contests Necessary to Get a Coding Job
+https://youtu.be/QuTpVMv4mxc&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Programming is too abstract and I'm getting frustrated... 😠
+https://youtu.be/O85LoK2uBoI&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Python Certifications – Worth It Or A Waste Of Money 💸🐍
+https://youtu.be/V-t4QLFjRAE&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Python Freelancing – Where to Find English Speaking Clients
+https://youtu.be/qKvmYYX32WI&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Python GUI Frameworks (Guide)
+https://youtu.be/RHCg3p9aP_I&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Python vs Java and C++ in video game development
+https://youtu.be/MFG2lWHBo6c&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Python vs PHP Why are there so few (free) shared hosting offers
+https://youtu.be/TayhQFzw7RY&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Should I Open-Source My Python App
+https://youtu.be/SdC-xu8VWK8&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Should you build your whole dev career on Python alone 🐍❓
+https://youtu.be/KpfAViSLAN8&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Should you stick with Python 2 or migrate to Python 3
+https://youtu.be/W8mieeEvMhs&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+The skills and knowledge that will impact your Python career the most ❓🐍
+https://youtu.be/quVusFZ_iAs&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Visual Python Debuggers and IDEs—Which One Should You Use
+https://youtu.be/KW4ojS5hhsQ&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What can you do to become a better Python developer
+https://youtu.be/B7GwiFwN6T4&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What computer should I buy to learn Python programming
+https://youtu.be/n0NfObWYJ-Y&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What other languagesplatforms besides Python should you learn
+https://youtu.be/nkGnPbbIiHo&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What Python skills are the most relevant in the industry today
+https://youtu.be/1mH0m_7uawo&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What will happen when support for Python 2 ends
+https://youtu.be/E5Jn7FfZO-0&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What's the best Python coding interview book
+https://youtu.be/ovi5J5XK40s&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+What's the future of Python on mobile platforms
+https://youtu.be/bQS0MFDuFkI&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Where can I get the most out of my Python career Data science Web dev Machine learning
+https://youtu.be/XG7YL_Gt-Aw&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Where can you find clients as a Python freelance developer
+https://youtu.be/RVyNkTck2hk&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Where Can You Find Remote Python Jobs
+https://youtu.be/JJqrg0DIHiU&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Where to Find Real-World Python Projects
+https://youtu.be/WWDzzEhlayY&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Where to find serious Python freelancing projects
+https://youtu.be/JXsQaVl6ZNM&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Where's the job market headed for Python
+https://youtu.be/pGDC6tfB9_g&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+Will Python survive the NodeJS  JavaScript hype
+https://youtu.be/_DvjBg14Srk&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+🐍🌟 What projects is Python ideal for
+https://youtu.be/7BiLUehbOb8&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+🎓 Advice on Going to College for a Computer Science  Software Engineering Degree
+https://youtu.be/W3OKejBK_dg&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+
+💡🐍 How to Remember Useful Code Snippets to Make Your Code More Pythonic
+https://youtu.be/ODqR37Jncc4&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
+Videos 1-25

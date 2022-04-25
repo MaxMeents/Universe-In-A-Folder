@@ -1,0 +1,43 @@
+
+How to add and subtract twi numbers in cpp
+https://youtu.be/alk87VFk3TU
+
+How to create a cpp program to input value from users  Smple and easy 
+https://youtu.be/EN2CSE-5Y2U
+
+How to create a simple cpp program  hello word 
+https://youtu.be/yX0M3uLPtao
+
+How to create a variable in cpp  A c++ program to creat a single variable 
+https://youtu.be/66IE1-rdmHk
+
+How to find the highest and smallest value in c++
+https://youtu.be/5nuSxvbq5jg
+
+How to input from user in string  How to omitting Namespace library
+https://youtu.be/EVSHATFXB-Q
+
+what is Array  How to use with coding  what is Array in loop
+https://youtu.be/bD4pn2emPOE
+
+What is boolean  How boolean work  true, False Conditions
+https://youtu.be/jESx9byL2cQ
+
+What is for loop  break and continue statment in for loops
+https://youtu.be/IakOPhKqsas
+
+What is if else statement  How to use
+https://youtu.be/bY9zNTnaRD0
+
+What is string  How to declare string and integer in c++
+https://youtu.be/_V9DeGj3vZs
+
+what is switch statment in cpp  How to create a simple program in C++
+https://youtu.be/aywq6w8TtHQ
+
+What is variable in cpp  How to declare 
+https://youtu.be/IBS8q8wFyZs
+
+What is While and Do while loops 💻  How to create a cpp program 📺
+https://youtu.be/rpwJQz6vO84
+Videos 1-14

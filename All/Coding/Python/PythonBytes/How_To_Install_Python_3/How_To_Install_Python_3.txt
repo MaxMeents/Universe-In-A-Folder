@@ -1,0 +1,13 @@
+
+Python 3 GUI Using wxFormBuilder XRC 1 - Basic Frame
+https://youtu.be/hzWzJYn5id0&list=PLBBLzLT9U_rRxkjG_2NXfiOkzroDZj4rE
+
+Python 3 Install on Windows - Enviroment Variables
+https://youtu.be/1S7CrwRclnI&list=PLBBLzLT9U_rRxkjG_2NXfiOkzroDZj4rE
+
+Python 3 Install On Windows - wxPython Phoenix
+https://youtu.be/_djD5EHfNCw&list=PLBBLzLT9U_rRxkjG_2NXfiOkzroDZj4rE
+
+Python 3 Install On Windows
+https://youtu.be/Rpy3DtsNoHI&list=PLBBLzLT9U_rRxkjG_2NXfiOkzroDZj4rE
+How To Install Python 3

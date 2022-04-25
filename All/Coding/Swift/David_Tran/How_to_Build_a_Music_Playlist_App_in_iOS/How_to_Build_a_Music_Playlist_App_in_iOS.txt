@@ -1,0 +1,16 @@
+
+Playlist Part 1 What We Will Build in This Series
+https://youtu.be/2smLQnpPNi4&list=PLHmNdpdzx21FygsdUsbcWmhLSiRqUkB73
+
+Playlist Part 2 New Xcode Project and Introduction to XCAssets Catalog
+https://youtu.be/9cHNRmROu-o&list=PLHmNdpdzx21FygsdUsbcWmhLSiRqUkB73
+
+Playlist Part 3 Design the Playlist UI
+https://youtu.be/n9Hu3hZFFrs&list=PLHmNdpdzx21FygsdUsbcWmhLSiRqUkB73
+
+Playlist Part 4 Finishing Up the Playlist UI
+https://youtu.be/_91hrNNNxYk&list=PLHmNdpdzx21FygsdUsbcWmhLSiRqUkB73
+
+Playlist Part 5 Connect Playlist UI to a Custom View Controller
+https://youtu.be/SfUJHCDPolw&list=PLHmNdpdzx21FygsdUsbcWmhLSiRqUkB73
+How to Build a Music Playlist App in iOS

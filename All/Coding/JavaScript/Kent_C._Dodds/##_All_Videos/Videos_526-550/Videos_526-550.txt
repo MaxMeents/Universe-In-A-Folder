@@ -1,0 +1,76 @@
+
+angular formly contributing (latest)
+https://youtu.be/SXVgP1mt8TU
+
+Angular's ng-model
+https://youtu.be/Qbl7FNwDjRk
+
+angular-formly @ AMPATH
+https://youtu.be/BM-ahyCoaeY
+
+angular-formly FOSS Bash October 2015
+https://youtu.be/tAMJcOiFRD0
+
+angular-formly Helping with Code Coverage
+https://youtu.be/CQ766-miGQ4
+
+AWS Lambda
+https://youtu.be/6g7FdzK8ZNQ
+
+Continuous Delivery with SnapCI
+https://youtu.be/ZnD2iZEeU_M
+
+Developer Experience & Tools with Dan Abramov
+https://youtu.be/qXVakfdA040
+
+ES6, Webpack, Karma, and Code Coverage
+https://youtu.be/P-1ZZkpEmQA
+
+Helping Balazs setup test coverage for ES6
+https://youtu.be/acv0ayBSuTI
+
+How to set up the Hangout Toolbox
+https://youtu.be/9OT87jGivQ0
+
+How to start a podcast like JavaScriptAir
+https://youtu.be/peIHG9gJb08
+
+Intro to Webpack and Migrating from Require.js to Webpack
+https://youtu.be/NEJyIBwo-ik
+
+Lazy Loading Angular
+https://youtu.be/nl-MI1OwXlo
+
+Migrating an App to ES6 with Webpack
+https://youtu.be/a96r7Tjf0Ps
+
+My home office setup
+https://youtu.be/r8hU2wpZifY
+
+Pateron Page video
+https://youtu.be/YaX7-oQk2fA
+
+Patreon Thank You video
+https://youtu.be/ihnotcGJujo
+
+Protractor Tips, Tricks and Best Practices
+https://youtu.be/L9DlP2saBtc
+
+Q&A with DevMountain Dallas Students
+https://youtu.be/aAFWQ3gYelk
+
+React + AVA workshop
+https://youtu.be/UmDNx06472I
+
+semantic-release with Stephan Bönnemann
+https://youtu.be/g6y3DnhkjrI
+
+Serverless Framework chat Kevin Old
+https://youtu.be/JZpYXmUdGZk
+
+The Features of ES6
+https://youtu.be/aeY6ctvsurs
+
+Utah JS Community
+https://youtu.be/hIaVIlfVSp8
+Videos 526-550

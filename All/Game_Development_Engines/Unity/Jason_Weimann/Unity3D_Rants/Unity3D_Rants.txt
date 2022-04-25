@@ -1,0 +1,40 @@
+
+3 Easy Tips for Code that doesn't SUCK!
+https://youtu.be/TQNcsZf96nk&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Delaying Decisions in Code and Project Architecture
+https://youtu.be/JX2iWikCopk&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Do Standards Matter in gamedev
+https://youtu.be/NQ6P7ecpdlY&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Game Development - Why Specialization Matters
+https://youtu.be/HjYYcu4KNAI&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+How to lose a AAA game development job in only 3 weeks - unity devlog
+https://youtu.be/WsGbnfOHI_g&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D - Clean Code VS Progress
+https://youtu.be/L0Ur3RrVMFo&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D - How much Math do I need to be a game developer
+https://youtu.be/UIY7Ms-88cg&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D Rant - Why Good Development Tools are Important
+https://youtu.be/K1JuihaB-L4&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D Rants - Assets, Libraries, & not wasting time
+https://youtu.be/UEvUL6lFM5c&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D Rants - Clean Code, Extension Methods, & State Machines
+https://youtu.be/dMVcu4T4Y6I&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D Rants - How many components should my object have
+https://youtu.be/ijrf6J-qBmg&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D Rants - Small Classes, Partials, Invoking, & more..
+https://youtu.be/wIhqaDq-Blg&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+
+Unity3D Rants - Using LINQ in Unity (how I use it and what to watch out for)
+https://youtu.be/1MEIAGoxafE&list=PLB5_EOMkLx_UcjBqQtI5PKc-G8rRf9Edp
+Unity3D Rants

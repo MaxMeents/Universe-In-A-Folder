@@ -1,0 +1,76 @@
+
+FOSDEM 2014  Camlistore
+https://youtu.be/yvjeIZgykiA
+
+FOSDEM 2014  Go Lightning Talks
+https://youtu.be/cwpI5ONWGxc
+
+FOSDEM 2014  Interfaces a new leaf for an old book
+https://youtu.be/8lrRIyK_dRE
+
+FOSDEM 2014  Porting Go to new platforms
+https://youtu.be/tnXOeHRuyyA
+
+FOSDEM 2014  Scaling with Go YouTube's Vitess
+https://youtu.be/qATTTSg6zXk
+
+FOSDEM 2014  Toward Go 1.3, and beyond
+https://youtu.be/mQ4hwLgSvUs
+
+FOSDEM 2015  CockroachDB Towards an Open-Source Spanner with Tobias Schottdorf
+https://youtu.be/ndKj77VW2eM
+
+FOSDEM 2015  Finding Bad Needles in Worldwide Haystacks with Dmitry Savintsev
+https://youtu.be/12vPCJrWwxA
+
+FOSDEM 2015  Go at CoreOS with Kelsey Hightower
+https://youtu.be/UNulSprd2Ng
+
+FOSDEM 2015  HTTP2 for Go with Brad Fitzpatrick
+https://youtu.be/gAfoLwog_MA
+
+FOSDEM 2015  Lightning Talks - Go Devroom
+https://youtu.be/oM-MfeflUZ8
+
+FOSDEM 2015  The State of Go with Andrew Gerrand
+https://youtu.be/Kd8EqTvW5EQ
+
+Golang-syd  TinyTerm with by Dave Cheney
+https://youtu.be/70Z1AyvfaQE
+
+Golang-syd  Underscore with Toby Hede
+https://youtu.be/juHMdcTz5vM
+
+Golang-syd Nov 2014  Implementing a bignum calculator with Rob Pike
+https://youtu.be/PXoG0WX0r_E
+
+Hacking with Andrew and Brad an HTTP2 client
+https://youtu.be/yG-UaBJXZ80
+
+Hacking with Andrew and Brad tip.golang.org
+https://youtu.be/1rZ-JorHJEY
+
+London Go Gathering 2015   HTTP2 with Brad Fitzpatrick
+https://youtu.be/gukAZO1fqZQ
+
+London Go Gathering 2015  Channeling Failure with Matt Heath
+https://youtu.be/lzlGXMnrBgw
+
+London Go Gathering 2015  Go and the Modern Enterprise with Peter Bourgon
+https://youtu.be/iFR_7AKkJFU
+
+London Go Gathering 2015  Go on Mobile with David Crawshaw
+https://youtu.be/ZLq0Zeoyu6Y
+
+London Go Gathering 2015  How Go spread at CloudFlare with John Graham-Cumming
+https://youtu.be/8igk2ylk_X4
+
+London Go Gathering 2015  JSON, interfaces, and go generate with Francesc Campoy
+https://youtu.be/YgnD27GFcyA
+
+London Go Gathering 2015  The State of Go with Andrew Gerrand
+https://youtu.be/3Gsdg4-85X8
+
+Testing Techniques
+https://youtu.be/ndmB0bj7eyw
+Videos 26-50

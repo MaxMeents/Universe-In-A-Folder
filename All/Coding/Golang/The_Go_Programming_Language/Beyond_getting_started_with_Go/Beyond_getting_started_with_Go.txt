@@ -1,0 +1,4 @@
+
+Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks
+https://youtu.be/yeetIgNeIkc&list=PLtLJO5JKE5YAt8TrfcHRn6bF6K09pY2y7
+Beyond getting started with Go

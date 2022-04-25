@@ -1,0 +1,22 @@
+
+OpenCV Face Detection with Raspberry Pi - Robotics with Python p.7
+https://youtu.be/1I4gHpctXbU&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+
+Programming Autonomy - Robotics with Python Raspberry Pi and GoPiGo p.6
+https://youtu.be/LcnVBo3vW8Y&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+
+Programming Remote Control - Robotics with Python Raspberry Pi and GoPiGo p.4
+https://youtu.be/4syKe0PP-4Y&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+
+Programming Robot Basics - Robotics with Python Raspberry Pi and GoPiGo p.3
+https://youtu.be/RiIMSGQSSvA&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+
+Robotics with Python Raspberry Pi and GoPiGo Introduction
+https://youtu.be/ip0mYTLlldw&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+
+Supplies Needed - Robotics with Python Raspberry Pi and GoPiGo p.2
+https://youtu.be/zhVtA8fLGJQ&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+
+Weaponizing our Robot - Robotics with Python Raspberry Pi and GoPiGo p.5
+https://youtu.be/uXTlPiIhvzw&list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy
+Robotics with Python Raspberry Pi and GoPiGo

@@ -1,0 +1,76 @@
+
+Programmieren in Rust (01.02.) Performance und Effizienz
+https://youtu.be/01HVacgLQO4&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (02.11.) Strings und Git Teil 2
+https://youtu.be/Hiez8zq3yNg&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (04.01.) Makros
+https://youtu.be/nPF-0zE5i9Q&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (05.12.) Iteratoren und Closures
+https://youtu.be/YnYKzpmMv40&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (06.02.) Rust Community & Open Source
+https://youtu.be/mKE7j5TC-2Q&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (07.11.) Structs, impl-Block und Methodensyntax
+https://youtu.be/EGogoHQUeLE&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (07.12.) Iteratoren und Closures
+https://youtu.be/Ku0001U4o9A&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (09.01.) LvalueRvalue, Deref, Assembly und Maschinencode
+https://youtu.be/TdJKs_Dq2Cs&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (09.11.) Vector, match, Patterns and Enums
+https://youtu.be/PHEYNPtWIbs&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (11.01.) Stack und Heap
+https://youtu.be/Unda8t9cxw8&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (12.12.) Try,  und Closures
+https://youtu.be/-tc0tHWuJm8&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (14.11.) Error Handling
+https://youtu.be/YYb0fIELE1Q&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (16.01.) Trait Objects, Drop und Smartpointer
+https://youtu.be/vjQ7qx6RcRY&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (16.11.) Error Handling, tree.rs-Beispiel
+https://youtu.be/lJzYi5TqtEY&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (18.01.) Interior Mutability, GC vs. RAII
+https://youtu.be/1rTtz7qHW68&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (21.11.) Module und use
+https://youtu.be/04dpIX5njy8&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (23.01.) Lifetimes
+https://youtu.be/1ND79YMDV54&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (23.11.) Module, Crates und Cargo
+https://youtu.be/mpfAaSVTe78&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (24.10.) „Warum Rust“, Organisatorisches und Grundlagen
+https://youtu.be/lQ36K1htRDY&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (25.01.) Multithreading
+https://youtu.be/RTCHFlGg5wQ&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (26.10.) Git, GitHub und Rust einrichten
+https://youtu.be/k6KKO7QfhNQ&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (28.11.) Generics & Traits
+https://youtu.be/ImIKRRXd3fA&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (30.01.) Multithreading
+https://youtu.be/hwoEtAnTuss&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (30.11.) Generics und Traits
+https://youtu.be/QUWfNqC-7nI&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+
+Programmieren in Rust (31.10.) Grundlagen und Ownership-System (Teil 1)
+https://youtu.be/1dr2CDxBRuo&list=PL85XCvVPmGQjW0sJrHMOMQnchqkGCZ2AW
+Videos 1-25

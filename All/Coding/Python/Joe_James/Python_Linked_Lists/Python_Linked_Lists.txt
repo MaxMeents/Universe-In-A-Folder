@@ -1,0 +1,16 @@
+
+Python Circular Linked Lists
+https://youtu.be/3bmCGdh0jS8&list=PLj8W7XIvO93rx6hFr6H3Un4Ezpg1iUpOG
+
+Python Doubly Linked Lists
+https://youtu.be/sDP_pReYNEc&list=PLj8W7XIvO93rx6hFr6H3Un4Ezpg1iUpOG
+
+Python Linked Lists Explained  implementation, insert, delete nodes
+https://youtu.be/Bd1L64clh34&list=PLj8W7XIvO93rx6hFr6H3Un4Ezpg1iUpOG
+
+Python Printing a Linked List
+https://youtu.be/53YG_eum-EE&list=PLj8W7XIvO93rx6hFr6H3Un4Ezpg1iUpOG
+
+Python Sorting a Linked List
+https://youtu.be/Xk0Tgh1AbfE&list=PLj8W7XIvO93rx6hFr6H3Un4Ezpg1iUpOG
+Python Linked Lists

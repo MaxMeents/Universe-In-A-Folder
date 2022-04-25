@@ -1,0 +1,10 @@
+
+Blueprint MOBA MinionCreep AI Lane Movement & Navmesh Debug  03  Live Training  Unreal Engine
+https://youtu.be/XB_sRVqiLV4&list=PLZlv_N0_O1gZ5_XfjNvYpF-sHAj7RI6Jt
+
+Blueprint MOBA MinionCreep AI Spawning Waves  02  Live Training  Unreal Engine
+https://youtu.be/XYSXb6rq26s&list=PLZlv_N0_O1gZ5_XfjNvYpF-sHAj7RI6Jt
+
+Blueprint MOBA MinionCreep AI The Basics  01  Live Training  Unreal Engine
+https://youtu.be/eND5XlHvX0o&list=PLZlv_N0_O1gZ5_XfjNvYpF-sHAj7RI6Jt
+Blueprint MOBA MinionCreep AI  Unreal Engine

@@ -1,0 +1,76 @@
+
+Absolute Imports in Python
+https://youtu.be/qK3S5KoaRIg
+
+Common Issues with Sorting in Python
+https://youtu.be/RZjBMiNSw-A
+
+Converting Between Strings and Lists in Python
+https://youtu.be/vhzxtXwIHYI
+
+Django's Double Folder Structure Nesting
+https://youtu.be/bydSXmg5GR8
+
+Documenting vs Commenting Code in Python
+https://youtu.be/xuaTh5aor-Q
+
+Fixing KeyError Exceptions in Python
+https://youtu.be/anF46W1pYCg
+
+Haar-Like Features in Face Detection With Python
+https://youtu.be/RPoUdDGonWc
+
+How to Iterate Through a Dictionary in Python
+https://youtu.be/Hgcd86lQc70
+
+How to Make Histograms in Pure Python
+https://youtu.be/OpTwGLVCtHQ
+
+How to Use Python Lambda With the Sort Method
+https://youtu.be/goPKxNtuxWo
+
+How to Use range() in Python
+https://youtu.be/XUN9kvXxGp4
+
+Matplotlib Your First Plot With Python
+https://youtu.be/SRgYGhRXVlY
+
+Object Inheritance in Python
+https://youtu.be/Vkefa4fhNaQ
+
+Python Boto3 and S3 Access Control Lists
+https://youtu.be/NlRCNMWR8GY
+
+Python Lists Indexing & Slicing
+https://youtu.be/KAXvMbD1Zac
+
+Python Naming Conventions
+https://youtu.be/frWeuIOvfx0
+
+Python Strings Escape Sequences
+https://youtu.be/PCfTiO8vD8A
+
+Python Type Hints Pros & Cons
+https://youtu.be/QS7m167SVXU
+
+Python's Logging Module
+https://youtu.be/3FxDQ6zE4ZU
+
+Recursion in Python Defining a Recursive Function
+https://youtu.be/zbfRgC3kukk
+
+Start Python Debugging With pdb
+https://youtu.be/bHx8A8tbj2c
+
+Step Through Python Scripts With Thonny
+https://youtu.be/QQAqQp06nXo
+
+The Walrus Operator Assignment Expressions in Python 3.8
+https://youtu.be/ixbi_OeTsUc
+
+Threading in Python What Is a Thread
+https://youtu.be/gZSw8GGUP-I
+
+Unpacking With Asterisk Operators in Python
+https://youtu.be/K5XHaoROxI4
+Videos 226-250

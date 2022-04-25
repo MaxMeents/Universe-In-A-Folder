@@ -1,0 +1,76 @@
+
+Concurrent Programming with Java
+https://youtu.be/ClO49t-ctXU
+
+Edson Yanaga on Java EE and Microservices
+https://youtu.be/ZCPYiTPWl58
+
+Functional Programming in Java
+https://youtu.be/bgHqBVO9Qo4
+
+Gustavo Castilhos on Oracle Big Data Solutions
+https://youtu.be/10BAYwg4oVI
+
+Harshad Oak on the Java Cloud Service
+https://youtu.be/jWXJBTWUT-I
+
+Icaro Cruz IoT Platforms and Cloud services
+https://youtu.be/lfb85GSPm98
+
+Java 9 with Wolfgang Weigend
+https://youtu.be/f_CkNI6-Rmk
+
+Java SE 8 and Java EE 7 with Adam Bien
+https://youtu.be/xeSLmm0Ci64
+
+Javed Beg on Mobile Cloud
+https://youtu.be/B-XxBoMoFWc
+
+JSP Expression Language
+https://youtu.be/rf0y6Xl8BnI
+
+Microservices with Eberhard Wolff
+https://youtu.be/_D1ixK59yCk
+
+MVC, DI with JavaFX with 3 Classes
+https://youtu.be/dPLZsc2wSKE
+
+NightHacking Japan Tour Promo Video
+https://youtu.be/raKR5Dic5ns
+
+Oracle JET
+https://youtu.be/qhIWyQ9UdiQ
+
+Paulo Simoes on Java is a Continium
+https://youtu.be/W0ELM08sdQc
+
+Paulo Simoes on Oracle DevOps and Microcontainers
+https://youtu.be/v9oCSNEJSkM
+
+Playing Ionic with Java REST Service
+https://youtu.be/J-istvBIacY
+
+Ravi Pinto on Lightweight Node.js and Java in the Cloud
+https://youtu.be/h2N-l3WDFV8
+
+Rodrigo da Silva on Being a JUG Leader, Java EE and Microservices
+https://youtu.be/Dx1KE2mEjqs
+
+Rodrigo Mendonca on Oracle Document Cloud Service
+https://youtu.be/kX_HKRzMrO8
+
+Sai Janakiram on DevOps and Cloud
+https://youtu.be/kkqk2X-i-Co
+
+Satyendra Kumar on Oracle Cloud in Industry
+https://youtu.be/dSxtI6ZDSUc
+
+Siva Krishna on Making DevOps Work
+https://youtu.be/645uWfOpZLY
+
+Sten Vesterli on Building Compelling Mobile Apps
+https://youtu.be/L4hKt1JYy1k
+
+Taming Text Using Solr
+https://youtu.be/HF_iA6XgnAs
+Videos 201-225

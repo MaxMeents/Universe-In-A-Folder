@@ -1,0 +1,46 @@
+
+How to Learn Game Dev + Unity3d Beginner FAQ
+https://youtu.be/woP3mKmecno&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Game - Drawing with LineRenderer in Unity3D
+https://youtu.be/3hYrNu-AKPo&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Game - Unity Beginner Tutorial - 2021 Version!
+https://youtu.be/Lu76c85LhGY&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #10 - Fireballs
+https://youtu.be/Q6ffRoyqtq4&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #11 - Launching Fireballs with Prefabs
+https://youtu.be/zAgAxrTCbGM&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #12 - Deploying Unity Games to WebGL
+https://youtu.be/pwyc-XnFzTw&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #2 Project Setup and Sprites
+https://youtu.be/NRIjK_S4hiI&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #3 - Physics and Collisions
+https://youtu.be/Ip7DxgRnTHI&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #4 - Intro to scripting with C#
+https://youtu.be/99iKaE6sjyc&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #5 - Destroying Players with Collisions
+https://youtu.be/G3v7sOGnNbk&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #6 - Moving Transforms
+https://youtu.be/J0HSCjVdq1Y&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #7 - Prefabs and Children
+https://youtu.be/UNkQ_SyHzY4&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #8 - Enemies and Relative Space
+https://youtu.be/FmuzpaKCVFo&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Unity Game - #9 - Sound Effects and Music Audio
+https://youtu.be/_b2I--adKIo&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+
+How to Make a Video Game - #1 - For Beginners (2019)
+https://youtu.be/BL2u_6sSvcM&list=PLB5_EOMkLx_WCGalAUeKXA1I-qQqYY_Sk
+How to Make a Unity Game

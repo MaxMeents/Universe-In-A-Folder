@@ -1,0 +1,73 @@
+
+Avatar CLI — Andrés Casablanca
+https://youtu.be/zHuXnmmATHM&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Building a CO2 Measuring Device with Embedded Rust — Tanks Transfeld
+https://youtu.be/HybHkK2P3yI&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Commingle — Arve Knudsen
+https://youtu.be/UZzQyQicsr0&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Crash Course with Bastion— Mahmut Bulut
+https://youtu.be/YaOM2rDO-gs&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Debugging WebAssembly - Irina Shestak
+https://youtu.be/RKATJmsCyI8&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+My first program for the MXCHIP IoT DevKit — Olivier Goffart
+https://youtu.be/EHMdD0dTgNA&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+R-Evolution A Story of Rust Adoption - Ryan Levick
+https://youtu.be/qCB19DRw_60&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust & Tell - 2021 Kickoff
+https://youtu.be/HNzeouj0eKc&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust & Tell - April 2021
+https://youtu.be/q-oANR8sspw&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust & Tell - May 2021
+https://youtu.be/YbguuQzHcfk&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust & Tell Berlin September 2021 - Bastian Gruber Learning Rust - One tutorial to rule them all
+https://youtu.be/QoatPlzc0-Y&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust & Tell Berlin September 2021 - Michał Rostecki Developing and managing eBPF programs with Rust
+https://youtu.be/lFbMAbSXFPU&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust & Tell Berlin September 2021 - Zeeshan Ali Asyncawait The good, bad and the ugly
+https://youtu.be/x9D4pY-fkV0&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell April 2019 Lin Clark - WASI
+https://youtu.be/TAHlOGNuQc4&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell April 2019 Max Goisser - cargo-nono
+https://youtu.be/Ze9yVyLuDJw&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell Berlin - April 2020
+https://youtu.be/yGuxtodWYDs&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell Berlin - July
+https://youtu.be/0Bj-5C2Zfqs&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell Berlin - June
+https://youtu.be/X2MqRZIzdcM&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell Berlin - March 2020
+https://youtu.be/43KS_nCqiIM&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell Berlin - May 2020
+https://youtu.be/rpilJV-eIVw&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell February 2019 James Munns - Life Before Main
+https://youtu.be/RIHVoNDxNuk&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and Tell February 2019 Jan Stępień - That Looks Oddly Familiar
+https://youtu.be/07Djry6jX58&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+Rust and WASM in less than 20 minutes - Antonio De La Cruz
+https://youtu.be/ltP-8PXRqrw&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+
+zvariant A Cool New Crate You Shouldn't Use Yet
+https://youtu.be/5P24c18xIOk&list=PL85XCvVPmGQhAqjkGfixrAJaiPtStajXt
+Rust and Tell Berlin

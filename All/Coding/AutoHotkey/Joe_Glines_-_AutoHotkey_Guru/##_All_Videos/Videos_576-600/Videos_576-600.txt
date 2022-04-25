@@ -1,0 +1,76 @@
+
+AHK Studio- Disable Match Brace Highlight on Delete
+https://youtu.be/0SViUz4O2mc
+
+AutoHotkey automation review (018)  Examples of RPA with AutoHotkey
+https://youtu.be/DKDITm0r9m8
+
+AutoHotkey Podcast 031 Show and tell programming with AutoHotkey
+https://youtu.be/dbYY5iFPJH4
+
+AutoHotkey Podcast 032 Security and plain text files to store sensitive data
+https://youtu.be/tC4jiaLpGnE
+
+AutoHotkey Podcast 033 SetTimer and mimicking multithreading
+https://youtu.be/mUmBmVwEkJk
+
+AutoHotkey Podcast 034 Virtual Desktops
+https://youtu.be/jvOq2YzsuZA
+
+AutoHotkey Podcast 035  UI Automation
+https://youtu.be/yJmpNuic7bQ
+
+AutoHotkey Podcast 036 Digital Worker
+https://youtu.be/K__xo66xHtA
+
+AutoHotkey Podcast 037 Default Settings
+https://youtu.be/mTGvrCj9T2A
+
+AutoHotkey Podcast 038 How much time spend Scripting
+https://youtu.be/pYwNUhzyn98
+
+AutoHotkey Podcast 039 How do people think about computers
+https://youtu.be/ru4OHZfthwg
+
+AutoHotkey Podcast 040 UI Path at Work
+https://youtu.be/CAWUMwW183I
+
+AutoHotkey Podcast 041 Systems so Ordinary People can do Extraordinary Things
+https://youtu.be/02k8lxX0Ydg
+
+AutoHotkey Podcast 042 Have Expert Systems Not Expert People
+https://youtu.be/dzdH1Z3it4A
+
+AutoHotkey Webinar 082018 Hour 2  Encoding an image to Base64 and back
+https://youtu.be/CuXv2AnG3eA
+
+AutoHotkey Webinar 092019 Hour 1 Finding and Clicking text
+https://youtu.be/fIb7KHd-aEM
+
+AutoHotkey Webinar 102019 - Converting GoSubs to a Function & walkthrough of script
+https://youtu.be/96Fz5OSKLvg
+
+AutoHotkey Webinar 112019 Hour 1- Working Session
+https://youtu.be/8I0zFn1klFM
+
+AutoHotkey Webinar 112019 Hour 2- Working Session
+https://youtu.be/gpjjckr9XFg
+
+Calculating Time and Money savings from automating a process
+https://youtu.be/UrShop9m054
+
+Cleaning up your code with AutoHotkey Studio
+https://youtu.be/tlo0-qg2rGo
+
+How to use a SetTimer in AutoHotkey to mimic Multi-Threading
+https://youtu.be/b_rxrUJTqTA
+
+Learning to encode text to binary in AutoHotkey with Maestrith
+https://youtu.be/zvUfc8I1Img
+
+Ripping network traffic from Fiddler & Writing AutoHotkey Syntax for API Call
+https://youtu.be/3EBhsDVOR_I
+
+Simple Encrypt  Decrypt functions so you don't store your passwords as plain text
+https://youtu.be/bYIuZ1u3Ux0
+Videos 576-600

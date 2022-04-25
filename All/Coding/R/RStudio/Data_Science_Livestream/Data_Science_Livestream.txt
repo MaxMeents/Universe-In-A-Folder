@@ -1,0 +1,16 @@
+
+Building R packages with devtools and usethis  RStudio
+https://youtu.be/EpTkT6Rkgbs&list=PL9HYL-VRX0oSHYoxND6jTBmPLeQqGkSOr
+
+Private video
+https://youtu.be/_5oV3FnTD4g&list=PL9HYL-VRX0oSHYoxND6jTBmPLeQqGkSOr
+
+R Markdown Advanced Tips to Become a Better Data Scientist & RStudio Connect  With Tom Mock
+https://youtu.be/WkF7nqEYF1E&list=PL9HYL-VRX0oSHYoxND6jTBmPLeQqGkSOr
+
+RStudio Team Deep Dive  In A Hosted Environment
+https://youtu.be/_XNKSEQTo30&list=PL9HYL-VRX0oSHYoxND6jTBmPLeQqGkSOr
+
+RStudio Team Demo  Build & Share Data Products Like The World’s Leading Companies
+https://youtu.be/VrF9EdgiSy8&list=PL9HYL-VRX0oSHYoxND6jTBmPLeQqGkSOr
+Data Science Livestream

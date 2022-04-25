@@ -1,0 +1,76 @@
+
+Access Data from Bloomberg Terminal, Server, and B PIPE
+https://youtu.be/hBbwhLO8vwM
+
+Algebraic Loop Highlighting
+https://youtu.be/ognK9VwQro4
+
+Arduino con MATLAB y Simulink, Parte 1 Instalación
+https://youtu.be/-MsR9yFlcrA
+
+Arduino con MATLAB y Simulink, Parte 2 Programando Arduino Uno con MATLAB
+https://youtu.be/vU3CwpfMoFQ
+
+Arduino con MATLAB y Simulink, Parte 3 Programando Arduino con Simulink
+https://youtu.be/ocos5FHEwHM
+
+Automate Test Generation to Enhance Real Time Testing
+https://youtu.be/arXSc1EMBTY
+
+Dashboard Block Library
+https://youtu.be/h5xXbMKhVrY
+
+Data Dictionary API
+https://youtu.be/D-MlmfMqNiQ
+
+Driver-in-the-Loop Simulations
+https://youtu.be/63-d7jdHoMs
+
+Fixed Point Net Slope Computation Using Division
+https://youtu.be/gimv3CWgGGM
+
+Gain Scheduling of PID Controllers
+https://youtu.be/g7R1USqJOUo
+
+Getting Started .NET applications using MATLAB Compiler SDK
+https://youtu.be/mM8nmpS1V1k
+
+Getting Started CC++ Applications Using MATLAB Compiler SDK
+https://youtu.be/pJkLajCUusY
+
+Getting Started Excel Add Ins Using MATLAB Compiler
+https://youtu.be/H-rD3qyRHZg
+
+Getting Started Standalone Applications using MATLAB Compiler
+https://youtu.be/14FOQqCSGlM
+
+Optimizing Manufacturing Production Processes
+https://youtu.be/VyU_SFcn2Qo
+
+Production Simulation Software for Manufacturing
+https://youtu.be/hpJUCLxeuqI
+
+Release 2015a Highlights
+https://youtu.be/GdgPnoruoaw
+
+Set Up Polyspace Projects from Your Build System
+https://youtu.be/aaDtat_BLT0
+
+Signal Processing for Machine Learning
+https://youtu.be/VO0d6EuGpO0
+
+Simulation Analysis and Performance
+https://youtu.be/6pd3wjgX-dA
+
+What is Antenna Toolbox - Antenna Toolbox Overview
+https://youtu.be/wcHIB7SGrhk
+
+What is MATLAB Compiler - Previous Release
+https://youtu.be/kkr7HC8gU_g
+
+What is Simulink Test - Simulink Test Overview
+https://youtu.be/asQr7fJ8Roo
+
+Work with Mobile Robotics Algorithms in MATLAB
+https://youtu.be/H3ZxAugdrYQ
+Videos 1976-2000

@@ -1,0 +1,22 @@
+
+Changeset Evolution in Mercurial #MP44
+https://youtu.be/4OlDm3akbqg&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+
+Paramiko in 5 minutes SSHv2 in Python #MP44
+https://youtu.be/Fz2CYuq6o5Y&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+
+Person of the Month Donald Stufft #MP44
+https://youtu.be/sp3MO_C3rXc&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+
+Python Module of the Month q #MP44
+https://youtu.be/6OfMPcZGI3w&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+
+Python On Rails ⇝ Snakes On A Train #MP44
+https://youtu.be/sNX4Yo9m0QA&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+
+Rails vs. Django #MP44
+https://youtu.be/kkFljUYZeRY&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+
+Unit Testing Makes Your Code Better #MP44
+https://youtu.be/ZzYakqh5Fys&list=PLQIcnBElABasPwMDlJq3rrKjnLI2Wqssm
+MP-44

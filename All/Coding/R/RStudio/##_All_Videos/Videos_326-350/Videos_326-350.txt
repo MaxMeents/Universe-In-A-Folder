@@ -1,0 +1,76 @@
+
+Alan Dipert  Integrating React.js and Shiny  RStudio (2019)
+https://youtu.be/ohUZNk5WCGQ
+
+Amanda Gadrow  Getting it right Writing reliable and maintainable R code  RStudio (2019)
+https://youtu.be/6aqudM2R02w
+
+Angela Bassa  Data science as a team sport  RStudio (2019)
+https://youtu.be/ilnNSrZ-qwY
+
+Brooke Watson  R at the ACLU Joining tables to to reunite families  RStudio (2019)
+https://youtu.be/YXWW7uK6-Xg
+
+Caitlin Hudon  Learning from eight years of data science mistakes  RStudio (2019)
+https://youtu.be/O5lP6XcopdQ
+
+Emily Robinson  Building an AB testing analytics system with R and Shiny  RStudio (2019)
+https://youtu.be/qjoc8LMZQFY
+
+Eric Nantz  Effective use of Shiny modules in application development  RStudio (2019)
+https://youtu.be/ylLLVo2VL50
+
+Gabor Csardi  pkgman A fresh approach to package installation  RStudio (2019)
+https://youtu.be/01QrIAXiJVA
+
+Garrett Grolemund  R Markdown The bigger picture  RStudio (2019)
+https://youtu.be/s9aWmU0atlQ
+
+Hao Zhu  Empowering a data team with RStudio addins  RStudio (2019)
+https://youtu.be/B5OuV2CzuRQ
+
+Hilary Parker  Cultivating creativity in data work  RStudio (2019)
+https://youtu.be/FHuaI-Gb-44
+
+Ian Fellows  Don’t let long running tasks hang users introducing IPC for Shiny  RStudio (2019)
+https://youtu.be/3mDqgAYH22s
+
+James Blair  Democratizing R with Plumber APIs  RStudio (2019)
+https://youtu.be/znHEW5Q6plw
+
+Jenny Bryan  Lazy evaluation  RStudio (2019)
+https://youtu.be/2BXPLnLMTYo
+
+Jeroen Ooms  A preview of Rtools 4.0  RStudio (2019)
+https://youtu.be/fQx_zvjIT4Q
+
+Jesse Sadler  Learning and using the tidyverse for historical research  RStudio (2019)
+https://youtu.be/kjiK9gMCko8
+
+Jim Hester  It depends A dialog about dependencies  RStudio (2019)
+https://youtu.be/mum13N7CGUI
+
+Joe Rickert  R Consortium initiatives in medicine  RStudio (2019)
+https://youtu.be/8sHEB9HYKMU
+
+Karthik Ram  A guide to modern reproducible data science with R  RStudio (2019)
+https://youtu.be/f39_oW4RKfI
+
+Kevin Kuo  Introducing mlflow  RStudio (2019)
+https://youtu.be/qeRdrOPJAss
+
+Mark Sellors  R in production  RStudio (2019)
+https://youtu.be/Z47Xwroa6uE
+
+Max Kuhn  parsnip A tidy model interface  RStudio (2019)
+https://youtu.be/ZFTjroC8bTg
+
+Miles McBain  Our colour of magic The open sourcery of fantastic R packages  RStudio (2019)
+https://youtu.be/ywK4qs5dJsg
+
+Rich Iannone  Introducing the gt package  RStudio (2019)
+https://youtu.be/h1KAjSfSbmk
+
+Thomas Lin Pedersen  gganimate live cookbook  RStudio (2019)
+https://youtu.be/3UY7Or0v_dI
+Videos 326-350

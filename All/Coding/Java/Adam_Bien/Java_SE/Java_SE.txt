@@ -1,0 +1,52 @@
+
+A PWA for javadoc #slideless
+https://youtu.be/EDLmo-2cgQI&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+AWS Lambda Configuration with Java CDK #slideless
+https://youtu.be/Z3Ir-AQEsKk&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+AWS Lambda Java (Corretto 11) vs. JavaScript #slideless
+https://youtu.be/28Da0l0MFms&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+AWS Lambda on Java How Good  Bad Is The Cold Start #slideless
+https://youtu.be/EXSZ5TFgUKU&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Converting an Map.Entry into a Java 14 Record
+https://youtu.be/9yYobHV45Mg&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Infrastructure as Java Code (IaJC) Setting AWS System Manager Parameter #slideless
+https://youtu.be/eTG7EV1ThqQ&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Java's Pattern Matching for instanceof #slideless
+https://youtu.be/L-gCosn6UMY&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+JSON-B with Java 14 Records
+https://youtu.be/q5ELQJ_3FB0&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+kcctl--The Missing CLI for Kafka Connect and Debezium #slideless
+https://youtu.be/dMnlfC1uB0c&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+openJDK quarkus on openJ9 vs. HotSpot. Startup and RAM
+https://youtu.be/GMfAZ6Qqz3w&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Plain Java POJOs as AWS Lambdas #slideless
+https://youtu.be/rHq514-1aHM&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Playing with Java 16 jpackage #slideless
+https://youtu.be/KahYIVzRIkQ&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Playing with Java Records #slideless
+https://youtu.be/MaBePQfJ9vs&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+POST-ing a JSON document with plain Java #slideless
+https://youtu.be/SyZ8W5E5Xuw&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Receiving Server Sent Events (SSE) with Plain Java 11+
+https://youtu.be/qwzNzlI66ro&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+Time Saving  Convenient Java Unit Test Generation with Visual Studio Code #slideless
+https://youtu.be/YcKobFumaUk&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+
+What is a Java Record
+https://youtu.be/fezAD2UYFak&list=PLxU9yM-_yPs-HSWgIpzzruBnkuSqWv1Bd
+Java SE

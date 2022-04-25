@@ -1,0 +1,76 @@
+
+3 Ways to Open Doors in Unity!
+https://youtu.be/joKG1QlYvsE
+
+3 Ways to Shoot Projectiles in Unity!
+https://youtu.be/Nke5JKPiQTw
+
+4 Ways to Interact with Doors in Unity! (Key, Button, Auto, Pressure)
+https://youtu.be/BJ4bNFPuDWA
+
+8 Tips for Working from Home Effectively!
+https://youtu.be/BqDfFlsE1GY
+
+Build Levels Easily with Unity Snaps!
+https://youtu.be/sQiv0EddWm4
+
+Character Controller in Unity 2D! (Move, Dodge, Dash)
+https://youtu.be/Bf_5qIt9Gr8
+
+Complete Game in Unity DOTS! (Free Download)
+https://youtu.be/EhTEn_WB-to
+
+Easily Control Cameras with Cinemachine in Unity!
+https://youtu.be/Ml8ptNeezsU
+
+Game Objects with Unity DOTS Pathfinding! (ECS mixed with MonoBehaviour)
+https://youtu.be/XomlTHitAug
+
+Getting Started with HDRP in Unity (Awesome Graphics!)
+https://youtu.be/YAVL6grnsiM
+
+How to handle Events in Unity DOTS! (C# Events from ECS)
+https://youtu.be/fkJ-7pqnRGo
+
+I made DOOM in Unity!
+https://youtu.be/UEeqT2G1TSg
+
+Melee Combat System in Unity 2D (With Targeting!)
+https://youtu.be/AXkaqW3E9OI
+
+Modular Character System in Unity (Move, Attack, AI, Pathfinding)
+https://youtu.be/mJRc9kLxFSk
+
+My Game Dev Journey (40+ Games!  mIRC to Flash to Steam)
+https://youtu.be/0zscPf_U1VY
+
+Pathfinding in Unity ECS! (Epic Performance!)
+https://youtu.be/ubUPVu_DeVk
+
+Simple Tower Defense AI in Unity (Place Towers, Fire Projectiles)
+https://youtu.be/Hp0ovwSC4FE
+
+The Future of Unity in 2020
+https://youtu.be/mP4kxILU2tw
+
+Wash your Hands! - The Videogame
+https://youtu.be/q9pe-wH7eZ8
+
+What are Blob Assets
+https://youtu.be/7_rZhp6V8ds
+
+What are Delegates (C# Basics, Lambda, Action, Func)
+https://youtu.be/3ZfwqWl-YI0
+
+What are Events (C# Basics)
+https://youtu.be/OuZrhykVytg
+
+What are Generics (C# Basics)
+https://youtu.be/7VlykMssZzk
+
+What are Loops (C# Basics, for, while, do)
+https://youtu.be/1voBuAL5ZSs
+
+What are Subscenes in Unity (Massive Worlds!)
+https://youtu.be/91kJtsDLTyE
+Videos 276-300

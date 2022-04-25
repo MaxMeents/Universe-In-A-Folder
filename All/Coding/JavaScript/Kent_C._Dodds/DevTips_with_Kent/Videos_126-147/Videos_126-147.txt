@@ -1,0 +1,67 @@
+
+Component Unit Testing (and mocking) with react-testing-library 🐐
+https://youtu.be/XDkSaCgR8g4&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Configuring Babel 7
+https://youtu.be/Tv4n_3zETHc&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Creating an autocomplete component with downshift 🏎
+https://youtu.be/7LEogIjE0pY&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Currying in JavaScript
+https://youtu.be/yIcve5wIuAg&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+DevTips with Kent intro
+https://youtu.be/5LuLxeY6tc8&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Emotion css prop without the babel plugin
+https://youtu.be/0LMFnzlPMuc&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Enable dynamic Hot Module Replacement with Webpack
+https://youtu.be/JGXAvgVHC5A&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+GitHub's GraphQL API
+https://youtu.be/B4rY2rgn1RY&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Handy package npm-quick-run
+https://youtu.be/zEM50eI4O9o&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Introduction to reach-router for react
+https://youtu.be/J1vsBrSUptA&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+JavaScript Object and Array Destructuring
+https://youtu.be/FsgGx1SMXn0&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+JavaScript reduce
+https://youtu.be/lcfnrg7PZyk&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Make jest run anything
+https://youtu.be/TG7WQR4s6PE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+npm tips
+https://youtu.be/Dli_FisDdVU&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+React component composition
+https://youtu.be/eLNS6GMejjw&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+render React Components with react-testing-library
+https://youtu.be/KzeqeI046m0&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Running sequential asynchronous operations with promises
+https://youtu.be/0wiM3jW1DVY&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Setup testing utilities file
+https://youtu.be/uUmsidYoN30&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Test Driven Development with react-testing-library
+https://youtu.be/kCR3JAR7CHE&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+The difference between (and power of) the babel plugins codegen, preval, and macros
+https://youtu.be/1queadQ0048&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Use defaultProps for mocking
+https://youtu.be/d6SkUcBnIzg&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+
+Use React Portals to build a Modal
+https://youtu.be/538Zu3Y0xTA&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u
+Videos 126-147

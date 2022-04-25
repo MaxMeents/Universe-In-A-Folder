@@ -1,0 +1,10 @@
+
+Golang UK Conference 2017  Achilleas Anagnostopoulos - Can you write an OS Kernel in Go
+https://youtu.be/8T3VxGrrJwc&list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9
+
+Golang UK Conference 2017  Chris Benson - Deep Learning with Go
+https://youtu.be/CHzMEamGZDA&list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9
+
+Golang UK Conference 2017  Sean Kelly - Embedding
+https://youtu.be/-LzYjMzfGDQ&list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9
+Videos 26-28

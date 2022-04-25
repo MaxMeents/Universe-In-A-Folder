@@ -1,0 +1,70 @@
+
+Unity Endless Runner Tutorial #1 - Player Movement
+https://youtu.be/GrQalFLtQT4&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #10 - Speeding Up & Better Ground Detection
+https://youtu.be/5QgQCaEdSV4&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #11 - Death & Restarting
+https://youtu.be/d06ljVEAd78&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #12 - Score & High Score System
+https://youtu.be/9HvTwtfBaYM&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #13 - Picking Up Coins For Points
+https://youtu.be/FaX4B_FMPIg&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #14 - Random Coin Placement
+https://youtu.be/mvBWNw8TU1g&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #15 - Jump Bug Fix & Double Jump
+https://youtu.be/N0T7vwGL4Qg&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #16 - Making A Main Menu
+https://youtu.be/zXCJF8cBVdE&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #17 - Making An After Death Menu
+https://youtu.be/FPXxTyJqIWU&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #18 - Making a Pause Menu
+https://youtu.be/SFOQy6l1DVU&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #19 - Adding Sound Effects
+https://youtu.be/E2UTNUuRpi4&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #2 - Finding the Ground
+https://youtu.be/flGbKSSUY0o&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #20 - Extra Danger Spikes
+https://youtu.be/GjfYKQgPXmo&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #21 - Creating Powerups
+https://youtu.be/oQ58w0sx-io&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #22 - More About Powerups!
+https://youtu.be/X6-r94JtXA0&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #23 - Final Powerup Fix
+https://youtu.be/wxG061EmK78&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #3 - Animations & Following Camera
+https://youtu.be/cdY-V6k_58k&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #4 - Generating Infinite Platforms
+https://youtu.be/yiXlPP8jOvs&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #5   Destroying Platforms and adding some random space
+https://youtu.be/56pUTFSoESE&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #6   Object Pooling
+https://youtu.be/ijSRJ3yrawQ&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #7 - Randomising Platforms
+https://youtu.be/YOLpjdcBtpA&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #8 - Random Platforms with Object Pooling
+https://youtu.be/YznQRjbIpLU&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+
+Unity Endless Runner Tutorial #9 - Platform Height & Better Jumping
+https://youtu.be/DCncsRU045M&list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-
+Unity Endless Runner Tutorial

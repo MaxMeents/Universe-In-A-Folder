@@ -1,0 +1,76 @@
+
+A day has ± 24 hous - Miroslav Šedivý
+https://youtu.be/IkMJw74JY2M
+
+Alihan Zihna A Review of Hyperparameter Optimization Frameworks on Python
+https://youtu.be/zZgTJashOVE
+
+Alireza Soroudi The Art of Optimal Decision Making in Python Pyomo Package
+https://youtu.be/oivo-XAvum8
+
+Arjumand Younus - Needle in the Haystack Problem for Scientific Literature How Python can Help
+https://youtu.be/uWsvS-mgzTU
+
+Ben McKeon Orbit Modelling Using Symplectic Integrators in Python.
+https://youtu.be/RKcf_unvgkQ
+
+Charlie Lewis (Lightning Talk) - How do we test a Python function that is dependent on Docker
+https://youtu.be/bAv7tEKZpOc
+
+Cheuk Ting Ho - Discord bot is fun! [LIGHTNING TALK]
+https://youtu.be/ZuqJQlsxzPc
+
+Creating your own streaming torrent client with Python (for learning purposes)- Nicolas De Marchi
+https://youtu.be/PKJeW80yLRY
+
+David Curran - Curating NLP Datasets - Building a text Classification for Chinese
+https://youtu.be/rODG6Cc8S9U
+
+Eric Soroos (Derilinx) - Big Data on the Laptop  [LIGHTNING TALK]
+https://youtu.be/AHjI3n7YMAc
+
+Harshdeep Singh Quantum Computation with Python
+https://youtu.be/JN7KA9KIrOI
+
+How to maintain many, many, many, many, many git repositiories
+https://youtu.be/9ZkjNJpUSlY
+
+January 2021, Python Ireland's meetup, Michael Dowling
+https://youtu.be/vUj7Vmqbq5c
+
+Jürgen Gmach (lightning talk) - Tool Confusion - Pythonic code with flake8, tox and precommit
+https://youtu.be/8iqhNbDHC-c
+
+Jürgen Gmach - PDB (Python Debugger) to debug your Flask App [LIGHTNING TALK] [LIGHTNING TALK]
+https://youtu.be/Fxkco-gS4S8
+
+Mihai Criveti - 5min Native Python IDE Containers & JupyterLab on KubernetesOpenShift [LIGHT.TALK]
+https://youtu.be/QyI3IO3EnLk
+
+Miroslav Šedivý - QWERTY [LIGHTNING TALK]
+https://youtu.be/yrXSCvWO1QM
+
+Mridu Bhatnagar - Get Word Of the Day SMS using Python and Twilio
+https://youtu.be/iBc5UsWWpEs
+
+Nicolas Laurance (lightning talk) - Version issues no more with pip-compile
+https://youtu.be/-TT9g-wiSxM
+
+Optimization (Linear & Mixed Integer Programming) for Pythonistas, with John Curry
+https://youtu.be/nTtYTkT0hc4
+
+Packaging improve your Python supply-chain
+https://youtu.be/b4dzlUx-MuI
+
+PyData Ireland Virtual Summer Meetup #5.1 - Microbit, RaspPi & SaveTheCode - Lorraine Underwood
+https://youtu.be/uKDTEu7mG1U
+
+Test Your Code, Not Your Sanity.
+https://youtu.be/QIFA8erNw3c
+
+The gentle touch of APM - how code tracing works in Python - Emanuil Tolev
+https://youtu.be/4h7q0BEHmQ8
+
+Tool Confusion - Pythonic code with flake8, tox and precommit
+https://youtu.be/DrM7GHlEFT8
+Videos 1-25

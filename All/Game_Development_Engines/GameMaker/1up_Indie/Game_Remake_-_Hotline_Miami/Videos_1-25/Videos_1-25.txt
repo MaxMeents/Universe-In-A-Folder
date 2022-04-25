@@ -1,0 +1,76 @@
+
+Hotline Miami Remake  in GameMaker Studio #3 - Building the startscreen
+https://youtu.be/ZbSuK6cJyEc&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake  in GameMaker Studio #8 - Player animation + keyboard input
+https://youtu.be/nuvts30CvmQ&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #1 - Why is it so good
+https://youtu.be/rDI13GQ5kJo&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #10 - Camera target swaps
+https://youtu.be/ZlYHZ4WzX3U&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #11 - Weapon pickup hover
+https://youtu.be/ozoLtnTMWzM&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #12 - Weapon pick up... picked up
+https://youtu.be/eRWwDHYphgo&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #13 - Weapon cycle
+https://youtu.be/803zFkkQNNE&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #14 - Ammo pass in
+https://youtu.be/YUArjMN5t_M&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #15 - Shooting
+https://youtu.be/WSdo1amT5Q4&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #16 - Recoil
+https://youtu.be/-1SsdI2WZQQ&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #17 - Muzzle
+https://youtu.be/No5XrsejESA&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #18 - Radial shotgun shots
+https://youtu.be/bEcqslm01bE&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #19 - Collision walls + mask
+https://youtu.be/U0cbVkFyN4c&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #2 - Why the startscreen is crucial
+https://youtu.be/yh2ZcpDqCJI&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #20 - Easy player collision
+https://youtu.be/EDEHalN1Tq8&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #21 - Enemy weapon drop
+https://youtu.be/GX4sNjutFr8&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #22 - Camera tiltrotate
+https://youtu.be/KG5Eb8xLUWw&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #23 - Ai idle, alert
+https://youtu.be/s5e9Ul_LZqc&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #24 - Input gamepad
+https://youtu.be/AAad5ZX00RY&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #25 - Masterplan for Ai
+https://youtu.be/NZ0F8es-6_Q&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #5 - Cool 3d text
+https://youtu.be/HY-rTUMBcts&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #6 - Finishing the startscreen
+https://youtu.be/9UsB6T4hTy8&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #7 - Setup Camera, tileset + player
+https://youtu.be/_M-iXBtY208&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Hotline Miami Remake in GameMaker Studio #9 - Camera Setup, follow + smooth scrolling
+https://youtu.be/bJgOI8EbSLs&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+
+Remake Hotline Miami in GameMaker Studio #4 - Wiggling text
+https://youtu.be/4yykf0pQTv8&list=PLhvuXCmibF5qwMA3zK_JYLKAHW3cGQNzt
+Videos 1-25

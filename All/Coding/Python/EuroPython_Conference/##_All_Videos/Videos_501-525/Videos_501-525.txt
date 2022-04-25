@@ -1,0 +1,76 @@
+
+Anastasiia Tymoshchuk - How to develop your project from an idea to architecture design in 50 minute
+https://youtu.be/QB59ZibEOZ0
+
+Anastasiia Tymoshchuk - Python Decorators Gift or Poison
+https://youtu.be/JiikQ6Hg-Ac
+
+Andrey Vlasovskikh - What makes coding for MicroPython different
+https://youtu.be/Hy0W8tBpZu4
+
+Anmol Krishan Sachdeva - Understanding and Implementing Recurrent Neural Networks using Python
+https://youtu.be/bSdBG7hToOg
+
+Antonia Mey - How is python used in biomolecular sciences
+https://youtu.be/NoTQLb0oN-4
+
+Antonio Verardi, Flavien Raynaud - How to write Rust instead of C, and get away with it yes, it's a
+https://youtu.be/u6ZbF4apABk
+
+Cheuk Ting Ho - Fuzzy Matching   Smart Way of Finding Similar Names Using Fuzzywuzzy
+https://youtu.be/NRAqIjXaZvw
+
+Craig Kerstiens - Postgres at any scale
+https://youtu.be/RJ5kRaBCV78
+
+Dan Taylor - From Zero to Azure with Python, Docker containers, and Visual Studio Code
+https://youtu.be/I1cG1FRjFOQ
+
+Daniele Procida - The naïve programmer
+https://youtu.be/JNGNuiXLAcY
+
+Doug Hellmann - reno - A New Way to Manage Release Notes
+https://youtu.be/tEOGJ_h0Lx0
+
+Elisabetta Bergamini - Bad hotel again Find your perfect match!
+https://youtu.be/ih2reTLOzWI
+
+Eulalia Veny - Recipe for text analysis in social media
+https://youtu.be/-S2sVhZ92PU
+
+EuroPython 2018 - Opening Session
+https://youtu.be/LoRq9yGeBWY
+
+Florian Wilhelm - Bridging the Gap from Data Science to Production
+https://youtu.be/ItcMqTR7Cds
+
+Franziska Schropp - How do I get the job I want
+https://youtu.be/jR-i5RS0Hy0
+
+Hrafn Eiriksson - Asyncio in production
+https://youtu.be/zM3cMTcmmk0
+
+Jiri Benes - Reliability in distributed systems
+https://youtu.be/JbZZlpEY3iA
+
+Marco Buttu - White Mars   living far away from any form of life
+https://youtu.be/9s0AUlyIbUU
+
+Nick Radcliffe - Quantum Computing   a Very Gentle Glimpse into a Possible Future
+https://youtu.be/OwzcvCx4FbY
+
+Peter Babics - Python, Docker, Kubernetes, and beyond 
+https://youtu.be/KF6lU_fm_Bg
+
+Peter Hoffmann - Using Pandas and Dask to work with large columnar datasets  in Apache Parquet
+https://youtu.be/fcPzcooWrIY
+
+Raniere Silva, Tania Sanchez Monroy - A Jupyter Enhancement Proposal Story
+https://youtu.be/G_OFsgPhtB0
+
+Yenny Cheung - Washing away code smells
+https://youtu.be/-8ljgLLlyZw
+
+Łukasz Kąkol - Pythonic code vs  performance
+https://youtu.be/1AqW9-E6VCM
+Videos 501-525
