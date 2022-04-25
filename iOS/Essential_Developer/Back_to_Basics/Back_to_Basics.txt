@@ -1,0 +1,22 @@
+
+#1 Reason Why You Don’t Improve As a Software Developer.url
+https://youtu.be/csm6kK8jUkY&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+
+Careful With “Singleton” Lookalikes (WAY TOO COMMON).url
+https://youtu.be/YrLzLiAoOnY&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+
+Composable Code Can Be Simple – Intro to dependency diagrams and composition.url
+https://youtu.be/Mk34R-Q9-RE&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+
+Decomposing Swift code into modules – Intro to modular design.url
+https://youtu.be/E0_3uTdCVew&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+
+How safe are Swift structs.url
+https://youtu.be/3zSuAkIt9jY&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+
+Many Advanced Developers Forget This.url
+https://youtu.be/nh5LipqIt4g&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+
+“How do you think when writing tests” – It’s simpler than you may think.url
+https://youtu.be/9CyIrbCNWPs&list=PLyjgjmI1UzlT2jbk9WeqNrZhZyKpPPaWq
+Back to Basics

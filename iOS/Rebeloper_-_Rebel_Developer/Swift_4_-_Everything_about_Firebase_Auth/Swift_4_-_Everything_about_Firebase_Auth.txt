@@ -1,0 +1,37 @@
+
+Cloud Firestore Tutorial for iOS - (with Firebase authentication!).url
+https://youtu.be/P1cNScXGlVI&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Facebook Login Swift - Firebase Authentication.url
+https://youtu.be/D4Ex2QgBy4A&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Authentication iOS - Install Firebase Tools.url
+https://youtu.be/ZSMO3y5b9B0&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Database - Firebase User Profile.url
+https://youtu.be/zXqOZiTLGfs&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Database Tutorial - Fetch User Profile.url
+https://youtu.be/s8F1qMAFe3I&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Sign Out - Firebase Authentication iOS.url
+https://youtu.be/9-2G0EEQqlU&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Social Login - Twitter iOS Integration.url
+https://youtu.be/VExDPgNIPTw&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Tutorial - Catching Errors.url
+https://youtu.be/mmMxSB8Hwqk&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Firebase Users [LOGIC and UI].url
+https://youtu.be/Syv_5XDWPjY&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Passwordless Login with Firebase.url
+https://youtu.be/lTvurtlc2I0&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Setup & Login w Email & Password (Swift 4.0, iOS11, Xcode 9 Beta) - Swift & Firebase Part 1.url
+https://youtu.be/UPKCULKi0-A&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+
+Swift 3 Firebase Social Login - Facebook Authentication and Cocoapods.url
+https://youtu.be/iSszeW1aH6I&list=PL_csAAO9PQ8bz8zuW58igCHYoUIpmcljS
+Swift 4 - Everything about Firebase Authentication

@@ -1,0 +1,19 @@
+
+iOSSwift Concurrency Series 6 - Backporting to iOS 14.url
+https://youtu.be/JtOdOZWfAMQ&list=PLMRqhzcHGw1a4jFHEBitPwCtAgPxWldfy
+
+Swift Concurrency Lesson 1 - Creating Models and an APIService.url
+https://youtu.be/S5PYdqfyroI&list=PLMRqhzcHGw1a4jFHEBitPwCtAgPxWldfy
+
+Swift Concurrency Lesson 2 - VOODO and Creating the UI.url
+https://youtu.be/_tnbwaHpJpM&list=PLMRqhzcHGw1a4jFHEBitPwCtAgPxWldfy
+
+Swift Concurrency Lesson 3 - Improving the User Experience.url
+https://youtu.be/1wT7CytZjx0&list=PLMRqhzcHGw1a4jFHEBitPwCtAgPxWldfy
+
+Swift Concurrency Lesson 4 - Async and Await.url
+https://youtu.be/5oBiSNnSvdQ&list=PLMRqhzcHGw1a4jFHEBitPwCtAgPxWldfy
+
+Swift Concurrency Lesson 5 - Parallel Concurrency with Async Let.url
+https://youtu.be/x4tmu8wkDXA&list=PLMRqhzcHGw1a4jFHEBitPwCtAgPxWldfy
+iOS Concurrency

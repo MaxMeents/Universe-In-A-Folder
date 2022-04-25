@@ -1,0 +1,43 @@
+
+How to write Kickass Animated Circle Progress Bar (Ep 1).url
+https://youtu.be/O3ltwjDJaMk&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Is your App Slow Make it Responsive by Tracking Download Progress (Ep 2 - Swift).url
+https://youtu.be/ZaW-xPmjutA&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Make your App Come Alive - Pulsing Animation (Ep 3 - Swift).url
+https://youtu.be/lYVazkkjOb8&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Mastering Generics Is This The Most Advanced Swift Code You've Seen.url
+https://youtu.be/K0IO4QvFxnM&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Animations Awesome Facebook Pop Up! Press and Hold (Ep 1).url
+https://youtu.be/wbmTy32s7GQ&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Animations Custom Counting Label - CADisplayLink.url
+https://youtu.be/b3kZH1vfG2U&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Animations Facebook Shimmer using Gradient Masks.url
+https://youtu.be/RRuQZSbueJE&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Animations Hit Testing Facebook Like (Ep 2).url
+https://youtu.be/yGuaESsuxcg&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Create Facebook Live Stream Animation.url
+https://youtu.be/-DGnHfUDMgg&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift How to Chain Animations for Impressive Visual Effects.url
+https://youtu.be/xWNv-j75OQ8&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift How to Migrate MVC to MVVM & Intro Unit Testing.url
+https://youtu.be/n06RE9A_8Ks&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Magical Grid - Hash Map Views Dictionary (Ep 2).url
+https://youtu.be/tq6xh-zjbIM&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Magical Grid Animate Out Zoom Bounce Effect (Ep 3).url
+https://youtu.be/DPJh4qnzBXE&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+
+Swift Magical Grid to Tinder (Ep 1).url
+https://youtu.be/Wi713xoTVsU&list=PL0dzCUj1L5JFz8NarGPXtvEvaAqUOwaFU
+Swift Animations

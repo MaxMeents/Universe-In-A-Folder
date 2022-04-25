@@ -1,0 +1,28 @@
+
+3D Earth in Augmented Reality with ARKit and SceneKit - 424 Days of Swift Tutorials 🎄.url
+https://youtu.be/4aIVHV5Q7a0&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+ARKit 2 Tutorial Create an AR Shopping Experience - Scan & Detect Real 3D Objects.url
+https://youtu.be/FEqBW3cKF2k&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+ARKit 2 Tutorial Magical Image Detection and 3D Tracking.url
+https://youtu.be/ySYFZwkZoio&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+ARKit Augmented Reality Plane Detection & Light Estimation.url
+https://youtu.be/mkD5Jw-bLLs&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+ARKit Tutorial Simple Augmented Reality Game.url
+https://youtu.be/R8U8rGdMop4&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+Create an Interactive 3D Earth with Scene Kit - 324 Days of Swift Tutorials 🎄.url
+https://youtu.be/3rpNDENQgPM&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+iOS Swift 4 Game Tutorial Create 3D Levels with SceneKit Editor 🕹.url
+https://youtu.be/pV_1lPjSZrg&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+iOS Swift 4 Tutorial Create a Cool 3D Game with Scene Kit.url
+https://youtu.be/zo-hDMNJmog&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+
+iOS Swift Tutorial Create a simple 3D Game with Scene Kit.url
+https://youtu.be/haZmF3ZYIYc&list=PLY1P2_piiWEb2zI3XCZi3LSQJVuGf32de
+Scene Kit

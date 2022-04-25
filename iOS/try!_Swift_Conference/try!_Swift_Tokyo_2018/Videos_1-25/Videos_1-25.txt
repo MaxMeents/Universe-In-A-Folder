@@ -1,0 +1,76 @@
+
+try! Swift Tokyo 2018 -  Introducing Charles for iOS.url
+https://youtu.be/RWotEyTeJhc&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - A Secret Swift Tour.url
+https://youtu.be/Mzb_wJU29Fo&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - AST Meta-programming.url
+https://youtu.be/XG3yxw8lRJc&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Best Docker Container in Swift.url
+https://youtu.be/AVkKkl5ZlYo&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Codable Routing with Kitura.url
+https://youtu.be/5ciZS7Cxyp0&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Designing Experiences With Augmented Reality.url
+https://youtu.be/r5eWys9B-no&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Event driven networking for Swift.url
+https://youtu.be/QJ3WG9kRLMo&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Exploring Clang Modules.url
+https://youtu.be/o3HG0Z3yc5c&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Finally Solving the Expression Problem.url
+https://youtu.be/e7VEOsbYQM4&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Getting to Know the Responder Chain.url
+https://youtu.be/C-aHJt6ieXI&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Investing time into developer tools and experience.url
+https://youtu.be/yAQQ0cIxSF8&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Kotlin For Swift Developers.url
+https://youtu.be/JK2s6n80Sl8&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Optimizing Swift code for separation of concerns and simplicity.url
+https://youtu.be/LKKnmr3GKFM&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Preparing for Swift 5 Ownership.url
+https://youtu.be/O1U1JQT5bG4&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Protocol Oriented WebAPI Abstraction.url
+https://youtu.be/e9o63D8PWCM&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Should coders design.url
+https://youtu.be/1f7sFJvJYqk&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - SIL for First Time Learners.url
+https://youtu.be/sT0SNp-Tw-8&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Super Resolution with CoreML.url
+https://youtu.be/E65lXzau_0Y&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Swift in my home.url
+https://youtu.be/Tef9pK84Tgg&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Swift Peer Lab Barcelona.url
+https://youtu.be/A5ms8gsTa2U&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - SwiftyPi.url
+https://youtu.be/xnGOLSI45Mw&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - The diamond of variance.url
+https://youtu.be/sXnAmTSm3T4&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - UI Testing for Fun and Profit.url
+https://youtu.be/Ie_MF8B5f6E&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Using Swift to Visualize Algorithms.url
+https://youtu.be/7e13FierAF8&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+
+try! Swift Tokyo 2018 - Writing Blockchain Clients in Swift.url
+https://youtu.be/Y5X4MlgnJbY&list=PLCl5NM4qD3u92PwamgwWr3e_j3GmKRVTs
+Videos 1-25

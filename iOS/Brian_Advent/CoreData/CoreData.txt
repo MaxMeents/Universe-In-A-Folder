@@ -1,0 +1,31 @@
+
+Cocoa Tutorial Core Data Introduction in iOS and Mac OS Programming Part 1.url
+https://youtu.be/icB_6ZydCUM&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+Cocoa Tutorial Core Data Introduction in iOS and Mac OS Programming Part 2.url
+https://youtu.be/imGTX_YJMa8&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+Cocoa Tutorial Core Data Introduction in iOS and Mac OS Programming Part 3.url
+https://youtu.be/H2BxGEGyeLg&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS 13 Swift Tutorial SwiftUI and Core Data - Build a To-Do List App.url
+https://youtu.be/-BZdQmHV4MQ&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS Swift CoreData Tutorial Create a real world App Part 1.url
+https://youtu.be/K6PfveuxUEk&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS Swift CoreData Tutorial Create a real world App Part 2.url
+https://youtu.be/Fv-A8lKn7VY&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS Swift CoreData Tutorial RSS Feed Reader.url
+https://youtu.be/jootsUaCvAU&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS Swift RSS Reader Tutorial Part 2 Adding images.url
+https://youtu.be/B277_kz-ny0&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS Swift Tutorial Get started with Core Data and Swift 3 - A Present App.url
+https://youtu.be/bnxQQgHL1hM&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+
+iOS Swift Tutorial iCloud Notebook App with CoreData.url
+https://youtu.be/SG_XSD84WOc&list=PLY1P2_piiWEaURyLJNfT8mygovz2rGrVl
+CoreData

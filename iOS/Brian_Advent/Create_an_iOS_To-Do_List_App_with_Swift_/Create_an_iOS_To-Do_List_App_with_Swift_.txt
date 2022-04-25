@@ -1,0 +1,16 @@
+
+Create a To-Do List App Data Model for local storage - JSON and Codable.url
+https://youtu.be/5ZUVCyOvZto&list=PLY1P2_piiWEavvZ0rR_ZJOpmFqTjgDTNl
+
+Create an Awesome To-Do List App Design with Adobe XD.url
+https://youtu.be/IVp12uLwZmU&list=PLY1P2_piiWEavvZ0rR_ZJOpmFqTjgDTNl
+
+iOS Swift Tutorial Transfer Data with the Multipeer Connectivity Framework.url
+https://youtu.be/H5c4vo6p5Fg&list=PLY1P2_piiWEavvZ0rR_ZJOpmFqTjgDTNl
+
+Simple UI, Custom Delegate and TableViewCells Swift Tutorial.url
+https://youtu.be/VxAlvrwIeQM&list=PLY1P2_piiWEavvZ0rR_ZJOpmFqTjgDTNl
+
+Swift Tutorial From UI Design to Real iOS App.url
+https://youtu.be/HnJIVX3boK0&list=PLY1P2_piiWEavvZ0rR_ZJOpmFqTjgDTNl
+Create an iOS To-Do List App with Swift and Xcode

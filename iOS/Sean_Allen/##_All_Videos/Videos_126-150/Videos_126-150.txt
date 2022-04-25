@@ -1,0 +1,76 @@
+
+Beginners - Learn SwiftUI or UIKit.url
+https://youtu.be/QdnzU9jx9yw
+
+Common Beginner iOS Dev Mistakes - From Sr. Developers.url
+https://youtu.be/-8PquirNfEY
+
+Icons & Illustrations for your iOS App  Shape.so.url
+https://youtu.be/gUGKMgJRxvQ
+
+iOS App Design Resources & Inspiration.url
+https://youtu.be/DnfNCBHo-qU
+
+iOS Dev Q&A - May 2020.url
+https://youtu.be/v0pds7K0jBg
+
+iOS Developer Portfolios  Review & Showcase.url
+https://youtu.be/wKdVqo7wTA8
+
+iOS Developer Portfolios June 2020  Review & Showcase.url
+https://youtu.be/Wa9Xj3iNhe0
+
+My iOS Developer Story - iOS Dev Launchpad Preview Part 2.url
+https://youtu.be/6U_wgT5ekrc
+
+Swift - Basic Types - String, Int, Bool, Float, Double.url
+https://youtu.be/CcORJhKMelQ
+
+Swift - Convenience Initializers.url
+https://youtu.be/IPrYRyd2qQU
+
+Swift - Result Type - Cleaner Network Calls.url
+https://youtu.be/8aPjqLqUEKA
+
+Swift 5.3, macOS SwiftUI, iPadOS Cursor Support, GitHub Mobile & More.url
+https://youtu.be/NB9CPQIGiXw
+
+Swift Basics - Array  Sort, Reverse, Shuffle.url
+https://youtu.be/mWKYpRxjhJs
+
+Swift Basics - Variables and Constants.url
+https://youtu.be/2cazK9Cg2Nw
+
+Swift Closures @escaping Explained.url
+https://youtu.be/xiS5gJOIQxI
+
+Swift Dynamic Type, Stanford SwiftUI, Server Side Swift, Remote Work & More.url
+https://youtu.be/PGnvXUV7ALg
+
+Swift Enum - Basics, Raw Values, Associated Values, CaseIterable & More.url
+https://youtu.be/CdBL7m1AeII
+
+Swift For Beginners - Class & Inheritance Explained.url
+https://youtu.be/EhDML-fAqTM
+
+Swift Programming Language Introduction - A Brief History.url
+https://youtu.be/4P_ZsOqELBo
+
+What's New in Xcode 12  WWDC 2020.url
+https://youtu.be/MMoJiZZWoCA
+
+WWDC 2020 Content, SwiftUI, AirBnB Calendar, Accessibility & More!.url
+https://youtu.be/CNA4KeIhLEg
+
+WWDC 2020, Multiple Trailing Closures, MVC, SwiftUI, Selling an App & More.url
+https://youtu.be/OqPX722084g
+
+WWDC 2020, SwiftUI Type, Indie Dev, Dependencies & More.url
+https://youtu.be/DMnX38G56N0
+
+Xcode - What is it - How to Download & Customize.url
+https://youtu.be/F_1d5KOwjTo
+
+Xcode Breakpoints - Basic Debugging  Swift.url
+https://youtu.be/qPWfOkHcKdU
+Videos 126-150

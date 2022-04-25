@@ -1,0 +1,34 @@
+
+iOS Camera Capture Tutorial.url
+https://youtu.be/LyFijrVmfvs
+
+iOS Collection View Tutorial.url
+https://youtu.be/7SGJrb2afpA
+
+iOS Modal Programmatic Segue Tutorial.url
+https://youtu.be/o0vV8Chz4hU
+
+iOS Navigation Controller Tutorial.url
+https://youtu.be/B7jJzmZPPl0
+
+iOS Programmatic Autolayout Tutorial.url
+https://youtu.be/JwYsMKhfoG0
+
+iOS Programmatic Views Tutorial.url
+https://youtu.be/zN2pKOD4fr0
+
+iOS Tab Bar Controller Tutorial.url
+https://youtu.be/yzImO9HdbFo
+
+iOS Table View Controller Tutorial.url
+https://youtu.be/-tRQmVkrfHc
+
+iOS Table View Delegate Tutorial.url
+https://youtu.be/Q_IktHZGzi4
+
+iOS URLSession Tutorial.url
+https://youtu.be/KQ9UWqUR4wk
+
+Swift Tutorial #1 - Variables and Data Types.url
+https://youtu.be/gK9djFZOe5g
+Videos 76-86

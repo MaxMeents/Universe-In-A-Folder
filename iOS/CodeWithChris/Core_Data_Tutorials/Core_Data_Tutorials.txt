@@ -1,0 +1,16 @@
+
+Core Data Tutorial - Lesson 1 Core Data Basics.url
+https://youtu.be/6XASUd7h5-s&list=PLMRqhzcHGw1aDYKmCuqXQ_IqpWpJlpoJ3
+
+Core Data Tutorial - Lesson 2 Set up Core Data in Your Xcode Project (New or Existing).url
+https://youtu.be/1jv0zDUypcA&list=PLMRqhzcHGw1aDYKmCuqXQ_IqpWpJlpoJ3
+
+Core Data Tutorial - Lesson 3 CRUD - Create, Retrieve, Update, and Delete.url
+https://youtu.be/gWurhFqTsPU&list=PLMRqhzcHGw1aDYKmCuqXQ_IqpWpJlpoJ3
+
+Core Data Tutorial - Lesson 4 Sorting and Filtering.url
+https://youtu.be/cyLg8mKLtBo&list=PLMRqhzcHGw1aDYKmCuqXQ_IqpWpJlpoJ3
+
+Core Data Tutorial - Lesson 5 Entities and Relationships.url
+https://youtu.be/hEz1cUZdsCE&list=PLMRqhzcHGw1aDYKmCuqXQ_IqpWpJlpoJ3
+Core Data Tutorials

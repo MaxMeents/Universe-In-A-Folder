@@ -1,0 +1,76 @@
+
+try! Swift New York 2016 - Architectural Superpowers.url
+https://youtu.be/jl5ykrXJRgY
+
+try! Swift Tokyo 2016 - Contributing to Open Source Swift.url
+https://youtu.be/Ysa2n8ZX-YY
+
+try! Swift Tokyo 2016 - Creating a Swift Library.url
+https://youtu.be/QcwGd3iKC0U
+
+try! Swift Tokyo 2016 - Design of Everyday Swift.url
+https://youtu.be/CsuW_EfDJ6k
+
+try! Swift Tokyo 2016 - Practical Cross-Platform Swift.url
+https://youtu.be/xhv-O_s-gBk
+
+try! Swift Tokyo 2017 - Providing Better Feedback in Real-time Object Detection Apps.url
+https://youtu.be/gT-3VFkOPCw
+
+try! Swift Tokyo 2017 - Server-Side Swift Live Coding.url
+https://youtu.be/Zhual7IZkN4
+
+try! Swift Tokyo 2017 - The Safety of Unsafe Swift.url
+https://youtu.be/pxMy_MC3Z3M
+
+try! Swift Tokyo 2017 - Why We Climb.url
+https://youtu.be/y6nmicqDSSA
+
+try! Swift Tokyo 2018 -  Introducing Charles for iOS.url
+https://youtu.be/RWotEyTeJhc
+
+try! Swift Tokyo 2018 - AST Meta-programming.url
+https://youtu.be/XG3yxw8lRJc
+
+try! Swift Tokyo 2018 - Designing Experiences With Augmented Reality.url
+https://youtu.be/r5eWys9B-no
+
+try! Swift Tokyo 2018 - Investing time into developer tools and experience.url
+https://youtu.be/yAQQ0cIxSF8
+
+try! Swift Tokyo 2018 - Kotlin For Swift Developers.url
+https://youtu.be/JK2s6n80Sl8
+
+try! Swift Tokyo 2018 - Preparing for Swift 5 Ownership.url
+https://youtu.be/O1U1JQT5bG4
+
+try! Swift Tokyo 2018 - Super Resolution with CoreML.url
+https://youtu.be/E65lXzau_0Y
+
+try! Swift Tokyo 2018 - SwiftyPi.url
+https://youtu.be/xnGOLSI45Mw
+
+try! Swift Tokyo 2018 - The diamond of variance.url
+https://youtu.be/sXnAmTSm3T4
+
+try! Swift Tokyo 2018 - Using Swift to Visualize Algorithms.url
+https://youtu.be/7e13FierAF8
+
+try! Swift Tokyo 2018 - Writing Blockchain Clients in Swift.url
+https://youtu.be/Y5X4MlgnJbY
+
+try! Swift Tokyo 2018 Group Photo.url
+https://youtu.be/_vEh16VprWY
+
+try! Swift Tokyo 2018 Live Digital Painting.url
+https://youtu.be/1JaemiPVzyY
+
+try! Swift Tokyo 2018 Magic ( Card & Chair Trick ).url
+https://youtu.be/LqcNpV69c2Y
+
+try! Swift Tokyo 2018 Magic ( Floating on the air ).url
+https://youtu.be/uA4v7bLM33Y
+
+try! Swift Tokyo 2018 Party.url
+https://youtu.be/GXpuvUPryv8
+Videos 126-150

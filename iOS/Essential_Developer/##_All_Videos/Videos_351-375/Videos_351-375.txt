@@ -1,0 +1,76 @@
+
+Average vs High iOS Dev Salaries Breaking free from market caps  iOS Lead Essentials Podcast #006.url
+https://youtu.be/w1HjhCSE7Pk
+
+Clean iOS Architecture 101 Ambient Context Anti-pattern.url
+https://youtu.be/eXlZ57nF3xs
+
+Clean iOS Architecture 101 Composition Root.url
+https://youtu.be/3RLSvbLznAY
+
+Clean iOS Architecture 101 Default parameters anti-pattern.url
+https://youtu.be/EHLpPickQJg
+
+Clean iOS Architecture 101 Dependency Inversion Principle.url
+https://youtu.be/hnwVVfkrRDM
+
+Clean iOS Architecture 101 DI vs DIP (SOLID).url
+https://youtu.be/-27dxyaXsJU
+
+Clean iOS Architecture 101 Initializer Injection.url
+https://youtu.be/b9SaXdqHIds
+
+Clean iOS Architecture 101 Interface Segregation Principle.url
+https://youtu.be/8E_UcsYdGQw
+
+Clean iOS Architecture 101 Liskov Substitution Principle.url
+https://youtu.be/fruOH4N5JEs
+
+Clean iOS Architecture 101 OpenClosed Principle.url
+https://youtu.be/ASDRBwMdYfY
+
+Clean iOS Architecture 101 Single Responsibility Principle.url
+https://youtu.be/FA1uUGZcN2U
+
+Clean iOS Architecture 101 Single Responsibility Violations.url
+https://youtu.be/ipgWqkIpzi8
+
+Clean iOS Architecture 101 Tiny Composable Types.url
+https://youtu.be/IRDGyiuLQEo
+
+Clean iOS Architecture Class Inheritance is not for....url
+https://youtu.be/90T6WzlF2A0
+
+Composition in iOSSwift A key element of clean app architecture  iOS Lead Essentials Podcast #007.url
+https://youtu.be/CLoEohGXBiE
+
+Do you want a remarkable iOS career.url
+https://youtu.be/dKQxxRtyfs4
+
+How to know if you have a SOLID iOS codebase.url
+https://youtu.be/QPu6OVo9IVA
+
+How to learn and apply the SOLID principles in iOS.url
+https://youtu.be/HFCfZzxGPRE
+
+How to never suffer from deadlines, pressure & lack of time again  iOS Lead Essentials Podcast #004.url
+https://youtu.be/R1318Hqk5C8
+
+How wealthy iOS developers think about code.url
+https://youtu.be/tocTAW61qTs
+
+iOS Devs, deliver more value instead of working more.url
+https://youtu.be/MZ3kMzLX4Lw
+
+SOLID iOSSwift Apps 5 ways to become a well-paid iOS dev faster  iOS Lead Essentials Podcast #005.url
+https://youtu.be/ltyI-o3DFtQ
+
+The principles behind amazing iOS codebases.url
+https://youtu.be/UGlJxBYoRMg
+
+This is why it's so valuable to master iOS architecture.url
+https://youtu.be/afBB71tLP_k
+
+Why remarkable iOS devs build trust in the dev team.url
+https://youtu.be/t798FOMX1Uo
+Videos 351-375

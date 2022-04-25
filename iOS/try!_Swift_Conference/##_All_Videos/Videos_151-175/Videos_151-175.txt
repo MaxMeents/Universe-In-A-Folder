@@ -1,0 +1,76 @@
+
+try! Swift NYC 2016 - Healthy Minds in a Healthy Community.url
+https://youtu.be/XBFO92t7-4Q
+
+try! Swift NYC 2016 - Random Talk The Consistent World of Noise.url
+https://youtu.be/P46zvGW53l8
+
+try! Swift NYC 2017 - Machine Ethics and Emerging Technologies.url
+https://youtu.be/V6dZ1Go0DI0
+
+try! Swift NYC 2017 - The Role of being Technical in Technical Leadership.url
+https://youtu.be/hobKWXnxtMw
+
+try! Swift Tokyo 2017 - 3D Touch Bring Your Apps to a New Dimension.url
+https://youtu.be/gIzW-yHJusQ
+
+try! Swift Tokyo 2017 - A Neatly Typed Message Improving Code Readability.url
+https://youtu.be/YT0Qw7-irPU
+
+try! Swift Tokyo 2017 - Architecting a Robust Color System with Swift.url
+https://youtu.be/ta1PO9xNneY
+
+try! Swift Tokyo 2017 - Building a Swift Web API.url
+https://youtu.be/e2pbzVSVlUQ
+
+try! Swift Tokyo 2017 - Building Your Own Tools.url
+https://youtu.be/Rug4ZY3Avq8
+
+try! Swift Tokyo 2017 - Crafting Collaborative Apps with Realm.url
+https://youtu.be/HCjAnF4Q1ko
+
+try! Swift Tokyo 2017 - Document Indexing and App Search in iOS.url
+https://youtu.be/_ZB0cIT-zBc
+
+try! Swift Tokyo 2017 - Everyday Reactive.url
+https://youtu.be/3HGsKizRFj0
+
+try! Swift Tokyo 2017 - Everything a Swift Dev Needs to Know About Machine Learning.url
+https://youtu.be/OsnfQsBpKIs
+
+try! Swift Tokyo 2017 - Lessons in Swift Error Handling and Resilience.url
+https://youtu.be/H54gj7zp0y8
+
+try! Swift Tokyo 2017 - Making Mock Objects More Useful.url
+https://youtu.be/xiq4Uiy1C0c
+
+try! Swift Tokyo 2017 - Minimizing Decision Fatigue to Improve Team Productivity.url
+https://youtu.be/vgDKETrs67s
+
+try! Swift Tokyo 2017 - Pixels, Process, and Passion.url
+https://youtu.be/Tr2hNEqTiOQ
+
+try! Swift Tokyo 2017 - Scaling Open Source Communities.url
+https://youtu.be/vFoBB-CGKQ0
+
+try! Swift Tokyo 2017 - Startup Swift.url
+https://youtu.be/MvRspWPw_eE
+
+try! Swift Tokyo 2017 - Swift Chatbots for Fun! and Profit.url
+https://youtu.be/h0t8rlDGp74
+
+try! Swift Tokyo 2017 - Swift on Android The Future of Cross-Platform Programming.url
+https://youtu.be/1yvxxuB8EgA
+
+try! Swift Tokyo 2017 - Swift's Pointy Bits Unsafe Swift & Pointer Types.url
+https://youtu.be/zFEpNtAZi9o
+
+try! Swift Tokyo 2017 - Tasting Tests at Cookpad.url
+https://youtu.be/0zXSQlyiNdI
+
+try! Swift Tokyo 2017 - Writing Your UI Swiftly.url
+https://youtu.be/w38s9r6KILs
+
+try! Swift Tokyo 2018 - Event driven networking for Swift.url
+https://youtu.be/QJ3WG9kRLMo
+Videos 151-175

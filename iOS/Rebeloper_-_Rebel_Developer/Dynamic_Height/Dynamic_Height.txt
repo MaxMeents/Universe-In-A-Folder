@@ -1,0 +1,7 @@
+
+UILabel Swift.url
+https://youtu.be/cbaLqApo7dA&list=PL_csAAO9PQ8ZE0JJaSxD31XuVovqmRrwj
+
+UITextView Swift.url
+https://youtu.be/QiOmWBEl9zU&list=PL_csAAO9PQ8ZE0JJaSxD31XuVovqmRrwj
+Dynamic Height

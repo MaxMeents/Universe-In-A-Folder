@@ -1,0 +1,76 @@
+
+3D Earth in Augmented Reality with ARKit and SceneKit - 424 Days of Swift Tutorials 🎄.url
+https://youtu.be/4aIVHV5Q7a0&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Apple Watch in 2018 What about 3rd Party Apps.url
+https://youtu.be/2jSvDwmqYiM&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+ARKit 2 Tutorial Create an AR Shopping Experience - Scan & Detect Real 3D Objects.url
+https://youtu.be/FEqBW3cKF2k&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+ARKit 2 Tutorial Magical Image Detection and 3D Tracking.url
+https://youtu.be/ySYFZwkZoio&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+ARKit Augmented Reality Plane Detection & Light Estimation.url
+https://youtu.be/mkD5Jw-bLLs&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+ARKit, Core ML, iOS Job Interviews and much more in the STC17 Conference Bundle.url
+https://youtu.be/Im_L0lvB5dY&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Coolest WWDC18 Announcements.url
+https://youtu.be/C7j3nw8aPOc&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Create a To-Do List App Data Model for local storage - JSON and Codable.url
+https://youtu.be/5ZUVCyOvZto&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Create an Interactive 3D Earth with Scene Kit - 324 Days of Swift Tutorials 🎄.url
+https://youtu.be/3rpNDENQgPM&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+How to Make a Simple Drawing App - 124 Days of Swift Tutorials 🎄.url
+https://youtu.be/ZP9tWkTx7p4&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+How to Solve Problems as a Developer - 624 Days of Swift Tutorials 🎄.url
+https://youtu.be/7ehu0R1dY7I&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS 12 Swift Tutorial Awesome new Xcode 10 Features.url
+https://youtu.be/RwO5HKuqLEg&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS 12 Swift Tutorial Create a Fruit Classifier with Create ML.url
+https://youtu.be/Ab1yp8reT8g&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Design Tutorial Prototyping and its Benefits with Framer X.url
+https://youtu.be/Weo5mdMeF28&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift 4 Game Tutorial Create 3D Levels with SceneKit Editor 🕹.url
+https://youtu.be/pV_1lPjSZrg&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift 4 Tutorial Create a Cool 3D Game with Scene Kit.url
+https://youtu.be/zo-hDMNJmog&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial App like Twitter with Firestore Cloud Database.url
+https://youtu.be/XwXEsKRYUXU&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Cloud Firestore Database - Basics and Xcode Integration.url
+https://youtu.be/PdLzuwBrmSg&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Create a Game that is Controlled by Your Face - Face Tracking.url
+https://youtu.be/LuvfNhKFnag&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Create Beautiful Charts 📊.url
+https://youtu.be/GNf-SsDBQ20&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Git Version Control with Xcode 9.url
+https://youtu.be/RWlG08FM5FA&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial RxSwift - A Practical Introduction.url
+https://youtu.be/2m92mRI8l7U&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Recognize Handwriting with Core ML - 224 Days of Swift Tutorials 🎄.url
+https://youtu.be/bOg8AZSFvOc&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Simple UI, Custom Delegate and TableViewCells Swift Tutorial.url
+https://youtu.be/VxAlvrwIeQM&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Why I bought the iPhone 8 Plus instead of the iPhone X.url
+https://youtu.be/fF167coDq6Y&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+Videos 51-75

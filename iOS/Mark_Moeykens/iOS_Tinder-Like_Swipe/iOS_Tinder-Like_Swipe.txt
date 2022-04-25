@@ -1,0 +1,16 @@
+
+iOS Tinder-Like Swipe - Part 1- UIPanGestureRecognizer (Xcode 8, Swift 3).url
+https://youtu.be/0fXR-Ksuqo4&list=PLHDMmeIMXj8VH2Q-ASaS__bwIV7vpyu00
+
+iOS Tinder-Like Swipe - Part 2 - Fading image in and out (Xcode 8, Swift 3).url
+https://youtu.be/5hXPnipCDBQ&list=PLHDMmeIMXj8VH2Q-ASaS__bwIV7vpyu00
+
+iOS Tinder-Like Swipe - Part 3 - Animating card off screen (Xcode 8, Swift 3).url
+https://youtu.be/sBnqFLJqn9M&list=PLHDMmeIMXj8VH2Q-ASaS__bwIV7vpyu00
+
+iOS Tinder-Like Swipe - Part 4 - Rotating the Card (Xcode 8, Swift 3).url
+https://youtu.be/F5Rh4kDongo&list=PLHDMmeIMXj8VH2Q-ASaS__bwIV7vpyu00
+
+iOS Tinder-Like Swipe - Part 5 - Scaling the Card (Xcode 8, Swift 3).url
+https://youtu.be/BHXk-W8mv4o&list=PLHDMmeIMXj8VH2Q-ASaS__bwIV7vpyu00
+iOS Tinder-Like Swipe

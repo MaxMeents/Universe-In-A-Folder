@@ -1,0 +1,34 @@
+
+## All Videos
+/iOS/Code_Pro/##_All_Videos/##_All_Videos.txt
+
+### All Playlists Below
+/iOS/Code_Pro/###_All_Playlists_Below/###_All_Playlists_Below.txt
+
+All about TableViews
+/iOS/Code_Pro/All_about_TableViews/All_about_TableViews.txt
+
+CC++ Programming Tutorials
+/iOS/Code_Pro/CC++_Programming_Tutorials/CC++_Programming_Tutorials.txt
+
+Core Data Tutorials
+/iOS/Code_Pro/Core_Data_Tutorials/Core_Data_Tutorials.txt
+
+Dev Tips
+/iOS/Code_Pro/Dev_Tips/Dev_Tips.txt
+
+iOS Design Patterns
+/iOS/Code_Pro/iOS_Design_Patterns/iOS_Design_Patterns.txt
+
+Map Kit Tutorial Series
+/iOS/Code_Pro/Map_Kit_Tutorial_Series/Map_Kit_Tutorial_Series.txt
+
+Protocols and Delegates Tutorial Series
+/iOS/Code_Pro/Protocols_and_Delegates_Tutorial_Series/Protocols_and_Delegates_Tutorial_Series.txt
+
+Swift Beginner Programming Series
+/iOS/Code_Pro/Swift_Beginner_Programming_Series/Swift_Beginner_Programming_Series.txt
+
+Swift Programming Tutorials
+/iOS/Code_Pro/Swift_Programming_Tutorials/Swift_Programming_Tutorials.txt
+Code Pro

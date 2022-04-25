@@ -1,0 +1,7 @@
+
+#1 ExpressibleByStringLiteral.url
+https://youtu.be/JGQGChZk8t4&list=PLDMXqpbtInQhZhPJ1BciI1KqT5C34_8Eo
+
+#2 Custom Initializers for Swift Structures.url
+https://youtu.be/Zle98sk0dtM&list=PLDMXqpbtInQhZhPJ1BciI1KqT5C34_8Eo
+2mindev

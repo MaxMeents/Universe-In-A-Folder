@@ -1,0 +1,76 @@
+
+If you're an iOS DEV, you need to learn this  ED Clips.url
+https://youtu.be/hTXLQP40YNg
+
+iOS DEV Avoid the Frankenstein Architecture!  ED Clips.url
+https://youtu.be/MV0u61Qj5aw
+
+iOS DEV Can you test SwiftUI Views  ED Clips.url
+https://youtu.be/CJtNB63wW4I
+
+iOS DEV Clean architecture practical example  ED Clips.url
+https://youtu.be/JW61neoRIM0
+
+iOS DEV Decouple presentation layer and views using dependency inversion  ED Clips.url
+https://youtu.be/CYXIeuyFt00
+
+iOS DEV Design patterns are guidelines, not templates!  ED Clips.url
+https://youtu.be/f0IctSs6k2M
+
+iOS DEV Focus on fundamentals!  ED Clips.url
+https://youtu.be/UFmAxvRkW3E
+
+iOS DEV How decorators can help you simplify business logic  ED Clips.url
+https://youtu.be/fEB9twa4RIU
+
+iOS DEV How to organize files in the Composition Root  ED Clips.url
+https://youtu.be/NPp7r4e9iwA
+
+iOS DEV How to test CombineRxSwift publishers fast  ED Clips.url
+https://youtu.be/rGRM_9ipSUg
+
+iOS DEV If you are a beginner, take this tip!  ED Clips.url
+https://youtu.be/ivG_42OOH8I
+
+iOS DEV Is it better to use delegates or closures for async operations  ED Clips.url
+https://youtu.be/GZooPomXiF4
+
+iOS DEV Replace UIKit with SwiftUI without re-writing the application  ED Clips.url
+https://youtu.be/FRl2rCWuoKU
+
+iOS DEV Should you decouple your tests from UIKit  ED Clips.url
+https://youtu.be/qGZ1lyX9hJg
+
+iOS DEV Theory without practice isn't enough  ED Clips.url
+https://youtu.be/VCfFzT2L_58
+
+iOS DEV There's nothing wrong with doing this, but...  ED Clips.url
+https://youtu.be/ifqz8xX5VVA
+
+iOS DEV This DI pattern can save you time!  ED Clips.url
+https://youtu.be/wtFJ0v3uevs
+
+iOS DEV This will help you sleep better at night  ED Clips.url
+https://youtu.be/n2JtaxG6czc
+
+iOS DEV Watch this if you're coupling your app with frameworks.  ED Clips.url
+https://youtu.be/lpVSMGMcYcU
+
+iOS DEV Where should you start from refactoring and testing legacy projects  ED Clips.url
+https://youtu.be/qssPSJKXKe4
+
+iOS DEV Why we should avoid those Anti-Patterns  ED Clips.url
+https://youtu.be/nOpZkvSTVKU
+
+iOS DEV Why we use diagrams  ED Clips.url
+https://youtu.be/Bg2dmZhkxTk
+
+iOS DEV You don't need to load SDKs as soon as you start the app  ED Clips.url
+https://youtu.be/Lef8SMz8UkQ
+
+Live Senior iOS Dev Interview Code Test review & preparation  iOS Dev Live Mentoring.url
+https://youtu.be/GSjPtWpUtxg
+
+MVVM guidelines for iOS developers to improve at work and interviews  iOS Dev Live Mentoring.url
+https://youtu.be/4sRZkqgrxlE
+Videos 51-75

@@ -1,0 +1,46 @@
+
+2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass).url
+https://youtu.be/F2ojC6TNwws&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+Basic SwiftUI Layout Containers and UI Elements.url
+https://youtu.be/rmTQcILJRcY&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+Improving the SwiftUI Slots App.url
+https://youtu.be/aLSzgZtOpG8&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SFSymbols - Why use them.url
+https://youtu.be/HjX4cAcvAWc&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+State Properties in SwiftUI - Lesson 4.url
+https://youtu.be/wQLOWv8l7yI&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI - How to do Navigation in your Swift UI app.url
+https://youtu.be/wbFuAs_UNYg&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI - How To Handle User Input Tutorial.url
+https://youtu.be/6PO0k8GlxWA&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI Animations - 3 Simple Techniques (ft. Mark Moeykens).url
+https://youtu.be/K00oSg1gm_0&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI App Tutorial War Card Game.url
+https://youtu.be/lIxq4TCdlRU&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI Basics for Beginners (2020).url
+https://youtu.be/IIDiqgdn2yo&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI Data Flow and View Composition Tutorial.url
+https://youtu.be/NKRJmWKB_Z8&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI Modifiers (Customize Your SwiftUI Elements) - Lesson 3.url
+https://youtu.be/MJP60XnN4us&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI Slots Challenge Solution.url
+https://youtu.be/LME6cZ-2Vuc&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI Tutorial Build a Slots App.url
+https://youtu.be/51Z9Kun7tFo&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+
+SwiftUI vs UIKit (See UI built 3 different ways).url
+https://youtu.be/R017vWz7FOY&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI
+SwiftUI Tutorials for Beginners

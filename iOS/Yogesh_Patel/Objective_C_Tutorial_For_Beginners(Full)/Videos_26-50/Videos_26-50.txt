@@ -1,0 +1,76 @@
+
+Application LifeCycle & Objective C Properties & ViewController LifeCycle in  iOS Latest 2017 Hindi..url
+https://youtu.be/eAn1Bu50u80&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C - How To Create GIF And Image Animation in iOS Latest 2017(Hindi)..url
+https://youtu.be/-BmaNlNotzk&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C - How To Make SideBar Menu(Slide Out Menu) in iOS Latest 2017(Hindi)..url
+https://youtu.be/7DSS2j22Opw&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C(GET)- How to parse Json GET Method Using NSURlSession in iOS Latest 2017(Hindi)..url
+https://youtu.be/lb3R6j7d6TA&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C(POST)- How to parse Json Post Method Using NSURlSession in iOS Latest 2017(Hindi)..url
+https://youtu.be/BqbazkY2pS4&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- Facebook integration with Cocoapods in iOS Latest 2017(Hindi)..url
+https://youtu.be/YEpc322mm-4&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- Google LoginSign-in integration in iOS Latest 2017(Hindi)..url
+https://youtu.be/ziAzp6WcIO0&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- Google Map integration Using CocoaPods in iOS Latest 2017 Hindi..url
+https://youtu.be/Cql5RfGXqFw&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How (Add) Create And Display ScrollView in iOS Latest 2017(Hindi)..url
+https://youtu.be/Efkcnipy1Vs&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How to Add App icon in iOS And XCode Latest 2017(Hindi)..url
+https://youtu.be/_Y9H5_JbOtI&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How to Adding Textfield in UIAlertController in iOS Latest 2017(Hindi)..url
+https://youtu.be/m_bM_tsfPLQ&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How To Create  And Used Navigation Controller in iOS Latest 2017(Hindi)..url
+https://youtu.be/sWBgTDreSxc&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How To Create  SQLite Database And Perform CRUD Operation in iOS Latest 2017(Hindi)..url
+https://youtu.be/EodJSN5zTGk&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How to create a Custom AlertView Using SCLAlertView iOS Latest 2017 Hindi..url
+https://youtu.be/wUydCH96BR0&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How To Create And Display Image Fall Down in iOS Latest 2017(Hindi)..url
+https://youtu.be/F2J1EFDa2Tw&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How To Create And Used Core Data in  iOS Latest 2017 Hindi..url
+https://youtu.be/pBrG7kjrFGQ&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How to Create And Used Tag in iOS Latest 2017(Hindi)..url
+https://youtu.be/aQpr2pa3pDg&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How To Create Local Notification in iOS Latest 2017(Hindi)..url
+https://youtu.be/C_7D8zIHhfg&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How to do Validation on TextField in iOS Latest 2017 Hindi..url
+https://youtu.be/5x1QdSLdQ4U&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- How to Make a Round Button in iOS Latest 2017(Hindi)..url
+https://youtu.be/-DSuAc40v5c&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C- Protocol And Delegate in iOS Latest 2017(Hindi)..url
+https://youtu.be/OI8WqS7l1bE&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Objective C-How To Create  Expanding And Collapsing Of Row in UITableView in iOS Latest 2017(Hindi).url
+https://youtu.be/OYaI5ASpsOE&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Swift[Part-1] - iOS Architecture Design Patterns MVC, MVP, MVVM and VIPER in Swift 5 Hindi..url
+https://youtu.be/aoFuTyXAbmE&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Xcode - Most Usable Xcode Tips And Tricks in iOS Hindi..url
+https://youtu.be/6GeKIZnpz20&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+
+Yogesh Patel(Objective-C & Swift 4) - iOS Development in Hindi Latest 2017..url
+https://youtu.be/1VNfqWY66Wk&list=PLWZIhpNhtvfoNC3gEHCHA4rZCDwb8f8R9
+Videos 26-50

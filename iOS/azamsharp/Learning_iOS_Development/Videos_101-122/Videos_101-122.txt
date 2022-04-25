@@ -1,0 +1,67 @@
+
+Learning iOS Development (Part 11) Custom UITableViewCell.url
+https://youtu.be/d_kO-J3DYvc&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development 21 (UITouch Part 1).url
+https://youtu.be/TE3tndXUzSU&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 10 (UITableView Delete Cells).url
+https://youtu.be/WFxtZEW7Dis&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 12 (UINavigationController).url
+https://youtu.be/XN4JRic6TM8&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 14 (Requests Using AFNetworking).url
+https://youtu.be/Qjig7ZnH73Y&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 15 (Introduction to Storyboards in iOS5).url
+https://youtu.be/zi1cRAUF5p8&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 16 (Storyboards).url
+https://youtu.be/zOax1P9rwQA&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 17 (Introduction to Core Data).url
+https://youtu.be/RkVMs779kMY&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 18 (Core Data Model Versioning).url
+https://youtu.be/dOTb8_2u0Ss&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 19 (Introduction to MapKit).url
+https://youtu.be/fncfvVZv-bw&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 20 (UIView Containment).url
+https://youtu.be/DzedmcFlm1c&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 22 (UITouch Part 2).url
+https://youtu.be/g_FMPzoJbR4&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 23 (UIGestureRecognizer).url
+https://youtu.be/d0n5NnKllGc&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 24 (MapKit Custom Annotations).url
+https://youtu.be/_jg8Ju1jtSA&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 25 (MapKit Custom Annotation Views).url
+https://youtu.be/9kZd2fsUFJU&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 26 (MapKit Overlays).url
+https://youtu.be/iKIHkAopE7E&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 27 (Categories, Protocols and Delegates).url
+https://youtu.be/1nbH7v6gMPg&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 5 (IBOutlet and IBAction).url
+https://youtu.be/kk3nmy3C0Y4&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 6 (Objective-C Basics).url
+https://youtu.be/ERCuxUwC824&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 7 (Tip Calculator).url
+https://youtu.be/M61FHQGNN1U&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 8 (Introduction to UITableView).url
+https://youtu.be/Fbp17aDENzY&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 9 (Styling UITableView).url
+https://youtu.be/B2kbxWzJLVM&list=PL1E1FF3F73A3279CF
+Videos 101-122

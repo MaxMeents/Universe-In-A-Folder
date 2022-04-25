@@ -1,0 +1,76 @@
+
+3 Pillars for a Remarkable Lead iOS Developer Career.url
+https://youtu.be/WSap_wTAj3w
+
+Becoming a proficient Lead iOS Developer.url
+https://youtu.be/StqAHb22u-4
+
+Clean iOS Architecture 101 Composable & Modular Apps.url
+https://youtu.be/-YOs1RrcoDA
+
+Clean iOS Architecture 101 Composite Design Pattern.url
+https://youtu.be/0fxh74dKO_c
+
+Clean iOS Architecture 101 Composition over Inheritance.url
+https://youtu.be/ahXJQW_LI7M
+
+Clean iOS Architecture 101 Good Composition Traits.url
+https://youtu.be/dj6TU87A8Ok
+
+Clean iOS Architecture 101 Test-Driven Development.url
+https://youtu.be/oosJplDgq9I
+
+Clean iOS Architecture 101 The 3 steps of the TDD cycle.url
+https://youtu.be/aFnNmsblUVc
+
+Common signs of unsustainable Tech Debt on iOS & Swift.url
+https://youtu.be/D1NLwWZzbZM
+
+Does refactoring really reduce Tech Debt.url
+https://youtu.be/FpCF20OOEw8
+
+Don't break your tests when changing production code.url
+https://youtu.be/nIb8kIVsQPA
+
+Good Lead iOS Developers hire devs that are better than them.url
+https://youtu.be/XO04yl_068I
+
+How long until unsustainble Tech Debt impacts iOS teams.url
+https://youtu.be/Hf6Ojf-qD2k
+
+How to Crack iOS Interview Code Tests (Q&A)  iOS Lead Essentials Podcast #010.url
+https://youtu.be/reB2MCZIKXM
+
+How to increase your chances of passing iOS interview code tests.url
+https://youtu.be/IK4jnvxtCy0
+
+How to write tests first if you don't know what to test.url
+https://youtu.be/iu4PolUaW-Y
+
+Lead Developers are not always the best iOS devs in the team.url
+https://youtu.be/8D72qbyRSyk
+
+Lead iOS Developer Q&A Thriving as a proficient lead developer  iOS Lead Essentials Podcast #011.url
+https://youtu.be/LFfCq-U6300
+
+Leading iOS Dev Teams What does a Lead iOS Dev do.url
+https://youtu.be/M8EXFjvz3_0
+
+MVC, MVVM, MVP & iOS Common UI Architectural Design Patterns Q&A  iOS Lead Essentials Podcast #012.url
+https://youtu.be/blJlYntpOjE
+
+TDD Ultimate productivity, high salary, and a remarkable career  iOS Lead Essentials Podcast #009.url
+https://youtu.be/8GPWh774HUM
+
+Tech Debt != Bad iOS Codebases.url
+https://youtu.be/9QICVU6-068
+
+Tech Debt Low short-term risk with High long-term rewards  iOS Lead Essentials Podcast #008.url
+https://youtu.be/29pbPv0fLZA
+
+This is how to improve legacy iOS projects full of Tech Debt.url
+https://youtu.be/4g0NOmDp8X0
+
+What iOS devs miss out by not following TDD.url
+https://youtu.be/Bx70I9lT8j8
+Videos 326-350

@@ -1,0 +1,76 @@
+
+Advanced patterns senior devs use to implement analytics in large apps  Live Dev Mentoring.url
+https://youtu.be/66j1zmZXkQc
+
+Design Patterns for feature toggles Developing successful apps at scale  Live Dev Mentoring.url
+https://youtu.be/4379MI6CtkA
+
+How senior iOS devs reuse auth token logic and design good app services  Live Dev Mentoring.url
+https://youtu.be/b1PwhRRBMYc
+
+iOS DEV 3 steps to learn anything!  ED Clips.url
+https://youtu.be/pEf5e77Dl6A
+
+iOS DEV Architecture is not final.  ED Clips.url
+https://youtu.be/GU_XS-vaYt0
+
+iOS DEV Being a software developer is much more than just writing code!  ED Clips.url
+https://youtu.be/YuYBw8itYlY
+
+iOS DEV Can protocol oriented programing replace object oriented programing  ED Clips.url
+https://youtu.be/niEJpRPLyVQ
+
+iOS DEV Define your Business Logic without complexity  ED Clips.url
+https://youtu.be/hFeSFZ0ImVw
+
+iOS DEV Entities VS Value Types.  ED Clips.url
+https://youtu.be/MRVRCPdtw8o
+
+iOS DEV Frontend and backend are one team!  ED Clips.url
+https://youtu.be/_yKSgSoCH_Y
+
+iOS DEV Good conflicts bring growth  ED Clips.url
+https://youtu.be/Ry9ggtoT2Ts
+
+iOS DEV How to break down large Storyboards  ED Clips.url
+https://youtu.be/18nfYqoVS-o
+
+iOS DEV How to create future ready apps  ED Clips.url
+https://youtu.be/WPFUUhAUxlw
+
+iOS DEV How to create future-ready code  ED Clips.url
+https://youtu.be/JyAzLqLrVRo
+
+iOS DEV How to enable testability with Dependency Injection  ED Clips.url
+https://youtu.be/huC8ppNPZyM
+
+iOS DEV How to evolve as a Software Engineer  ED Clips.url
+https://youtu.be/626gt6GIWdw
+
+iOS DEV Passing in an interview is a skill  ED Clips.url
+https://youtu.be/4V5QYtWiMgI
+
+iOS DEV Should I suffix the abstractions with Protocol  ED Clips.url
+https://youtu.be/jxF_LVEQaOc
+
+iOS DEV The big difference between ViewModel in MVVM & MVC  ED Clips.url
+https://youtu.be/cvDqIl_yDcI
+
+iOS DEV viewModels are structs or classes  ED Clips.url
+https://youtu.be/cUjMquyUQk4
+
+iOS DEV What is the difference between STUB and MOCK for test double  ED Clips.url
+https://youtu.be/1Q4mdGlGgbI
+
+iOS DEV What is the goal of architecture  ED Clips.url
+https://youtu.be/VfxcUPiatho
+
+iOS DEV Where is the best place to implement infrastructure models  ED Clips.url
+https://youtu.be/jGr5HL5_Dok
+
+iOS DEV Why not test everything in integration  ED Clips.url
+https://youtu.be/LdZ5x86adqk
+
+iOS DEVs need to understand the full stack  ED Clips.url
+https://youtu.be/mXBVWym8t5I
+Videos 1-25

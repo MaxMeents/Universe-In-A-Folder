@@ -1,0 +1,76 @@
+
+ASP.NET MVC Validation Using DataAnnotations.url
+https://youtu.be/M_ye7dKn9b4
+
+Calling my cat Tinko.url
+https://youtu.be/Fjumn6MU0hw
+
+Creating ASP MVC HTML Helper.url
+https://youtu.be/Pe-GT1vquX4
+
+Creating Registration Wizard Using ASP.NET MVC Framework Part 1.url
+https://youtu.be/KMaQ0xyaz_0
+
+Creating Stock Widgets Using ASP.NET MVC.url
+https://youtu.be/ru_34wjJBeg
+
+Creating Wizard Using ASP.NET MVC Part 2.url
+https://youtu.be/Z7-zZq8g0T8
+
+EStudy Application Part 2 Creating UserValidator and Writing BDD Tests.url
+https://youtu.be/u0Tb4Mz05E0
+
+EStudy Introduction to the EStudy Application Part 1.url
+https://youtu.be/AnNWCgc2JdI
+
+EStudy Part 2 Setting Up Controller Factory Using StructureMap.url
+https://youtu.be/PqylyFZySW8
+
+Explore Bot with Modified Custom Design.url
+https://youtu.be/nZTiD4LWWlw
+
+Implementing ImageRadioButtonList.url
+https://youtu.be/sZVvI6fpg9Q
+
+Implementing Simple Validation in ASP.NET MVC Application.url
+https://youtu.be/kL49wJdiRKY
+
+Introduction to ASP.NET MVC View Model.url
+https://youtu.be/AkptHlDSKSQ
+
+Introduction to Dependency Injection Using StructureMap.url
+https://youtu.be/_0LIovfNC2Q
+
+Introduction to Model Binders in ASP.NET MVC Application.url
+https://youtu.be/NrgmDg_gHpg
+
+Introduction to Partial Views in ASP.NET MVC Application.url
+https://youtu.be/b79tUS9o8c8
+
+Introduction to Rake.url
+https://youtu.be/InTF_u_FZmI
+
+Lego Mindstorm NXT 2.0 First Robot.url
+https://youtu.be/OeZdqCr7sFs
+
+Lego Mindstorm NXT 2.0 Robocop Shooter Robot.url
+https://youtu.be/7MJmN5Miyuc
+
+Performing Validation in ASP.NET MVC Application Using IDataErrorInfo Interface.url
+https://youtu.be/pjXINr9Gu_M
+
+Removing Dependencies for Unit Testing Using Wrapper.url
+https://youtu.be/l-DlVSOki40
+
+Setting up Repository on Github and Pushing First Project on GitHub Using Git.url
+https://youtu.be/gAWiXbT599E
+
+Setting Up Team City Part 2.url
+https://youtu.be/0j7tVxczQW4
+
+Using Rake to Build, Run Unit Tests and Create Documentation.url
+https://youtu.be/ofe9sQCpCpk
+
+Using T4 Templates to Generate View Names.url
+https://youtu.be/R_SZUB3BzcM
+Videos 951-975

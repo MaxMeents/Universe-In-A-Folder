@@ -1,0 +1,76 @@
+
+Advanced Swift Making Programmatic Auto Layout Easy through Extensions.url
+https://youtu.be/iqpAP7s3b-8
+
+Algorithm Efficiency and Time Complexity O(1) vs O(N) - Constant vs Linear Time.url
+https://youtu.be/gHzZZYJENpo
+
+Brazilian Front End Dev Switch to iOS Mobile - App Review MyMovies.url
+https://youtu.be/WYSXwG3kWuo
+
+Capture Awesome Audio with Rode NT1 Microphone.url
+https://youtu.be/anDHHM3amGw
+
+Channel Updates and Future Courses.url
+https://youtu.be/4QTb1to7MiQ
+
+Comments from You Silly Gooses.url
+https://youtu.be/JMGLP1zHu4Q
+
+Complete Guide to Flutter How to Build a Real World App.url
+https://youtu.be/S59b-XFsyY8
+
+Computer Building Series.url
+https://youtu.be/FN7tNxiVbJk
+
+Flutter Getting Started Can You Build iOS Android Apps with One Language.url
+https://youtu.be/0gA6o6YWheo
+
+How to Deploy Custom Backend to Cloud using Heroku (Ep 5).url
+https://youtu.be/w0HAZKxyrf8
+
+Introduction to Object Oriented Programming Classes and ProtocolsInterfaces.url
+https://youtu.be/rKf9vs4ZoJc
+
+MySQL Basics & How to Get Started - SQL Select, Insert, Update, Delete.url
+https://youtu.be/LKZYoeRfmh4
+
+NodeJS REST API Connecting to MySQL (Ep 2).url
+https://youtu.be/mLLUqMpf5H0
+
+NodeJS REST API Super Simple Setup - Express & NPM (Ep1).url
+https://youtu.be/F7NVpxxmmgM
+
+NodeJS REST How to Refactor Code into Multiple Files with Router (Ep 4).url
+https://youtu.be/TQU6BWtc3yc
+
+NodeJS REST Serve HTML Files and POST Requests (Ep 3).url
+https://youtu.be/1qH-3SIFmXw
+
+Obj-C Getting Started Do You Still Need to Learn Obj-C Jump Start by Coding UITableView.url
+https://youtu.be/ADyiVY5wiVk
+
+Obj-C Parsing JSON - Last Video on this Old Programming Language.url
+https://youtu.be/xDUTFq94DaI
+
+Quick Q&A with some new equipment.url
+https://youtu.be/3pvPjPVgDSQ
+
+Storyboard vs Code SpeedRun - Which is Faster (iOS Swift 4).url
+https://youtu.be/bd2KSWLXo3A
+
+Swift 4 Easy Trick to Auto Sizing UITextView in Real Time.url
+https://youtu.be/0Jb29c22xu8
+
+Swift 4.1 Update Did JSON Parsing Get Easier How to Customize JSON Decoding and Snake Case.url
+https://youtu.be/XZS-eeO9YoU
+
+Swift How to Chain Animations for Impressive Visual Effects.url
+https://youtu.be/xWNv-j75OQ8
+
+Tinder Profile Grid - Mixing Code and Interface Builder (Ep 2).url
+https://youtu.be/XCfVGYJAN0o
+
+Tinder Profile Grid Awesomeness of UIStackView in Interface Builder (Ep 1).url
+https://youtu.be/k47D67a1zJ8
+Videos 176-200

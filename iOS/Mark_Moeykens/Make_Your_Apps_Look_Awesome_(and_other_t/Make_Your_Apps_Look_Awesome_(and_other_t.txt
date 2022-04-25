@@ -1,0 +1,28 @@
+
+5 Design Tips for Better Backgrounds (iOS, Xcode 8).url
+https://youtu.be/iu9cam3XYiE&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Animating A Sidebar Menu (iOS, Xcode 8, Swift 3) (Side MenuSlide Out Menu).url
+https://youtu.be/ej5laXv2dzQ&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Make It Rain Or Snow Images With The CAEmitterLayer (iOS, Xcode 8, Swift 3).url
+https://youtu.be/Cg5GzKsMF7M&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Part 1 - Adding Custom Fonts in iOS (Xcode 8, Swift 3).url
+https://youtu.be/GzbgotNLW2I&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Part 2 - Scaling Fonts for Multiple Devices (Xcode 8, Swift 3).url
+https://youtu.be/4mlEaQ-YRS0&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Part 3 - Using IBDesignables and IBInspectables (iOS, XCode 8, Swift 3).url
+https://youtu.be/yI-EY6MP9So&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Part 4  - Creating the Modal Popup (iOS, Xcode 8, Swift 3).url
+https://youtu.be/DmWv-JtQH4Q&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Part 5 - Keyboard Handling and Hiding Passwords (iOS, Xcode 8, Swift 3).url
+https://youtu.be/0JQPoeuOhUE&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+
+Part 6 - Animating UIButton Clicks Tutorial (iOS, Xcode 8, Swift 3).url
+https://youtu.be/jWobdUlUWQ0&list=PLHDMmeIMXj8UtAhH_PYLnsKmqSt0frxP2
+Make Your Apps Look Awesome (and other tips)

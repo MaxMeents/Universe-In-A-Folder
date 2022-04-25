@@ -1,0 +1,67 @@
+
+Advanced Swift Generics Best Solution to Eliminate Code Duplication!.url
+https://youtu.be/lpTNaBUFkno
+
+Biggest Beginner Coding Mistake Separation of Concern.url
+https://youtu.be/VtF6aebWe58
+
+Getting out of your Coding Comfort Zone.url
+https://youtu.be/CY5OrqBj_sU
+
+How to Determine If You Are Junior  Mid  Senior Level Engineer.url
+https://youtu.be/kLAWe2Hlv_Y
+
+iOS Architecture and Some Future Courses.url
+https://youtu.be/seCSJJrqAwo
+
+Kickass Student App Review! Advanced Features are Impressive - Khmer Original.url
+https://youtu.be/t0Ul7IyYYE8
+
+Kotlin Firebase Messenger 01 Brand New Series - Creating Register and Login UI.url
+https://youtu.be/ihJGxFu2u9Q
+
+Kotlin Messenger 02 Installing Firebase Auth and Register User + Rounded Corners UI.url
+https://youtu.be/RYyri2W3Tho
+
+Kotlin Messenger 03 Upload to Firebase Storage and Save User to Database + CircleImageView.url
+https://youtu.be/86dkYGeXMaU
+
+Kotlin Messenger 04 Super Fast Groupie RecyclerView and New Messages.url
+https://youtu.be/SuRiwVF5bzs
+
+Kotlin Messenger 05 Chat Message Rows & Parcelize Extension.url
+https://youtu.be/-HB__yZqha0
+
+Mastering Generics Is This The Most Advanced Swift Code You've Seen.url
+https://youtu.be/K0IO4QvFxnM
+
+Not Using Storyboard Leads to Getting Hired as an iOS Developer.url
+https://youtu.be/U1Ub-LFIqfA
+
+Parade.url
+https://youtu.be/f1WWfnK9Bvg
+
+ReactJS Complete Getting Started Guide - Movies Search with MovieDB API.url
+https://youtu.be/bqSSLr8A8PU
+
+Swift Animations Awesome Facebook Pop Up! Press and Hold (Ep 1).url
+https://youtu.be/wbmTy32s7GQ
+
+Swift Animations Custom Counting Label - CADisplayLink.url
+https://youtu.be/b3kZH1vfG2U
+
+Swift Animations Facebook Shimmer using Gradient Masks.url
+https://youtu.be/RRuQZSbueJE
+
+Swift Animations Hit Testing Facebook Like (Ep 2).url
+https://youtu.be/yGuaESsuxcg
+
+Swift How to Migrate MVC to MVVM & Intro Unit Testing.url
+https://youtu.be/n06RE9A_8Ks
+
+Swift My Secret to Fixing Fat View Controller Subclassing.url
+https://youtu.be/dSdkYEjLI3w
+
+Top 5 Ways to Select Your 1st Programming Language to Learn.url
+https://youtu.be/eL6cxsY92xw
+Videos 151-175

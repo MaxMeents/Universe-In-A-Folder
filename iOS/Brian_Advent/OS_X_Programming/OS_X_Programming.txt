@@ -1,0 +1,7 @@
+
+Cocoa Tutorial Custom NSView Background Color.url
+https://youtu.be/K8eWIZ39W4A&list=PLY1P2_piiWEYLwsA5aO6FkVUDUs_smpu4
+
+Cocoa Tutorial Using NSViewController like UIViewController.url
+https://youtu.be/056mKj-ClM4&list=PLY1P2_piiWEYLwsA5aO6FkVUDUs_smpu4
+OS X Programming

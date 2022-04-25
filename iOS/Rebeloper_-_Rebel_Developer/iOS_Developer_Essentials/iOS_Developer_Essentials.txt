@@ -1,0 +1,19 @@
+
+Firebase Authentication iOS - Sign in with Apple (EASY).url
+https://youtu.be/MY5xLrsnUVo&list=PL_csAAO9PQ8beK1WNovtuvs7vFM8p0b2H
+
+How to Install a CocoaPod - Xcode11 and Swift 5.url
+https://youtu.be/TWrtw75dMQs&list=PL_csAAO9PQ8beK1WNovtuvs7vFM8p0b2H
+
+iOS Developer Resume for 2020.url
+https://youtu.be/4lq7l8YceM0&list=PL_csAAO9PQ8beK1WNovtuvs7vFM8p0b2H
+
+Optional Chaining - What are Optionals in Swift (EVERYTHING YOU NEED TO KNOW).url
+https://youtu.be/Up0dqKeBLNY&list=PL_csAAO9PQ8beK1WNovtuvs7vFM8p0b2H
+
+Swift Protocol Delegate Pattern (BEST EXPLANATION).url
+https://youtu.be/UQnSdXFDAQQ&list=PL_csAAO9PQ8beK1WNovtuvs7vFM8p0b2H
+
+UIStackView - Get started programmatically in Swift 5.url
+https://youtu.be/CDL2t0JTotI&list=PL_csAAO9PQ8beK1WNovtuvs7vFM8p0b2H
+iOS Developer Essentials

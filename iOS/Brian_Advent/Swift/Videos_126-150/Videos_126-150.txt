@@ -1,0 +1,76 @@
+
+Apple Swift Tutorial Simple iOS9 Swift Application with Spotlight Search.url
+https://youtu.be/BH_V8a5xKGk&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Create a Simple iOS and Web App with CloudKit and CloudKit JS.url
+https://youtu.be/A_yx8Dn46R8&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Create an App like Twitter Push Notifications with CloudKit.url
+https://youtu.be/BXl5o5_2aEU&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Create an App like Twitter using CloudKit instead of Parse.url
+https://youtu.be/XQ3nLV2778U&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Improve your Swift Language Skills with the Map and Filter Functions.url
+https://youtu.be/swz9fzL3QB8&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Game Tutorial Create an Award Winning 3D Touch Game.url
+https://youtu.be/Bd9fAqBJqCc&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Game Tutorial Create a Fun Sound Memory Game.url
+https://youtu.be/dddTC4RdpRU&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Game Tutorial Create a game like Mega Jump.url
+https://youtu.be/0gOi_2Jwt28&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Add 3D Touch to your apps.url
+https://youtu.be/NO9E5KxixOw&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Auto Layout Constraints in Code.url
+https://youtu.be/6EEMofQG93I&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Create an Animated Control - Stacked Menu.url
+https://youtu.be/lVuHagEBTqk&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Create the iOS Home Screen Parallax Motion Effect (Animation).url
+https://youtu.be/-BiGO7CJZ7Q&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Face detection.url
+https://youtu.be/62kUursmc4E&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Get started with Firebase and an App like Twitter.url
+https://youtu.be/D0MuaFzoxng&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial How to convert your projects to Swift 3.0.url
+https://youtu.be/AgURnpHMygs&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Location and Maps.url
+https://youtu.be/Z272SMC9zuQ&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Parse Local Data Store and Reachability.url
+https://youtu.be/78mC9k3PDDc&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Quick Tip - Working with Sets.url
+https://youtu.be/0ZJ4MDn6hiY&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial The power of UIStackView.url
+https://youtu.be/su03OyqPvv0&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Use live rendering with Xcode.url
+https://youtu.be/bToFQRIPeGo&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Swift Tutorial Why use Subclasses.url
+https://youtu.be/ACCkULy-tZ8&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Tutorial Beta testing with TestFlight.url
+https://youtu.be/R-ZV5Aumu0Y&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+iOS Tutorial How to use git with Xcode.url
+https://youtu.be/9jeQQ7xNb4U&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+Swift Tutorial MVC Design Pattern and iTunes Search.url
+https://youtu.be/Xqnp91MGP64&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+
+WatchKit Swift Tutorial Create a real world Apple Watch App.url
+https://youtu.be/sZAT8wNJnF0&list=PLY1P2_piiWEY3W_aGo7r2OZmsk6Ww757Y
+Videos 126-150

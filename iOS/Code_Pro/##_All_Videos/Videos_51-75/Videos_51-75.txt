@@ -1,0 +1,76 @@
+
+CocoaPods Tutorial Xcode 9.url
+https://youtu.be/2NtWWGEAUBA
+
+Code Pro iOS Tab Bar Controller Tutorial.url
+https://youtu.be/erUWj0gOb7k
+
+iOS AVFoundation Tutorial Part 1 - Creating a Camera App.url
+https://youtu.be/wPXVeKyUCYw
+
+iOS AVFoundation Tutorial Part 2 - Creating a Camera App.url
+https://youtu.be/P10QPWjQD0k
+
+iOS AVFoundation Tutorial Part 3 - Creating a Camera App.url
+https://youtu.be/MeCqXexvKss
+
+iOS Core Animation Tutorial.url
+https://youtu.be/UoaPPPxS-qI
+
+iOS Core Data Tutorial Part 1.url
+https://youtu.be/vE0nVx-g-8M
+
+iOS Core Data Tutorial Part 2.url
+https://youtu.be/gCzAG6qAqv4
+
+iOS IBDesignable Tutorial.url
+https://youtu.be/W9im1FJFG1s
+
+iOS MapKit Tutorial - How To Create Custom Annotations.url
+https://youtu.be/agXeo1PApq8
+
+iOS MapKit Tutorial - How To Display Location on a Map.url
+https://youtu.be/SayMogu530A
+
+iOS MapKit Tutorial - How To Get Directions.url
+https://youtu.be/JD-Qo9joKJY
+
+iOS Navigation Controller Tutorial (Xcode 9  Swift 4).url
+https://youtu.be/unaf817uNtQ
+
+iOS Server Side Swift Tutorial with Perfect.url
+https://youtu.be/IEakgeGFuYw
+
+iOS Swift Tutorial Programmatic and Storyboard Segues.url
+https://youtu.be/DxCydBmOqXU
+
+iOS Text Field Tutorial - Accepting User Input.url
+https://youtu.be/uVCFV668dSQ
+
+iOS Tutorial Protocols and Delegates Explained Part 1.url
+https://youtu.be/2oGcSofDBZQ
+
+iOS Tutorial Protocols and Delegates Explained Part 2.url
+https://youtu.be/1fBmMLRBuKE
+
+iOS Tutorial Storyboard References.url
+https://youtu.be/w_pznZfZ5Kc
+
+iOS Tutorial UITableView using Custom Cells.url
+https://youtu.be/78z3VSNnZkU
+
+Swift 4 UIPickerView Tutorial.url
+https://youtu.be/BOgqcAcZCnI
+
+Swift iOS Unit Testing Tutorial.url
+https://youtu.be/fR9QR-WSNK0
+
+Swift Tutorial #2 - Control Flow and Loops.url
+https://youtu.be/XS8Shf5ZMZI
+
+Swift Tutorial #3 - Functions.url
+https://youtu.be/B4mT83_beZw
+
+WatchKit Table View Tutorial.url
+https://youtu.be/-JbEw3Nf0sU
+Videos 51-75

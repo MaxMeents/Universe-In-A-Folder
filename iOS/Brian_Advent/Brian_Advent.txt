@@ -1,0 +1,130 @@
+
+## All Videos
+/iOS/Brian_Advent/##_All_Videos/##_All_Videos.txt
+
+### All Playlists Below
+/iOS/Brian_Advent/###_All_Playlists_Below/###_All_Playlists_Below.txt
+
+24 Days of Swift Tutorials
+/iOS/Brian_Advent/24_Days_of_Swift_Tutorials/24_Days_of_Swift_Tutorials.txt
+
+3D Touch
+/iOS/Brian_Advent/3D_Touch/3D_Touch.txt
+
+Adaptive Layout
+/iOS/Brian_Advent/Adaptive_Layout/Adaptive_Layout.txt
+
+Animation
+/iOS/Brian_Advent/Animation/Animation.txt
+
+Apple Watch
+/iOS/Brian_Advent/Apple_Watch/Apple_Watch.txt
+
+ARKit
+/iOS/Brian_Advent/ARKit/ARKit.txt
+
+Become an iOS Developer
+/iOS/Brian_Advent/Become_an_iOS_Developer/Become_an_iOS_Developer.txt
+
+Brian's Advent Calendar 2016
+/iOS/Brian_Advent/Brian's_Advent_Calendar_2016/Brian's_Advent_Calendar_2016.txt
+
+CloudKit
+/iOS/Brian_Advent/CloudKit/CloudKit.txt
+
+Cocoa Programming
+/iOS/Brian_Advent/Cocoa_Programming/Cocoa_Programming.txt
+
+Combine
+/iOS/Brian_Advent/Combine/Combine.txt
+
+Core ML
+/iOS/Brian_Advent/Core_ML/Core_ML.txt
+
+CoreData
+/iOS/Brian_Advent/CoreData/CoreData.txt
+
+Create an iOS To-Do List App with Swift and Xcode
+/iOS/Brian_Advent/Create_an_iOS_To-Do_List_App_with_Swift_/Create_an_iOS_To-Do_List_App_with_Swift_.txt
+
+Custom controls and 3rd party frameworks
+/iOS/Brian_Advent/Custom_controls_and_3rd_party_frameworks/Custom_controls_and_3rd_party_frameworks.txt
+
+Design
+/iOS/Brian_Advent/Design/Design.txt
+
+Design Patterns
+/iOS/Brian_Advent/Design_Patterns/Design_Patterns.txt
+
+Firebase
+/iOS/Brian_Advent/Firebase/Firebase.txt
+
+For Beginners Start here
+/iOS/Brian_Advent/For_Beginners_Start_here/For_Beginners_Start_here.txt
+
+Games
+/iOS/Brian_Advent/Games/Games.txt
+
+Git
+/iOS/Brian_Advent/Git/Git.txt
+
+iCloud
+/iOS/Brian_Advent/iCloud/iCloud.txt
+
+iOS Features and Frameworks
+/iOS/Brian_Advent/iOS_Features_and_Frameworks/iOS_Features_and_Frameworks.txt
+
+OS X Programming
+/iOS/Brian_Advent/OS_X_Programming/OS_X_Programming.txt
+
+Privacy
+/iOS/Brian_Advent/Privacy/Privacy.txt
+
+Quick Tips
+/iOS/Brian_Advent/Quick_Tips/Quick_Tips.txt
+
+Reality Composer
+/iOS/Brian_Advent/Reality_Composer/Reality_Composer.txt
+
+Review
+/iOS/Brian_Advent/Review/Review.txt
+
+RSS Reader
+/iOS/Brian_Advent/RSS_Reader/RSS_Reader.txt
+
+RxSwift
+/iOS/Brian_Advent/RxSwift/RxSwift.txt
+
+Scene Kit
+/iOS/Brian_Advent/Scene_Kit/Scene_Kit.txt
+
+Sprite Kit
+/iOS/Brian_Advent/Sprite_Kit/Sprite_Kit.txt
+
+Start Business with iPad
+/iOS/Brian_Advent/Start_Business_with_iPad/Start_Business_with_iPad.txt
+
+Swift
+/iOS/Brian_Advent/Swift/Swift.txt
+
+Swift Basics
+/iOS/Brian_Advent/Swift_Basics/Swift_Basics.txt
+
+Swift Tutorial Conference
+/iOS/Brian_Advent/Swift_Tutorial_Conference/Swift_Tutorial_Conference.txt
+
+SwiftUI
+/iOS/Brian_Advent/SwiftUI/SwiftUI.txt
+
+Testing
+/iOS/Brian_Advent/Testing/Testing.txt
+
+UIKit
+/iOS/Brian_Advent/UIKit/UIKit.txt
+
+Vapor
+/iOS/Brian_Advent/Vapor/Vapor.txt
+
+Xcode
+/iOS/Brian_Advent/Xcode/Xcode.txt
+Brian Advent

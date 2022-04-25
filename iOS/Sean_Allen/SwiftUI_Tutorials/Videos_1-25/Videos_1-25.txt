@@ -1,0 +1,76 @@
+
+SwiftUI - @Binding Property Wrapper Explained - Passing Data.url
+https://youtu.be/lgtB3WLEOYg&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - @State Property Wrapper Explained.url
+https://youtu.be/48JYBb5yJ0s&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - Context Menu - Power User Shortcuts.url
+https://youtu.be/1kX0vA6SXBo&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - DatePicker Tutorial.url
+https://youtu.be/wZinqpiAEiA&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - Intro to MVVM  Example Refactor  Model View ViewModel.url
+https://youtu.be/FwGMU_Grnf8&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - Loading View  Activity Indicator.url
+https://youtu.be/2Jk58S6FiZw&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - Redacted Tutorial  iOS 14  Xcode 12.4.url
+https://youtu.be/Q036u2OWOVQ&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - Swipe Actions on List  iOS 15 & Xcode 13.url
+https://youtu.be/5PJL4xxEXJE&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI - TabView Tutorial.url
+https://youtu.be/tnNFoZ7CkP8&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Basics Tutorial.url
+https://youtu.be/HXoVSbwWUIk&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI ColorPicker  iOS 14  Xcode 12.4.url
+https://youtu.be/Kp9sHwp4wN8&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Custom Path Drawing - Map Balloon Shape.url
+https://youtu.be/4xRm8MqMtG4&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Environment Values - What are they Code Examples  Xcode 13.url
+https://youtu.be/S3DVAGQX0kI&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Form w TextField, DatePicker, Toggle, Stepper, Link and Sections w Header.url
+https://youtu.be/m0QQ-hWs8fc&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Gradient Buttons  Linear, Radial & Angular Gradients.url
+https://youtu.be/qSV0lnuGhwM&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Link - Open Website in Safari  iOS 14  Xcode 12.4.url
+https://youtu.be/YL43vieArF8&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI List with Custom Cell & Passing Data.url
+https://youtu.be/k5rupivxnMA&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Navigation - NavigationView & NavigationLink Tutorial.url
+https://youtu.be/IopCl8sOyFA&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Navigation Bar Button  Toolbar  iOS 14  Xcode 12.4.url
+https://youtu.be/sWhoAXjiOVA&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Page View  Onboard Flow.url
+https://youtu.be/0OaHzM3F9es&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Photo Picker - Compressed Images, UIViewControllerRepresentable.url
+https://youtu.be/V-kSSjh1T74&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Preview Tips & Tricks.url
+https://youtu.be/N2RLA0TPucE&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Segmented Control Tutorial  iOS 14  Xcode 12.4.url
+https://youtu.be/iqKmgs_0VPE&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI Tic Tac Toe  Multiple AI Difficulties  MVVM  Portfolio Project.url
+https://youtu.be/MCLiPW2ns2w&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+
+SwiftUI User Location on a Map  MapKit & CoreLocation.url
+https://youtu.be/hWMkimzIQoU&list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Integrating Face ID Login Page UI With Firebase Authentication Using SwiftUI - SwiftUI 2.0 Tutorials.url
+https://youtu.be/uhTRQ4TWQ9g&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex UI Tutorials - Analog Clock App - SwiftUI - SwiftUI 2.0 Tutorials.url
+https://youtu.be/BTtERko7j1Y&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Complex UI Tutorials - Recipe App UI - Custom Tab Bar - SwiftUI 2.0 Tutorials.url
+https://youtu.be/MORBfE1RQyY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Core Data Best Practices - SwiftUI 2.0 Core Data CRUD Operations - Tasks App.url
+https://youtu.be/gPqIE-nlxLA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Animations - Wheel  Radial Picker - SwiftUI 2.0 Tutorials.url
+https://youtu.be/_mUV6ZbF2V8&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Music Player With Circular Slider And Volume Control - SwiftUI Complex UI's.url
+https://youtu.be/cj08loZSkzs&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Custom Tab Bar - Preserving State When Ever Tab Changes In SwiftUI - SwiftUI 2.0.url
+https://youtu.be/3psB2i2Ondo&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI 2.0 Login Page UI With Face And Touch ID Integration - SwiftUI BioMetric Authentication.url
+https://youtu.be/CqzO9xw_Gdk&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Applying Filters To Images Using Core Image - SwiftUI Core Image - SwiftUI 2.0 Tutorials.url
+https://youtu.be/MmdLSyS_6jA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Building Tic Tac Toe Game With Card Flip Animations In Xcode 12 - SwiftUI Tutorials.url
+https://youtu.be/TCqx0nylNxQ&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Chat App With Firebase - Global Chat App - Firebase Cloud Firestore - SwiftUI 2.0 Tutorials.url
+https://youtu.be/PrasbHixcpU&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Complex UI - Food App UI - Side Tab Bar - Complex Smooth Curves - SwiftUI 2.0 Tutorials.url
+https://youtu.be/ZJrKj-HW6ss&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Complex UI Tutorials - Nike Shoe App UI With Animations - SwiftUI 2.0 Tutorials.url
+https://youtu.be/6kUgTmusgR4&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Complex UI Tutorials - Online Shop App UI With Hero Animations - SwiftUI 2.0 Tutorials.url
+https://youtu.be/-9qZ3YOp8wE&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Complex UI Tutorials - SwiftUI Smooth Curves - Food App - SwiftUI 2.0 Tutorials.url
+https://youtu.be/qgbuWqXyPng&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Currency Exchange App With JSON API - SwiftUI 2.0 Tutorials.url
+https://youtu.be/0VFg-rmi_cY&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Curved Tabbar - SwiftUI Customising Native Tabbar - SwiftUI 2.0 Tutorials.url
+https://youtu.be/xmgRZJvHBwo&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Custom Search Bar With Pagination - JSON Parsing - SwiftUI 2.0 Tutorials.url
+https://youtu.be/ImK6qw3N_Ug&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Facebook Reaction Animations - Composing FB Complex UI - SwiftUI 2.0 Tutorials.url
+https://youtu.be/WJPDMBI7ZS8&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI GIPHY API - Opening GIF Files In SwiftUI 2.0 Xcode 12 - SwiftUI 2.0 Tutorials.url
+https://youtu.be/pOYomjaAOBU&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Login Page UI With Custom View Modifiers - Matched Geometry Effect - SwiftUI 2.0 Tutorials.url
+https://youtu.be/KPYN6sjWvlA&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI OnBoarding Screen With Custom Slider - SwiftUI 2.0 Tutorials.url
+https://youtu.be/f7tqEOTrkoU&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Parallax Scrolling Effect With Sticky Top Header - SwiftUI 2.0 Tutorials.url
+https://youtu.be/6XcAXVG1hrs&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI Splash Screen Using Xcode 12 - Twitter Animated Splash Screen Using SwiftUI 2.0.url
+https://youtu.be/WzqwTjaaefk&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+
+SwiftUI View Builder - SwiftUI Custom Views And Containers - SwiftUI 2.0 Tutorials.url
+https://youtu.be/-rKmwivlh48&list=PLimqJDzPI-H81yR_E21IvWmvZCy91PZTn
+Videos 51-75

@@ -1,0 +1,19 @@
+
+CORE DATA ATTRIBUTES IN SWIFT [Tips to be Fast].url
+https://youtu.be/c2Qtn5ehHMQ&list=PL_csAAO9PQ8YJ8S6q1cZYXwu8kOfQyYSB
+
+CORE DATA iOS - FETCHING DATA [CRUD Best Practices].url
+https://youtu.be/UFt2PQXF8K0&list=PL_csAAO9PQ8YJ8S6q1cZYXwu8kOfQyYSB
+
+CORE DATA SWIFT - CORE DATA STACK in 2020.url
+https://youtu.be/UAqP_JuAdm4&list=PL_csAAO9PQ8YJ8S6q1cZYXwu8kOfQyYSB
+
+CORE DATA SWIFT TUTORIAL [Must Learn in 2020].url
+https://youtu.be/nwNx-WXA-pw&list=PL_csAAO9PQ8YJ8S6q1cZYXwu8kOfQyYSB
+
+NSPredicate and NSFetchrequest in Core Data.url
+https://youtu.be/4vefNB4axpg&list=PL_csAAO9PQ8YJ8S6q1cZYXwu8kOfQyYSB
+
+Swift NSFetchedResultsController.url
+https://youtu.be/AcWgH5jgwQc&list=PL_csAAO9PQ8YJ8S6q1cZYXwu8kOfQyYSB
+Core Data iOS in 2020

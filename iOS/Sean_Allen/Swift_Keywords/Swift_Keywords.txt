@@ -1,0 +1,37 @@
+
+How to use a Switch Statement in Swift  Beginner.url
+https://youtu.be/ZeLEGJfpJ5M&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+How to use Lazy in Swift.url
+https://youtu.be/xKoua1Mi6qE&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift - How to use typealias  Swift 5.2, Xcode 11.url
+https://youtu.be/JvynRYZEU-8&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift - Static Properties & Methods Explained.url
+https://youtu.be/s2E5hVxQAZQ&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift - What is self.url
+https://youtu.be/bBXdXmUobMw&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift - What is the Final keyword.url
+https://youtu.be/XHrpcUqig3g&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift Access Control Explained.url
+https://youtu.be/RFGEzkBa834&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift Closures @escaping Explained.url
+https://youtu.be/xiS5gJOIQxI&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift Enum - Basics, Raw Values, Associated Values, CaseIterable & More.url
+https://youtu.be/CdBL7m1AeII&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift For Beginners - Class & Inheritance Explained.url
+https://youtu.be/EhDML-fAqTM&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift Structs - Value Type vs. Reference Type.url
+https://youtu.be/3ox38NBBiNM&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+
+Swift Tip - #warning & #error.url
+https://youtu.be/lvzcJ62JJmU&list=PL8seg1JPkqgHx8DgGsHB4Dh_H_78x8oQE
+Swift Keywords

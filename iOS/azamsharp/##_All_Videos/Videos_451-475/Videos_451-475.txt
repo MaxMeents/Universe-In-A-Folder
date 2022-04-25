@@ -1,0 +1,76 @@
+
+#1 Setting Up Express Server in Node.url
+https://youtu.be/8JzIlaOcER0
+
+#115 Understanding MVC Design Pattern Part 1.url
+https://youtu.be/DFGep7tOWss
+
+#116 Setting Up Xcode Project in MVC Part 2.url
+https://youtu.be/AYnSXuYSvIM
+
+#117 Creating Models in MVC Part 3.url
+https://youtu.be/-WuU8c16Dbw
+
+#118 Creating Views in MVC Part 4.url
+https://youtu.be/mP0OOEo26cA
+
+#119 Creating Controllers in MVC Part 5.url
+https://youtu.be/39kZY9P30Y4
+
+#120 Populating Views Using Models Part 6.url
+https://youtu.be/A15vCpPffy4
+
+#4 Posting a New Trip.url
+https://youtu.be/nPPOHWV7b98
+
+#5 Displaying New Trips.url
+https://youtu.be/zxGEuOllNOU
+
+#5 Variables.url
+https://youtu.be/UOEmjPk0ggk
+
+#6 Express Router.url
+https://youtu.be/ocYsplGWR00
+
+#6 Type Conversion.url
+https://youtu.be/ed22MZ0gyMk
+
+#7 Strings.url
+https://youtu.be/rC-HTrNrLo4
+
+2) Setting Up Mustache.url
+https://youtu.be/3MfyIL6Rt0g
+
+3) Displaying List in Mustache.url
+https://youtu.be/saqaO3bOuVA
+
+AR Watch - Image Tracking and Custom Occlusion.url
+https://youtu.be/tYj1T-vdJjM
+
+AR Watch with Occlusion.url
+https://youtu.be/b5JYgY6luJY
+
+AR Watch.url
+https://youtu.be/TQwVVPzNHRQ
+
+Data Structures and Algorithms in Swift Promo.url
+https://youtu.be/K826V2D7nww
+
+FKXcode.url
+https://youtu.be/bbAiZt3meV0
+
+Garden of the Gods in Augmented Reality.url
+https://youtu.be/cJD6XAK_xGk
+
+Guess the places! ) Creating in ARKit with MapBox.url
+https://youtu.be/r-jx-npJScQ
+
+Integrating Mapbox with ARKit.url
+https://youtu.be/UuqX1NRUwa4
+
+NEW COURSE - Mastering MapKit for iOS.url
+https://youtu.be/W426pI5_kBE
+
+Promo Video - Mastering ARKit for iOS.url
+https://youtu.be/w9qfVac5t-w
+Videos 451-475

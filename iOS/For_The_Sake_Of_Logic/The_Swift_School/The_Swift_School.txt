@@ -1,0 +1,22 @@
+
+01-Variables and Constants - Swift School - Swift 4.url
+https://youtu.be/8_0WLMFmQWk&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+
+02-Inferencing, Type Annotation, and Safety - Swift 4.url
+https://youtu.be/MB98Ph9Ga8M&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+
+03-Commenting and Printing to the Console-Swift 4.url
+https://youtu.be/nSQAuqyntj8&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+
+04-Operators in Swift-Swift 4.url
+https://youtu.be/kTJ2HgeQSaM&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+
+05-Data Types-Swift 4.url
+https://youtu.be/83uVeZH6HpQ&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+
+06-Intro To Strings-Swift 4.url
+https://youtu.be/4Sfpl_8xctI&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+
+07-intro to Numbers and Booleans-Swift 4.url
+https://youtu.be/UzsHtyaqv5k&list=PLepWyYEuKv9usI0-sM3p45QtDdkXjV3Ot
+The Swift School

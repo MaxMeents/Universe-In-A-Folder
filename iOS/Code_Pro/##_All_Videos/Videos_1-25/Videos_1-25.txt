@@ -1,0 +1,76 @@
+
+Classes vs Structs Swift.url
+https://youtu.be/Liw9t6yNRCs
+
+Custom View Controller Transitions.url
+https://youtu.be/FvdrNSi8orE
+
+Enabling Code Coverage Xcode.url
+https://youtu.be/NQYYd2Vv27Y
+
+How To Parse JSON Using Codable.url
+https://youtu.be/Oj-2s0ALACE
+
+How To Survive the iOS Interview.url
+https://youtu.be/Hn-Wkqgsc3Q
+
+iOS Alamofire Tutorial.url
+https://youtu.be/5hcHbhIWIeI
+
+iOS Core Image Filters Tutorial.url
+https://youtu.be/j3VtUKucYSw
+
+iOS Custom UITableviewCell Tutorial.url
+https://youtu.be/OLNQ1w_ed8g
+
+iOS Keyframe Animation Tutorial Part 1.url
+https://youtu.be/M1UeQVfSIik
+
+iOS Keyframe Animation Tutorial Part 2.url
+https://youtu.be/RoKnQ-NukO8
+
+iOS Local Notification Tutorial.url
+https://youtu.be/cx2B8P84tS4
+
+iOS NSNotificationCenter Tutorial.url
+https://youtu.be/2XRsEVWOEiA
+
+iOS Swiftlint Tutorial.url
+https://youtu.be/MJcBhc59eu8
+
+iOS Unit Test Mocking Tutorial.url
+https://youtu.be/zB61-7E7eoo
+
+iOS User Defaults Tutorial.url
+https://youtu.be/yMkFlzTNMRA
+
+Macbook Pro vs iMac For Programming.url
+https://youtu.be/aVJyi2szDg0
+
+Objective C Classes.url
+https://youtu.be/WFoPnI2l7A4
+
+Refactoring The Massive View Controller.url
+https://youtu.be/JKdSpHxUGNU
+
+SDWebImage Tutorial.url
+https://youtu.be/EYbD7Ab3FH4
+
+Self Sizing Table View Cells.url
+https://youtu.be/btWyhfbenhA
+
+Swift Optionals Explained.url
+https://youtu.be/zu_1IxP-WoY
+
+UI Testing iOS Tutorial.url
+https://youtu.be/rmKbsQ41wVY
+
+UICollectionView Tutorial.url
+https://youtu.be/TQOhsyWUhwg
+
+UIPageViewController Tutorial.url
+https://youtu.be/hIMRn_LdvOg
+
+UISearchController Tutorial.url
+https://youtu.be/hHsGgvIZWVM
+Videos 1-25

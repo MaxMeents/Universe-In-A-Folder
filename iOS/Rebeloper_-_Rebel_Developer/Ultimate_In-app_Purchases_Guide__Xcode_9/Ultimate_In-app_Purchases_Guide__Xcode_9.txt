@@ -1,0 +1,28 @@
+
+Buy In-app Purchases Example Code Xcode 9 and Swift 4 and iOS 11 (Ultimate Step by Step Tutorial).url
+https://youtu.be/tniBAyrNI0k&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+In-app Purchases in  Xcode 9 Tutorial - consumables, non-cons, auto and non-renewing subscriptions.url
+https://youtu.be/bIyj6BZ1-Qw&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+Infinite Loop [Crazy Bug FIX] for In app Purchases.url
+https://youtu.be/OYlmAACVmHE&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+My App Got Rejected because of In-App Purchases [SOLUTIONS].url
+https://youtu.be/upTO0g_Qjhs&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+Required Text for Subscriptions (NEW) iOS11 auto-renewable subscriptions in app purchases text.url
+https://youtu.be/km-ZxKq93Ro&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+Retrieve In-app Purchases Info Example Xcode 9, Swift 4 and iOS 11 - Ultimate Step by Step Tutorial.url
+https://youtu.be/sIEZ9wijFy0&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+SwiftyStoreKit in Xcode 9 and Swift 4 and iOS 11 - Ultimate Step by Step Tutorial.url
+https://youtu.be/6ekX7FK0OTY&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+Verify In-app Purchases and Receipts Example Xcode 9 and Swift 4 and iOS 11 - Step by Step Tutorial.url
+https://youtu.be/Y6FkbZxVzNI&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+
+Virtual Currency System for iOS Games in Swift 4 (Discount!).url
+https://youtu.be/r6wTu_Hdxe4&list=PL_csAAO9PQ8b9kqrltk2_SpYslTwyrwjb
+Ultimate In-app Purchases Guide  Xcode 9, Swift 4, iOS 11

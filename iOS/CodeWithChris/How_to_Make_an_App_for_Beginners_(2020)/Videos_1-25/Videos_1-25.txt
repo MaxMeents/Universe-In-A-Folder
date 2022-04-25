@@ -1,0 +1,76 @@
+
+Auto Layout (Lesson 2) Bonus Training.url
+https://youtu.be/2tqkuGETgXg&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Auto Layout Tutorial (2020) - Lesson 2.url
+https://youtu.be/emojd8GFB0o&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Coding Logic with IF Statements (2020) - Lesson 10.url
+https://youtu.be/Afp-qjZHZvs&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Handling User Interaction (2020) - Lesson 9.url
+https://youtu.be/Y2zMP6Pu9Rg&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+How to Make an App for Beginners (2020) - Lesson 1.url
+https://youtu.be/jniJeamcIUU&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+IBOutlet Properties and IBAction Methods (2020) - Lesson 8.url
+https://youtu.be/GTaPQp_KFsI&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Arrays (2020) - Lesson 14.url
+https://youtu.be/339QXSMEGYQ&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Dictionaries (2020) - Lesson 16.url
+https://youtu.be/DZkCQ4q-qV0&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Intro (2020) - Lesson 11.url
+https://youtu.be/r2swa148uA0&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Loops (2020) - Lesson 17.url
+https://youtu.be/X9ywwPRcpII&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Optionals (2020) - Lesson 15.url
+https://youtu.be/omLs2CDG-5A&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Subclassing and Inheritance (2020) - Lesson 13.url
+https://youtu.be/NOSzzWQn03Y&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Tutorial Basics (2020) - Lesson 5.url
+https://youtu.be/lFyqd9xrRTY&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Tutorial Basics (Part 2) - Lesson 6.url
+https://youtu.be/HBshpfGYpmM&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift Tutorial Basics (Part 3) - Lesson 7.url
+https://youtu.be/8j8PeENQdqU&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Swift UIKit and Apple Documentation (2020) - Lesson 12.url
+https://youtu.be/oIKgTzB4-vs&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game Custom Classes (2020) - Lesson 21.url
+https://youtu.be/goi26Yp41A4&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game Implementing the Protocols and Delegates Pattern (2020) - Lesson 23.url
+https://youtu.be/YQiJyNEI87I&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game Intro (2020) - Lesson 18.url
+https://youtu.be/YHUN1btBtyY&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game Project Setup (2020) - Lesson 20.url
+https://youtu.be/M0CqCuN-OHo&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game Protocols and Delegates (2020) - Lesson 22.url
+https://youtu.be/iJ5kJi-sC1M&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game The MVC Design Pattern (2020) - Lesson 19.url
+https://youtu.be/ThLRaJ4dmuM&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+The Card Game Xcode Best Practices (2020) - Lesson 24.url
+https://youtu.be/AIanZjUiFzA&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+UIStackView Tutorial (2020) - Lesson 3.url
+https://youtu.be/eF9Ut-VpdAI&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+
+Your First User Interface (2020) - Lesson 4.url
+https://youtu.be/2CsFQZBKGT8&list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a
+Videos 1-25

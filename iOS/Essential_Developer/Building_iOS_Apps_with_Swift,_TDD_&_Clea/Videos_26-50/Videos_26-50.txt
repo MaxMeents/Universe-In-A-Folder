@@ -1,0 +1,46 @@
+
+Building beautiful iOS apps with TDD – A first look at Neat Trivia [S01 Extras].url
+
+
+iOS Continuous Integration Setup with Git, GitHub, Travis CI, TDD, Xcode [S01 Extras].url
+
+
+Migrating the project to Swift 4 [S01 Extras].url
+https://youtu.be/yTNBwsMtr0Q&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+Migrating to Swift 4.1 using a TDD + Git workflow [S01 Extras].url
+https://youtu.be/YM7UrCuLA_I&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+Migrating to Swift 4.2 using a TDD + Git workflow [S01 Extras].url
+https://youtu.be/1bYNmMILkEw&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S02E01 iOS Architecture Overview & Planning  Professional iOS Engineering Series.url
+
+
+S02E05 Designing a more flexible Quiz framework  Professional iOS Engineering Series.url
+
+
+S02E06 Design spiking DataSourceDelegate APIs  Professional iOS Engineering Series.url
+
+
+S02E08 Safely changing Swift code with tests  Professional iOS Engineering Series.url
+
+
+S02E10 Finding and fixing bugs with a Swift test spy  Professional iOS Engineering Series.url
+
+
+S02E11 Cleaning up Swift code backed by tests  Professional iOS Engineering Series.url
+
+
+S02E17 Migrating the View Controller Factory part 2  Professional iOS Engineering Series.url
+
+
+S02E18 Migrating the Navigation Controller Router  Professional iOS Engineering Series.url
+
+
+S02E19 Migrating the Router and iOS AppDelegate  Professional iOS Engineering Series.url
+
+
+S02E20 New iOS Quiz App Architecture Overview  Professional iOS Engineering Series.url
+
+Videos 26-50

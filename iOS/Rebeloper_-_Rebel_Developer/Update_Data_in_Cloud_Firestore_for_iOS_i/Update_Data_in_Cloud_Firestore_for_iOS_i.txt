@@ -1,0 +1,25 @@
+
+Cloud Firestore - Firestore Batch.url
+https://youtu.be/cUEhArDE5BE&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+Cloud Firestore Tutorial for iOS - (with Firebase authentication!).url
+https://youtu.be/P1cNScXGlVI&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+Firestore Transaction Examples.url
+https://youtu.be/MDT3-wEzH9s&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+Firestore Tutorial - Database Counter.url
+https://youtu.be/ZilaQ2NBA1g&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+Firestore Tutorial - Update Data.url
+https://youtu.be/mqVRNrvUtLc&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+Getting Started w FireStore! (Swift 4 in Xcode  Firebase).url
+https://youtu.be/98a1tmPMDkY&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+Getting Started With Cloud Firestore on iOS - Firecasts.url
+https://youtu.be/rvxYRm6n_NM&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+
+iOS Swift Tutorial Cloud Firestore Database - Basics and Xcode Integration.url
+https://youtu.be/PdLzuwBrmSg&list=PL_csAAO9PQ8ZWeK0RUCW4ssqIWhomhIDB
+Update Data in Cloud Firestore for iOS in Swift 5

@@ -1,0 +1,76 @@
+
+#1 Grocery App - Setting Up Firebase with Xcode 12.url
+https://youtu.be/ZCFz9Mj4gkU
+
+#2 Grocery App - Saving Grocery Store to Firestore Database.url
+https://youtu.be/dxgQZWIdRC0
+
+#3 Grocery App - Fetching and Displaying Stores.url
+https://youtu.be/XXcrBVViFv4
+
+#4 Grocery App - Deleting Store from Firestore Database Using SwiftUI.url
+https://youtu.be/4d3ctNyKNbE
+
+#5 Grocery App - Updating Store in Firestore Database Using SwiftUI.url
+https://youtu.be/nYSqDY-dqT4
+
+#6 Grocery App - Save Nested Data in Firestore.url
+https://youtu.be/Ckf5Id1Wtgo
+
+Backend Driven UI Using SwiftUI.url
+https://youtu.be/uq6KBsDt8tI
+
+Displaying List in Flutter.url
+https://youtu.be/Hfz0pzMCW8Y
+
+Enable Light Color for Status Bar in iOS 14 Using SwiftUI.url
+https://youtu.be/w-I5I8POMSI
+
+Firebase Authentication Using SwiftUI.url
+https://youtu.be/wt5exrHYAZU
+
+Firestore REST API and JSON Decoding in Swift.url
+https://youtu.be/0JOrXCCBQw0
+
+Fixing - Flutter command not found on macOS Catalina.url
+https://youtu.be/YqEleK6iwsg
+
+Flutter REST API Integration (Movies App - Part 1).url
+https://youtu.be/UT7RqvtyXLI
+
+Hello Flutter.url
+https://youtu.be/CTxQJ03H1tw
+
+Is CS Degree Worth It.url
+https://youtu.be/Is2CzWo1ric
+
+Mobile Banking App - Freestyle.url
+https://youtu.be/n_K0dfunZSg
+
+NEW COURSE - Composable SwiftUI Architecture Using Redux - $9.99.url
+https://youtu.be/AZlB48yI8tk
+
+NEW COURSE - The Complete Hands-On SwiftUI Apps Using Firebase.url
+https://youtu.be/eHk0aw4KKag
+
+Reusing SwiftUI Styles.url
+https://youtu.be/ALxJja8lSD8
+
+Routing in SwiftUI.url
+https://youtu.be/Xd0J18isFEQ
+
+ScrollViewReader to Automatically Scroll.url
+https://youtu.be/G7Zg17O-ULw
+
+SwiftUI BadUX - Phone Entry.url
+https://youtu.be/ELxae8NCuXk
+
+THANKSGIVING SALE SALE SALE!!!.url
+https://youtu.be/nhC2iS1Ihok
+
+Writing Clean Code - Intention-Revealing Names.url
+https://youtu.be/tePvLAefzmQ
+
+Your Suggestions Needed!.url
+https://youtu.be/6aqsykx-OE4
+Videos 151-175

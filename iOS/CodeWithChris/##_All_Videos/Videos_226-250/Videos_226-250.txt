@@ -1,0 +1,76 @@
+
+(5 Easy Steps) Send Local Notifications in iOS.url
+https://youtu.be/JuqQUP0pnZY
+
+5 Tips To Help You Complete Your Apps.url
+https://youtu.be/BC7mrutRiv4
+
+AdMob Ads Tutorial for iOS (2020).url
+https://youtu.be/dWnLUH3qCE0
+
+Firebase Tutorial for iOS.url
+https://youtu.be/JV9Oqyle3iE
+
+How to Build a Custom Form with Auto Layout.url
+https://youtu.be/-haK6v6YiU8
+
+How To Build a Login Page in iOS with Firebase.url
+https://youtu.be/brpt9Thi6GU
+
+How To Build a Match Game - Lesson 10 (Win Condition).url
+https://youtu.be/Mf-SPWFqeJk
+
+How To Build a Match Game - Lesson 11 (Sounds).url
+https://youtu.be/ChxPEA7mdlQ
+
+How to Create an App Icon (2019).url
+https://youtu.be/bOjoBgtjwt4
+
+How To Do Full Screen Sliding Cards.url
+https://youtu.be/vdzj1EzjqNg
+
+How To Make An App From Scratch Ep 1 (Livestreamed).url
+https://youtu.be/TKTPjUB0cKc
+
+How To Make An App From Scratch Ep 2 (Livestreamed).url
+https://youtu.be/OjYHc2O8nZk
+
+How To Make An App From Scratch Ep 3 (Livestreamed).url
+https://youtu.be/oIJ_-NKib7s
+
+How To Make an iOS App War Card Game App in Xcode 10 [Live Streamed].url
+https://youtu.be/GB9NOHdT66I
+
+Intro to Databases (MySQL, CloudKit, Firebase, Core Data, Realm).url
+https://youtu.be/NxyvPltvvBE
+
+Live Q&A!.url
+https://youtu.be/gz0KEkXtHcQ
+
+Realm Database Tutorial for iOS.url
+https://youtu.be/PmsJW59rNY8
+
+Swift for Windows (2018) - Learn Swift In Your Browser!.url
+https://youtu.be/7rIjwmgDBjE
+
+Swift Programming Tutorial for Beginners (Full Tutorial).url
+https://youtu.be/Ulp1Kimblg0
+
+The App Design Process.url
+https://youtu.be/cU6T_0j2Pp4
+
+The CodeWithChris Team.url
+https://youtu.be/clywTIQ2LDE
+
+Tips for choosing a database for your app.url
+https://youtu.be/BIHaFH4VybA
+
+Top 7 Mistakes Beginners Make While Learning To Code.url
+https://youtu.be/o-vdbQJjvKo
+
+What I'm Thankful For.url
+https://youtu.be/wralb2o9dt8
+
+Where is my Library Pane (Xcode 10 and Xcode 11).url
+https://youtu.be/8fwwhZ4nbPc
+Videos 226-250

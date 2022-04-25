@@ -1,0 +1,34 @@
+
+How To Build a Match Game - Lesson 1 (Here's the app you'll build).url
+https://youtu.be/ymQpuxCGptU&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 10 (Win Condition).url
+https://youtu.be/Mf-SPWFqeJk&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 11 (Sounds).url
+https://youtu.be/ChxPEA7mdlQ&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 2 (MVC Design Pattern).url
+https://youtu.be/j8nmtC4NWdA&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 3 (Project Setup).url
+https://youtu.be/MXmoEm0j0yo&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 4 (Custom Classes).url
+https://youtu.be/36lh3xzagyw&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 5 (Protocol & Delegates).url
+https://youtu.be/zcD1tS8tiL0&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 6 (Xcode Best Practices).url
+https://youtu.be/8_s1-5r8kas&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 7 (Xcode Debugging).url
+https://youtu.be/bcK8wuQKS90&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 8 (Card Flipping).url
+https://youtu.be/oYHM-905OnU&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+
+How To Build a Match Game - Lesson 9 (Game Logic).url
+https://youtu.be/nAJ7sDF39II&list=PLMRqhzcHGw1YdahNsCLZdSVfNv0stwvdx
+How to Build a Match Game

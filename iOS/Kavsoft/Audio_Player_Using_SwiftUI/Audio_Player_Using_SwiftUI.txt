@@ -1,0 +1,10 @@
+
+AVAudio Player In SwiftUI - Audio Player In SwiftUI - How To Play Audio In SwiftUI.url
+https://youtu.be/0sQU3lc3jNw&list=PLimqJDzPI-H99CnYTwgY7KzYi0ETa38f9
+
+Custom Audio Player Using SwiftUI - AVAudioPlayer Using SwiftUI - SwiftUI Tutorial.url
+https://youtu.be/b0bNsIT2apQ&list=PLimqJDzPI-H99CnYTwgY7KzYi0ETa38f9
+
+Draggable Audio Player In SwiftUI - Floating Audio Player In SwiftUI - Audio Player SwiftUI Tutorial.url
+https://youtu.be/8iTuU7TjSrk&list=PLimqJDzPI-H99CnYTwgY7KzYi0ETa38f9
+Audio Player Using SwiftUI

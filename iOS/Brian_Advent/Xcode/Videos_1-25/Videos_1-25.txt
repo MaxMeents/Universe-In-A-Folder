@@ -1,0 +1,76 @@
+
+Create a Simple iOS and Web App with CloudKit and CloudKit JS.url
+https://youtu.be/A_yx8Dn46R8&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Game Tutorial Multiple SpriteKit Scenes Space Game Part 2 🚀.url
+https://youtu.be/hirL1eDbum8&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Animations with Auto Layout 1524 🎄.url
+https://youtu.be/Di6tGjYAl2M&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Automatic Image Classification with Visual Recognition from IBM Watson.url
+https://youtu.be/cBMdEbbaiv4&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Basic Custom Camera App - AVFoundation.url
+https://youtu.be/Zv4cJf5qdu0&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Blurry Pop Up Animation with UIVisualEffects (iOS Blur Effect).url
+https://youtu.be/CXvOS6hYADc&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Buildung and Adding Frameworks with Carthage.url
+https://youtu.be/jLwx6sDjsIA&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Cool Animated Checkbox Control 0824 🎄.url
+https://youtu.be/juMWo5wniKg&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Create a Circular Transition Animation (Custom UIViewController Transitions).url
+https://youtu.be/B9sH_VxPPo4&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Create a simple 3D Game with Scene Kit.url
+https://youtu.be/haZmF3ZYIYc&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Create Custom Segue Transition Animations 1124 🎄.url
+https://youtu.be/jn-93qElOT4&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Customize Table Views 1424 🎄.url
+https://youtu.be/WTxOsh3z6vw&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial From Sketch Design to Real App with Standard Components - 2424 🎄.url
+https://youtu.be/D1JMZIJrmKw&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial From Sketch Design to Real App.url
+https://youtu.be/DYhPufgcqF4&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Get started with Core Data and Swift 3 - A Present App.url
+https://youtu.be/bnxQQgHL1hM&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Get started with UITableView 1324 🎄.url
+https://youtu.be/cWtCt8GFSDg&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial How to convert your projects to Swift 3.0.url
+https://youtu.be/AgURnpHMygs&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Insane Animations with AfterEffects and Lottie.url
+https://youtu.be/ESjFEaZx7UI&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial The power of UIStackView.url
+https://youtu.be/su03OyqPvv0&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial UITextView Tips and Tricks 1224 🎄.url
+https://youtu.be/oienPcLcbkA&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Use live rendering with Xcode.url
+https://youtu.be/bToFQRIPeGo&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Use Segues for Visual Transitions between View Controllers 1024 🎄.url
+https://youtu.be/OZix7etsd8g&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Why use Subclasses.url
+https://youtu.be/ACCkULy-tZ8&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+iOS Swift Tutorial Working with multiple UIViewControllers 0924 🎄.url
+https://youtu.be/-Rsr3hoSRes&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+
+MacBook Pro with Touch Bar. Good for developers.url
+https://youtu.be/ac7HIQFwmgc&list=PLY1P2_piiWEYm2eeXNp9XWc5ZI2yB8OhF
+Videos 1-25

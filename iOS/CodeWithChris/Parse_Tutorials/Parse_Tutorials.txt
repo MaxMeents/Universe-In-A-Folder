@@ -1,0 +1,40 @@
+
+How To Use Parse (Swift, Xcode) - Ep 1 - Sign up for Parse.url
+https://youtu.be/CtdvDxTnd8Q&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 10 - Parse User Accounts and Management.url
+https://youtu.be/0aOHIYzkiEA&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 11 - Parse User Login and Sign Up Account.url
+https://youtu.be/9gsJCrSK8UA&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 12 - Parse Geolocation and GeoPoints.url
+https://youtu.be/4UcXdivw3sQ&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 13 - Parse Relational Data and Objects.url
+https://youtu.be/fcqr4hYkbjw&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 2 - Integrate Parse SDK with Cocoapods.url
+https://youtu.be/z4tACSHavlg&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 3 - Save Data to Parse.url
+https://youtu.be/W37GkM1nH6Y&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 4 - Retrieve Data from Parse.url
+https://youtu.be/XdXFd2AYpIs&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 5 - Updating and Deleting Objects.url
+https://youtu.be/3xjdF0T8tjg&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 6 - Query Constraints.url
+https://youtu.be/L2YAoL-nnnQ&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 7 - Query Constraints Part 2.url
+https://youtu.be/V9JVMjsbfpo&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 8 - Saving Images, sounds and file data to Parse.url
+https://youtu.be/36sAbIsnZhg&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+
+How To Use Parse (Swift, Xcode) - Ep 9 - Parse Local Datastore.url
+https://youtu.be/XHvEzqO7JuM&list=PLMRqhzcHGw1ZFjFyHGJTTPuvcLbwVCuG4
+Parse Tutorials

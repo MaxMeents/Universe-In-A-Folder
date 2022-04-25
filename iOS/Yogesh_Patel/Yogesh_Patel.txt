@@ -1,0 +1,67 @@
+
+## All Videos
+/iOS/Yogesh_Patel/##_All_Videos/##_All_Videos.txt
+
+### All Playlists Below
+/iOS/Yogesh_Patel/###_All_Playlists_Below/###_All_Playlists_Below.txt
+
+2021 SwiftUI Tutorial For Absolute Beginner (SwiftUI Basics & Essentials) Hindi  Xcode 12 & Swift 5
+/iOS/Yogesh_Patel/2021_SwiftUI_Tutorial_For_Absolute_Begin/2021_SwiftUI_Tutorial_For_Absolute_Begin.txt
+
+Build a To Do List App from scratch with Realm and Singleton Design Pattern in Swift 5 Hindi
+/iOS/Yogesh_Patel/Build_a_To_Do_List_App_from_scratch_with/Build_a_To_Do_List_App_from_scratch_with.txt
+
+CoreData Relationship Tutorial Project  in Swift 5 iOS
+/iOS/Yogesh_Patel/CoreData_Relationship_Tutorial_Project__/CoreData_Relationship_Tutorial_Project__.txt
+
+iOS 13 Swift Tutorials
+/iOS/Yogesh_Patel/iOS_13_Swift_Tutorials/iOS_13_Swift_Tutorials.txt
+
+iOS Architecture Design Patterns MVC, MVP, MVVM and VIPER in Swift 4 Hindi
+/iOS/Yogesh_Patel/iOS_Architecture_Design_Patterns_MVC,_MV/iOS_Architecture_Design_Patterns_MVC,_MV.txt
+
+iOS Swift Firebase Database Swift Tutorials in Hindi
+/iOS/Yogesh_Patel/iOS_Swift_Firebase_Database_Swift_Tutori/iOS_Swift_Firebase_Database_Swift_Tutori.txt
+
+Objective C Tutorial For Beginners(Full) in Hindi
+/iOS/Yogesh_Patel/Objective_C_Tutorial_For_Beginners(Full)/Objective_C_Tutorial_For_Beginners(Full).txt
+
+Objective-C - UITableView Tutorials For Beginners in Hindi
+/iOS/Yogesh_Patel/Objective-C_-_UITableView_Tutorials_For_/Objective-C_-_UITableView_Tutorials_For_.txt
+
+Recommended
+/iOS/Yogesh_Patel/Recommended/Recommended.txt
+
+Swift & Objective-C & C++ - IOS InterView Questions And Answers in Hindi
+/iOS/Yogesh_Patel/Swift_&_Objective-C_&_C++_-_IOS_InterVie/Swift_&_Objective-C_&_C++_-_IOS_InterVie.txt
+
+Swift 4 - UICollectionView Tutorials For Beginners in Hindi
+/iOS/Yogesh_Patel/Swift_4_-_UICollectionView_Tutorials_For/Swift_4_-_UICollectionView_Tutorials_For.txt
+
+Swift 4 - UITableView Tutorials For Beginners in Hindi
+/iOS/Yogesh_Patel/Swift_4_-_UITableView_Tutorials_For_Begi/Swift_4_-_UITableView_Tutorials_For_Begi.txt
+
+Swift 5 & Xcode 11 -   Assignments in iOS Hindi
+/iOS/Yogesh_Patel/Swift_5_&_Xcode_11_-___Assignments_in_iO/Swift_5_&_Xcode_11_-___Assignments_in_iO.txt
+
+Swift 5 & Xcode 11 - Autolayout Constraints Tutorials in iOS Hindi
+/iOS/Yogesh_Patel/Swift_5_&_Xcode_11_-_Autolayout_Constrai/Swift_5_&_Xcode_11_-_Autolayout_Constrai.txt
+
+Swift 5 - Core Data Tutorials For Beginners in iOS Hindi
+/iOS/Yogesh_Patel/Swift_5_-_Core_Data_Tutorials_For_Beginn/Swift_5_-_Core_Data_Tutorials_For_Beginn.txt
+
+Swift 5 API Tutorials-  Alamofire  Json Decoder  Codable  Encodable  Kingfisher
+/iOS/Yogesh_Patel/Swift_5_API_Tutorials-__Alamofire__Json_/Swift_5_API_Tutorials-__Alamofire__Json_.txt
+
+Swift 5 tutorials - Dispatch Queue, Thread, Sync, Async, Dispatch Group, Notify, Leave, Enter, Wait, Concurrency, Main Queue, QOS, Dispatch Semaphore
+/iOS/Yogesh_Patel/Swift_5_tutorials_-_Dispatch_Queue,_Thre/Swift_5_tutorials_-_Dispatch_Queue,_Thre.txt
+
+Swift Apple WatchKit Tutorials For Absolute Beginners (Swift Basics) in iOS Hindi
+/iOS/Yogesh_Patel/Swift_Apple_WatchKit_Tutorials_For_Absol/Swift_Apple_WatchKit_Tutorials_For_Absol.txt
+
+Swift Tutorials For Beginners(Full) in Hindi
+/iOS/Yogesh_Patel/Swift_Tutorials_For_Beginners(Full)_in_H/Swift_Tutorials_For_Beginners(Full)_in_H.txt
+
+The easiest way to build a Login, Signup screen with validation and Keyboard Handling in Autolayout using UITableView in Swift 5 Xcode 12 Hindi
+/iOS/Yogesh_Patel/The_easiest_way_to_build_a_Login,_Signup/The_easiest_way_to_build_a_Login,_Signup.txt
+Yogesh Patel

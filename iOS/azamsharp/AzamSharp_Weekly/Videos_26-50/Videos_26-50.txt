@@ -1,0 +1,76 @@
+
+Building Autocomplete in SwiftUI (Location Search).url
+https://youtu.be/cOD1l2lv2Jw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Building SwiftUI Xcode Previews Using JSON File.url
+https://youtu.be/EycwLxTU-EA&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Building TodoList App in SwiftUI Using Core Data.url
+https://youtu.be/CZ79PpB7HIo&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Caching Images in SwiftUI.url
+https://youtu.be/eNOT0Fyswbc&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Calculating Directions in SwiftUI.url
+https://youtu.be/laycQaNxwhY&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Core Data MVVM in SwiftUI App Using NSFetchedResultsController.url
+https://youtu.be/gGM_Qn3CUfQ&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Creating Drawing App in SwiftUI.url
+https://youtu.be/P0OdY9MVu_g&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Deleting App Before Running Each Test.url
+https://youtu.be/zrl5Rq1MNWo&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Domain Driven Architecture Overview for SwiftUI Apps.url
+https://youtu.be/kKpcxJTCIfQ&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Getting Started with Vapor.url
+https://youtu.be/h_G8-kHn6r8&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Implementing Delay to Delete Functionality in SwiftUI.url
+https://youtu.be/oIGPs1b-n30&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+NEW COURSE Test Driven Development in iOS Using Swift.url
+https://youtu.be/0NYABXvoyRA&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Property Wrappers in Swift Language.url
+https://youtu.be/i6F8VEzCFlY&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Saving Images Using Core Data.url
+https://youtu.be/XqqIwJAqNZs&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Saving Transformable Types Using Core Data.url
+https://youtu.be/g6jBU8E1K2U&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+ShowHide Password Using Custom View in SwiftUI.url
+https://youtu.be/NMVBSkvyX-c&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Snow in SwiftUI.url
+https://youtu.be/VMBDODEOkqw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI Tips (Part 1).url
+https://youtu.be/M2e1Z9enFHo&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI Todo List Using JSON API - Creating Todo Items.url
+https://youtu.be/RxyT-lNY9CE&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI Todo List Using JSON API - Deleting Todo Items.url
+https://youtu.be/9UiGQzOsT3k&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Understanding NavLink in SwiftUI.url
+https://youtu.be/_eAj91rGqsk&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+View Model to View Binding in UIKit.url
+https://youtu.be/OWlhbM7pVqs&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+View to View Model Binding in UIKit.url
+https://youtu.be/ywD_FeRU3gw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+What am I working on - New Course on SwiftUI for macOS Programming.url
+https://youtu.be/xaMk-boJ95k&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+What I am working on (macOS Maps App for new macOS Course).url
+https://youtu.be/FNYVHNSLFbs&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+Videos 26-50

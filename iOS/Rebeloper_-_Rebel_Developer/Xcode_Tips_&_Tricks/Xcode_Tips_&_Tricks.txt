@@ -1,0 +1,22 @@
+
+Bundle Display Name.url
+https://youtu.be/RzLq0SizoZQ&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+
+Color Set - Hex to Color Name.url
+https://youtu.be/5JdWoR7O5g4&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+
+How to use Xcode Shortcuts to Speed Up your Development Process.url
+https://youtu.be/j4X4RVcNf0Q&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+
+Plist Mac - How to fix missing Info.plist error in Xcode (Step by Step Tutorial).url
+https://youtu.be/DqDzJ5TZWEg&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+
+Xcode Themes.url
+https://youtu.be/GJwoPARBQQY&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+
+Xcode Tutorial - Image Literals.url
+https://youtu.be/igOpntQg1YI&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+
+Xcode Wireless Debug.url
+https://youtu.be/DCaya6K5wY8&list=PL_csAAO9PQ8bv8hkXi4FWeFMYm0NdJB-t
+Xcode Tips & Tricks

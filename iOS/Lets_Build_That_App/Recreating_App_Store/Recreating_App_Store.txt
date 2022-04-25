@@ -1,0 +1,19 @@
+
+Parsing JSON Just Became Super Easy in Swift 4 with Decodable.url
+https://youtu.be/YY3bTxgxWss&list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma
+
+Swift AppStore - Integrating REST API, JSON, and Model Objects (Ep 2).url
+https://youtu.be/uLb8cs11h_g&list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma
+
+Swift AppStore - Perform Segue In Code or Programmatically (Ep 4).url
+https://youtu.be/70OhFMzRBZM&list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma
+
+Swift AppStore - REST JSON Fetching App Details (Ep 5).url
+https://youtu.be/2B1P8QKKaXk&list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma
+
+Swift AppStore - UICollectionView Headers and Cell Subclassing.url
+https://youtu.be/QOfhZuzJZk0&list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma
+
+Swift Recreating AppStore - Horizontal Scroll Direction UICollectionView (Ep 1).url
+https://youtu.be/Ko9oNhlTwH0&list=PL0dzCUj1L5JEXct3-OV6itP7Kz3tRDmma
+Recreating App Store

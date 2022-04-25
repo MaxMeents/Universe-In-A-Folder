@@ -1,0 +1,22 @@
+
+Fullstack MyJournal -  REST API Conventions and Data Persistence Waterline (Ep 2).url
+https://youtu.be/ZPV1Yp2XKDI&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+
+Fullstack MyJournal - Actions2 Better Routes (Ep 5).url
+https://youtu.be/D0HKddyntyU&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+
+Fullstack MyJournal - Home Posts CRUD in HTML EJS (Ep 3).url
+https://youtu.be/vVfremnOKXs&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+
+Fullstack MyJournal - iOS Get Post Delete Requests (Ep 4).url
+https://youtu.be/OOiScZSz6V0&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+
+Fullstack MyJournal - iOS User Auth Login (Ep 7).url
+https://youtu.be/DaUuyJ4Y_S0&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+
+Fullstack Node iOS - Intro to SailsMVC REST API and Routes (Ep 1).url
+https://youtu.be/WRAAMMycrNM&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+
+Fullstack SailsMVC User Authentication and Login (Ep 6).url
+https://youtu.be/nbOgj0pX5Ds&list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj
+Fullstack MyJournal

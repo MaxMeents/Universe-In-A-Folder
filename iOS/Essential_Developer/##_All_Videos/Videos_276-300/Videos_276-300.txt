@@ -1,0 +1,76 @@
+
+Clean iOS Architecture 101 The Adapter Pattern.url
+https://youtu.be/xLkBrCJaDHU
+
+Clean iOS Architecture 101 The Builder Pattern.url
+https://youtu.be/MA6inpP3AnE
+
+Clean iOS Architecture 101 The Composite Pattern.url
+https://youtu.be/RTpDYPEueQU
+
+Clean iOS Architecture 101 The Composition Root.url
+https://youtu.be/IALAPthvM3U
+
+Clean iOS Architecture 101 The Decorator Pattern.url
+https://youtu.be/bh8CotUqJgE
+
+Clean iOS Architecture 101 The Facade Pattern.url
+https://youtu.be/QvqVOg1Dgf0
+
+Clean iOS Architecture 101 The Observer Pattern.url
+https://youtu.be/pDQ90FGNnjU
+
+Clean iOS Architecture 101 The Strategy Pattern.url
+https://youtu.be/YqhswqfThAs
+
+Clean iOS Architecture 101 What is a Design Pattern.url
+https://youtu.be/ruevBQfNolI
+
+Clean iOS Architecture 101 What is an anti-pattern.url
+https://youtu.be/Btm3CTI6eMA
+
+Clean iOS Architecture The Singleton Pattern.url
+https://youtu.be/Fd26jvLs1lI
+
+How can I test an iOS Composition Root.url
+https://youtu.be/SFhSYBSByCo
+
+iOS Composition Root Am I doing it right.url
+https://youtu.be/5UMf9wITkIQ
+
+iOS Composition Root Why do I need it.url
+https://youtu.be/hkC_7sKGg5w
+
+Is a Composition Root bad for memory usage on iOS.url
+https://youtu.be/SoOO86n00qo
+
+Is the main Storyboard the Composition Root of my iOS app.url
+https://youtu.be/PdPDPZ-pDyI
+
+S02E05 Designing a more flexible Quiz framework  Professional iOS Engineering Series.url
+https://youtu.be/9rIxG1AlAL4
+
+S02E06 Design spiking DataSourceDelegate APIs  Professional iOS Engineering Series.url
+https://youtu.be/U3YsZ2wfOsg
+
+S02E07 Refactoring protocols guided by tests and the compiler  Professional iOS Engineering Series.url
+https://youtu.be/Rbtuuw0PJNk
+
+S02E08 Safely changing Swift code with tests  Professional iOS Engineering Series.url
+https://youtu.be/SkC9LWDlp5M
+
+S02E09 Test-driven approach to moving code between components  Professional iOS Engineering Series.url
+https://youtu.be/xHK05IMcF6M
+
+S02E10 Finding and fixing bugs with a Swift test spy  Professional iOS Engineering Series.url
+https://youtu.be/ZZsUfW6iyzg
+
+Should I inject stylescolorsfonts as dependencies in my iOS views.url
+https://youtu.be/t754yX-JCTQ
+
+What are the traits of a clean iOS architecture.url
+https://youtu.be/R4Rig3dHQH0
+
+What is considered a clean iOS architecture.url
+https://youtu.be/xHT1x6p2eQg
+Videos 276-300

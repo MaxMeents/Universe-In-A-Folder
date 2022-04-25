@@ -1,0 +1,19 @@
+
+Animating Popups - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/al9HLGk27Co&list=PLHDMmeIMXj8Xzo53qGyr6CY1PVX7IdUnC
+
+Closures - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/HdrIjoTcPEM&list=PLHDMmeIMXj8Xzo53qGyr6CY1PVX7IdUnC
+
+Creating a Loading Screen - Zelda App (iOS, Xcode 9, Swift 4).url
+https://youtu.be/Z2SQJYVsT3c&list=PLHDMmeIMXj8Xzo53qGyr6CY1PVX7IdUnC
+
+Introduction to iOS Threading - Zelda App (Xcode 8, Swift 3).url
+https://youtu.be/sOnvsZwNsp0&list=PLHDMmeIMXj8Xzo53qGyr6CY1PVX7IdUnC
+
+Modal Popups using the Scene Dock - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/WnlPZbSnlLI&list=PLHDMmeIMXj8Xzo53qGyr6CY1PVX7IdUnC
+
+Transparent TableView - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/LZaDgr2jjoQ&list=PLHDMmeIMXj8Xzo53qGyr6CY1PVX7IdUnC
+Zelda Characters App

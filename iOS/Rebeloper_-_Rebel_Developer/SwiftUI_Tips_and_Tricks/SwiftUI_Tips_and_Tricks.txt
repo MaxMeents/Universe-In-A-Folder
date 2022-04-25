@@ -1,0 +1,19 @@
+
+How to Use a Stepper In Xcode 11 - SwiftUI Tutorial.url
+https://youtu.be/4g5gYgnofWU&list=PL_csAAO9PQ8YzCQmaDdcOc7nLmht69Clz
+
+MVVM SwiftUI - Model View ViewModel Pattern - Getting Started.url
+https://youtu.be/EhtK_H9LsYQ&list=PL_csAAO9PQ8YzCQmaDdcOc7nLmht69Clz
+
+SwiftUI tutorial - How to Use a Slider, Toggle Switch and Form in SwiftUI.url
+https://youtu.be/YVvDeyjbJSU&list=PL_csAAO9PQ8YzCQmaDdcOc7nLmht69Clz
+
+SwiftUI Tutorial - Implementing Dark Mode on iOS and Custom Colors in Xcode 11.url
+https://youtu.be/j7z2bsOsqYw&list=PL_csAAO9PQ8YzCQmaDdcOc7nLmht69Clz
+
+SwiftUI Tutorial - Using SF Symbols for Designing for iOS.url
+https://youtu.be/iYpcYSVLTQk&list=PL_csAAO9PQ8YzCQmaDdcOc7nLmht69Clz
+
+UIAlertController in SwiftUI - Alerts, Action Sheets and Modal Sheets.url
+https://youtu.be/zmM4NIWzC3s&list=PL_csAAO9PQ8YzCQmaDdcOc7nLmht69Clz
+SwiftUI Tips and Tricks

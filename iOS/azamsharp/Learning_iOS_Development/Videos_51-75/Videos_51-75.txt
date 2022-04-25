@@ -1,0 +1,76 @@
+
+#73 Generics in the Swift Language.url
+https://youtu.be/EWVBfK6n_JU&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 50 (Pie Charts Using iOSPlot).url
+https://youtu.be/Fz8WEo770Uk&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 51 (Creating Splash Screen for your iOS App).url
+https://youtu.be/ruA7aekltt8&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 52 (Creating a AFHTTPClient).url
+https://youtu.be/TEV5DZpAXSw&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 54 (Introduction to Grand Central Dispatch).url
+https://youtu.be/g_bkbpLAJn4&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 55 (Grand Central Dispatch Grouping).url
+https://youtu.be/M-82cEOnPBg&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 56 (iOS 7 Tour).url
+https://youtu.be/P1lHYI6NA7E&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 57 (UIKit Dynamics in iOS 7).url
+https://youtu.be/8_cI-z4YHxc&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 58 (Objective C New Features).url
+https://youtu.be/X1rPOJaeauY&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 59 (Multipeer Connectivity in iOS 7 Part 1).url
+https://youtu.be/zRRvetxNy1Q&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 60 (Local Notifications).url
+https://youtu.be/p7SRmGyyjmw&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 61 (Custom Controls).url
+https://youtu.be/X17aEq1ofNA&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 63 (UIViewController Transitions in iOS 7 Part 1).url
+https://youtu.be/ncDxpQysZps&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 66 (Introduction to iBeacon).url
+https://youtu.be/TR0v_yMIfS4&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 67 iBeacons Apps Using Particle Part 1.url
+https://youtu.be/LqWlN0hk2xw&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 68 iBeacon Apps Using Particle Part 2.url
+https://youtu.be/Y8Gbml01POk&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 69 Creating a Non-Floating TableView Section Header.url
+https://youtu.be/ViEo2ouTDwk&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 70 Creating a Custom iOS 8 Keyboard Extension.url
+https://youtu.be/kpHQ5gAGEXE&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 71 Blur Effect in iOS 8.url
+https://youtu.be/lwENcEiCh0s&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 72 Creating Tasty Deals Todays Extension in iOS 8.url
+https://youtu.be/wYEEvXNwaGo&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 74 Introduction to CloudKit.url
+https://youtu.be/XsLG9O6elrM&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 75 CloudKit References.url
+https://youtu.be/dvy7stzpSnI&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 76 (Downloading Binary Data from iCloud).url
+https://youtu.be/_JWyIlWM5K0&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 77 (Custom CheckBox in UITableView).url
+https://youtu.be/9hgfNfG7EKQ&list=PL1E1FF3F73A3279CF
+
+Learning iOS Development Part 78 (Spring Animations).url
+https://youtu.be/ZTVRAfQFWVo&list=PL1E1FF3F73A3279CF
+Videos 51-75

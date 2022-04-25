@@ -1,0 +1,76 @@
+
+10 Things Developers Aren't Saying After WWDC 2019.url
+https://youtu.be/GKV-AzGLcuo
+
+3 Reasons SwiftUI Is The Future.url
+https://youtu.be/oDcdCKZEiIc
+
+College App Review - Solid but Several Large UI Bugs.url
+https://youtu.be/CKuDzd7e8mc
+
+Designing Basics With Adobe Xd (Live Stream).url
+https://youtu.be/6Y7ALFj2yEM
+
+Facebook Redesign 2019 Timelapse using LBTATools.url
+https://youtu.be/e5gxaaG8Z08
+
+How to Record Video Tutorials - Audio Technica 875r Shotgun Microphone).url
+https://youtu.be/FCNqd9F-baU
+
+How to Run SwiftUI on Mojave with Playgrounds and Sample Code.url
+https://youtu.be/VSvz62fGyYM
+
+Late Night Friday Stream.url
+https://youtu.be/HwYDVxeGi-I
+
+LBTA Tools Simplify Code with Variadic Arguments in Functions.url
+https://youtu.be/AbXEE64oNds
+
+LBTATools ListController - Fast Clean List with Generics.url
+https://youtu.be/oxx-Ru2iKbU
+
+LBTATools ListHeaderController - Fast Header Components (Ep 2).url
+https://youtu.be/OswGtTdssHA
+
+LBTATools Slickdeals Live Coding + Beer!.url
+https://youtu.be/NJNur0eIn8o
+
+LBTATools stack and hstack - Speed Up UI Development RAPIDLY!.url
+https://youtu.be/cpZzWZEKTKE
+
+Live Behance Search Challenge.url
+https://youtu.be/pSZvBGe2uzU
+
+Live Stream - Come at me.url
+https://youtu.be/C30ANo6M90U
+
+mongoDB Acquires Realm (Mobile DB SDK) and ARKit Headsets.url
+https://youtu.be/xaZbug4GjHg
+
+Swift and Adobe Xd Bar Chart Time lapse - FAAAAST.url
+https://youtu.be/JxhAC1dmeuo
+
+Swift Forms with EASY Keyboard Management (UIScrollView - LBTAFormController).url
+https://youtu.be/-PlrvWr6CRM
+
+SwiftUI Basics Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays.url
+https://youtu.be/bz6GTYaIQXU
+
+SwiftUI Facebook Complex Layouts - Horizontal Scroll View.url
+https://youtu.be/7QgPpvqTfeo
+
+SwiftUI Fetching JSON and Image Data with BindableObject.url
+https://youtu.be/xT4wGOc2jd4
+
+SwiftUI Reactive Intro State Management and Bindings.url
+https://youtu.be/l7vkP6WW6Yk
+
+SwiftUI Sneak Preview Demo Project.url
+https://youtu.be/q421Ll4qOvc
+
+What I Wish I Knew About Image Literals.... Filtering!.url
+https://youtu.be/ft8rA_hq18Q
+
+When to Semaphore vs Dispatch Group! Careful Multithreaded Shared Resource.url
+https://youtu.be/6rJN_ECd1XM
+Videos 76-100

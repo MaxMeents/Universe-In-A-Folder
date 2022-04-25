@@ -1,0 +1,10 @@
+
+Handling Requests  Vapor  Swift 4, Xcode 9.url
+https://youtu.be/XuvIWcmdEPQ&list=PL5h37q2DJtAOEEMSXN0Wf0bsXAWEr4FRg
+
+Vapor 3 Up and Running  Swift 4, Xcode 9.url
+https://youtu.be/taAvDSOEfnY&list=PL5h37q2DJtAOEEMSXN0Wf0bsXAWEr4FRg
+
+Working With Fluent Objects  Vapor  Swift 4, Xcode 9.url
+https://youtu.be/eBMppY6BM_o&list=PL5h37q2DJtAOEEMSXN0Wf0bsXAWEr4FRg
+Vapor

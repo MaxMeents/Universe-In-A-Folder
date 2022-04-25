@@ -1,0 +1,19 @@
+
+Chart in Swift - Setting Up a Basic Line Chart Using iOS Charts.url
+https://youtu.be/mWhwe_tLNE8&list=PL_csAAO9PQ8bjzg-wxEff1Fr0Y5W1hrum
+
+Custom Navigation Bar Swift (Fast and Easy).url
+https://youtu.be/GNtQZHx2zLI&list=PL_csAAO9PQ8bjzg-wxEff1Fr0Y5W1hrum
+
+iOS App Life Cycle in 2020.url
+https://youtu.be/nIZcDkov8Vs&list=PL_csAAO9PQ8bjzg-wxEff1Fr0Y5W1hrum
+
+MapKit Swift and Core Location Tutorial.url
+https://youtu.be/5fWG5ofhHsY&list=PL_csAAO9PQ8bjzg-wxEff1Fr0Y5W1hrum
+
+UICollectionView Swift - Compositional Layout GAME CHANGING!.url
+https://youtu.be/hHQgHS7NHso&list=PL_csAAO9PQ8bjzg-wxEff1Fr0Y5W1hrum
+
+UICollectionView Swift - Diffable DataSource (EASIEST TUTORIAL).url
+https://youtu.be/SBeizUTImoQ&list=PL_csAAO9PQ8bjzg-wxEff1Fr0Y5W1hrum
+UIKit Tutorial Swift 2020

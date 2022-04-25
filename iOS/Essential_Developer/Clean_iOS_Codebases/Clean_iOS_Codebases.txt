@@ -1,0 +1,13 @@
+
+Clean iOS Codebases pt.1 Common mistakes preventing developers from achieving clean code.url
+https://youtu.be/bpPH2SWsjJc&list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg
+
+How a clean iOS codebase looks like.url
+https://youtu.be/M5oetUFzDng&list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg
+
+The Minimum You Should Do To Prevent Memory Leaks in Swift.url
+https://youtu.be/Gg-2nZYRd2g&list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg
+
+XCTest + Swift setUptearDown vs Factory Methods.url
+https://youtu.be/UpduAlWLliU&list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg
+Clean iOS Codebases

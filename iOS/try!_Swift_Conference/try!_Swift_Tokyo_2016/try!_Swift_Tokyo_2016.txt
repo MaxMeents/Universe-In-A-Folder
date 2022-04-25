@@ -1,0 +1,37 @@
+
+try! Swift Tokyo 2016 - Boundaries in Practice.url
+https://youtu.be/rhEiUrY75o8&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Contributing to Open Source Swift.url
+https://youtu.be/Ysa2n8ZX-YY&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Creating a Swift Library.url
+https://youtu.be/QcwGd3iKC0U&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Design of Everyday Swift.url
+https://youtu.be/CsuW_EfDJ6k&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Hipster Swift.url
+https://youtu.be/5kQYDXr0HSw&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Keep Calm and Type Erase On.url
+https://youtu.be/7Ec5-pUVvfk&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Modern Core Data.url
+https://youtu.be/TVI6zDPCLuU&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Parser Combinators in Swift.url
+https://youtu.be/6JLpO1RwPU8&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Practical Cross-Platform Swift.url
+https://youtu.be/xhv-O_s-gBk&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Real World Mocking in Swift.url
+https://youtu.be/AL118shRlYY&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 - Table View Controllers in Swift.url
+https://youtu.be/Y1w6ugLCHGU&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+
+try! Swift Tokyo 2016 -Train Your Swift Computational Statistics in Swift Examples.url
+https://youtu.be/bwDTziTY9UU&list=PLCl5NM4qD3u9HmmXZnTsqsOnBecMOx__N
+try! Swift Tokyo 2016

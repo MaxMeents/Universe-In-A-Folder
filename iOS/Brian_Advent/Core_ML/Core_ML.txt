@@ -1,0 +1,16 @@
+
+Build a Cool Touchless Gesture UI with Core ML and Vision. iOS Machine Learning Tutorial.url
+https://youtu.be/G7DYmhZMz6k&list=PLY1P2_piiWEY761sVFoZAdbqp_B524Y17
+
+Core ML Tutorial Create a Simple Machine Learning App - Image Classification.url
+https://youtu.be/NNKPbdT9gXU&list=PLY1P2_piiWEY761sVFoZAdbqp_B524Y17
+
+iOS 12 Swift Tutorial Create a Fruit Classifier with Create ML.url
+https://youtu.be/Ab1yp8reT8g&list=PLY1P2_piiWEY761sVFoZAdbqp_B524Y17
+
+iOS Swift Tutorial Face Detection with Vision Framework.url
+https://youtu.be/RCTKgi3CTXk&list=PLY1P2_piiWEY761sVFoZAdbqp_B524Y17
+
+Recognize Handwriting with Core ML - 224 Days of Swift Tutorials 🎄.url
+https://youtu.be/bOg8AZSFvOc&list=PLY1P2_piiWEY761sVFoZAdbqp_B524Y17
+Core ML

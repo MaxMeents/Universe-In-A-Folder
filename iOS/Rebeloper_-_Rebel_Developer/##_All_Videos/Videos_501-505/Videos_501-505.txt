@@ -1,0 +1,16 @@
+
+Change Directories in Terminal 2020.url
+https://youtu.be/kyc-aYI3rdk
+
+How to Remove Main.storyboard and Add a UIViewController Programatically (Swift 4).url
+https://youtu.be/ZduI7uGman8
+
+Mac Tutorial - How to Install CocoaPods.url
+https://youtu.be/XNM8GoAmfxU
+
+Mac tutorial - Terminal Commands List Mac.url
+https://youtu.be/INRbJuyXDKc
+
+What is Terminal - MacOS Terminal Tutorial 2020.url
+https://youtu.be/x5p_O-g5ADs
+Videos 501-505

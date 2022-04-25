@@ -1,0 +1,16 @@
+
+Clean Architecture iOS [MVC vs MVVM].url
+https://youtu.be/29WppyhWO5c&list=PL_csAAO9PQ8YqBSYLqQ6bLvDE32TayJPx
+
+Design Patterns MVVM and Delegates (BEST EXPLANATION).url
+https://youtu.be/7HKi96v4X2A&list=PL_csAAO9PQ8YqBSYLqQ6bLvDE32TayJPx
+
+MVVM in Swift - (Model View View-Model) Getting Started 2020.url
+https://youtu.be/Razy8HjxK7I&list=PL_csAAO9PQ8YqBSYLqQ6bLvDE32TayJPx
+
+MVVM SwiftUI - Model View ViewModel Pattern - Getting Started.url
+https://youtu.be/EhtK_H9LsYQ&list=PL_csAAO9PQ8YqBSYLqQ6bLvDE32TayJPx
+
+STOP using MVVM for SwiftUI  Clean iOS Architecture.url
+https://youtu.be/SOA0IT7sxvc&list=PL_csAAO9PQ8YqBSYLqQ6bLvDE32TayJPx
+MVVM

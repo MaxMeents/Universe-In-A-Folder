@@ -1,0 +1,22 @@
+
+Swift 4 Intro Auto Layout Landscape with Multipliers (Ep 2).url
+https://youtu.be/nv1L3mYEg8M&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+
+Swift 4 Introduction to Auto Layout Programmatically (Ep 1).url
+https://youtu.be/9RydRg0ZKaI&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+
+Swift Auto Layout - How to use Model View Controller MVC (Ep 5).url
+https://youtu.be/0PnQTeNzrLI&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+
+Swift Autolayout Controls For SwipingPaging (Ep 6).url
+https://youtu.be/TK0mxO469ok&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+
+Swift AutoLayout Landscape Support (Ep 7 Finale).url
+https://youtu.be/1UQ-Y1-FNMQ&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+
+Swift Learn How to Swipe Pages with UICollectionViewController (Ep 4).url
+https://youtu.be/a5yjOMLBfSc&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+
+Swift Watch Out for Safe Areas, UIStackViews Rock! (Ep 3).url
+https://youtu.be/WCECFfelSHk&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+Auto Layout

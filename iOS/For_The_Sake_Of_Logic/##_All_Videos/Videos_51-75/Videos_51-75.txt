@@ -1,0 +1,76 @@
+
+1.6-Building on a Personal Device - Swift 4 - App Development With Swift.url
+https://youtu.be/Dur5s2JqmnA
+
+2.10-Auto Layout and Stack Views LAB - Swift 4 - App Development With Swift.url
+https://youtu.be/kZljYPgRpJI
+
+2.5-Collections (Arrays Portion) LAB - Swift 4 - App Development With Swift.url
+https://youtu.be/H3DURlFimH8
+
+2.6-Loops LAB - Swift 4 - App Development With Swift.url
+https://youtu.be/8BPI53P-UI8
+
+3.6-Segue and Navigation Controllers Chapter Walkthrough (part 1)-Swift 4-App Development With Swift.url
+https://youtu.be/32c71nFF1Us
+
+3.6-Segue and Navigation Controllers Chapter Walkthrough (part 2)-Swift 4-App Development With Swift.url
+https://youtu.be/9_r9RoFgY8Q
+
+3.7-Tab Bar Controllers Chapter Walkthrough (part 1) - Swift 4 - App Development With Swift.url
+https://youtu.be/japRAEHEaVI
+
+3.7-Tab Bar Controllers Chapter Walkthrough (part 2) - Swift 4 - App Development With Swift.url
+https://youtu.be/49j4C_aOKiM
+
+Adding images in TableView - iOS swift 4 - 79.url
+https://youtu.be/qSO9oir9JrM
+
+Adding Sections in TableView - iOS sections table view - swift 4 - 59.url
+https://youtu.be/pRx0YJKeYd4
+
+Adding subtitles (secondary label) in TableView - iOS swift 4 - 89.url
+https://youtu.be/2FcGlPVF-yw
+
+Adding Titles Headers to sections in TableView - iOS swift 4 - 69.url
+https://youtu.be/i4VDc-2M4No
+
+bubbleSort Algorithm - Swift 4.url
+https://youtu.be/XPu9TMFt8NY
+
+Data Source for UITableView   Table View in iOS Swift 4 - 29.url
+https://youtu.be/setztmqakeM
+
+linearSearchAlgorithm.url
+https://youtu.be/rJ7uF7Z0-QQ
+
+Parameters inside Function Swift 4 - immutable parameter.url
+https://youtu.be/aFyo9aTeFiw
+
+Reusing cells in TableView - Reuse Identifier - iOS Swift 4 - 49.url
+https://youtu.be/O8XPF9pyVqw
+
+shuffle Array (shuffle Routine) - Swift (Xcode, Playground).url
+https://youtu.be/q2TzfEMJaOQ
+
+Swift 4 - insert character in string (in specific place).url
+https://youtu.be/2hxVFWseXEg
+
+Swift 4 - parsing  or iterating A String.url
+https://youtu.be/4zJ-lHuR2o0
+
+Swift 4 Insertion Sort Algorithm.url
+https://youtu.be/t_UTwYAfCv0
+
+Table Views in iOS - What is tableview - swift 4 -  19.url
+https://youtu.be/cteA7-3AOoA
+
+TableView Row Selection  Passing or Sending Data Between View Controllers - iOS Swift 4 - 99.url
+https://youtu.be/pG3n-dFoj0g
+
+Upload Xcode & Playground files to hand in or Transfer.url
+https://youtu.be/mb40QWe586g
+
+Working with and adding Arrays in TableView - iOS Swift 4 - 39.url
+https://youtu.be/egBO-wY2xTY
+Videos 51-75

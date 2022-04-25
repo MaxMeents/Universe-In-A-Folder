@@ -1,0 +1,46 @@
+
+How To Make an App - Ep 1 - Tools and Materials.url
+https://youtu.be/DtaBa6G5a_E&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 10 - Methods and Button Taps.url
+https://youtu.be/iFMg9JzPYbg&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 11 - Image Asset Library in Xcode 6.url
+https://youtu.be/yXTq_x9JCjw&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 12 - Randomizing the cards.url
+https://youtu.be/lX-st90iTpk&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 13 - Introducing Arrays in Swift.url
+https://youtu.be/Ub6wA9cFrdc&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 14 - Determining a Winner with IF Statements.url
+https://youtu.be/sipA1ZhVw4E&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 15 - Styling and Keeping Score.url
+https://youtu.be/L01d_6O0Knk&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 2 - Xcode 6 and Playgrounds.url
+https://youtu.be/dVROCK8BGRY&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 3 - Xcode 6 Tutorial.url
+https://youtu.be/G44oIktEvg8&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 4 - App Anatomy.url
+https://youtu.be/ibc1nim--Rc&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 5 - Your First Swift App.url
+https://youtu.be/o7xg49ZvuZo&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 6 - Auto Layout in Xcode 6.url
+https://youtu.be/bprcg7ysyNA&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 7 - Building Blocks of Swift Programming.url
+https://youtu.be/NSPYdGk-3KI&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 8 - Swift Subclassing and UIKit.url
+https://youtu.be/DqgOU3Uo0xU&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+
+How To Make an App - Ep 9 - Swift IBOutlet Properties.url
+https://youtu.be/2YDynKZyGA4&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI
+How To Make an App with Swift, Xcode 6 and iOS 8 - Start Here

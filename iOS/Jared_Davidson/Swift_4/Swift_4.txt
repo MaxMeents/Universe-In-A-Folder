@@ -1,0 +1,40 @@
+
+ARKit Basics! (Placing Objects  Swift 4 in Xcode 9).url
+https://youtu.be/bfAadJNX3Tc&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Creating a Music App! (Pt. 1  Planning & Design w Sketch).url
+https://youtu.be/NouNqNdJAUY&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Expanding Table View Cells! (Swift 4 in Xcode).url
+https://youtu.be/ClrSpJ3txAs&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Getting Started w FireStore! (Swift 4 in Xcode  Firebase).url
+https://youtu.be/98a1tmPMDkY&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Getting Started w Realm Mobile Database! (Pt. 1  Firebase).url
+https://youtu.be/fwVeP5BLGtA&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+How to Create Charges! (Stripe  Swift 4 in Xcode).url
+https://youtu.be/-2kzU45DT9k&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+How to Resize UITextViews to Fit the Content. (Swift 4 in Xcode).url
+https://youtu.be/12j0LGckF-Y&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Let's make a Drop Down Menu! (Swift 4 in Xcode 9).url
+https://youtu.be/22zu-OTS-3M&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Make a Portal using ARKit! (Swift 4 in Xcode  SceneKit).url
+https://youtu.be/uuxXHAKA1WY&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Scroll View Parallax Effect! (Pt 1  Swift 4 in Xcode).url
+https://youtu.be/IUT0WByY7HI&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Sorting & Filtering w Realm! (Part 2  Swift 4 in Xcode).url
+https://youtu.be/GI_OFhmJoqM&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+UITableView  Custom Cells! (Swift 4 in Xcode).url
+https://youtu.be/YwE3_hMyDZA&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+
+Using Hex Color Codes! (Swift 4 in Xcode).url
+https://youtu.be/HPhqO0D1tG4&list=PL3MWPU0RhJzFL2Wfo9hmi9HLOmSZU-bAR
+Swift 4

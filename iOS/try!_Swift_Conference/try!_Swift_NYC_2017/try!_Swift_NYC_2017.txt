@@ -1,0 +1,64 @@
+
+try! Swift NYC 2017 - A Funny Thing Happened On The Way To This Array.url
+https://youtu.be/k07P4JbPRQQ&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Building a Framework with VIPER.url
+https://youtu.be/ET3dPiFjEZE&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Core Data Migrations Can we do Better.url
+https://youtu.be/Ewo22Z3Z5hg&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Creating Rich Custom UI Notifications.url
+https://youtu.be/zTLx8gxx8Wc&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Driving View-State through Data for Fun andor Debugging.url
+https://youtu.be/q1-zQK-LFk0&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Error Handling Made Easy.url
+https://youtu.be/BVpoU6yactk&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Exploring Natural Language Processing.url
+https://youtu.be/1N-YVSkcLmE&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Flexible View Controller Interfaces With Swift 4.url
+https://youtu.be/iOdgQ7i2o7s&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Getting Started with ARKit.url
+https://youtu.be/0Q-AGuDSDC8&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Improving Swift Tools with libSyntax.url
+https://youtu.be/5ivuYGxW_3M&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Machine Ethics and Emerging Technologies.url
+https://youtu.be/V6dZ1Go0DI0&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Map and FlatMap Magic.url
+https://youtu.be/iQ_94Nn2rdU&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Modern RxSwift Architectures.url
+https://youtu.be/qZZTYIwrhsY&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - MVVM at Scale Not so Simple.url
+https://youtu.be/YCirgnPnZpc&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Server-side Swift Using Vapor.url
+https://youtu.be/cS01KB2bS3Y&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Ship your App in Less than 10 Minutes.url
+https://youtu.be/Yhh144dqS9g&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Spontaneous Swift Sudoku Solving.url
+https://youtu.be/lBLLZxOQNqE&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Swift 4 Codable.url
+https://youtu.be/RXof713gsqs&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Swift Chatbots for Fun! and Profit.url
+https://youtu.be/w8Npd8qQx8g&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - The Role of being Technical in Technical Leadership.url
+https://youtu.be/hobKWXnxtMw&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+
+try! Swift NYC 2017 - Twilio Programmable Chat API.url
+https://youtu.be/0pxSfjtn5XY&list=PLCl5NM4qD3u8PbxwOKU4cNB3eXZhMk8mt
+try! Swift NYC 2017

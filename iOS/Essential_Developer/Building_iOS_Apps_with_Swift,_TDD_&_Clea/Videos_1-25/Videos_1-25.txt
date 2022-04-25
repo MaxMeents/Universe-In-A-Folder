@@ -1,0 +1,73 @@
+
+S01E01 Swift App Idea and Prototyping with Storyboards.url
+https://youtu.be/GuxiFOiGtYk&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E02 [TDD 🍅 1] Creating a Swift Framework - The Game Engine.url
+https://youtu.be/NW_KS0o6gMY&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E03 [TDD 🍅 2] Swift @escaping Closures and Retain Cycles.url
+https://youtu.be/Dr3DL5BeJGA&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E04 [TDD 🍅 3] Swift Closures and Recursion.url
+https://youtu.be/FnzID8Oc1E0&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E05 [TDD 🍅 4] Swift Mutation Testing and Refactoring.url
+https://youtu.be/BYeOVu7sMxE&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E06 [TDD 🍅 5] Testing View Controllers in Swift.url
+https://youtu.be/xD_Z4AA2eic&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E07 [TDD 🍅 6] Powerful Refactorings in Swift.url
+https://youtu.be/hZGrJjbTjMA&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E08 [TDD 🍅 7] Testing Table Views in Swift.url
+https://youtu.be/ayO2wNu0fSY&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E09 [TDD 🍅 8] Establishing a Presentation Layer in Swift.url
+https://youtu.be/TedK5F8VdnI&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E10 [TDD 🍅 9] Testing Table View Cells in Swift.url
+https://youtu.be/Q5_LXHyYUyI&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E11 [TDD 🍅 10] Finishing the Quiz UI.url
+https://youtu.be/4e5hFlgwCVw&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E12 Architecture Overview (Swift Quiz Game Bonus Episode).url
+https://youtu.be/crtVJzbsYLE&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E13 Improving the Game Flow with Swift Generics.url
+https://youtu.be/CYmq2irEihA&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E14 [TDD 🍅 11] Creating Flexible types for the Swift Quiz Game.url
+
+
+S01E15 [TDD 🍅 12] Scoring the Swift Quiz Game.url
+https://youtu.be/W5yMJGxWccA&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E16 [TDD 🍅 13] Decoupling and Testing Modules with Swift Abstract Factories.url
+
+
+S01E17 [TDD 🍅 14] Testing the Quiz Router implementation in Swift.url
+
+
+S01E19 [TDD 🍅 16] Testing Concrete Factories in Swift.url
+https://youtu.be/GKx9hhMNU7A&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E20 [TDD 🍅 17] Testing Presenters in Swift pt.1.url
+https://youtu.be/G8YMq_4oXjA&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E21 [TDD 🍅 18] Testing Presenters in Swift pt.2.url
+https://youtu.be/7MRl9v8ed2A&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E22 [TDD 🍅 19] Testing a Submit Button with MVC in Swift.url
+https://youtu.be/FLS2IuBSqLs&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E23 [TDD 🍅 20] Finishing the Quiz implementation!.url
+https://youtu.be/b5wDkkKaqBY&list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6
+
+S01E24 [TDD 🍅 21] Running the complete Swift Quiz app for the first time.url
+
+
+S01E25 Xcode Swift code coverage and Quiz App recap (Season finale).url
+
+Videos 1-25

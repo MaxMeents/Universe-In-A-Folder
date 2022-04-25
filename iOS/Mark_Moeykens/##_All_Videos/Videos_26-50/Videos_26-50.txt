@@ -1,0 +1,76 @@
+
+foregroundStyle to specify different colors for multi-color symbol Free book SwiftUI 🔗 in descript.url
+https://youtu.be/5J2ezQQSPLM
+
+Hierarchical styles can also take on a color specifying a foregroundStyle iOS15 modifier + Free book.url
+https://youtu.be/0lg_V8HBURo
+
+January 31, 2022.url
+https://youtu.be/1YTdPigEaYA
+
+Render symbols in different ways. Combine palette & foregroundStyle assign colors SwiftUI FREE book.url
+https://youtu.be/DusuRavsYYY
+
+SafeAreaInsets with ScrollViews add views to the beginning or end, & content scroll under. Free book.url
+https://youtu.be/ltXGVFtsXUs
+
+Showing a sheet 3-step process. Programmatically dismiss a sheet using dismiss environment property..url
+https://youtu.be/O4NoDyjDKiQ
+
+SwiftUI background Materials Different degrees of blur effect. FREE SwiftUI book link in description.url
+https://youtu.be/D51PTwMKC5M
+
+SwiftUI code parameter label to provide VoiceOver text. Free book SwiftUI Views link in description.url
+https://youtu.be/TSfKndsoMlc
+
+Swiftui examples of label being set & voiceover reads them. FREE BOOK SwiftUI Views link in descrip..url
+https://youtu.be/4cGU1rwuGB0
+
+SwiftUI GeometryReader. FREE picture book on SwiftUI Views. Link in description!.url
+https://youtu.be/D2txk7ke74s
+
+SwiftUI hierarchal styles creates depth & separation of UI elements  FREE book link in description!.url
+https://youtu.be/RjK4CHCq6Pw
+
+SwiftUI HStack Introduction. Free book SwiftUI Views link in description!.url
+https://youtu.be/L88Ji5-Rp_0
+
+SwiftUI Layouts Name Formatting. Want to learn more Get the Free SwiftUI Picture Book.url
+https://youtu.be/hC1iYehiVOY
+
+SwiftUI LazyStack with ScrollView (Swiftui FREE book link in description).url
+https://youtu.be/ykeITlLsq5U
+
+SwiftUI LazyVGrid coding. FREE Swiftui book link in description..url
+https://youtu.be/eDjl2Lm0qiA
+
+SwiftUI Spacer. Daily short videos, code learning. Free book SwiftUI Views link in bio!.url
+https://youtu.be/2IH8E6hQ7cA
+
+Swiftui use Accessibility Inspector to test Voiceover. Free book SwiftUI Views link in description!.url
+https://youtu.be/BpOSaRqwwwI
+
+SwiftUI voiceover Accessibility Inspector. FREE book SwiftUI Views link in description!.url
+https://youtu.be/3tL8oLW1O24
+
+Swiftui VoiceOver will literally read your SF Symbol name like hand dot wave dot fill Free book.url
+https://youtu.be/OBJX0awxMzU
+
+SwiftUI ZStack Introduction code FREE book SwiftUI Views link in description!.url
+https://youtu.be/O5WkYpsVwHI
+
+Traits to have VO give more indication about state of control FREE BOOK SwiftUI Views in description.url
+https://youtu.be/vYUhA2brHCE
+
+ SwiftUI foregroundStyle modifier, apply materials blurs, gradients & colors FREE book link in Desc.url
+https://youtu.be/Z7EgpykRH48
+
+ SwiftUI Semantic styles include foreground and background colors FREE BOOK link in the description.url
+https://youtu.be/GsH4Vd8p74M
+
+ Swiftui Tint modifier and  accentColor modifier. FREE BOOK Swiftui Views link in description!.url
+https://youtu.be/wnWm2O8Ewjs
+
+ You can now use Markdown to format text within Text view. FREE BOOK SwiftUI link in description.url
+https://youtu.be/j-MRDmEZnpA
+Videos 26-50

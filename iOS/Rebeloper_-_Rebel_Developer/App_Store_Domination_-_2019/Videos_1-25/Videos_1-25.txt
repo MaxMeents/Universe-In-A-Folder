@@ -1,0 +1,76 @@
+
+AdMob Banner in Swift 4 (ANIMATED).url
+https://youtu.be/R68UykMw_es&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+App Certificate - Apple Developer Portal Tutorial.url
+https://youtu.be/rGxmviW8Icc&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+App Store Screenshots (Guidelines Fast & Easy!).url
+https://youtu.be/WX81rQnEwm0&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Auto Layout Swift Programmatically.url
+https://youtu.be/tQxIf1XtXyw&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Bundle Identifier.url
+https://youtu.be/6lwmCF8HHbA&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Change App Name in iOS Xcode.url
+https://youtu.be/dD1bkqtwMCY&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Errors & Warnings in Xcode 10.url
+https://youtu.be/u9kSfnD89g4&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Game Center Leaderboards!.url
+https://youtu.be/FinMa7QwoYU&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+How to Create App Icons for iOS.url
+https://youtu.be/kVL7nAtcAzA&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+How to Launch an App with App Store Dominations - 30 Days Challenge.url
+https://youtu.be/T0xqNl_HUjg&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+How To Use GitHub with Xcode.url
+https://youtu.be/IOmfmGdl-tg&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+In App Purchase iOS Non Consumable.url
+https://youtu.be/16DH78RUGkk&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+iOS Localization.url
+https://youtu.be/bOd3kjru8pc&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Publish iOS App - App Store Connect Tutorial.url
+https://youtu.be/0mhHodE_KAY&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Share in SpriteKit with Swift 4 (EXAMPLE).url
+https://youtu.be/Gp5rtlB11XA&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Static Constants and Functions in Swift 4.url
+https://youtu.be/z_jOmU7lcps&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Subscription iOS.url
+https://youtu.be/6Hjc7M93iaM&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Transfer Data Between UIViewControllers in Swift 4.url
+https://youtu.be/VIlMFqS8L38&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Trello for Programmers - Software Project Management.url
+https://youtu.be/iyFoQDyi6_M&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Understanding Extensions in Swift 4 (2019).url
+https://youtu.be/ImkAun-INcI&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Upload App to App Store Connect.url
+https://youtu.be/p5kZ6875Dvk&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+What is CocoaPods in Xcode.url
+https://youtu.be/xw_SDzY_6CA&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Xcode Storyboard.url
+https://youtu.be/wqGKgxlntJY&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Xcode Tutorial - How to download & Install Xcode for iOS Development.url
+https://youtu.be/cVMA9aBhZpU&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+
+Xcode Tutorial for Beginners  ASD.url
+https://youtu.be/MvEZqNr6d1E&list=PL_csAAO9PQ8ZOA32VaSBUOg13ZRIgscAm
+Videos 1-25

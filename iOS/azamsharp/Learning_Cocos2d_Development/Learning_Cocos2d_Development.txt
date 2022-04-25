@@ -1,0 +1,70 @@
+
+Deleted video.url
+https://youtu.be/837XLw8VzYU&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Development Part 18 (Ghetto Birds Part 1).url
+https://youtu.be/83x66JuDecA&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Development Part 19 (Ghetto Birds Part 2).url
+https://youtu.be/GSbS-hkXHTQ&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Development Part 20 (Ghetto Birds Part 3).url
+https://youtu.be/0ATXUyn1q3c&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Development Part 21 (Ghetto Birds Part 3).url
+https://youtu.be/JI5EtAPiJoE&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 1 (Cocos2d Introduction).url
+https://youtu.be/8eP8qFCefb8&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 10 (TileMaps Part 1).url
+https://youtu.be/BP_Lb99yPsg&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 11 (TileMaps Part 2).url
+https://youtu.be/FwiJYt4ZAQs&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 12 (TileMaps Part 3).url
+https://youtu.be/LUc1XL0b88M&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 13 (Health Bar).url
+https://youtu.be/Fsh2k8450lU&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 14 (Sprite Animation).url
+https://youtu.be/y1Wn56F3ai4&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 15 (Intro SpaceManager).url
+https://youtu.be/47EDQR3lzy4&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 16 (SpaceManager Joints).url
+https://youtu.be/qpG9DPmbvbQ&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 17 (SpaceManager Collision Detection).url
+https://youtu.be/Zi-8XOHrQWw&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 2 (Scenes, Layers & Sprites).url
+https://youtu.be/nG9ZnxnVY74&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 22 Using SneakyInput (Joystick) to Move Sprites.url
+https://youtu.be/Tya2xmG3Uss&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 3 (Actions).url
+https://youtu.be/9QYCvSh2Tok&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 4 (Collision Detection).mp4.url
+https://youtu.be/9P96OD7rMk4&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 5 (Ease Actions & Effects).url
+https://youtu.be/zQLRYzspE5Y&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 6 (Menus).url
+https://youtu.be/Q5HxK3BxAxk&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 7 (Labels).url
+https://youtu.be/FPyM3G0V-Jw&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 8 (Surfing Scenes).url
+https://youtu.be/4yMpT2MJZWw&list=PL3D5A9CF48EDF6ED3
+
+Learning Cocos2d Part 9 (Particles).url
+https://youtu.be/wZrEw4S5X5k&list=PL3D5A9CF48EDF6ED3
+Learning Cocos2d Development

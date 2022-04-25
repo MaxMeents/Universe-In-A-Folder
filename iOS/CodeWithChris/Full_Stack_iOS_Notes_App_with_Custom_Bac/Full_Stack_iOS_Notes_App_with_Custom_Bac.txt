@@ -1,0 +1,13 @@
+
+Full Stack iOS Notes App - Building the UI and Displaying the Data (Lesson 2).url
+https://youtu.be/77ryTAQocFM&list=PLMRqhzcHGw1YSKIO61XncxTPoFu81K1Mx
+
+Full Stack iOS Notes App - Custom Cell and Code Organization (Lesson 4).url
+https://youtu.be/0fD83Zqycnw&list=PLMRqhzcHGw1YSKIO61XncxTPoFu81K1Mx
+
+Full Stack iOS Notes App - Implementing CRUD in Xcode (Lesson 3).url
+https://youtu.be/QzegJ9mRAjQ&list=PLMRqhzcHGw1YSKIO61XncxTPoFu81K1Mx
+
+Full Stack iOS Notes App - Setting up Database and Web Server (Lesson 1).url
+https://youtu.be/vKCdVAg5h40&list=PLMRqhzcHGw1YSKIO61XncxTPoFu81K1Mx
+Full Stack iOS Notes App with Custom Backend

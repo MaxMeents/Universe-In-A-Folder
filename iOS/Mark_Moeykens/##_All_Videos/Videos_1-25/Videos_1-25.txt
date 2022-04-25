@@ -1,0 +1,76 @@
+
+Annual Birthday Sale! Get a discount equal to my age for a limited time. SwiftUI books code 51%OFF!.url
+https://youtu.be/TaWONp8Ny_w
+
+Build a solid Swift foundation for easily read Combine documentation & code. +FREE SwiftUI book link.url
+https://youtu.be/BcaHfdU2TFQ
+
+Combine Concepts You can liken Combine to SwiftUI. In SwiftUI, modifiers return a new view Operators.url
+https://youtu.be/tUwSz5pqD-o
+
+Combine Operator can evaluate every value that comes down through pipeline to see ir's empty or not.url
+https://youtu.be/FCPm9TjxBzs
+
+Combine Protocols Introduction. + SwiftUi free book link in description!.url
+https://youtu.be/m83TUiMscOA
+
+Combine The assign(to) subscriber take any data coming down and assign it to a Published property..url
+https://youtu.be/TF-_q_eIAgc
+
+Constrain limit which types a generic should be. Add constraints to generics like variable u declare.url
+https://youtu.be/fgjlxJlqbGE
+
+Create Combine pipeline with a SwiftUI view! You can also add this for longer social formats. IOS.url
+https://youtu.be/LZNANrFk8ag
+
+Create Combine pipelines simply by using common property wrappers to connect your data to your UI..url
+https://youtu.be/wiTwIDzK3KQ
+
+Generic type Combine publishers, operators, & subscribers type of technique. +FREE SwiftUi book link.url
+https://youtu.be/S-V_d79cduo
+
+How generics relate back to Combine and how all the parts of Combine fit together. SwiftUI IOS dev..url
+https://youtu.be/iL1NuRUwh4Q
+
+In the SwiftLang you can also use protocols as types. Variables (class or struct) (conforming)..url
+https://youtu.be/mP6SzuZzJHA
+
+Published property wrapper & how it connects to your view. A concept of how Combine works Coding iOS.url
+https://youtu.be/OvlkFRXbhqg
+
+Published property wrappers have a built-in publisher you can attach operators and subscribers to!.url
+https://youtu.be/fp1o0lgvYtE
+
+SwiftLang. Ampersand (&) dollar symbol, allows you to pass in a value that the function can edit..url
+https://youtu.be/zWZqhGRa-pk
+
+SwiftUI books & training Annual Birthday Sale! Get 51% discount,  equal to my age for a limited time.url
+https://youtu.be/oT91o4Hqp-8
+
+SwiftUI coding books annual Birthday Sale! Last chance to get the best deal of the year!Link in Desc.url
+https://youtu.be/96TxUe8bxNA
+
+SwiftUI Combine Concepts Upstream, Downstream Publisher, Operator & Subscriber. + BOOK sale coupon..url
+https://youtu.be/_IXd89V0cWo
+
+SwiftUI Combine Mastery book by Big Mountain Studios Architecture to give you ideas on a structure..url
+https://youtu.be/vZa60XUYJ40
+
+SwiftUI Concepts Operators Alter or manipulate data with the power of Combine using operators.url
+https://youtu.be/gAovTSmGWlM
+
+SwiftUI Filtering with the Searchable Modifier - Part 2 (iOS, Xcode 13, 2022).url
+https://youtu.be/wzoXWhZUB5o
+
+SwiftUI Search & Filter with Combine - Part 3 (iOS, Xcode 13, SwiftUI, 2022).url
+https://youtu.be/TshpcKZmma8
+
+SwiftUI Search Bar Searchable Modifier - Part 1 (iOS, Xcode 13, 2022).url
+https://youtu.be/sTE3IP4Qihg
+
+Swiftui tip. Understanding Combine concept. IOS coding for apps. FREE book link in description!.url
+https://youtu.be/9sYvfc-8DW4
+
+When supporting iOS15 & higher you can change your action sheets to confirmation dialogs in #SwiftUI.url
+https://youtu.be/5Z55Ki_V5KE
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Code Hangout #13 - How to Create and Use a Blur Effect View with Swift in iOS 8.url
+https://youtu.be/ZfYU-818qWA
+
+Code Hangout #14 - How to Create and Use a Switch in Swift with UISwitch.url
+https://youtu.be/hYPGW7aUBow
+
+Code Hangout #15 - How to Create and Use UISegmentedControl.url
+https://youtu.be/TQS9rxRQS54
+
+Code Hangout #17 - How to Create and Use an Action Sheet with Swift in iOS.url
+https://youtu.be/sLxNa-ItXGA
+
+Code Hangout #18 - How to Create and Use an Alert View with Swift in iOS.url
+https://youtu.be/2w_ozeXVBAs
+
+How to Build a Simple iOS 8 App Part 1 Introduction to Xcode 6 Project.url
+https://youtu.be/9BrmXBNmNtA
+
+How to Build a Tip Calculator Part 2 Build the UI for Tip Calculator.url
+https://youtu.be/brc9R0UAtUs
+
+How to Build a Tip Calculator Part 4 Create the Tip Calculator Brain the Model in MVC.url
+https://youtu.be/iRWBvviwc_c
+
+How to Build a Tip Calculator Part 5 Use the Tip Calculator Brain to Make It Powerful and Functional.url
+https://youtu.be/skpUnmOVj5E
+
+How to Build a Tip Calculator Part 6 Detect UIControl Events.url
+https://youtu.be/HqTvroLAwnY
+
+How to Build a Tip Calculator Part 7 Use the ViewController as a TextField Delegate.url
+https://youtu.be/O6stSzOxif4
+
+How to Build a Tip Calculator Part 8 Detect Slider Control Events.url
+https://youtu.be/SqbAhDujKUk
+
+How to Build a Tip Calculator Part 8.1 Detect Slider Control Events Fix.url
+https://youtu.be/FJU1bW62iEU
+
+How to Build a Tip Calculator Part 9 Beautifulize Our App with App Icons and Start Screens.url
+https://youtu.be/TseKBmjOZTM
+
+Inspirus Project 1.url
+https://youtu.be/F_Xd3pSvkTM
+
+Inspirus Project 4.url
+https://youtu.be/UbrNhbsouVk
+
+Inspirus Project 5.url
+https://youtu.be/4g7fYtUDo-U
+
+iOS Development Tutorial - How to Build a Tip Calculator Part 1 Introduction to Tip Calculator.url
+https://youtu.be/xEtKA0Nz-UE
+
+iOS Development Tutorial - How to Build a Tip Calculator Part 10 Your Challenge.url
+https://youtu.be/fWoSOQf81Io
+
+iOS Development Tutorial - UITableView with Swift Series Pt 8 Pass Data to Detail View.url
+https://youtu.be/c-E_EbMR9wA
+
+Playlist Part 1 What We Will Build in This Series.url
+https://youtu.be/2smLQnpPNi4
+
+Playlist Part 2 New Xcode Project and Introduction to XCAssets Catalog.url
+https://youtu.be/9cHNRmROu-o
+
+Playlist Part 4 Finishing Up the Playlist UI.url
+https://youtu.be/_91hrNNNxYk
+
+Playlist Part 5 Connect Playlist UI to a Custom View Controller.url
+https://youtu.be/SfUJHCDPolw
+
+Tip Calculator Pt 3 Connect UI Elements from View to ViewController with IBOutlets Tip Calculator.url
+https://youtu.be/94PGBs8_5k0
+Videos 226-250

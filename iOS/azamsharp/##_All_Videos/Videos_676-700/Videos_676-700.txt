@@ -1,0 +1,76 @@
+
+# 101 Swift 3.0 Foundation and Camel Casing.url
+https://youtu.be/iK2OhHlaIA4
+
+#1 Core Data Hello Core Data.url
+https://youtu.be/YfFQXuFHSf8
+
+#100 Swift 3.0 Omit Needless Words.url
+https://youtu.be/Rx7Y58eCeWM
+
+#102 Creating Stickers Pack App in iOS 10 in 30 Seconds.url
+https://youtu.be/Yu_kVaF9nTU
+
+#2 Core Data Setting up the Core Data Stack.url
+https://youtu.be/Sv6pANLl4LA
+
+#94 Creating Messages Extension in iOS 10 Part 1.url
+https://youtu.be/TkBUKHxjIcw
+
+#94 Supplementary Views.url
+https://youtu.be/EyEiuQdxils
+
+#95 Creating Messages Extension in iOS 10 Part 2.url
+https://youtu.be/-LaskEo-y9I
+
+#96 Creating Messages Extension in iOS 10 Part 3 - Compact and Expanded Modes.url
+https://youtu.be/st1-fEHHVto
+
+#97 Creating and Embedding Framework in iOS Application.url
+https://youtu.be/i7Yq2B00u9g
+
+#98 Messages Extension in iOS 10 Part 4 - Passing Information between Sender and Receiver.url
+https://youtu.be/pe-J7OsQHhI
+
+#99 Swift 3  Function Parameters Label.url
+https://youtu.be/pyTnvJNIF_E
+
+AR.url
+https://youtu.be/BXh6ngMJseI
+
+Beginning Debugging Using Google Chrome Console.url
+https://youtu.be/qDoewb_wjF8
+
+Creating Sticker and iMessage Apps in iOS 10 Using Swift 3.0.url
+https://youtu.be/4zIxgEnEako
+
+Emoji King.url
+https://youtu.be/Upkab5rj0b8
+
+IndieDevStock.url
+https://youtu.be/cSw-p1MUeZk
+
+Inspecting CSS Using Google Chrome Developer Tools.url
+https://youtu.be/ZAD7EcdhNqw
+
+Messages Extension in iOS 10.url
+https://youtu.be/uqKFBkay8KY
+
+Mobile Debugging Using Google Chrome Developer Tools.url
+https://youtu.be/FJAqhMuFBds
+
+Student Application Multi Screen Application.url
+https://youtu.be/jwgSiD49CDo
+
+Swift 2 0 Quickly.url
+https://youtu.be/8AAzyakFk-Q
+
+Turbo Charge Your Web Development.url
+https://youtu.be/cwSh5frd-kw
+
+Understanding Swift 2.0 Availability API.url
+https://youtu.be/MhhCMfNWIkw
+
+Xcode Storyboard Bug - Unable to Add UIBarButtonItem.url
+https://youtu.be/lm3350sETM0
+Videos 676-700

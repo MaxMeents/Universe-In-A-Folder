@@ -1,0 +1,76 @@
+
+Learning iOS Development (Part 11) Custom UITableViewCell.url
+https://youtu.be/d_kO-J3DYvc
+
+Learning iOS Development 21 (UITouch Part 1).url
+https://youtu.be/TE3tndXUzSU
+
+Learning iOS Development Part 10 (UITableView Delete Cells).url
+https://youtu.be/WFxtZEW7Dis
+
+Learning iOS Development Part 12 (UINavigationController).url
+https://youtu.be/XN4JRic6TM8
+
+Learning iOS Development Part 13 (Sqlite3 Database with FMDB).url
+https://youtu.be/Q73zLz9FMWU
+
+Learning iOS Development Part 14 (Requests Using AFNetworking).url
+https://youtu.be/Qjig7ZnH73Y
+
+Learning iOS Development Part 15 (Introduction to Storyboards in iOS5).url
+https://youtu.be/zi1cRAUF5p8
+
+Learning iOS Development Part 16 (Storyboards).url
+https://youtu.be/zOax1P9rwQA
+
+Learning iOS Development Part 17 (Introduction to Core Data).url
+https://youtu.be/RkVMs779kMY
+
+Learning iOS Development Part 18 (Core Data Model Versioning).url
+https://youtu.be/dOTb8_2u0Ss
+
+Learning iOS Development Part 19 (Introduction to MapKit).url
+https://youtu.be/fncfvVZv-bw
+
+Learning iOS Development Part 20 (UIView Containment).url
+https://youtu.be/DzedmcFlm1c
+
+Learning iOS Development Part 22 (UITouch Part 2).url
+https://youtu.be/g_FMPzoJbR4
+
+Learning iOS Development Part 23 (UIGestureRecognizer).url
+https://youtu.be/d0n5NnKllGc
+
+Learning iOS Development Part 24 (MapKit Custom Annotations).url
+https://youtu.be/_jg8Ju1jtSA
+
+Learning iOS Development Part 25 (MapKit Custom Annotation Views).url
+https://youtu.be/9kZd2fsUFJU
+
+Learning iOS Development Part 26 (MapKit Overlays).url
+https://youtu.be/iKIHkAopE7E
+
+Learning iOS Development Part 27 (Categories, Protocols and Delegates).url
+https://youtu.be/1nbH7v6gMPg
+
+Learning iOS Development Part 28 (UISplitViewController Using Storyboards).url
+https://youtu.be/rdIVuDLr0YM
+
+Learning iOS Development Part 29 (Blocks).url
+https://youtu.be/9FWqh24b9oE
+
+Learning iOS Development Part 30 (Settings).url
+https://youtu.be/FGnqOBuS3jg
+
+Learning iOS Development Part 31 (iOS 5 Appearance).url
+https://youtu.be/L63CU2T7DBE
+
+Learning iOS Development Part 32 (Serializing).url
+https://youtu.be/c67-hmRLBaA
+
+Learning iOS Development Part 8 (Introduction to UITableView).url
+https://youtu.be/Fbp17aDENzY
+
+Learning iOS Development Part 9 (Styling UITableView).url
+https://youtu.be/B2kbxWzJLVM
+Videos 851-875

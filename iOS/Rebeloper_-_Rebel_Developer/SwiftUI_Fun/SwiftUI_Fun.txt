@@ -1,0 +1,16 @@
+
+80% of Devs DON'T KNOW THIS about SwiftUI Swift Concurrency.url
+https://youtu.be/OpZtYsAkzIw&list=PL_csAAO9PQ8ZNPl1xawTXzdJtXzm_vjJ5
+
+Alamofire KILLER How to replace URLSession.url
+https://youtu.be/RM5uKTBr20c&list=PL_csAAO9PQ8ZNPl1xawTXzdJtXzm_vjJ5
+
+How NOT TO SUCK at UX - SwiftUI Progress Bar.url
+https://youtu.be/nHr2hh-KgTk&list=PL_csAAO9PQ8ZNPl1xawTXzdJtXzm_vjJ5
+
+LeetCode 101 (START HERE)  Swift Algorithms.url
+https://youtu.be/GcP29vco3NA&list=PL_csAAO9PQ8ZNPl1xawTXzdJtXzm_vjJ5
+
+Make a STUNNING App from Your Website - WKWebView Swift.url
+https://youtu.be/6QwdbyonXUg&list=PL_csAAO9PQ8ZNPl1xawTXzdJtXzm_vjJ5
+SwiftUI Fun

@@ -1,0 +1,61 @@
+
+Learn Swift - Solutions for the Programming Challenges.url
+https://youtu.be/wpRlKzNS5Y4&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 10 - Classes Part 2 - Inheritance.url
+https://youtu.be/CnvlxNC6FlQ&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 11 - UIKit.url
+https://youtu.be/tHjMdmFlGBo&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 12 - Initializers.url
+https://youtu.be/6GvxKCGcZC4&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 13 - Optionals.url
+https://youtu.be/uT2IHQpE3ms&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 14 - Properties.url
+https://youtu.be/kmET5JcKcx8&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 15 - Initializers Part 2 (Designated and Convenience Initializers).url
+https://youtu.be/LUlQTmf1Iek&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 16 - Arrays.url
+https://youtu.be/RFYDvYXsrxQ&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 17 - Dictionaries.url
+https://youtu.be/7srt4mMA3Qw&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 2 - Data Types.url
+https://youtu.be/BlXrMgmvNBI&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 3 - If Statements.url
+https://youtu.be/z_4JuCD0mz8&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 4 - Switch Statements.url
+https://youtu.be/PZEWRDbSn6c&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 5 - Loops Part 1.url
+https://youtu.be/vxyrLbmm9Oo&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 6 - Loops Part 2.url
+https://youtu.be/XDJXLw0Y3Hs&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 7 - Functions Part 1.url
+https://youtu.be/2kwyQ5w00Uc&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 8 - Functions Part 2.url
+https://youtu.be/jNiBS0bxVQQ&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Ep 9 - Classes Part 1.url
+https://youtu.be/ZDzdz52tex4&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners - Programming Challenges.url
+https://youtu.be/U4hGXWKfYy0&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Learn Swift for Beginners Lesson 1 - Variables (Swift 5 compatible).url
+https://youtu.be/2OZ07fklur8&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+
+Swift for Windows (2018) - Learn Swift In Your Browser!.url
+https://youtu.be/7rIjwmgDBjE&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX
+Learn Swift

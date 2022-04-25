@@ -1,0 +1,67 @@
+
+try! Swift New York 2016 - Architectural Superpowers.url
+https://youtu.be/jl5ykrXJRgY&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 -  Driving User Engagement with watchOS 3.url
+https://youtu.be/_fD5aYVq1kQ&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 -  Swift Eye for the Stringly Typed API.url
+https://youtu.be/kjudFbIJclg&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Best of Functional, Protocol, & Object-Oriented Programming.url
+https://youtu.be/884M0VJ4U9Q&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Building a Better Language App with Swift.url
+https://youtu.be/3pOxyEkN2e8&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Building a Tiny Compiler.url
+https://youtu.be/bCxZmFn-meM&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Building a User-Centric Security Model in iOS Applications.url
+https://youtu.be/o_F4i3Zk-l8&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Designs for the Human Mind.url
+https://youtu.be/ikLEqBEbzL8&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Extending Xcode 8.url
+https://youtu.be/MTaC-0aB5J0&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Healthy Minds in a Healthy Community.url
+https://youtu.be/XBFO92t7-4Q&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Incremental Swift.url
+https://youtu.be/Xxo0OVTvLyU&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Mastering TextKit.url
+https://youtu.be/W_CWjhkYg48&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Property-Based Testing with SwiftCheck.url
+https://youtu.be/7Zu1hprFL_8&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Pushing the Envelope with iOS 10 Notifications.url
+https://youtu.be/9cdR-9-Tn8g&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Random Talk The Consistent World of Noise.url
+https://youtu.be/P46zvGW53l8&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Real World Swift Performance.url
+https://youtu.be/tNvwTi2jE3o&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Refactoring at Scale – Lessons of Rewriting Instagram’s Feed.url
+https://youtu.be/l5tQyxvGPeQ&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Result Oriented Development.url
+https://youtu.be/H4rxRnJhQBM&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Say It Ain't So Implementing Speech Recognition in Your App.url
+https://youtu.be/IDHCZq6sn10&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - Swift, Java, Node.js, Ruby Advantages of Server-side Swift.url
+https://youtu.be/o-vUS8Bl3dk&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - There and back again ( Functional Programming ).url
+https://youtu.be/pgwM-LvMiDU&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+
+try! Swift NYC 2016 - What's Under the Hood Decoding JSON with Swift.url
+https://youtu.be/NJ-PlT4nvN4&list=PLCl5NM4qD3u8dx2MXHT1SpnjkQLwKtewR
+try! Swift NYC 2016

@@ -1,0 +1,76 @@
+
+Binary Kids - Checking Tire Thread Depth Using Quarter.url
+https://youtu.be/EhtKRBE-v3s
+
+Binary Kids - Snap Circuit.url
+https://youtu.be/5c_-auKbeEs
+
+Codable Ranges in Swift 5.url
+https://youtu.be/pNeF7VcKpyU
+
+Creating and Embedding Frameworks in iOS.url
+https://youtu.be/4--_1Wx8rP8
+
+Fetching Data from Web API and Displaying Using SwiftUI.url
+https://youtu.be/AahAsZ4HdVw
+
+Getting Started with Flutter Development.url
+https://youtu.be/RWsmB0reaIU
+
+Getting Started with NodeJS Development.url
+https://youtu.be/s_w0r45xVfI
+
+Hello RxSwift.url
+https://youtu.be/k5egUAZiwMw
+
+Implementing Lean Controllers in iOS.url
+https://youtu.be/x2F23IEHih4
+
+Introduction to ARKit.url
+https://youtu.be/f7WIEn0NDz4
+
+Introduction to Binding in SwiftUI.url
+https://youtu.be/nljm495-hIc
+
+Introduction to ExpressJS.url
+https://youtu.be/B31XXmsoapo
+
+Is Flutter Development going to kill my MacBook Pro.url
+https://youtu.be/ZqQhYuqu-fY
+
+IsMultipleOf and Future Enums and Swift 5.url
+https://youtu.be/rW9-7JLnn80
+
+Loading 3D Models in ARKit.url
+https://youtu.be/qv9rRuVHQrk
+
+Mapping Nested JSON to Flat Models in Swift.url
+https://youtu.be/77XspFXkQRw
+
+NEW COURSE - Mastering RxSwift in iOS.url
+https://youtu.be/qyTcZkXTr3o
+
+NEW COURSE - NodeJS Complete Guide to Building Data Driven Applications.url
+https://youtu.be/3NGWjDkpcfY
+
+Passing Data Between Views in SwiftUI.url
+https://youtu.be/BCSP_uh0co0
+
+Playground Driven Development.url
+https://youtu.be/uSNkoSaj8X4
+
+Populating Segmented Control Using SwiftUI.url
+https://youtu.be/8hTrghIq1qQ
+
+SwiftUI on macOS Mojave Using Swift Playgrounds.url
+https://youtu.be/g4aXBHdNgJ0
+
+The Complete Guide to New Features in Swift 5.url
+https://youtu.be/VveANBEt6k8
+
+Tip Displaying Images in Flutter GridView.url
+https://youtu.be/r8h2IZNGNoo
+
+Understanding Result Type in Swift 5.url
+https://youtu.be/dyH3grgj8Ps
+Videos 401-425

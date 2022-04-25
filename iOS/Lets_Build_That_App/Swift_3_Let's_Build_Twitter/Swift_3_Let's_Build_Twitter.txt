@@ -1,0 +1,49 @@
+
+Swift 3 Twitter - Custom Navigation Bar (Ep 7).url
+https://youtu.be/zS-CCd4xmRY&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Custom Tweet Cells (Ep 8).url
+https://youtu.be/FvixwFT2WJM&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Dynamic Cell Sizing (Ep 6).url
+https://youtu.be/TEMUOaamcDA&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Easy Caching and Loading Images using CachedImageView (Ep 15).url
+https://youtu.be/ilwEMj7mWCY&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Generics and Array Extension (Ep 16).url
+https://youtu.be/zHUxKTGgNQE&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Handling Network and JSON Errors (Ep 14).url
+https://youtu.be/8UBlNPMZRuM&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - How to Implement Singleton and Completion Blocks (Ep 12).url
+https://youtu.be/ikqv5Z633mc&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - JSON Parsing with TRON and Generics (Ep 11).url
+https://youtu.be/Ds0AgchWlDE&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Parse Tweets JSON using Map (Ep 13).url
+https://youtu.be/tt67VikEovY&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - Tweets String Formatting Tips And Tricks with NSAttributedString (Ep 9).url
+https://youtu.be/slGx90YoX3Q&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - UIStackView Landscape and Device Sizing Support (Ep 10).url
+https://youtu.be/YLnPUj9TvKI&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift 3 Twitter - User MVC Implementation (Ep 5).url
+https://youtu.be/b9shcZzPbp4&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift Twitter - Headers, Cells, and Footers (Ep 1).url
+https://youtu.be/2fcf9yFe944&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift Twitter - Integrating LBTAComponents (Ep 2).url
+https://youtu.be/9ZCoLepLu0w&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift Twitter - User Cell Design (Ep 4).url
+https://youtu.be/p_ak_ORr3KY&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+
+Swift Twitter - User Cell Subview Layout (Ep 3).url
+https://youtu.be/wN_vhAjnGvo&list=PL0dzCUj1L5JE1wErjzEyVqlvx92VN3DL5
+Swift 3 Let's Build Twitter

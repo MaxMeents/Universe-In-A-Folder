@@ -1,0 +1,28 @@
+
+How to Build a Simple iOS Chat App - Ep 1 - Demo of the Simple Chat App.url
+https://youtu.be/6hG9U1-4jPk&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 2 - Signing up for Parse.url
+https://youtu.be/QtQgXD22AsA&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 3 - Adding the Parse Framework into a Swift Xcode Project.url
+https://youtu.be/R6dWA1uSMos&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 4 - Building the User Interface in Xcode 6.url
+https://youtu.be/TT9tI40MM_Q&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 5 - Hooking up the UITableView.url
+https://youtu.be/NLfttsQCKvw&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 6 - Building and Animating the Message Dock.url
+https://youtu.be/rIC8sc7bj20&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 7 - Saving data to Parse backend.url
+https://youtu.be/VpOTW21TeJQ&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+How to Build a Simple iOS Chat App - Ep 8 - Retrieving data from Parse backend.url
+https://youtu.be/JdIeCtL-Wmc&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+
+When Do We Need A Database For Our App.url
+https://youtu.be/IVItNKOITxg&list=PLMRqhzcHGw1b2gX4gn5B3ILqiEF-UYei5
+How to Make a Simple iOS Chat App

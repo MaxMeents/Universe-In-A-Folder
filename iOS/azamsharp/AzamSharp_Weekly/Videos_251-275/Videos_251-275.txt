@@ -1,0 +1,76 @@
+
+Activity Indicator in SwiftUI.url
+https://youtu.be/aP-GAAFjS6s&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Animate Shapes in SwiftUI.url
+https://youtu.be/P1LWRH4MV10&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Building Covid19 Tracking App Using SwiftUI and MVVM Design Pattern.url
+https://youtu.be/wfW0lhr_88I&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Circular Progress Indicator in SwiftUI.url
+https://youtu.be/dlBJZnBuerc&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Custom Initializers for Swift Structs.url
+https://youtu.be/mY3BV6drHgo&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Drawing in SwiftUI.url
+https://youtu.be/ERpEy2oJ1-8&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Flutter is NOT dead! My Response to TechLead.url
+https://youtu.be/JiHGTjdHABQ&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Higher Order Views in SwiftUI.url
+https://youtu.be/QnvQtxfGkNk&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Integrating Vapor with PostgreSQL Database.url
+https://youtu.be/sKkreLW-91o&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Introduction to ARKit.url
+https://youtu.be/NF-C5a0EL18&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Monologue Rainn Wilson on the Differences Between SNL and The Office - SNL.url
+https://youtu.be/QC0acqbjizI&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Multi-State Modal in SwiftUI.url
+https://youtu.be/SqwPLV43DJc&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Networking Requests Using Postman.url
+https://youtu.be/0rXZ6i9F7_s&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Neumorphic Design in SwiftUI.url
+https://youtu.be/lyzx5nUgE6M&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+NEW COURSE Testing iOS Apps Behavior Driven Development Using Swift.url
+https://youtu.be/79imlR3cRFk&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+NEW SECTION - Neumorphic Design in SwiftUI.url
+https://youtu.be/v_HRLMtc5Rw&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Optional Binding in SwiftUI.url
+https://youtu.be/lXTEmh5XYHs&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Posting JSON in Vapor 4.url
+https://youtu.be/fX0P8dgPMB0&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Programmatic Navigation in SwiftUI.url
+https://youtu.be/T0vo2ZX9E7A&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Server Side Pages Using Vapor Leaf Templates.url
+https://youtu.be/N6JtGfyH_SE&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Swift 5.3 Features.url
+https://youtu.be/iJiGjrxVSS4&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI - AnyView vs Group.url
+https://youtu.be/xV9BFQdZDkM&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+These Universities are the Biggest SCAMS.url
+https://youtu.be/tVCoG3GjLrE&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Vacation Simulator - All Locations Playthrough [No Commentary].url
+https://youtu.be/fUMff2XxTbU&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Xcode Previews for View Controllers in iOS.url
+https://youtu.be/U45SJs_IZ3Q&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+Videos 251-275

@@ -1,0 +1,76 @@
+
+Android Development vs iOS - Should I Learn Both.url
+https://youtu.be/PLVIiyu_zmo
+
+CloudKit Tutorial iCloud - Fetch, Delete and Modify Data in SwiftUI.url
+https://youtu.be/bVSbRnHcXrA
+
+CloudKit Tutorial iCloud - Save Data in SwiftUI.url
+https://youtu.be/_wMsY7F9brA
+
+Firebase Authentication iOS - Sign in with Apple (EASY).url
+https://youtu.be/MY5xLrsnUVo
+
+Getting Started with Firebase Remote Config on iOS, Swift 5.url
+https://youtu.be/2twyU9biLSo
+
+How to fix missing Info.plist error in Xcode 11  Step by Step Tutorial in Swift 5.url
+https://youtu.be/1IwJ_iFwOXA
+
+How to Install a CocoaPod - Xcode11 and Swift 5.url
+https://youtu.be/TWrtw75dMQs
+
+How to Use a Stepper In Xcode 11 - SwiftUI Tutorial.url
+https://youtu.be/4g5gYgnofWU
+
+iOS 13 SwiftUI Tutorial - Build a Complex UI with SwiftUI from Start to Finish.url
+https://youtu.be/c37lKqla0IA
+
+iOS App Development Company - How to Get a Job as an iOS Developer.url
+https://youtu.be/hIVGX2Mq5F0
+
+iOS App Life Cycle in 2020.url
+https://youtu.be/nIZcDkov8Vs
+
+iOS Developer Resume for 2020.url
+https://youtu.be/4lq7l8YceM0
+
+iOS Development Course - How I learned iOS development (in 6 months).url
+https://youtu.be/NgVSOEs7D-U
+
+iOS Development for Windows in 2020.url
+https://youtu.be/yJD8rBsoGII
+
+iOS Development Tools You Need to Have in 2020.url
+https://youtu.be/1emN1kbRhXg
+
+Optional Chaining - What are Optionals in Swift (EVERYTHING YOU NEED TO KNOW).url
+https://youtu.be/Up0dqKeBLNY
+
+Social Sign In Sign In with Apple in UIKit.url
+https://youtu.be/rfeiRdttWa0
+
+Social Sing In Sign In with Apple SwiftUI Tutorial.url
+https://youtu.be/Sj-gJbb5x3Q
+
+Swift Protocol Delegate Pattern (BEST EXPLANATION).url
+https://youtu.be/UQnSdXFDAQQ
+
+SwiftUI tutorial - How to Use a Slider, Toggle Switch and Form in SwiftUI.url
+https://youtu.be/YVvDeyjbJSU
+
+UICollectionView Swift - Compositional Layout GAME CHANGING!.url
+https://youtu.be/hHQgHS7NHso
+
+UICollectionView Swift - Diffable DataSource (EASIEST TUTORIAL).url
+https://youtu.be/SBeizUTImoQ
+
+UIStackView - Get started programmatically in Swift 5.url
+https://youtu.be/CDL2t0JTotI
+
+WHAT is your biggest roadblock or struggle.url
+https://youtu.be/_yXIk_GTj9I
+
+Which iOS Development Language Should You Learn for Apps - Swift Language Tutorial.url
+https://youtu.be/LEgZjH0tJNg
+Videos 151-175

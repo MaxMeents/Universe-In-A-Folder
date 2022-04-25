@@ -1,0 +1,76 @@
+
+Authentication in SwiftUI App Using JSON Web Token (JWT).url
+https://youtu.be/iXG3tVTZt6o&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+AWSAmplify DataStore with.url
+https://youtu.be/JQiCCdDUBcQ&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Building a NearMe App in SwiftUI Using MVVM Pattern.url
+https://youtu.be/Rhni99ZrLd4&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Composable Views Using @ViewBuilders in SwiftUI.url
+https://youtu.be/gISy5DWGmI8&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Core Data Debug Flags and SQLite.url
+https://youtu.be/zou3BvxBoP0&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Core Data in SwiftUI Using MVVM Design Pattern.url
+https://youtu.be/ehV2gp5uVhs&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Enums as Models in Swift Language.url
+https://youtu.be/VYvnYvaq7b8&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Getting Started with GraphQL in SwiftUI.url
+https://youtu.be/EYh78v8ay14&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Gradients in SwiftUI.url
+https://youtu.be/pHtNwgIhUm4&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Implementing @FetchRequest in SwiftUI.url
+https://youtu.be/AhT1dJM8WvY&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Implementing Apollo GraphQL Server Using Node with SwiftUI Client.url
+https://youtu.be/fTasFRbsEnQ&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+iOS DC Meetup Talk - Architecting SwiftUI Apps Using MVVM Pattern.url
+https://youtu.be/W7InaBpdm8o&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Multi-Column Picker View in SwiftUI.url
+https://youtu.be/tRGxp-8mHnY&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+My Talk on MVVM and SwiftUI Apps from Swift Heroes Digital 2020.url
+https://youtu.be/UpfyYfXgYMs&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+NEW COURSE - Core Data in iOS.url
+https://youtu.be/PDrKvQrgAQQ&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+NEW COURSE - Passive Income for Developers.url
+https://youtu.be/cZf7sI8b4wY&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+SwiftUI & GraphQL - Showing Country Details.url
+https://youtu.be/ZaUGgQz0u-8&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 1 (Introduction).url
+https://youtu.be/J6k4cVhbu6w&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 2 (Decoding JSON).url
+https://youtu.be/V5EDE5CNKvc&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 3 - Implementing View Models.url
+https://youtu.be/Bc7yJyW035s&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 4 - Presenting Sheets for WeatherListScreen and AddCityScreen.url
+https://youtu.be/HWR5ikCSTmo&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 5 - Adding Weather to Environment Object.url
+https://youtu.be/4l7uuBtFniM&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 6 - Displaying Weather on Screen.url
+https://youtu.be/8azMfDfSvXg&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 7 - Saving Temperature Unit.url
+https://youtu.be/NhVBn1Tgqu8&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+
+Weather App Using SwiftUI - Part 8 (Last Part) - Displaying Converted Temperature on Screen.url
+https://youtu.be/koP6uPDtIRo&list=PLDMXqpbtInQgRDoPARt1LHxn35i6auQax
+Videos 101-125

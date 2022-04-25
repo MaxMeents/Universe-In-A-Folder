@@ -1,0 +1,76 @@
+
+01-Variables and Constants - Swift School - Swift 4.url
+https://youtu.be/8_0WLMFmQWk
+
+02-Inferencing, Type Annotation, and Safety - Swift 4.url
+https://youtu.be/MB98Ph9Ga8M
+
+03-Commenting and Printing to the Console-Swift 4.url
+https://youtu.be/nSQAuqyntj8
+
+04-Operators in Swift-Swift 4.url
+https://youtu.be/kTJ2HgeQSaM
+
+05-Data Types-Swift 4.url
+https://youtu.be/83uVeZH6HpQ
+
+06-Intro To Strings-Swift 4.url
+https://youtu.be/4Sfpl_8xctI
+
+07-intro to Numbers and Booleans-Swift 4.url
+https://youtu.be/UzsHtyaqv5k
+
+2.1-Strings - Swift 4 - App Development With Swift.url
+https://youtu.be/uvLoV_M1bVY
+
+2.3-Structures LAB - Part 1 - Swift 4 - App Development With Swift.url
+https://youtu.be/VgYt2FUSGvQ
+
+2.3-Structures LAB - Part 2 - Swift 4 - App Development With Swift.url
+https://youtu.be/2wtoRBZNJu0
+
+2.3-Structures LAB-Part 3 - Swift 4 - App Development With Swift.url
+https://youtu.be/Ofg7c6hwZSQ
+
+2.4-Classes, Inheritance - Part 1 - Swift 4 - App Development With Swift.url
+https://youtu.be/50YWNm5ZrgM
+
+2.4-Classes, Inheritance - Part 2 - Swift 4 - App Development With Swift.url
+https://youtu.be/oAR8lImmFQY
+
+3.1-Optionals - Part 1 - Swift 4 - App Development With Swift.url
+https://youtu.be/y06bv8tDBIw
+
+3.1-Optionals - Part 2 - Swift 4 - App Development With Swift.url
+https://youtu.be/JWBH3L1fQ7Y
+
+3.2 - Type Casting and Inspection.url
+https://youtu.be/k-bc6njf8ZE
+
+3.3 - Guard.url
+https://youtu.be/o3xwyF4ycRk
+
+3.4 - Constant and Variable Scope - Swift 4 - App Development With Swift.url
+https://youtu.be/ircgqRHpkkE
+
+Alert Box - (Part 2) - adding a text field inside UIAlertController - swift 4.url
+https://youtu.be/pjrig7gBtlQ
+
+Alert Box - UIAlertController - (Part 1) - swift 4.url
+https://youtu.be/omcaVVR3sYQ
+
+CCC (Canadian Computing Competition) - 2014 J3 - Double Dice - Swift 4 +.url
+https://youtu.be/Re14OBW7shg
+
+Saving Data using user.defaults (Part 1) - Swift 4.url
+https://youtu.be/YKz0VRm8xzs
+
+saving Data using user.defaults NSArchiver (Part 2).url
+https://youtu.be/QIpBnWajCSc
+
+selection Sort - Swift 4.url
+https://youtu.be/U0v40QS_87Y
+
+Swift 4 - put a delay on Code - using dispatchQueue.url
+https://youtu.be/D35NpDYMhvA
+Videos 26-50

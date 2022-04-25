@@ -1,0 +1,76 @@
+
+Android Constraint Layout How to Use the UI Design Builder.url
+https://youtu.be/bXSvxcljcNw
+
+Android Kotlin Essentials to Creating a ListView (Ep 1).url
+https://youtu.be/EwwdQt3_fFU
+
+Android Kotlin Introduction to Android Studio and FizzBuzz.url
+https://youtu.be/PRYPafLAYps
+
+Android Kotlin ListView Custom XML Views for Rows (Ep 2).url
+https://youtu.be/P2I8PGLZEVc
+
+CoreML Real Time Camera Object Detection with Machine Learning - Swift 4.url
+https://youtu.be/p6GA8ODlnX0
+
+Difficulty for Beginners learning Swift and iOS Programming in Shanghai China.url
+https://youtu.be/j-141pN_95U
+
+How Do You Write Closures in Swift.url
+https://youtu.be/fVF_tNcIhfc
+
+How I Learn New Skills for the Job - Udemy, Udacity, College, Google.url
+https://youtu.be/1RMkGkL9L3U
+
+How to go from Military to iOS Developer in San Francisco with Sean Allen.url
+https://youtu.be/O48lanyUBbE
+
+Is Apple's Vision Biased More difficulty detecting darker subjects.url
+https://youtu.be/YT6G4Cg60xE
+
+Is iOS Development Real Programming.url
+https://youtu.be/iCVb2tgyqLQ
+
+Let's chill and hangout today (Q&A).url
+https://youtu.be/tHmuK5FBWTw
+
+My First Portfolio Project when Applying for Software Jobs.url
+https://youtu.be/hPQIRIl977I
+
+Parsing JSON Just Became Super Easy in Swift 4 with Decodable.url
+https://youtu.be/YY3bTxgxWss
+
+Programming Challenges Others are Having - Let me know on Facebook.url
+https://youtu.be/SuoZ7WHdGK8
+
+Screening Interview Question Why is UIViewController so Important.url
+https://youtu.be/Q2r1lgl4JL4
+
+Should You Attend Online or Real World Bootcamps.url
+https://youtu.be/83Vkp5zM06s
+
+Super Impressive and Easy Face Detection using Vision API in Swift 4.url
+https://youtu.be/d0U5j89M6aI
+
+Swift Fun Algorithms - Counting Palindromes.url
+https://youtu.be/94fx_aw1zt4
+
+Swift Why We Use Optionals.url
+https://youtu.be/7a7As0uNWOQ
+
+Things I Noticed About Developer Conferences vs VidCon.url
+https://youtu.be/8IBMee9GsxM
+
+Top 3 Ways to Best Handle Optionals.url
+https://youtu.be/fOtWITIpT7k
+
+What Makes Programming Difficult.url
+https://youtu.be/VYAqLHS1gbU
+
+Why do you guys watch the live stream.url
+https://youtu.be/ZVCMV4a3KRw
+
+Working in BadHot Conditions.url
+https://youtu.be/kS9IHFF0GVk
+Videos 251-275

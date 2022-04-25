@@ -1,0 +1,76 @@
+
+Create A Simple iOS Game in Swift 3.url
+https://youtu.be/ZnEw7fosReE&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #1 - Creating The Project and Home Interface.url
+https://youtu.be/rG9yy6X23C8&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #10 - Add Save Score Function.url
+https://youtu.be/rUdcqDi9UzU&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #11 - Displaying The High Score.url
+https://youtu.be/JDMEAJQ5mCY&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #12 - Share Score to Twitter.url
+https://youtu.be/qdcgGf4I8bw&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #13 - Share Score via Email.url
+https://youtu.be/baysh_CbxaU&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #14 - Share Score via SMS.url
+https://youtu.be/ioNR8xkenns&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #15 - Display Ad Banners on All Views.url
+https://youtu.be/0Qdjhtw4ua0&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #16 - Create In App Purchases To Remove Ads.url
+https://youtu.be/D2qs7QafbQg&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #17 - Add In App Purchases.url
+https://youtu.be/RSh9mg1y-I4&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #18 - Setup Ad Removal.url
+https://youtu.be/VNTHVwwZIlA&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #19 - Set Up App For Universal Displays.url
+https://youtu.be/W18ZUVpcHFg&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #2 - Designing The Game Interface.url
+https://youtu.be/irOaHbZZ_VA&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #20 - Restore In App Purchases.url
+https://youtu.be/6Hx7sdyMDJg&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #21 - Create App Icons.url
+https://youtu.be/YtoYWXCr29U&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #22 - Setup a Universal Launch Screen.url
+https://youtu.be/Yipwsdg44Vo&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #23 - Prepare Application for Submission.url
+https://youtu.be/BP1Wscz1xas&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #24 - Submit The Application to The AppStore.url
+https://youtu.be/WGow4tfz-dA&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #3 - Setting Up The Tapping Button.url
+https://youtu.be/YToYiIlalN8&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #4 - Creating Start Game Controls.url
+https://youtu.be/oo7InFOUtqM&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #5 - Adding a Game Timer.url
+https://youtu.be/0UPYo52RLos&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #6 - Creating The End Game Function.url
+https://youtu.be/zby9qRI8scw&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #7 - Designing The End Game Interface.url
+https://youtu.be/brByR_6tHLM&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #8 - Create a Restart Function.url
+https://youtu.be/eDEhlL1wQwI&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+
+Swift 3 Create A iOS Game #9 - Display The End Score.url
+https://youtu.be/x6CouzPjNdg&list=PLiRG83hKoub9rHU9i1_3ltY_3ZKwQdnaL
+Videos 1-25

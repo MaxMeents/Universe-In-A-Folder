@@ -1,0 +1,76 @@
+
+5 Design Tips for Better Backgrounds (iOS, Xcode 8).url
+https://youtu.be/iu9cam3XYiE
+
+Animating Popups - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/al9HLGk27Co
+
+Big Mountain Studio Intro.url
+https://youtu.be/nV_e1CU9txs
+
+Closures - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/HdrIjoTcPEM
+
+Customizing UIPickerView (iOS, Xcode 8, Swift 3).url
+https://youtu.be/6Qd3CdWYeJ8
+
+How to Make Animations Bounce (Spring Animations) (iOS, Xcode 8, Swift 3).url
+https://youtu.be/5bYLBFf8Lk8
+
+Introduction to iOS Threading - Zelda App (Xcode 8, Swift 3).url
+https://youtu.be/sOnvsZwNsp0
+
+Introduction to Transition Animations (iOS, Xcode 8, Swift 3).url
+https://youtu.be/Psp0pzbwAWY
+
+iOS Tinder-Like Swipe - Part 1- UIPanGestureRecognizer (Xcode 8, Swift 3).url
+https://youtu.be/0fXR-Ksuqo4
+
+iOS Tinder-Like Swipe - Part 2 - Fading image in and out (Xcode 8, Swift 3).url
+https://youtu.be/5hXPnipCDBQ
+
+iOS Tinder-Like Swipe - Part 3 - Animating card off screen (Xcode 8, Swift 3).url
+https://youtu.be/sBnqFLJqn9M
+
+iOS Tinder-Like Swipe - Part 4 - Rotating the Card (Xcode 8, Swift 3).url
+https://youtu.be/F5Rh4kDongo
+
+iOS Tinder-Like Swipe - Part 5 - Scaling the Card (Xcode 8, Swift 3).url
+https://youtu.be/BHXk-W8mv4o
+
+Modal Popups using the Scene Dock - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/WnlPZbSnlLI
+
+Storyboard Tips - Autoresizing Controls (iOS, Xcode 8, Swift 3).url
+https://youtu.be/pI-yolo9NrM
+
+Storyboard Tips - Bulk Changes on Storyboard (iOS, Xcode 8).url
+https://youtu.be/g437qSFvix8
+
+Storyboard Tips - Duplicating Objects (iOS, Xcode 8).url
+https://youtu.be/N-NIsjY87Qs
+
+Storyboard Tips - Easily Work With Layers Of Controls (iOS, Xcode 8).url
+https://youtu.be/orZ8QCfvJts
+
+Storyboard Tips - Naming UI Elements (iOS, Xcode 8).url
+https://youtu.be/IdLHf26NoH0
+
+Storyboard Tips - Orphaned Outlets and Actions (iOS, Xcode 8).url
+https://youtu.be/jxd_yqbh2iw
+
+Storyboard Tips - Selecting Under Mouse With Control + Shift (iOS, Xcode 8).url
+https://youtu.be/igWtFx8D3sA
+
+Storyboard Tips - Sizing Stack Views (iOS, Xcode 8).url
+https://youtu.be/lD1rtV8zxbE
+
+Storyboard Tips - Updating Constraints (iOS, Xcode 8).url
+https://youtu.be/dW4GVxEfq0o
+
+Storyboard Tips - Use Command Equals to Resize to Fit (iOS, Xcode 8).url
+https://youtu.be/9UaSCcdUWxg
+
+Transparent TableView - Zelda App (iOS, Xcode 8, Swift 3).url
+https://youtu.be/LZaDgr2jjoQ
+Videos 176-200

@@ -1,0 +1,76 @@
+
+Action Sheets on iPads - Part 30 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/f_x1136BItk
+
+Actions Sheets - Part 29 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/VBR3jTRsZLk
+
+Add Custom Font and Alternate Characters (iOS, Xcode 10, Swift 4).url
+https://youtu.be/-GlRHQIsDq0
+
+Add New Day and the DRY Principle - Part 31 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/fuHjLNADa50
+
+Advanced 2D & 3D Animation Techniques - Part 39 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/KUqQt8vcNOA
+
+Apps My Patrons Are Working On.url
+https://youtu.be/JQrhddZFX3Q
+
+Comparing Dates for Validation - Part 34 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/_e2lAU0PaXk
+
+Custom TableView Cell - Part 26 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/rLhuT2gGkTc
+
+Custom TableView Section Headers - Part 25 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/_z2etS0mHYw
+
+Customizing the Nav Bar - Part 28 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/l_vbIEsH_2Q
+
+Date Functions and UIDatePicker - Part 32 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/KW0G6-WZqVA
+
+Editing Activity Table View Rows - Part 43 - Itinerary App (iOS, Xcode 10, Swift 5).url
+https://youtu.be/fjg2_B8O8R4
+
+Keyboard HIDES Text Field - Part 40 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/kD6vw0hp5WU
+
+My story from regular developer to first-time author.url
+https://youtu.be/EIrzOqauGVg
+
+Populating Tableview Sections - Part 24 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/yMBEErdw6Ek
+
+Reorder Table View Rows - Part 44 - Itinerary App (iOS, Xcode 10, Swift 5).url
+https://youtu.be/zZMKgZw-53E
+
+Saving Activities for Days - Part 37 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/jOpXPY6T-fU
+
+Single Select Button Groups - Part 36 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/uGZmzNMpC8M
+
+Swift 5 Conversion and @unknown - Part 42 - Itinerary App (iOS, Xcode 10, Swift 5).url
+https://youtu.be/2E-JTlKkyqw
+
+Swift Tip Reduce Hard-Coded Strings - Part 27 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/6Om91KRQCiM
+
+Swipe to Delete Activities - Part 41 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/NXT-lxYeuQQ
+
+Table Row Swipe Hint Animation (iOS, Xcode 10, Swift 4).url
+https://youtu.be/oAGoFd_GrxE
+
+The Launch Screen - Part 38 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/gTvqR94GuZM
+
+Using Comparable for Sorting and Equality - Part 33 - Itinerary App (iOS, Xcode 10, Swift 4).url
+https://youtu.be/kYUM7eXlNdg
+
+Using the UIPickerView to Add Activities - Part 35 - Itinerary App(iOS, Xcode 10, Swift 4).url
+https://youtu.be/zvmzXqxBDiM
+Videos 76-100

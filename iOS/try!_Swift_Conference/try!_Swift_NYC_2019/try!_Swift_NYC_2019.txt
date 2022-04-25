@@ -1,0 +1,67 @@
+
+try! Swift NYC 2019 -  Parsing natural languages in Swift.url
+https://youtu.be/BPEJ8Nif12E&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - A Deeper Deep dive into Swift Literal.url
+https://youtu.be/z0iZH2iu7Lw&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - App Subscriptions - The Good, The Bad, and the Ugly.url
+https://youtu.be/wtR3CacghWc&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Body Hacking Using Ayurveda.url
+https://youtu.be/ulFFTBGOpl0&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Building the Server-side Swift ecosystem.url
+https://youtu.be/CzTikweGO3E&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Deeper into ARKit with CoreML and Turi Create.url
+https://youtu.be/VBZve4cLH4E&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Designing Accessible APIs.url
+https://youtu.be/gb6t56pzMJg&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Encoding and Decoding in Swift.url
+https://youtu.be/9GZ8Hiq-Nbc&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Extending UIColor to Support Custom Styling.url
+https://youtu.be/Nw0YaDVcA6U&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Getting Started with Combine.url
+https://youtu.be/cawUX50Pt4k&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Introduction to AsyncHTTPClient.url
+https://youtu.be/Zy-uIszhYO8&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - It's Probably Fine.url
+https://youtu.be/RhSUKU8zg8A&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Let's Play With Bitcoin Cash Using Swift.url
+https://youtu.be/uwMSLT7KLD4&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Making Your App Feel at Home in iOS 13.url
+https://youtu.be/HbQVY2hfAEY&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Streamlining Mobile Releases.url
+https://youtu.be/CcPdDwz116k&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Swift for TensorFlow - Machine Learning with no Boundaries.url
+https://youtu.be/xnwgifICYYA&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Swift Without Screens - Powering Connected Devices.url
+https://youtu.be/VILUaec-sCs&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - SwiftUI for Production.url
+https://youtu.be/rshXbwrrUxY&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - SwiftUI in 25 Minutes.url
+https://youtu.be/aK3TJW_nnio&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - The Life of an Image on iOS.url
+https://youtu.be/vl3aXaNPKE0&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - Truths Universally Acknowledged - Swift Design Patterns as Jane Austen Heroes.url
+https://youtu.be/-gjtLq1QjZ8&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+
+try! Swift NYC 2019 - What Swift Devs can Learn from C++.url
+https://youtu.be/CZOVnlwWPZk&list=PLCl5NM4qD3u8lqFGzFhIQ0kD963wei-uh
+try! Swift NYC 2019

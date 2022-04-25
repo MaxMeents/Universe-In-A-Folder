@@ -1,0 +1,76 @@
+
+1.2-Constants, Variables, and Data Types - Swift 4 - App Development With Swift.url
+https://youtu.be/CoNdaR5dBes
+
+1.3-Operators - Swift 4 - App Development With Swift.url
+https://youtu.be/CJSLgyDuozA
+
+1.4-Control Flow - Swift 4 - App Development With Swift.url
+https://youtu.be/uBY6c5NY5-k
+
+1.6-Building, Running, Debugging an APP - Swift 4 - App Development With Swift.url
+https://youtu.be/OBRAmualxyo
+
+2.2-Functions - Swift 4 - App Development With Swift.url
+https://youtu.be/zuvvQ8ueyZ4
+
+Arrays - Appending Removed Values.url
+https://youtu.be/miudSJn9rro
+
+Arrays - Appending to an Array.url
+https://youtu.be/Zv8Ng1Sr83I
+
+Arrays - Getting in Order.url
+https://youtu.be/GDzrZgp-1JE
+
+Arrays - Island Builder.url
+https://youtu.be/qRI5YIq_dQs
+
+Arrays - Iteration Exploration.url
+https://youtu.be/GExBMxtTAs0
+
+Arrays - Stacking Blocks.url
+https://youtu.be/bLwMP2hx_ls
+
+Arrays - Storing Information.url
+https://youtu.be/RdKeXmzVGYA
+
+binaryToDecimal.url
+https://youtu.be/MKRKad6Ak88
+
+Decimal To Binary.url
+https://youtu.be/EnpUnZpo-ss
+
+Parameters - Crank Up and Down.url
+https://youtu.be/Ltq0u7o4cX8
+
+Parameters - Placing Two Characters.url
+https://youtu.be/F1PiqNjgVYQ
+
+Parameters - Rivers to Cross.url
+https://youtu.be/1rB-DUmIc1Q
+
+Parameters - Twin Peaks.url
+https://youtu.be/wPEA_4__cYw
+
+Parameters - Two Experts.url
+https://youtu.be/sIAnJ_Ot7R4
+
+World Building - Build a Loop.url
+https://youtu.be/SWmW8bk_iVQ
+
+World Building - Connect and Solve.url
+https://youtu.be/E_N33wDree0
+
+World Building - Floating Islands.url
+https://youtu.be/TWuqHPb6NR4
+
+World Building - Making Your Own Portals.url
+https://youtu.be/yk9443Sk5eQ
+
+World Building - Reach for the Stairs.url
+https://youtu.be/XBwjwzm68OY
+
+World building - Uniting Worlds.url
+https://youtu.be/_QRZdtDBSmU
+Videos 76-100

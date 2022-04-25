@@ -1,0 +1,40 @@
+
+## All Videos
+/iOS/try!_Swift_Conference/##_All_Videos/##_All_Videos.txt
+
+### All Playlists Below
+/iOS/try!_Swift_Conference/###_All_Playlists_Below/###_All_Playlists_Below.txt
+
+try! Swift India 2017
+/iOS/try!_Swift_Conference/try!_Swift_India_2017/try!_Swift_India_2017.txt
+
+try! Swift India 2017 Moments
+/iOS/try!_Swift_Conference/try!_Swift_India_2017_Moments/try!_Swift_India_2017_Moments.txt
+
+try! Swift NYC 2016
+/iOS/try!_Swift_Conference/try!_Swift_NYC_2016/try!_Swift_NYC_2016.txt
+
+try! Swift NYC 2017
+/iOS/try!_Swift_Conference/try!_Swift_NYC_2017/try!_Swift_NYC_2017.txt
+
+try! Swift NYC 2018
+/iOS/try!_Swift_Conference/try!_Swift_NYC_2018/try!_Swift_NYC_2018.txt
+
+try! Swift NYC 2019
+/iOS/try!_Swift_Conference/try!_Swift_NYC_2019/try!_Swift_NYC_2019.txt
+
+try! Swift Tokyo 2016
+/iOS/try!_Swift_Conference/try!_Swift_Tokyo_2016/try!_Swift_Tokyo_2016.txt
+
+try! Swift Tokyo 2017
+/iOS/try!_Swift_Conference/try!_Swift_Tokyo_2017/try!_Swift_Tokyo_2017.txt
+
+try! Swift Tokyo 2018
+/iOS/try!_Swift_Conference/try!_Swift_Tokyo_2018/try!_Swift_Tokyo_2018.txt
+
+try! Swift Tokyo 2018 Moments
+/iOS/try!_Swift_Conference/try!_Swift_Tokyo_2018_Moments/try!_Swift_Tokyo_2018_Moments.txt
+
+try! Swift Tokyo 2019
+/iOS/try!_Swift_Conference/try!_Swift_Tokyo_2019/try!_Swift_Tokyo_2019.txt
+try! Swift Conference

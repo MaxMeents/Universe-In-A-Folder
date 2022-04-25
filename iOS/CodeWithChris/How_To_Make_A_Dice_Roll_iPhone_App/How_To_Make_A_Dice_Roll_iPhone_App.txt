@@ -1,0 +1,16 @@
+
+How To Make A Dice Roll iPhone App - Ep1 - Introduction.url
+https://youtu.be/Gb_RHtPtYzU&list=PLMRqhzcHGw1bJNp7VI_a--o9YgNGliL9S
+
+How To Make A Dice Roll iPhone App - Ep2 - Creating Views and Adding UIElements.url
+https://youtu.be/u960FELQfAc&list=PLMRqhzcHGw1bJNp7VI_a--o9YgNGliL9S
+
+How To Make A Dice Roll iPhone App - Ep3 - Add Model and Write Methods.url
+https://youtu.be/aAelRyhjx78&list=PLMRqhzcHGw1bJNp7VI_a--o9YgNGliL9S
+
+How To Make A Dice Roll iPhone App - Ep4 - Handling User Interaction.url
+https://youtu.be/IgQFsc4WKn0&list=PLMRqhzcHGw1bJNp7VI_a--o9YgNGliL9S
+
+How To Make A Dice Roll iPhone App - Ep5 - App Icon and Recap.url
+https://youtu.be/cF61zLS1kLI&list=PLMRqhzcHGw1bJNp7VI_a--o9YgNGliL9S
+How To Make A Dice Roll iPhone App

@@ -1,0 +1,67 @@
+
+Compassionate—Yet Candid—Code Reviews.url
+https://youtu.be/Ea8EiIPZvh0&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Crafting a delightful tactile user interface.url
+https://youtu.be/U_Rq8UvGYzc&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Customizing Your Notifications for iOS 12.url
+https://youtu.be/cVFMRRQIZG4&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Effective Core Data with Swift.url
+https://youtu.be/w7tFF7IfKVk&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Getting Started with Apple ML.url
+https://youtu.be/ZDWu9DUmD9s&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Hacking Marzipan.url
+https://youtu.be/2OuQarA0a7I&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Idea to launch - the start of a startup.url
+https://youtu.be/b7bVgnbgGyI&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Let Them Say What They Want Adding Siri Shortcuts.url
+https://youtu.be/_0PzPj2VUVw&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Make our Swift better.url
+https://youtu.be/4ELsSqgVA_Y&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Making it Generic.url
+https://youtu.be/xpqVVenP8ok&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Memojis under the hood.url
+https://youtu.be/ERwertwlwrE&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Need for Speed How XO Group Optimized their Image Loading Time on The Knot Mobile App.url
+https://youtu.be/bhQJKRSStuE&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Strings Seven Ways.url
+https://youtu.be/8pnHolNHD2Y&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Super Resolution with CoreML.url
+https://youtu.be/S73T0TdE9SI&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Swift NIO, Vapor, and Server Concurrency.url
+https://youtu.be/RW2vKWiGWr4&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Swift on Server Are We There Yet.url
+https://youtu.be/qpDiXZRADfE&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Swift Services are Simple.url
+https://youtu.be/tBogAmEzJCk&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+SwiftNIO and Network.framework.url
+https://youtu.be/M9kEtkhEjQ8&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Taken For Granted.url
+https://youtu.be/ePuOrCbIW-o&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Trusting SDKs.url
+https://youtu.be/BXePggcWpuE&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+Using your superpowers for good to change the world!.url
+https://youtu.be/_4Wof3sIKqc&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+
+What I learned creating a social media app clone.url
+https://youtu.be/7pEATK6PgXs&list=PLCl5NM4qD3u8NyOjK0deNu4AQk2hgyhjS
+try! Swift NYC 2018

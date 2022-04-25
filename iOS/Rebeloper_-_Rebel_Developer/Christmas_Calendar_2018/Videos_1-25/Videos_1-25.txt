@@ -1,0 +1,76 @@
+
+Adding Custom Fonts in iOS - SpriteKit and UIKit Xcode 10, Swift 4.2.url
+https://youtu.be/HZh-UuO1LxE&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+DiscardableResult Function in Swift 4.2 (EASY).url
+https://youtu.be/ujh9AkZ_A8Y&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Facebook Login Firebase Authentication in Swift 4.2 (Firestore Edition).url
+https://youtu.be/UNKFOZHN21o&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+FlatUIColors in Swift and Xcode 10 (EASY).url
+https://youtu.be/Xr_ggMmYgOU&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+How to Create Code Snippets in Xcode 10 (Step by Step Example).url
+https://youtu.be/x90CIdemmn0&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+How to Create Custom Xcode File Templates (Step by Step).url
+https://youtu.be/ol3dea83ZuE&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+How to Create Custom Xcode Project Templates (Step by Step).url
+https://youtu.be/8IxC2CmECjQ&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+How to Share Keychain with other Apps in Swift 4.2 - KeychainSwift (Step by Step Tutorial).url
+https://youtu.be/x1nl_osxqlU&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+How to share UserDefaults between Apps and Targets with App Groups in Swift 4.2.url
+https://youtu.be/Jlr9cF9nDnU&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Instagram API in Swift 4.2 (Step by Step Example).url
+https://youtu.be/YsIatmpYvSo&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+iOS Tutorials Christmas Calendar (2018).url
+https://youtu.be/PGyMHwJyAd8&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+KeyChain Swift - How to Use KeyChain Tutorial.url
+https://youtu.be/1R-VIzjD4yo&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Lazy var properties in Swift 4.2 and Xcode 10 (EASY EXAMPLE).url
+https://youtu.be/0zuWFboeth0&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Login with Instagram API Step by Step Example (NEW).url
+https://youtu.be/ZvsiwExiKgI&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Play Audio and Update Location in the Background (Swift 4.2 & Xcode 10).url
+https://youtu.be/_9nUaLhv1E4&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Sherlock - Give your iOS Simulator Superpowers ( from InspiredCode ).url
+https://youtu.be/nSLjI18znZE&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Sign In with Facebook Firebase Authentication in Swift 4.2 (Firestore Edition).url
+https://youtu.be/hXb2aq5vmFo&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+Spark - Effortless Sign In with Facebook - Firebase Authentication in Swift 4.2 (Firestore Edition).url
+https://youtu.be/XXmeyWqn5Ew&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+TinyConstraints - YouTube Home Page UI (Hands on Example).url
+https://youtu.be/JL3l0V68s7M&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+UICollectionViewController Headers Programatically with CollectionKit in Xcode 10, Swift 4.2 and iOS.url
+https://youtu.be/D5igmOH5zqQ&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+UICollectionViewController in under 2 minutes (FAST).url
+https://youtu.be/gnRPR_v3BGc&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+UICollectionViewController programatically with CollectionKit in Xcode 10, Swift 4.2 and iOS12.url
+https://youtu.be/E23QHWCArvw&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+UICollectionViewController Section Programatically with CollectionKit in Xcode 10, Swift 4.2 and iOS.url
+https://youtu.be/mTDftYiLrRE&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+UICollectionViewController Tutorial Programatically with CollectionKit in Xcode 10, Swift 4.2, iOS12.url
+https://youtu.be/qsiZwtOHOVc&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+
+YouTube Home Page UI with TinyConstraints (Hands on Example).url
+https://youtu.be/O3FFRBGUDlI&list=PL_csAAO9PQ8bZvyIrLOdA7iYwnaJMy2kB
+Videos 1-25

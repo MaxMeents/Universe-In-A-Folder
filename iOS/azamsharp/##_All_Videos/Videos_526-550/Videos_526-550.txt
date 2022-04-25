@@ -1,0 +1,76 @@
+
+#4 Understanding ARKit Application.url
+https://youtu.be/3uttjMKFx3Y
+
+#5 Adding Virtual Object into Real World Using ARKit.url
+https://youtu.be/25T30jGxK7I
+
+2 DAYS ONLY - GET MASTERING ARKIT FOR IOS COURSE COMPLETE FREE!.url
+https://youtu.be/3y1pYNh8cag
+
+ARKit for iOS Developers - Building Amazing Augmented Reality Apps.url
+https://youtu.be/vZY8CKQVKs0
+
+Colorful AR World.url
+https://youtu.be/dza6I1mLlaY
+
+CoreML course coming soon ).url
+https://youtu.be/bozymCL4AOI
+
+Creating Models with Sequelize.url
+https://youtu.be/Bv07mHw32TQ
+
+Data Types Concept.url
+https://youtu.be/4aqxUDc3OM0
+
+Database, tables, rows and columns.url
+https://youtu.be/iq8IgSDQPSU
+
+Exporting and Importing PostgreSQL Databases.url
+https://youtu.be/DA1Trq51JZs
+
+Express Routing.url
+https://youtu.be/nld4P0AOt10
+
+Express Sequelize CRUD Operations.url
+https://youtu.be/6LZWhkK-v40
+
+Importing Core ML Model in iOS Application.url
+https://youtu.be/kvQAPvbfgxg
+
+Initializing Sequelize.url
+https://youtu.be/ZVekyQKordA
+
+Installing and Setting up PostgreSQL Using Brew.url
+https://youtu.be/hLn2M8EV9So
+
+Installing and Setting up PostgreSQL Using Postgres.app.url
+https://youtu.be/WcCjNGb8g0o
+
+Mastering ARKit for iOS - Complete Course for Building Amazing Augmented Reality Apps.url
+https://youtu.be/9S9GIM4QibE
+
+Mastering ARKit for iOS Promo Video.url
+https://youtu.be/aHr7hXAF8kI
+
+Mastering Core ML for iOS is now available!.url
+https://youtu.be/m9MnrnS2Csg
+
+Middleware.url
+https://youtu.be/bHqcX4qQCI4
+
+Modularize Express App.url
+https://youtu.be/MzCfV4kXAho
+
+Performing Simple Migration.url
+https://youtu.be/uXQkkIgx4T8
+
+SQL Statements.url
+https://youtu.be/6z2QvasndrU
+
+Using Sequelize Models.url
+https://youtu.be/863BZw8Tg6w
+
+Webinar - Building Amazing Apps Using ARKit for iOS.url
+https://youtu.be/IM1-ldDrsvI
+Videos 526-550

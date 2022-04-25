@@ -1,0 +1,49 @@
+
+try! Swift India 2017 - Adapting to change design patterns in Swift.url
+https://youtu.be/N0GweXS9Ilw
+
+try! Swift India 2017 - AI & Deep Learning using Core ML and Metal Framework.url
+https://youtu.be/mlfg4y-oTtE
+
+try! Swift India 2017 - All you need is Swift.url
+https://youtu.be/ByBKWVx95sU
+
+try! Swift India 2017 - Architecture where Science and Art break even.url
+https://youtu.be/LRMLjIkjhJc
+
+try! Swift India 2017 - Building with SwiftPM.url
+https://youtu.be/8m8hJPWNlrU
+
+try! Swift India 2017 - Closing Remarks.url
+https://youtu.be/s0_l44cHpjM
+
+try! Swift India 2017 - Core ML and your App.url
+https://youtu.be/ybgyyAbvu3s
+
+try! Swift India 2017 - Declarative Programming in Swift.url
+https://youtu.be/SB4slUIQPpw
+
+try! Swift India 2017 - Opening Remarks.url
+https://youtu.be/PM0NCE6iR5I
+
+try! Swift India 2017 - Paper Magic.url
+https://youtu.be/6EI3Q5BqViA
+
+try! Swift India 2017 - Refactoring your app in Rx.url
+https://youtu.be/QB1btv-eI3Y
+
+try! Swift India 2017 - Running An Effective Mobile Engineering Team.url
+https://youtu.be/GA6x94vtxDk
+
+try! Swift India 2017 - Swift One Language to Rule Them All.url
+https://youtu.be/c9noAE1mOto
+
+try! Swift India 2017 - Swiftly programming robots.url
+https://youtu.be/LU402N-5xm8
+
+try! Swift India 2017 - Throwing Streamers.url
+https://youtu.be/ptVL-tKjrgY
+
+try! Swift India 2017 - What is `Swifty`.url
+https://youtu.be/DS6HV1oqHls
+Videos 201-216

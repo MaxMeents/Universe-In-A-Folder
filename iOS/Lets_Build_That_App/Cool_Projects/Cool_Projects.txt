@@ -1,0 +1,64 @@
+
+Advanced Swift Making Programmatic Auto Layout Easy through Extensions.url
+https://youtu.be/iqpAP7s3b-8&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+CoreML Real Time Camera Object Detection with Machine Learning - Swift 4.url
+https://youtu.be/p6GA8ODlnX0&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+How to write Kickass Animated Circle Progress Bar (Ep 1).url
+https://youtu.be/O3ltwjDJaMk&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Is Apple's Vision Biased More difficulty detecting darker subjects.url
+https://youtu.be/YT6G4Cg60xE&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Is your App Slow Make it Responsive by Tracking Download Progress (Ep 2 - Swift).url
+https://youtu.be/ZaW-xPmjutA&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Make your App Come Alive - Pulsing Animation (Ep 3 - Swift).url
+https://youtu.be/lYVazkkjOb8&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Mastering Generics Is This The Most Advanced Swift Code You've Seen.url
+https://youtu.be/K0IO4QvFxnM&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Super Impressive and Easy Face Detection using Vision API in Swift 4.url
+https://youtu.be/d0U5j89M6aI&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift 4 Collage App - How to Drop Images in UIViewController with UIDropInteraction (Ep 1).url
+https://youtu.be/YRrztQQGnGk&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift 4 Collage App - How to Generate Images and Share with UIActivityViewController (Ep 3).url
+https://youtu.be/6o4PmMywIA8&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift 4 Collage App - How to Implement Dragging with UIDragInteraction (Ep 2).url
+https://youtu.be/6Ft--MDvJ_Y&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift 4 Easy Trick to Auto Sizing UITextView in Real Time.url
+https://youtu.be/0Jb29c22xu8&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift 4.1 Update Did JSON Parsing Get Easier How to Customize JSON Decoding and Snake Case.url
+https://youtu.be/XZS-eeO9YoU&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Animations Awesome Facebook Pop Up! Press and Hold (Ep 1).url
+https://youtu.be/wbmTy32s7GQ&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Animations Custom Counting Label - CADisplayLink.url
+https://youtu.be/b3kZH1vfG2U&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Animations Facebook Shimmer using Gradient Masks.url
+https://youtu.be/RRuQZSbueJE&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Create Facebook Live Stream Animation.url
+https://youtu.be/-DGnHfUDMgg&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift How to Chain Animations for Impressive Visual Effects.url
+https://youtu.be/xWNv-j75OQ8&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Magical Grid - Hash Map Views Dictionary (Ep 2).url
+https://youtu.be/tq6xh-zjbIM&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Magical Grid Animate Out Zoom Bounce Effect (Ep 3).url
+https://youtu.be/DPJh4qnzBXE&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+
+Swift Magical Grid to Tinder (Ep 1).url
+https://youtu.be/Wi713xoTVsU&list=PL0dzCUj1L5JFT47RJPN_9P9TXFyLBicJr
+Cool Projects

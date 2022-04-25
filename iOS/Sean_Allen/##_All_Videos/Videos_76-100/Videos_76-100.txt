@@ -1,0 +1,76 @@
+
+App Store Updates, Property Wrappers, Protocols in SwiftUI, Managing URLs and More.url
+https://youtu.be/AilSmyZQ0ng
+
+Apple Reduces App Store Commission to 15%.url
+https://youtu.be/XkrRNQ2a-iY
+
+Best Apps of 2020, Indie App Acquisition, App Pricing, ColorKit and More.url
+https://youtu.be/ASVNIX-J-zE
+
+Diversity in Swift, Apple Resources, Swift at Uber, Indie App Dev, ARKit & More.url
+https://youtu.be/ObALdJyiPgU
+
+How To Show Xcode Build Times For Your App.url
+https://youtu.be/Q-KSe63LDgI
+
+iOS Dev Portfolio Showcase & Review - Nov 2020.url
+https://youtu.be/mUVRLNcQLVs
+
+MortyUI, CoreData, SwiftUI Views and Snake in SwiftUI.url
+https://youtu.be/-SHLN2ZLqpA
+
+Swift 5.4, Subscription Codes, Big Sur Icons, SF Symbols 2.1.url
+https://youtu.be/5Mg92jJI-MM
+
+Swift Concurrency, App Privacy, MVP, Catalyst, iPhone 12 & More.url
+https://youtu.be/nafybEMI-08
+
+Swift's Purpose, Paul Hudson Tools, macOS Menus, Developer Opinions & More!.url
+https://youtu.be/dBnQqb9z7d0
+
+SwiftUI - @State Property Wrapper Explained.url
+https://youtu.be/48JYBb5yJ0s
+
+SwiftUI - DatePicker Tutorial.url
+https://youtu.be/wZinqpiAEiA
+
+SwiftUI - Loading View  Activity Indicator.url
+https://youtu.be/2Jk58S6FiZw
+
+SwiftUI - Redacted Tutorial  iOS 14  Xcode 12.4.url
+https://youtu.be/Q036u2OWOVQ
+
+SwiftUI - TabView Tutorial.url
+https://youtu.be/tnNFoZ7CkP8
+
+SwiftUI Architecture, A11y, SwiftUI Charts, UICollectionView & More!.url
+https://youtu.be/V4gwzZ8_LK0
+
+SwiftUI Basics Tutorial.url
+https://youtu.be/HXoVSbwWUIk
+
+SwiftUI ColorPicker  iOS 14  Xcode 12.4.url
+https://youtu.be/Kp9sHwp4wN8
+
+SwiftUI Link - Open Website in Safari  iOS 14  Xcode 12.4.url
+https://youtu.be/YL43vieArF8
+
+SwiftUI Navigation - NavigationView & NavigationLink Tutorial.url
+https://youtu.be/IopCl8sOyFA
+
+SwiftUI Previews, iOS Dev Survey, Instruments, ARKit and more.url
+https://youtu.be/PzCAkaBc8Yw
+
+SwiftWASM, Photo Picker, Dates, Computed Properties, Mail & More.url
+https://youtu.be/isjE-KpmThg
+
+TestFlight - How to Upload and Distribute Your App  App Store 2021.url
+https://youtu.be/DLvdZtTAJrE
+
+The HUGE lesson I learned working in Silicon Valley.url
+https://youtu.be/owvTXmIIoMo
+
+Your Developer Priorities WILL Change.url
+https://youtu.be/bJo_-JQ3VL0
+Videos 76-100

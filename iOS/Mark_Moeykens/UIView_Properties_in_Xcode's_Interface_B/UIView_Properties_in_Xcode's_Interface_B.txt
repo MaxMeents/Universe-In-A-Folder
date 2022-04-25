@@ -1,0 +1,46 @@
+
+UIView Properties Part 1 - Content ModecontentMode (iOS, Xcode 8, Swift 3).url
+https://youtu.be/_iJwiPGygOM&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 10 - Hidden (iOS, Xcode 8).url
+https://youtu.be/mSIE8_VfWMs&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 11 - Clears Graphics Context (iOS, Xcode 8).url
+https://youtu.be/zAKt9dg-Mp0&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 12 - Clip To BoundsclipsToBounds (iOS, Xcode 8).url
+https://youtu.be/J32sKtXchr4&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 13 - Autoresize Subviews (iOS, Xcode 8).url
+https://youtu.be/kj_1pkCgHNE&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 14 - Stretching (iOS, Swift, Xcode 8).url
+https://youtu.be/J74yn6qnTcI&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 15 - Installed (iOS, Xcode 8).url
+https://youtu.be/BsYxWAvksZc&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 2 - SemanticsemanticContentAttribute (iOS, Xcode 8).url
+https://youtu.be/vCLmWyeT-QE&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 3 - Tag - and using viewWithTag (iOS, Xcode 8).url
+https://youtu.be/XHCUmqbfNjg&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 4 - User Interaction Enabled and Event Queue (iOS, Xcode 8).url
+https://youtu.be/PAiwcYcbb9w&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 5 - Multiple Touch (iOS, Xcode 8).url
+https://youtu.be/U1Ev5bJhoCU&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 6 - Alpha (iOS, Xcode 8).url
+https://youtu.be/bZySgOd0mwE&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 7 - Background Color (iOS, Xcode 8).url
+https://youtu.be/0iuI8eDEMN0&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 8 - Tint Color (iOS, Xcode 8).url
+https://youtu.be/1C1_f_mJOqo&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+
+UIView Properties Part 9 - Opaque (iOS, Xcode 8).url
+https://youtu.be/rdWMpQSmWJI&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
+UIView Properties in Xcode's Interface Builder

@@ -1,0 +1,52 @@
+
+try! Swift India 2017 - Adapting to change design patterns in Swift.url
+https://youtu.be/N0GweXS9Ilw&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - AI & Deep Learning using Core ML and Metal Framework.url
+https://youtu.be/mlfg4y-oTtE&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - All you need is Swift.url
+https://youtu.be/ByBKWVx95sU&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Architecture where Science and Art break even.url
+https://youtu.be/LRMLjIkjhJc&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Building with SwiftPM.url
+https://youtu.be/8m8hJPWNlrU&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Closing Remarks.url
+https://youtu.be/s0_l44cHpjM&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Core ML and your App.url
+https://youtu.be/ybgyyAbvu3s&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Declarative Programming in Swift.url
+https://youtu.be/SB4slUIQPpw&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - How Flipkart scrolls at 60fps.url
+https://youtu.be/Lu1EI-oCTsc&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - May the ‘open’ source be with you..url
+https://youtu.be/hijStPBO0Qc&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Opening Remarks.url
+https://youtu.be/PM0NCE6iR5I&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Pair programming with the computer.url
+https://youtu.be/5HJ11WuX4Fs&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Refactoring your app in Rx.url
+https://youtu.be/QB1btv-eI3Y&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Running An Effective Mobile Engineering Team.url
+https://youtu.be/GA6x94vtxDk&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Swift One Language to Rule Them All.url
+https://youtu.be/c9noAE1mOto&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - Swiftly programming robots.url
+https://youtu.be/LU402N-5xm8&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+
+try! Swift India 2017 - What is `Swifty`.url
+https://youtu.be/DS6HV1oqHls&list=PLCl5NM4qD3u8NDaXbi3E4Wga0ShZqSxK6
+try! Swift India 2017

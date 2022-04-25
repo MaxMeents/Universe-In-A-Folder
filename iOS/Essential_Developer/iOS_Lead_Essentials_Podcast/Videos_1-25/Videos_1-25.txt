@@ -1,0 +1,76 @@
+
+19 “Should I test my iOS apps if…” Questions  iOS Lead Essentials Podcast #001.url
+https://youtu.be/6iOoZGGlkX0&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Average vs High iOS Dev Salaries Breaking free from market caps  iOS Lead Essentials Podcast #006.url
+https://youtu.be/w1HjhCSE7Pk&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Better iOS dev skills, better projects, better career Q&A  iOS Lead Essentials Podcast #021.url
+https://youtu.be/kzlg8_n2G6Y&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Clean iOS Architecture The foundation for sustainable codebases  iOS Lead Essentials Podcast #016.url
+https://youtu.be/CMGsQR7Qw0s&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Composition in iOSSwift A key element of clean app architecture  iOS Lead Essentials Podcast #007.url
+https://youtu.be/CLoEohGXBiE&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Creating content as an iOS dev pt. 2 How and where to start  iOS Lead Essentials Podcast #018.url
+https://youtu.be/BuYbehj4hGI&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Creating content as an iOS dev The path to better opportunities  iOS Lead Essentials Podcast #017.url
+https://youtu.be/TWWXs8ofM_Y&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Design Patterns in iOSSwift Standing on the shoulder of giants  iOS Lead Essentials Podcast #014.url
+https://youtu.be/dyjWREvBBj4&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+How to Crack iOS Interview Code Tests (Q&A)  iOS Lead Essentials Podcast #010.url
+https://youtu.be/reB2MCZIKXM&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+How to never suffer from deadlines, pressure & lack of time again  iOS Lead Essentials Podcast #004.url
+https://youtu.be/R1318Hqk5C8&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+iOS Architecture & Fast Career Growth Find people who care  iOS Lead Essentials Podcast #002.url
+https://youtu.be/rEpYos7kD2o&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+iOS Automated Testing Strategies Q&A (Unit, Integration, UI...)  iOS Lead Essentials Podcast #013.url
+https://youtu.be/f0akKJ_9kIo&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+iOS Composition Root A key concept for achieving loose coupling  iOS Lead Essentials Podcast #015.url
+https://youtu.be/cnHo2-gxqIQ&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+iOS Testing Challenges StoreKit, Firebase, UIKit, UserDefaults  iOS Lead Essentials Podcast #024.url
+https://youtu.be/-2NciMzQ8DM&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+iOS, Swift & DI The antidote to legacy code and stagnant careers  iOS Lead Essentials Podcast #003.url
+https://youtu.be/-ha4qZsjCIk&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Lead iOS Developer Q&A Thriving as a proficient lead developer  iOS Lead Essentials Podcast #011.url
+https://youtu.be/LFfCq-U6300&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+MVC, MVVM, MVP & iOS Common UI Architectural Design Patterns Q&A  iOS Lead Essentials Podcast #012.url
+https://youtu.be/blJlYntpOjE&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Should you quit a new iOS gig because the codebase is too messy  iOS Lead Essentials Podcast #025.url
+https://youtu.be/CBSeB7GJNxc&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+SOLID iOSSwift Apps 5 ways to become a well-paid iOS dev faster  iOS Lead Essentials Podcast #005.url
+https://youtu.be/ltyI-o3DFtQ&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Succeeding in times of crisis iOS Dev Career Q&A  iOS Lead Essentials Podcast #020.url
+https://youtu.be/ud2ThT8X_3k&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+SwiftUI+Combine Q&A Will it change the way you build iOS apps  iOS Lead Essentials Podcast #022.url
+https://youtu.be/Z9rqqIVFBXI&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+TDD Ultimate productivity, high salary, and a remarkable career  iOS Lead Essentials Podcast #009.url
+https://youtu.be/8GPWh774HUM&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Tech Debt Low short-term risk with High long-term rewards  iOS Lead Essentials Podcast #008.url
+https://youtu.be/29pbPv0fLZA&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+Thriving as a remote iOS dev Be productive & work from anywhere  iOS Lead Essentials Podcast #019.url
+https://youtu.be/A6QUctWqEfc&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+
+WWDC 2020 Q&A App Clips, Widgets, SwiftUI 2.0 & platform support  iOS Lead Essentials Podcast #023.url
+https://youtu.be/cpwiKWEBFBY&list=PLyjgjmI1UzlTYpnrYmSxOXsGWHOnyoPf0
+Videos 1-25

@@ -1,0 +1,76 @@
+
+Advanced Animations UIViewPropertyAnimator Blur Effect (Ep 1).url
+https://youtu.be/gnwKWzmVrjY
+
+Advanced Swift Tricks Custom Array Extensions.url
+https://youtu.be/0dGMbMjixOA
+
+Brand New Swift 4.2 Random Number Functions and Shuffle Algorithm Challenge.url
+https://youtu.be/bWr8PATGjD0
+
+Checking In and Let's Play Some Tetris Live!!.url
+https://youtu.be/hbf1ycH7W4w
+
+Coding Live and Taking Requests.url
+https://youtu.be/5GXt3lScktQ
+
+Having the Wrong Attitude about Learning Programming!.url
+https://youtu.be/c0mpKuU8LjI
+
+iOS Roadmap to Professional Developer Skills you MUST have!.url
+https://youtu.be/pbhLZMVBlp0
+
+Kotlin Messenger 06 Send and Listen for Chat Messages.url
+https://youtu.be/eu_6gIpQPg8
+
+Kotlin Messenger 07 Loading User Profile Images in Chat Log.url
+https://youtu.be/SGCeLdG3R04
+
+Kotlin Messenger 08 User to User Messaging.url
+https://youtu.be/DoQu36OXVz0
+
+Kotlin Messenger 09 Latest Messages Listener with HashMap.url
+https://youtu.be/1NG7B857SGA
+
+Kotlin Messenger 10 Load User Info RecyclerView Item Click Listener.url
+https://youtu.be/gaeTFNqKA2M
+
+Loops and Hash Maps Job Preparation Interview Question.url
+https://youtu.be/2QRZqMM7ef0
+
+Real World Interviews Qs How to Implement Linked List.url
+https://youtu.be/oLXRe7JWJ5g
+
+Swift 4.2 Xcode 10 Project Source Code Updates.url
+https://youtu.be/CmZP6FRJGgw
+
+Swift Grouped Messages Changing Bubble Color and Alignment (Ep 2).url
+https://youtu.be/o8jkXc2kOQM
+
+Swift Grouped Messages Easy Auto Sizing Cells (Ep 1).url
+https://youtu.be/B92vSN5K4Rc
+
+Swift Grouped Messages UITableView Section Date Headers (Ep 3).url
+https://youtu.be/P5opi9tIuro
+
+Swift Grouping Messages Based on Date (Ep 5).url
+https://youtu.be/4oXEY44YMLM
+
+Swift How to Use Intrinsic Content Size (Grouped Messages 04).url
+https://youtu.be/WWXImLOSABM
+
+We Made It on riosprogramming! Live coding swiping pages feature.url
+https://youtu.be/NYXCGr_UveU
+
+Weekly Check-in Livestream.url
+https://youtu.be/YzBoIuiPMng
+
+What are you learning on a Sunday.url
+https://youtu.be/TsI4EyMoGqk
+
+Why Big Chinese Company Has No Storyboards and Uses Async Display Kit (Zhilei Zheng).url
+https://youtu.be/HLdSzaZ5kXs
+
+Xcode 10 New Feature Image Literal - Picking Assets in Code.url
+https://youtu.be/AVY1PXGqBN0
+Videos 126-150

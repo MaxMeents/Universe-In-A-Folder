@@ -1,0 +1,31 @@
+
+SwiftUI 2.0 Building Shared Apps For Both iOS And macOS - Mac Catalyst - SwiftUI Tutorials.url
+https://youtu.be/ElexpjhTKzA&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI 2.0 Facebook Desktop App UI - Complex App UI - Mac App Development - SwiftUI Tutorials.url
+https://youtu.be/Knf1PZvcNnY&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI 2.0 Instagram Desktop App UI - Instagram Redesign For macOS - SwiftUI Tutorials.url
+https://youtu.be/ueUQdHTqrtA&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI 2.0 Login Page Integrated With Firebase Email Auth For macOS - Login Page UI - Mac Catalyst.url
+https://youtu.be/gLCF0su8CaM&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI 2.0 macOS Login Page UI - Mac App Development - SwiftUI Tutorials.url
+https://youtu.be/qqN7aAXo7mE&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI 2.0 Pinterest Mac App UI - SwiftUI Mac App Development - SwiftUI Tutorials.url
+https://youtu.be/r0opgla9X-I&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI Cloud App UI - Adaptable For Both iOS & macOS - Complex UI - SwiftUI Tutorials.url
+https://youtu.be/8qZOl-ZrqRI&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI Dashboard App UI For macOS - Mac Catalyst Apps - Custom Side Bar Menu - SwiftUI Tutorials.url
+https://youtu.be/Qu-V2bONgL4&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI Notes App UI - Adaptable For Both iOS & macOS - Complex UI - Xcode 13 - SwiftUI Tutorials.url
+https://youtu.be/z48rVDlbyG8&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+
+SwiftUI Popovers in Menu Bar for macOS - Menu Bar Apps For macOS - SwiftUI Tutorials.url
+https://youtu.be/Fn4YZFFVq2E&list=PLimqJDzPI-H_46mpSKnJgibfx3iUvYOvp
+SwiftUI Mac App Development - Mac Apps
