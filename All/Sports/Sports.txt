@@ -2,9 +2,6 @@
 # Top 10 Sports in The World
 /All/Sports/#_Top_10_Sports_in_The_World/#_Top_10_Sports_in_The_World.txt
 
-All Sports
-/All/Sports/All_Sports/All_Sports.txt
-
 Archery
 /All/Sports/Archery/Archery.txt
 
