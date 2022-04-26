@@ -2,7 +2,7 @@
 Coding
 /All/Coding/Coding.txt
 
-Cookingg
+Cooking
 /All/Cooking/Cooking.txt
 
 Game Development Engines
