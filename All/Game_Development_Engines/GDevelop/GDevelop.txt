@@ -1,4 +1,7 @@
 
+## Top Vids for GDevelop Beginner Tutorial
+/All/Game_Development_Engines/GDevelop/##_Top_Vids_for_GDevelop_Beginner_Tutori/##_Top_Vids_for_GDevelop_Beginner_Tutori.txt
+
 Gdevelop game dev
 /All/Game_Development_Engines/GDevelop/Gdevelop_game_dev/Gdevelop_game_dev.txt
 

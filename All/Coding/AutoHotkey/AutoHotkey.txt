@@ -1,4 +1,7 @@
 
+## Top Vids for AutoHotkey Beginner Tutorial
+/All/Coding/AutoHotkey/##_Top_Vids_for_AutoHotkey_Beginner_Tuto/##_Top_Vids_for_AutoHotkey_Beginner_Tuto.txt
+
 ahkTuts
 /All/Coding/AutoHotkey/ahkTuts/ahkTuts.txt
 

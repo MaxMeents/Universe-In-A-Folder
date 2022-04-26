@@ -1,4 +1,7 @@
 
+## Top Vids for Golang Beginner Tutorial
+/All/Coding/Golang/##_Top_Vids_for_Golang_Beginner_Tutorial/##_Top_Vids_for_Golang_Beginner_Tutorial.txt
+
 AppliedGo
 /All/Coding/Golang/AppliedGo/AppliedGo.txt
 

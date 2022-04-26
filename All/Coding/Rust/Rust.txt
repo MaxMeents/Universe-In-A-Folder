@@ -1,4 +1,7 @@
 
+## Top Vids for Rust Beginner Tutorial
+/All/Coding/Rust/##_Top_Vids_for_Rust_Beginner_Tutorial/##_Top_Vids_for_Rust_Beginner_Tutorial.txt
+
 Let's Get Rusty
 /All/Coding/Rust/Let's_Get_Rusty/Let's_Get_Rusty.txt
 

@@ -1,0 +1,127 @@
+
+#1 Platformer Game - Basic Movement  GDevelop 5
+https://youtu.be/zTFZ8nJNZyo
+
+1. GDEVELOP 5 BEGINNER TUTORIALS HOW TO CREATE BASIC CHARACTER MOVEMENT.
+https://youtu.be/-ZRU0oYkz38
+
+2D Game Development with GDevelop - Crash Course
+https://youtu.be/iHF5fwsqu4I
+
+Basics for beginners  GDevelop 5
+https://youtu.be/aXjDUCpIYzY
+
+Behaviors and Functions (Extensions) - Intro Tutorial - GDevelop
+https://youtu.be/-U8WFcpUmMg
+
+Create Your First Game Using GDevelop 5 Episode 1
+https://youtu.be/YZQ1yWnbB6M
+
+Creating A Game In Under 48 Hours - With Gdevelop
+https://youtu.be/gO_hhgXZ0nc
+
+Event system - Intro Tutorial - GDevelop
+https://youtu.be/rBZ3kuvr9G0
+
+Expression Builder - Intro Tutorial - GDevelop
+https://youtu.be/huKDtb8Ubd4
+
+External Events, External Layouts & Global Objects - Intermediate Tutorial - GDevelop
+https://youtu.be/_VUwAfD_7zQ
+
+GDevelop  Basic Tutorials Part 1 -  Kickstart
+https://youtu.be/8DQnt-jkO3w
+
+Gdevelop - Melee Combat Tutorial
+https://youtu.be/HMruNurEuDM
+
+GDevelop 5 Beginner #6 Simple Enemy AI
+https://youtu.be/DtufHtGa9Is
+
+GDevelop 5 Examples
+https://youtu.be/NkJlEyCj9XM
+
+GDevelop 5 Platformer Tutorial #1  Movement
+https://youtu.be/7KKE5sjUPF8
+
+GDevelop 5 Platformer Tutorial #7  Main menu buttons and Exit game!
+https://youtu.be/M7P8lv0a23Y
+
+GDevelop 5 Platformer Tutorial #8  Checkpoints
+https://youtu.be/CzpBT9YdvpU
+
+GDevelop 5 Starter Tutorial  The basics
+https://youtu.be/PA6JYYl--OA
+
+GDevelop 5 Tutorial 01
+https://youtu.be/Odp8u1LQhQ8
+
+Gdevelop FREE VISUAL Game Engine CONTRA Tutorial #1 - Setting the bases and Movement
+https://youtu.be/SjUTCbRBK4w
+
+General layout - Intro Tutorial - GDevelop
+https://youtu.be/bR2BjT7JG0k
+
+How to Create a 2D Platformer Shooter in GDevelop Free Game Engine
+https://youtu.be/OOw3Sh6rga8
+
+How to Create a Simple Game with Physics and Particles using GDevelop 5 - Free 2D Game Engine
+https://youtu.be/w8B84Dpgkjc
+
+How To Create Advanced Enemy AI in GDevelop Free Game Engine - Tutorial
+https://youtu.be/a4VHwm9T3vo
+
+How to Create an Advanced Melee  Sword Attack in GDevelop ( Free 2D Game Engine ) - Tutorial
+https://youtu.be/3XT40kDRp8g
+
+How to Create Animated Buttons in GDevelop - Tutorial
+https://youtu.be/7_oLY_x4vEk
+
+How To Create Game using GDevelop  Introduction of GDevelop   Beginner Tutorials  #1
+https://youtu.be/hS9uFDbTYoA
+
+How To Make A Game with GDevelop - Basics (E01)
+https://youtu.be/hOB_s24yxKs
+
+How to Make a Physics Engine Platformer Game in GDevelop - Tutorial
+https://youtu.be/96gNCmnQwaE
+
+How to make a Top-Down Shooter Game In Gdevelop  Tutorial
+https://youtu.be/3vkpY9b6hLg
+
+How to Use Gdvelop ( Complete Guide )
+https://youtu.be/XgDdO1TKgGA
+
+Jumpstarting - Intro Tutorial - GDevelop
+https://youtu.be/PYHrh7YxQV0
+
+Level Select Menu - Intermediate Tutorial - GDevelop
+https://youtu.be/tt7ylPTLuVA
+
+Object types - Intro Tutorial - GDevelop
+https://youtu.be/KpLAYMSgoDI
+
+Physics Engine 2.0 - In Depth Tutorial - GDevelop
+https://youtu.be/cPwUh1669Gs
+
+Platform(er) - In Depth Tutorial - GDevelop
+https://youtu.be/V0d93elLHkQ
+
+Platformer basics with GDevelop (tutorial)
+https://youtu.be/S_ic9kaNGZw
+
+Saving & Loading (Storage) - Intermediate Tutorial - GDevelop
+https://youtu.be/AXd1nND7zQ0
+
+Setting Up Enemies in GDevelop-5 (Beginners Tutorial)
+https://youtu.be/wKMg3Qnd3CU
+
+Top Down Behavior - In Depth Tutorial - GDevelop
+https://youtu.be/zUV-lUtXpO4
+
+Touchscreen Controls - Intermediate Tutorial - GDevelop
+https://youtu.be/58AT-cH5gLc
+
+Variables - Intro Tutorial - GDevelop
+https://youtu.be/MFvAd-96LWo
+## Top Vids for GDevelop Beginner Tutorial

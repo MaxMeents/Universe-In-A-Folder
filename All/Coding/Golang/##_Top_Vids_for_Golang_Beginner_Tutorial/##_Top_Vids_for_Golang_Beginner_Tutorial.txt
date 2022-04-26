@@ -1,0 +1,127 @@
+
+A Beginner's Guide to Golang Channels
+https://youtu.be/lqo0Ao_DgFw
+
+Before you start with golang
+https://youtu.be/F3klnY_r8FU
+
+Beginner Golang Tutorials I
+https://youtu.be/XWC6Vf8VAMI
+
+Beginners Guide to gRPC in Go!
+https://youtu.be/BdzYdN_Zd9Q
+
+Create Simple WEB APP using Golang   Golang Beginners
+https://youtu.be/XqPnP3PYbC8
+
+Encoding characters in Golang (Beginner Programmer's Tutorial 88)
+https://youtu.be/lKkDDaFJWSM
+
+GET STARTED IN GO IN 5 MINUTES!!!  Golang Tutorial for Beginners
+https://youtu.be/exidcZI2YhI
+
+Go  Golang Crash Course
+https://youtu.be/SqrbIlUwR0U
+
+Go (Golang) Tutorial #1 - Introduction & Setup
+https://youtu.be/etSN4X_fCnM
+
+Go Beginner Project Tutorial - Learn Golang
+https://youtu.be/LHhsNa_Kgns
+
+Go Programming Language Tutorial  Golang Tutorial For Beginners  Go Language Training  Edureka
+https://youtu.be/Q0sKAMal4WQ
+
+Go RabbitMQ Beginners Tutorial
+https://youtu.be/pAXp6o-zWS4
+
+Go Tutorial Basic  Golang
+https://youtu.be/ty49_v1tV44
+
+Golang Basics Tutorial  Go Programming Language  Golang Tutorial for Beginners  Simplilearn
+https://youtu.be/Cn5vrUDYtyc
+
+GOLANG CLOSURES IN 5 MINUTES!!!!!!! Go Programming Tutorial for Beginners
+https://youtu.be/llcudOX8ZNY
+
+Golang Contexts  Golang Tutorial For Beginners
+https://youtu.be/Yd0mWIJ6GYI
+
+Golang gRPC Basic Service Tutorial
+https://youtu.be/R6wyuq4wJK4
+
+Golang in under an hour (2021)
+https://youtu.be/N0fIANJkwic
+
+Golang maps  Iterating over a Map  Golang Tutorial for Beginners
+https://youtu.be/4gzPg9fGvew
+
+GoLang Packages and Modules  Beginners Go Tutorial
+https://youtu.be/nLaxs5w9bZc
+
+GOLANG RANGES IN 5 MINUTES!!!!! Go Range Tutorial for Beginners
+https://youtu.be/2Y64pbYkfXo
+
+Golang REST API With Mux
+https://youtu.be/SonwZ6MF5BE
+
+Golang SQL Beginner Tutorial + SQLX
+https://youtu.be/vfL2x8XU9Vs
+
+Golang Tutorial #1 - An Introduction to Go Programming
+https://youtu.be/75lJDVT1h0s
+
+Golang Tutorial for Beginners  Full Go Course
+https://youtu.be/yyUHQIec83I
+
+Golang Tutorial For Beginners  Go Programming Language Tutorial  Basic about Go
+https://youtu.be/aFzYLkCbi-s
+
+golang tutorial for beginners  Introduction to Go Programming
+https://youtu.be/vRFMr6syAMI
+
+Golang Tutorial for Beginners  Learn Go Language
+https://youtu.be/1NF2LtWbA1g
+
+Golang tutorial for beginners - Introduction, first app and installation
+https://youtu.be/F-cUGw4GilE
+
+Golang tutorial for beginners - part 2 - basic types
+https://youtu.be/NHJS0_eetcE
+
+GOLANG VARIABLES IN 5 MINUTES!!! Go Tutorial for Beginners
+https://youtu.be/pLMABIiM3_8
+
+Learn Go in 12 Minutes
+https://youtu.be/C8LgvuEBraI
+
+Learn Go Programming - Golang Tutorial for Beginners
+https://youtu.be/_VRwoQ7x-aw
+
+Learn Go Programming by Building 11 Projects – Full Course
+https://youtu.be/jFfo23yIWac
+
+Learn Go Programming Golang Tutorial for Beginners
+https://youtu.be/rFmTePwpQQE
+
+Learn Go. Get Hired.  Go Programming (Golang) The Complete Developer's Guide
+https://youtu.be/HiQCC7uJli4
+
+Learn to Code Go in 17 minutes   Golang Programming Crash Course
+https://youtu.be/Yo2xmii7TbA
+
+Pointers in Golang  Golang pointers explained  Golang tutorial beginners
+https://youtu.be/Oe6BlQJ7_F0
+
+The FASTEST Way To Learn A New Programming Language
+https://youtu.be/PkgYxKs4DZA
+
+Ultimate Guide to Golang Development for Beginners  Huseyin Babal  Conf42 Golang 2021
+https://youtu.be/I2tVnH_JuHI
+
+What Is Golang  Introduction to Golang  Golang Tutorial for Beginners  #Shorts  Simplilearn
+https://youtu.be/H7MsoatDErQ
+
+What Is Golang  Introduction to Golang  Golang Tutorial for Beginners  Golang  Simplilearn
+https://youtu.be/OUxtA681rjw
+## Top Vids for Golang Beginner Tutorial

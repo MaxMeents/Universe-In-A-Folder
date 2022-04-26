@@ -1,0 +1,130 @@
+
+1. PERL Programming Language Introduction Detailed Explanation A Sample PERL ProgramPERL Tutorial
+https://youtu.be/BvOpo9Gx6Sg
+
+Basic Practical Perl Tutorial
+https://youtu.be/Nma5gVDIwtc
+
+Beginner Perl Maven tutorial 1.1 - Welcome and Installation
+https://youtu.be/dskYFZax1Qo
+
+Beginner Perl Maven tutorial 1.2 - Editors and IDEs for Perl development
+https://youtu.be/7mvy8sUcigM
+
+Beginner Perl Maven tutorial 1.7 Documentation
+https://youtu.be/dNvDSO_wKBE
+
+Beginner Perl Maven tutorial 10.16 - Exercise split path - filenamedirname
+https://youtu.be/ooejgCs6VC4
+
+Beginner Perl Maven tutorial 10.3 - multiple lines in regexes
+https://youtu.be/D4A62OTI5TM
+
+Beginner Perl Maven tutorial 11.10 - FileFind
+https://youtu.be/0HE_2pGeR1I
+
+Beginner Perl Maven tutorial 12.5 - What is CPAN
+https://youtu.be/0dxCexTgVQU
+
+Beginner Perl Maven tutorial 2.1 Scalar values and variables
+https://youtu.be/oBh4bfKMK5o
+
+Beginner Perl Maven tutorial 2.5 - String operators
+https://youtu.be/PA7r8ZuT4iI
+
+Beginner Perl Maven tutorial 2.6 - The 'if' statement
+https://youtu.be/p9gWFNRzWvQ
+
+Beginner Perl Maven tutorial 3.2 - open file
+https://youtu.be/UImoG8PaWR4
+
+Beginner Perl Maven tutorial 4.8 - array indexes
+https://youtu.be/HbgBwnPPxPo
+
+Beginner Perl Maven tutorial 5.3 - Context sensitivity
+https://youtu.be/lgisY6IeLmA
+
+Beginner Perl Maven tutorial 7.17 - Exercise Parse variable width fields
+https://youtu.be/6NoHj4sehWc
+
+Beginner Perl Maven tutorial 8.6 - match any character
+https://youtu.be/Hu39frq6WUE
+
+Getting started with Perl on Windows using Strawberry Perl (2020 edition)
+https://youtu.be/tN9J-EExjKE
+
+How to create a Perl script in 5 minutes Beginners tutorial
+https://youtu.be/v4CMiaSfgNI
+
+How to create a Perl Script Tutorial for beginners
+https://youtu.be/qnz0dTkQMII
+
+How to PURL STITCH for Total Beginners
+https://youtu.be/7ePhLqw6HDM
+
+Introduction to Perl - Perl Script Basics Tutorial - Part 1
+https://youtu.be/GHuUxCiGRwI
+
+Introduction to Perl - Perl Tutorial for Beginners
+https://youtu.be/wGZETyRX62M
+
+Perl - Basic Syntax
+https://youtu.be/f8xYf9Ay-_U
+
+Perl 6 Tutorial
+https://youtu.be/l0zPwhgWTgM
+
+PERL Basics  PERL Tutorial for Beginners  PERL Scripting with examples
+https://youtu.be/eXBCcHHTWew
+
+Perl Basics Tutorial - Week 1
+https://youtu.be/b-bwo_JlkOo
+
+Perl Beginner Tutorial #Arrays #Add Remove Elements -  Part 5
+https://youtu.be/u1vcG8IMjoo
+
+Perl Programming for Beginners Tutorial Install on Windows 10
+https://youtu.be/H3QMTLaAbW8
+
+Perl Programming for Beginners
+https://youtu.be/CgkUq0gWzF8
+
+Perl Script Tutorial for Beginners -  1 Introduction to Perl Programming
+https://youtu.be/VgWhcNTIlko
+
+Perl Scripting for Beginners  Perl Script Tutorials  IQ Online Training
+https://youtu.be/5f6V7fm9k44
+
+PERL Tutorial - 1  PERL Tutorial for Beginners - 1  Perl Scripting Language Tutorial  Edureka
+https://youtu.be/IoLVCEr207w
+
+Perl Tutorial - 1 Introduction, Installation, First Script!
+https://youtu.be/OVP-CqefrZY
+
+PERL Tutorial - 2  PERL Tutorial for Beginners - 2  Learn PERL  Mastering Perl Scripting
+https://youtu.be/4pquBj6PRrA
+
+Perl Tutorial 24 - Regular Expressions Basics
+https://youtu.be/e8TOPX4Hvdk
+
+Perl Tutorial 25 - Subroutines Basics
+https://youtu.be/BGB65GR-GOU
+
+Perl tutorial Basics (Lesson 1)
+https://youtu.be/cTV7JQ9cg9c
+
+Perl Tutorial
+https://youtu.be/WEghIXs8F6c
+
+Should you learn Perl in 2020
+https://youtu.be/E88T44vl1TU
+
+Understanding Different Kinds of Loops in PERL  Introduction to Loops  PERL Tutorial For Beginners
+https://youtu.be/HHMhu_r3tTE
+
+What Is Perl  Introduction to Perl  Perl Tutorial for Beginners  The Perl Programming Language
+https://youtu.be/taFhOHr9en0
+
+[Vidéo GL1]Perl beginner tutorial
+https://youtu.be/8R2KwBAoGXU
+## Top Vids for Perl Beginner Tutorial

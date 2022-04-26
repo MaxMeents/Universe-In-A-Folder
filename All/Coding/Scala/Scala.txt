@@ -1,4 +1,7 @@
 
+## Top Vids for Scala Beginner Tutorial
+/All/Coding/Scala/##_Top_Vids_for_Scala_Beginner_Tutorial/##_Top_Vids_for_Scala_Beginner_Tutorial.txt
+
 BeeScala
 /All/Coding/Scala/BeeScala/BeeScala.txt
 
