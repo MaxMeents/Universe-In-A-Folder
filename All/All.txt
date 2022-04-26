@@ -16,4 +16,25 @@ Sports
 
 Stand-Up
 /All/Stand-Up/Stand-Up.txt
+
+Channelling
+/All/Channelling/Channelling.txt
+
+Guided Meditation
+/All/Guided_Meditation/Guided_Meditation.txt
+
+Money Making Channels
+/All/Money_Making_Channels/Money_Making_Channels.txt
+
+Photography
+/All/Photography/Photography.txt
+
+Spiritual Growth
+/All/Spiritual_Growth/Spiritual_Growth.txt
+
+Ted Talks
+/All/Ted_Talks/Ted_Talks.txt
+
+Time Lapse Drawings
+/All/Time_Lapse_Drawings/Time_Lapse_Drawings.txt
 All
