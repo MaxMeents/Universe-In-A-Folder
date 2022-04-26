@@ -13,4 +13,7 @@ Operating Systems
 
 Sports
 /All/Sports/Sports.txt
+
+Stand-Up
+/All/Stand-Up/Stand-Up.txt
 All
