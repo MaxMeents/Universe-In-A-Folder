@@ -22,7 +22,4 @@ Sports
 
 Stand-Up
 /All/Stand-Up/Stand-Up.txt
-
-Temporary For Mom
-/All/Temporary_For_Mom/Temporary_For_Mom.txt
 All
