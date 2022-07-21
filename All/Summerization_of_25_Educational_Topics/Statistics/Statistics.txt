@@ -1,0 +1,151 @@
+
+!!001!!Descriptive Statistics vs Inferential Statistics
+https://youtu.be/VHYOuWu9jQI
+
+!!002!!StatTools - Summary Statistics
+https://youtu.be/N8V4Vc7brhw
+
+!!003!!What is a 5 Number Summary
+https://youtu.be/1IXJZl_JP1o
+
+!!004!!Match summary statistics with histogram
+https://youtu.be/VLnsaH79_b4
+
+!!005!!Summary statistics Mean, Median, Mode - what they are and which one to use
+https://youtu.be/rAN6DBctgJ0
+
+!!006!!Summary Statistics
+https://youtu.be/XHYHx72PBw8
+
+!!007!!Summary statistics  step-by-step examples
+https://youtu.be/GeMb6qpRMn0
+
+!!008!!Excel 2016 Fast and Simple Summary Statistics Table
+https://youtu.be/6D-yOWny6qo
+
+!!009!!Statistics made easy ! ! !   Learn about the t-test, the chi square test, the p value and more
+https://youtu.be/I10q6fjPxJ0
+
+!!010!!Summary Statistics and Quantiles in JMP - One Minute Tutorials
+https://youtu.be/yNSsuo9cMws
+
+!!011!!Introductory Stata 3 Summary Statistics using describe, summarize, and codebook
+https://youtu.be/JtCclA8Lej0
+
+!!012!!MATH1710 – 1.3 Summary statistics and boxplots
+https://youtu.be/_OaCRCFZXoY
+
+!!013!!Summary statistics using Tabulate menu - JMP
+https://youtu.be/aiNb04mtgwQ
+
+!!014!!When to use mean, median and mode - Summary Statistics
+https://youtu.be/dwYEK49TDfI
+
+!!015!!Codecademy Live Stats #1 Summary Statistics and Visualizations Part I
+https://youtu.be/YwadRm2sfpQ
+
+!!016!!How remerging summary statistics in PROC SQL work
+https://youtu.be/CDztT4SNKjg
+
+!!017!!1. Introduction to Statistics
+https://youtu.be/VPZD_aij8H0
+
+!!018!!Statistics 5-number summary (Spanish)
+https://youtu.be/zCiRLaX89wI
+
+!!019!!Vaex Get Summary Statistics of a Vaex Dataframe
+https://youtu.be/RsKEiPNj80I
+
+!!020!!(Stata13)Export Summary Statistics Output to Excel, Word#exportoutput #tables #statatoexcel #regre
+https://youtu.be/bPElfhicMNM
+
+!!021!!2020 Census Redistricting Data (Public Law 94-171) Summary File News Conference
+https://youtu.be/us6Qzzps5l4
+
+!!022!!Desmos Activity Matching Box Plots, Histograms, and Summary Statistics
+https://youtu.be/FdnHo_LKKSQ
+
+!!023!!StatCrunch Conducting Hypothesis Tests for a Proportion with Summary Data
+https://youtu.be/MOSegBxEA8I
+
+!!024!!StatCrunch Calculate test statistic from summary data
+https://youtu.be/nyTBOIu5oFI
+
+!!025!!Summary Statistics  Introduction to Data Mining part 21
+https://youtu.be/dn6lHbg5Vs0
+
+!!026!!Statistics - Calculating a five number summary using the Casio fx-115es Plus
+https://youtu.be/qqauo8wXp8g
+
+!!027!!Using StatCrunch to find Summary Statistics
+https://youtu.be/oJ39k23Lsqw
+
+!!028!!Summary Statistics Using Data Analysis Toolpak in MS Excel
+https://youtu.be/TipDS_P3G3U
+
+!!029!!OLS Statsmodels Summary Table Explanation in details  Linear Regression Machine LearningData Scien
+https://youtu.be/1mWFhwgVvjk
+
+!!030!!What is Statistics  Types of Statistics  Descriptive & Inferential Statistics  Acadgild
+https://youtu.be/IngKIlvpg3s
+
+!!031!!Stata Summary Statistics
+https://youtu.be/2cK_65NoOho
+
+!!032!!Stata #2  Summary Statistics
+https://youtu.be/ezjr4V2LcJU
+
+!!033!!How To Find The Interquartile Range & any Outliers - Descriptive Statistics
+https://youtu.be/STSP8gTSdT8
+
+!!034!!#10 How to Generate Pandas DataFrame Summary Statistic for Summarizing data in python
+https://youtu.be/Cyk0AJUYsr4
+
+!!035!!Entering Data into SPSS
+https://youtu.be/b163iBByycw
+
+!!036!![3.1.29] Finding the mean of a frequency distribution
+https://youtu.be/V_GF06i7KCg
+
+!!037!!How to build a simple summary table
+https://youtu.be/qCAX-0nCiJc
+
+!!038!!Use and Abuse of Summary Statistics Mean, Median, Standard Deviation and the Rest
+https://youtu.be/KD4mCggUCLg
+
+!!039!!Lecture 01 The General Linear Model
+https://youtu.be/7cSArk7tU4w
+
+!!040!!Statistics lesson 2 How to find the 5 number summary
+https://youtu.be/7naygdVACDo
+
+!!041!!Null Hypothesis Significance Testing
+https://youtu.be/IXYDMMBisr8
+
+!!042!!Lecture 02. Importing Data, Summary Statistics, Installing Packages
+https://youtu.be/-C2kp_J3MiI
+
+!!043!!Summary Statistics
+https://youtu.be/rygzTPDXXa0
+
+!!044!!StatCrunch basics Graphing and Summary statistics
+https://youtu.be/DwmHsW0eU3Y
+
+!!045!!ArcGIS summary statistics default
+https://youtu.be/3FLdco7lEzg
+
+!!046!!Statistics - Calculating a five number summary using the Casio fx-9750gii
+https://youtu.be/AD0ASbdZEq8
+
+!!047!!Introductory Stata 4 Summary Statistics using tabulate and tabstat
+https://youtu.be/7f2C6unxqmA
+
+!!048!!summary Function in R (3 Examples)  Descriptive Statistics of Vector, Data Frame & Regression Model
+https://youtu.be/fcILpZAI49A
+
+!!049!!RStudio Summary stats, barchart, box-plot, qqplot (normality)
+https://youtu.be/ici85wlyeuU
+
+!!050!!Introducing Univariate Statistics  Summary Statistics Analysis in Excel - Cheat Sheets
+https://youtu.be/ETQXxiWZtdo
+Statistics

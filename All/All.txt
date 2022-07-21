@@ -11,11 +11,38 @@ Cooking
 Countries
 /All/Countries/Countries.txt
 
+Different Movie Moments
+/All/Different_Movie_Moments/Different_Movie_Moments.txt
+
 Game Development Engines
 /All/Game_Development_Engines/Game_Development_Engines.txt
 
+How To Make 95 Of The Best Dishes In the World
+/All/How_To_Make_95_Of_The_Best_Dishes_In_the/How_To_Make_95_Of_The_Best_Dishes_In_the.txt
+
+Learn to make these Digital Art Forms
+/All/Learn_to_make_these_Digital_Art_Forms/Learn_to_make_these_Digital_Art_Forms.txt
+
+Make Money Online
+/All/Make_Money_Online/Make_Money_Online.txt
+
+Math Concepts And Topics
+/All/Math_Concepts_And_Topics/Math_Concepts_And_Topics.txt
+
 Operating Systems
 /All/Operating_Systems/Operating_Systems.txt
+
+Programming Concepts
+/All/Programming_Concepts/Programming_Concepts.txt
+
+Rap About Anime Series - Choose Series - May not have Good Results
+/All/Rap_About_Anime_Series_-_Choose_Series_-/Rap_About_Anime_Series_-_Choose_Series_-.txt
+
+Rap About These Educational Topics - Most Will Be Failed Results
+/All/Rap_About_These_Educational_Topics_-_Mos/Rap_About_These_Educational_Topics_-_Mos.txt
+
+Religion in Relation to these 15 Main Concepts
+/All/Religion_in_Relation_to_these_15_Main_Co/Religion_in_Relation_to_these_15_Main_Co.txt
 
 Sports
 /All/Sports/Sports.txt
@@ -23,6 +50,18 @@ Sports
 Stand-Up
 /All/Stand-Up/Stand-Up.txt
 
-Temporary For Mom
-/All/Temporary_For_Mom/Temporary_For_Mom.txt
+Summerization of 25 Educational Topics
+/All/Summerization_of_25_Educational_Topics/Summerization_of_25_Educational_Topics.txt
+
+Summerized Anime
+/All/Summerized_Anime/Summerized_Anime.txt
+
+TV Scenes with Most Beloved Characters of Last 10 Years
+/All/TV_Scenes_with_Most_Beloved_Characters_o/TV_Scenes_with_Most_Beloved_Characters_o.txt
+
+Video Games
+/All/Video_Games/Video_Games.txt
+
+Vitamins
+/All/Vitamins/Vitamins.txt
 All

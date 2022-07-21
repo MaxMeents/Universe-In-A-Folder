@@ -1,0 +1,139 @@
+
+!!001!!Programming Concepts Generics
+https://youtu.be/UVx10UQyTiM
+
+!!002!!Generics In Java - Full Simple Tutorial
+https://youtu.be/K1iu1kXkVoA
+
+!!003!!Java Generics Tutorial
+https://youtu.be/h7piyWnQbZA
+
+!!004!!What are Generics (C# Basics)
+https://youtu.be/7VlykMssZzk
+
+!!005!!C# Generics Tutorial Whats and Whys  Mosh
+https://youtu.be/gyal6TbgmSU
+
+!!006!!Java 3 Introduction to Generic Programming
+https://youtu.be/_dy9JnEXekU
+
+!!007!!Java Generics Tutorial
+https://youtu.be/7i3Rliqzquw
+
+!!008!!Generics C
+https://youtu.be/EClw5mlSV3k
+
+!!009!!Typescript Generics Tutorial
+https://youtu.be/nViEqpgwxHE
+
+!!010!!Generic programming  Week 13  MIT 18.S191 Fall 2020  David P. Sanders
+https://youtu.be/_LyXN5rAhZ8
+
+!!011!!C# Generics - What they are, why they are useful, and how to create them
+https://youtu.be/l6s7AvZx5j8
+
+!!012!!Generics in PHP #1 The basics
+https://youtu.be/c8hQ1fWU_mQ
+
+!!013!!Part 56   C# Tutorial   Generics in C#
+https://youtu.be/-zHRmXkJ5Bw
+
+!!014!!Generics in Java
+https://youtu.be/XMvznsY02Mk
+
+!!015!!TypeScript Tutorial #18 - Generics
+https://youtu.be/IOzkOXSz9gE
+
+!!016!!Generics
+https://youtu.be/yhRPpwD5LVc
+
+!!017!!Swift for Beginners Generics - 2020 (Xcode 11, iOS)
+https://youtu.be/-9H_ZjBBeLo
+
+!!018!!Generic Programming in C++ and Templates  CPP  Video Tutorial
+https://youtu.be/zagx5hdXBLw
+
+!!019!!C# generics ⁉️
+https://youtu.be/aNTDJ9bnRU4
+
+!!020!!Getting Started with Generics in Go
+https://youtu.be/kKu9HuOvaUY
+
+!!021!!What is GENERIC PROGRAMMING What does GENERIC PROGRAMMING mean GENERIC PROGRAMMING meaning
+https://youtu.be/ofJhk9qFS7I
+
+!!022!!Rust Generics
+https://youtu.be/nvur2Ast8hE
+
+!!023!!Java generics ❓
+https://youtu.be/jUcAyZ5OUm0
+
+!!024!!Programming principles #6 - Generics
+https://youtu.be/F8gcnK6aP4w
+
+!!025!!The one problem only GENERICS can solve
+https://youtu.be/IvDS2DZbWW0
+
+!!026!!Java - Generic Method & Class
+https://youtu.be/22AUtQnTZkY
+
+!!027!!Java Generics Explained
+https://youtu.be/CN27X68YO4I
+
+!!028!!#11.6 Collection and Generics  Comparable Interface
+https://youtu.be/PHmeJoxY_pg
+
+!!029!!SOEN6441 - Advanced Programming Practices - week 12 - Java Generics
+https://youtu.be/iz3sh7mv6nw
+
+!!030!!What are Generics in C# - Learn in Hindi
+https://youtu.be/1nA8kGdOzEo
+
+!!031!!20160927 1140 C++ generic programming Bianco
+https://youtu.be/oehsWZqE7lc
+
+!!032!!Java Programming - Generics - Generic Method Example 2
+https://youtu.be/QKvSEzmsdjQ
+
+!!033!!Generics #9.3 Scala functioning and programming for beginners
+https://youtu.be/Os1EgsAjJmo
+
+!!034!!Generic Interface in Java  Rules To Follow While Implementing Generic Interface
+https://youtu.be/CoMr1B3hAMU
+
+!!035!!14.2 Collection and Generics in Java   Practical
+https://youtu.be/HhrQqmp3hXI
+
+!!036!!Quick Generics Java Programming
+https://youtu.be/AdIYzcme_64
+
+!!037!!GopherCon 2021 Robert Griesemer & Ian Lance Taylor - Generics!
+https://youtu.be/Pa_e9EeCdy8
+
+!!038!!Generics in C# - An Introduction  DotNet Tamizha   Tamil
+https://youtu.be/AAK-P1YDUvs
+
+!!039!!Why polymorphism does not help and we need Generics - Explained
+https://youtu.be/6lGeCEwGnpo
+
+!!040!!Swift Generics in Tamil  Learn Swift programming language  Learn iOS app development in Tamil
+https://youtu.be/HTFhccNzJOw
+
+!!041!!Generics in java # 1 - Introduction to Generics in java  Java tutorials by Java9s.com
+https://youtu.be/D5HEshszlPE
+
+!!042!!Java generics intro
+https://youtu.be/8ui3AW0PqE0
+
+!!043!!Java Programming Generics Method
+https://youtu.be/xmjzgIttVks
+
+!!044!!Java Generics with Multiple Types
+https://youtu.be/0lgDfEsO4tY
+
+!!045!!Wildcards in Java Generics  why to use upper bounded,Lower bounded and Unbounded Wildcards
+https://youtu.be/DRJHfB0B2Q4
+
+!!046!!Generic Programming - Sean Parent - codedive 2018
+https://youtu.be/FtZEU9zv9eM
+Programming Generics

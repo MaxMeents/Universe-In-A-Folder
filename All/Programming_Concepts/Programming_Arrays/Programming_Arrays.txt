@@ -1,0 +1,148 @@
+
+!!001!!9.1 What is an Array - Processing Tutorial
+https://youtu.be/NptnmWvkbTw
+
+!!002!!Arrays in programming - fundamentals
+https://youtu.be/5tPLyHCZdU0
+
+!!003!!C Programming Tutorial 81 - Intro to Arrays
+https://youtu.be/u8I31l8Pwc4
+
+!!004!!DATA STRUCTURES - How to work with arrays (for beginners) - Arrays explained in 30 minutes!
+https://youtu.be/T76E09hnEuo
+
+!!005!!How to Program in C# - Arrays (E05)
+https://youtu.be/YiE0oetGMAg
+
+!!006!!Java Arrays Tutorial
+https://youtu.be/xzjZy-dHHLw
+
+!!007!!Arrays
+https://youtu.be/OnPP5xDmFv0
+
+!!008!!Definition of Array
+https://youtu.be/55l-aZ7_F24
+
+!!009!!Arrays in C (Solved Problem 1)
+https://youtu.be/hsmSDBBsifo
+
+!!010!!What are Arrays Coding for kids  Kodable
+https://youtu.be/Ri9ljAqm-is
+
+!!011!!C_46 Arrays in C - part 1  Introduction to Arrays
+https://youtu.be/08LWytp6PNI
+
+!!012!!C Programming Tutorial - 14 - Intro to Arrays
+https://youtu.be/BjVeWRNiddE
+
+!!013!!JavaScript Arrays
+https://youtu.be/oigfaZ5ApsM
+
+!!014!!Arduino Workshop - Chapter 4 - Using Arrays
+https://youtu.be/zcUj1Xqemlw
+
+!!015!!ProgrammingScripting Concepts Explained (Variables, Arrays, Strings, & Length)
+https://youtu.be/aeoGGabJhAQ
+
+!!016!!9. How to program in C# - ARRAYS - Beginner Tutorial
+https://youtu.be/RQ0JHMGiobo
+
+!!017!!You Can Learn How to Use Arrays in C in 10 Minutes
+https://youtu.be/wbSj-Hq_b9s
+
+!!018!!Me Solving Top Coding Interview Questions - Arrays (10 Solved in 45 minutes!)
+https://youtu.be/cWUmrgMw220
+
+!!019!!Introduction to Two-Dimensional (2D) Arrays
+https://youtu.be/J1aQ9JN4vZY
+
+!!020!!C++ Programming Tutorial 46 - Working with Arrays
+https://youtu.be/HpBel7_2k0k
+
+!!021!!Understanding Arrays in C Programming  Edureka
+https://youtu.be/0EgpeYB115s
+
+!!022!!Arrays, Structures and User Defined Types! How and Why
+https://youtu.be/1XHJS5CHOV4
+
+!!023!!#19 C Arrays  C Programming For Beginners
+https://youtu.be/MOeGnamlUP4
+
+!!024!!Java Programming Tutorial - 27 - Introduction to Arrays
+https://youtu.be/L06uGnF4IpY
+
+!!025!!C++ Programming Intro to Arrays Part I
+https://youtu.be/ZLk7qV9wEDw
+
+!!026!!33 - ONE DIMENSIONAL ARRAYS DECLARATION, INITIALIZATION AND ACCESSING - C PROGRAMMING
+https://youtu.be/HyDE7T6YPsU
+
+!!027!!C Programming Tutorial 16, Arrays pt.1
+https://youtu.be/iwkxdRseDBA
+
+!!028!!C-50 Arrays in C - Part 5  Array Program 2  C Programming
+https://youtu.be/Q8XOkEqXYks
+
+!!029!!C_47 Arrays in C - Part 2  Initialization of arrays in C programming
+https://youtu.be/kMwYD03kVk0
+
+!!030!!Buckys C++ Programming Tutorials - 37 - How to Print Out Multidimensional Arrays
+https://youtu.be/pAKZp_EucVg
+
+!!031!!Intro to Arrays  Computer Programming  Khan Academy
+https://youtu.be/gUOwZkL09BE
+
+!!032!!C Programming Tutorial 99 - Printing Structs, Struct Arrays and Pointers
+https://youtu.be/-Vy4qrl675E
+
+!!033!!How to Program Arrays for a WRO Robot (EV3-G)
+https://youtu.be/9sE97-y-ZMo
+
+!!034!!8.5 Arrays - Q's asked by Top MNC's  C++ Placement Course
+https://youtu.be/kJW_iXrwePE
+
+!!035!!Arrays  34 c programming in telugu
+https://youtu.be/RElJS8VnwjQ
+
+!!036!!C# Programming Tutorial 41 - Creating 2D Arrays and Jagged Arrays
+https://youtu.be/WjAfLNZAlAY
+
+!!037!!KTU S2  Video 29 Introduction to Arrays in C programming
+https://youtu.be/NdLWdI8-siI
+
+!!038!!Learn Programming in Java - Lesson 12  Arrays
+https://youtu.be/OT9SMMuWtg8
+
+!!039!!arrays in c programming  introduction 
+https://youtu.be/S93_VErFZD0
+
+!!040!!C-LanguageArrays in CPart-1 Introduction Both In Telugu And EnglishTelugu ScitTutorials
+https://youtu.be/B_UJPbRDMxo
+
+!!041!![ 2D Arrays in C ] - Learn How Two Dimensional Array in C Programming Works
+https://youtu.be/8G1oJZdToT8
+
+!!042!!C Programming Arrays, addresses and pointers
+https://youtu.be/D1J7PoQJx4k
+
+!!043!!Merge Two Sorted Arrays  C Programming Example
+https://youtu.be/n1jgmsbCA6s
+
+!!044!!Array of Pointers in C Language  Arrays and Pointers in C Programming  C Tutorial
+https://youtu.be/kAsXbacerAU
+
+!!045!!Arrays in C (Solved Problem 2)
+https://youtu.be/C57wwOOF6ys
+
+!!046!!arrays in c programming  one dimensional 
+https://youtu.be/7CPgjj3mKU4
+
+!!047!!JavaScript Arrays - Programming Like a Grown Up - Google Sheets Apps Scripts - Array Methods Part 5
+https://youtu.be/985XJOeigpA
+
+!!048!!Arrays in Python Programming  Largest Element in an Array  #16 ABC Python Tutorial for Beginners
+https://youtu.be/G1FTcXmc1hE
+
+!!049!!C Program To Concatenate Two Arrays
+https://youtu.be/xrqzVAnvCIY
+Programming Arrays

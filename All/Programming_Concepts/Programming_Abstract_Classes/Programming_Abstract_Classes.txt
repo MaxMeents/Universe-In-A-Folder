@@ -1,0 +1,151 @@
+
+!!001!!Abstract Classes and Methods - Learn Abstraction in Java
+https://youtu.be/52frlN8webg
+
+!!002!!Abstract Classes and Methods in Java Explained in 7 Minutes
+https://youtu.be/HvPlEJ3LHgE
+
+!!003!!C# abstract classes 👻
+https://youtu.be/06BrbJm7Sho
+
+!!004!!Abstract Class and Abstract Method in Python
+https://youtu.be/UDmJGvM-OUw
+
+!!005!!C# Abstract Classes - What They Are, How to Use Them, and Best Practices
+https://youtu.be/jRkmPRk5j2E
+
+!!006!!Buckys C++ Programming Tutorials - 57 - Abstract Classes and Pure virtual Functions
+https://youtu.be/ndz3EHpFEZc
+
+!!007!!Learn How to Use Abstract Classes
+https://youtu.be/5qP-lcg53H0
+
+!!008!!Java Programming Tutorial - 31 - Inheritance, Abstract Classes and Abstract Methods
+https://youtu.be/pQKg5SuGdPg
+
+!!009!!Python abstract classes 👻
+https://youtu.be/TeDlx2Klij0
+
+!!010!!Abstract Classes in Java  Java Abstract Class and Abstract Method  Java Tutorial  Edureka
+https://youtu.be/5X0Y--92pMI
+
+!!011!!Abstract Classes vs Interfaces (Java)
+https://youtu.be/2aQ9Y7bumts
+
+!!012!!Part 32 - C# Tutorial - Abstract classes in c#.avi
+https://youtu.be/7amjs2y_dgo
+
+!!013!!C# Programming Tutorial 90 - Abstract Classes
+https://youtu.be/aULYXKkr9G4
+
+!!014!!Relationship between Virtual Functions, Pure Virtual Functions and Abstract Classes in OOP explained
+https://youtu.be/T8f4ajtFU9g
+
+!!015!!8.17 Abstract Class in Java Tutorial Theory
+https://youtu.be/TIPnQe2-iPE
+
+!!016!!Java Abstract Classes & Abstract Methods Explained with Program Example
+https://youtu.be/SEeh4nTRRlw
+
+!!017!!Abstract classes in JavaScript
+https://youtu.be/CdFI56hK1xk
+
+!!018!!Java Programming Tutorial 85 - abstract Class
+https://youtu.be/o_UQ5C1v5MI
+
+!!019!!Interface vs abstract class in Java C#
+https://youtu.be/uA_6W4aWRFg
+
+!!020!!C# - Abstract Class
+https://youtu.be/J_5Mn1SLgMc
+
+!!021!!C++ Programming Abstract and Interface Classes
+https://youtu.be/GumbgtSUMMo
+
+!!022!!ABSTRACT METHODS AND ABSTRACT CLASS - JAVA PROGRAMMING
+https://youtu.be/p_4Dyfplqkw
+
+!!023!!Interfaces in C++ (Pure Virtual Functions)
+https://youtu.be/UWAdd13EfM8
+
+!!024!!Python Tutorial for Beginners 35 - Python Abstract Classes
+https://youtu.be/PDMe3wgAsWg
+
+!!025!!Abstract Classes and Interfaces
+https://youtu.be/AU07jJc_qMQ
+
+!!026!!Part 3   Why and when should we use an abstract class
+https://youtu.be/yyU3bXyc_oU
+
+!!027!!C# Programming Tutorials Beginners 13 Abstract Classes
+https://youtu.be/mq7Jul_HrZM
+
+!!028!!Learn Java Tutorial for Beginners, Part 38 Abstract Classes
+https://youtu.be/CUC522qMGe8
+
+!!029!!Abstract Classes and Interfaces explained with real world examples.
+https://youtu.be/RRcIf6dUTM0
+
+!!030!!Abstract class and abstract methods--python programming
+https://youtu.be/TDcXua13XTk
+
+!!031!!Python Programming - Abstract Class and Abstract Method
+https://youtu.be/6Fs2MIf61oQ
+
+!!032!!Programming When EXACTLY to use an Abstract Class Java & Kotlin Interfaces vs Abstract Classes
+https://youtu.be/AkzjZc4JOM4
+
+!!033!!Abstract class in Java in Hindi
+https://youtu.be/SWkts1XtNLM
+
+!!034!!Java Abstract Class VS. Interface - Example Using Both and an Explanation - APPFICIAL
+https://youtu.be/YfeEFovG3G4
+
+!!035!!Abstract Classes in C#.NET  C#.NET Tutorial  Mr. Bangar Raju
+https://youtu.be/7SksH2hewzU
+
+!!036!!Abstract Base Class & Pure Virtual Functions in C++  C++ Tutorials for Beginners #58
+https://youtu.be/RBAWWutf0fY
+
+!!037!!Abstract classes, abstraction in PHP - OOP in PHP  Part 7
+https://youtu.be/EyY3BVPJXtI
+
+!!038!!C# Tutorial 17 - Abstract Keyword - Abstract Class, Method in C Sharp - Hindi tutorials
+https://youtu.be/zHPydJ0QrBo
+
+!!039!!Abstract Class In Java  Java Abstract Class Tutorial  Java Tutorial For Beginners  Simplilearn
+https://youtu.be/RAyPiryc8e0
+
+!!040!!C# Tutorial 9 Abstract Class Polymorphism
+https://youtu.be/RaHm_pSxqLY
+
+!!041!!Abstract Classes (Java Programming Language)  GeeksforGeeks
+https://youtu.be/DWmpxZ59JW0
+
+!!042!!Abstract Class Abstract Method and Concrete Method in Python (Hindi)
+https://youtu.be/yPzCYDy7yCo
+
+!!043!!Intro to Kotlin (Abstract Classes, Interfaces, Type Aliases, Inheritance)
+https://youtu.be/IrPXmn2jMLc
+
+!!044!!IntelliJ IDEA Tips & Tricks #51 Automatically Implement Abstract Classes
+https://youtu.be/vCXbkHYM_rU
+
+!!045!!Kotlin Abstract class, Method and Abstract Properties. Kotlin Tutorial for Android #8.8
+https://youtu.be/nN5KhABIbHQ
+
+!!046!!DIFFERENCE BETWEEN ABSTRACT CLASS AND INTERFACE IN C# (URDU  HINDI)
+https://youtu.be/SIotbegikws
+
+!!047!!Program to create abstract class#java #coding #programming #abstractclass
+https://youtu.be/vCXgxVwEihQ
+
+!!048!!Abstract Class In Java Programming Example Tutorial Code in Eclipse
+https://youtu.be/6xwBbOf3yv0
+
+!!049!!Java abstraction 👻
+https://youtu.be/Lvnb83qt57g
+
+!!050!!Abstract Class in Java and Usage in Selenium
+https://youtu.be/GYllkxPwmz8
+Programming Abstract Classes

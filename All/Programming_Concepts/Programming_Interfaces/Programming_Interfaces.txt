@@ -1,0 +1,151 @@
+
+!!001!!Programming to an Interface
+https://youtu.be/h8pm8MMNmho
+
+!!002!!Fundamental concepts What's an Interface
+https://youtu.be/o1jBgdhQsGo
+
+!!003!!C# Interfaces Explained in Simple Terms  Mosh
+https://youtu.be/aQ8YkJrAbzE
+
+!!004!!Java Interface Tutorial - Learn Interfaces in Java
+https://youtu.be/kTpp5n_CppQ
+
+!!005!!C# interfaces 🐟
+https://youtu.be/RuhGv81tpoU
+
+!!006!!What is an API
+https://youtu.be/s7wmiS2mSXY
+
+!!007!!Java Interface Tutorial
+https://youtu.be/Yat8l37XGFA
+
+!!008!!Java Interfaces Tutorial
+https://youtu.be/JFuMei9Wwk4
+
+!!009!!What is an API (Application Programming Interface)
+https://youtu.be/6STSHbdXQWI
+
+!!010!!Java Programming Tutorial 94 - Intro to Interfaces
+https://youtu.be/1Kw7iXkv1BU
+
+!!011!!Golang Tutorial #22 - Interfaces
+https://youtu.be/lh_Uv2imp14
+
+!!012!!APIs for Beginners - How to use an API (Full Course  Tutorial)
+https://youtu.be/GZvSYJDk-us
+
+!!013!!C# Programming Tutorial 99 - Create an Interface
+https://youtu.be/V53XD92Ag9s
+
+!!014!!C# 16 - Interface Basics
+https://youtu.be/cjboaM6-PQs
+
+!!015!!How Do You Program To An Interface and Not an Implementation
+https://youtu.be/F2DgzoIcufU
+
+!!016!!👨?💻Interfaces in C# Explained - In-Depth guide on how to use interfaces
+https://youtu.be/VT9ueWBqquU
+
+!!017!!Interface in Java  Learn Coding
+https://youtu.be/kHBji-fom6k
+
+!!018!!What is an API - Application Programming Interface
+https://youtu.be/B9vPoCOP7oY
+
+!!019!!What Are APIs - Simply Explained
+https://youtu.be/OVvTv9Hy91Q
+
+!!020!!Spring Tutorial 17 - Coding To Interfaces
+https://youtu.be/5IDIEMxdkC8
+
+!!021!!What is an API and how does it work (In plain English)
+https://youtu.be/Yzx7ihtCGBs
+
+!!022!!Java Tutorial Introduction to Interfaces
+https://youtu.be/VYhmL038G1I
+
+!!023!!Inheritance vs Interfaces in C# Object Oriented Programming
+https://youtu.be/4sxyDXt1igs
+
+!!024!!4.3  NanoCAD Plus 11 - Application Programming Interfaces
+https://youtu.be/eS9vMvsrnVk
+
+!!025!!2 Application Programming Interfaces
+https://youtu.be/iEcguTBpsTQ
+
+!!026!!Linux System Programming 6 Hours Course
+https://youtu.be/6OSeJFo6GOc
+
+!!027!!Apa itu API (Application Programming Interface)
+https://youtu.be/iXsc2Hdx81A
+
+!!028!!Luis Montes - HTML5 Gaming Application Programming Interfaces - Part 1
+https://youtu.be/LFyouy8UU8A
+
+!!029!!HackerRank Day 19 Interfaces  Python
+https://youtu.be/mwFbfEseYvo
+
+!!030!!Gardenia Project Adding Sensors and Programming Interfaces for Raspberry Pi (i2c, SPI, 1-wire)
+https://youtu.be/6XWtbggepXA
+
+!!031!![Stream] Application Programming Interfaces (Theory, Copyrightability)
+https://youtu.be/6a91sodDb4Y
+
+!!032!!4.23. Object Oriented Programming. Interfaces
+https://youtu.be/SDuxjTnXc10
+
+!!033!!Application Programming Interface (API) in IoT  Internet of Things
+https://youtu.be/pKFaDDQEU-I
+
+!!034!!Use Application Programming Interfaces of Data Repositories to Create Local Data Catalogs
+https://youtu.be/6hyKUKuxW54
+
+!!035!!User Interfaces - Lecture 6 - CS50's Web Programming with Python and JavaScript 2020
+https://youtu.be/jrBhi8wbzPw
+
+!!036!!Programming interfaces in Python & Qt  Part 3 Introduction to the modelview system
+https://youtu.be/DiFHckDBO54
+
+!!037!!Programming interfaces in Python & Qt  Part 1 Widgets and Layouts
+https://youtu.be/KBNVdaY4yow
+
+!!038!!Command line interfaces explained  Introducing CLIs for programming beginners
+https://youtu.be/oBP_umJb_2U
+
+!!039!!1  What are APIs Application Programming Interfaces Demystified
+https://youtu.be/rI0-PWdmE1U
+
+!!040!!Alternative Programming Interfaces for Alternative Programmers
+https://youtu.be/igvhdYKWfks
+
+!!041!!Application Programming Interface (API) - What is an API (Application Programming Interface)
+https://youtu.be/gr79Nh7nVUQ
+
+!!042!!Section13Clima-Application Programming Interfaces (APIs) Explained
+https://youtu.be/Vrr9IDFjbDQ
+
+!!043!!What is INTERFACE-BASED PROGRAMMING What does INTERFACE-BASED PROGRAMMING mean
+https://youtu.be/9HVMVTm4_Yo
+
+!!044!!Application Programming Interfaces (APIs) Explained
+https://youtu.be/hs8IEagnO94
+
+!!045!!What is API - Application Programming Interface - Part-1
+https://youtu.be/LUbBkiIhrE4
+
+!!046!!SICSS 2018 - Application Programming Interfaces (Day 2. June 19, 2018)
+https://youtu.be/9cBy0B5wUxU
+
+!!047!!What is an API Application programming interfaces -Tech Evolution
+https://youtu.be/lXf04VBEaEI
+
+!!048!!What Is An API Application Programming Interfaces Explained
+https://youtu.be/w35OYuf0bgM
+
+!!049!!Luis Montes - HTML5 Gaming Application Programming Interfaces - Part 4
+https://youtu.be/FX_ijnI879s
+
+!!050!!Introduction to APIs in Google  Qwiklabs GSP294  Application Programming Interfaces  Google Cloud
+https://youtu.be/f_Mow1hQTs8
+Programming Interfaces

@@ -1,0 +1,151 @@
+
+!!001!!What is inheritance in programming
+https://youtu.be/ajOYOxCanhE
+
+!!002!!Inheritance in Java Tutorial
+https://youtu.be/zbVAU7lK25Q
+
+!!003!!11. How to program in C# - INHERITANCE - Beginner Tutorial
+https://youtu.be/EiBCF7rYRtI
+
+!!004!!C++ OOP (2020) - What is inheritance in programming
+https://youtu.be/-W-TYjL0aFE
+
+!!005!!Python OOP Tutorial 4 Inheritance - Creating Subclasses
+https://youtu.be/RSl87lqOXDE
+
+!!006!!Inheritance in C++
+https://youtu.be/X8nYM8wdNRE
+
+!!007!!Java inheritance 👪
+https://youtu.be/Zs342ePFvRI
+
+!!008!!Composition over Inheritance
+https://youtu.be/wfMtDGfHWpA
+
+!!009!!Python OOP Tutorial (Object Orientated Programming ) - Inheritance
+https://youtu.be/H2SQrZK2nvM
+
+!!010!!Buckys C++ Programming Tutorials - 52 - Inheritance
+https://youtu.be/gq2Igdc-OSI
+
+!!011!!InheritancePolymorphism in Object Oriented Programming  Python for Beginners  Code with Kylie #10
+https://youtu.be/C2QfkDcQ5MU
+
+!!012!!Introduction to Inheritance in C++ Programming with example  OOPs with C++
+https://youtu.be/rr7HVs4d1Qo
+
+!!013!!Object Oriented Programming 8 – Inheritance
+https://youtu.be/aWIrN50hVTo
+
+!!014!!#30 OOP Part-2 Inheritance in C and C++
+https://youtu.be/oS3a7wn9P_s
+
+!!015!!Object-oriented Programming in 7 minutes  Mosh
+https://youtu.be/pTB0EiLXUC8
+
+!!016!!Inheritance vs Interfaces in C# Object Oriented Programming
+https://youtu.be/4sxyDXt1igs
+
+!!017!!#55 Python Tutorial for Beginners  Inheritance
+https://youtu.be/Cn7AkDb4pIU
+
+!!018!!C++ Inheritance Tutorial  Introduction To Inheritance In C++ Programming With Example  Simplilearn
+https://youtu.be/qYY9eR7Ldek
+
+!!019!!Java Programming Tutorial - 49 - Inheritance
+https://youtu.be/9JpNY-XAseg
+
+!!020!!Single inheritance program in java  java inheritance example  extends keyword in java
+https://youtu.be/LYABmEXQFyA
+
+!!021!!Object Oriented Programming 3 - Inheritance
+https://youtu.be/rUlDPZ50nJE
+
+!!022!!Single inheritance in java  Inheritance in Java  in telugu  Java Programming
+https://youtu.be/9pA9D8zYQ-U
+
+!!023!!PHP Object Oriented Programming (OOP) Inheritance (413)
+https://youtu.be/S3ZMtAFfyTM
+
+!!024!!Java program student using single inheritance in java  Using super keyword
+https://youtu.be/ZjEl1gHHzQ0
+
+!!025!!Function Overriding in C++  Inheritance  OOP in C++ programming
+https://youtu.be/Zd_4xa071nc
+
+!!026!!MULTIPLE INHERITANCE - C++ PROGRAMMING
+https://youtu.be/UhOmElNTcv0
+
+!!027!!Public Inheritance in C++  Object Oriented Programming Video Tutorial
+https://youtu.be/q8EUCNAsn6E
+
+!!028!!#47  Inheritance  Single  Multilevel  Hierarchical in Java  Java Programming in Tamil
+https://youtu.be/Jajym-1iL64
+
+!!029!!131. Multiple Inheritance using Interface in Java Programming (Hindi)
+https://youtu.be/CeiKnZEMSB8
+
+!!030!!Single Inheritance Program in Java (Hindi) - Java Tutorial 40
+https://youtu.be/i2L2OIxolMc
+
+!!031!!C++ Programming #40 Hierarchical Inheritance with Example Program
+https://youtu.be/Zx9S6w_i3_4
+
+!!032!!Inheritance and types of inheritance in C++  C ++ programming in telugu
+https://youtu.be/EEBlOBOX4IY
+
+!!033!!Multiple Inheritance in c++  Multiple inheritance  Inheritance in telugu  C++ Programming
+https://youtu.be/5kxF513i3Sk
+
+!!034!!Python  Inheritance in Python with Example {in தமிழ்}
+https://youtu.be/poMVuz0zndM
+
+!!035!!inheritance  Object oriented software engineering 
+https://youtu.be/3GZBfm8vB5I
+
+!!036!!Inheritance in java  Types of Inheritance in Java  Java Programming  in telugu
+https://youtu.be/oZd6ylMUEIg
+
+!!037!!OOPs concept in Telugu  Object Oriented Programming in Telugu  Inheritance, Classes and Objects 
+https://youtu.be/K1He4MC0nxs
+
+!!038!!Lecture 11 Object Oriented Programming, Inheritance, Subtyping,Subtitution, Static & Dynamic Binding
+https://youtu.be/DwyRuyCpsz8
+
+!!039!!System Verilog Tutorial #7  Object Oriented Programming Inheritance  EDA Playground
+https://youtu.be/UjOMXAIEjOA
+
+!!040!!Inheritance & Polymorphism - Java Programming Tutorial
+https://youtu.be/gWpg3yMiL0M
+
+!!041!!InheritancePolymorphism in Object Oriented Programming  Python for Beginners  vipin coding
+https://youtu.be/6xTWEg4yZzE
+
+!!042!!Python Programming - 25  Inheritance  Tamil
+https://youtu.be/D90pvPJotLM
+
+!!043!!Lesson 9 Classes, Objects, Inheritance and Polymorphism - C# Programming Course
+https://youtu.be/o7UtOI0ROfs
+
+!!044!!C++ Programming #38 Single Inheritance with Example Program
+https://youtu.be/4Nc5xrqSY1Y
+
+!!045!!Inheritance in Java & Types of Inheritance in Java  Theory + Program Example
+https://youtu.be/19Rg_4SI0tQ
+
+!!046!!Object Oriented Programming Pillars with C#  Abstraction Encapsulation Inheritance Polymorphism
+https://youtu.be/5e25kN-FGRc
+
+!!047!!Python Programming Tutorial - 33 - Multiple Inheritance
+https://youtu.be/YCEVvs5BhpY
+
+!!048!!132. Hybrid Inheritance in Java Programming (Hindi)
+https://youtu.be/xqMIX0KL5VE
+
+!!049!!Introduction to Inheritance in C++ Part 1  C++ Tutorial  Mr. Kishore
+https://youtu.be/8fDao3MBbwk
+
+!!050!!13 - Inheritance and Polymorphism In Java - Part 1 - برمجة 2
+https://youtu.be/IMBkkfo7z0s
+Programming Inheritance

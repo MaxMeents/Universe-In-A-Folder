@@ -1,0 +1,145 @@
+
+!!001!!Strings - Intro to Computer Science
+https://youtu.be/3A3TFVDrLCA
+
+!!002!!How To Program Realistic Sounding Strings PART 1 - Chamber
+https://youtu.be/JBUrBtclD5Q
+
+!!003!!How To Program Realistic Sounding Strings PART 2 — Symphonic
+https://youtu.be/Lypg2OAfw0M
+
+!!004!!What are Strings Coding for Kids  Kodable
+https://youtu.be/h2Qf9vIfJnY
+
+!!005!!How to Use Strings in Python - Python Tutorial for Beginners
+https://youtu.be/Ctqi5Y4X-jA
+
+!!006!!The Secret to Orchestral Programming
+https://youtu.be/7Vxj4ghJHtY
+
+!!007!!C Programming Tutorial 14 - C Basics Part 6 - Working with Strings
+https://youtu.be/qarhSok42Ms
+
+!!008!!Python Tutorial for Beginners 2 Strings - Working with Textual Data
+https://youtu.be/k9TUPpGqYTo
+
+!!009!!C_62 Strings in C - part 1  C programming tutorials
+https://youtu.be/x_3FKTDkGT8
+
+!!010!!Java Strings Tutorial For Beginners
+https://youtu.be/3xuJIaP3C4g
+
+!!011!!How To Use String Methods
+https://youtu.be/vbZ85D8Hvh0
+
+!!012!!C Programming Tutorial 87 - Working with Strings
+https://youtu.be/YCbrzDG_XmA
+
+!!013!!How To Program Four-Part Strings
+https://youtu.be/w2xvOOMekps
+
+!!014!!C Programming Tutorial - 45 - Strings and Pointers
+https://youtu.be/-9fqo94G6YU
+
+!!015!!How Strings Work in C++ (and how to use them)
+https://youtu.be/ijIxcB9qjaU
+
+!!016!!Buckys C++ Programming Tutorials - 71 - string Class and string Functions
+https://youtu.be/dSfjBoip4c0
+
+!!017!!R Programming - Strings
+https://youtu.be/77jR3aa7qcQ
+
+!!018!!Python Strings    Python Tutorial    Python Programming
+https://youtu.be/iAzShkKzpJo
+
+!!019!!JavaScript Strings
+https://youtu.be/09BwruU4kiY
+
+!!020!!Fun with Strings
+https://youtu.be/iZAtkS0F-Zo
+
+!!021!!C array of strings🧵
+https://youtu.be/IqcJSGh1AWs
+
+!!022!!#21 C Strings  C Programming For Beginners
+https://youtu.be/l7zI3nswO1g
+
+!!023!!ProgrammingScripting Concepts Explained (Variables, Arrays, Strings, & Length)
+https://youtu.be/aeoGGabJhAQ
+
+!!024!!I learned something new about Strings in Python!
+https://youtu.be/07Pxa3TbQc4
+
+!!025!!strings in c programming
+https://youtu.be/ZhnCceT1yPk
+
+!!026!!Declaring and Initializing String Variables
+https://youtu.be/cnfRyvo41Bs
+
+!!027!!Strings in C Programming  Part-1  C Language Tutorial
+https://youtu.be/AW3m7kdWvI8
+
+!!028!!Strings in C
+https://youtu.be/5TzFNouc0PE
+
+!!029!!Java Programming Ep. 3 Strings & Scanner Input
+https://youtu.be/aNm8DK_1ApU
+
+!!030!!Program to sort strings in dictionary order in C language
+https://youtu.be/GvQID_8TILM
+
+!!031!!Understanding Strings in C Programming  Edureka
+https://youtu.be/SEZpQLG3AZ4
+
+!!032!!5 Most important string questions  String Exercise  Hindi  Python Tutorial #23
+https://youtu.be/8aJNaVIJ3z8
+
+!!033!!Java program to compare two strings  Learn Coding
+https://youtu.be/-Br5SVB7bNQ
+
+!!034!!113 - Searching in Array of Strings  String in C Programming
+https://youtu.be/2lFpMogbuPo
+
+!!035!!50 - STRING COPY WITHOUT USING STRCPY FUNCTION - C PROGRAMMING
+https://youtu.be/5wzvp-GirQ8
+
+!!036!!C_66 Program to Find Length of a String  C Programming Language
+https://youtu.be/LgDABwcKrTw
+
+!!037!!Working with character arrays and strings in C
+https://youtu.be/90gFFdzuZMw
+
+!!038!!Using strings as variables (C++ programming tutorial)
+https://youtu.be/mefx1wj2ZXo
+
+!!039!!Python String Coding Interview Questions In Simple Way
+https://youtu.be/r552u44Zklg
+
+!!040!!Copying one String into another in Java  Java programming  Strings in Java  ABC
+https://youtu.be/naPStCXlC9I
+
+!!041!!Strings in c  Character Array in C  Strings in C programming  C Programming  By Sudhakar Bogam
+https://youtu.be/MVf82UFIJuA
+
+!!042!!Strings in C in Hindi     Lec-50C Programming Tutorial in Hindi
+https://youtu.be/6iOeAbS5UBg
+
+!!043!!Learn C++ With Me #13 - Strings
+https://youtu.be/QtP0PdLEvFk
+
+!!044!!Code Programs on Strings & Pointers - 5  Logical Programming in C  by Mr.Srinivas
+https://youtu.be/_bIEUPM8kgE
+
+!!045!!Strings in C  c programming in telugu
+https://youtu.be/Fc9Ncfk_IjQ
+
+!!046!!Lecture 55 C++ Programming Tutorial String C-style character String part 1 in Amharic  በአማርኛ
+https://youtu.be/6sNqPDFfkj4
+
+!!047!!C_68 C program to Compare two Strings  with strcmp() and without strcmp() function
+https://youtu.be/la1jAMx_Lzc
+
+!!048!!C Program to Reverse a String
+https://youtu.be/MmThe9aSJbA
+Programming Strings

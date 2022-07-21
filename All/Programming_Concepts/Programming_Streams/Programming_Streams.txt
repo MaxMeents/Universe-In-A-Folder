@@ -1,0 +1,127 @@
+
+!!001!!Live Coding A New Streaming Platform (10 Hours)
+https://youtu.be/QvNzL_FmzLQ
+
+!!002!!Streams Are Useful For - Intro to Parallel Programming
+https://youtu.be/wYSNqRIoFrI
+
+!!003!!12 Hour Coding Livestream - Creating an Online Game with Python
+https://youtu.be/wDIQ17T3sRk
+
+!!004!!The Problem with Live Streaming Code
+https://youtu.be/QGlCjVG-Hyc
+
+!!005!!Intro to Streams
+https://youtu.be/BALo2L9AhlE
+
+!!006!!Streams Part1 - Intro to Parallel Programming
+https://youtu.be/0t6URV6DfkU
+
+!!007!!Live stream Coding a visualization tool for a possible future video
+https://youtu.be/oVyx9L3IGfs
+
+!!008!!Learn How To Program In C# Part 32 - Introduction To Streams
+https://youtu.be/rIIwwNpIK1c
+
+!!009!!Coding Livestream - Making an Entire Game in 10 Hours!
+https://youtu.be/19E9RQC5kDo
+
+!!010!!Live Stream Some C++ coding!
+https://youtu.be/PGuxfdyaKJU
+
+!!011!!Functional Programming with Java Streams API
+https://youtu.be/f5j1TaJlc0w
+
+!!012!!Java Streams Tutorial
+https://youtu.be/FWoYpM-E3EQ
+
+!!013!!Node JS Tutorial for Beginners #13 - Streams and Buffers
+https://youtu.be/GlybFFMXXmQ
+
+!!014!!Notch Coding Minicraft [PART 17]
+https://youtu.be/s2yOF4jDgNU
+
+!!015!!C Programming! (40) Streams
+https://youtu.be/XnTcLfKxFPY
+
+!!016!!Boring Programming Stream #1 (reupload)
+https://youtu.be/O8yLRBGrWLI
+
+!!017!!C Programming Tutorial 64 - Input Stream Explained
+https://youtu.be/WRyqzqXK2dA
+
+!!018!!Regular Programming over Data Streams
+https://youtu.be/Mh2ZF50DQ_Y
+
+!!019!!Advanced GPU computing Efficient CPU-GPU memory transfers, CUDA streams
+https://youtu.be/Yv4thF9tvPo
+
+!!020!!Java Streams Tutorial  2020
+https://youtu.be/Q93JsQ8vcwY
+
+!!021!!How to Use Java Streams  Functional Programming in Java in 8 minutes
+https://youtu.be/3WpOPS8PrG0
+
+!!022!!C++ Programming Tutorial 59 - Intro to IO Streams
+https://youtu.be/io3rL-Ni7DE
+
+!!023!!How To Code A Video Streaming Server in NodeJS
+https://youtu.be/ZjBLbXUuyWg
+
+!!024!!Lambdas and Streams Master Class Part 1 José Paumard, Stuart Marks voxxed
+https://youtu.be/ePXnCezwRuw
+
+!!025!!What is Stream in C Programming
+https://youtu.be/g5c5PKi1P2Y
+
+!!026!!Java 8 STREAMS Tutorial
+https://youtu.be/t1-YZ6bF-g0
+
+!!027!!Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam
+https://youtu.be/0hQvWIdwnw4
+
+!!028!!Chatting, Planning Videos  Boring Programming Stream #23
+https://youtu.be/R1CaRZvI79M
+
+!!029!!Java Streams Beyond The Basics
+https://youtu.be/TCJdc9SYwlQ
+
+!!030!!Streams - FunFunFunction #13
+https://youtu.be/UD2dZw9iHCc
+
+!!031!!C++ Files & Streams - Defensive Programming
+https://youtu.be/XQuPWLLA4as
+
+!!032!!Java 8 Programming Interview Questions  Java 8 Streams Interview Questions
+https://youtu.be/OTsz2FixGys
+
+!!033!!Dart Programming for Intermediates  Streams 01
+https://youtu.be/meBBtYzIS-0
+
+!!034!!Functional Programming with Streams in Java 9  Cmpring Strems, Colltns, & Iterators  packtpub.com
+https://youtu.be/4HcO9hXEsnk
+
+!!035!!55- Dart Asynchronous programming streams (Arabic)
+https://youtu.be/zdj-uw127ZQ
+
+!!036!!How to Avoid Common Java Streams Programming Mistakes
+https://youtu.be/BZ_m8_wpD34
+
+!!037!!Java Streams Avoiding Common Programming Mistakes
+https://youtu.be/XO1BH1Uk1S0
+
+!!038!![CUDA Programming Series] CUDA Events and Streams
+https://youtu.be/iHK9o26EOSQ
+
+!!039!!Dart Programming for Intermediates  Streams 02
+https://youtu.be/iWJ6M5nhGuE
+
+!!040!!Java Streams Interview Question - 03 - Square, Filter and Average of Numbers
+https://youtu.be/hwiN0q9XqDg
+
+!!041!!An introduction to Functional Programming with Java Streams demonstration - NUS ISS Learning Day
+https://youtu.be/oyKuMB3aZEY
+
+!!042!!C# Programming - Files and Streams
+https://youtu.be/f82pK2Upp6w
+Programming Streams

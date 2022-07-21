@@ -1,0 +1,151 @@
+
+!!001!!Object-oriented Programming in 7 minutes  Mosh
+https://youtu.be/pTB0EiLXUC8
+
+!!002!!What is a Class vs What is an Object in Programming
+https://youtu.be/K8eOkzQ_o9w
+
+!!003!!Introduction to Classes and Objects - Part 1 (Data Structures & Algorithms #3)
+https://youtu.be/8yjkWGRlUmY
+
+!!004!!Fundamental Concepts of Object Oriented Programming
+https://youtu.be/m_MQYyJpIjg
+
+!!005!!Python Object Oriented Programming (OOP) - For Beginners
+https://youtu.be/JeznW_7DlB0
+
+!!006!!Object Oriented Programming Objects and Classes  C# 101 [16 of 19]
+https://youtu.be/TzgxcAiHCWA
+
+!!007!!8. Object Oriented Programming
+https://youtu.be/-DP1i2ZU9gk
+
+!!008!!Object Oriented Programming - The Four Pillars of OOP
+https://youtu.be/1ONhXmQuWP8
+
+!!009!!Intro to Objects  Computer Programming  Khan Academy
+https://youtu.be/Lv1LWRQIBYg
+
+!!010!!Python Classes and Objects    Python Tutorial    Learn Python Programming
+https://youtu.be/apACNr7DC_s
+
+!!011!!Introduction to Classes and Objects (Part 1)
+https://youtu.be/W-D71ZeMixQ
+
+!!012!!Object Oriented Programming with Python - Full Course for Beginners
+https://youtu.be/Ej_02ICOIgs
+
+!!013!!What Is Object Oriented Programming  OOP Explained
+https://youtu.be/yBs0ic7pVvk
+
+!!014!!8.1 What is Object-Oriented Programming (OOP) - Processing Tutorial
+https://youtu.be/YcbcfkLzgvs
+
+!!015!!Object Oriented Programming 1 - Classes and Objects
+https://youtu.be/tJ7C50l1aEQ
+
+!!016!!Intro to Object Oriented Programming - Crash Course
+https://youtu.be/SiBw7os-_zI
+
+!!017!!Python Object Oriented Programming in 10 minutes 🐍
+https://youtu.be/q2SGW2VgwAM
+
+!!018!!Object-oriented Programming in JavaScript Made Super Simple  Mosh
+https://youtu.be/PFmuCDHHpwk
+
+!!019!!What are Classes, Objects, and Constructors
+https://youtu.be/5AWRivBk0Gw
+
+!!020!!Object-Oriented Programming Java Tutorial (Java OOP)
+https://youtu.be/j0lBrYSlYaU
+
+!!021!!CLASSES & OBJECTS - PYTHON PROGRAMMING
+https://youtu.be/hLC6GL_YBGM
+
+!!022!!Object Oriented Programming in C#  C# Tutorial for Beginners
+https://youtu.be/hxIb99-Z8_I
+
+!!023!!C++ Programming Tutorial 86 - Working with Objects
+https://youtu.be/cjpIPUaEbRM
+
+!!024!!Modifying Objects  Computer Programming  Khan Academy
+https://youtu.be/S_QuICPo6aM
+
+!!025!!Java OOPs Concepts in just 60 minutes  Object Oriented Programming  Java Tutorial For Beginners
+https://youtu.be/a199KZGMNxk
+
+!!026!!R Tutorial What is Object-Oriented Programming
+https://youtu.be/A_B112rW_nE
+
+!!027!!Java Tutorial #13 Classes & Objects  Object Oriented Programming  Filipino  Tagalog
+https://youtu.be/CwdhP_zA3lg
+
+!!028!!What is Class & Object  Class & Object  C++ Programming  In Hindi
+https://youtu.be/YNuFnhRMoVs
+
+!!029!!An Encounter with JavaScript Objects
+https://youtu.be/napDjGFjHR0
+
+!!030!!Java Programming Tutorial - 06 - Calculations with Instance Variables of an Object
+https://youtu.be/4mMX7KeyTBg
+
+!!031!!Creating Objects from a Class in Different Ways  C++ Object Oriented Programming Tutorial
+https://youtu.be/BsYvWqDihGU
+
+!!032!!Object Oriented Programming is a Dirty Rotten Low Down Trick A Look at How C++ Works
+https://youtu.be/HClSfuT2bFA
+
+!!033!!Everything you need to know about Classes in Python! (Object Oriented Programming Tutorial)
+https://youtu.be/tmY6FEF8f1o
+
+!!034!!Array of Objects in Java  Object Oriented Programming Tutorial
+https://youtu.be/k0xkTdH42w8
+
+!!035!!Inheritance vs Interfaces in C# Object Oriented Programming
+https://youtu.be/4sxyDXt1igs
+
+!!036!!How Object Oriented Programming Works In Unity
+https://youtu.be/NEm9WIIDRyc
+
+!!037!!OOPS In Python  Object Oriented Programming Python  Python for Beginners  Great Learning
+https://youtu.be/Uo6PpmDuBUU
+
+!!038!!Object Oriented vs Functional Programming with TypeScript
+https://youtu.be/fsVL_xrYO0w
+
+!!039!!Object Oriented Programming (OOP) in C++ Course
+https://youtu.be/wN0x9eZLix4
+
+!!040!!Java Programming Tutorial - 41 - Building Objects for Constructors
+https://youtu.be/MK2SMJZbUmU
+
+!!041!!Object Oriented Programming VS Procedural Programming
+https://youtu.be/FL20P_8n3NQ
+
+!!042!!The difference between procedural and object-oriented programming
+https://youtu.be/OEfSFrk_KEI
+
+!!043!!What is Object Oriented Programming in Python - OOPS in Python  Complete Tutorial
+https://youtu.be/bjM1JjGzvb8
+
+!!044!!Object Oriented Programming Part 1  C ++ Tutorial  Mr. Kishore
+https://youtu.be/7BVt6OGfVfQ
+
+!!045!!5.4 Functions Inside of Objects - p5.js Tutorial
+https://youtu.be/QoFWCPVpWUE
+
+!!046!!Java Programming Tutorial - 60 - Array Holding Many Objects
+https://youtu.be/0--h2x6HENA
+
+!!047!!Java Programming Tutorial 52 - Intro to Object Oriented Programming (OOP)
+https://youtu.be/bbnEO8V865o
+
+!!048!!C# OOPS  Object Oriented Programming In C#  C# Tutorial For Beginners  C# Tutorial  Simplilearn
+https://youtu.be/iA0XZwFqqKI
+
+!!049!!What is Object-oriented Programming (JavaScript Tutorial)
+https://youtu.be/rlLuL3jYLvA
+
+!!050!!Object Oriented Programming vs Functional Programming
+https://youtu.be/wyABTfR9UTU
+Programming Objects

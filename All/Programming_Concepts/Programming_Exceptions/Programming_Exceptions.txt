@@ -1,0 +1,151 @@
+
+!!001!!Java Exceptions - Learn Exceptions in Java
+https://youtu.be/xNVlq9IEBEg
+
+!!002!!Exceptions in Python  Python Tutorial  Learn Python Programming
+https://youtu.be/nlCKrKGHSSk
+
+!!003!!Exceptions
+https://youtu.be/0Whyfs88TYE
+
+!!004!!7. Testing, Debugging, Exceptions, and Assertions
+https://youtu.be/9H6muyZjms0
+
+!!005!!Fundamentals of Programming Languages #8  Understanding Exceptions
+https://youtu.be/rqlbsB9dAYs
+
+!!006!!Java Exception Handling Tutorial
+https://youtu.be/_nmm0nZqIIY
+
+!!007!!Programming To Exceptions
+https://youtu.be/5IKczyor-f4
+
+!!008!!Java Exception Handling Tutorial
+https://youtu.be/sQwTGB6gW-8
+
+!!009!!Java Programming Tutorial - 82 - Exception Handling
+https://youtu.be/K_-3OLkXkzY
+
+!!010!!Exception Handling in C++ Programming
+https://youtu.be/EyXXLpFriMc
+
+!!011!!Exception handling in C++ (How to handle errors in your program)
+https://youtu.be/kjEhqgmEiWY
+
+!!012!!#63 Python Tutorial for Beginners  Exception Handling
+https://youtu.be/6SPDvPK38tw
+
+!!013!!STOP throwing Exceptions! Start being Explicit
+https://youtu.be/4UEanbBaJy4
+
+!!014!!Exception Handling In Python  Exceptions In Python  Python Programming Tutorial  Edureka
+https://youtu.be/NMTEjQ8-AJM
+
+!!015!!Back to Basics Exceptions - Klaus Iglberger - CppCon 2020
+https://youtu.be/0ojB8c0xUd8
+
+!!016!!Exceptions in Python - Advanced Python 09 - Programming Tutorial
+https://youtu.be/qOuOV4pDVGY
+
+!!017!!Exception Handling  C#  Tutorial 24
+https://youtu.be/ZJRg8nrNeeA
+
+!!018!!Avoid throwing exceptions Error, null, & bool handling in 5 programming languages!
+https://youtu.be/fcFDKY8pylo
+
+!!019!!Exception Handling In Java  Exception Handling In Java With Examples  Java Tutorial  Edureka
+https://youtu.be/W-N2ltgU-X4
+
+!!020!!Exceptions in Python  Python Programming Tutorial
+https://youtu.be/M2brCmpEavE
+
+!!021!!Exception handling tips in Python ⚠ Write better Python code part 7
+https://youtu.be/ZsvftkbbrR0
+
+!!022!!Exceptions  OCaml Programming  Chapter 3 Video 21
+https://youtu.be/0zZNEJvcZqg
+
+!!023!!Exception Handling In C++  What Is Exception Handling In C++  C++ Programming  Simplilearn
+https://youtu.be/7hcQQEHZPiQ
+
+!!024!!Customized Exception or User Defined Exception in Java  Exception Handling in Java (Hindi)
+https://youtu.be/ClaFxuHMOSo
+
+!!025!!211. User Defined Checked Exception in Java Programming (Hindi)
+https://youtu.be/BT3pysDazEg
+
+!!026!!Exceptions  Computer Programming 2 (Java)
+https://youtu.be/DBJwaVeUPhY
+
+!!027!!Dart Exceptions - Exception Handling Explained - Dart Programming for Beginners
+https://youtu.be/GwG2vdgy50M
+
+!!028!!EXCEPTION HANDLING - JAVA PROGRAMMING
+https://youtu.be/9kI0_F41i5Y
+
+!!029!!Ruby Programming Tutorial  Handling Exceptions - Part 1
+https://youtu.be/-nOhuT9TQwM
+
+!!030!!Exception Handling in C++  Try Catch and Throw  Object Oriented Programming Tutorial - 47
+https://youtu.be/zHAVXDA_iNI
+
+!!031!!Learn Programming in Java - Lesson 16 Exceptions
+https://youtu.be/R86ObiKhMNc
+
+!!032!!Exception Handling  Try, Throw and Catch  C++ in Tamil  Logic First Tamil
+https://youtu.be/hHWWv5Vu4nw
+
+!!033!!Java  Checked & Unchecked Exceptions  Programs  CS8392-Object Oriented Programming  Tamil  39
+https://youtu.be/fQM4GCOxbxw
+
+!!034!!Difference Between Checked and Unchecked Exception  Learn Coding
+https://youtu.be/nY37l7NTiII
+
+!!035!!How to create custom exceptions in Java
+https://youtu.be/Q-66i9EVR_8
+
+!!036!!Exception Handling In Java  What Is Exception Handling In Java  Java Tutorial  Simplilearn
+https://youtu.be/IKlF1DgUxOE
+
+!!037!!Exceptions vs Options and More Application Operators  OCaml Programming  Chapter 5 Video 8
+https://youtu.be/tbMU_pv0p9o
+
+!!038!!Exception Handling in C++ (HINDI)
+https://youtu.be/n-q8QdtYhcc
+
+!!039!!Ada 003 - Lesson 1 - Exceptions
+https://youtu.be/cv0l1LnhYmE
+
+!!040!!Learn Java Programming - Creating Exceptions Tutorial
+https://youtu.be/8uOElhEEP1o
+
+!!041!!Custom Exceptions in Java Programming  Exception Handling Part - 4
+https://youtu.be/MKO-Ea0fElM
+
+!!042!!Handling Exceptions in Java Program (Tutorial #5)
+https://youtu.be/62Ey_l_39Kw
+
+!!043!!Java Exception Handling   Difference between Checked and Unchecked Exceptions Part  - 1 by Durga
+https://youtu.be/Sea_i0bUtfs
+
+!!044!!Multiple Catch Statements in C++  Catch All Exceptions in CPP
+https://youtu.be/C2YCZ6WKT0w
+
+!!045!!System defined exceptions in PLSQL  Oracle PLSQL Tutorial Videos  Mr.Vijay Kumar
+https://youtu.be/plkdsaG5lYM
+
+!!046!!Apex programming for Salesforce Admins- Error handling exceptions
+https://youtu.be/5YJCEmDS130
+
+!!047!!User Defined Exceptions in PLSQL  Oracle PLSQL Tutorial Videos  Mr.Vijay Kumar
+https://youtu.be/k6tae39IEyY
+
+!!048!!KTU CS403 PROGRAMMING PARADIGMSException Handlingmodule 3Exception Handling in C++BTech
+https://youtu.be/hx3GLwYYfMc
+
+!!049!!How to handle Dividing By Zero Exception in Python programming language
+https://youtu.be/Z36pEkFAI3M
+
+!!050!!Lecture 27 Exception Handling in C++ Hindi
+https://youtu.be/asekOytwNw4
+Programming Exceptions

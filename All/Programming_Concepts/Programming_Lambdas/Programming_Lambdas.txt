@@ -1,0 +1,142 @@
+
+!!001!!Lambda Expressions & Anonymous Functions   Python Tutorial    Learn Python Programming
+https://youtu.be/25ovCm9jKfA
+
+!!002!!Lambda Expressions in Java - Full Simple Tutorial
+https://youtu.be/tj5sLSFjVj4
+
+!!003!!Lambda Calculus - Computerphile
+https://youtu.be/eis11j_iGMs
+
+!!004!!Lambdas in C++
+https://youtu.be/mWgmBBz0y8c
+
+!!005!!Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript
+https://youtu.be/3VQ382QG-y4
+
+!!006!!Lambda expressions in modern C++ (in depth step by step tutorial)
+https://youtu.be/MH8mLFqj-n8
+
+!!007!!LAMBDA Functions Powerful And Elegant Abstractions
+https://youtu.be/OLH3L285EiY
+
+!!008!!9. Lambda Functions -- CS201 Yale
+https://youtu.be/4H3mEKlgz-0
+
+!!009!!Java 8 Lambda Basics 6 - Introducing Lambda Expressions
+https://youtu.be/nUIAvs4OEkM
+
+!!010!!AWS Lambda Tutorial
+https://youtu.be/seaBeltaKhw
+
+!!011!!Deconstructing Lambdas—An Awkward Guide to Programming Without Functions
+https://youtu.be/xZmPuz9m2t0
+
+!!012!!Lambdas  OCaml Programming  Chapter 2 Video 9
+https://youtu.be/zHHCD7MOjmw
+
+!!013!!CON8366   Programming with Lambdas
+https://youtu.be/cgW5jElIJRc
+
+!!014!!Java lambda λ
+https://youtu.be/LEJ1kGHSXdA
+
+!!015!!AWS Lambda Tutorial For Beginners  What is AWS Lambda  AWS Tutorial For Beginners  Simplilearn
+https://youtu.be/97q30JjEq9Y
+
+!!016!!lambdas and Conditionals (Scheme programming)
+https://youtu.be/U6PNEbc6Q20
+
+!!017!!Programming Languages Lambda Calculus - 1
+https://youtu.be/v1IlyzxP6Sg
+
+!!018!!Lambda Calculus!
+https://youtu.be/RsO_sfHtXCM
+
+!!019!!Functional Programming 3 Lambda Expressions
+https://youtu.be/iSz2q_reDTA
+
+!!020!!Your first AWS Lambda function ever  Very simple example
+https://youtu.be/SslOHC-qji4
+
+!!021!!Common Lisp Tutorial 8e Functional Programming (Lambda Functions)
+https://youtu.be/LLxkVOAwU1c
+
+!!022!!Intermediate Python Tutorial #5 - Lambda Functions
+https://youtu.be/BcbVe1r2CYc
+
+!!023!!Essentials Functional Programming's Y Combinator - Computerphile
+https://youtu.be/9T8A89jgeTI
+
+!!024!!What is Lambda Calculus (ft. Church Encodings)
+https://youtu.be/d0yEXKas8xE
+
+!!025!!Excel RECURSIVE Lambda - Create loops with ZERO coding!
+https://youtu.be/L7s6Dni1dG8
+
+!!026!!What is Lambda Calculus and why
+https://youtu.be/z5ReaU4npoE
+
+!!027!!Functional Programming (Racket) Lambda Expressions
+https://youtu.be/nLc3DausSWM
+
+!!028!!Rust On AWS (Really FAST Lambdas)
+https://youtu.be/EqV5wKD233c
+
+!!029!!PPL1.1-Lambda Calculus  Introduction  principle of programming language  Lambda Calculus  Example
+https://youtu.be/yb9-H4i1OMA
+
+!!030!!lambda Expressions
+https://youtu.be/itdf8H3cb2A
+
+!!031!!Your First AWS Lambda Function In VS Code - 10 Minute Tutorial - For Beginners
+https://youtu.be/DA3hlLxTl-8
+
+!!032!!Back to Basics Lambdas from Scratch - Arthur O'Dwyer - CppCon 2019
+https://youtu.be/3jCOwajNch0
+
+!!033!!Programming Languages Lambda Calculus - 3
+https://youtu.be/3h0-p4SDHig
+
+!!034!!Functional Programming in C++ Using Lambda Expressions
+https://youtu.be/58BrFvjNhWY
+
+!!035!!Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam
+https://youtu.be/1OpAgZvYXLQ
+
+!!036!!Lambda expressions are awesome (+ LINQ) - C# tutorial
+https://youtu.be/dqheDZH_mNc
+
+!!037!!Lambda Expressions in Java  Java Lambda Tutorial  Java Certification Training  Edureka
+https://youtu.be/VLTEPWkEhsg
+
+!!038!!Lambdas and Streams Master Class Part 1 José Paumard, Stuart Marks voxxed
+https://youtu.be/ePXnCezwRuw
+
+!!039!!Introduction to Functional Programming in Haskell Episode 1- Lambda Calculus
+https://youtu.be/9Q-Bi-Cg9tI
+
+!!040!!Ruby Blocks, Procs, and Lambdas 🦁🐅🐻
+https://youtu.be/SADF5diqAJk
+
+!!041!!#3 Python lambda (anonymous) Functions  Python Best Practices
+https://youtu.be/dX6lWSp7pP4
+
+!!042!!C++ Programming Tutorial Generic lambdas in C++ 14
+https://youtu.be/zDD-FGOQAd0
+
+!!043!!#42 Python Tutorial for Beginners  Anonymous Functions  Lambda
+https://youtu.be/hYzwCsKGRrg
+
+!!044!!Learn Java 8 Lambdas and Functional Programming
+https://youtu.be/zolbIZS4SRQ
+
+!!045!!Java 8 Features in Hindi  Lambda Expression in Java  #01
+https://youtu.be/ynM4gk_Nhtg
+
+!!046!!David Beazley - Lambda Calculus from the Ground Up - PyCon 2019
+https://youtu.be/pkCLMl0e_0k
+
+!!047!!JeremyBytes - Lambdas & LINQ in C# - Part 3 Declarative Programming with LINQ
+https://youtu.be/QgRVmdJu5rs
+Programming Lambdas

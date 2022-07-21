@@ -1,0 +1,139 @@
+
+!!001!!Python 3 - Episode 45 - Thread Pools
+https://youtu.be/BagTTT7l1pU
+
+!!002!!Thread Pools in C (using the PTHREAD API)
+https://youtu.be/_n2hE2gyPxU
+
+!!003!!Thread Pools in Java
+https://youtu.be/ZcKt5FYd3bU
+
+!!004!!Spawn Threads with ThreadPool - Programming in C# tutorial
+https://youtu.be/MFBjsidl3NI
+
+!!005!!1. Trivial thread pool implementation.
+https://youtu.be/w6dQQt10Dxo
+
+!!006!!Multithreading with a Thread Pool in C
+https://youtu.be/WmDOHh7k0Ag
+
+!!007!!Stefan Schindler Parallel Programming with Thread pools and iterators
+https://youtu.be/fi4hsbijVxU
+
+!!008!!Thread Pool Tutorial - How-To
+https://youtu.be/eWTGtp3HXiw
+
+!!009!!Thread Pool Concept in Java MultiThreading with an example
+https://youtu.be/qS8lQGdV6_M
+
+!!010!!166 C# Program to Create Thread Pools
+https://youtu.be/ae1nNEppDDU
+
+!!011!!Inside Windows Thread pools  Going Deep
+https://youtu.be/CzgNVuXVMWo
+
+!!012!!Thread Pool Pattern in Python
+https://youtu.be/tcQxnt_tB8Q
+
+!!013!!Python Threading Tutorial Run Code Concurrently Using the Threading Module
+https://youtu.be/IEEhzQoKtQU
+
+!!014!!Multithreaded Server Part 2 Thread Pools
+https://youtu.be/FMNnusHqjpw
+
+!!015!!Swimming in Threadpools. (Android Performance Patterns Season 5, Ep. 6)
+https://youtu.be/uCmHoEY1iTM
+
+!!016!!Thread Pools and the Executor Framework in Java
+https://youtu.be/pYO3OEpvWFI
+
+!!017!!Thread Pools with function pointers in C
+https://youtu.be/7i9z4CRYLAE
+
+!!018!!CSC-121, Graphical Python Programming, Creating and Running Threads using Qt's QThreadPool
+https://youtu.be/zp_CqYtMNJc
+
+!!019!!Qt 6 - Episode 23 - Thread pools
+https://youtu.be/rwidwg3nL00
+
+!!020!!Custom Managed Thread Pools and Java EE 7
+https://youtu.be/20KVZ0ZnCl4
+
+!!021!!Java ExecutorService - Part 1 - Introduction
+https://youtu.be/6Oo-9Can3H8
+
+!!022!!Advanced Java Multi-threading Part 5 -- Thread Pools
+https://youtu.be/KUdro0G1BV4
+
+!!023!!Multi-threading and Parallel Programming Thread Pools
+https://youtu.be/mkpi8QNzxxg
+
+!!024!!C# Threads(3)  Using ThreadPool Threads in C#
+https://youtu.be/Z_oO5RbunCU
+
+!!025!!JDK Thread Pools Pitfalls & Hidden Gems. (Eng) by Mikhail Horbunov
+https://youtu.be/uyCfvHvtTy4
+
+!!026!!How to implement a thread pool (in C++)
+https://youtu.be/ZKIhHLM9MfQ
+
+!!027!!week 46 threads and threadpools
+https://youtu.be/3I6D_ISW0UQ
+
+!!028!!Java Threads Pool
+https://youtu.be/lUixwl5APT4
+
+!!029!!Java Concurrency Interview - What is an Ideal Threadpool size
+https://youtu.be/ErNre5varF8
+
+!!030!!Concurrent Python Programming using a ThreadPoolExecutor
+https://youtu.be/h2L3-X1XUtU
+
+!!031!!HowTo Java - Implement a simple Threadpool
+https://youtu.be/mIRORyhKMfE
+
+!!032!!21  Multithreading - Callable Future Threadpool
+https://youtu.be/qOPKoEt6g5s
+
+!!033!!Stacy Devino Async Tasks, Threads, Pools, and Executors
+https://youtu.be/DOKH4Q0EsVo
+
+!!034!!Custom ThreadPool Java
+https://youtu.be/mkLtOi4gl38
+
+!!035!!THREAD POOLS IN OPERATING SYSTEMS
+https://youtu.be/nS7KeciK0bw
+
+!!036!!STL BOOST FIX THREAD POOL
+https://youtu.be/3Sx4_cxgUVM
+
+!!037!!5 - Thread Factory in Multithreading  Cached Thread Pool  Almighty Java
+https://youtu.be/2GCkwGsGymM
+
+!!038!!The JVM's built-in thread pool and the class CompletableFuture
+https://youtu.be/UnirLDAjwHs
+
+!!039!!Thread Pool
+https://youtu.be/1eJQdN7ANUo
+
+!!040!!611 - Multithreading Advanced  Thread Pools Implementation - Part 1  POSIX Threads
+https://youtu.be/oB9ec_ThUfI
+
+!!041!!Java Tutorial  Difference between Thread Pool and Thread Group  Executor Service
+https://youtu.be/dqUV_U3QbKM
+
+!!042!!Thread Pool Examples    2022   Java Part -65
+https://youtu.be/v_I_dlyhjJE
+
+!!043!!03 7  Use the ThreadPool class to manage multiple threads
+https://youtu.be/FgQ_4R5Lsjg
+
+!!044!!C# Dot Net  Thread Pooling In C#  IICS COLLEGE
+https://youtu.be/AbLHHyQLiEc
+
+!!045!!SD&D Thread Pool Presentation
+https://youtu.be/iS1BmKTDdbM
+
+!!046!!THREAD POOLS IN OPERATING SYSTEMS IN HINDI
+https://youtu.be/VSZ6Ojg2wl8
+Programming Thread Pools

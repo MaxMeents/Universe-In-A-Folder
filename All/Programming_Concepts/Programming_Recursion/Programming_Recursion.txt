@@ -1,0 +1,142 @@
+
+!!001!!Recursion in Programming - Full Course
+https://youtu.be/IJDJ0kBx2LM
+
+!!002!!Introduction to Recursion (Data Structures & Algorithms #6)
+https://youtu.be/B0NtAFf4bvU
+
+!!003!!5 Simple Steps for Solving Any Recursive Problem
+https://youtu.be/ngCos392W4w
+
+!!004!!Algorithms Recursion
+https://youtu.be/KEEKn7Me-ms
+
+!!005!!Recursion in C
+https://youtu.be/kepBmgvWNDw
+
+!!006!!C++ FUNCTIONS (2020) - What is recursion Learn recursive functions! PROGRAMMING TUTORIAL
+https://youtu.be/MwfvXDfaZeI
+
+!!007!!Recursion in software development
+https://youtu.be/vPEJSJMg4jY
+
+!!008!!What Is Recursion - In Depth
+https://youtu.be/6oDQaB2one8
+
+!!009!!Recursion (3 hours course) - Inside code
+https://youtu.be/GOs07Kn2W1E
+
+!!010!!C_104 Recursion in C  Introduction to Recursion
+https://youtu.be/KQZIBckWK-s
+
+!!011!!How to write Recursive Functions
+https://youtu.be/ggk7HbcnLG8
+
+!!012!!Recursion in Java Full Tutorial - How to Create Recursive Methods
+https://youtu.be/k-7jJP7QFEM
+
+!!013!!Recursion and Dynamic Programming (in 5 minutes)
+https://youtu.be/rgGq6sELoZc
+
+!!014!!Recursion, the Fibonacci Sequence and Memoization    Python Tutorial    Learn Python Programming
+https://youtu.be/Qk0zUZW-U_M
+
+!!015!!What on Earth is Recursion - Computerphile
+https://youtu.be/Mv9NEXX1VHc
+
+!!016!!What Is Recursion - Recursion Explained In 3 Minutes
+https://youtu.be/YZcO_jRhvxs
+
+!!017!!Programming Loops vs Recursion - Computerphile
+https://youtu.be/HXNhEYqFo0o
+
+!!018!!Introduction to Recursion - Learn In The Best Way
+https://youtu.be/M2uO2nMT0Bk
+
+!!019!!#40 Python Tutorial for Beginners  Recursion
+https://youtu.be/XkL3SUioNvo
+
+!!020!!How to Understand Any Recursive Code
+https://youtu.be/B3U6LExgevE
+
+!!021!!Buckys C++ Programming Tutorials - 31 - Recursion
+https://youtu.be/4agL-MQq05E
+
+!!022!!🇺🇸 💻 Recursion in programming step by step from real world examples to creating a program
+https://youtu.be/bvbZxwUamTs
+
+!!023!!Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
+https://youtu.be/oBt53YbR9Kk
+
+!!024!!Recursion in C  Recursive function in c programming  Learn Coding
+https://youtu.be/IRdtkDpBoV4
+
+!!025!!How Recursion Works - Explained with animation.
+https://youtu.be/BNeOE1qMyRA
+
+!!026!!Coding Challenge #77 Recursion
+https://youtu.be/jPsZwrV9ld0
+
+!!027!!Python RECURSION Explained
+https://youtu.be/wMNrSM5RFMc
+
+!!028!!C Program to Count Digits of a Number Using Recursion  C Programming
+https://youtu.be/jBbAgzdXD3M
+
+!!029!!Java Recursion - How to make Recursive Methods
+https://youtu.be/sE0sH8vSmE4
+
+!!030!!C programming Bangla Tutorial 5.207  Recursion
+https://youtu.be/voGyK8L4ANM
+
+!!031!!C Program To Convert Decimal To Binary Number using Recursion
+https://youtu.be/hBaesKngoMY
+
+!!032!!C Program To Find GCD of Two Numbers using Recursion Euclid's Algorithm
+https://youtu.be/k6zrTKpSg20
+
+!!033!!Simple Explanation of Recursion  Recursion Python Data Structures & Algorithms Tutorial Python #20
+https://youtu.be/9bsK03SlmNM
+
+!!034!![Part 5] Cracking Recursion and Backtracking  Competitive Programming Series
+https://youtu.be/HKp5R6qjF-o
+
+!!035!!Generating Fibonacci Series using Recursion C Program
+https://youtu.be/cyi7QLlc_aE
+
+!!036!!C Program to find the Factorial of a Number using Recursion
+https://youtu.be/H2lBlb_ys9M
+
+!!037!!What is a Recursive Function in Python
+https://youtu.be/YVk42K2rNx8
+
+!!038!!Finding Shortest path using Dynamic Programming by Backward Recursion Process
+https://youtu.be/FPthWj4TrUI
+
+!!039!!C Program To Calculate Sum of Digits Using Recursion
+https://youtu.be/tPbkgtSoG4Y
+
+!!040!!Recursive Function in Python  Recursion  Python Programming  Telugu
+https://youtu.be/wp-zHu42yqY
+
+!!041!!C Program for Finding GCD of Two numbers  Using Non Recursion
+https://youtu.be/j9KXBP4fZXw
+
+!!042!!C Programming Tutorial   35.2 Recursion
+https://youtu.be/3qSOwgme56c
+
+!!043!!Fibonacci Series Program in C - without Recursion and Using Recursion
+https://youtu.be/cg2t-Z-rE-M
+
+!!044!!C# Recursion Programming Euclid's Algorithm for Greatest Common Divisor GCD
+https://youtu.be/jtWihq7jc58
+
+!!045!!Recursion Simply Explained with Code Examples - Python for Beginners
+https://youtu.be/m1Fjdnj_Mds
+
+!!046!!How to reverse a String in java using recursion
+https://youtu.be/THGBXRa0MdM
+
+!!047!!C Program to calculate gcd of two numbers using recursion
+https://youtu.be/VRo2Iyzv_aY
+Programming Recursion
