@@ -1,7 +1,0 @@
-
-iOS Swift CoreData Tutorial RSS Feed Reader
-https://youtu.be/jootsUaCvAU&list=PLY1P2_piiWEbDgldKKVOVJlpd-PDq1MgA
-
-iOS Swift RSS Reader Tutorial Part 2 Adding images
-https://youtu.be/B277_kz-ny0&list=PLY1P2_piiWEbDgldKKVOVJlpd-PDq1MgA
-RSS Reader

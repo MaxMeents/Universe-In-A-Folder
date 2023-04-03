@@ -1,4 +1,0 @@
-
-Turbocharged Development with Docker, PhpStorm and Xdebug - Jim Seconde - PHPSW - November 2020
-https://youtu.be/app2UUq5Xsk&list=PLrEpsyNSHj020J8TYsSqYUNTPnf4Y0VUK
-Turbocharged Development, November 2020

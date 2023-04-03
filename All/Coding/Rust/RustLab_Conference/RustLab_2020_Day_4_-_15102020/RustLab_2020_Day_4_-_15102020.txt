@@ -1,4 +1,0 @@
-
-WORKSHOP From C to Rust and back The tutorial - Luca Barbato
-https://youtu.be/6cY_ZuIMH7c&list=PLkgYzo_ZZ7KBXG-G76Y4NB6_7jt5ItFlF
-RustLab 2020 Day 4 - 15102020

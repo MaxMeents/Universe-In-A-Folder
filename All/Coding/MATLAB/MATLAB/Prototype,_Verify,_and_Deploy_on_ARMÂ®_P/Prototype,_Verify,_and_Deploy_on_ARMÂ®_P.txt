@@ -1,7 +1,0 @@
-
-Deep Learning Inference for Object Detection on Raspberry Pi
-https://youtu.be/vYK5dwNqNB4&list=PLn8PRpmsu08q5TwcRAlnm6VaAnFYVzKmd
-
-Defect Detection Inference on Arm Cortex A from MATLAB
-https://youtu.be/c5Doh1HcHHw&list=PLn8PRpmsu08q5TwcRAlnm6VaAnFYVzKmd
-Prototype, Verify, and Deploy on ARM® Processors

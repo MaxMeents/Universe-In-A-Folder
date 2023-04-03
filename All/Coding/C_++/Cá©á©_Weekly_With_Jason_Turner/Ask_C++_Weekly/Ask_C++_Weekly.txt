@@ -1,4 +1,0 @@
-
-Ask C++ Weekly `stdexchange` vs `stdswap`
-https://youtu.be/GEbPRS81py4&list=PLs3KjaCtOwSb34l2bqvjTw2hZDpQ_b2po
-Ask C++ Weekly

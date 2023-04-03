@@ -1,7 +1,0 @@
-
-[Scala Central] Chris Jansen - Extruder - Populate Scala case classes from any data source
-https://youtu.be/QoBsZ5J4vus&list=PLKh1qHtBk9VRGcrEN50XxFjpHL0R811SS
-
-[Scala Central] Tudor Palanga - Microservices integration testing made simple with Docker
-https://youtu.be/wbAJAHV2_7c&list=PLKh1qHtBk9VRGcrEN50XxFjpHL0R811SS
-Scala Central - Aug 17

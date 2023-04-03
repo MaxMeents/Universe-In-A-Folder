@@ -1,7 +1,0 @@
-
-Luca Barbato - Introducing rust-av
-https://youtu.be/lBFdr85PgW8&list=PL85XCvVPmGQj_aQtUZYRQrPFqEAn9I9Ks
-
-Sebastian Humenda - Rust On L4Re
-https://youtu.be/umZ1vXoHuGg&list=PL85XCvVPmGQj_aQtUZYRQrPFqEAn9I9Ks
-FOSDEM 2018 - Other talks

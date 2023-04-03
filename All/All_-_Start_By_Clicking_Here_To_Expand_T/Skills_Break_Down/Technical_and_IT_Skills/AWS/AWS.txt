@@ -1,0 +1,40 @@
+
+Search Google for AWS
+https://www.google.com/search?q=AWS
+
+Search Google Images for AWS
+https://www.google.com/search?q=AWS&tbm=isch
+
+Search Google Videos for AWS
+https://www.google.com/search?q=AWS&tbm=vid
+
+Search SoundCloud for AWS
+https://soundcloud.com/search?q=AWS
+
+Search Spotify for AWS
+https://open.spotify.com/search/AWS
+
+Search Wikipedia for AWS
+https://en.wikipedia.org/wiki/AWS
+
+Search YouTube Channels for AWS
+https://www.youtube.com/results?search_query=AWS&sp=EgIQAUAB
+
+Search YouTube for AWS
+https://www.youtube.com/results?search_query=AWS
+
+Search YouTube Less Than 4 Minutes for AWS
+https://www.youtube.com/results?search_query=AWS&sp=EgQQARgB
+
+Search YouTube Playlists for AWS
+https://www.youtube.com/results?search_query=AWS&sp=EgIQA1AB
+
+Search YouTube Relevance for AWS
+https://www.youtube.com/results?search_query=AWS&sp=EgIQAUAB
+
+Search YouTube Upload Date Newest for AWS
+https://www.youtube.com/results?search_query=AWS&sp=CAISAjAB
+
+Search YouTube View Count for AWS
+https://www.youtube.com/results?search_query=AWS&sp=EgJwARgB
+AWS

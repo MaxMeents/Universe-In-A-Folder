@@ -1,7 +1,0 @@
-
-Python Using Web APIs Tutorial  HTTP Requests
-https://youtu.be/ChwSD5e0Qs0&list=PLj8W7XIvO93rw8VLy8R3PSsd4zRJYTEFz
-
-Python Web Scraping with BeautifulSoup  BS4 data mining
-https://youtu.be/zD0FDYI5_rs&list=PLj8W7XIvO93rw8VLy8R3PSsd4zRJYTEFz
-Web Data Scraping

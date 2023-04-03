@@ -1,4 +1,0 @@
-
-CCC (Canadian Computing Competition) - 2014 J3 - Double Dice - Swift 4 +
-https://youtu.be/Re14OBW7shg&list=PLepWyYEuKv9vsry3Qnciuel_J2QK7-PPr
-Canadian Computing Competition (CCC) - University of Waterloo competition

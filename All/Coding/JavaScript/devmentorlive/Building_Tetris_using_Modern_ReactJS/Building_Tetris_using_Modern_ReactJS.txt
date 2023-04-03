@@ -1,7 +1,0 @@
-
-How to think like a programmer (JavaScriptReactJS) TETRIS - DAY 1!
-https://youtu.be/arX8I7H3zlM&list=PL7LIfgWox4lol28Pld3WnKoTFHxqTJbC6
-
-Tetris, Block Movement and Rotation
-https://youtu.be/iAGokSQQxI8&list=PL7LIfgWox4lol28Pld3WnKoTFHxqTJbC6
-Building Tetris using Modern ReactJS

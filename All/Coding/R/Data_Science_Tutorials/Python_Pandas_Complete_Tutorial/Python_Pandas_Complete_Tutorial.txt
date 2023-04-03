@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/R/Data_Science_Tutorials/Python_Pandas_Complete_Tutorial/Videos_1-25/Videos_1-25.txt
-
-Videos 26-44
-/All/Coding/R/Data_Science_Tutorials/Python_Pandas_Complete_Tutorial/Videos_26-44/Videos_26-44.txt
-Python Pandas Complete Tutorial

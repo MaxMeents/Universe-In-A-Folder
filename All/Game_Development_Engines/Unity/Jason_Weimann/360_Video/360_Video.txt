@@ -1,7 +1,0 @@
-
-3D Stereo VR Video in Unity3D 2017
-https://youtu.be/8igGlMhwyx0&list=PLB5_EOMkLx_VJUYFPVB5lGs4JuC_V8fKc
-
-How to play Stereoscopic 3D 360 video in Unity3D in 3 minutes
-https://youtu.be/yDpOOOF0Xlk&list=PLB5_EOMkLx_VJUYFPVB5lGs4JuC_V8fKc
-360 Video

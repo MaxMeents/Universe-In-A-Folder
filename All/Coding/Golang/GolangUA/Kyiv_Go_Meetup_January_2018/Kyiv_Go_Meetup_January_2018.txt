@@ -1,7 +1,0 @@
-
-[EN] Cooking gRPC - Alexey Palazhchenko
-https://youtu.be/E5IXyMLP1RI&list=PLx8BUu6VdbccET3vwBU69RLAojickz0ki
-
-[RU] Multithreading in Go - Aliaksandr Valialkin
-https://youtu.be/HzAXT1ORH3o&list=PLx8BUu6VdbccET3vwBU69RLAojickz0ki
-Kyiv Go Meetup January 2018

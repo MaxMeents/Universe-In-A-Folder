@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/Rust/Rust/Programmieren_in_Rust_(Full_lecture,_Ger/Videos_1-25/Videos_1-25.txt
-
-Videos 26-26
-/All/Coding/Rust/Rust/Programmieren_in_Rust_(Full_lecture,_Ger/Videos_26-26/Videos_26-26.txt
-Programmieren in Rust (Full lecture, German)

@@ -1,4 +1,0 @@
-
-The RIGHT way to Pool in Unity - Save your Game Performance with the new generic Object Pool
-https://youtu.be/mRh2DA1Uzo8&list=PLB5_EOMkLx_UcX0iSKdKf54PKneHtNL0_
-Performance

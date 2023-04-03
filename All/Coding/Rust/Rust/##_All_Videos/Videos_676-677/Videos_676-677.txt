@@ -1,7 +1,0 @@
-
-Rust Meetup Cologne (2016-06-06) Alex Crichton - State of Rust 2016
-https://youtu.be/mRGb4hoGuPs
-
-Rust Meetup Cologne (2016-09-05) Jan-Erik Rediger - Compiling Rust to asm.js
-https://youtu.be/bvJCMhJ3RnQ
-Videos 676-677

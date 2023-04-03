@@ -1,7 +1,0 @@
-
-Content Security Policies Let's Break Stuff - Matt Brunt - PHPSW Security in Web Applications
-https://youtu.be/wBRwg9CbmsM&list=PLrEpsyNSHj01fweKxP_u8qXnyJ2XwdsH6
-
-Lets Hack a Website - Craig Francis - PHPSW Security in Web Applications
-https://youtu.be/sBHjZionJHg&list=PLrEpsyNSHj01fweKxP_u8qXnyJ2XwdsH6
-Security in Web Applications, bath Digital Festival, October 2017

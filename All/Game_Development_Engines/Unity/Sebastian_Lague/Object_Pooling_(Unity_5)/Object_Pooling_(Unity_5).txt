@@ -1,4 +1,0 @@
-
-[Unity 5] Object Pooling Tutorial
-https://youtu.be/LhqP3EghQ-Q&list=PLFt_AvWsXl0dntsFxyqEarElKuRRhgLWt
-Object Pooling (Unity 5)

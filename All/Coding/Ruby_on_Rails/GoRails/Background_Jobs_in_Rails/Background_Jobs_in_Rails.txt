@@ -1,4 +1,0 @@
-
-Advanced Background Jobs in Rails Batching
-https://youtu.be/EBFW8ktACEk&list=PLm8ctt9NhMNVI1_Rr4zbZL2uNyQZkb9c_
-Background Jobs in Rails

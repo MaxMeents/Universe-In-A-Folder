@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Game_Development_Engines/Godot/Bastiaan_Olij/Godot_experiments/Videos_1-25/Videos_1-25.txt
-
-Videos 26-44
-/All/Game_Development_Engines/Godot/Bastiaan_Olij/Godot_experiments/Videos_26-44/Videos_26-44.txt
-Godot experiments

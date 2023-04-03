@@ -1,7 +1,0 @@
-
-SF Docker + Go Meetup  Banking on Go with Matt Heath
-https://youtu.be/iRNwLjKeVRE&list=PLtLJO5JKE5YB0gKhUMTBswPeST7TBz4j7
-
-SF Docker + Go Meetup  Blockchain, Cryptocurriencies, and Go with Vicki Niu
-https://youtu.be/Lmgx9KQLueY&list=PLtLJO5JKE5YB0gKhUMTBswPeST7TBz4j7
-SF Docker + Go Meetup 2017

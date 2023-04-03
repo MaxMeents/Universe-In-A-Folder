@@ -1,4 +1,0 @@
-
-SwiftUI 3 Ways to Evenly Space Views (2020)
-https://youtu.be/rP-CZO_wuxA&list=PLHDMmeIMXj8Xm-HxXMyGeW0y2VFjTo3sx
-SwiftUI Views

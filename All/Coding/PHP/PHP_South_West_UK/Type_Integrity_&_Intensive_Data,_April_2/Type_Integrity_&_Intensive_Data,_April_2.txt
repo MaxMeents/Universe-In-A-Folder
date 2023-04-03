@@ -1,7 +1,0 @@
-
-Data Intensive Applications in PHP - Doug Fitzmaurice - PHPSW Type Integrity & Intensive Data Apr 20
-https://youtu.be/mwhZ2YZ3QRY&list=PLrEpsyNSHj02TptDPLCWnfoXx1-5zTK0J
-
-Type Integrity - Stuart Herbert - PHPSW Type Integrity & Intensive Data, April 2020
-https://youtu.be/aEaEVqvTVsk&list=PLrEpsyNSHj02TptDPLCWnfoXx1-5zTK0J
-Type Integrity & Intensive Data, April 2020

@@ -1,7 +1,0 @@
-
-Rust Berlin - rust ❤️ sensors - Claus Matzinger
-https://youtu.be/VMaKQ8_y_6s&list=PL85XCvVPmGQjYkkeA4TpA1lH-qw0LltNw
-
-Rust Berlin October 2017 - Application containers for IoT and BDD in Rust
-https://youtu.be/-9DXoSEdNoc&list=PL85XCvVPmGQjYkkeA4TpA1lH-qw0LltNw
-Rust Berlin

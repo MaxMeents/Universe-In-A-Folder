@@ -1,7 +1,0 @@
-
-API etiquette - Caching a response
-https://youtu.be/5iTEYQOwsHA&list=PLmY4QuenD1lPmWWM8PIjGLa2VbBncHo-c
-
-Circuit Python Visualizing Computer Science Principles with Physical Computing
-https://youtu.be/9ZS-yrBDOyQ&list=PLmY4QuenD1lPmWWM8PIjGLa2VbBncHo-c
-Short Talks (25 min)

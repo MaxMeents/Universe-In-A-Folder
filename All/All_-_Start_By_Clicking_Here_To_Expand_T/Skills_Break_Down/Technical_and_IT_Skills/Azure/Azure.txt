@@ -1,0 +1,40 @@
+
+Search Google for Azure
+https://www.google.com/search?q=Azure
+
+Search Google Images for Azure
+https://www.google.com/search?q=Azure&tbm=isch
+
+Search Google Videos for Azure
+https://www.google.com/search?q=Azure&tbm=vid
+
+Search SoundCloud for Azure
+https://soundcloud.com/search?q=Azure
+
+Search Spotify for Azure
+https://open.spotify.com/search/Azure
+
+Search Wikipedia for Azure
+https://en.wikipedia.org/wiki/Azure
+
+Search YouTube Channels for Azure
+https://www.youtube.com/results?search_query=Azure&sp=EgIQAUAB
+
+Search YouTube for Azure
+https://www.youtube.com/results?search_query=Azure
+
+Search YouTube Less Than 4 Minutes for Azure
+https://www.youtube.com/results?search_query=Azure&sp=EgQQARgB
+
+Search YouTube Playlists for Azure
+https://www.youtube.com/results?search_query=Azure&sp=EgIQA1AB
+
+Search YouTube Relevance for Azure
+https://www.youtube.com/results?search_query=Azure&sp=EgIQAUAB
+
+Search YouTube Upload Date Newest for Azure
+https://www.youtube.com/results?search_query=Azure&sp=CAISAjAB
+
+Search YouTube View Count for Azure
+https://www.youtube.com/results?search_query=Azure&sp=EgJwARgB
+Azure

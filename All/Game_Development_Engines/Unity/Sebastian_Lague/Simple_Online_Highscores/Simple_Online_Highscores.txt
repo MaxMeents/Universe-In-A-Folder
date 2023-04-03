@@ -1,7 +1,0 @@
-
-[Unity Tutorial] Online Highscores 01 (dreamlo)
-https://youtu.be/KZuqEyxYZCc&list=PLFt_AvWsXl0cgcFnNTo-Qqb9BwikZ-Qtp
-
-[Unity Tutorial] Online Highscores 02 (dreamlo)
-https://youtu.be/9jejKPPKomg&list=PLFt_AvWsXl0cgcFnNTo-Qqb9BwikZ-Qtp
-Simple Online Highscores

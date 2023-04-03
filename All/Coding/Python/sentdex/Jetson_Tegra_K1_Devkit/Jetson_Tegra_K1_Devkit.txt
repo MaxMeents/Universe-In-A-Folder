@@ -1,7 +1,0 @@
-
-Jetson Tegra K1 Devkit - Setting up Desktop GUI (Ubuntu 14.04)
-https://youtu.be/ghqM8pzJZxg&list=PLQVvvaa0QuDeCRnenZ7_uAQjT2LBTVB1p
-
-Jetson Tegra K1 Devkit - Unboxing
-https://youtu.be/oLeorJH5pOw&list=PLQVvvaa0QuDeCRnenZ7_uAQjT2LBTVB1p
-Jetson Tegra K1 Devkit

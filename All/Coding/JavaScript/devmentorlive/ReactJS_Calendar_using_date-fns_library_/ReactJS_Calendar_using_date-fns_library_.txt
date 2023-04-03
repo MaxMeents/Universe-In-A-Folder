@@ -1,4 +1,0 @@
-
-Dump MomentJS! Use THIS instead! [JavaScript 20201]
-https://youtu.be/mfG4BVCRkEQ&list=PL7LIfgWox4loq3H4Ep51REpoVYSdcsgCv
-ReactJS Calendar using date-fns library and generators!

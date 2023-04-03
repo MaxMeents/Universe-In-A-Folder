@@ -1,4 +1,0 @@
-
-Introduction to Serverless PHP - Rob Allen - PHPSW Chatting Serverless, February 2019
-https://youtu.be/fyE_jgbCo6g&list=PLrEpsyNSHj01-5KjUhfX97EZteENyKCOL
-Chatting Serverless, February 2019

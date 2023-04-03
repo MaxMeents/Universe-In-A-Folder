@@ -1,7 +1,0 @@
-
-Array.map()
-https://youtu.be/915-OByzH-g
-
-How To Loop Over An Object
-https://youtu.be/-4_ApAo9BEE
-Videos 26-27

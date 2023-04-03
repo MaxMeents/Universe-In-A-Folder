@@ -1,7 +1,0 @@
-
-Python 3 Making a Stoplight (for Beginners)
-https://youtu.be/f-nNK0NgXpQ&list=PLlEgNdBJEO-nBamgXaPH5nshPu7AJWJQt
-
-Python 3 Making Multiple Stoplights with Classes (for Beginners)
-https://youtu.be/VanxJiUwOrQ&list=PLlEgNdBJEO-nBamgXaPH5nshPu7AJWJQt
-Python Stoplights

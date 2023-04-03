@@ -1,7 +1,0 @@
-
-Don’t Fear The OAuth - Ian Littman - PHPSW Lockdown Security, May 2020
-https://youtu.be/-5oHo5iX8R4&list=PLrEpsyNSHj01-y9neUWqh9xsCd0xHAPRh
-
-Hansel & Gretel do TLS - Marcus Bointon - PHPSW Lockdown Security, May 2020
-https://youtu.be/2ET4cHYFcxk&list=PLrEpsyNSHj01-y9neUWqh9xsCd0xHAPRh
-Lockdown Security, May 2020

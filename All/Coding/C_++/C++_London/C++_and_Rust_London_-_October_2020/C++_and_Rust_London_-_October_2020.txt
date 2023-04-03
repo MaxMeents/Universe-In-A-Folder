@@ -1,7 +1,0 @@
-
-C++ && Rust  Access All Arenas - James Munns
-https://youtu.be/HiWkMFE8uRE&list=PLB8iG1kbmdEPWtteNNLCh65r5vmCY9sO6
-
-C++ && Rust  FCE using interface types for server-side WebAssembly modules - Mikhail Voronov
-https://youtu.be/PxxGZvWOcHc&list=PLB8iG1kbmdEPWtteNNLCh65r5vmCY9sO6
-C++ and Rust London - October 2020

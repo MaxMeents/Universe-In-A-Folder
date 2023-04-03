@@ -1,7 +1,0 @@
-
-building a ReactJS Infinite scroll datatable from scratch
-https://youtu.be/Pj_wYgCkjqI&list=PL7LIfgWox4lrFK06InD6wX92V98Quumkl
-
-ReactJS DataTables - Render Props, Sorting (Part 1)
-https://youtu.be/70wozHFsZFo&list=PL7LIfgWox4lrFK06InD6wX92V98Quumkl
-Build a Sortable, Searchable, Infinite Scrollable DataTable with Inline Editing!

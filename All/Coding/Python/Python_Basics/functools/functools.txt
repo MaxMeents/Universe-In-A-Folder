@@ -1,7 +1,0 @@
-
-Python Basics Functools Module for Callable Objects
-https://youtu.be/eqvY-XMihRU&list=PLaYT64KWZAEMGwyvYX_fu97_a_Jx__ixX
-
-Python Basics Requested Video Functools Reduce Function
-https://youtu.be/2qI05zYRgbU&list=PLaYT64KWZAEMGwyvYX_fu97_a_Jx__ixX
-functools

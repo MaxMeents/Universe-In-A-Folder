@@ -1,0 +1,40 @@
+
+Search Google for Speed
+https://www.google.com/search?q=Speed
+
+Search Google Images for Speed
+https://www.google.com/search?q=Speed&tbm=isch
+
+Search Google Videos for Speed
+https://www.google.com/search?q=Speed&tbm=vid
+
+Search SoundCloud for Speed
+https://soundcloud.com/search?q=Speed
+
+Search Spotify for Speed
+https://open.spotify.com/search/Speed
+
+Search Wikipedia for Speed
+https://en.wikipedia.org/wiki/Speed
+
+Search YouTube Channels for Speed
+https://www.youtube.com/results?search_query=Speed&sp=EgIQAUAB
+
+Search YouTube for Speed
+https://www.youtube.com/results?search_query=Speed
+
+Search YouTube Less Than 4 Minutes for Speed
+https://www.youtube.com/results?search_query=Speed&sp=EgQQARgB
+
+Search YouTube Playlists for Speed
+https://www.youtube.com/results?search_query=Speed&sp=EgIQA1AB
+
+Search YouTube Relevance for Speed
+https://www.youtube.com/results?search_query=Speed&sp=EgIQAUAB
+
+Search YouTube Upload Date Newest for Speed
+https://www.youtube.com/results?search_query=Speed&sp=CAISAjAB
+
+Search YouTube View Count for Speed
+https://www.youtube.com/results?search_query=Speed&sp=EgJwARgB
+Speed

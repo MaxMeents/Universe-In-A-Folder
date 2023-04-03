@@ -1,4 +1,0 @@
-
-[Unity Tutorial]  First Person Controller Spherical Worlds
-https://youtu.be/TicipSVT-T8&list=PLFt_AvWsXl0c9kJH142ZhQiyM_J_xY28J
-Spherical Gravity Controller

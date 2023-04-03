@@ -1,7 +1,0 @@
-
-An unholy fusion of Rust and C++ in physx-rs (Stockholm Rust Meetup, October 2019)
-https://youtu.be/RxtXGeDHu0w&list=PL85XCvVPmGQi9QpZd3pSvru-CV64JJa7i
-
-Rust, Open Source, Game Dev (Stockholm Rust Meetup, October 2019)
-https://youtu.be/lpOg2nl3kr0&list=PL85XCvVPmGQi9QpZd3pSvru-CV64JJa7i
-Stockholm Rust Meetup

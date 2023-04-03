@@ -1,7 +1,0 @@
-
-Testing React Workshop @ PayPal 2018-09 Part 1
-https://youtu.be/w6KCDFssHFA&list=PLV5CVI1eNcJhU1eyqkTjR0B5P7PzMVubB
-
-Testing React Workshop @ PayPal 2018-09 Part 2
-https://youtu.be/OP2c0gs369U&list=PLV5CVI1eNcJhU1eyqkTjR0B5P7PzMVubB
-Testing React Components @ PayPal 2018-09

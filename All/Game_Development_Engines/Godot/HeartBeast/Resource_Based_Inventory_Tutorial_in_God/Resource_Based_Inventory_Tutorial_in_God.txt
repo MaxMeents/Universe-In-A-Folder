@@ -1,7 +1,0 @@
-
-Resource Based Inventory (P2 Item Stacking) - Godot 3.2 Intermediate Tutorial
-https://youtu.be/l28ui3KfeS0&list=PL9FzW-m48fn0x1k7q7wFR6UQa-Dzt3TTZ
-
-Resource Based Inventory - Godot 3.2 Intermediate Tutorial
-https://youtu.be/rdUgf6r7w2Q&list=PL9FzW-m48fn0x1k7q7wFR6UQa-Dzt3TTZ
-Resource Based Inventory Tutorial in Godot

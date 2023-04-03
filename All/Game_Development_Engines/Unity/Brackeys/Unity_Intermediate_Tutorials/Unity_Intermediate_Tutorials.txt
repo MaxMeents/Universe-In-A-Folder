@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Game_Development_Engines/Unity/Brackeys/Unity_Intermediate_Tutorials/Videos_1-25/Videos_1-25.txt
-
-Videos 26-50
-/All/Game_Development_Engines/Unity/Brackeys/Unity_Intermediate_Tutorials/Videos_26-50/Videos_26-50.txt
-Unity Intermediate Tutorials

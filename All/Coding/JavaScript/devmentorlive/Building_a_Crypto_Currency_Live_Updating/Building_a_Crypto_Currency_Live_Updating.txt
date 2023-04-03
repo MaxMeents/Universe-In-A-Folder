@@ -1,4 +1,0 @@
-
-React Components - Building a Live Updating CryptoCurrency Card Component
-https://youtu.be/3ohRNCa1YaU&list=PL7LIfgWox4lptIqxDmWX0FBrOdVRkmGz2
-Building a Crypto Currency Live Updating Dashboard

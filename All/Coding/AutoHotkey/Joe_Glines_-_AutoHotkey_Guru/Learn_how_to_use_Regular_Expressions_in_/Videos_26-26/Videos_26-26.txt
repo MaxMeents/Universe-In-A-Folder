@@ -1,4 +1,0 @@
-
-How to use RegEx to grab a Unique YouTube ID from a long URL
-https://youtu.be/acjigPbsHbU&list=PL3JprvrxlW24dC_00CUC82oerF30IVpIk
-Videos 26-26

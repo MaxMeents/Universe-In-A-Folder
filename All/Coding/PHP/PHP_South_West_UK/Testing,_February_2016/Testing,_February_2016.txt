@@ -1,7 +1,0 @@
-
-Beyond Unit Testing - Dave Liddament - PHPSW Testing, February 2016
-https://youtu.be/sLNOHGNnbCM&list=PLrEpsyNSHj00BPmVBiCpnkU6rXesN0Izu
-
-The Value Case for Unit Tests - Dan Ackroyd - PHPSW Testing, February 2016
-https://youtu.be/wb7tc0IxkyI&list=PLrEpsyNSHj00BPmVBiCpnkU6rXesN0Izu
-Testing, February 2016

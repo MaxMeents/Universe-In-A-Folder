@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Game_Development_Engines/Godot/HeartBeast/Godot_Engine_Tutorials/Videos_1-25/Videos_1-25.txt
-
-Videos 51-51
-/All/Game_Development_Engines/Godot/HeartBeast/Godot_Engine_Tutorials/Videos_51-51/Videos_51-51.txt
-Godot Engine Tutorials

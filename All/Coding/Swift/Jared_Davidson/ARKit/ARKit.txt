@@ -1,4 +1,0 @@
-
-Make a Portal using ARKit! (Swift 4 in Xcode  SceneKit)
-https://youtu.be/uuxXHAKA1WY&list=PL3MWPU0RhJzEJvFm6GMPpuaNU2TL3eiRQ
-ARKit

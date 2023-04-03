@@ -1,7 +1,0 @@
-
-Game Maker Studio 2  Error - How to handle an error
-https://youtu.be/67EuIVCFVAQ&list=PLhvuXCmibF5ozeAXL0N0cXfcMILuJ-26n
-
-Game Maker Studio 2  Error - Not set before reading it
-https://youtu.be/YJ2PDt4hKlk&list=PLhvuXCmibF5ozeAXL0N0cXfcMILuJ-26n
-Common errors

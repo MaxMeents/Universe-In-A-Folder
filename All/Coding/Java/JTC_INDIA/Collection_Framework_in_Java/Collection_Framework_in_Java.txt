@@ -1,7 +1,0 @@
-
-Introduction to Collection API  Collection Framework  in Java  Part 1 by Som Sir
-https://youtu.be/hr92rs7nkCk&list=PLqjYgbhioRNtN_s6QXbFsoDEHouLw-4fF
-
-Introduction to Collection API  Collection Framework in Java Part 2 by Som Sir
-https://youtu.be/i9tkeDCM5sM&list=PLqjYgbhioRNtN_s6QXbFsoDEHouLw-4fF
-Collection Framework in Java

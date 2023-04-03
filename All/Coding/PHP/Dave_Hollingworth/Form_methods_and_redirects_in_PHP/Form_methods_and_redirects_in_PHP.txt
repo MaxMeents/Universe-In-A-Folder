@@ -1,7 +1,0 @@
-
-Prevent duplicate form submissions using the Post  Redirect  Get pattern
-https://youtu.be/DCC7ufuFD2w&list=PLFbnPuoQkKse76mGLlO0kquZxK0ZDtgur
-
-Redirecting to another page using PHP how, why and best practices
-https://youtu.be/OwmKRznMaO0&list=PLFbnPuoQkKse76mGLlO0kquZxK0ZDtgur
-Form methods and redirects in PHP

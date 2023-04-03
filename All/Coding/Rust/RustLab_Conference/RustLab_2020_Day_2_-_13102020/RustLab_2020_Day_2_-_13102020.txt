@@ -1,4 +1,0 @@
-
-WORKSHOP Create and Deploy your first Rust Web App - Mario Garcia
-https://youtu.be/_EQX9Ju7WgQ&list=PLkgYzo_ZZ7KAN2l_3iranHERfdpfY5jcl
-RustLab 2020 Day 2 - 13102020

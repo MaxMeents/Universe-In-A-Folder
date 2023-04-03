@@ -1,4 +1,0 @@
-
-Python Data Structures  Tuple Operations – Add, Remove, Slice, Concat, Reverse
-https://youtu.be/sChf1IF0hEM&list=PLrKr3rQwMgsjbKxWdamMmhIdRejGSWA0F
-Data Structures in Python

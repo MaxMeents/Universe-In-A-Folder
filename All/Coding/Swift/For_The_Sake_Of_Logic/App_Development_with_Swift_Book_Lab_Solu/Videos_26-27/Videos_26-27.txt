@@ -1,7 +1,0 @@
-
-4.2 - App Anatomy and Life Cycle - Swift 4 - App Development With Swift
-https://youtu.be/99U83Y-8B3M&list=PLepWyYEuKv9uHYYLEsBylODQFw504uMYC
-
-HoloLens 2 AR Headset On Stage Live Demonstration
-https://youtu.be/uIHPPtPBgHk&list=PLepWyYEuKv9uHYYLEsBylODQFw504uMYC
-Videos 26-27

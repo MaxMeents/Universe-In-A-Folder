@@ -1,7 +1,0 @@
-
-wxFormBuilder Sizers - 1 Frame Template
-https://youtu.be/UKnRgQCqTOY&list=PLBBLzLT9U_rSPyEHRT2xNd_5UnWVPx50R
-
-wxFormBuilder Sizers - 2 BoxSizers
-https://youtu.be/4c9KD9-asaQ&list=PLBBLzLT9U_rSPyEHRT2xNd_5UnWVPx50R
-wxPython Sizers Explained

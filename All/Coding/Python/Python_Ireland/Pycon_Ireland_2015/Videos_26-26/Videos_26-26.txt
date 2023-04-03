@@ -1,4 +1,0 @@
-
-Pylint - an overview of the static analysis tool for Python, Claudiu Popa
-https://youtu.be/p1wPOIYt8Ws&list=PLNeBS51Q0m99ud63wiwrPzbp6rwMqYprP
-Videos 26-26

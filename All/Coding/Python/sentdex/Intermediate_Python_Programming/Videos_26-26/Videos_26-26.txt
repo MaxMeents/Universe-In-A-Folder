@@ -1,4 +1,0 @@
-
-Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming p.26
-https://youtu.be/BI0asZuqFXM&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_
-Videos 26-26

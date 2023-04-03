@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Game_Development_Engines/Godot/The_Gem_Dev/GDEVELOP_5_TUTORIAL/Videos_1-25/Videos_1-25.txt
-
-Videos 26-37
-/All/Game_Development_Engines/Godot/The_Gem_Dev/GDEVELOP_5_TUTORIAL/Videos_26-37/Videos_26-37.txt
-GDEVELOP 5 TUTORIAL

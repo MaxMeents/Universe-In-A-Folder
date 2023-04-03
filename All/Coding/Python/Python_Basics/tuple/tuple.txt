@@ -1,4 +1,0 @@
-
-Python Basics Tuple
-https://youtu.be/omFyVqBWfVg&list=PLaYT64KWZAEOAwbh2PLDs1zapfdYLlKmt
-tuple

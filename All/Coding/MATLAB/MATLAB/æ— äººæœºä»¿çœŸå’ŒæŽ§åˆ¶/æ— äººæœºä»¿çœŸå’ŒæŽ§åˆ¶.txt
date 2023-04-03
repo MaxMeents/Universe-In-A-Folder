@@ -1,4 +1,0 @@
-
-Drone Simulation and Control, Part 1 Setting Up the Control Problem
-https://youtu.be/hGcGPUqB67Q&list=PLn8PRpmsu08oH86erdWtQod1kumS1HsUq
-无人机仿真和控制

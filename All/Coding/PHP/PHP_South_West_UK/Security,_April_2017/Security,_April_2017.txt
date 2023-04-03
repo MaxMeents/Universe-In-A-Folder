@@ -1,7 +1,0 @@
-
-OWASP Top 10 Proactive Controls - Katy Anton - PHPSW Security, April 2017
-https://youtu.be/w6FaqL6Sf_M&list=PLrEpsyNSHj031vr9cdn9oF1DUhkBUOeMh
-
-Secure your web application with 2FA - Rob Allen - PHPSW Security, April 2017
-https://youtu.be/6O7JYDDMDOs&list=PLrEpsyNSHj031vr9cdn9oF1DUhkBUOeMh
-Security, April 2017

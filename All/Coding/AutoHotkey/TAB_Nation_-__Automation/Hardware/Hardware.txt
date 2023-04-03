@@ -1,7 +1,0 @@
-
-Breadboards and Circuits - Intro 1 - Light up a LED
-https://youtu.be/nmEn_TnpYjI&list=PLfHPAKSz_DJpV-IMXpq6-nTn2hPhCzPw6
-
-Breadboards and Circuits - Intro 2 - RGB LED
-https://youtu.be/-T2IZnfXHTI&list=PLfHPAKSz_DJpV-IMXpq6-nTn2hPhCzPw6
-Hardware

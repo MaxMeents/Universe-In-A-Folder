@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/Python/sentdex/Graphing_in_Matplotlib_(chart_generation/Videos_1-25/Videos_1-25.txt
-
-Videos 26-30
-/All/Coding/Python/sentdex/Graphing_in_Matplotlib_(chart_generation/Videos_26-30/Videos_26-30.txt
-Graphing in Matplotlib (chart generation) in Python

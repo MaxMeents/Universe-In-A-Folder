@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/JavaScript/JSConf/JSConf_EU_2018/Videos_1-25/Videos_1-25.txt
-
-Videos 26-48
-/All/Coding/JavaScript/JSConf/JSConf_EU_2018/Videos_26-48/Videos_26-48.txt
-JSConf EU 2018

@@ -1,7 +1,0 @@
-
-An Eventful Talk - Dave Liddament - PHPSW Decoupling, October 2016
-https://youtu.be/B_1SlDcnTeQ&list=PLrEpsyNSHj02IvzL6YXBJMqjPCtt7oeay
-
-Solid Structure - Dan Ackroyd - PHPSW Decoupling, October 2016
-https://youtu.be/wLNaw0hmE7o&list=PLrEpsyNSHj02IvzL6YXBJMqjPCtt7oeay
-Decoupling, October 2016

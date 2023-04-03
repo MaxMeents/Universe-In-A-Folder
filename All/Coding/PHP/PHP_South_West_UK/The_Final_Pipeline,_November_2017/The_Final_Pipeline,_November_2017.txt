@@ -1,7 +1,0 @@
-
-PhPipelines in the Wild - Luis Ferro - PHPSW The Final Pipeline, November 2017
-https://youtu.be/xCXHUJ5jECk&list=PLrEpsyNSHj01VovjDiXYu5VrMwp8r1WJT
-
-The Final Word About Final - Stuart Herbert - PHPSW The Final Pipeline, November 2017
-https://youtu.be/6bLPjyBRq8I&list=PLrEpsyNSHj01VovjDiXYu5VrMwp8r1WJT
-The Final Pipeline, November 2017

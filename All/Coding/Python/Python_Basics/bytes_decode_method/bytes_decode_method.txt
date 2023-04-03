@@ -1,7 +1,0 @@
-
-Python Basics Bytes Decode Method
-https://youtu.be/zusNudZDE20&list=PLaYT64KWZAEOUodMC1wQGMkVEn4wC8amg
-
-Python Basics File Write Method Using Urllib
-https://youtu.be/LAo9kK4APfU&list=PLaYT64KWZAEOUodMC1wQGMkVEn4wC8amg
-bytes decode method

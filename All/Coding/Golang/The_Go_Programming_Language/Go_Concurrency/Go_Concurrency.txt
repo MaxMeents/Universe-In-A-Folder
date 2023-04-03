@@ -1,7 +1,0 @@
-
-Deleted video
-https://youtu.be/cN_DpYBzKso&list=PLtLJO5JKE5YBjGkEN3c48hGe4X3lZKKK-
-
-GopherCon 2014 A Channel Compendium by John Graham-Cumming
-https://youtu.be/SmoM1InWXr0&list=PLtLJO5JKE5YBjGkEN3c48hGe4X3lZKKK-
-Go Concurrency

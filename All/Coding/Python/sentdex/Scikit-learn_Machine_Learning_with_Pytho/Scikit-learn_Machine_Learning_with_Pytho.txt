@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/Python/sentdex/Scikit-learn_Machine_Learning_with_Pytho/Videos_1-25/Videos_1-25.txt
-
-Videos 26-28
-/All/Coding/Python/sentdex/Scikit-learn_Machine_Learning_with_Pytho/Videos_26-28/Videos_26-28.txt
-Scikit-learn Machine Learning with Python and SKlearn

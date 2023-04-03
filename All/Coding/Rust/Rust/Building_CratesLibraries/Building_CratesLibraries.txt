@@ -1,7 +1,0 @@
-
-Pascal Hertleif - Writing Idiomatic Libraries in Rust
-https://youtu.be/0zOg8_B71gE&list=PL85XCvVPmGQiafIyJqKC3kO3d-_YHwQFU
-
-RustConf 2017 -  Shipping a Solid Rust Crate by Michael Gattozzi
-https://youtu.be/t4CyEKb-ywA&list=PL85XCvVPmGQiafIyJqKC3kO3d-_YHwQFU
-Building CratesLibraries

@@ -1,4 +1,0 @@
-
-Adding Instant Messaging to a PythonDjango App—How to Approach This
-https://youtu.be/92qc7KMwrj4&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_
-Videos 51-51

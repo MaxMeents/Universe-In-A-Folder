@@ -1,0 +1,196 @@
+
+API development
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/API_development/API_development.txt
+
+API management
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/API_management/API_management.txt
+
+Artificial intelligence
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Artificial_intelligence/Artificial_intelligence.txt
+
+AWS
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/AWS/AWS.txt
+
+Azure
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Azure/Azure.txt
+
+Backup and recovery
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Backup_and_recovery/Backup_and_recovery.txt
+
+Bug management
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Bug_management/Bug_management.txt
+
+Cloud architecture
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Cloud_architecture/Cloud_architecture.txt
+
+Cloud computing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Cloud_computing/Cloud_computing.txt
+
+Cloud governance
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Cloud_governance/Cloud_governance.txt
+
+Cloud migration
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Cloud_migration/Cloud_migration.txt
+
+Cloud security
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Cloud_security/Cloud_security.txt
+
+Cybersecurity
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Cybersecurity/Cybersecurity.txt
+
+Data analysis
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Data_analysis/Data_analysis.txt
+
+Data mining
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Data_mining/Data_mining.txt
+
+Data modeling
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Data_modeling/Data_modeling.txt
+
+Data visualization
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Data_visualization/Data_visualization.txt
+
+Data warehousing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Data_warehousing/Data_warehousing.txt
+
+Database design
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Database_design/Database_design.txt
+
+Database implementation
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Database_implementation/Database_implementation.txt
+
+Database management
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Database_management/Database_management.txt
+
+DevOps
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/DevOps/DevOps.txt
+
+DevSecOps
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/DevSecOps/DevSecOps.txt
+
+Disaster planning
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Disaster_planning/Disaster_planning.txt
+
+Disaster recovery
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Disaster_recovery/Disaster_recovery.txt
+
+Docker
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Docker/Docker.txt
+
+Game development
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Game_development/Game_development.txt
+
+GCP
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/GCP/GCP.txt
+
+Incident response
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Incident_response/Incident_response.txt
+
+Infrastructure management
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Infrastructure_management/Infrastructure_management.txt
+
+Kubernetes
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Kubernetes/Kubernetes.txt
+
+Linux administration
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Linux_administration/Linux_administration.txt
+
+Machine learning
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Machine_learning/Machine_learning.txt
+
+Microservices
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Microservices/Microservices.txt
+
+Mobile development
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Mobile_development/Mobile_development.txt
+
+Network security
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Network_security/Network_security.txt
+
+Networking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Networking/Networking.txt
+
+Penetration testing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Penetration_testing/Penetration_testing.txt
+
+Programming languages
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Programming_languages/Programming_languages.txt
+
+Project management
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Project_management/Project_management.txt
+
+Quality assurance
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Quality_assurance/Quality_assurance.txt
+
+Robotics
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Robotics/Robotics.txt
+
+Server administration
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Server_administration/Server_administration.txt
+
+Software development
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Software_development/Software_development.txt
+
+System administration
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/System_administration/System_administration.txt
+
+System integration
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/System_integration/System_integration.txt
+
+Technical support
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Technical_support/Technical_support.txt
+
+Technical writing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Technical_writing/Technical_writing.txt
+
+Troubleshooting
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Troubleshooting/Troubleshooting.txt
+
+Virtualization
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Virtualization/Virtualization.txt
+
+Web development
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Web_development/Web_development.txt
+
+Windows administration
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Technical_and_IT_Skills/Windows_administration/Windows_administration.txt
+
+Search Google for Technical and IT Skills
+https://www.google.com/search?q=Technical and IT Skills
+
+Search Google Images for Technical and IT Skills
+https://www.google.com/search?q=Technical and IT Skills&tbm=isch
+
+Search Google Videos for Technical and IT Skills
+https://www.google.com/search?q=Technical and IT Skills&tbm=vid
+
+Search SoundCloud for Technical and IT Skills
+https://soundcloud.com/search?q=Technical and IT Skills
+
+Search Spotify for Technical and IT Skills
+https://open.spotify.com/search/Technical and IT Skills
+
+Search Wikipedia for Technical and IT Skills
+https://en.wikipedia.org/wiki/Technical and IT Skills
+
+Search YouTube Channels for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills&sp=EgIQAUAB
+
+Search YouTube for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills
+
+Search YouTube Less Than 4 Minutes for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills&sp=EgQQARgB
+
+Search YouTube Playlists for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills&sp=EgIQA1AB
+
+Search YouTube Relevance for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills&sp=EgIQAUAB
+
+Search YouTube Upload Date Newest for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills&sp=CAISAjAB
+
+Search YouTube View Count for Technical and IT Skills
+https://www.youtube.com/results?search_query=Technical and IT Skills&sp=EgJwARgB
+Technical and IT Skills

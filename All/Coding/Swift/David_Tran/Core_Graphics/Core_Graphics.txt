@@ -1,4 +1,0 @@
-
-Core Graphics Part 1 How to Draw Custom UI Control in iOS with Swift
-https://youtu.be/fmUmmLX4Qfc&list=PLHmNdpdzx21Ehn2DdzTjWisYQy1ZvJ1Ky
-Core Graphics

@@ -1,7 +1,0 @@
-
-Monitoring as a First-Class Citizen - Matthew Macdonald-Wallace - PHPSW Monitoring, May 2019
-https://youtu.be/rdPNZaWx3-4&list=PLrEpsyNSHj00wuvV2YCPWZy1yjRTMj0ZE
-
-Profile with Blackfire.io & monitor a platform at scale - Nick Downton - PHPSW Monitoring, May 2019
-https://youtu.be/pDaU_gmL_uY&list=PLrEpsyNSHj00wuvV2YCPWZy1yjRTMj0ZE
-Monitoring, May 2019

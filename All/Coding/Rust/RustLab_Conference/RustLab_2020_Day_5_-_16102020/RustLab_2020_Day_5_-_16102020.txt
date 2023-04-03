@@ -1,4 +1,0 @@
-
-WORKSHOP Create a web app with Yew and Rocket - Alessandro Pezzato
-https://youtu.be/Fko8GWa6o_g&list=PLkgYzo_ZZ7KALn6nEssaDsk0CuJOXI7QJ
-RustLab 2020 Day 5 - 16102020

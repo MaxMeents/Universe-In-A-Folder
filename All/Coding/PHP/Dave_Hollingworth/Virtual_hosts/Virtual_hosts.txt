@@ -1,7 +1,0 @@
-
-Choose a local web address for the virtual host
-https://youtu.be/L1nN4sGACY0&list=PLFbnPuoQkKseBjkp9HGeYVLilrI2NSvov
-
-Develop multiple websites in the web root using virtual hosts
-https://youtu.be/tL5kxXCXAZ0&list=PLFbnPuoQkKseBjkp9HGeYVLilrI2NSvov
-Virtual hosts

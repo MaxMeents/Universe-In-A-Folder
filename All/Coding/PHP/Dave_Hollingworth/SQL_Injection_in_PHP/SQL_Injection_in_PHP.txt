@@ -1,7 +1,0 @@
-
-Avoid SQL injection attacks in PHP using PDO
-https://youtu.be/R6Kgda_Vj6A&list=PLFbnPuoQkKscEaEk6fcfkmMSmIfk5Ad8B
-
-Understand the danger from SQL injection attacks
-https://youtu.be/EqkDHgQg0xs&list=PLFbnPuoQkKscEaEk6fcfkmMSmIfk5Ad8B
-SQL Injection in PHP

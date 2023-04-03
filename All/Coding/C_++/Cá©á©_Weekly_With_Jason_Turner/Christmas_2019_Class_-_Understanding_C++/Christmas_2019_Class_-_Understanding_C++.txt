@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/Christmas_2019_Class_-_Understanding_C++/Videos_1-25/Videos_1-25.txt
-
-Videos 26-34
-/All/Coding/C_++/Cᐩᐩ_Weekly_With_Jason_Turner/Christmas_2019_Class_-_Understanding_C++/Videos_26-34/Videos_26-34.txt
-Christmas 2019 Class - Understanding C++ Through Lambdas

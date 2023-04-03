@@ -1,4 +1,0 @@
-
-Pavel Novikov - Understanding Coroutines by Example - C++ London
-https://youtu.be/7sKUAyWXNHA&list=PLB8iG1kbmdENnqZYonKGm0wfelOQe6-_5
-C++ London - January 2021

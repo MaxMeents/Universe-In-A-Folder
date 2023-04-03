@@ -1,7 +1,0 @@
-
-Create Web Component with Vanilla JavaScript #02
-https://youtu.be/aQxccPmNhHw
-
-Install Angular 2 with NPM  Create Web Application? #01
-https://youtu.be/jcP0k_gmjAE
-Videos 76-77

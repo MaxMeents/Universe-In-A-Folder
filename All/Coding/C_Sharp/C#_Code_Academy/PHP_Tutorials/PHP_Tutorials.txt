@@ -1,4 +1,0 @@
-
-Implement Google News API  PHP Example
-https://youtu.be/3lPhraiNVcw&list=PLBRjmHe78giWcFD8iFBU4DwnH9tS6Avzs
-PHP Tutorials

@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/Python/sentdex/GUIs_with_Tkinter_(intermediate)/Videos_1-25/Videos_1-25.txt
-
-Videos 26-29
-/All/Coding/Python/sentdex/GUIs_with_Tkinter_(intermediate)/Videos_26-29/Videos_26-29.txt
-GUIs with Tkinter (intermediate)

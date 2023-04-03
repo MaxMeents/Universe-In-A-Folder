@@ -1,7 +1,0 @@
-
-PHP unit testing mock a dependency that doesn't exist yet
-https://youtu.be/WCSzUyOPhuw&list=PLFbnPuoQkKsdNgBl1Om5B5AgF8GlGIpeL
-
-PHP unit testing using Mockery to mock a dependency that doesn't exist yet
-https://youtu.be/Ib1EyfTCDiY&list=PLFbnPuoQkKsdNgBl1Om5B5AgF8GlGIpeL
-Using Mockery for PHP unit testing

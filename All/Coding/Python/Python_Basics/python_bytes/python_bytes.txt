@@ -1,7 +1,0 @@
-
-Python Basics Bytes Object
-https://youtu.be/0w9I1SXf_dI&list=PLaYT64KWZAEM1kYG97KNKdelv-ZxPF1NH
-
-Python Basics File Write Method Using Urllib
-https://youtu.be/LAo9kK4APfU&list=PLaYT64KWZAEM1kYG97KNKdelv-ZxPF1NH
-python bytes

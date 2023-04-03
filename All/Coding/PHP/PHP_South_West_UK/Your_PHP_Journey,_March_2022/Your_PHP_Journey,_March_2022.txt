@@ -1,7 +1,0 @@
-
-AssertTrue(isDecoupled(MyTests)) - Dave Liddament - PHPSW Your PHP Journey, March 2022
-https://youtu.be/Jh-biuz16Lo&list=PLrEpsyNSHj01IQq-W1_4hMd9MD53G2umf
-
-Things you should know about PHP - Oliver Davies - PHPSW Your PHP Journey, March 2022
-https://youtu.be/NH1mVSwCzWs&list=PLrEpsyNSHj01IQq-W1_4hMd9MD53G2umf
-Your PHP Journey, March 2022

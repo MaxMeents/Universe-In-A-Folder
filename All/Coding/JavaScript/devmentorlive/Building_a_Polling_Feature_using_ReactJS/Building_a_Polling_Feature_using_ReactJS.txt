@@ -1,7 +1,0 @@
-
-Let's build a POLL with ReactJS (Part 1)
-https://youtu.be/3vKzqI7NsiU&list=PL7LIfgWox4loxkoNGeTi4dSKiCnsGyOZx
-
-Let's build a POLL with ReactJS (Part 2)
-https://youtu.be/9tFSPjbdDHk&list=PL7LIfgWox4loxkoNGeTi4dSKiCnsGyOZx
-Building a Polling Feature using ReactJS, Websockets, HTMLCSS, and Ruby on Rails (postgres)

@@ -1,7 +1,0 @@
-
-How to deal with tech debt - Lessons learned from 200+ engineering teams - Alex Omeyer
-https://youtu.be/_gNJy0btMpY&list=PLB8iG1kbmdEMKXBbF17GzKWXKx5kXa3VT
-
-The price of dynamic memory in CC++ - Ivica Bogosavljevic
-https://youtu.be/WLmkJ-CLxQM&list=PLB8iG1kbmdEMKXBbF17GzKWXKx5kXa3VT
-C++ London - April 2021

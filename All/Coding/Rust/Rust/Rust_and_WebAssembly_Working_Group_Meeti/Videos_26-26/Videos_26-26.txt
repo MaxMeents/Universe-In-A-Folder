@@ -1,4 +1,0 @@
-
-Rust and WebAssembly Working Group Meeting 2019-07-11
-https://youtu.be/6BaM-pX5ylQ&list=PL85XCvVPmGQjEZGR6k-M7VBG-2OrEqoaI
-Videos 26-26

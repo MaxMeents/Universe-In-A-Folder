@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/Golang/justforfunc_Programming_in_Go/Just_For_Func/Videos_1-25/Videos_1-25.txt
-
-Videos 26-44
-/All/Coding/Golang/justforfunc_Programming_in_Go/Just_For_Func/Videos_26-44/Videos_26-44.txt
-Just For Func

@@ -1,7 +1,0 @@
-
-Dependency Injection for ASP NET Core 6.0 - An UPDATED 2022 Tutorial
-https://youtu.be/9J9a77ga9R0&list=PLSr9CPTtmP9j57tz5m5eAvj0dPSDJOKz5
-
-Use jQuery AJAX in ASP.NET CORE 6  You NEED to see how it´s done!
-https://youtu.be/dXutAlml_xE&list=PLSr9CPTtmP9j57tz5m5eAvj0dPSDJOKz5
-C# 2022 tutorials

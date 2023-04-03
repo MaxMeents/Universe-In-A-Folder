@@ -1,7 +1,0 @@
-
-Analyse de survie pour les taux de conversion - Tristan Boudreault
-https://youtu.be/yxgA8q68zew&list=PLQIcnBElABatJFCoRe62rPJZkNhJgo61k
-
-Data Science at Shopify - Françoise Provencher
-https://youtu.be/I_ZWWkxIRy8&list=PLQIcnBElABatJFCoRe62rPJZkNhJgo61k
-MP-71

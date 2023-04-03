@@ -1,7 +1,0 @@
-
-Charting Stocks Part 26 - Using Yahoo's API for our stock price technical analysis in matplotlib
-https://youtu.be/u83WllUCLOc&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
-
-Charting StocksForex for Technical Analysis Part 27 - Adding texts and Annotations to Matplotlib
-https://youtu.be/1A0GMyjJ5V8&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ
-Videos 26-27

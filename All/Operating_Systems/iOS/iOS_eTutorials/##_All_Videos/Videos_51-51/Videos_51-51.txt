@@ -1,4 +1,0 @@
-
-iOS TableView Basics Objective-C
-https://youtu.be/lbelYsPgdZI
-Videos 51-51

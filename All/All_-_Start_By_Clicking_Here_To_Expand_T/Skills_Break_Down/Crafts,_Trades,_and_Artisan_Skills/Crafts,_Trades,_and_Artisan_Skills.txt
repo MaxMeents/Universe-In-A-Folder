@@ -1,0 +1,190 @@
+
+Animation
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Animation/Animation.txt
+
+Basketry
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Basketry/Basketry.txt
+
+Blacksmithing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Blacksmithing/Blacksmithing.txt
+
+Bookbinding
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Bookbinding/Bookbinding.txt
+
+Cabinet making
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Cabinet_making/Cabinet_making.txt
+
+Calligraphy
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Calligraphy/Calligraphy.txt
+
+Carpentry
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Carpentry/Carpentry.txt
+
+Carving
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Carving/Carving.txt
+
+Ceramics
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Ceramics/Ceramics.txt
+
+Cooking_baking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Cooking_baking/Cooking_baking.txt
+
+Cooperage
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Cooperage/Cooperage.txt
+
+Crocheting
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Crocheting/Crocheting.txt
+
+Drawing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Drawing/Drawing.txt
+
+Dressmaking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Dressmaking/Dressmaking.txt
+
+Embroidery
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Embroidery/Embroidery.txt
+
+Enameling
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Enameling/Enameling.txt
+
+Engraving
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Engraving/Engraving.txt
+
+Etching
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Etching/Etching.txt
+
+Filmmaking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Filmmaking/Filmmaking.txt
+
+Furniture making
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Furniture_making/Furniture_making.txt
+
+Game design
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Game_design/Game_design.txt
+
+Glassblowing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Glassblowing/Glassblowing.txt
+
+Goldsmithing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Goldsmithing/Goldsmithing.txt
+
+Graphic design
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Graphic_design/Graphic_design.txt
+
+Gunsmithing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Gunsmithing/Gunsmithing.txt
+
+Jewelry making
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Jewelry_making/Jewelry_making.txt
+
+Joinery
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Joinery/Joinery.txt
+
+Knitting
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Knitting/Knitting.txt
+
+Leatherworking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Leatherworking/Leatherworking.txt
+
+Machining
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Machining/Machining.txt
+
+Metalworking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Metalworking/Metalworking.txt
+
+Mosaic
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Mosaic/Mosaic.txt
+
+Music production
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Music_production/Music_production.txt
+
+Painting
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Painting/Painting.txt
+
+Photography
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Photography/Photography.txt
+
+Pottery
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Pottery/Pottery.txt
+
+Printmaking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Printmaking/Printmaking.txt
+
+Sculpture
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Sculpture/Sculpture.txt
+
+Shoemaking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Shoemaking/Shoemaking.txt
+
+Silversmithing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Silversmithing/Silversmithing.txt
+
+Spinning
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Spinning/Spinning.txt
+
+Stained glass
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Stained_glass/Stained_glass.txt
+
+Tailoring
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Tailoring/Tailoring.txt
+
+Tool making
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Tool_making/Tool_making.txt
+
+Turning
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Turning/Turning.txt
+
+Weaving
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Weaving/Weaving.txt
+
+Web design
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Web_design/Web_design.txt
+
+Welding
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Welding/Welding.txt
+
+Wood finishing
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Wood_finishing/Wood_finishing.txt
+
+Woodworking
+/All/All_-_Start_By_Clicking_Here_To_Expand_T/Skills_Break_Down/Crafts,_Trades,_and_Artisan_Skills/Woodworking/Woodworking.txt
+
+Search Google for Crafts, Trades, and Artisan Skills
+https://www.google.com/search?q=Crafts, Trades, and Artisan Skills
+
+Search Google Images for Crafts, Trades, and Artisan Skills
+https://www.google.com/search?q=Crafts, Trades, and Artisan Skills&tbm=isch
+
+Search Google Videos for Crafts, Trades, and Artisan Skills
+https://www.google.com/search?q=Crafts, Trades, and Artisan Skills&tbm=vid
+
+Search SoundCloud for Crafts, Trades, and Artisan Skills
+https://soundcloud.com/search?q=Crafts, Trades, and Artisan Skills
+
+Search Spotify for Crafts, Trades, and Artisan Skills
+https://open.spotify.com/search/Crafts, Trades, and Artisan Skills
+
+Search Wikipedia for Crafts, Trades, and Artisan Skills
+https://en.wikipedia.org/wiki/Crafts, Trades, and Artisan Skills
+
+Search YouTube Channels for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills&sp=EgIQAUAB
+
+Search YouTube for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills
+
+Search YouTube Less Than 4 Minutes for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills&sp=EgQQARgB
+
+Search YouTube Playlists for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills&sp=EgIQA1AB
+
+Search YouTube Relevance for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills&sp=EgIQAUAB
+
+Search YouTube Upload Date Newest for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills&sp=CAISAjAB
+
+Search YouTube View Count for Crafts, Trades, and Artisan Skills
+https://www.youtube.com/results?search_query=Crafts, Trades, and Artisan Skills&sp=EgJwARgB
+Crafts, Trades, and Artisan Skills

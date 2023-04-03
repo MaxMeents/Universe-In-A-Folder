@@ -1,4 +1,0 @@
-
-Building APIs in Laravel - Steve McDougall - PHPSW Building APIs in Laravel, March 2021
-https://youtu.be/sm9BZbztvEc&list=PLrEpsyNSHj01TQua_gHE6R3Kia-A8wuUz
-Building APIs in Laravel, March 2021

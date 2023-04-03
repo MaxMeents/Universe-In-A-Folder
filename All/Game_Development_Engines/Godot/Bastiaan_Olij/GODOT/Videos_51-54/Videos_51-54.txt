@@ -1,7 +1,0 @@
-
-Godot VR Weapons tutorial Part 7 teaser
-https://youtu.be/XG9uoIZcAzU&list=PLe63S5Eft1KZWYPund35Bw7bNqIa8bQ7y
-
-Introduction into Godot 3D Physics part 3
-https://youtu.be/z-f5NEt9AXo&list=PLe63S5Eft1KZWYPund35Bw7bNqIa8bQ7y
-Videos 51-54

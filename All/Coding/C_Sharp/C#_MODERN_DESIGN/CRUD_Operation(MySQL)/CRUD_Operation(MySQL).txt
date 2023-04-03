@@ -1,4 +1,0 @@
-
-MySQL database WinForms CRUD Demo. (CREATE,READ,SELECT,UPDATE,DELETE)  C#
-https://youtu.be/NrJiEjzyhYc&list=PLD4yJgnADM0rJrxR3nL9U1bmpWOzv12Zp
-CRUD Operation(MySQL)

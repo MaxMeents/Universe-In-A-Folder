@@ -1,7 +1,0 @@
-
-Designing Chat UI Using SwiftUI - Stylish Chat UI Using SwiftUI - Chat App Design Using SwiftUI.
-https://youtu.be/vqihVpAa5Lc&list=PLimqJDzPI-H8tEUrS1xPA28hO5r6KIgtg
-
-Designing Chat UI Using SwiftUI Ep2 - Stylish Chat UI Using SwiftUI - Chat App Design Using SwiftUI.
-https://youtu.be/hLQzCc_tO_I&list=PLimqJDzPI-H8tEUrS1xPA28hO5r6KIgtg
-Chat UI Using SwiftUI

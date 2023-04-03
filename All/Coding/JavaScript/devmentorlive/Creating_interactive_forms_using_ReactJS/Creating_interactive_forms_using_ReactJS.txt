@@ -1,7 +1,0 @@
-
-React Form Controls - Building a Password Input wStrength Indicator
-https://youtu.be/HOkasXlLkGc&list=PL7LIfgWox4loOGQnEYJJnC_0sCCu67OZo
-
-React Form Controls - Creating an Email Input Component
-https://youtu.be/gUSVEspVUKU&list=PL7LIfgWox4loOGQnEYJJnC_0sCCu67OZo
-Creating interactive forms using ReactJS

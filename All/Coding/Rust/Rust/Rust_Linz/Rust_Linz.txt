@@ -1,7 +1,0 @@
-
-Videos 1-25
-/All/Coding/Rust/Rust/Rust_Linz/Videos_1-25/Videos_1-25.txt
-
-Videos 26-42
-/All/Coding/Rust/Rust/Rust_Linz/Videos_26-42/Videos_26-42.txt
-Rust Linz

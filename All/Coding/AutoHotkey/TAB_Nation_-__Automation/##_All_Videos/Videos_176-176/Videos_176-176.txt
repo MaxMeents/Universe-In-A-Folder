@@ -1,4 +1,0 @@
-
-Simple AutoHotkey to Chrome Part 1 - No Selenium, no debug mode, AutoControl.
-https://youtu.be/gr4z0Xw8W2g
-Videos 176-176

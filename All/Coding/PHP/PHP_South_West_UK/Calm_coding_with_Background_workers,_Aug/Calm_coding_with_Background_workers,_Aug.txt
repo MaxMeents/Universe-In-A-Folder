@@ -1,4 +1,0 @@
-
-The Benefits of Background Workers - Dan Ackroyd - PHPSW August 2019
-https://youtu.be/nMd06RHsan0&list=PLrEpsyNSHj00li9Ve3cGk6jhQkryW5XRN
-Calm coding with Background workers, August 2019

@@ -1,7 +1,0 @@
-
-Effective Code Review - Dave Liddament - PHPSW Code Review & PWAs, April 2018
-https://youtu.be/OBqlv8HV1Wg&list=PLrEpsyNSHj00agqUa_BaYiuKMOOSVV0H-
-
-Progressive Web Apps - Mike Oram - PHPSW Code Review & PWAs, April 2018
-https://youtu.be/YoH-lyEMX4w&list=PLrEpsyNSHj00agqUa_BaYiuKMOOSVV0H-
-Code Review & PWAs, April 2018

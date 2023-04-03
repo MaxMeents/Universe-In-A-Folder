@@ -1,7 +1,0 @@
-
-BASICS OF MATRIX IN MATLAB
-https://youtu.be/fgtVU5egQp0
-
-OPERATIONS ON MATRICES IN MATLAB
-https://youtu.be/zt8B9l-73Lw
-Videos 26-27

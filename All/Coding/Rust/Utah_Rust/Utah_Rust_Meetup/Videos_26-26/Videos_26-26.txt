@@ -1,4 +1,0 @@
-
-How to start hacking in Rust - July 19, 2018 - Utah Rust
-https://youtu.be/UloeOWq6yso&list=PLDWmoWFf46gj-rg6Tk4O2J7eoP2zghNbq
-Videos 26-26

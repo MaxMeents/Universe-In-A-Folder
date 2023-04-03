@@ -1,7 +1,0 @@
-
-REST no more, use an actor and (Lego and Raspberry Pi’s ) by Johan Janssen & Willem Meints
-https://youtu.be/T2MqpgzDiF8&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
-
-The First IoT JSR Units of Measurement by Werner KeilMohamed TamanOtávio Santana
-https://youtu.be/AGLX-HlPHrc&list=PLRsbF2sD7JVrnrqNopuT9GnkOSbFKtRvb
-Videos 176-177

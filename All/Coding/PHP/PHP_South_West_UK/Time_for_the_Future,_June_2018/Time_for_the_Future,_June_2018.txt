@@ -1,7 +1,0 @@
-
-Build your own Neural Network, with PHP! - Vítor Brandão - PHPSW Time for the Future , June 2018
-https://youtu.be/c-w7VQTuxdw&list=PLrEpsyNSHj023bHOY5uI9hQnPdzTubNDu
-
-Time Zones and Calendars are a PITA - Derick Rethans - PHPSW Time for the Future , June 2018
-https://youtu.be/HDNDjCa2OWk&list=PLrEpsyNSHj023bHOY5uI9hQnPdzTubNDu
-Time for the Future, June 2018

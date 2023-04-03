@@ -1,7 +1,0 @@
-
-'tag_invoke' - An Actually Good Way to Do Customization Points - Gašper Ažman
-https://youtu.be/T_bijOA1jts&list=PLB8iG1kbmdEPPcPMHrtA9Jz3Sm3ls8O1-
-
-How To Improve Exception Throwing
-https://youtu.be/euMWIcTrwQQ&list=PLB8iG1kbmdEPPcPMHrtA9Jz3Sm3ls8O1-
-C++ London - June 2020

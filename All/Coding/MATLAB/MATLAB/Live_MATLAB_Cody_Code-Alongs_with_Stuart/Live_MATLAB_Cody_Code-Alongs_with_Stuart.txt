@@ -1,7 +1,0 @@
-
-Use a Timetable to Analyze a Train Timetable Part 1 - MATLAB Live - Code-Along with Stuart McGarrity
-https://youtu.be/rXCRhNQSfZU&list=PLn8PRpmsu08oBk0ffl0k3hpD-oO_Hu7ra
-
-When Was That Goal Scored -  MATLAB Live - Code-Along with Stuart McGarrity
-https://youtu.be/UasE9scS4oU&list=PLn8PRpmsu08oBk0ffl0k3hpD-oO_Hu7ra
-Live MATLAB Cody Code-Alongs with Stuart McGarrity

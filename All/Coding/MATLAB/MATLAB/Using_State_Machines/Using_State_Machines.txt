@@ -1,7 +1,0 @@
-
-Using State Machines, Part 1 Supervisory Control
-https://youtu.be/_dv_M2IEBPI&list=PLn8PRpmsu08onRqpZP-yQFwhTDznTlYPA
-
-Using State Machines, Part 2 Fault Management
-https://youtu.be/KrSsAAbup_c&list=PLn8PRpmsu08onRqpZP-yQFwhTDznTlYPA
-Using State Machines
